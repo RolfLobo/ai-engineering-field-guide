@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="476" viewBox="0 0 760 476" role="img">
+<text x="12" y="22" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#1a1a1a">Top companies by number of postings</text>
+<text x="242" y="55" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Capital One</text>
+<rect x="250" y="40" width="410.0" height="20" fill="#4e79a7" rx="2"/>
+<text x="666.0" y="55" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">120</text>
+<text x="242" y="83" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Citi</text>
+<rect x="250" y="68" width="334.8" height="20" fill="#f28e2b" rx="2"/>
+<text x="590.8" y="83" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">98</text>
+<text x="242" y="111" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Optum</text>
+<rect x="250" y="96" width="307.5" height="20" fill="#e15759" rx="2"/>
+<text x="563.5" y="111" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">90</text>
+<text x="242" y="139" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">NVIDIA</text>
+<rect x="250" y="124" width="215.2" height="20" fill="#76b7b2" rx="2"/>
+<text x="471.2" y="139" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">63</text>
+<text x="242" y="167" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">BJAK</text>
+<rect x="250" y="152" width="177.7" height="20" fill="#59a14f" rx="2"/>
+<text x="433.7" y="167" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">52</text>
+<text x="242" y="195" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Thomson Reuters</text>
+<rect x="250" y="180" width="167.4" height="20" fill="#edc948" rx="2"/>
+<text x="423.4" y="195" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">49</text>
+<text x="242" y="223" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Hewlett Packard Enterprise</text>
+<rect x="250" y="208" width="153.8" height="20" fill="#b07aa1" rx="2"/>
+<text x="409.8" y="223" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">45</text>
+<text x="242" y="251" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Wells Fargo</text>
+<rect x="250" y="236" width="146.9" height="20" fill="#ff9da7" rx="2"/>
+<text x="402.9" y="251" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">43</text>
+<text x="242" y="279" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Jack &amp; Jill AI</text>
+<rect x="250" y="264" width="133.2" height="20" fill="#9c755f" rx="2"/>
+<text x="389.2" y="279" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">39</text>
+<text x="242" y="307" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">NextHire Consulting</text>
+<rect x="250" y="292" width="133.2" height="20" fill="#bab0ac" rx="2"/>
+<text x="389.2" y="307" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">39</text>
+<text x="242" y="335" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Wolters Kluwer</text>
+<rect x="250" y="320" width="129.8" height="20" fill="#86bcb6" rx="2"/>
+<text x="385.8" y="335" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">38</text>
+<text x="242" y="363" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">G2i</text>
+<rect x="250" y="348" width="126.4" height="20" fill="#d37295" rx="2"/>
+<text x="382.4" y="363" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">37</text>
+<text x="242" y="391" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">JPMorganChase</text>
+<rect x="250" y="376" width="116.2" height="20" fill="#fabfd2" rx="2"/>
+<text x="372.2" y="391" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">34</text>
+<text x="242" y="419" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">PwC</text>
+<rect x="250" y="404" width="109.3" height="20" fill="#b6992d" rx="2"/>
+<text x="365.3" y="419" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">32</text>
+<text x="242" y="447" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">BlackRock</text>
+<rect x="250" y="432" width="102.5" height="20" fill="#4e79a7" rx="2"/>
+<text x="358.5" y="447" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">30</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="476" viewBox="0 0 760 476" role="img">
+<text x="12" y="22" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#1a1a1a">Postings by location (city level, top 15)</text>
+<text x="242" y="55" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Bengaluru</text>
+<rect x="250" y="40" width="410.0" height="20" fill="#4e79a7" rx="2"/>
+<text x="666.0" y="55" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">941</text>
+<text x="242" y="83" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">New York</text>
+<rect x="250" y="68" width="348.1" height="20" fill="#f28e2b" rx="2"/>
+<text x="604.1" y="83" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">799</text>
+<text x="242" y="111" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">London</text>
+<rect x="250" y="96" width="222.6" height="20" fill="#e15759" rx="2"/>
+<text x="478.6" y="111" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">511</text>
+<text x="242" y="139" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Pune</text>
+<rect x="250" y="124" width="152.9" height="20" fill="#76b7b2" rx="2"/>
+<text x="408.9" y="139" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">351</text>
+<text x="242" y="167" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Hyderabad</text>
+<rect x="250" y="152" width="138.1" height="20" fill="#59a14f" rx="2"/>
+<text x="394.1" y="167" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">317</text>
+<text x="242" y="195" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Berlin</text>
+<rect x="250" y="180" width="81.0" height="20" fill="#edc948" rx="2"/>
+<text x="337.0" y="195" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">186</text>
+<text x="242" y="223" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Chennai</text>
+<rect x="250" y="208" width="73.2" height="20" fill="#b07aa1" rx="2"/>
+<text x="329.2" y="223" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">168</text>
+<text x="242" y="251" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Gurugram</text>
+<rect x="250" y="236" width="57.1" height="20" fill="#ff9da7" rx="2"/>
+<text x="313.1" y="251" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">131</text>
+<text x="242" y="279" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Los Angeles</text>
+<rect x="250" y="264" width="55.8" height="20" fill="#9c755f" rx="2"/>
+<text x="311.8" y="279" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">128</text>
+<text x="242" y="307" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">McLean</text>
+<rect x="250" y="292" width="48.8" height="20" fill="#bab0ac" rx="2"/>
+<text x="304.8" y="307" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">112</text>
+<text x="242" y="335" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Mumbai</text>
+<rect x="250" y="320" width="48.4" height="20" fill="#86bcb6" rx="2"/>
+<text x="304.4" y="335" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">111</text>
+<text x="242" y="363" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Noida</text>
+<rect x="250" y="348" width="32.2" height="20" fill="#d37295" rx="2"/>
+<text x="288.2" y="363" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">74</text>
+<text x="242" y="391" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Amsterdam</text>
+<rect x="250" y="376" width="31.4" height="20" fill="#fabfd2" rx="2"/>
+<text x="287.4" y="391" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">72</text>
+<text x="242" y="419" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Austin</text>
+<rect x="250" y="404" width="15.2" height="20" fill="#b6992d" rx="2"/>
+<text x="271.2" y="419" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">35</text>
+<text x="242" y="447" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Ahmedabad</text>
+<rect x="250" y="432" width="13.1" height="20" fill="#4e79a7" rx="2"/>
+<text x="269.1" y="447" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">30</text>
+</svg>

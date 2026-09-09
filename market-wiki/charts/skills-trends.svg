@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="340" viewBox="0 0 820 340" role="img">
+<text x="12" y="22" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#1a1a1a">Skill trends by scrape - share of that scrape's postings</text>
+<line x1="60" y1="294.0" x2="620" y2="294.0" stroke="#ddd" stroke-width="1"/>
+<text x="54" y="298.0" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">0</text>
+<line x1="60" y1="230.5" x2="620" y2="230.5" stroke="#ddd" stroke-width="1"/>
+<text x="54" y="234.5" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">19</text>
+<line x1="60" y1="167.0" x2="620" y2="167.0" stroke="#ddd" stroke-width="1"/>
+<text x="54" y="171.0" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">38</text>
+<line x1="60" y1="103.5" x2="620" y2="103.5" stroke="#ddd" stroke-width="1"/>
+<text x="54" y="107.5" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">57</text>
+<line x1="60" y1="40.0" x2="620" y2="40.0" stroke="#ddd" stroke-width="1"/>
+<text x="54" y="44.0" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">76</text>
+<text x="60.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Feb 4</text>
+<text x="140.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Feb 27</text>
+<text x="220.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Mar 27</text>
+<text x="300.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Apr 22</text>
+<text x="380.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">May 29</text>
+<text x="460.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Jun 25</text>
+<text x="540.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Jul 22</text>
+<text x="620.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Aug 25</text>
+<text x="12" y="332" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">% of postings (share within each month)</text>
+<path d="M60.0,73.1 L140.0,98.4 L220.0,83.8 L300.0,85.9 L380.0,80.0 L460.0,77.8 L540.0,87.2 L620.0,98.4" fill="none" stroke="#4e79a7" stroke-width="2"/>
+<circle cx="620.0" cy="98.4" r="3" fill="#4e79a7"/>
+<path d="M60.0,160.1 L140.0,165.3 L220.0,157.5 L300.0,145.4 L380.0,153.0 L460.0,140.2 L540.0,135.3 L620.0,174.3" fill="none" stroke="#f28e2b" stroke-width="2"/>
+<circle cx="620.0" cy="174.3" r="3" fill="#f28e2b"/>
+<path d="M60.0,184.3 L140.0,159.1 L220.0,157.5 L300.0,169.2 L380.0,166.8 L460.0,154.1 L540.0,152.7 L620.0,149.7" fill="none" stroke="#e15759" stroke-width="2"/>
+<circle cx="620.0" cy="149.7" r="3" fill="#e15759"/>
+<path d="M60.0,206.7 L140.0,189.9 L220.0,173.2 L300.0,176.0 L380.0,181.7 L460.0,167.3 L540.0,170.9 L620.0,163.7" fill="none" stroke="#76b7b2" stroke-width="2"/>
+<circle cx="620.0" cy="163.7" r="3" fill="#76b7b2"/>
+<path d="M60.0,220.5 L140.0,213.7 L220.0,194.3 L300.0,193.6 L380.0,189.4 L460.0,189.8 L540.0,199.7 L620.0,153.8" fill="none" stroke="#59a14f" stroke-width="2"/>
+<circle cx="620.0" cy="153.8" r="3" fill="#59a14f"/>
+<path d="M60.0,197.4 L140.0,173.0 L220.0,180.1 L300.0,183.2 L380.0,211.9 L460.0,191.7 L540.0,196.9 L620.0,211.5" fill="none" stroke="#edc948" stroke-width="2"/>
+<circle cx="620.0" cy="211.5" r="3" fill="#edc948"/>
+<path d="M60.0,237.7 L140.0,213.7 L220.0,211.5 L300.0,222.0 L380.0,226.8 L460.0,219.9 L540.0,218.2 L620.0,215.0" fill="none" stroke="#b07aa1" stroke-width="2"/>
+<circle cx="620.0" cy="215.0" r="3" fill="#b07aa1"/>
+<path d="M60.0,224.6 L140.0,222.5 L220.0,224.3 L300.0,234.5 L380.0,229.7 L460.0,242.1 L540.0,240.7 L620.0,242.9" fill="none" stroke="#ff9da7" stroke-width="2"/>
+<circle cx="620.0" cy="242.9" r="3" fill="#ff9da7"/>
+<path d="M60.0,236.9 L140.0,233.7 L220.0,229.7 L300.0,244.3 L380.0,245.7 L460.0,244.7 L540.0,246.2 L620.0,251.6" fill="none" stroke="#9c755f" stroke-width="2"/>
+<circle cx="620.0" cy="251.6" r="3" fill="#9c755f"/>
+<text x="628.0" y="102.4" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#4e79a7">LLMs</text>
+<text x="628.0" y="153.7" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#e15759">RAG</text>
+<text x="628.0" y="166.7" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#59a14f">Agentic Workflows</text>
+<text x="628.0" y="179.7" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#76b7b2">Prompt Engineering</text>
+<text x="628.0" y="192.7" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#f28e2b">AI Agents</text>
+<text x="628.0" y="215.5" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#edc948">Generative AI</text>
+<text x="628.0" y="228.5" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#b07aa1">LangChain</text>
+<text x="628.0" y="246.9" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#ff9da7">PyTorch</text>
+<text x="628.0" y="259.9" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#9c755f">Fine-Tuning</text>
+</svg>

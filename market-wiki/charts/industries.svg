@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="392" viewBox="0 0 760 392" role="img">
+<text x="12" y="22" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#1a1a1a">Industries - share of all postings (keyword-classified)</text>
+<text x="242" y="55" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">software and SaaS</text>
+<rect x="250" y="40" width="410.0" height="20" fill="#4e79a7" rx="2"/>
+<text x="666.0" y="55" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">34.4% (2,396)</text>
+<text x="242" y="83" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">finance</text>
+<rect x="250" y="68" width="244.5" height="20" fill="#f28e2b" rx="2"/>
+<text x="500.5" y="83" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">20.5% (1,429)</text>
+<text x="242" y="111" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">healthcare</text>
+<rect x="250" y="96" width="111.1" height="20" fill="#e15759" rx="2"/>
+<text x="367.1" y="111" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">9.3% (649)</text>
+<text x="242" y="139" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">media and advertising</text>
+<rect x="250" y="124" width="44.5" height="20" fill="#76b7b2" rx="2"/>
+<text x="300.5" y="139" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">3.7% (260)</text>
+<text x="242" y="167" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">logistics and mobility</text>
+<rect x="250" y="152" width="39.4" height="20" fill="#59a14f" rx="2"/>
+<text x="295.4" y="167" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">3.3% (230)</text>
+<text x="242" y="195" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">e-commerce and retail</text>
+<rect x="250" y="180" width="31.0" height="20" fill="#edc948" rx="2"/>
+<text x="287.0" y="195" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">2.6% (181)</text>
+<text x="242" y="223" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">cybersecurity</text>
+<rect x="250" y="208" width="29.3" height="20" fill="#b07aa1" rx="2"/>
+<text x="285.3" y="223" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">2.5% (171)</text>
+<text x="242" y="251" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">government and defense</text>
+<rect x="250" y="236" width="23.4" height="20" fill="#ff9da7" rx="2"/>
+<text x="279.4" y="251" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">2.0% (137)</text>
+<text x="242" y="279" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">legal</text>
+<rect x="250" y="264" width="23.1" height="20" fill="#9c755f" rx="2"/>
+<text x="279.1" y="279" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">1.9% (135)</text>
+<text x="242" y="307" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">education</text>
+<rect x="250" y="292" width="12.8" height="20" fill="#bab0ac" rx="2"/>
+<text x="268.8" y="307" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">1.1% (75)</text>
+<text x="242" y="335" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">energy and utilities</text>
+<rect x="250" y="320" width="10.8" height="20" fill="#86bcb6" rx="2"/>
+<text x="266.8" y="335" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">0.9% (63)</text>
+<text x="242" y="363" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">hr and recruiting</text>
+<rect x="250" y="348" width="9.8" height="20" fill="#d37295" rx="2"/>
+<text x="265.8" y="363" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">0.8% (57)</text>
+</svg>

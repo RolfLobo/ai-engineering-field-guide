@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="336" viewBox="0 0 760 336" role="img">
+<text x="12" y="22" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#1a1a1a">Languages - share of all postings</text>
+<text x="242" y="55" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Python</text>
+<rect x="250" y="40" width="410.0" height="20" fill="#4e79a7" rx="2"/>
+<text x="666.0" y="55" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">70.8% (4,930)</text>
+<text x="242" y="83" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">TypeScript</text>
+<rect x="250" y="68" width="111.9" height="20" fill="#f28e2b" rx="2"/>
+<text x="367.9" y="83" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">19.3% (1,345)</text>
+<text x="242" y="111" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Java</text>
+<rect x="250" y="96" width="102.3" height="20" fill="#e15759" rx="2"/>
+<text x="358.3" y="111" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">17.7% (1,230)</text>
+<text x="242" y="139" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">SQL</text>
+<rect x="250" y="124" width="83.2" height="20" fill="#76b7b2" rx="2"/>
+<text x="339.2" y="139" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">14.4% (1,000)</text>
+<text x="242" y="167" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">JavaScript</text>
+<rect x="250" y="152" width="66.9" height="20" fill="#59a14f" rx="2"/>
+<text x="322.9" y="167" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">11.6% (805)</text>
+<text x="242" y="195" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Go</text>
+<rect x="250" y="180" width="66.6" height="20" fill="#edc948" rx="2"/>
+<text x="322.6" y="195" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">11.5% (801)</text>
+<text x="242" y="223" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">C++</text>
+<rect x="250" y="208" width="41.6" height="20" fill="#b07aa1" rx="2"/>
+<text x="297.6" y="223" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">7.2% (500)</text>
+<text x="242" y="251" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">C#</text>
+<rect x="250" y="236" width="36.8" height="20" fill="#ff9da7" rx="2"/>
+<text x="292.8" y="251" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">6.4% (443)</text>
+<text x="242" y="279" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Node.js</text>
+<rect x="250" y="264" width="35.9" height="20" fill="#9c755f" rx="2"/>
+<text x="291.9" y="279" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">6.2% (432)</text>
+<text x="242" y="307" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Scala</text>
+<rect x="250" y="292" width="19.6" height="20" fill="#bab0ac" rx="2"/>
+<text x="275.6" y="307" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">3.4% (236)</text>
+</svg>

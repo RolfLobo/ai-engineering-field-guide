@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="340" viewBox="0 0 820 340" role="img">
+<text x="12" y="22" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#1a1a1a">AI type share by scrape</text>
+<line x1="60" y1="294.0" x2="620" y2="294.0" stroke="#ddd" stroke-width="1"/>
+<text x="54" y="298.0" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">0</text>
+<line x1="60" y1="230.5" x2="620" y2="230.5" stroke="#ddd" stroke-width="1"/>
+<text x="54" y="234.5" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">21</text>
+<line x1="60" y1="167.0" x2="620" y2="167.0" stroke="#ddd" stroke-width="1"/>
+<text x="54" y="171.0" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">41</text>
+<line x1="60" y1="103.5" x2="620" y2="103.5" stroke="#ddd" stroke-width="1"/>
+<text x="54" y="107.5" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">62</text>
+<line x1="60" y1="40.0" x2="620" y2="40.0" stroke="#ddd" stroke-width="1"/>
+<text x="54" y="44.0" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">82</text>
+<text x="60.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Feb 4</text>
+<text x="140.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Feb 27</text>
+<text x="220.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Mar 27</text>
+<text x="300.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Apr 22</text>
+<text x="380.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">May 29</text>
+<text x="460.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Jun 25</text>
+<text x="540.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Jul 22</text>
+<text x="620.0" y="316" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">Aug 25</text>
+<text x="12" y="332" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#666">% of postings (share within each month)</text>
+<path d="M60.0,73.1 L140.0,83.6 L220.0,73.7 L300.0,79.0 L380.0,80.2 L460.0,75.6 L540.0,80.1 L620.0,77.1" fill="none" stroke="#4e79a7" stroke-width="2"/>
+<circle cx="620.0" cy="77.1" r="3" fill="#4e79a7"/>
+<path d="M60.0,225.3 L140.0,215.8 L220.0,220.0 L300.0,217.9 L380.0,218.4 L460.0,216.1 L540.0,216.6 L620.0,222.5" fill="none" stroke="#f28e2b" stroke-width="2"/>
+<circle cx="620.0" cy="222.5" r="3" fill="#f28e2b"/>
+<path d="M60.0,275.7 L140.0,274.8 L220.0,280.4 L300.0,278.7 L380.0,280.2 L460.0,282.5 L540.0,280.9 L620.0,278.6" fill="none" stroke="#e15759" stroke-width="2"/>
+<circle cx="620.0" cy="278.6" r="3" fill="#e15759"/>
+<text x="628.0" y="81.1" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#4e79a7">ai-first</text>
+<text x="628.0" y="226.5" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#f28e2b">ai-support</text>
+<text x="628.0" y="282.6" font-family="Helvetica,Arial,sans-serif" font-size="11" fill="#e15759">ml-first</text>
+</svg>
