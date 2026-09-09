@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Built In job listing scraper using requests + Oxylabs proxy.
+Built In job listing scraper using requests + DataImpulse proxy
+(same proxy as the fetch-youtube skill, Oxylabs fallback).
 No Playwright/browser automation needed.
 
 Scrapes all 5 Built In locations, saves per-location JSONs with date stamp,
 then combines into a single CSV.
 """
-import os
 import sys
 import csv
 import json
@@ -20,15 +20,13 @@ import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 
+from proxy_config import get_requests_proxies, proxy_provider
+
 if sys.stdout.encoding != "utf-8":
     import io
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
 load_dotenv()
-
-OXYLABS_ENDPOINT = os.getenv("OXYLABS_ENDPOINT", "pr.oxylabs.io:7777")
-OXYLABS_USER = os.getenv("OXYLABS_USER")
-OXYLABS_PASSWORD = os.getenv("OXYLABS_PASSWORD")
 
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent  # _internal/
@@ -72,10 +70,8 @@ CSV_FIELDS = ["title", "company", "location", "work_type", "level", "compensatio
 
 
 def get_proxy():
-    return {
-        "http": f"http://customer-{OXYLABS_USER}:{OXYLABS_PASSWORD}@{OXYLABS_ENDPOINT}",
-        "https": f"http://customer-{OXYLABS_USER}:{OXYLABS_PASSWORD}@{OXYLABS_ENDPOINT}",
-    }
+    """Proxies dict for requests — DataImpulse first, Oxylabs fallback."""
+    return get_requests_proxies()
 
 
 def fetch_page(url, retries=3):
@@ -261,6 +257,7 @@ def main():
     print("=" * 60)
     print("Built In Job Scraper (requests-based)")
     print(f"Date: {scraped_date}")
+    print(f"Proxy: {proxy_provider() or 'none (direct)'}")
     print(f"Sites: {', '.join(sites)}")
     print("=" * 60)
 

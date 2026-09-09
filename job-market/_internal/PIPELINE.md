@@ -5,7 +5,7 @@
 ```
 Built In listing pages
   │
-  ├─ scrape_builtin_requests.py  (requests + Oxylabs proxy)
+  ├─ scrape_builtin_requests.py  (requests + DataImpulse proxy)
   │   └─ jobs/builtin/{site}_{YYYYMMDD}.json    (per-location)
   │   └─ data/scrapes/{YYYY-MM-DD}/all_jobs.csv
   │
@@ -13,7 +13,7 @@ Built In listing pages
   │   └─ data/scrapes/{YYYY-MM-DD}/all_jobs_dedup.csv
   │   └─ data/all_jobs_dedup.csv                (global, all months, with scraped_date)
   │
-  ├─ download_all_html.py  (requests + Oxylabs, 8 threads)
+  ├─ download_all_html.py  (requests + DataImpulse, 8 threads)
   │   └─ jobs/raw/{YYYY-MM-DD}/{title}_{job_id}.html
   │
   ├─ extract_from_html.py
@@ -25,13 +25,17 @@ Built In listing pages
 
 ## Environment Variables
 
-Set in `.env` file (in project root):
+Proxy settings live in `job-market/_internal/scrapers/proxy_config.py`, which
+uses the same proxy as the fetch-youtube skill: DataImpulse first, Oxylabs
+as fallback. Credentials resolve from already-exported env vars, then the
+project-root `.env`, then `~/.config/youtube/.env` (the youtube skill's
+machine-local config, mode `600` — no need to duplicate them here):
 
 | Variable | Description |
 |----------|-------------|
-| `OXYLABS_ENDPOINT` | Proxy endpoint (default: `pr.oxylabs.io:7777`) |
-| `OXYLABS_USER` | Oxylabs username |
-| `OXYLABS_PASSWORD` | Oxylabs password |
+| `DATAIMPULSE_USER` / `DATAIMPULSE_PASSWORD` | DataImpulse login (preferred proxy) |
+| `DATAIMPULSE_ENDPOINT` (or `DATAIMPULSE_HOST` + `DATAIMPULSE_PORT`) | Proxy endpoint (default: `gw.dataimpulse.com:823`) |
+| `OXYLABS_USER` / `OXYLABS_PASSWORD` / `OXYLABS_ENDPOINT` | Oxylabs fallback (default endpoint `pr.oxylabs.io:7777`) |
 | `ZAI_API_KEY` | Z.ai API key (Anthropic-compatible) |
 
 ## Directory Structure

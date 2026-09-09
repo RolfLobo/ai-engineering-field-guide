@@ -3,8 +3,6 @@
 Built In full job scraper - fetches complete job descriptions.
 Scrapes multiple Built In locations and visits each job page.
 """
-import os
-import time
 import json
 import asyncio
 import sys
@@ -23,15 +21,11 @@ if sys.stdout.encoding != 'utf-8':
 
 load_dotenv()
 
-OXYLABS_ENDPOINT = os.getenv("OXYLABS_ENDPOINT", "pr.oxylabs.io:7777")
-OXYLABS_USER = os.getenv("OXYLABS_USER")
-OXYLABS_PASSWORD = os.getenv("OXYLABS_PASSWORD")
-
-PROXY_CONFIG = {
-    "server": f"http://{OXYLABS_ENDPOINT}",
-    "username": f"customer-{OXYLABS_USER}-sessid-{int(time.time())}-sesstime-10",
-    "password": OXYLABS_PASSWORD,
-}
+# Shared proxy helper lives in scrapers/ (parent dir).
+_SCRAPERS_DIR = Path(__file__).resolve().parent.parent
+if str(_SCRAPERS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRAPERS_DIR))
+from proxy_config import get_playwright_proxy, proxy_provider
 
 OUTPUT_DIR = Path("../jobs/builtin")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -146,7 +140,7 @@ async def scrape_site(site_id: str, site_config: dict, limit: int = None):
     async with async_playwright() as p:
         browser = await p.chromium.launch(
             headless=True,
-            proxy=PROXY_CONFIG,
+            proxy=get_playwright_proxy(),
             args=['--disable-blink-features=AutomationControlled']
         )
 

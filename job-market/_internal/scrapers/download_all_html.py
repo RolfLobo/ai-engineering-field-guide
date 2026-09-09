@@ -2,9 +2,9 @@
 """
 Simple HTTP-based job scraper for Built In - no Playwright needed.
 Uses requests library instead of browser automation.
+Proxy: DataImpulse (same as the fetch-youtube skill), Oxylabs fallback.
 Downloads with 8 threads for parallel processing.
 """
-import os
 import time
 import csv
 import random
@@ -20,9 +20,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-OXYLABS_ENDPOINT = os.getenv("OXYLABS_ENDPOINT", "pr.oxylabs.io:7777")
-OXYLABS_USER = os.getenv("OXYLABS_USER")
-OXYLABS_PASSWORD = os.getenv("OXYLABS_PASSWORD")
+from proxy_config import get_requests_proxies, proxy_provider
 
 # Paths
 SCRIPT_DIR = Path(__file__).parent
@@ -50,11 +48,8 @@ existing_lock = threading.Lock()
 
 
 def get_proxy():
-    """Get proxy configuration for this request."""
-    return {
-        "http": f"http://customer-{OXYLABS_USER}:{OXYLABS_PASSWORD}@{OXYLABS_ENDPOINT}",
-        "https": f"http://customer-{OXYLABS_USER}:{OXYLABS_PASSWORD}@{OXYLABS_ENDPOINT}",
-    }
+    """Proxies dict for requests — DataImpulse first, Oxylabs fallback."""
+    return get_requests_proxies()
 
 
 def fetch_html(url, timeout=60, retries=3):
@@ -170,6 +165,7 @@ def main():
     print("="*60)
     print("Simple HTTP Job Scraper (no Playwright)")
     print("8-Threaded Download")
+    print(f"Proxy: {proxy_provider() or 'none (direct)'}")
     print("="*60)
 
     # Read URLs from CSV
