@@ -1,0 +1,29 @@
+# Log
+
+Append-only record of wiki operations. Each entry starts with `## [YYYY-MM-DD] <operation> | <subject>` so the history is greppable: `grep "^## \[" log.md | tail -5`.
+
+## [2026-09-09] ingest | LLM Wiki (Karpathy, April 2026)
+
+- First wiki operation: initialized the wiki structure per the pattern and ingested the pattern's own source document
+- Fetched the gist into [raw/2026-04-karpathy-llm-wiki.md](raw/2026-04-karpathy-llm-wiki.md)
+- Wrote [summaries/2026-04-karpathy-llm-wiki.md](summaries/2026-04-karpathy-llm-wiki.md) and [concepts/llm-wiki-pattern.md](concepts/llm-wiki-pattern.md)
+- Created the schema ([CLAUDE.md](CLAUDE.md)), [overview.md](overview.md), [index.md](index.md), and this log
+
+## [2026-09-09] ingest | repo corpus (the AI Engineering Field Guide itself)
+
+- Goal: build the wiki out from the repo's own files. Read all authored content end to end: root docs, `role/` (9), `interview/` (13 including `questions/`), `portfolio/` (8), `learning-paths/` (6), `webinars/` (6 + slides), `job-market/` docs (4), `awesome.md`
+- Co-evolved the schema: repo documents are sources in place (relative paths are source links; git provides immutability); data/code directories are raw material; dataset numbers carry the Feb 4 - Aug 25, 2026 scrape window
+- Wrote 8 summary pages: [role](summaries/role.md), [interview](summaries/interview.md), [portfolio](summaries/portfolio.md), [learning-paths](summaries/learning-paths.md), [webinars](summaries/webinars.md), [job-market](summaries/job-market.md), [awesome](summaries/awesome.md), [field-guide-readme](summaries/field-guide-readme.md)
+- Wrote 5 concept syntheses: [ai-engineer-role](concepts/ai-engineer-role.md), [interview-process](concepts/interview-process.md), [take-home-assignments](concepts/take-home-assignments.md), [portfolio-projects](concepts/portfolio-projects.md), [evaluation-differentiator](concepts/evaluation-differentiator.md)
+- Wrote 1 entity page: [alexey-grigorev](entities/alexey-grigorev.md)
+- Filed the verification artifact: [answers/repo-content-map.md](answers/repo-content-map.md) mapping every authored file to its wiki coverage
+- Rewrote [overview.md](overview.md) (six main threads, current synthesis, five open questions) and [index.md](index.md)
+- Deliberately not summarized page-by-page (raw material per the schema): `job-market/data_*`, `job-market/_internal` scripts, `interview/data/`, `portfolio/_internal/`, `webinars/slides/` (presentation artifacts), `_work-in-progress/`, `.tmp/`
+
+## [2026-09-09] create | sibling market-wiki over the job-description dataset
+
+- Built [../market-wiki/](../market-wiki/README.md): a generated data view of the 6,964 postings in `data_structured/` - skills, use-case themes, industries, companies, locations, seniority, and month-over-month trends, as markdown pages plus 9 SVG charts and an HTML dashboard
+- The generator (`market-wiki/generate.py`, deterministic, no LLM calls) is the update path: rerun after each new scrape and it rebuilds every page and chart; its log records each run
+- Cross-checked its output against this wiki's analysis: AI-First 70.0%, MCP 9.9% to 17.6%, LangGraph rising, PyTorch falling - all match [role](summaries/role.md)
+- Industries and use-case themes there are keyword classifiers (the dataset has no industry field), flagged as approximations on the pages; numbers quoted in this wiki still come from the repo's own analysis
+- Linked from the [overview](overview.md) main threads; this wiki remains the synthesis layer, market-wiki the data layer
