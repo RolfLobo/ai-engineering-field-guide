@@ -17,4 +17,8 @@ The first corpus is this repo itself: every authored file of the field guide is 
 - [log.md](log.md) - chronological record of everything done to the wiki
 - [CLAUDE.md](CLAUDE.md) - the schema: structure, conventions, and the agent's operating manual
 
+## Browsing it
+
+Run `python3 serve_wiki.py` from the repo root and open http://127.0.0.1:8000 - it renders markdown pages as HTML (wiki, market wiki, and the repo docs they cite) and serves charts and the dashboard as-is. Use `--port` to change the port; pass `?raw=1` on any page to see the markdown source.
+
 `raw/` holds the immutable source documents - the source of truth; nothing else in here is ever edited by hand.
