@@ -43,7 +43,7 @@ Every authored file in the repo and where this wiki covers it, from the 2026-09-
 ## Not part of the corpus
 
 - `.tmp/` (fetched article transcripts, scratch), `_work-in-progress/` (scratch), `images/` (repo asset), `.claude/` (agent tooling, e.g. `commands/fetch-jobs.md`) - scratch, assets, and tooling, excluded per the schema
-- [market-wiki/](../../market-wiki/README.md) - the sibling generated data-view wiki over `data_structured/`, with its own schema, [generator](../../market-wiki/generate.py), and log
+- `market-wiki/` (removed 2026-09-16) - was the sibling generated data-view wiki over `data_structured/`; now lives in the AISL wiki repo ([AI-Shipping-Labs/wiki](https://github.com/AI-Shipping-Labs/wiki), `market-wiki/`) with its schema, generator, and log
 - `wiki/` - this wiki itself
 
 ## Counts

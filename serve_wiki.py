@@ -5,9 +5,9 @@ Usage:
 
     python3 serve_wiki.py [--host 127.0.0.1] [--port 8000]
 
-Serves the repository root so that relative links between wiki/,
-market-wiki/, and the repo's own docs (which wiki pages cite as sources)
-all resolve. Markdown files are rendered to a small styled HTML page;
+Serves the repository root so that relative links between wiki/ and
+the repo's own docs (which wiki pages cite as sources) all resolve.
+Markdown files are rendered to a small styled HTML page;
 everything else (charts, dashboard.html, images) is served as a static
 file. Stdlib only - no dependencies.
 """
@@ -52,7 +52,6 @@ li {{ margin: 3px 0; }}
 </head>
 <body>
 <nav><a href="/wiki/index.md">Field guide wiki</a>
-<a href="/market-wiki/README.md">Market wiki</a>
 <a href="{raw_url}">raw markdown</a></nav>
 {body}
 <footer>Rendered by serve_wiki.py from {src}</footer>
@@ -299,7 +298,6 @@ def main():
     server = ThreadingHTTPServer((args.host, args.port), WikiHandler)
     print(f"Serving {ROOT}")
     print(f"  wiki:    http://{args.host}:{args.port}/wiki/index.md")
-    print(f"  market:  http://{args.host}:{args.port}/market-wiki/README.md")
     server.serve_forever()
 
 

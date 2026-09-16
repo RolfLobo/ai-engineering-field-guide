@@ -27,3 +27,9 @@ Append-only record of wiki operations. Each entry starts with `## [YYYY-MM-DD] <
 - Cross-checked its output against this wiki's analysis: AI-First 70.0%, MCP 9.9% to 17.6%, LangGraph rising, PyTorch falling - all match [role](summaries/role.md)
 - Industries and use-case themes there are keyword classifiers (the dataset has no industry field), flagged as approximations on the pages; numbers quoted in this wiki still come from the repo's own analysis
 - Linked from the [overview](overview.md) main threads; this wiki remains the synthesis layer, market-wiki the data layer
+
+## [2026-09-16] move | market-wiki relocated to AI-Shipping-Labs/wiki
+
+- The generated market wiki moved out of this repo into the AISL wiki repo ([AI-Shipping-Labs/wiki](https://github.com/AI-Shipping-Labs/wiki), `market-wiki/`) so all member-facing wiki material sits in one place
+- This repo keeps the dataset (`job-market/data_structured/`) and the synthesis (`wiki/`); the generator now runs from the wiki repo (`uv run python market-wiki/generate.py`) against this repo's dataset
+- Removed `market-wiki/` and updated the live references in [overview](overview.md), [index](index.md), [repo-content-map](answers/repo-content-map.md), and `serve_wiki.py`; the 2026-09-09 create entry above stays as history
