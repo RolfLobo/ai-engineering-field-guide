@@ -46,4 +46,7 @@ jobs/*.html
 jobs/raw
 **/*.pkl
 **/*.parquet
+
+# Work in progress
+/_work-in-progress/
 .tmp/
