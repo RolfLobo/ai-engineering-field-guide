@@ -1,0 +1,272 @@
+job_id: 11239675
+title: AI Platform Engineer (Hybrid)
+company: RTX
+location: El Segundo, USA
+work_type: FULL_TIME
+description: |
+  Date Posted:
+
+  2026-09-21
+
+  Country:
+
+  United States of America
+
+  Location:
+
+  US-CT-FARMINGTON-0004 ~ 4 Farm Springs Rd ~ 4 FARM SPRINGS
+
+  Position Role Type:
+
+  Hybrid
+
+  U.S. Citizen, U.S. Person, or Immigration Status
+  Requirements:
+
+  This job requires a U.S. Person. A U.S. Person is a lawful
+  permanent resident as defined in 8 U.S.C. 1101(a)(20) or who
+  is a protected individual as defined by 8 U.S.C.
+  1324b(a)(3). U.S. citizens, U.S. nationals, U.S. permanent
+  residents, or individuals granted refugee or asylee status
+  in the U.S. are considered U.S. persons. For a complete
+  definition of “U.S. Person” go here. https://www.ecfr.gov/cu
+  rrent/title-22/chapter-I/subchapter-M/part-120/subpart-
+  C/section-120.62
+
+  Security Clearance Type:
+
+  None/Not Required
+
+  Security Clearance Status:
+
+  Not Required
+
+  At RTX, the world's largest aerospace and defense company,
+  185,000 great minds are united by purpose and inspired to
+  make a difference solving the world’s most complex problems.
+  With our three market leading businesses, world-class
+  operations and investments in research and development, we
+  offer capabilities and opportunity no one else can.
+  Together, we push the boundaries of known science and find
+  new ways to connect and protect our world. Join us and help
+  shape the future of aerospace and defense.
+
+  The following position is to join our RTX Enterprise
+  Services team:
+
+  We are seeking an experienced AI Platform Engineer to
+  design, build, and operate the reusable software, services,
+  infrastructure, and runtime capabilities that enable
+  Artificial Intelligence and Machine Learning solutions to be
+  developed, deployed, secured, observed, and scaled across
+  RTX. The ideal candidate combines strong backend software
+  engineering with cloud, DevOps, and AI platform experience.
+  This is a hands-on engineering role focused on building
+  production platform capabilities, not simply deploying
+  infrastructure. You will work closely with AI Architects,
+  Applied AI Engineers, application teams, cybersecurity,
+  data, and enterprise technology organizations to provide
+  secure and reusable capabilities that accelerate AI adoption
+  across RTX.
+
+  What You Will Do
+
+  - Design, develop, and operate scalable backend services,
+    APIs, and distributed platform capabilities that support
+    enterprise AI applications, models, and agents.
+  - Build and integrate AI platform capabilities including model
+    access and routing, AI gateways, agent runtimes, lifecycle
+    management, tool integration, model serving, retrieval
+    services, and related enterprise AI services.
+  - Develop secure capabilities for agent and application
+    identity, authentication and authorization, secrets
+    management, tool access, permissions, and integration with
+    enterprise systems.
+  - Design and automate deployment across development, test, and
+    production environments using cloud-native technologies,
+    containers, Kubernetes, CI/CD, and infrastructure-as-code.
+  - Build observability capabilities including logging, metrics,
+    tracing, monitoring, alerting, execution telemetry, and
+    cost visibility for AI applications and agentic workloads.
+  - Develop platform capabilities supporting AI evaluation,
+    model lifecycle management, MLOps, configuration,
+    versioning, and production operations.
+  - Design platform services for scalability, availability,
+    resilience, performance, security, and support across
+    commercial cloud, hybrid, on-premises, and restricted
+    environments.
+  - Partner with AI Architecture, Applied AI, Application
+    Engineering, Cybersecurity, Data, and product teams to
+    translate solution needs into reusable enterprise platform
+    capabilities and continuously improve the developer
+    experience.
+
+  What You Will Learn
+
+  - How enterprise AI platforms enable Generative AI, machine
+    learning, and agentic applications to operate securely and
+    consistently across a global aerospace and defense
+    company.
+  - How models, agents, tools, identity, data, evaluation, and
+    observability come together as reusable enterprise
+    platform capabilities.
+  - How AI workloads are designed and operated across commercial
+    cloud, hybrid, on-premises, and restricted computing
+    environments.
+  - How production agentic systems introduce new engineering
+    challenges around identity, tool access, runtime
+    governance, state, observability, and operational control.
+  - How emerging AI platforms, orchestration technologies,
+    interoperability standards, and cloud services can be
+    evaluated and incorporated into enterprise architectures.
+  - How reusable platform capabilities can reduce duplication
+    and accelerate AI solution delivery across multiple RTX
+    business units.
+
+  Qualifications You Must Have
+
+  - A University Degree in Computer Science, Software
+    Engineering, Engineering, or a related STEM discipline and
+    a minimum of 8 years of relevant professional experience,
+    or an Advanced Degree in a related field and a minimum of
+    5 years of relevant professional experience.
+  - A minimum of 5 years of hands-on software engineering
+    experience developing backend services, APIs, distributed
+    systems, cloud platforms, or similar production software.
+  - Programming experience using Python, Java, C#, or another
+    modern backend programming language, with demonstrated
+    experience developing tested and maintainable production
+    software.
+  - Experience designing and building APIs, microservices,
+    distributed services, event-driven systems, or other
+    backend platform capabilities.
+  - Experience with cloud-native engineering including Docker,
+    Kubernetes, CI/CD, and infrastructure-as-code, and
+    experience deploying applications or services using at
+    least one major public cloud platform.
+  - Experience with production observability and operations,
+    including logging, metrics, tracing, monitoring, alerting,
+    troubleshooting, and reliability.
+  - Experience working with enterprise security concepts
+    including authentication and authorization, identity and
+    access management, secrets management, network security,
+    and secure application integration.
+
+  Qualifications We Prefer
+
+  - Experience building AI/ML platforms, developer platforms,
+    internal platforms, or shared enterprise software services
+    including experience with AI gateways, model serving,
+    inference platforms, model routing, agent runtimes,
+    orchestration platforms, or model lifecycle capabilities.
+  - Experience with agentic AI platform concepts including agent
+    registration, tool execution, Model Context Protocol
+    (MCP), agent identity, permissions, state, lifecycle
+    management, or agent observability.
+  - Experience with vector databases, enterprise search,
+    retrieval platforms, knowledge services, feature stores,
+    model registries, or other AI/ML infrastructure and MLOps,
+    model deployment, model versioning, production monitoring,
+    AI evaluation infrastructure, or model lifecycle
+    automation.
+  - Experience operating highly available Kubernetes or
+    distributed application platforms and implementing
+    resilience, scalability, and disaster-recovery patterns.
+  - Experience supporting AI or enterprise applications across
+    hybrid cloud, on-premises, restricted, or highly regulated
+    environments and familiarity with AI security, Responsible
+    AI, cloud architecture principles, cost management,
+    FinOps, or enterprise governance requirements.
+  - Demonstrated ability to independently solve complex
+    technical problems, collaborate across engineering
+    disciplines, and influence technical decisions within
+    large-scale software or platform initiatives.
+
+  What We Offer
+
+  Whether you’re just starting out on your career journey or
+  are an experienced professional, we offer a robust total
+  rewards package with compensation; healthcare, wellness,
+  retirement and work/life benefits; career development and
+  recognition programs. Some of the benefits we offer include
+  parental (including paternal) leave, flexible work
+  schedules, achievement awards, educational assistance and
+  child/adult backup care.
+
+  Learn More & Apply Now!
+
+  Work Location: This is a hybrid role, eligible candidates
+  must reside within commuting distance of Farmington, CT, El
+  Segundo, CA, San Jose, CA, Tucson, AZ, McKinney, TX,
+  Andover, MA, Cedar Rapids, IA, or Charlotte, NC.
+
+  Please ensure the role type defined below is appropriate for
+  your needs before applying to this role. This position is
+  classified as:
+
+  Hybrid: Employees who are working in Hybrid roles will work
+  regularly both onsite and offsite. Ratio of time working
+  onsite will be determined in partnership with your leader.
+
+  As part of our commitment to maintaining a secure hiring
+  process, candidates may be asked to attend select steps of
+  the interview process in-person at one of our office
+  locations, regardless of whether the role is designated as
+  on-site, hybrid or remote.
+
+  The salary range for this role is 107,500 USD - 204,500 USD.
+  The salary range provided is a good faith estimate
+  representative of all experience levels. RTX considers
+  several factors when extending an offer, including but not
+  limited to, the role, function and associated
+  responsibilities, a candidate’s work experience, location,
+  education/training, and key skills.
+
+  Hired applicants may be eligible for benefits, including but
+  not limited to, medical, dental, vision, life insurance,
+  short-term disability, long-term disability, 401(k) match,
+  flexible spending accounts, flexible work schedules,
+  employee assistance program, Employee Scholar Program,
+  parental leave, paid time off, and holidays. Specific
+  benefits are dependent upon the specific business unit as
+  well as whether or not the position is covered by a
+  collective-bargaining agreement.
+
+  Hired applicants may be eligible for annual short-term
+  and/or long-term incentive compensation programs depending
+  on the level of the position and whether or not it is
+  covered by a collective-bargaining agreement. Payments under
+  these annual programs are not guaranteed and are dependent
+  upon a variety of factors including, but not limited to,
+  individual performance, business unit performance, and/or
+  the company’s performance.
+
+  This role is a U.S.-based role. If the successful candidate
+  resides in a U.S. territory, the appropriate pay structure
+  and benefits will apply.
+
+  RTX anticipates the application window closing approximately
+  40 days from the date the notice was posted. However,
+  factors such as candidate flow and business necessity may
+  require RTX to shorten or extend the application window.
+
+  RTX is an Equal Opportunity Employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender identity, national origin, age, disability or veteran
+  status, or any other applicable state or federal protected
+  class. RTX provides affirmative action in employment for
+  qualified Individuals with a Disability and Protected
+  Veterans in compliance with Section 503 of the
+  Rehabilitation Act and the Vietnam Era Veterans’
+  Readjustment Assistance Act.
+
+  Privacy Policy and Terms:
+
+  Click on this link to read the Policy and Terms
+industries:
+  - Aerospace
+  - Defense
+posted_date: 2026-09-17
+url: "https://www.builtinla.com/job/ai-platform-engineer-hybrid/11239675"
+source: Built In

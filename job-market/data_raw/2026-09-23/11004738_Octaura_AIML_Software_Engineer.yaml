@@ -1,0 +1,144 @@
+job_id: 11004738
+title: AI/ML Software Engineer
+company: Octaura
+location: New York, USA
+work_type: FULL_TIME
+company_size: 60 Employees
+description: |
+  Come build what the market has been missing.
+
+  Octaura is a technology company transforming how some of the
+  world’s largest, least digitized markets operate. In loans
+  and CLOs, trillions of dollars still move through phones,
+  emails, and PDFs because the right infrastructure hasn’t
+  existed — until now.
+
+  We’re applying AI, real-time data, and modern software
+  design to asset classes long overlooked by fintech. Our
+  platforms turn fragmented information into intelligence,
+  manual workflows into automation, and legacy conventions
+  into scalable market infrastructure.
+
+  You’ll join a high-impact, collaborative team building the
+  systems these markets need to become more transparent,
+  efficient, and connected.
+
+  The Role
+
+  An AI Engineer at Octaura, is a software professional who
+  develops and implements AI-powered applications by
+  integrating trained machine learning models, APIs, and data
+  pipelines into functional software products. You will
+  design, build, deploy, and maintain applied machine learning
+  systems that power critical products and workflows across
+  our platform. This role focuses on taking AI solutions from
+  concept through production—working with large, complex
+  datasets and ensuring models are reliable, explainable, and
+  performant in real-world financial environments.
+
+  You’ll partner closely with product managers, software
+  engineers, and data teams to solve meaningful business
+  problems, improve market efficiency, and introduce AI
+  responsibly into mission-critical systems. Depending on
+  experience, you may take full ownership of complex AI
+  initiatives and help shape Octaura’s ML architecture and
+  best practices.
+
+  This role is based out of our New York City office (5 Penn
+  Plaza), with a hybrid schedule of four days in the office
+  (Monday–Thursday) and one day remote (Friday).
+
+  Key Responsibilities
+
+  - Design, build, and maintain production-grade backend
+    services that power AI/ML capabilities, using Java, Spring
+    Boot, Kafka, Redis, PostgreSQL, and Redshift.
+  - Develop, train, evaluate, and deploy machine learning models
+    using Python-based ML frameworks (e.g., scikit-learn,
+    PyTorch, or TensorFlow).
+  - Architect and implement Agentic AI systems, including multi-
+    agent workflows, tool-use pipelines, and integration with
+    Model Context Protocol (MCP) or similar orchestration
+    frameworks.
+  - Build and maintain data pipelines and feature engineering
+    workflows to support ML training and inference.
+  - Collaborate with data scientists, platform engineers, and
+    product teams to translate business problems into AI/ML
+    solutions.
+  - Contribute to the evaluation and selection of the team's
+    AI/ML technology stack, including frameworks for Agentic
+    AI, LLM orchestration, and model serving.
+  - Implement MLOps practices — including model versioning,
+    monitoring, A/B testing, and automated retraining
+    pipelines.
+  - Stay current with the rapidly evolving AI/ML landscape,
+    including large language models (LLMs), retrieval-
+    augmented generation (RAG), and agent frameworks.
+  - Write clean, testable, and well-documented code; participate
+    in code reviews and foster engineering best practices.
+
+  The Person
+
+  Software Engineering
+
+  - 2+ years of software engineering experience with strong
+    proficiency in Java and Spring Boot.
+  - Experience building event-driven systems using Apache Kafka.
+  - Solid understanding of relational databases (PostgreSQL) and
+    data warehousing (Redshift or equivalent).
+  - Hands-on experience with Redis for caching, queuing, or
+    session management.
+  - Strong grasp of distributed systems, REST API design, and
+    microservices architecture.
+
+  AI/ML
+
+  - 2+ years of hands-on experience in AI/ML development using
+    Python.
+  - Familiarity with core ML concepts: supervised/unsupervised
+    learning, model evaluation, feature engineering, and
+    hyperparameter tuning.
+  - Experience with ML frameworks such as scikit-learn, PyTorch,
+    TensorFlow, or XGBoost.
+  - Understanding of LLMs and Generative AI concepts, including
+    prompt engineering, fine-tuning, and RAG architectures.
+  - Exposure to Agentic AI patterns — tool use, planning, multi-
+    step reasoning, or agent orchestration frameworks (e.g.,
+    LangChain, LangGraph, CrewAI, Spring AI, or similar).
+
+  The base pay range for this position in New York is $130,000
+  - $160,000 annually. Pay may vary depending on job-related
+  knowledge, skills, and experience. Equity and year-end bonus
+  may be provided as part of the compensation package, in
+  addition to a full range of medical, financial, and other
+  benefits, dependent on the position offered. Applicants
+  should apply via Octaura's internal or external careers
+  site.
+
+  Octaura Work Perks
+
+  At Octaura, our people are our most valuable asset, and we
+  are pleased to offer the following benefits to all full-time
+  employees:
+
+  - Competitive compensation and equity
+  - Flexible Paid Time Off
+  - Competitive Parental Leave
+  - Daily breakfast, coffee and snacks in the office
+  - 90% company-paid healthcare
+  - Onsite gym & discounted membership
+
+  We’re committed to equal opportunity employment
+
+  Octaura is committed to a diverse and inclusive workplace.
+  We are an equal opportunity employer and do not discriminate
+  on the basis of race, national origin, gender, gender
+  identity, sexual orientation, protected veteran status,
+  disability, age, or other legally protected status.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-09-03
+url: "https://builtin.com/job/ai-ml-software-engineer/11004738"
+source: Built In

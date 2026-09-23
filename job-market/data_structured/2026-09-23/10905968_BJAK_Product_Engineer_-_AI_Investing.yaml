@@ -1,0 +1,49 @@
+company:
+  name: BJAK
+  stage: null
+  focus: Digital financial services and insurance platform
+position:
+  title: Product Engineer - AI Investing
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a product engineer/owner for a fintech AI
+      investing product, but the responsibilities involve product
+      definition, roadmap, metrics, and stakeholder coordination.
+      There is no evidence the person shapes model behaviour via
+      prompts, retrieval, training, or evals, and no skills are
+      named in the description.
+  responsibilities:
+  - Own product areas across insurance, payments, savings, investing, travel and other
+    financial services
+  - Define user problems, product scope, success metrics, roadmap and launch plans
+  - Work with engineering, design, data, operations, compliance and business teams
+  - Turn complex financial products into simple, usable customer journeys
+  - Use data, feedback, research and production issues to improve product decisions
+  - Launch features, monitor performance and drive iterations
+  - Make trade-offs between speed, user experience, business impact, compliance and
+    operational complexity
+  use_cases:
+  - AI-powered investing and financial services product
+  - Insurance, payments, savings and travel financial products
+  - Consumer fintech journeys simplified for everyday users
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10905968'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:06:06.178269'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

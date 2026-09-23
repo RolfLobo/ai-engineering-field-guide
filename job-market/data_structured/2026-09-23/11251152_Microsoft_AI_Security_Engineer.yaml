@@ -1,0 +1,53 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Software and cloud company; AI security red teaming
+position:
+  title: AI Security Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and runs evaluations of frontier LLMs and
+      agentic systems, judging model behavior and output quality
+      in cyber-capability evaluations, which is shaping model
+      evaluation. The targets are LLMs and AI agents, so it is ai-
+      first.
+  responsibilities:
+  - Design, implement, and operate offensive cyber-capability evaluations for frontier,
+    preview, production, and open-weight AI models
+  - Build and maintain realistic evaluation tasks covering vulnerability analysis,
+    exploit development, attack-path reasoning, and multi-step offensive workflows
+  - Execute controlled experiments with AI models, define success criteria and baselines,
+    and collect reliable telemetry
+  - Analyze model trajectories to distinguish genuine capability from evaluation artifacts
+    such as task leakage or scoring errors
+  - Develop cyber ranges, vulnerable applications, exploit-development targets, and
+    evaluation harnesses with containment and security controls
+  - Partner with red-team operators, researchers, and Responsible AI stakeholders
+    to translate findings into security insights and reports
+  use_cases:
+  - Cyber-capability evaluation of frontier AI models and agentic systems
+  - Offensive security testing of AI models in realistic controlled environments
+  - Autonomous AI agent behavior analysis and risk assessment
+  - Vulnerability analysis and exploit development by AI systems
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: [Model Evaluation, Anomaly Detection]
+    ops: [Docker]
+    other: [Red Teaming, Penetration Testing, Vulnerability Research, Exploit Development,
+      Cyber Ranges, Capture The Flag]
+    cloud: []
+    languages: [Python]
+    genai: [LLMs, Generative AI, AI Agents, PyRIT]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11251152'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:32:28.574581'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

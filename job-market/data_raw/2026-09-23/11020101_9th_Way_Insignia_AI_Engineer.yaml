@@ -1,0 +1,274 @@
+job_id: 11020101
+title: AI Engineer
+company: 9th Way Insignia
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  9th Way Insignia is a service-disabled, veteran-owned small
+  business bringing transformative technology to our
+  government customers so they can achieve their missions.
+  Our specialties include cybersecurity, cloud modernization,
+  software development, data analytics, enterprise
+  architecture, enterprise IT, analytics, process automation,
+  and artificial intelligence.  Learn more about 9th Way
+  Insignia at https://9thwayinsignia.com/.
+
+  Application password: Niner
+
+  Team (Project) Introduction
+
+  We are recruiting for a range of cybersecurity opportunities
+  supporting federal customers, focused on strengthening
+  enterprise security architecture, systems engineering, and
+  the secure implementation of technologies across the
+  environment.
+
+  The work involves applying established cybersecurity
+  standards, guidelines, and frameworks to help translate
+  organizational and business requirements into secure,
+  scalable technical solutions. Team members may contribute to
+  security architecture and engineering efforts,
+  implementation guidance, technical analysis, and the
+  development of repeatable approaches that support the
+  consistent deployment and operation of secure technologies
+  across complex enterprise environments.
+
+  Systems security engineering is an important component of
+  this work, with an emphasis on incorporating security and
+  stakeholder protection requirements throughout the system
+  development life cycle, from concept and design through
+  development, production, sustainment, and decommissioning.
+  The team will apply established systems engineering and
+  cybersecurity principles to help protect systems,
+  applications, data, and supporting technologies.
+
+  Ultimately, this work supports the broader mission to
+  strengthen its cybersecurity posture, reduce organizational
+  risk, and protect critical systems and information from
+  evolving cyber threats, including external adversaries and
+  insider threats.
+
+  9th Way Insignia is looking for an Engineer, 3, Artificial
+  Intelligence Engineer to join this team. Professional Level
+  Information: An Engineer, 3 typically plans and directs
+  research or development work on complex projects, along with
+  engaging various parties in design and development. Costs
+  and recommendations of new components may also involve part
+  of the job scope. Performs multiple engineering-related
+  tasks in various assignments within the project and firm. An
+  Engineer, 3 oversees the design, development,
+  implementation, and analysis of technical products and
+  systems.  An Engineer, 3 has broad knowledge of engineering
+  procedures and assists in the resolution of complex
+  problems.  An Engineer, 3 has strong technical skills and
+  background, a knack for learning new technologies, and a
+  blend of good problem-solving and innovation needed to
+  resolve a wide variety of technical production challenges.
+
+  Functional Job (LCAT) Information: The Artificial
+  Intelligence Engineer will design, develop, implement,
+  secure, evaluate, and maintain Artificial Intelligence (AI),
+  Machine Learning (ML), and Large Language Model (LLM)
+  solutions supporting the program. The engineer will work
+  closely with cybersecurity engineers, architects, data
+  scientists, software developers, and Government stakeholders
+  to deliver secure, reliable, responsible, and production-
+  ready AI capabilities.
+
+  Responsibilities:
+
+  - Design, develop, train, test, deploy, and maintain AI and
+    machine learning models for enterprise-scale and
+    Government applications.
+  - Develop and operationalize production AI/ML solutions,
+    ensuring models and supporting systems are reliable,
+    scalable, maintainable, and appropriate for VA mission
+    requirements.
+  - Collect, clean, transform, analyze, and prepare structured
+    and unstructured data for AI/ML model development,
+    training, testing, and evaluation.
+  - Evaluate potential AI technologies, models, tools,
+    frameworks, and architectures and recommend solutions
+    appropriate for complex Federal Government and
+    cybersecurity use cases.
+  - Apply AI and machine learning techniques to solve real-world
+    business, cybersecurity, engineering, analytics, and
+    operational problems across a large enterprise
+    environment.
+  - Develop and support Generative AI and Large Language Model
+    (LLM) solutions, including model configuration, system
+    prompts, classifiers, fine-tuning, content moderation,
+    safety filters, and other model controls.
+  - Evaluate AI-generated outputs for accuracy, factuality,
+    grounding, reliability, bias, helpfulness, honesty, and
+    overall model performance before outputs are incorporated
+    into VA efforts.
+  - Design and execute AI/ML model evaluation and validation
+    methodologies, including benchmark testing and comparative
+    evaluation of model outputs.
+  - Perform and support AI red-team testing to identify
+    weaknesses, unintended model behaviors, bias, security
+    vulnerabilities, and other risks associated with AI-
+    generated outputs.
+  - Implement mechanisms and controls to improve the factuality
+    and grounding of AI/LLM outputs, including system-level
+    instructions, source attribution, content controls, and
+    appropriate response behavior when information is
+    incomplete, contradictory, or uncertain.
+  - Develop, implement, and maintain processes for continuous AI
+    model monitoring, including evaluation of model outputs
+    and identification of material deviations from applicable
+    AI requirements.
+  - Investigate AI performance, compliance, security, or model-
+    behavior issues and develop corrective actions and
+    mitigation strategies, including identification of
+    responsible parties and resolution timelines.
+  - Manage and assess AI/LLM model changes throughout the system
+    lifecycle, including retraining, fine-tuning, model
+    version changes, new features, classifiers, prompts,
+    filters, controls, and architectural modifications.
+  - Maintain detailed technical documentation supporting the
+    development and operation of AI/LLM solutions, including
+    Model Cards, System Cards, Data Cards, evaluation results,
+    training activities, model configurations, enterprise
+    controls, and system documentation.
+  - Document pre-training and post-training activities,
+    including actions affecting model factuality and
+    grounding, system prompts, safety controls, content
+    moderation, red-team activities, and other model
+    configuration decisions.
+  - Support development and maintenance of AI acceptable-use
+    policies, end-user guidance, feedback mechanisms,
+    monitoring plans, and governance documentation.
+  - Ensure AI solutions protect VA-sensitive information,
+    personally identifiable information (PII), protected
+    health information (PHI), and other sensitive Government
+    data from unauthorized access, disclosure, use, or
+    incorporation into external AI training datasets.
+  - Ensure AI solutions comply with applicable VA cybersecurity
+    requirements, Federal AI requirements, security policies,
+    privacy requirements, and responsible/trustworthy AI
+    governance requirements.
+  - Incorporate secure-by-design, Zero Trust, least-privilege,
+    defense-in-depth, and risk-management principles into the
+    architecture and engineering of AI-enabled systems.
+  - Support security and architectural reviews of AI-enabled
+    solutions and identify security risks, vulnerabilities,
+    control gaps, attack paths, misuse cases, and appropriate
+    mitigations prior to implementation.
+  - Collaborate with data scientists, cybersecurity architects
+    and engineers, software developers, DevSecOps engineers,
+    domain SMEs, program leadership, and Government
+    stakeholders throughout the AI system development
+    lifecycle.
+  - Translate mission, cybersecurity, business, and technical
+    requirements into practical AI/ML architectures, models,
+    engineering solutions, and implementation approaches.
+  - Participate in technical design reviews, pilots, proofs of
+    concept, use-case development, modernization initiatives,
+    engineering working groups, and other activities involving
+    AI and emerging technologies.
+  - Produce technical documentation, analysis, recommendations,
+    briefings, and other materials that clearly communicate AI
+    architecture, model performance, risks, controls, and
+    recommended courses of action to both technical and non-
+    technical stakeholders.
+  - Deliver Government-owned AI-related technical artifacts
+    developed under the program, including applicable models,
+    model weights, algorithms, configurations, documentation,
+    data models, source code, and supporting technical
+    components.
+  - Other responsibilities as assigned
+  - May require up to two onsite travel visits per year
+
+  Requirements:
+
+  - Minimum of 10 years of experience in relevant fields
+    including IT security, data science, or software
+    engineering, of which at least 5 years involve the design,
+    development, or deployment of AI or machine learning
+    systems in enterprise or Government environments A PhD in
+    a related field (IT security, data science, or software
+    engineering) may substitute for up to 5 years of the
+    required experience
+  - Expertise working on data science, machine learning, or AI
+    projects, either through internships, research projects,
+    or professional roles.
+  - Expertise building, training, and deploying machine learning
+    models and AI systems in a production environment.
+  - Expertise collaborating with cross-functional teams,
+    including data scientists, software developers, and domain
+    experts.
+  - Expertise in data collection, cleaning, and analysis
+    techniques to prepare datasets for AI modeling.
+  - Expertise applying AI solutions to real-world problems in
+    various enterprises and domains such as large corporations
+    and Government agencies similar in size/scope to GSA, IRS,
+    DoD or VA
+
+  Preferred/Desired:
+
+  - Master’s degree in Artificial Intelligence, Business
+    Administration, Business Management, Cybersecurity,
+    Computer Science, Information Systems, Information
+    Assurance, Information Security, Information Resource
+    Management, or related fields.
+  - CASP+ (SecurityX), CCISO, CISA, CISM, CISSP, CISSP-ISSAP,
+    CISSP-ISSEP, GCED, GCIH, GSLC, CCNP Security
+
+  Salary Range
+
+  $98,135.18—$185,000 USD
+
+  9th Way Insignia’s range for this job level is a general
+  guideline only and not a guarantee of compensation or
+  salary. Additional factors considered in extending an offer
+  include (but are not limited to) responsibilities of the
+  job, education, experience, knowledge, skills, and
+  abilities, as well as internal equity, alignment with market
+  data, applicable bargaining agreement (if any), or other
+  law.
+
+  Clearance/Background Investigation Applicants selected will
+  be subject to a security investigation and may need to meet
+  eligibility requirements for access to classified
+  information.
+
+  Benefits Eligible employees will have access to our
+  comprehensive benefits package which includes Medical,
+  Dental, Vision, Voluntary Life Insurance, 401(k), Basic Life
+  A&D, STD, LTD, PTO, Telehealth, paid holidays, FSA, HSA.
+  Additional resources include our Employee Assistance Program
+  (EAP) and Traveling Assistance.
+
+  Legal We’re an equal employment opportunity employer that
+  empowers our people to fearlessly drive change – no matter
+  their race, color, religion, sex (including pregnancy,
+  childbirth, lactation, or related medical conditions),
+  national origin, age, marital status, sexual orientation,
+  gender identity, disability, veteran status, military or
+  uniformed service member status, genetic information, or any
+  other status protected by applicable federal, state, or
+  local law.
+
+  Equal Employment Opportunity Notice Applicants have the
+  right to be free from unlawful workplace discrimination.
+  Please review the EEOC’s Know Your Rights: Workplace
+  Discrimination is Illegal notice. Accessible formats and
+  translations are also available from the EEOC. Application
+  Accommodations If you require a reasonable accommodation to
+  complete this application or participate in the hiring
+  process, please contact hr@insigniatechnology.com. Requests
+  will be considered individually.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Machine Learning
+  - Software
+  - Business Intelligence
+  - Cybersecurity
+  - Big Data Analytics
+posted_date: 2026-09-04
+url: "https://www.builtinla.com/job/ai-engineer/11020101"
+source: Built In

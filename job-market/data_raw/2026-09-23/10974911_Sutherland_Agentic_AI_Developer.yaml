@@ -1,0 +1,143 @@
+job_id: 10974911
+title: Agentic AI Developer
+company: Sutherland
+location: IND
+locations:
+  - IND
+  - Chennai, IND
+remote: true
+work_type: FULL_TIME
+company_size: 39,547 Employees
+description: |
+  Company Description
+
+  About Sutherland
+
+  Artificial Intelligence. Automation.Cloud engineering.
+  Advanced analytics.For business leaders, these are key
+  factors of success. For us, they’re our core expertise.
+
+  We work with iconic brands worldwide. We bring them a unique
+  value proposition through market-leading technology and
+  business process excellence.
+
+  We’ve created over 200 unique inventions under several
+  patents across AI and other critical technologies.
+  Leveraging our advanced products and platforms, we drive
+  digital transformation, optimize critical business
+  operations, reinvent experiences, and pioneer new solutions,
+  all provided through a seamless “as a service” model.
+
+  For each company, we provide new keys for their businesses,
+  the people they work with, and the customers they serve. We
+  tailor proven and rapid formulas, to fit their unique DNA.We
+  bring together human expertise and artificial intelligence
+  to develop digital chemistry. This unlocks new
+  possibilities, transformative outcomes and enduring
+  relationships. Sutherland
+
+  Unlocking digital performance. Delivering measurable
+  results.
+
+  Job Description
+
+  Role Summary
+
+  Develop, test, and deploy AI agents that automate regulated
+  and semi-regulated business processes using AWS Bedrock.
+  Build and maintain document-processing pipelines that
+  extract structured information from enterprise documents and
+  integrate it into AI-driven workflows, helping replace
+  manual processes with intelligent automation.
+
+  Key Responsibilities
+
+  Agent Development
+
+  - Develop AI agents on AWS Bedrock (Amazon Nova and other
+    foundation models) for document generation, data
+    validation, and case intake use cases.
+  - Implement business logic using AWS Fargate following
+    established service patterns (e.g., email-triggered and
+    chatbot-triggered workflows).
+  - Integrate AI services with Microsoft Graph API for Microsoft
+    Teams messaging, file handling, and delivery of agent
+    outputs.
+  - Develop and maintain prompts, agent configurations, and
+    guardrails to ensure reliable and compliant AI behavior.
+  - Perform unit and integration testing to validate agent
+    accuracy, performance, and response quality.
+  - Troubleshoot, optimize, and enhance AI agent workflows based
+    on testing results and user feedback.
+  - Collaborate with solution architects, QA teams, and business
+    stakeholders to deliver production-ready AI solutions.
+
+  Document Processing
+
+  - Develop and maintain document-processing services using AWS
+    Fargate.
+  - Build extraction pipelines for structured and semi-
+    structured documents using OCR and Intelligent Document
+    Processing (IDP) technologies.
+  - Integrate third-party document extraction tools into AI
+    workflows.
+  - Support validation and quality improvements of extracted
+    data to meet business and audit requirements.
+  - Optimize document extraction accuracy through testing and
+    continuous improvements.
+  - Assist in deploying document-processing services into
+    production environments.
+
+  Qualifications
+
+  Required Experience
+
+  - 3–5 years of software development experience, with at least
+    1–2 years developing Generative AI or LLM-based
+    applications.
+  - Hands-on experience with Python and REST API development.
+  - Working knowledge of AWS services, preferably AWS Bedrock,
+    Lambda, ECS/Fargate, SQS, SNS, or similar cloud-native
+    services.
+  - Experience with prompt engineering, Retrieval-Augmented
+    Generation (RAG), AI agent frameworks, or LLM
+    orchestration tools.
+  - Experience building integrations using APIs such as
+    Microsoft Graph API or similar enterprise platforms.
+  - 2+ years of experience with document processing, OCR, or
+    Intelligent Document Processing solutions such as AWS
+    Textract, Azure Document Intelligence, or equivalent.
+  - Familiarity with event-driven application architecture and
+    microservices.
+  - Experience using Git, CI/CD pipelines, and Agile development
+    methodologies.
+
+  Preferred Qualifications
+
+  - Experience with financial services, insurance, healthcare,
+    or other regulated industries.
+  - Familiarity with AI evaluation, prompt optimization, and
+    model monitoring.
+  - Exposure to vector databases and semantic search
+    technologies.
+  - Understanding of AI governance, responsible AI principles,
+    and security best practices.
+  - Experience working with Docker and containerized
+    applications.
+  - Exposure to enterprise chatbot or conversational AI
+    solutions.
+
+  Key Competencies
+
+  - Strong analytical and problem-solving skills.
+  - Ability to build scalable and maintainable AI solutions.
+  - Effective collaboration and communication skills.
+  - Attention to quality, security, and compliance.
+  - Continuous learning mindset with interest in emerging AI
+    technologies.
+industries:
+  - Artificial Intelligence
+  - Analytics
+posted_date: 2026-09-02
+url: "https://builtin.com/job/agentic-ai-developer/10974911"
+source: Built In

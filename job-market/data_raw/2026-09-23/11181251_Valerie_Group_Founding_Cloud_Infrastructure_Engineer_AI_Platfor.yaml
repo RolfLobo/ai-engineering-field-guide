@@ -1,0 +1,147 @@
+job_id: 11181251
+title: Founding Cloud Infrastructure Engineer (AI Platform)
+company: Valerie Group
+location: Bengaluru, IND
+remote: true
+work_type: FULL_TIME
+company_size: 6000 Employees
+description: |
+  About this Role
+
+  We're looking for a Founding AWS Cloud Engineer to build the
+  infrastructure that powers Valerie's AI-native platform.This
+  is a 0→1 opportunity. There are no legacy systems to
+  maintain or existing architectures to work around. You'll
+  design, build, and scale our cloud infrastructure from the
+  ground up, making the technical decisions that shape the
+  platform for years to come.
+
+  You'll work across cloud infrastructure, DevSecOps,
+  distributed systems, and AI infrastructure, partnering
+  closely with Product, AI, and Engineering teams to build
+  secure, scalable, and reliable systems that support the next
+  generation of AI-powered products.
+
+  You could be a great fit if...
+
+  - You enjoy building cloud infrastructure from scratch rather
+    than maintaining legacy systems.
+  - You have deep experience with AWS and know how to design
+    secure, scalable, and resilient architectures.
+  - You think in systems and enjoy making technical decisions
+    that will support long-term growth.
+  - You're comfortable owning everything from Infrastructure as
+    Code and CI/CD pipelines to observability and production
+    reliability.
+  - You enjoy working closely with engineers, AI teams, and
+    product teams to bring new ideas into production.
+  - You're passionate about automation and believe
+    infrastructure should be repeatable, secure, and easy to
+    scale.
+  - You understand the unique challenges of AI-native
+    applications and enjoy building the infrastructure that
+    powers them.
+  - You're proactive, take ownership, and don't wait for someone
+    else to solve problems.
+
+  Requirements
+
+  - Strong hands-on experience building and managing production
+    infrastructure on AWS.
+  - Deep knowledge of core AWS services, including EC2, ECS,
+    VPC, IAM, S3, RDS, Route 53, CloudFront, CloudWatch, and
+    Load Balancers.
+  - Experience with Infrastructure as Code using Terraform
+    (preferred) or AWS CloudFormation.
+  - Strong experience with Docker, containerized environments,
+    and CI/CD pipelines.
+  - Solid understanding of Linux, networking, monitoring,
+    debugging, and production incident management.
+  - Experience designing secure cloud environments, IAM
+    policies, secrets management, and infrastructure security
+    best practices.
+  - Experience building scalable distributed systems and event-
+    driven architectures.
+  - Experience supporting AI or machine learning infrastructure,
+    including LLM workloads, vector databases, or retrieval-
+    based systems.
+  - Strong communication skills and the ability to explain
+    technical trade-offs to both technical and non-technical
+    stakeholders.
+
+  Bonus Points
+
+  - Experience with Kubernetes, Amazon ECS, or large-scale
+    container orchestration.
+  - Familiarity with serverless technologies such as Lambda,
+    EventBridge, or Step Functions.
+  - Experience with Redis, Kafka, SQS, or other messaging and
+    caching systems.
+  - Experience with AI infrastructure frameworks such as
+    LangChain, LangGraph, or LlamaIndex.
+  - Experience with vector databases such as Pinecone, Weaviate,
+    Qdrant, or pgvector.
+  - Experience with GPU infrastructure, MLOps, or AI inference
+    systems.
+  - Experience working in an early-stage startup or building
+    products from zero to one.
+
+  You probably shouldn't apply if...
+
+  - You prefer maintaining existing infrastructure over
+    designing new systems.
+  - You rely on predefined architecture rather than making
+    technical decisions independently.
+  - You're uncomfortable working in fast-moving environments
+    where priorities evolve.
+  - You prefer narrowly defined responsibilities over end-to-end
+    ownership.
+  - You're looking for a role focused primarily on operations
+    rather than architecture, automation, and platform
+    engineering.
+
+  The best time to join Valerie was yesterday. The next best
+  time is now 🤓
+
+  👋Our Hiring Process
+
+  We want interviews to be valuable for both sides. Throughout
+  the process, you'll meet the people you'll work with, learn
+  more about the role, and get a chance to understand how we
+  think and operate.
+
+  Our process typically includes:
+
+  - Introductory conversation with our Talent team <> 30 mins
+  - Hiring Manager interview <> 30-45 mins
+  - Role-specific assessment or practical exercise (where
+    applicable)
+  - Cross-functional or stakeholder interviews <> 30-45 mins
+  - Final conversation with leadership <> 30-45 mins
+
+  We'll always let you know what to expect before each stage.
+
+  💪🏾What You Can Expect
+
+  - Meaningful work with visible impact
+  - High ownership from day one
+  - Collaboration with experienced founders, operators, and
+    specialists
+  - A team that values curiosity, initiative, and continuous
+    improvement
+  - Competitive compensation and the tools you need to do your
+    best work
+  - Opportunities to grow as Valerie grows
+
+  Valerie is committed to building an inclusive workplace
+  where people from different backgrounds, experiences, and
+  perspectives can thrive. We hire based on skills, potential,
+  and the ability to contribute to our team.
+industries:
+  - Artificial Intelligence
+  - eCommerce
+  - Marketing Tech
+  - Financial Services
+posted_date: 2026-09-15
+url: "https://builtin.com/job/founding-cloud-infrastructure-engineer-ai-platform/11181251"
+source: Built In

@@ -1,0 +1,92 @@
+company:
+  name: Nebius
+  stage: 'publicly traded (Nasdaq: NBIS)'
+  focus: AI cloud infrastructure and applied AI research
+position:
+  title: Senior ML Engineer (AI Research, Physical AI)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behaviour through training/fine-tuning
+      large foundation models and RL/imitation learning for
+      robotic agents. The focus is vision-language-action, world
+      models, and sim-to-real robotics — classical ML/DL with no
+      prompt, retrieval, or LLM-agent shaping; generative
+      components here are multimodal/video models trained and
+      evaluated rather than steered.
+  responsibilities:
+  - Design, implement, train, and evaluate large models and learning algorithms for
+    robotic agents
+  - Develop vision-language-action architectures connecting multimodal perception
+    and language understanding with physical control
+  - Investigate reinforcement learning and imitation learning methods for sparse or
+    difficult-to-verify objectives
+  - Build scalable methods for incorporating demonstrations, teleoperation data, video,
+    simulation trajectories, and robot experience into foundation models
+  - Design capture methodologies, datasets, evaluation protocols, and data-quality
+    pipelines for embodied learning
+  - Develop simulation environments and conduct sim-to-real experiments on physical
+    robotic platforms
+  - Write robust research software and distributed training infrastructure for rapid
+    experimentation
+  - Communicate results through technical reports, open-source releases, demos, and
+    publications
+  use_cases:
+  - Vision-language-action models for general-purpose robotic control
+  - Reinforcement and imitation learning from human demonstrations, simulation, and
+    real-world experience
+  - Scalable collection and curation of multimodal embodied data
+  - Simulation, world models, and sim-to-real transfer
+  - Dexterous manipulation and whole-body control for robotic agents
+  - Multimodal sensing including vision, touch, force, and proprioception
+  skills:
+    genai: []
+    ml: [Machine Learning, Reinforcement Learning, Imitation Learning, Deep Learning,
+      Transformers, Model Training, Fine-Tuning, JAX, Model Evaluation, Quantization,
+      FlashAttention, Reward Modeling, Preference Learning, PPO, FSDP, ZeRO]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Training, CI/CD, MuJoCo, Isaac Sim, Isaac Lab, PyBullet, ROS]
+    languages: [Python]
+    domains: [Robotics, Computer Vision]
+    other: [Code Review, Version Control]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11223547'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - ISR
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - GBR
+  remote: true
+  extracted_at: '2026-09-23T11:27:58.161936'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

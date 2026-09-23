@@ -1,0 +1,49 @@
+company:
+  name: Elfonze Technologies Pvt Ltd
+  stage: null
+  focus: Oracle Cloud ERP and AI development services
+position:
+  title: Oracle AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents with Oracle Fusion AI Studio and
+      applies LLM concepts (RAG, embeddings, multi-agent systems)
+      with enterprise integration, which is shaping LLM/agent
+      behaviour. Hence ai-first.
+  responsibilities:
+  - Build AI agents using Oracle Fusion AI Studio
+  - Develop solutions with OCI services including GenAI Service, Functions, API Gateway,
+    Data Science, Autonomous DB, and OIC AI Data Platform
+  - Build PaaS extensions with OIC, VBCS, BI Publisher, and Redwood UI
+  - Integrate LLM concepts such as RAG, embeddings, and multi-agent systems with enterprise
+    applications
+  - Support Oracle ERP Cloud (Financials/SCM) solutions
+  - Apply RBAC security, compliance, and governance practices in Fusion Cloud
+  use_cases:
+  - Agentic AI solutions for Oracle Fusion Cloud ERP
+  - AI-powered automation for Financials and SCM processes
+  - LLM integration with enterprise applications via RAG and multi-agent systems
+  - Enterprise AI platform development on OCI
+  skills:
+    genai: [AI Agents, Oracle GenAI Service, Generative AI, LLMs, Embeddings, RAG,
+      Multi-Agent Systems, LangChain, LangGraph]
+    ml: [NVIDIA NIM, Hugging Face, Machine Learning]
+    web: [REST APIs]
+    databases: [Autonomous Database]
+    data: []
+    cloud: [Oracle Fusion AI Studio, OCI, Oracle Functions, Oracle API Gateway, Oracle
+        Data Science, AWS, Azure, GCP]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Oracle Integration Cloud, Oracle VBCS, BI Publisher, Redwood UI, Oracle
+        ERP Cloud, RBAC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11273062'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:33:32.590081'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

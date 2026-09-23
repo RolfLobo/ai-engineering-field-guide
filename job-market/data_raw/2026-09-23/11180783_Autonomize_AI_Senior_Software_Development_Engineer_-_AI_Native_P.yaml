@@ -1,0 +1,127 @@
+job_id: 11180783
+title: Senior Software Development Engineer - AI Native Platform
+company: Autonomize AI
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 289097 Employees
+description: |
+  About Autonomize AI
+
+  Autonomize AI is building the intelligence layer for
+  healthcare. Our Genesis platform replaces brittle, manual
+  knowledge workflows with AI agents that reason, retrieve,
+  and act - reducing administrative burden so clinicians can
+  focus on patients.
+
+  We're looking for engineers who don't just integrate AI into
+  software - they think in agents, design for inference, and
+  treat LLMs as first-class infrastructure.
+
+  The Opportunity
+
+  You'll architect and ship across the full Genesis stack:
+  agentic pipelines, backend APIs, data infrastructure, and
+  clinical-facing UI. You'll work directly with founders and
+  customers. You'll own things end-to-end.
+
+  This is not a role where you bolt AI onto existing CRUD.
+  You'll be making foundational decisions about how
+  intelligent systems are designed, evaluated, and operated at
+  scale in a regulated industry.
+
+  You're a Fit If You Have
+
+  1) AI-native engineering is your default mode
+
+  - You've built production systems where LLMs are doing real
+    work - not demos, not PoCs
+  - You've designed and shipped RAG pipelines, multi-agent
+    workflows, or tool-using agents in production
+  - You understand prompt engineering as an engineering
+    discipline: versioning, evaluation, regression testing
+  - You've instrumented AI systems for observability - latency,
+    token usage, hallucination rate, drift
+  - You can reason about model tradeoffs (context length, cost,
+    latency, accuracy) and make architectural calls
+    accordingly
+  - You've worked with LLM SDKs (OpenAI, Anthropic, Bedrock,
+    etc.) and agentic orchestration frameworks (LangChain,
+    LlamaIndex, CrewAI, or similar)
+
+  2) You build robust backend systems
+
+  - 6 + years building production web applications from scratch
+  - Deep Python proficiency; comfortable with FastAPI, Django,
+    or Flask in production
+  - Experience designing APIs that serve both humans and AI
+    agents (tool schemas, structured outputs, streaming)
+  - Async-first thinking: asyncio, task queues, event-driven
+    architectures
+  - Kafka, Redis, or ActiveMQ for real-time data movement
+  - Postgres, Elasticsearch, MongoDB, or graph databases (Neo4j,
+    TigerGraph) in production
+
+  3) You operate at cloud scale
+
+  - Docker and Kubernetes in production - this is a hard
+    requirement
+  - At least one public cloud (AWS, Azure, GCP) with real
+    operational experience
+  - Microservices and cloud-native design patterns
+  - You've been on-call. You know what a bad deploy feels like
+    at 2am.
+  - You can ship a frontend when the product demands it
+  - React, TypeScript, or modern JS frameworks
+  - Enough frontend fluency to build clinical interfaces without
+    a dedicated frontend handoff
+
+  Bonus Points
+
+  - Led a small engineering team - mentored, reviewed, unblocked
+  - CKAD or equivalent Kubernetes certification
+  - ML/DL model deployment experience (PyTorch, scikit-learn)
+  - Built evaluation harnesses or used MLflow, LangSmith, or
+    similar for AI observability
+  - Healthcare domain experience (FHIR, HL7, clinical workflows)
+
+  What We Value Above Credentials
+
+  Bias toward action - you ship, then iterate. You learn by
+  doing, not by planning.
+
+  Owner mentality - you don't wait for permission. You
+  identify what needs to exist and build it.
+
+  Intellectual honesty - you'd rather say "I don't know, let
+  me find out". When unsure, seek the right information from
+  your peers or leaders.
+
+  Async-first communication - you write clearly, document
+  decisions, and work well across time zones.
+
+  What You'll Get
+
+  Ground floor equity in a VC-backed healthcare AI company
+  growing fast
+
+  Full-stack ownership - no handoffs, no silos, no "that's not
+  my team"
+
+  Direct access to founders and customers - your technical
+  decisions will be seen and felt
+
+  Professional development budget - conferences, courses,
+  certifications, books
+
+  Flexible, remote-friendly culture built around output, not
+  hours
+
+  If you've been waiting for a role where AI isn't a feature -
+  it's the foundation - this is it.
+industries:
+  - Healthtech
+  - Information Technology
+  - Internet of Things
+posted_date: 2026-09-15
+url: "https://builtin.com/job/senior-software-development-engineer-ai-native-platform/11180783"
+source: Built In

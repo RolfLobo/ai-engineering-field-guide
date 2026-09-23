@@ -1,0 +1,107 @@
+job_id: 10974550
+title: Software Engineer - II (AI)
+company: Attentive.ai
+location: Noida, IND
+work_type: FULL_TIME
+company_size: 300 Employees
+description: |
+  About Us: Attentive.ai is a fast-growing vertical SaaS
+  start-up, funded by Peak XV (Surge), InfoEdge, Insight
+  Partners, Vertex Ventures, and Tenacity Ventures that
+  provides innovative software solutions for the landscape,
+  paving & construction industries in the United States. Our
+  mission is to help businesses in this space improve their
+  operations and grow their revenue through our simple & easy-
+  to-use software platforms.
+
+  Position Description: As an SDE-II AI Engineer, you will sit
+  at the intersection of our AI Research and Engineering
+  teams, owning the path that takes computer vision, NLP, and
+  multi-modal models from research prototypes to reliable,
+  scalable production systems. You will build and operate the
+  infrastructure, pipelines, and tooling that let our models
+  run efficiently in production, powering automated
+  construction take-off and estimation from blueprints,
+  drawings, and PDF documents.
+
+  In this role, you will work closely with Research Engineers
+  and Backend Engineers to close the gap between
+  experimentation and deployment, designing training and
+  inference pipelines, setting up experiment tracking and
+  model versioning, and building the monitoring and
+  observability that keep our AI systems accurate and
+  dependable at scale.
+
+  Roles & Responsibilities:
+
+  - Own the end-to-end MLOps lifecycle, from model packaging and
+    CI/CD to deployment, monitoring, and rollback for computer
+    vision, NLP, and multi-modal models.
+  - Design and maintain scalable training and inference
+    pipelines for large datasets and models, optimizing for
+    cost, latency, and throughput.
+  - Build and manage containerized deployment infrastructure
+    (Docker, Kubernetes) for hosted deep learning and
+    geoprocessing services.
+  - Set up and maintain experiment tracking, model registry, and
+    versioning systems to ensure reproducibility across the
+    research-to-production lifecycle.
+  - Implement model monitoring and observability — drift
+    detection, performance degradation alerts, logging, and
+    dashboards, for models running in production.
+  - Apply model optimization techniques (quantization, pruning,
+    knowledge distillation) to improve inference efficiency in
+    production.
+  - Collaborate with Research Engineers, Backend Engineers, and
+    Product teams to translate research ideas into deployable,
+    production-ready services.
+  - Develop and maintain infrastructure-as-code, monitoring, and
+    logging for all deployed ML/AI software.
+  - Evaluate, profile, and continuously improve the reliability,
+    scalability, and cost-efficiency of existing ML systems.
+  - Stay current with evolving MLOps tooling and best practices
+    and evaluate applicability to construction industry
+    challenges.
+
+  Skills & Requirements
+
+  - 3+ years of experience in MLOps, ML infrastructure, or
+    applied AI/ML engineering, with exposure to Computer
+    Vision or NLP systems.
+  - Hands-on experience with workflow orchestration frameworks
+    (preferably Temporal) for building reliable, fault-
+    tolerant, long-running distributed workflows.
+  - Strong proficiency in Python and hands-on experience with ML
+    frameworks such as PyTorch, TensorFlow, OpenCV, or
+    HuggingFace Transformers.
+  - Hands-on experience with Docker, Kubernetes, and
+    containerized ML deployment pipelines in production
+    environments.
+  - Experience building and maintaining CI/CD pipelines for ML
+    systems (e.g., Jenkins, GitHub Actions, GitLab CI).
+  - Working knowledge of experiment tracking and model registry
+    tools (e.g., MLflow, Weights & Biases, DVC).
+  - Experience with cloud environments (GCP, AWS, or Azure) and
+    infrastructure-as-code practices.
+  - Familiarity with messaging and data processing pipelines
+    (e.g., Apache Kafka, RabbitMQ) and distributed web
+    services.
+  - Understanding of model optimization techniques such as
+    quantization, pruning, and knowledge distillation - Good
+    to have.
+  - Experience with version control systems (e.g., Git) and
+    project tracking tools (e.g., JIRA).
+  - Familiarity with PostGIS or other geo-databases and
+    Geographic Information Systems - Good to have.
+  - Strong analytical and problem-solving skills with a passion
+    for building reliable, scalable systems; comfortable
+    working in a fast-paced, agile, startup-like environment.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Business Intelligence
+  - Agriculture
+  - Automation
+posted_date: 2026-09-02
+url: "https://builtin.com/job/software-engineer-ii-ai/10974550"
+source: Built In

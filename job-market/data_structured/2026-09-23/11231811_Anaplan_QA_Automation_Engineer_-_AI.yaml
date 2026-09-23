@@ -1,0 +1,55 @@
+company:
+  name: Anaplan
+  stage: null
+  focus: AI-infused scenario planning and analysis platform
+position:
+  title: QA Automation Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation frameworks and regression tests
+      for prompt/model behaviour in LLM-powered applications,
+      including adversarial testing for hallucinations and biases
+      — this is building evals and output-quality monitoring for
+      models, which is shaping. The targets are LLMs and agentic
+      systems, so it is ai-first.
+  responsibilities:
+  - Develop and execute end-to-end automated test coverage across evaluations, APIs,
+    UIs, and performance tests using Python
+  - Implement testing strategies for GenAI features including conversational AI, agentic
+    systems, and LLM-powered workflows
+  - Run and maintain automated test suites for prompt testing, including regression
+    tests to detect unintended changes in model behaviour
+  - Support and maintain evaluation frameworks measuring GenAI performance across
+    accuracy, relevance, safety, consistency, and latency
+  - Curate high-quality test datasets and golden examples covering diverse user scenarios
+    and edge cases
+  - Perform adversarial testing to identify model hallucinations or biases and support
+    production alerting integration
+  - Maintain internal testing frameworks and tooling for developer validation and
+    user acceptance testing
+  use_cases:
+  - Quality assurance for LLM-powered scenario planning features
+  - Regression detection for unintended changes in model behaviour
+  - Evaluation of GenAI accuracy, relevance, safety, consistency, and latency
+  - Adversarial testing for hallucinations and biases in AI features
+  - Automated validation of conversational and agentic AI systems
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Agents, Generative AI, Conversational AI]
+    ml: []
+    web: [API Testing, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Pytest, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Postman, REST Assured, Test Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11231811'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:28:48.400917'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

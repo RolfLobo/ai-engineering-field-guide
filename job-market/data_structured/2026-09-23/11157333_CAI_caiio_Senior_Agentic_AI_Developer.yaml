@@ -1,0 +1,53 @@
+company:
+  name: CAI (cai.io).
+  stage: null
+  focus: Global IT and business services firm
+position:
+  title: Senior Agentic AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic systems, RAG workflows,
+      prompt engineering, and fine-tuning of LLMs, directly
+      shaping model behavior and output quality. LLM/agent
+      components are central, so ai-first.
+  responsibilities:
+  - Design, develop, and deploy multi-agent systems and agentic applications using
+    AutoGen, LangGraph, CrewAI
+  - Build intelligent workflow orchestration systems for autonomous decision-making
+    and task execution
+  - Implement A2A communication protocols and MCP for agent collaboration
+  - Design and implement RAG, Vector DB, and Knowledge Graph based information retrieval
+    architectures
+  - Evaluate, build, and fine-tune ML models and LLMs for complex business problems
+  - Deploy cloud-hosted Generative AI solutions on AWS and on-premises infrastructure
+  - Integrate RAG workflows, agent-based systems, and automation frameworks into applications
+  - Establish best practices for building, testing, and deploying scalable AI solutions
+  use_cases:
+  - Autonomous multi-agent systems for decision-making
+  - Business process automation with self-healing adaptive workflows
+  - Enterprise information retrieval via RAG, vector databases, and knowledge graphs
+  - Cloud-hosted generative AI applications for business outcomes
+  skills:
+    genai: [AutoGen, LangGraph, CrewAI, Agentic Workflows, Multi-Agent Systems, MCP,
+      OpenAPI, RAG, Prompt Engineering, Fine-Tuning, LLMs, Generative AI, LangChain,
+      LlamaIndex, Function Calling]
+    ml: [PyTorch, TensorFlow, Hugging Face, scikit-learn, NLP, Transformers, Reinforcement
+        Learning, Machine Learning, Deep Learning]
+    web: [Node.js]
+    databases: [Vector Databases, Pinecone, Weaviate, Milvus, Chroma, Knowledge Graphs,
+      Neo4j]
+    data: [Airflow, Prefect, Data Pipelines]
+    cloud: [AWS, AWS Bedrock, SageMaker]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, LLMOps, Temporal]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11157333'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:22:46.238153'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

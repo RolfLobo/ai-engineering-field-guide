@@ -1,0 +1,49 @@
+company:
+  name: Zinier
+  stage: null
+  focus: No-code field service automation platform
+position:
+  title: SDET-AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role validates LLM responses for accuracy, groundedness,
+      and hallucinations, and builds automated AI evaluation and
+      regression frameworks with golden datasets. Judging model
+      output quality is shaping an LLM's behaviour, so this is ai-
+      first rather than plain QA support.
+  responsibilities:
+  - Test AI/LLM-powered backend services, APIs, and workflows
+  - Validate AI responses for accuracy, relevance, groundedness, and hallucinations
+  - Build automated AI evaluation and regression frameworks using golden datasets
+    and benchmarks
+  - Test REST APIs, microservices, asynchronous workflows, and service integrations
+  - Perform performance, load, resilience, and failure testing
+  - Develop automation and integrate quality checks into CI/CD pipelines
+  - Validate intelligent scheduling outcomes against business and operational constraints
+  use_cases:
+  - Testing AI/LLM-powered backend services and APIs
+  - AI response validation for accuracy, groundedness, and hallucinations
+  - Intelligent scheduling for field service operations
+  - Field service workflow automation
+  - Quality and regression frameworks for AI-driven capabilities
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, AI Agents, AI Evaluation]
+    ml: []
+    web: [REST APIs, Microservices, Playwright, Selenium, REST Assured]
+    databases: []
+    data: [Kafka]
+    cloud: [Cloud Platforms]
+    ops: [CI/CD, Kubernetes, Prometheus, Grafana, Datadog, OpenTelemetry, Distributed
+        Systems]
+    languages: [Java, Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11069318'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:17:14.714069'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

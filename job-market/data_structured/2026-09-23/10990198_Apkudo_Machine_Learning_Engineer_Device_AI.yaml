@@ -1,0 +1,54 @@
+company:
+  name: Apkudo
+  stage: null
+  focus: |-
+    Automated device testing and cosmetic inspection for
+    connected devices
+position:
+  title: Machine Learning Engineer, Device AI
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds and trains classical computer vision models
+      for automated device inspection, including data cleaning,
+      model training, evaluation, and monitoring. Generative AI is
+      only mentioned as a familiarity/bonus item, so it doesn't
+      make the role ai-first. No LLM shaping is done as core work.
+  responsibilities:
+  - Build and maintain computer vision and ML pipelines for automated visual inspection
+    and quality grading
+  - 'Support model development: data exploration, cleaning, feature engineering, model
+    training, and evaluation'
+  - Write production-quality Python code following team standards
+  - Participate in code reviews as reviewer and reviewee
+  - Build and maintain model evaluation and monitoring tooling and flag data quality
+    issues
+  - Work with data labeling and annotation pipelines to improve training data quality
+  - Collaborate with product and operations partners to translate requirements into
+    technical tasks
+  - Document experiments, pipeline changes, and design decisions
+  use_cases:
+  - Automated cosmetic inspection of devices
+  - Automated quality grading and assessment of devices at scale
+  - Data labeling and annotation for training data quality
+  skills:
+    genai: [Generative AI, Agentic Workflows]
+    ml: [Machine Learning, Model Training, Model Evaluation, Feature Engineering,
+      OpenCV, PIL]
+    web: []
+    databases: [PostgreSQL, Relational Databases]
+    data: []
+    cloud: [AWS]
+    ops: [Model Monitoring]
+    languages: [Python, SQL]
+    domains: [Computer Vision]
+    other: [Agile, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10990198'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:11:33.023360'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

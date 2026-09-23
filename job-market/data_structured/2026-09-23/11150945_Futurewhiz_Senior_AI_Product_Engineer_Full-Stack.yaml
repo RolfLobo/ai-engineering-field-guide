@@ -1,0 +1,54 @@
+company:
+  name: Futurewhiz
+  stage: null
+  focus: EdTech company for children's learning platforms
+position:
+  title: Senior AI Product Engineer (Full-Stack)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM and agent-based workflows including
+      prompts, evaluations, feedback loops, observability and
+      safeguards for a generative AI content product, which is
+      direct shaping of LLM behavior. Hence ai-first.
+  responsibilities:
+  - Own the technical direction for an AI-assisted product area from early discovery
+    through production operation
+  - 'Build across the stack: Python services and APIs, data flows, user-facing interfaces
+    and infrastructure'
+  - Design robust LLM and agent-based workflows including prompts, evaluations, feedback
+    loops, observability and safeguards
+  - Translate editorial research and user feedback into technical options and testable
+    plans
+  - Develop reusable platform capabilities and integration patterns supporting multiple
+    content workflows
+  - Set and apply standards for reliability, security, maintainability, quality and
+    cost
+  - Investigate difficult failures across components and keep production systems effective
+    as usage grows
+  - Raise the engineering bar through design discussions, code reviews, pairing and
+    informal mentoring
+  use_cases:
+  - AI-assisted generation of textbook and digital learning content
+  - Curriculum-aligned, editable and trusted educational publishing workflows
+  - Content automation to improve speed, cost and editorial effort
+  - Early discovery-to-production pipeline for AI experiments in publishing
+  skills:
+    genai: [LLMs, Agentic Workflows, Prompt Engineering, LLM Evaluation]
+    ml: [Machine Learning]
+    web: [APIs, React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11150945'
+  location: Amsterdam, NLD
+  extracted_at: '2026-09-23T11:22:27.072940'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

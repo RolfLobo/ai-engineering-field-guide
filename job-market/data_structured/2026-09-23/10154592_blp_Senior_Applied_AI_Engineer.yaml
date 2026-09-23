@@ -1,0 +1,57 @@
+company:
+  name: blp
+  stage: null
+  focus: |-
+    Agentic platform automating finance and operations business
+    processes
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI-powered internal tools by evaluating,
+      chaining, and integrating LLMs, agent frameworks, and
+      embedding pipelines into production solutions — directly
+      shaping model behavior and output quality of LLM/agent
+      systems, so it is ai-first.
+  responsibilities:
+  - Build and ship AI-powered internal tools for hiring, finance and ops workflows
+    quickly
+  - Evaluate, integrate, and chain the latest AI models, APIs, and frameworks into
+    production-ready internal solutions
+  - Document and share tools so they free up hours company-wide
+  - Write clean, maintainable code integrating with existing systems (APIs, databases,
+    third-party services)
+  - 'Own deployments end-to-end: build, test, ship, and monitor tools for reliable
+    operation'
+  - Collaborate with non-technical teams to turn pain points into automated solutions
+  use_cases:
+  - Automating internal hiring workflows
+  - Automating internal finance workflows
+  - Automating internal operations workflows
+  - Company-wide productivity via AI-powered internal tooling
+  skills:
+    databases: [Databases, Supabase]
+    domains: []
+    data: []
+    web: [APIs]
+    ml: []
+    ops: []
+    other: [Workflow Automation, Make, n8n, Retool]
+    cloud: []
+    languages: []
+    genai: [LLMs, AI Agents, Embeddings, AI Coding Tools, Agentic Workflows]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10154592'
+  location: GBR
+  locations:
+  - GBR
+  - ESP
+  - Barcelona, ESP
+  - London, GBR
+  remote: true
+  extracted_at: '2026-09-23T10:58:44.367486'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: Élisa
+  stage: null
+  focus: AI assistant for building editable 3D scenes
+position:
+  title: Cloud Platform Engineer — AI/3D
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a cloud platform/infrastructure role: running,
+      securing, and scaling a GCP platform that supports AI models
+      someone else builds. The person does not shape model
+      behavior through prompts, retrieval, or training, so it is
+      ai-support. AI/3D is only mentioned as product context and a
+      nice-to-have.
+  responsibilities:
+  - Design, harden, and scale the GCP cloud platform supporting event-driven services,
+    AI models, and automated releases
+  - Build and secure cloud environments including network rules, access controls,
+    and encryption
+  - Maintain infrastructure-as-code for repeatable, automated deployments
+  - Prepare for and remediate penetration tests and vulnerability scans
+  - Create monitoring dashboards and drive observability
+  - Lead on-call and drive post-incident improvements
+  use_cases:
+  - Real-time 3D scene assembly from natural conversation
+  - Cloud platform supporting event-driven services and AI models for game, advertising,
+    and film production
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [Infrastructure as Code, CI/CD, Observability, Incident Management, Performance
+        Tuning]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10951748'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:08:59.114577'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

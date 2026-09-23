@@ -1,0 +1,161 @@
+job_id: 11076922
+title: Software Engineer, AI - Python
+company: Telnyx
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Telnyx
+
+  Telnyx is an industry leader that's not just imagining the
+  future of global connectivity—we're building it. From
+  architecting and amplifying the reach of a private, global,
+  multi-cloud IP network, to bringing hyperlocal edge
+  technology right to your fingertips through intuitive APIs,
+  we're shaping a new era of seamless interconnection between
+  people, devices, and applications.
+
+  We're driven by a desire to transform and modernize what's
+  antiquated, automate the manual, and solve real-world
+  problems through innovative connectivity solutions. As a
+  testament to our success, we're proud to stand as a
+  financially stable and profitable company. Our robust
+  profitability allows us not only to invest in pioneering
+  technologies but also to foster an environment of continuous
+  learning and growth for our team.
+
+  Our collective vision is a world where borderless
+  connectivity fuels limitless innovation. By joining us, you
+  can be part of laying the foundations for this
+  interconnected future. We're currently seeking passionate
+  individuals who are excited about the opportunity to
+  contribute to an industry-shaping company while growing
+  their own skills and careers.
+
+  About the Team
+
+  The RevOps team owns the systems layer, operations &
+  automation that supports Telnyx's growth engine.
+  Historically, that meant administering GTM tools used by
+  humans: Salesforce, marketing automation, enrichment
+  vendors, routing, campaign workflows, reporting, and vendor
+  integrations.
+
+  That operating model is changing. Telnyx is increasingly
+  building AI agents and automation that interact directly
+  with the GTM stack. The systems team now needs to support
+  both human-facing workflows and bot-facing infrastructure:
+  clean data, reliable integrations, durable automations,
+  documented process, and scalable operating patterns.
+
+  About the Role
+
+  We're looking for a Software Engineer who builds and
+  operates the AI-native backend systems powering our go-to-
+  market motion. You'll design multi-agent architectures,
+  build reliable integrations across complex business systems,
+  and own services end-to-end from prototype through
+  production.
+
+  The systems you build orchestrate LLM-powered agents that
+  handle real business workflows — qualifying leads,
+  generating emails, routing meetings, enriching contacts, and
+  managing outbound campaigns. These are stateful, multi-step
+  agent systems running on Kubernetes that make decisions,
+  call tools, and interact with external APIs under real
+  constraints: rate limits, token budgets, cost targets, and
+  data quality issues.
+
+  You'll partner with Engineering Leads and Technical Product
+  Managers to understand the problem space, then translate
+  those problems into well-architected, observable, and
+  maintainable software. This isn't prompt engineering and it
+  isn't gluing together SaaS tools - it's systems engineering
+  with AI as a core primitive.
+
+  This is a hands-on builder role with high ownership. You'll
+  make architectural decisions, ship iteratively, debug
+  production issues, and care deeply about what happens after
+  code merges.
+
+  Responsibilities
+
+  - Design and build multi-agent AI systems in Python that
+    handle complex, multi-step business workflows -
+    qualification, email generation, routing, enrichment, and
+    outbound orchestration
+  - Architect model-agnostic abstraction layers that decouple
+    business logic from LLM providers, enabling flexibility
+    across Claude, GPT, and open-source models
+  - Build and operate backend services (FastAPI/Flask) deployed
+    on Kubernetes with CI/CD, managing the full lifecycle from
+    deployment configuration to production reliability
+  - Design tool-use patterns for AI agents - structured function
+    calling, multi-step reasoning, state management across
+    conversation turns, and graceful handling of model
+    failures
+  - Build integrations across external systems (CRM, enrichment
+    APIs, outreach platforms, Slack) with proper error
+    handling, retries, rate limiting, and data contracts
+  - Instrument and monitor AI systems in production — build
+    observability into agent behavior, track success rates,
+    detect regressions, and debug non-deterministic failures
+  - Design and run experiments (A/B tests, prompt variations,
+    model comparisons) with proper evaluation infrastructure
+    to measure what's actually working
+
+  Requirements
+
+  - 2+ years of software engineering experience building backend
+    services in Python
+  - Production experience building multi-step AI agent systems —
+    stateful workflows where models make decisions, call
+    tools, and operate across multiple turns, not single-shot
+    API wrappers
+  - Strong understanding of LLM internals as they affect system
+    design: context window management, token budgets,
+    cost/latency/capability tradeoffs across models,
+    structured outputs, and strategies for handling
+    hallucination and refusals
+  - Experience testing and evaluating non-deterministic AI
+    systems — you understand that assert output == expected
+    doesn't work and have built or used alternatives
+  - Solid software architecture fundamentals: API design, state
+    management, fault tolerance, and graceful degradation when
+    upstream services fail
+  - Production experience with containerized deployments
+    (Docker, Kubernetes) and CI/CD pipelines
+  - Experience integrating with external APIs at scale — auth
+    flows, rate limiting, retries, data normalization, and
+    managing the operational complexity of multiple third-
+    party dependencies
+  - Proficiency with SQL and data systems for building
+    targeting, enrichment, and analytics pipelines
+  - Built observability into production systems — structured
+    logging, tracing, alerting, and monitoring that you
+    actually use to debug issues
+  - High ownership: you deploy your own code, investigate your
+    own incidents, and close the loop between what you shipped
+    and how it performs
+
+  Nice to Have
+
+  - Experience with specific GTM/RevOps systems (Salesforce,
+    Apollo, Lusha, enrichment providers) or similar complex
+    business platforms
+  - Background in growth engineering, marketing automation, or
+    revenue operations tooling
+  - Experience with Slack bot development or conversational AI
+    interfaces
+  - Contributions to or experience with open-source AI agent
+    frameworks
+  - Familiarity with ArgoCD, StatefulSets, or Kubernetes
+    operations beyond basic deployments
+industries:
+  - Big Data
+  - Internet of Things
+  - Mobile
+  - Other
+posted_date: 2026-09-09
+url: "https://www.builtinla.com/job/software-engineer-gtm-ai-python/11076922"
+source: Built In

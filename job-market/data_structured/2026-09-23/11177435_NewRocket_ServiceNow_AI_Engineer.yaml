@@ -1,0 +1,59 @@
+company:
+  name: NewRocket
+  stage: null
+  focus: ServiceNow consulting and enterprise AI implementation
+position:
+  title: ServiceNow AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role implements and configures ServiceNow's pre-built AI
+      features (Now Assist, Virtual Agent, Predictive
+      Intelligence) and builds workflows/integrations around them.
+      There is no evidence the engineer shapes model behavior
+      through prompts, retrieval design, or training; they deploy
+      product-based AI capabilities designed by ServiceNow, which
+      is ai-support.
+  responsibilities:
+  - Gather systems requirements from end-users, IT teams, and key stakeholders
+  - Design, develop, and deploy AI-driven applications and workflows on the ServiceNow
+    platform
+  - Integrate machine learning, NLP, and predictive analytics solutions into ServiceNow
+    modules (ITSM, ITOM, CSM, HRSD)
+  - Design custom or product-based solutions based on ServiceNow applications
+  - Configure integrations between ServiceNow and other applications via REST/SOAP
+    web services
+  - Manage application development lifecycle including coding, testing, debugging,
+    troubleshooting, and documentation
+  - Promote update sets and data across ServiceNow environments and remediate production
+    incidents
+  - Align with ServiceNow technical leads on map/event work to maintain shared patterns
+  use_cases:
+  - AI-driven IT service management (case summarization and resolution recommendations)
+  - Conversational workflows and virtual agent support for service delivery
+  - Predictive analytics and machine learning insights across ServiceNow modules
+  - Enterprise system integration and data exchange via web services and ETL
+  - CMDB, discovery, and service mapping with impact assessment
+  skills:
+    databases: []
+    domains: []
+    data: [Data Pipelines, JDBC, ODBC]
+    web: [REST APIs, SOAP]
+    ml: [NLP]
+    ops: [UI Builder]
+    other: [ServiceNow, ServiceNow Virtual Agent, Predictive Intelligence, Now Assist,
+      ServiceNow CMDB, ServiceNow ITSM, ServiceNow ITOM, ServiceNow CSM, ServiceNow
+        HRSD, Service Catalog, ServiceNow Scripting, Predictive Analytics, Discovery,
+      Software Asset Management, ITIL]
+    cloud: []
+    languages: []
+    genai: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11177435'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:24:08.754418'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

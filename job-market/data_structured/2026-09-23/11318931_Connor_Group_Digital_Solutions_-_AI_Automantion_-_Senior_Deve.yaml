@@ -1,0 +1,49 @@
+company:
+  name: Connor Group
+  stage: null
+  focus: |-
+    Professional services firm specializing in finance,
+    accounting, and operations advisory
+position:
+  title: Digital Solutions - AI & Automantion - Senior Developer (MuleSoft)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an iPaaS integration developer role
+      (MuleSoft/Workato/Dell Boomi) with no LLM, model, or AI
+      component shaping work. Despite "AI & Automation" in the
+      title, responsibilities are entirely application integration
+      and data transformation.
+  responsibilities:
+  - Design, develop, deploy, and maintain integration processes between 3rd party
+    applications using MuleSoft or Workato
+  - Monitor, troubleshoot, and support existing integration implementations for clients
+  - Build and configure API endpoint connections and integration solutions for customers
+  - Design and implement data transformation logic including cleansing, aggregation,
+    joins, and merges
+  - Run SIT and UAT testing, create remediation reports, and perform production support
+  - Produce integration deliverables and technical documentation for each client
+  - Mentor integration architects and developers
+  - Perform change management support for client stakeholders
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, SOAP, JSON, XML, WSDL, XSD, UDDI, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [MuleSoft, Workato, Dell Boomi, NetSuite, Salesforce, Workday, SOA, Message-Oriented
+        Integration, iPaaS, Agile, Unit Testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11318931'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:38:15.443223'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

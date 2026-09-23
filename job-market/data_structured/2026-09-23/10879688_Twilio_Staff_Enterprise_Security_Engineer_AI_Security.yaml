@@ -1,0 +1,51 @@
+company:
+  name: Twilio
+  stage: null
+  focus: Cloud communications and customer engagement APIs
+position:
+  title: Staff Enterprise Security Engineer, AI Security
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a security engineering role that secures the
+      enterprise AI ecosystem: secure reference architectures,
+      identity and posture management for AI agents, threat
+      modeling, and risk mitigation. The person does not shape
+      model behavior or output quality; they build security and
+      governance infrastructure around AI systems used by others,
+      which is ai-support.
+  responsibilities:
+  - Design and implement secure reference architectures for enterprise AI platforms
+  - Establish a definitive framework for AI vetting across the organization
+  - Develop the roadmap for agentic AI identity and posture management with cross-functional
+    partners
+  - Architect preventative guardrails to mitigate risks from first- and third-party
+    AI agents
+  - Maintain and improve enterprise security posture through code and infrastructure
+    as code
+  - Mentor junior engineers and advise leadership on the evolving AI security landscape
+  use_cases:
+  - Securing enterprise adoption of first- and third-party AI agents
+  - AI vetting framework for tool and platform approval
+  - Agentic AI identity and posture management
+  - Preventative security guardrails for enterprise AI platforms
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Kubernetes, Infrastructure as Code]
+    languages: [Python, Go, Java]
+    domains: []
+    other: [Security Engineering, Threat Modeling, Identity and Access Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10879688'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:04:07.895280'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

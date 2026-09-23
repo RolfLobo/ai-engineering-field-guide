@@ -1,0 +1,63 @@
+company:
+  name: FilmoreAI
+  stage: null
+  focus: |-
+    Data and AI intelligence layer for construction equipment
+    dealers
+position:
+  title: Founding Engineer, AI & ML Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes model behavior: builds agent
+      runtime and LangGraph workflows, owns model routing
+      decisions across Claude/GPT/Gemini, iterates on prompts,
+      builds golden-set evals, and designs LLM extraction.
+      LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Design and ship the agent runtime, wiring agent templates to live data via the
+    canonical schema and internal MCP tool registry
+  - Own the in-house Model Router across Claude, GPT, Gemini, and OSS models, managing
+    routing, prompt caching, failover, and eval-gated rollouts
+  - Build LLM-powered extraction and reasoning workflows over filings, work orders,
+    and spec sheets with typed Pydantic schemas and golden-set evals
+  - Migrate and extend the canonical data model including entity resolution across
+    dealer systems, telematics, and public records
+  - Build and maintain Python ingestion pipelines across public, third-party, and
+    partner sources handling rate limits, schema drift, and JS-rendered sites
+  - Operate the stack on Azure including Container Apps, Temporal Cloud for long-running
+    jobs, approval queues, and human-in-the-loop write-back paths
+  use_cases:
+  - Equipment domain reasoning over dealer ERP, CRM, telematics, and public records
+    data
+  - LLM-powered extraction from semi-structured and unstructured documents (filings,
+    work orders, spec sheets)
+  - 'Agent workflows for dealers spanning the machine lifecycle: acquisition, financing,
+    service, trade-in, disposition'
+  - Entity resolution across disconnected dealer systems into a single canonical data
+    model
+  - Aftermarket service intelligence leveraging messy dealer data
+  - Public data ingestion across UCC liens, construction projects, and contractor
+    records in all 50 states
+  skills:
+    genai: [LangGraph, LangChain, MCP, Agentic Workflows, Prompt Engineering, Structured
+        Outputs, Anthropic API, OpenAI API, Gemini, LLMs, LLM Evaluation, Claude Code,
+      Cursor, Pydantic AI]
+    ml: []
+    web: [FastAPI]
+    databases: [PostgreSQL, pgvector, Snowflake]
+    data: [Databricks, dbt, Data Pipelines]
+    cloud: [Azure]
+    ops: [Terraform, GitHub Actions, Datadog, LangSmith, Temporal]
+    languages: [Python, SQL]
+    domains: []
+    other: [Playwright, Airbyte, Twilio, Microsoft Fabric]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11116813'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:19:08.107933'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

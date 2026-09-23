@@ -1,0 +1,202 @@
+job_id: 9081453
+title: AI Infrastructure Engineer
+company: Intercom
+location: London, GBR
+work_type: FULL_TIME
+company_size: 900 Employees
+description: |
+  Fin, now part of Salesforce, is on a mission to help
+  businesses provide perfect customer experiences.
+
+  Our AI Agent Fin is the highest-performing AI Customer Agent
+  on the market today, enabling businesses to deliver
+  impeccable, always-on customer support across the customer
+  journey, from service, to sales, to ecommerce. Powered by
+  our own AI models, Fin resolves complex customer issues end-
+  to-end across every channel, with minimal set-up and
+  integration. Fin can also be combined with our natively
+  integrated Intercom help desk, giving modern support teams
+  one single system.
+
+  Together with Salesforce, the #1 AI CRM, where humans with
+  agents drive customer success, we're building the future of
+  customer experience. Here, ambition meets action. Tech meets
+  trust. And innovation isn't a buzzword, it's a way of life.
+  The world of work as we know it is changing, and we're
+  looking for Trailblazers who are passionate about bettering
+  business and the world through AI.
+
+  Ready to level up your career at the company leading
+  workforce transformation in the agentic era? You're in the
+  right place. Agentforce is the future of AI, and you are the
+  future of Salesforce.
+
+  What's the opportunity?
+
+  We’re looking for Senior+ AI Infrastructure Engineers to
+  build the systems that train and serve Fin's next generation
+  of AI products.
+
+  Fin is an AI company that builds from the GPU all the way up
+  to a user agent that resolves millions of customer service
+  queries a month.
+
+  You’ll join a small, highly technical team working at the
+  cutting edge of modern AI infrastructure. The AI Infra team
+  built the training pipelines and runs the inference for
+  custom models like Fin Apex, which outperforms frontier
+  models in customer service tasks, and is the foundation of
+  the AI Group's full stack approach to AI.
+
+  We’re particularly interested in engineers who have:
+
+  - A track record of working on model training or model
+    inference at scale, or on low‑level GPU coding (e.g. CUDA,
+    Triton). Experience with one is great, multiple is even
+    better.
+
+  What will I be doing?
+
+  As a Senior AI Infrastructure Engineer focused on model
+  training and inference, you will:
+
+  - Implement and scale training pipelines for large transformer
+    and LLM models, from data ingestion and preprocessing
+    through distributed training and evaluation.
+  - Build and optimize inference services that deliver
+    low‑latency, high‑reliability experiences for our
+    customers, including autoscaling, routing, and fallbacks.
+  - Work on GPU‑level performance: tuning kernels, improving
+    utilization, and identifying bottlenecks across our
+    training and inference stack.
+  - Collaborate closely with ML scientists to implement cutting
+    edge training and inference methods and bring them to
+    production.
+  - Play an active role in hiring, mentoring, and developing
+    other engineers on the team.
+  - Raise the bar for technical standards, reliability, and
+    operational excellence across Fin's AI platform.
+
+  Profile we’re looking for:
+
+  These are indicative, not hard requirements
+
+  We’re looking to hire Senior+ AI Infrastructure Engineers.
+  You’re likely a great fit if:
+
+  - You have 5+ years of experience in software engineering,
+    with a strong track record of shipping high‑quality
+    products or platforms.
+  - You hold a degree in Computer Science, Computer Engineering,
+    or a related field (or you have equivalent experience with
+    very strong fundamentals).
+  - You have hands‑on experience with one or more of the
+    following:
+  - Comfortable working in production environments at meaningful
+    scale (traffic, data, or organizational).
+  - You communicate clearly, can explain complex technical
+    topics to different audiences, and enjoy close
+    collaboration with both engineers and non‑engineers.
+  - You take pride in strong technical fundamentals, love
+    learning, and are willing to invest in your own
+    development.
+  - Have deep knowledge of at least one programming language
+    (for example Python, Ruby, Java, Go, etc.). Specific
+    language experience is less important than your ability to
+    write clean, reliable code and learn new stacks quickly.
+
+  Bonus skills & attributes
+
+  None of these are required, but they’re nice to have:
+
+  - Experience at AI native companies that train and/or run
+    inference for their own models (e.g. modern AI labs or
+    AI‑native product companies).
+  - Experience running training or inference workloads on
+    Kubernetes.
+  - Experience with AWS or other major cloud providers.
+  - Production experience with Python in ML or infrastructure
+    contexts.
+  - Demonstrated passion for technology through personal
+    projects, open source, meetups, or publishing content
+    about your work and learnings
+
+  #LI-Hybrid
+
+  Unleash Your Potential
+
+  When you join Salesforce, you’ll be limitless in all areas
+  of your life. Our benefits and resources support you to find
+  balance and be your best, and our AI agents accelerate your
+  impact so you can do your best. Together, we’ll bring the
+  power of Agentforce to organizations of all sizes and
+  deliver amazing experiences that customers love. Apply today
+  to not only shape the future — but to redefine what’s
+  possible — for yourself, for AI, and the world.
+
+  In the United States, compensation offered will be
+  determined by factors such as location, job level, job-
+  related knowledge, skills, and experience. Certain roles may
+  be eligible for incentive compensation, equity, and
+  benefits. At Fin, we want to give people what they need to
+  do the best work of their careers. Our benefits and programs
+  are designed to support your health and wellbeing, your
+  family, your time away from work, and your financial future.
+  Offerings vary by location in line with local practices and
+  requirements. Learn more about working at Fin and the
+  benefits we offer at fin.ai/careers. Pursuant to the San
+  Francisco Fair Chance Ordinance and the Los Angeles Fair
+  Chance Initiative for Hiring, Salesforce will consider for
+  employment qualified applicants with arrest and conviction
+  records.
+
+  Policies
+
+  Fin has a hybrid working policy. We believe that working in
+  person helps us stay connected, collaborate easier and
+  create a great culture while still providing flexibility to
+  work from home. We expect employees to be in the office at
+  least three days per week.
+
+  We have a radically open and accepting culture at Fin. We
+  avoid spending time on divisive subjects to foster a safe
+  and cohesive work environment for everyone. As an
+  organization, our policy is to not advocate on behalf of the
+  company or our employees on any social or political topics
+  out of our internal or external communications. We respect
+  personal opinion and expression on these topics on personal
+  social platforms on personal time, and do not challenge or
+  confront anyone for their views on non-work related topics.
+  Our goal is to focus on doing incredible work to achieve our
+  goals and unite the company through our core values.
+
+  Salesforce is an equal opportunity employer and maintains a
+  policy of non-discrimination with all employees and
+  applicants for employment. What does that mean exactly? It
+  means that at Salesforce, we believe in equality for all.
+  And we believe we can lead the path to equality in part by
+  creating a workplace that’s inclusive, and free from
+  discrimination. Know your rights: workplace discrimination
+  is illegal. Any employee or potential employee will be
+  assessed on the basis of merit, competence and
+  qualifications – without regard to race, religion, color,
+  national origin, sex, sexual orientation, gender expression
+  or identity, transgender status, age, disability, veteran or
+  marital status, political viewpoint, or other
+  classifications protected by law. This policy applies to
+  current and prospective employees, no matter where they are
+  in their Salesforce employment journey. It also applies to
+  recruiting, hiring, job assignment, compensation, promotion,
+  benefits, training, assessment of job performance,
+  discipline, termination, and everything in between.
+  Recruiting, hiring, and promotion decisions at Salesforce
+  are fair and based on merit. The same goes for compensation,
+  benefits, promotions, transfers, reduction in workforce,
+  recall, training, and education.
+industries:
+  - Cloud
+  - Information Technology
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/ai-infrastructure-engineer/9081453"
+source: Built In

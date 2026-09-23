@@ -1,0 +1,199 @@
+job_id: 11196357
+title: Software Engineer - AI
+company: Custral
+location: New York, USA
+work_type: FULL_TIME
+company_size: 2 Employees
+description: |
+  Software Engineer, AI
+
+  New York City. In person, five days a week. $130,000 to
+  $170,000 base, 0.3% to 0.75% equity.
+
+  What Custral is
+
+  Most CRMs stop at the closed deal. Everything after it,
+  implementation, support, renewal, product feedback, ends up
+  spread across five tools that don't share a record. Teams
+  bend their process to fit the software and keep the real
+  work in spreadsheets.
+
+  Custral is one workspace for the whole loop. Marketing,
+  sales, onboarding, success and product work from the same
+  customer records. You shape the objects, views and workflows
+  around how you run, instead of the other way around. AI
+  agents live in the data model rather than on top of it, with
+  real scoping, tool gating and model selection across OpenAI
+  and Anthropic. Stella, our assistant, works the same records
+  the rest of the product does, and asks before she sends
+  anything.
+
+  It is early. We're letting teams in a few at a time.
+
+  The role
+
+  Own the part of Custral that does the work on its own.
+
+  Agents here are not a chat box bolted onto a CRM. They have
+  first-class scoping, tool gating and model selection across
+  OpenAI and Anthropic, and they write into the same records
+  the rest of the product reads. Stella sits on top of that,
+  and by default she asks before she sends anything. You'd own
+  the runtime underneath both: the tool layer, how context
+  gets assembled out of Postgres and OpenSearch, how a run is
+  traced when it goes wrong, and how we know a change made it
+  better instead of just different.
+
+  That last part matters most. Agent quality is not a vibe.
+  You'll build the evals, the regression suites and the
+  tracing that let us ship a prompt or a model change on
+  evidence.
+
+  It is still full-stack work. The agent surfaces are React,
+  the runtime is Node and Express, and you'll build both.
+
+  Work like this is on the table for your first quarter:
+
+  - The agent eval harness. Today a prompt or model change ships
+    on judgment. You'd build the regression suite and tracing
+    that lets it ship on evidence.
+  - Stella's capabilities. New tools, better context assembly
+    out of Postgres and OpenSearch, and more of the surfaces
+    where she does the work instead of describing it.
+
+  What we look for
+
+  You'll be a fit if:
+
+  - You're deeply fluent in TypeScript and comfortable across
+    the stack, not only in the model layer
+  - You've shipped LLM features to real users and kept them
+    working as models changed underneath you
+  - You've built evals or regression suites for non-
+    deterministic systems, and you can say what they caught
+  - You understand retrieval and context assembly as engineering
+    problems, not as a library call
+  - You've worked with Postgres and something search-shaped,
+    OpenSearch or Elasticsearch
+  - You do your own research and move work forward without
+    waiting for direction
+
+  Useful, not required: agent frameworks and MCP; streaming
+  UIs; Redis for queues; cost and latency tuning at volume.
+
+  Don't apply if your LLM experience is prompt-only, or if you
+  want to do research rather than ship. This role is product
+  engineering with models in it, and the thing we judge is
+  whether a customer's day got better.
+
+  Strong candidates ship real functionality without cutting
+  corners, explain their tradeoffs, and leave the system
+  better than they found it.
+
+  How we work
+
+  Deliver Impact Through Excellence. It's the one lens we hire
+  on, and we ask about it in every interview.
+
+  Impact, how we do the work:
+
+  - Customer Focus. We start from what customers need and check
+    our work against it.
+  - Candor and Transparency. Say what you think, early, and
+    argue about the work in the open.
+  - Clarity and Focus. Pick the simplest thing that solves the
+    problem, and ship it.
+  - Embrace Change. Drop an idea that isn't working, including
+    your own.
+  - Think Big, Act Bold. Take on the hard problems customers
+    actually have.
+  - Attention to Detail. Test the edge cases and finish the
+    details before calling it done.
+
+  Excellence, how we work with each other:
+
+  - Top-Tier People. People who are very good at their work and
+    want to do it at an early-stage company.
+  - No Ego. The best idea wins, whoever it came from.
+  - Proactive Mindset. If you see a problem, fix it or flag it
+    without waiting to be asked.
+  - Future-Mindedness. Know how your work affects the rest of
+    the company, and plan for what comes next.
+  - Continuous Learning. Keep learning from customers, from
+    teammates and from what went wrong.
+  - Diversity of Thinking. Different backgrounds catch different
+    mistakes, so we hire for range.
+
+  We give people a lot of autonomy and expect them to own the
+  outcome. We keep process to the minimum that keeps us
+  honest.
+
+  This is a five day a week in-person role in New York. At
+  this stage, being in the room is worth more than the
+  flexibility it costs.
+
+  It's early-stage work: the problems are ambiguous, the pace
+  is high, and there will be long days. The tradeoff is that
+  the decisions you make in the next year compound for the
+  life of the company.
+
+  How we hire
+
+  Four steps, under seven hours in all, and no take-home. We
+  look for our values at every one, not with resume checklists
+  or trick questions.
+
+  - 15 min, phone screen. A first call to see if there's a fit
+    on both sides.
+  - 30 min, experience screen. Your experience, and how you
+    think.
+  - 60 min, role interview. A technical interview on the work of
+    the role.
+  - 4 hours, onsite. In person, at our New York City office.
+
+  We're looking for this person to start in January of 2027.
+
+  Compensation and benefits
+
+  - Base salary: $130,000 to $170,000
+  - Equity: 0.3% to 0.75%, four year vest with a one year cliff
+  - Medical, dental and vision, fully covered for you
+  - A monthly wellness stipend for gym, fitness and mental
+    health
+  - Lunch and dinner at the office, and a commuter stipend
+  - Unlimited PTO. Everyone takes at least three weeks.
+
+  Where you land in the range depends on experience and scope,
+  not tenure or credentials.
+
+  Disclaimers
+
+  This role is based in New York, NY, and requires in-person
+  work five days per week. Relocation assistance may be
+  available on a case-by-case basis.
+
+  Custral is an equal opportunity employer. We are committed
+  to creating an inclusive environment for all employees and
+  applicants. We do not discriminate on the basis of race,
+  color, religion, sex, sexual orientation, gender identity or
+  expression, national origin, age, disability, veteran
+  status, genetic information, marital status, or any other
+  characteristic protected by applicable law.
+
+  In compliance with New York law, the compensation range
+  listed for this role is a good-faith estimate of the base
+  salary range Custral expects to pay for this position at the
+  time of posting. Actual compensation may vary based on
+  experience, skills, performance, and role scope.
+
+  Custral is committed to providing reasonable accommodations
+  to qualified individuals with disabilities and for sincerely
+  held religious beliefs, in accordance with applicable law.
+  If you require an accommodation during the hiring process,
+  please let us know.
+industries:
+  - Software
+  - Automation
+posted_date: 2026-09-22
+url: "https://builtin.com/job/software-engineer-ai/11196357"
+source: Built In

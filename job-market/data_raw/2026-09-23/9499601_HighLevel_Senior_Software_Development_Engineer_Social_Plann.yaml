@@ -1,0 +1,132 @@
+job_id: 9499601
+title: Senior Software Development Engineer (Social Planner- AI)
+company: HighLevel
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 974 Employees
+description: |
+  About us HighLevel is an AI-powered business operating
+  system that gives agencies, entrepreneurs and SMBs the
+  infrastructure to build, automate and scale. Today,
+  HighLevel supports SMBs across 150+ countries, fueling
+  community-driven growth rooted in real customer outcomes. To
+  date, businesses operating on HighLevel have generated over
+  $7 billion in ecosystem value, demonstrating the impact of
+  shared infrastructure at scale. By centralizing
+  conversations, automation and intelligence into one system,
+  we help businesses move faster, reduce complexity and
+  execute efficiently. Behind the platform, HighLevel powers
+  more than 4 billion API hits and 2.5 billion message events
+  daily. With 250 terabytes of distributed data, 250+
+  microservices and over 1 million domain names supported, our
+  architecture is built for performance, resilience and long-
+  term scalability. Our people With over 2,000 team members
+  across 10+ countries, HighLevel operates as a global,
+  remote-first organization built for speed and ownership. We
+  value initiative, clarity and execution, creating space for
+  ambitious people to build systems that support millions of
+  businesses worldwide. Here, innovation thrives, ideas are
+  celebrated and people come first, no matter where they call
+  home. Our impact Every month, HighLevel enables more than
+  1.5 billion messages, 200 million leads and 20 million
+  conversations for the more than 1 million businesses we
+  support. Behind those numbers are real people building
+  independence, expanding opportunity and creating measurable
+  impact. We’re proud to be a part of that. Learn more about
+  us on our YouTube Channel or Blog Posts
+
+
+
+  About the Team:
+
+  The Social Planner team is a dedicated product group within
+  HighLevel’s Leadgen organization, focused on delivering a
+  seamless social media management experience. We empower
+  agencies and businesses to create, schedule, and manage
+  posts across multiple platforms, while also providing
+  automation, analytics, and engagement tools.
+
+  Our primary objectives are to drive Social Planner adoption,
+  improve feature retention, and maximize user engagement by
+  making social publishing effortless and impactful.
+
+  We are responsible for:
+
+  Post Publishing & Scheduling We enable agencies to publish
+  and schedule posts across major social platforms, ensuring
+  timely and consistent content delivery.
+
+  Post Automation We support advanced publishing workflows,
+  including CSV uploads, RSS-to-post, Review Posts, Category
+  Queues, and Recurring Queues—giving agencies full
+  flexibility to manage content at scale.
+
+  Engagement & Insights Through Social Statistics, Comment
+  Management, and Social Listening, we provide agencies with
+  deep insights into performance and engagement, enabling
+  data-driven content strategies.
+
+  Best Time to Post We surface AI-driven recommendations on
+  when to post for maximum reach and engagement, helping
+  agencies optimize their content strategy.
+
+  Multi-Platform Integration We currently support integrations
+  with 9 major platforms—Google Business Profile, Facebook,
+  Instagram, LinkedIn, TikTok, YouTube, Pinterest, Threads,
+  and Bluesky—along with HighLevel’s internal Community
+  product.
+
+  About the Role:
+
+  Millions of businesses post to social media through
+  HighLevel's Social Planner. Hundreds of thousands of posts
+  go out every day across every major social platform, each
+  with its own API, rate limits and frequent changes. Our job
+  is to make that look easy. We're a small team with a big
+  surface area, and we're building the next layer on top of
+  publishing: understanding what the internet is saying about
+  our customers, at scale, with AI. We're hiring a senior full
+  stack engineer who wants to own that.
+
+  Responsibilities
+
+  Requirements
+
+  - 4+ years building and operating production distributed
+    systems.
+  - Experience with large-scale data engineering: ingestion,
+    ETL/ELT, data warehousing (ClickHouse, BigQuery, Snowflake
+    or similar), and analytics over billions of rows. Social
+    listening, NLP or sentiment analysis is a big plus.
+  - Strong fundamentals in any language. We write TypeScript
+    (Node.js, NestJS, Vue.js).
+  - Customer-first mindset. You start from the problem, not the
+    tech.
+  - Hands-on experience with AI-assisted development. You use AI
+    coding tools daily, can explain your workflow and stand
+    behind the output.
+  - Genuine passion for software. You follow the industry for
+    fun and want to grow as fast as the product does.
+
+  #LI-Remote #LI-RS1
+
+  EEO Statement:
+
+  The company is an Equal Opportunity Employer. As an employer
+  subject to affirmative action regulations, we invite you to
+  voluntarily provide the following demographic information.
+  This information is used solely for compliance with
+  government recordkeeping, reporting, and other legal
+  requirements. Providing this information is voluntary and
+  refusal to do so will not affect your application status.
+  This data will be kept separate from your application and
+  will not be used in the hiring decision. We encourage you to
+  review our Privacy Policy before submitting your application
+industries:
+  - Information Technology
+  - Internet of Things
+  - Marketing Tech
+posted_date: 2026-08-12
+url: "https://builtin.com/job/software-development-engineer-iii-full-stack-development-social-planner/9499601"
+source: Built In

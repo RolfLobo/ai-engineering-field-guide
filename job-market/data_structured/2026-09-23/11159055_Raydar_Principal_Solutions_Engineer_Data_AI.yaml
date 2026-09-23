@@ -1,0 +1,57 @@
+company:
+  name: Raydar
+  stage: null
+  focus: |-
+    Revenue-acceleration SaaS platform for medical device
+    commercial teams
+position:
+  title: Principal Solutions Engineer, Data & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales solutions engineer who demos,
+      configures, and delivers AI/data products and owns the
+      technical narrative in enterprise deals. They do not
+      themselves shape model behaviour - no prompt design,
+      retrieval, evals, or model training - they consume and
+      explain AI products built by others. Agentic workflows and
+      MCP appear only as familiarity/bonus points, making this ai-
+      support.
+  responsibilities:
+  - Lead technical discovery, solution design, RFPs, security reviews, proof-of-value
+    programs, and data-delivery scoping for enterprise deals
+  - Help customers configure data and AI products and deliver data into Snowflake,
+    Databricks, APIs, and CRM environments
+  - Translate customer needs into product requirements and technical capabilities
+    into buyer narratives
+  - Own the technical narrative for AI and MCP products, including agentic workflows
+    powered by healthcare claims intelligence
+  - Build reusable demo environments, discovery guides, answer libraries, and architecture
+    patterns
+  - Partner with commercial, product, data, and engineering teams to drive deals forward
+  use_cases:
+  - Healthcare claims intelligence for medical device and diagnostics commercial teams
+  - Data delivery into customer environments (Snowflake, Databricks, APIs, CRM)
+  - AI-powered commercial workflows for medical sales teams
+  - Agentic workflows powered by healthcare claims data
+  - Enterprise technical evaluations and proof-of-value programs
+  skills:
+    genai: [MCP, Agentic Workflows, LLMs, ChatGPT, Claude Code, Cursor]
+    ml: []
+    web: [REST APIs]
+    databases: [Snowflake]
+    data: [Databricks, Delta Sharing]
+    cloud: []
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: [HIPAA Compliance, CRM Platforms, BI Tools]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11159055'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:23:15.554211'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

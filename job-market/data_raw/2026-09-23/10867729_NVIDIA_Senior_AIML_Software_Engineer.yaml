@@ -1,0 +1,71 @@
+job_id: 10867729
+title: Senior AI/ML Software Engineer
+company: NVIDIA
+location: Pune, IND
+locations:
+  - Pune, IND
+  - Bengaluru, IND
+work_type: FULL_TIME
+company_size: 21,960 Employees
+description: |
+  We are looking for a highly motivated AI/ML Software
+  Engineer to join the Enterprise Agentic AI Platform team
+  within IT. You will work closely with Business Analysts, and
+  Engineering teams to design, develop, and deploy enterprise
+  AI solutions that improve productivity and automate business
+  workflows across Engineering, Operations, and Manufacturing.
+
+  What you'll be doing:
+
+  - Design, develop, and deploy Agentic AI applications using
+    Large Language Models (LLMs), Retrieval-Augmented
+    Generation (RAG), and AI orchestration frameworks.
+  - Build scalable AI services and reusable components
+    integrated with enterprise applications such as PLM, SAP,
+    and other business systems.
+  - Collaborate with business and IT teams to translate business
+    requirements into AI-driven solutions.
+  - Develop secure, scalable APIs and enterprise integrations to
+    enable intelligent workflows and automation.
+  - Improve AI solution quality, performance, and reliability
+    through prompt engineering, evaluation, and continuous
+    optimization.
+  - Partner with cross-functional teams throughout the Software
+    Development Lifecycle (SDLC), from solution design through
+    deployment and production support.
+
+  What we need to see:
+
+  - Bachelor's or Master's degree in Computer Science,
+    Information Technology, AI/ML, or a related field.
+  - 6+ years of software engineering experience with strong
+    proficiency in Python and backend application development.
+  - Hands-on experience with Generative AI, LLMs, RAG, AI
+    agents, REST APIs, and cloud-native application
+    development.
+  - Experience integrating enterprise applications and building
+    scalable, production-ready software solutions.
+  - Strong analytical, problem-solving, communication, and
+    collaboration skills.
+  - Self-driven individual with the ability to work
+    independently in a fast-paced environment.
+
+  Ways to stand out from the crowd:
+
+  - Experience with Agentic AI frameworks, Model Context
+    Protocol (MCP), LangChain, LangGraph, or Semantic Kernel.
+  - Experience with Azure AI Services, Azure OpenAI, AI Search,
+    vector databases, or enterprise AI platforms.
+  - Knowledge of Engineering, PLM, Manufacturing, or Supply
+    Chain business processes.
+  - Experience building enterprise AI copilots, intelligent
+    assistants, or workflow automation solutions.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-08-27
+url: "https://builtin.com/job/senior-ai-ml-software-engineer/10867729"
+source: Built In

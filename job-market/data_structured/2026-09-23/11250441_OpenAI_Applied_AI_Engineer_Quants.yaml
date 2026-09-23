@@ -1,0 +1,56 @@
+company:
+  name: OpenAI
+  stage: null
+  focus: AI research and deployment of general-purpose models
+position:
+  title: Applied AI Engineer, Quants
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward-deployed engineer role that builds prototypes,
+      evaluation harnesses, and reference implementations with
+      OpenAI models and Codex, making decisions about models,
+      agents, and retrieval — clearly shaping model behavior and
+      output quality for LLM systems. Customer-facing work
+      adapting AI at client sites is ai-first.
+  responsibilities:
+  - Partner with quantitative investment and trading firms to identify opportunities
+    across research, data analysis and software development
+  - Design, build, and deploy AI systems solving customer problems with measurable
+    business outcomes
+  - Build prototypes, evaluation harnesses, reference implementations, integrations,
+    and production accelerators
+  - Make technical decisions across models, agents, retrieval, tools, reliability,
+    latency, cost, safety, security and governance
+  - Diagnose complex implementation challenges, reproduce failures, and drive blockers
+    to resolution
+  - Help customers move from prototypes to reliable production systems and sustained
+    adoption
+  - Lead technical workshops and hands-on sessions for quantitative researchers and
+    engineers
+  - Translate deployment experience and feedback into product requirements for OpenAI
+    teams
+  use_cases:
+  - AI-assisted quantitative research and data analysis workflows
+  - AI for software development at trading firms using Codex
+  - Enterprise LLM deployment from prototype to production
+  - Evaluation and reliability of AI systems in regulated enterprise environments
+  skills:
+    genai: [LLMs, Codex, AI Agents, LLM Evaluation]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11250441'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:31:16.092395'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

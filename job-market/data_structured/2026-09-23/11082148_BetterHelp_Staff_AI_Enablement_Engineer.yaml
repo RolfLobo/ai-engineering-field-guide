@@ -1,0 +1,53 @@
+company:
+  name: BetterHelp
+  stage: null
+  focus: Online therapy and mental health services
+position:
+  title: Staff AI Enablement Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role builds the internal AI stack itself hands-on: AI
+      agents for engineering workflows, MCP connectors, shared
+      prompt/skill libraries, and a governed retrieval/knowledge
+      layer. The person designs prompts, retrieval, and agent
+      flows directly (the agents are the deliverable, not just
+      deployed tools), which is shaping model behavior. This goes
+      beyond merely rolling out third-party coding assistants.
+  responsibilities:
+  - Build against the AI enablement roadmap for engineering, product, and design orgs,
+    turning it into working software
+  - Build AI agents and automations for recurring engineering workflows
+  - Build MCP connectors into systems of record and shared prompt and skill libraries
+  - Build the governed knowledge layer that provides company context to AI surfaces
+  - Own experiments end to end in a dedicated AWS environment with Terraform-managed
+    infrastructure
+  - Drive adoption and change management across the organization, shipping experiments
+    first and doubling down on what works
+  use_cases:
+  - AI enablement for internal engineering, data, and devops teams
+  - Automated recurring engineering workflows via AI agents
+  - Connecting AI surfaces to internal systems of record via MCP
+  - Company-wide knowledge retrieval and governed context for AI tools
+  - Developer productivity and workflow automation across product and design teams
+  skills:
+    genai: [AI Agents, MCP, Prompt Engineering, Context Engineering, RAG, Claude Code,
+      Cursor]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, CI/CD, Infrastructure as Code, DevOps]
+    languages: []
+    domains: []
+    other: [Workflow Automation, Platform Engineering, Access Management, Data Privacy]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11082148'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:17:37.217780'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

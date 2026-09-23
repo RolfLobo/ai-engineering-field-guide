@@ -1,0 +1,51 @@
+company:
+  name: SoundHound
+  stage: null
+  focus: Voice, generative and conversational AI solutions
+position:
+  title: AI Engineer, Enterprise
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role configures and trains Amelia, a conversational AI
+      platform—setting up cognitive modules, ontologies, testing
+      conversational behavior, and refining it against use cases.
+      This is shaping LLM/conversational agent behavior
+      (prompting/configuring, evaluating output against cases), so
+      it is ai-first.
+  responsibilities:
+  - Configure or customize Amelia cognitive modules to deliver required client functionality
+  - Review Transversal Analysis outcomes and target architecture blueprints
+  - Configure ('train') and test Amelia for agreed use cases, refining until expected
+    behavior
+  - Collaborate with Technical Architects and Cognitive Project Leads on technical
+    solutions
+  - Create reusable Amelia modules (e.g. BPNs) and ontologies in local languages
+  - Reuse or create APIs and automations to integrate Amelia with client systems and
+    security frameworks
+  - Stress test new and modified components against end-user requirements
+  - Create agile work plans and validate with cognitive project lead
+  use_cases:
+  - Conversational AI agent for customer support
+  - Voice-enabled interactions with products and services
+  - Enterprise cognitive automation integrated with back-end systems
+  skills:
+    genai: [Conversational AI]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Java, JavaScript, Groovy]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9040984'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:37:31.794785'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

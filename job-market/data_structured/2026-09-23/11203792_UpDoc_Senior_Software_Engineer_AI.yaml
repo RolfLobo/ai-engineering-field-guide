@@ -1,0 +1,48 @@
+company:
+  name: UpDoc
+  stage: null
+  focus: Physician-supervised AI agent for chronic disease management
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: prompt engineering,
+      evaluation metrics, fine-tuning/alignment decisions, and
+      building an end-to-end LLM conversational agent. LLM/agent
+      components dominate, so it's ai-first.
+  responsibilities:
+  - Lead development of the patient-facing conversational agent
+  - Implement a scalable, low-latency system for voice/multimodal conversations
+  - Implement rigorous prompt engineering processes and develop metrics for system
+    evaluation
+  - Identify where fine-tuning and alignment are valuable and create data pipelines
+    for experimentation
+  - Work with backend engineers to deploy AI models and chat/voice APIs
+  - Evaluate and implement emerging LLM technologies, tools, and frameworks
+  - Collaborate with clinical experts to validate performance and medical accuracy
+  - Develop backend services using FastAPI and Pydantic
+  use_cases:
+  - Patient-facing conversational AI agent for chronic disease management
+  - Voice and multimodal conversations in a clinical context
+  - Clinically validated, physician-supervised medical AI
+  skills:
+    genai: [Prompt Engineering, LLMs, Fine-Tuning, LLM Evaluation, Function Calling]
+    ml: [Model Evaluation]
+    web: [FastAPI, Pydantic]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure]
+    ops: [MLOps, LLMOps, Docker]
+    languages: [Python]
+    domains: []
+    other: [HIPAA Compliance, FHIR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11203792'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:27:06.001308'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

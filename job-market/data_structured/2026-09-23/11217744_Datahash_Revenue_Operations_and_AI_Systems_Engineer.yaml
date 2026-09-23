@@ -1,0 +1,49 @@
+company:
+  name: Datahash
+  stage: Bootstrapped and profitable
+  focus: |-
+    Privacy-centric first-party data platform for marketing
+    integrations
+position:
+  title: Revenue Operations and AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Half the role is building agents on the Claude/Zoho stack —
+      skills, eval sets, critics, agent flows on an Agent SDK —
+      which is designing agent behavior and output quality
+      evaluation, clearly shaping LLM/agent systems. The rest is
+      revenue operations plumbing, but the shaping work makes it
+      ai-first.
+  responsibilities:
+  - Instrument revenue with engine tags on CRM records and build consistent revenue
+    dashboards
+  - Automate renewals, dunning and overage alerts
+  - Build quota-versus-capacity models before offers are made
+  - 'Own the agent build queue across growth and account management: skills, eval
+    sets, critics, decision records, acceptance telemetry'
+  - Maintain CRM hygiene via nightly automated sweeps
+  use_cases:
+  - Revenue instrumentation and reporting for a B2B SaaS business
+  - Automated renewal, dunning and billing workflows
+  - Quota and capacity modeling
+  - AI agents for routine growth and account management work
+  skills:
+    genai: [Anthropic API, AI Agents, MCP]
+    ml: [LLM Evaluation]
+    web: [Webhooks, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, SQL]
+    domains: []
+    other: [Zoho, Salesforce, HubSpot, Revenue Operations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11217744'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:28:06.265110'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

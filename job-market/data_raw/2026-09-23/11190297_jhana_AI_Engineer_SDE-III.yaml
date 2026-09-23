@@ -1,0 +1,142 @@
+job_id: 11190297
+title: AI Engineer SDE-III
+company: jhana
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 28 Employees
+description: |
+  About jhana
+
+  jhana is an early stage, seed-funded homegrown artificial
+  legal intelligence lab, established at Harvard in February
+  2022 and made in India. jhana builds datasets, agents, and
+  interfaces that help produce legal work faster and with
+  higher fidelity. jhana’s suite of product offerings use AI
+  to streamline workflows across the legal field including
+  litigation, corporate law and in-house counsel, and the
+  judiciary. jhana was recently declared the most outstanding
+  new legal tech in Asia and Oceania by ALITA, the Asia-
+  Pacific Legal Innovation & Technology Association.
+
+  About the Role
+
+  This role will be part of a senior AI development team,
+  tasked with researching, engineering, and launching cutting-
+  edge AI products. This team will be responsible for: working
+  with the product team to design technologies that serve user
+  needs; innovating and creating novel solutions in the legal-
+  tech space; and iterating on these solutions as the userbase
+  and product evolve. All members of this team will be deeply
+  experienced, product- and user-oriented, and up to date with
+  the latest research and technologies in the field.
+
+  The vertical
+
+  Our products work with our proprietary corpora of ~13M
+  structured documents as well as with internal documents of
+  clients. Efficient, comprehensive billion-scale search is
+  fundamental to our product. This broader technical problem
+  further interacts with the complexity of the law. For
+  instance, cites-cited-by graphs and graphs of precedent
+  undergoing appeal or overruling inform the relevance of a
+  result. And precedents can be good citation matches for
+  complex reasons, wherein cases from unrelated areas or
+  questions of the law can constitute important precedent. We
+  attempt to excel at these challenges by using simple models
+  for preprocessing, by sequencing traditional and cutting-
+  edge techniques, and by carefully reranking and
+  postprocessing results. This helps deliver generative AI
+  that is anchored to information retrieval and cites and
+  quotes all its claims.
+
+  The day-to-day
+
+  This is an advanced role distributed across research,
+  engineering, and product. Relatedly, it is a combination of
+  invention and optimization. These are the problem statements
+  that this role will likely continue or begin our work on—
+
+  Measurement
+
+  - Constructing measures of search
+    reliability/comprehensiveness and success/effectiveness;
+    comparing ordered sets of search results; relevant notions
+    of similarity and distance to evaluate IR
+  - Implementing and automating benchmarks using labeled data
+    and expert human feedback, interfacing with our legal
+    research fellows
+  - Measures of the popularity of a result for a class of
+    queries, to enable reranking by observing users
+
+  Optimization/Scaling/Elasticity
+
+  - Indexing algorithms and data structures, and infrastructure
+    for billion-scale, multi-engine search
+  - Pre- and post-processing hacks, eg. query design
+  - Segmentation, sharding, concurrency and parallelism, and
+    other clever distribution methods—optimizing latency and
+    time and memory complexity
+  - Low-dimensional/cost-optimized retrieval methods for
+    enterprise settings
+
+  Invention
+
+  - Identifying, finetuning, and aligning new vector embedding
+    methods
+  - Reranking and boosting from data augmentation and live user
+    interaction emit
+  - Caching mechanisms for high-variance natural language
+    queries
+
+  About the Team
+
+  We are a public benefit corporation headquartered in
+  Bangalore. We operate in rapidly changing legal systems with
+  awareness of the stakes at hand. Our intention is to
+  inﬂuence beneficence and alignment into the technological
+  systems that are augmenting and replacing human
+  institutions. Our team spans diverse identity and training,
+  from physics and mathematics to law and public policy. We
+  are small, fast-moving, horizontally ﬂat, and built on
+  collaboration between lawyers, academics, and engineers. We
+  ship fast, and every line of code our team writes has a >0.9
+  expectation of making it to production.
+
+  About you
+
+  One or more of these might describe you—
+
+  - Deep familiarity with DL methods and up-to-date with the
+    latest on Arxiv
+  - Proficiency with linear algebra and programming tensor math
+  - Familiarity with complex systems and optimization
+  - Strong engineering skills, ideally with Python proficiency
+  - Excited by large-N data, access to compute, and problems
+    that are emergent with scale
+  - Crave ownership over problem statements
+  - Hungry for impact and to write code that is actually shipped
+  - Prioritize career advancement (eg Chief Scientist title) and
+    growing with a high-velocity company more than immediate
+    compensation
+
+  Miscellany
+
+  Compensation is negotiable based on levels and mutual
+  excitement.
+
+  This role will start ASAP and requires in-person presence
+  for at least 4 days of the week at our Bangalore HQ. Full
+  remote is negotiable for superlative candidates who are not
+  India-based.
+
+  Come as you are: we are a diverse team constituted by
+  members of different backgrounds in nationality, religion,
+  caste, gender, and sexual orientation. We sincerely and
+  wholeheartedly welcome diverse individuals.
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Software
+posted_date: 2026-09-22
+url: "https://builtin.com/job/ai-engineer-sde-iii/11190297"
+source: Built In

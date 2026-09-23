@@ -1,0 +1,58 @@
+company:
+  name: T. Rowe Price
+  stage: null
+  focus: Global asset management and investment solutions
+position:
+  title: Lead AI Software Engineer - T. Rowe Price Lab (MD or NYC)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role leads architecture and delivery of production AI
+      agents, setting direction on orchestration, retrieval,
+      tools, evaluation, and guardrails - directly shaping
+      LLM/agent behavior. LLM/agent components dominate, so ai-
+      first.
+  responsibilities:
+  - Lead architecture, design, development, and deployment of production-grade AI
+    agents and intelligent systems
+  - Set technical direction for AI solutions across models, orchestration, retrieval,
+    tools, latency, cost, and security
+  - Define engineering standards for production AI including evaluation, testing,
+    observability, and guardrails
+  - Guide development of reusable AI capabilities such as agent orchestration, tool
+    use, retrieval-based systems, and evaluation frameworks
+  - Evaluate emerging models, frameworks, and AI engineering approaches and direct
+    adoption
+  - Provide hands-on technical leadership, mentorship, and design/code reviews across
+    teams
+  - Drive Build-Operate-Transfer by incubating AI products, hardening them, and transitioning
+    to business-aligned teams
+  - Engage business stakeholders and senior leaders to shape solution direction
+  use_cases:
+  - Production AI agents and intelligent systems for financial services workflows
+  - Retrieval-based systems and intelligent workflow acceleration across the firm
+  - Reusable enterprise AI platform capabilities with shared evaluation and observability
+  - AI-driven decision support and business process automation at an asset manager
+  skills:
+    genai: [AI Agents, Agentic Workflows, Function Calling, RAG, Prompt Engineering,
+      Context Engineering, LLM Evaluation, Guardrails]
+    ml: []
+    web: [Microservices, APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Observability, Docker]
+    languages: [Python, Java, JavaScript, TypeScript]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11142449'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Baltimore, USA
+  extracted_at: '2026-09-23T11:21:36.911763'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

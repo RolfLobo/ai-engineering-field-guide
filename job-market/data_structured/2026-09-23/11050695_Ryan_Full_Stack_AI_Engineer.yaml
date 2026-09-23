@@ -1,0 +1,56 @@
+company:
+  name: Ryan
+  stage: null
+  focus: Tax and consulting services firm
+position:
+  title: Full Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building full-stack applications with
+      LLMs, agentic workflows, and retrieval embedded in the
+      architecture, and shaping where/how agents and LLMs improve
+      workflows — that is shaping LLM/agent behavior, so ai-first.
+      Customer-facing conversations and client value are
+      mentioned, but the core engineering is LLM/agent application
+      design.
+  responsibilities:
+  - Design, build, and improve AI-enabled full-stack software as part of a cross-functional
+    engineering team
+  - Determine where generative AI or agentic approaches create value versus traditional
+    software
+  - 'Contribute to end-to-end delivery of AI-enabled applications: discovery, design,
+    development, testing, deployment, and iteration'
+  - Build full-stack applications incorporating LLMs, agent-based workflows, retrieval,
+    and APIs
+  - Write high-quality, maintainable code and use AI-assisted coding tools with ownership
+    of the output
+  - Iterate on deployed applications based on user feedback, performance, reliability,
+    and adoption
+  - Participate in client-facing conversations and communicate technical concepts
+    to stakeholders
+  use_cases:
+  - Enterprise workflow automation with generative AI
+  - Agentic workflow applications for business processes
+  - Full-stack applications with embedded LLM and retrieval capabilities
+  - Client-facing business solutions with human oversight and failure handling
+  skills:
+    genai: [LLMs, Agentic Workflows, RAG, LangChain, LangGraph, AutoGen, Claude Code,
+      Codex, Generative AI]
+    ml: []
+    web: [React, Node.js, FastAPI, APIs]
+    databases: [Databases, Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Git]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11050695'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:16:09.715987'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

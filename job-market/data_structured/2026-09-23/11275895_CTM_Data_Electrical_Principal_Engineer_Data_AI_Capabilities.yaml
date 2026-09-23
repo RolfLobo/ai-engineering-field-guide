@@ -1,0 +1,50 @@
+company:
+  name: CTM Data & Electrical
+  stage: null
+  focus: Financial product and insurance price comparison platform
+position:
+  title: Principal Engineer (Data & AI Capabilities)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role leads design of large-scale AI solutions and
+      explicitly owns how AI systems are monitored, evaluated, and
+      improved in production — output-quality evaluation is
+      shaping. Given AI (likely LLM-based capabilities) solutions
+      across the business, this is ai-first. Technical leadership
+      without direct reports means not management.
+  responsibilities:
+  - Set technical direction for Data & AI across the business
+  - Lead the design and delivery of large-scale, scalable AI and data solutions
+  - Establish best practices, standards, and reusable engineering frameworks
+  - Improve monitoring, evaluation, and support of AI systems in production
+  - Partner with senior Data, Product, and Engineering stakeholders on business goals
+  - Mentor engineers across the Data & AI community
+  - Ensure governance, standards, and controls as AI capability grows
+  use_cases:
+  - Large-scale AI solutions for financial decision-making products
+  - Organisation-wide adoption and scaling of AI capabilities
+  - Production monitoring and evaluation of AI systems
+  - Data-intensive systems powering price comparison services
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Engineering]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [AI/ML Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11275895'
+  location: London, GBR
+  locations:
+  - London, GBR
+  - Peterborough, GBR
+  extracted_at: '2026-09-23T11:33:54.165690'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Lifted, an Upwork Company
+  stage: null
+  focus: Freelance marketplace talent platform services
+position:
+  title: '#104 - AI Software Engineer'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, agentic workflows,
+      prompt orchestration, tool calling, memory patterns, and MCP
+      integrations, directly shaping LLM/agent behavior. Clear ai-
+      first.
+  responsibilities:
+  - Design, build, and enhance AI-powered applications and backend services
+  - Build and maintain AI agents and agentic workflows that reason, orchestrate tasks,
+    and integrate with external tools
+  - Develop MCP-based integrations and tool interfaces connecting AI systems to external
+    platforms
+  - Implement prompt orchestration, context handling, tool calling, memory patterns,
+    and evaluation workflows
+  - Integrate LLM capabilities into software systems balancing performance, reliability,
+    cost, and safety
+  - Improve quality, observability, and efficiency of AI workflows in production
+  - Participate in code reviews, release support, experimentation, and production
+    incident resolution
+  - Create technical documentation and best practices for AI engineering and MCP adoption
+  use_cases:
+  - AI agents that orchestrate tasks and call external tools
+  - MCP integrations connecting AI systems to enterprise platforms and APIs
+  - LLM-powered backend applications for internal or customer-facing use cases
+  - Workflow automation using tool-using AI agents
+  - Enterprise AI integration with platforms like Salesforce, Jira, and Slack
+  skills:
+    genai: [Agentic Workflows, AI Agents, MCP, Prompt Engineering, LLMs, Function
+        Calling, LLM Evaluation, Multi-Agent Systems, RAG, Semantic Search, Guardrails]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Cloud-Native Infrastructure]
+    ops: [Monitoring, Observability, Distributed Systems]
+    languages: [Java, Python]
+    domains: []
+    other: [Event-Driven Architecture, Salesforce, Jira, Slack, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10953101'
+  location: Hyderabad, IND
+  remote: true
+  extracted_at: '2026-09-23T11:08:54.243525'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

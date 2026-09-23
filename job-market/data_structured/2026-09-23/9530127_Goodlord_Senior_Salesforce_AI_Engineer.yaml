@@ -1,0 +1,57 @@
+company:
+  name: Goodlord
+  stage: null
+  focus: Rental property platform for landlords and agents
+position:
+  title: Senior Salesforce AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Salesforce business systems analyst who
+      configures and administers Salesforce and uses Salesforce's
+      packaged Generative and Agentic AI features to automate
+      business processes. They apply AI capabilities others built
+      rather than shaping model behaviour through prompts,
+      retrieval, or training.
+  responsibilities:
+  - Balance business-as-usual system admin tasks with long-term strategic projects
+  - Partner with cross-functional stakeholders to gather requirements and document
+    technical specifications
+  - Own administration, configuration, and support of enablement tools and integrations
+    including GetAccept, Vonage, and HubSpot
+  - Map, manage, and improve operational processes underlying sales cycles
+  - Maintain database accuracy using Salesforce reporting, Data Loader, and Import
+    Wizard, and build dashboards for end-users and executives
+  - Apply Salesforce AI capabilities to solve real business problems and automate
+    manual tasks
+  - Debug system, AI, or process issues to minimize business disruption
+  - Adhere to change management processes including Sandbox management, UAT, and regression
+    testing
+  use_cases:
+  - Automating manual business tasks across Sales, Support, Marketing, and Finance
+  - Optimizing Lead-to-Cash pipelines and opportunity management
+  - Integrating Salesforce with HubSpot, GetAccept, and Vonage
+  - Maintaining accurate CRM data and reporting visibility for executives
+  - Streamlining rental business operations to drive growth
+  skills:
+    genai: [Generative AI, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Dashboards]
+    cloud: []
+    ops: [UAT, Regression Testing]
+    languages: []
+    domains: []
+    other: [Salesforce, Sales Cloud, HubSpot, Data Loader]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9530127'
+  location: London, GBR
+  locations:
+  - London, GBR
+  - Sheffield, GBR
+  extracted_at: '2026-09-23T11:39:02.246291'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

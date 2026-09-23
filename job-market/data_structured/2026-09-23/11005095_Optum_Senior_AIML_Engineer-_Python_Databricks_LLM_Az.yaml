@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and data analytics for care delivery
+position:
+  title: Senior AI/ML Engineer- Python, Databricks, LLM, Azure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-based agents, RAG systems
+      with retrieval design and grounding, and owns prompt
+      versioning and LLM evaluation — all direct model-behavior
+      shaping of LLM components.
+  responsibilities:
+  - Design and build LLM-based agents and AI/ML pipelines on Databricks extending
+    role-based agent architecture (Provider 360, Patient 360, Clinic 360)
+  - Build and maintain RAG systems including retrieval design, grounding, and hallucination
+    mitigation against governed Gold-layer data
+  - Apply and extend Databricks AI functions across clinical intelligence domains
+    such as HEDIS, admits/readmits, and care & value
+  - Own model evaluation and prompt versioning practices with systematic testing
+  - Deploy and monitor models in production on Azure with CI/CD covering model, data,
+    and prompt versioning
+  - Partner with the AI Review Board on governance and risk surfacing, supporting
+    pilot-first rollouts
+  - Communicate technical tradeoffs to non-technical and executive stakeholders including
+    CIO-level presentations
+  use_cases:
+  - Role-based provider agents across Provider 360, Patient 360, and Clinic 360 surfaces
+  - Clinical intelligence summarization across HEDIS quality, risk, affordability,
+    and care management domains
+  - AI-assisted decision support for healthcare providers
+  - AI-powered analytics on governed healthcare data (admits/readmits, care & value)
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, Vector Search, Prompt Engineering,
+      LLM Evaluation, LLMs, LangChain]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: [Vector Databases, Delta Lake, Snowflake]
+    data: [Data Pipelines, Databricks]
+    cloud: [Azure]
+    ops: [MLOps, CI/CD, Model Deployment, Model Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11005095'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:12:30.901311'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

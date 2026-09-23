@@ -1,0 +1,52 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and commerce operations technology
+position:
+  title: AI Operations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production AI agents:
+      orchestrating LLM reasoning, tool/function calling, RAG,
+      guardrails, prompts/context engineering, and agent
+      evaluation. This is directly shaping LLM behavior, so it's
+      ai-first.
+  responsibilities:
+  - Design and build AI agents that automate manual Commerce Operations tasks
+  - Implement agent orchestration with LangGraph, LangChain, AutoGen, or CrewAI
+  - Build agent-to-agent integrations using A2A and MCP standards
+  - Design secure API integrations with commerce platforms and enterprise data sources
+  - Build and optimize RAG pipelines across documents, structured data, and knowledge
+    repositories
+  - Implement guardrails, human approval gates, LLM routing, and failover mechanisms
+  - Apply prompt and context engineering for accurate, safe agent outcomes
+  - Build evaluation, observability, and production deployment capabilities including
+    CI/CD, monitoring, and cost tracking
+  use_cases:
+  - Automating manual and repetitive Commerce Operations tasks
+  - Agent-to-agent coordination for commerce workflows
+  - Retrieval-augmented answers over enterprise documents and knowledge repositories
+  - Operational efficiency through AI-driven workflow automation
+  - Safe and reliable enterprise automation with guardrails and human approval gates
+  skills:
+    genai: [LangGraph, LangChain, AutoGen, CrewAI, OpenAI API, Anthropic API, RAG,
+      Prompt Engineering, Function Calling, Agentic Workflows, Multi-Agent Systems,
+      MCP, Guardrails, Context Engineering, LLMs]
+    ml: [LLM Evaluation]
+    web: [REST APIs, GraphQL, Webhooks, OAuth]
+    databases: [Vector Databases, Knowledge Graphs]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [LangSmith, Langfuse, LLMOps, CI/CD, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [A2A]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11273331'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:34:30.690311'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

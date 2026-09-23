@@ -1,0 +1,52 @@
+company:
+  name: Cortea AI
+  stage: null
+  focus: AI-powered audit software and agents for auditors
+position:
+  title: Senior/Staff AI Engineer, Quality & Evals (m/f/x)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation systems, quality gates, and
+      observability for LLM agents, including LLM-as-judge and
+      quality metrics that directly shape model behavior and
+      prompt/context/agent-logic changes. This is shaping LLM
+      output quality, so ai-first.
+  responsibilities:
+  - Build online and offline evaluation systems for production LLM agents using golden
+    datasets, ground truth, human review workflows, and experiments
+  - Create automated quality gates for testing changes to prompts, context, models,
+    and agent logic before production
+  - Analyze agent traces in analytical databases (BigQuery, ClickHouse) to identify
+    failure modes, quality regressions, latency, reliability, and cost issues
+  - Build data retention and replay mechanisms for long-term analysis of production
+    agent behavior
+  - Manage observability tooling for tracing, monitoring, debugging, and experiment
+    management of audit agents
+  - Collaborate with backend engineers to improve speed and reliability of retrieval
+    and reasoning agents
+  use_cases:
+  - AI agents that automate document-heavy audit workflows
+  - Multimodal retrieval agents for audit document analysis
+  - Evaluation and observability of production LLM agents
+  - Quality, reliability, and cost optimization of audit agents
+  skills:
+    databases: [BigQuery, ClickHouse]
+    domains: []
+    data: [Data Pipelines, Event Processing]
+    web: [System Design]
+    ml: [Machine Learning, Model Evaluation, Model Selection]
+    ops: [Observability, Monitoring, Braintrust, MLflow, Langfuse, Weights & Biases,
+      Temporal]
+    other: []
+    cloud: [GCP]
+    languages: [Python]
+    genai: [LLMs, AI Agents, Agentic Workflows, Prompt Engineering, LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11068512'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:16:33.682246'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

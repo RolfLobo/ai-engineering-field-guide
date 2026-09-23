@@ -1,0 +1,57 @@
+company:
+  name: ClearRoute
+  stage: null
+  focus: |-
+    Engineering consultancy: quality engineering, cloud
+    platforms, developer experience
+position:
+  title: Software Engineer, Platform & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly includes contributing to AI-enabled
+      solutions with LLM integrations, RAG, agentic workflows, and
+      tool integration — designing retrieval and agent flows is
+      shaping model behaviour. Backend/platform engineering is
+      mixed with these LLM components, so it classifies as ai-
+      first.
+  responsibilities:
+  - Design, build and maintain reliable, testable, production-quality software
+  - Develop APIs, services and automation supporting engineering and business workflows
+  - Contribute to cloud-native applications and internal platform capabilities
+  - Build integrations between applications, APIs, developer tooling and external
+    services
+  - Contribute to AI-enabled solutions including LLM integrations, RAG and agentic
+    workflows
+  - Contribute to automated delivery through CI/CD pipelines
+  - Apply engineering practices across testing, observability, security and reliability
+  - Participate in technical design, problem-solving and architecture discussions
+  use_cases:
+  - Application modernisation for enterprises
+  - AI-enabled engineering and business workflows
+  - Reusable internal platform capabilities for engineering teams
+  - Developer tooling and workflow automation integrations
+  - LLM-powered applications and agentic systems in production
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, MCP, LangChain, LlamaIndex, AI Agents]
+    ml: []
+    web: [REST APIs, React, Vue]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, Azure OpenAI, Vertex AI]
+    ops: [CI/CD, Kubernetes, Docker, Terraform, GitHub Actions, Azure DevOps, GitLab
+        CI, Jenkins, Git, Observability, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11036101'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:14:22.049987'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

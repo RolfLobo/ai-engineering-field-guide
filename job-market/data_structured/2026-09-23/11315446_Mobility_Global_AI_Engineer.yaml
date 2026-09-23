@@ -1,0 +1,54 @@
+company:
+  name: Mobility Global
+  stage: null
+  focus: Automotive data and intelligence (CARFAX, Polk)
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-powered features — agentic workflows in
+      LangGraph, RAG pipelines, text-to-SQL, prompt/context
+      engineering, and evals/guardrails — directly shaping model
+      behaviour and output quality. This is ai-first since
+      LLM/agent components are central.
+  responsibilities:
+  - Build LLM-powered features in Python including agentic workflows, RAG pipelines,
+    text-to-SQL, and tool/MCP integrations
+  - Ship FastAPI services with streaming responses, async I/O, and error handling
+  - 'Own evaluation and quality: golden datasets, eval and guardrail test suites,
+    trace instrumentation'
+  - Do prompt and context engineering, iterating on prompts, tool schemas, and retrieval
+    strategy with measurement
+  - Debug agent behaviour end to end across retrieval, tool calls, parsing, and entitlements
+  - Work daily with AI coding agents while reviewing their output carefully
+  use_cases:
+  - Conversational analytics products over automotive data
+  - Shared AI services and agent platforms
+  - Text-to-SQL access to industry automotive dataset
+  - Internal AI tooling for AI adoption across PDLC/SDLC
+  - Retrieval-augmented answering with entitlements
+  skills:
+    genai: [LangGraph, Agentic Workflows, RAG, Text-to-SQL, MCP, Prompt Engineering,
+      Context Engineering, LLM Evaluation, Guardrails, LangChain, LlamaIndex, Claude
+        Code, Cursor, GitHub Copilot, Embeddings, Multi-Agent Systems, LLMs]
+    ml: []
+    web: [FastAPI, REST APIs, React, Angular]
+    databases: [Relational Databases, Vector Databases]
+    data: [Data Governance]
+    cloud: [AWS]
+    ops: [Langfuse, OpenTelemetry, CI/CD]
+    languages: [Python, SQL, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11315446'
+  location: Gurugram, IND
+  locations:
+  - Gurugram, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:37:39.881594'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

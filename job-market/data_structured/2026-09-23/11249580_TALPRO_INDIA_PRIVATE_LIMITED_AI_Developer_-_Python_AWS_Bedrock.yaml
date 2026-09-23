@@ -1,0 +1,53 @@
+company:
+  name: TALPRO INDIA PRIVATE LIMITED
+  stage: null
+  focus: IT staffing and technology services company
+position:
+  title: AI Developer - Python + AWS Bedrock
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role works with LLMs, RAG systems, AWS Bedrock, and
+      LangChain, designing retrieval and integrating generative AI
+      models — shaping LLM-driven system behaviour. Also includes
+      classical ML training, but the LLM/RAG component makes it
+      ai-first.
+  responsibilities:
+  - Develop, train, fine-tune, and deploy machine learning models using TensorFlow,
+    PyTorch, and scikit-learn
+  - Build LLM, RAG, NLP, and computer vision solutions and integrate pre-trained models
+    from AWS Bedrock
+  - Design and develop RESTful APIs using Flask or FastAPI for AI model deployment
+  - Deploy AI solutions on AWS services including S3, Lambda, SageMaker, ECS/EKS,
+    and IAM
+  - Utilize Docker and Kubernetes for containerized deployments and CI/CD pipelines
+  - Design and query relational and NoSQL databases and build data pipelines and ETL
+    processes
+  - Collaborate with data scientists, engineers, and product managers and document
+    AI workflows
+  use_cases:
+  - RAG-based AI solutions using AWS Bedrock and pgvector
+  - LLM and NLP application development
+  - Deploying scalable AI model serving APIs on AWS
+  - AI data pipelines and ETL for model training and inference
+  skills:
+    databases: [pgvector, PostgreSQL, MySQL, DynamoDB, MongoDB]
+    domains: [NLP, Computer Vision]
+    data: [NumPy, Airflow, Spark, Data Pipelines]
+    web: [FastAPI, Flask, REST APIs, Microservices]
+    ml: [TensorFlow, PyTorch, scikit-learn, Neural Networks, Fine-Tuning, Machine
+        Learning]
+    ops: [Git, CI/CD, Docker, Kubernetes]
+    other: [Postman, Jira]
+    cloud: [AWS Lambda, AWS S3, AWS Bedrock, SageMaker, ECS, EKS, IAM]
+    languages: [Python]
+    genai: [LangChain, RAG, LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11249580'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:31:19.000054'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

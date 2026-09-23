@@ -1,0 +1,51 @@
+company:
+  name: Elastic
+  stage: null
+  focus: Search AI platform for search, security, observability
+position:
+  title: Principal AI Engineer - Context - Agents and Context
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns the improvement loop for an agent context
+      engine: iterating on prompts, skills, agent behavior,
+      evaluations, and guardrails in production. This is directly
+      shaping LLM/agent behavior, so ai-first.
+  responsibilities:
+  - 'Own the production improvement loop for Context Engine: diagnose extraction automations,
+    retrieval tools and memory from offline evals, customer conversations and telemetry'
+  - 'Define safe iteration on agents and skills: versioning, rollout of prompts/skills/automations,
+    regression coverage, staged and shadow evaluation, guardrails'
+  - Design telemetry for agent traces, tool calls and knowledge retrieval in Elasticsearch,
+    feeding evaluation, dashboards and feedback loops
+  - 'Partner with data scientists on evaluation strategy: golden datasets and evaluators
+    gating on quality, latency and cost'
+  - Review designs and PRs, mentor engineers in eval-driven development, and write
+    technical proposals shaping the roadmap
+  - Ship production TypeScript code in the open as part of the Elastic Stack
+  use_cases:
+  - Knowledge layer / AI Index extracted from enterprise data for agents in Elasticsearch
+  - Serving knowledge to agents via public APIs, MCP tools and framework integrations
+  - Agent memory and retrieval tools for enterprise data
+  - Evaluation and telemetry of agent behavior from production traces
+  skills:
+    genai: [AI Agents, MCP, Prompt Engineering, LLM Evaluation, Guardrails, LangGraph,
+      CrewAI, Claude Agent SDK, LangChain]
+    ml: []
+    web: [APIs]
+    databases: [Elasticsearch]
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11314695'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:36:38.087155'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

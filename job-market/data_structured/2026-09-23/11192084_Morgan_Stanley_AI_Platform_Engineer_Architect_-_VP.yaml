@@ -1,0 +1,59 @@
+company:
+  name: Morgan Stanley
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: AI Platform Engineer / Architect - VP
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour by implementing GenAI
+      solutions with agentic orchestration, agent builder
+      frameworks (LangChain, LangGraph), embeddings, fine-tuning,
+      and authoring best practices for LLM model/tool selection.
+      Though the core platform work is infrastructure-heavy, the
+      responsibilities explicitly include designing agent flows
+      and Generative AI solution patterns.
+  responsibilities:
+  - Develop tooling and self-service capabilities for deploying AI solutions leveraging
+    Kubernetes/OpenShift, Python, authentication, and APIs
+  - Develop Terraform modules and cloud architecture for secure AI cloud service deployment
+    at scale
+  - Build common reusable platform solutions to scale Generative AI use cases with
+    pre-trained and fine-tuned models
+  - Implement GenAI solutions focusing on Agentic Orchestration and Agent Builder
+    frameworks
+  - Integrate with large-scale vector stores for embeddings
+  - Author architecture decision records and best practices for the Generative AI
+    ecosystem
+  - Ensure AI platform reliability, scalability, and operability including release
+    strategies, monitoring, and automation
+  - Participate in Agile/Scrum ceremonies and on-call rotation
+  use_cases:
+  - Firmwide AI development platform for deploying AI solutions across the enterprise
+  - Scalable and secure consumption of Generative AI services for internal teams
+  - Agentic orchestration and agent workflow automation frameworks
+  - Integration with large-scale vector stores for embeddings
+  - Reusable platform blueprints for GenAI applications using pre-trained and fine-tuned
+    models
+  skills:
+    genai: [Generative AI, Embeddings, LangChain, LangGraph, LLMs, Fine-Tuning, Agentic
+        Workflows, GPT, Llama]
+    ml: [Hugging Face]
+    web: [REST APIs, Flask, FastAPI, OAuth, Microservices]
+    databases: [SQL, NoSQL, Redis, Vector Databases]
+    data: [Kafka]
+    cloud: [AWS, Azure, GCP, Infrastructure as Code]
+    ops: [Kubernetes, Terraform, OpenShift, DevOps, CI/CD, Jenkins, GitOps, OpenTelemetry,
+      Grafana, Prometheus, MLOps]
+    languages: [Python]
+    domains: []
+    other: [Agile, SRE]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11192084'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:24:58.017853'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

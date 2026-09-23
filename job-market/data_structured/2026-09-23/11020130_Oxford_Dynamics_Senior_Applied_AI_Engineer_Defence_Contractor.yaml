@@ -1,0 +1,53 @@
+company:
+  name: Oxford Dynamics
+  stage: null
+  focus: Frontier AI systems for defence and national security
+position:
+  title: Senior Applied AI Engineer (Defence Contractor)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-agent AI systems, agent
+      orchestration, tool-calling infrastructure, retrieval,
+      guardrails, and evaluation for LLM-based pipelines, which is
+      clearly shaping LLM/agent behaviour. No purely classical ML
+      focus, so it is ai-first.
+  responsibilities:
+  - Design and build multi-agent AI systems end-to-end, including orchestration, state,
+    and tool-calling infrastructure
+  - Integrate large language and vision-language models into reasoning, search, summarisation,
+    and task-execution pipelines
+  - Build retrieval, memory, guardrails, evaluation, and observability for dependable
+    agent behaviour
+  - Deploy systems into cloud, on-premises, and fully offline environments under strict
+    security constraints
+  - Own production pipelines from data ingestion through to inference
+  - Act as technical authority for agentic AI, setting design patterns and direction
+    for other engineers
+  use_cases:
+  - Multi-modal data fusion and interrogation for defence and national security operators
+  - Decision-support systems for high-stakes mission-critical environments
+  - Search and retrieval over very large multi-modal datasets (text, imagery, telemetry,
+    sensors)
+  - Reasoning, summarisation, and task-execution via agentic AI pipelines
+  - Secure on-premises and offline AI deployments
+  skills:
+    genai: [LangGraph, Haystack, LangChain, Multi-Agent Systems, Agentic Workflows,
+      LLMs, RAG, Embeddings, Function Calling, Guardrails, MCP, LLM Evaluation]
+    ml: [Model Deployment]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: [Docker, Git, Kubernetes, EKS, MLOps, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11020130'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:13:19.958729'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

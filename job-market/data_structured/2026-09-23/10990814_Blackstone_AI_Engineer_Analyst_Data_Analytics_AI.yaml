@@ -1,0 +1,49 @@
+company:
+  name: Blackstone
+  stage: null
+  focus: Alternative asset management and investment firm technology
+position:
+  title: AI Engineer, Analyst – Data Analytics & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds applied AI solutions themselves: agentic
+      workflows, retrieval pipelines, prompt libraries, fine-
+      tuning, and evaluation tooling — shaping LLM behavior
+      directly. Business stakeholders are internal, not customers.
+  responsibilities:
+  - Embed with business units to shadow live workflows and develop functional fluency
+    in capital raising, servicing, and reporting
+  - Translate workflow friction into a prioritized pipeline of self-service quick
+    wins and platform initiatives
+  - Develop and maintain production software solutions using Python and SQL
+  - Build and extend applied AI solutions including agentic workflows, retrieval pipelines,
+    and evaluation tooling
+  - Scale AI adoption through self-service runbooks and prompt libraries
+  - Promote a culture of data analytics and AI through talks and training sessions
+  - Lead multiple concurrent projects and transition proofs of concept into production
+    deployments
+  use_cases:
+  - Accelerating AI adoption across alternative asset management business workflows
+  - Self-service quick wins for capital raising, servicing, and reporting workflows
+  - Agentic workflow and retrieval-based automation for business processes
+  - Prompt libraries and self-service AI tooling for business users
+  skills:
+    genai: [LLMs, Fine-Tuning, Prompt Engineering, Agentic Workflows, RAG, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, CI/CD, Docker, Terraform]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10990814'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:11:13.394951'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

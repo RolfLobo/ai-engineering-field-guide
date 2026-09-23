@@ -1,0 +1,62 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: AI Engineer 2
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM and agent behavior: building agents and
+      multi-agent workflows, guardrails, model evaluation,
+      prompts, evaluation datasets, and similarity search/RAG. LLM
+      components are explicitly involved, so it is ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, deploy, and support AI components including foundation model
+    training, LLM inference, agents, guardrails, and model evaluation
+  - Leverage open source and SaaS AI technologies such as AWS Ultraclusters, Hugging
+    Face, vector DBs, and PyTorch
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Develop prompts, evaluation datasets, and automated regression tests for foundation
+    model products
+  - Build deployment pipelines, testing environments, and telemetry for model performance
+  - Contribute to internal AI engineering standards for reproducibility, monitoring,
+    and ethical deployment
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - AI-powered products changing how associates work and customers interact with the
+    bank
+  - Agents and multi-agent workflows for business operations
+  - Model evaluation, governance, and observability for foundation model products
+  - Similarity and embedding-based search to ground model outputs in factual context
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails, LLM Evaluation, RAG, Embeddings,
+      Semantic Search, Prompt Engineering, MCP]
+    ml: [Foundation Model Training, PyTorch, Hugging Face, Fine-Tuning, Machine Learning,
+      CUDA]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Model Monitoring]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268216'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-09-23T11:33:05.851305'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,174 @@
+job_id: 10925397
+title: Senior AI Engineer
+company: Nexperia
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 3,887 Employees
+description: |
+  About the team
+
+  Digital Enablement is Nexperia's fast-track enabler of AI &
+  Digital use-cases and platform enablement. We operate as one
+  global practice across Nijmegen, Hamburg, Kuala Lumpur,
+  Seremban and Bangalore, covering digital strategy, cloud and
+  infrastructure, digital factory and enterprise, data, AI and
+  integration.
+
+  Bangalore is where we build and ship the agentic systems
+  that put Nexperia's AI patterns in front of real users:
+  copilots, IDE tooling and internal automation that engineers
+  across the company touch every day.
+
+  About the role
+
+  This is the senior build role for Nexperia's agent
+  engineering practice in Bangalore. You own the architecture
+  of the agents themselves — reasoning, planning, tool-calling
+  and memory — and you own the surfaces people actually use
+  them through: chat UI, IDE extensions, CLI tools and the
+  APIs behind them.
+
+  You work closely with the Integration Architect on how
+  agents connect into IDEs and internal systems, and with the
+  MLOps/eval function on the quality bar an agent has to clear
+  before it ships.
+
+  This is a hands-on role. You are still writing and reviewing
+  code, still debugging orchestration failures when something
+  breaks in production, and still accountable for what ships —
+  not a role that manages from a distance.
+
+  What you will do
+
+  Architect and orchestrate agents
+
+  - Design agent architecture: reasoning loops, planning, tool-
+    calling and memory/context management.
+  - Build multi-step orchestration: task decomposition, tool
+    selection and error recovery.
+  - Partner with the Integration Architect on connecting agents
+    to IDEs and internal systems.
+
+  Ship end-to-end agent products
+
+  - Own the build of user-facing surfaces for Copilot-style
+    products: chat UI, IDE extensions and CLI tools.
+  - Build the backend APIs that connect those surfaces to agent
+    and LLM services, including streaming responses, session
+    state and context handling.
+  - Ship integrations into developer tools (VS Code extension
+    API, LSPs, browser extensions) and own deployment of both
+    the frontend and backend components you build.
+
+  Set the bar and take releases live
+
+  - Review code and agent designs from the two Junior AI
+    Engineers, and mentor them toward independent ownership.
+  - Define the agent quality bar with the MLOps/eval function
+    before anything ships, and work with that function on the
+    CI/CD, monitoring, versioning/rollback and observability
+    an agent needs once it's live.
+
+  Enable the Spokes
+
+  - Own the governance bar for citizen-built agents — what "safe
+    to ship" means for security, data access, cost and quality
+    — in partnership with security/compliance and the
+    Integration Architect.
+  - Publish and maintain the standards — prompting, evals,
+    architecture patterns — that spoke teams build against.
+  - Own the design of the self-service component catalog spokes
+    build on top of, and the support model — office hours, an
+    embedded rotation, or a ticket queue — for citizen
+    developers using it.
+
+  What you bring
+
+  We have kept this list to what the role truly requires. If
+  this role excites you and you meet most, but not all, of
+  these points, we encourage you to apply.
+
+  Core requirements
+
+  - 1-6 years hands-on building LLM or agent systems.
+  - Strong Python and/or TypeScript; comfortable owning a
+    service end to end.
+  - Hands-on with agent frameworks or SDKs (Claude Agent
+    SDK/MCP, LangGraph, AutoGen) or custom orchestration.
+  - Has shipped an agentic system to production, not just a
+    prototype.
+  - Solid grasp of traditional machine learning/AI (e.g.,
+    classification, regression, clustering, feature
+    engineering) in addition to LLM/agent-based approaches..
+  - Comfortable designing REST, GraphQL and streaming/WebSocket
+    APIs, and familiar with LLM streaming APIs
+    (SSE/WebSockets) and token-by-token rendering.
+  - Familiarity with enterprise AI/copilot platforms and cloud-
+    native model ecosystems — Microsoft Copilot and Copilot
+    Studio, Azure AI Foundry (model catalog, deployments, and
+    orchestration), and AWS model configuration (Bedrock model
+    access, inference profiles/settings) is a plus.
+
+  Valuable extras
+
+  - Strong in React/TypeScript for frontend work, and Node.js or
+    Python for backend work.
+  - Experience with CI/CD tooling (GitHub Actions, Jenkins or
+    similar), cloud infrastructure (AWS, Azure or GCP) and
+    containers (Docker, Kubernetes).
+  - Observability tooling — Datadog, Prometheus/Grafana, or LLM-
+    specific tools like LangSmith or Arize — and familiarity
+    with LLMOps practices: prompt versioning, eval pipelines,
+    cost tracking.
+  - Working knowledge of auth and session management, and
+    awareness of security and compliance considerations for AI
+    systems.
+  - Experience in the manufacturing industry, preferably
+    semiconductor, is a plus.
+  - Experience or interest in developer enablement or platform
+    engineering — documentation, SDKs, or internal tooling
+    built for non-specialist users, not just for your own
+    team.
+
+  Why join us
+
+  - Real ownership: you set the architecture and the quality bar
+    for agents that ship to real users, not just a reference
+    design others build from.
+  - A mentoring role with teeth: two Junior AI Engineers are
+    counting on your reviews, and Nexperia measures you on
+    their growth as much as on your own output.
+  - You're measured not only on what the Hub ships, but on how
+    many spoke teams successfully ship agents using what
+    you've published.
+  - Global exposure from Bangalore: you work with the AI and
+    Data Centers of Enablement, the Integration Architect,
+    platform engineering, security and compliance, with
+    visibility up to the CIO and IT Management Team.
+  - A team that values structured thinking, intellectual honesty
+    about trade-offs and good documentation over heroics.
+
+  Talent acquisition based on Nexperia vacancies is not
+  appreciated. Nexperia job adverts are Nexperia copyright ©
+  material and the word Nexperia® is a registered trademark.
+
+  D&I Statement
+
+  As an equal-opportunity employer, Nexperia values diversity
+  not just because it is the right thing to do but because
+  diverse teams perform better. We are dedicated to being
+  inclusive, and a proof point of this dedication is that we
+  were the main partner of the very first Dutch Paralympic
+  Team NL House during the Paris 2024 Paralympic Games. Our
+  recruitment process is inclusive and accessible to all, and
+  we consider all applicants fairly, as well as providing a
+  safe work environment and reasonable adjustments where
+  requested.
+
+  In addition, we offer our colleagues the possibility to join
+  employee resource groups such as the Pride Network Group or
+  global and local Women's groups. Nexperia is committed to
+  increasing women in management positions to 30% by 2030.
+posted_date: 2026-08-30
+url: "https://builtin.com/job/senior-ai-engineer/10925397"
+source: Built In

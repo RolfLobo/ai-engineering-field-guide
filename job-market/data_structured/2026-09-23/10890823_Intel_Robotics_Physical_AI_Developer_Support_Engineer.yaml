@@ -1,0 +1,55 @@
+company:
+  name: Intel
+  stage: null
+  focus: |-
+    Semiconductors; open ecosystem for Physical AI and robotics
+    software
+position:
+  title: Robotics & Physical AI Developer Support Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a developer relations role: the person builds
+      community, creates tutorials/samples, and channels developer
+      feedback about Intel's robotics and Physical AI software.
+      They do not shape model behavior through prompts, retrieval,
+      training, or evals — they enable and support developers
+      using frameworks others build.
+  responsibilities:
+  - Build, moderate, and grow Intel's robotics and Physical AI developer communities
+    across GitHub, Discord, Reddit, ROS communities, and other platforms
+  - Engage daily with developers to answer technical questions and troubleshoot issues
+  - Develop sample applications, tutorials, demos, and reference implementations using
+    Robotics AI Suite and Physical AI Toolkit
+  - Create technical content such as blog posts, walkthroughs, videos, workshops,
+    and hands-on labs
+  - Collect, prioritize, and communicate developer feedback to product and engineering
+    organizations
+  - Identify friction points in onboarding, documentation, tooling, and deployment
+    workflows and drive developer experience improvements
+  - Identify and scale community champions, influencers, and contributors
+  use_cases:
+  - Developer community engagement and support for robotics software platforms
+  - Developer enablement through samples, tutorials, and reference implementations
+    for Robotics AI Suite and Physical AI Toolkit
+  - Collecting and routing developer feedback into product improvements
+  - Adoption growth for Intel's robotics and Physical AI software stack
+  skills:
+    genai: []
+    ml: [PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [OpenVINO, GitHub]
+    languages: [Python, C++]
+    domains: [Robotics]
+    other: [ROS, ROS2, Physical AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10890823'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:05:24.067952'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

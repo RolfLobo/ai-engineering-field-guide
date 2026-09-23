@@ -1,0 +1,57 @@
+company:
+  name: Nagarro
+  stage: null
+  focus: Digital product engineering and IT consulting services
+position:
+  title: Associate Principal Engineer, AI Architect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architecting and implementing RAG, LLM, and agent
+      orchestration, plus defining prompt design, model
+      integration, and evaluation standards — this is shaping
+      model behavior. LLM/GenAI is central, so ai-first.
+  responsibilities:
+  - Own architecture and technical vision for AI-powered user-facing applications
+    built with Python, React, and Generative AI
+  - Design scalable, secure, cost-efficient backend platforms for LLM inference, RAG
+    pipelines, and agent-based orchestration
+  - Define frontend architecture and UX patterns for AI-native applications including
+    conversational interfaces, copilots, and intelligent dashboards
+  - Lead design and implementation of complex GenAI workflows combining LLMs, tools,
+    APIs, structured data, and user context
+  - Establish engineering standards for prompt design, model integration, evaluation,
+    and observability; drive GenAI platformization with reusable SDKs and frameworks
+  - Partner with product, design, data, and business leaders; lead technical discovery
+    and client/executive-facing workshops
+  - Review critical designs and codebases, unblock teams, mentor junior engineers,
+    and write/review architecture documentation
+  - 'Ensure enterprise readiness: security, privacy, compliance, governance, and responsible
+    AI practices'
+  use_cases:
+  - Enterprise applications embedding AI and deep learning models
+  - LLM inference and RAG pipelines for enterprise data
+  - Agent-based orchestration and autonomous agents
+  - Conversational interfaces, copilots, and intelligent dashboards
+  - GenAI platformization with reusable components and SDKs across teams
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, Prompt Engineering, GitHub Copilot,
+      Claude Code]
+    ml: [Deep Learning, Fine-Tuning]
+    web: [FastAPI, Node.js, Microservices, React]
+    databases: [Vector Databases, Pinecone, Weaviate, Milvus, Knowledge Graphs]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Distributed Systems, AgentOps]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, Jira, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11200700'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:26:30.798042'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

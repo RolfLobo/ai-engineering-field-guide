@@ -1,0 +1,50 @@
+company:
+  name: MongoDB
+  stage: null
+  focus: Distributed document database and data platform
+position:
+  title: Software Engineer 3, AI Builder Experience
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds the MongoDB MCP Server, Agent Skills, and
+      purpose-built agents — designing agent interfaces and tool-
+      calling surfaces that shape how AI agents behave, which is
+      LLM/agent shaping work. Core skills are backend
+      Node.js/TypeScript, but the deliverable is agent
+      infrastructure, not just consuming an API.
+  responsibilities:
+  - Collaborate with research, product, engineering, and design to define the first
+    version and future evolution of AI interfaces
+  - Design, build, and deliver core pieces of the platform including the MongoDB MCP
+    Server, Agent Skills, the Intelligent Assistant Platform, and purpose-built agents
+  - Own ambiguous problems end to end, driving them to completion independently as
+    requirements evolve
+  - Shape architecture, code reviews, and development practices as the team and product
+    grow
+  - Mentor fellow engineers and hold ownership and accountability of projects
+  - Participate in a 24/7 on-call rotation for business continuity and incident response
+  use_cases:
+  - Interfaces for AI agents and developers to interact with MongoDB
+  - MongoDB MCP Server exposing database capabilities to agent tool-calling
+  - Intelligent Assistant Platform for developer assistance
+  - Purpose-built agents for database workflows
+  skills:
+    genai: [MCP, Agentic Workflows, AI Agents, Agent Skills]
+    ml: []
+    web: [OAuth]
+    databases: [MongoDB, Databases]
+    data: []
+    cloud: []
+    ops: [Kubernetes]
+    languages: [Node.js, TypeScript, Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10755424'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:01:06.373912'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

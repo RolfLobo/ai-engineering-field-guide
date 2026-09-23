@@ -1,0 +1,55 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML products
+position:
+  title: Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and supports LLM components
+      including foundation model training, LLM inference,
+      guardrails, model evaluation, and optimization of LLM
+      systems — clearly shaping model behavior and output quality,
+      with LLM as the target, making it ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and observability
+  - Leverage open source and SaaS AI technologies such as AWS Ultraclusters, Hugging
+    Face, VectorDBs, NeMo Guardrails, and PyTorch
+  - Invent and apply LLM optimization techniques to improve scalability, cost, latency,
+    and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - Personalized real-time banking customer experiences
+  - AI-powered products changing how associates work and customers interact with the
+    bank
+  - Foundation model training and LLM inference for production AI systems
+  - Similarity search, guardrails, and model evaluation for responsible AI
+  skills:
+    genai: [Guardrails, LLMs]
+    ml: [PyTorch, Hugging Face, Model Training, Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Model Deployment]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7575304'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:38:45.905291'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

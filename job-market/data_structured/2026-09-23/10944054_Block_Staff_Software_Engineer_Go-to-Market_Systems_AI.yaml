@@ -1,0 +1,57 @@
+company:
+  name: Block
+  stage: null
+  focus: Commerce, payments, and financial services technology
+position:
+  title: Staff Software Engineer, Go-to-Market Systems & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and operates production AI agents,
+      tool calling, retrieval, and workflow orchestration, and
+      establishes evals and guardrails for these systems - clearly
+      shaping model behaviour, with LLM/agent components central.
+  responsibilities:
+  - Own technical strategy, architecture, and long-term evolution of the go-to-market
+    technology stack
+  - Design, build, and operate production-grade AI agents and automated workflows
+    that reduce manual sales work
+  - Lead technical execution across initiatives by setting direction, breaking down
+    problems, and reviewing designs
+  - Stay hands-on across prototyping, implementation, testing, deployment, and production
+    operations
+  - Partner with Sales and Sales Strategy & Operations to translate business problems
+    into technical solutions
+  - Establish patterns, evaluation methods, and guardrails for reliable, observable,
+    secure AI systems
+  - Define success measures and use data, evaluations, and user feedback to improve
+    AI capabilities
+  - Make build-versus-buy decisions and guide integrations across CRM, data services,
+    and third-party tools
+  use_cases:
+  - AI-powered sales productivity automation
+  - Automated workflows reducing manual sales work
+  - Lead and opportunity management systems
+  - Sales forecasting and decision support
+  - CRM and go-to-market systems integration
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, RAG, Agentic Workflows, LLM Evaluation,
+      Guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10944054'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:07:58.342074'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

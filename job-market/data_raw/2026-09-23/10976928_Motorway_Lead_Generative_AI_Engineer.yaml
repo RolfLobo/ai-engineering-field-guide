@@ -1,0 +1,159 @@
+job_id: 10976928
+title: Lead Generative AI Engineer
+company: Motorway
+location: London, GBR
+work_type: FULL_TIME
+company_size: 446 Employees
+description: |
+  About Motorway
+
+  Motorway is the UK's largest online car-selling platform. We
+  connect private sellers directly with over 8,000 dealers
+  nationwide. Our online platform helps sellers achieve great
+  prices for their cars while giving dealers fast, reliable
+  access to the stock they want for their dealerships. Founded
+  in 2017, our award-winning, technology-led approach has
+  redefined the experience of selling a car. Motorway is
+  backed by some of the world’s leading technology investors,
+  having raised £143 million in Series C funding.
+
+  This is a unique opportunity to join a fast-growing scale-up
+  at a crucial phase of growth and help change an industry for
+  the better.
+
+  About the team
+
+  GenAI Engineering sits within Motorway's Data and AI
+  function, alongside Machine Learning and the Machine
+  Learning Data Platform. We own the AI features that shape
+  how buyers and sellers experience the marketplace, from
+  agentic workflows in the customer journey to LLM-powered
+  tooling for our dealer network.
+
+  What we build goes into the hands of real sellers and
+  thousands of verified dealers, usually within weeks. When it
+  works, someone sells their car more easily. When it doesn't,
+  we hear about it. That feedback loop is short, and it shapes
+  how we work. We have a track record of successful
+  deployments and a strong reputation as a result.
+
+  Over the next two years the function scales from shipping AI
+  features to running a serious GenAI platform.
+
+  About the role
+
+  We're looking for a Lead GenAI Engineer to set the technical
+  standard for AI work across the function, and to build the
+  hardest parts of it themselves.
+
+  You'll own the architecture and standards for complex,
+  product-facing GenAI work. You'll hold sign-off on the
+  systems that carry real risk, and you'll be the person a
+  squad comes to when they've hit something genuinely hard.
+  This is a player-coach role: your own code sets the bar
+  others refer back to, and you'll spend as much energy making
+  senior engineers better as you do building.
+
+  Most of what makes a GenAI feature good sits around the
+  model rather than in it. The prompting is rarely the hard
+  part. Retrieval quality is, and so is the data feeding it,
+  evaluation you can trust, sensible behaviour when things
+  fail, and getting it live and keeping it there. The
+  standards that matter most here are the ones that make that
+  work repeatable across teams. We're not precious about the
+  route you took to this kind of engineering.
+
+  In this role, you will:
+
+  - Set the architecture standard for complex GenAI work across
+    the function, not by mandate but by building things others
+    learn from and want to adopt.
+  - Hold sign-off on materially complex AI systems, catching
+    architectural, safety and reliability problems before they
+    reach production.
+  - Own the shared foundations that determine feature quality
+    across teams: retrieval patterns, evaluation
+    infrastructure, data pipelines, and the tooling that makes
+    good practice the easy path.
+  - Build the hardest pieces of work directly, acting as the
+    technical escalation point for the function's toughest
+    problems.
+  - Design for systems that stay up and stay affordable,
+    covering graceful degradation, fallback behaviour, and
+    cost and latency at production scale.
+  - Develop the senior engineers around you by handing them
+    harder problems, room to own decisions, and honest
+    feedback.
+  - Shape how we hire and review, bringing a clear and
+    defensible view of what good looks like.
+  - Bring specific, actionable industry insight into planning,
+    explaining what a development means for our architecture
+    rather than noting that the field moves fast.
+
+  About you
+
+  - You've set technical direction that other engineering teams
+    actually adopted, and you can talk about where that worked
+    and where it didn't.
+  - Strong Python, and SQL you genuinely use. A lot of this work
+    is data work: grounding data, golden datasets, and
+    understanding why something failed.
+  - Deep, current expertise across the GenAI stack, including
+    retrieval at scale, vector stores, agentic orchestration,
+    multimodal work, evaluation infrastructure and fine-tuning
+    where it earns its place.
+  - You're fluent in the layer underneath: MLOps tooling,
+    deployment and cloud infrastructure (we run on AWS and
+    GCP), and you can tell the difference between a choice
+    that matters and one that doesn't.
+  - You design systems that survive contact with production, and
+    you've been on the hook when they didn't.
+  - A strong point of view on evaluation, including the
+    difference between evals that catch regressions and evals
+    that provide comfort.
+  - Your direct contributions set a quality bar for the people
+    around you.
+  - You explain hard technical trade-offs to non-technical
+    stakeholders without either condescending or losing the
+    substance.
+  - Self-awareness about where your knowledge runs out, and the
+    instinct to bring in expertise early.
+
+  You could be a great fit if
+
+  - You build with taste, preferring simple systems that work
+    over clever ones that nearly do.
+  - You use authority sparingly. You're not a blocker, but
+    you'll stop a bad decision from shipping.
+  - You get satisfaction from the unglamorous work that makes AI
+    features actually good, not just the part that demos well.
+  - You enjoy making other engineers better as much as building
+    things yourself.
+  - You've levelled people up in a way they'd recognise, whether
+    through a talk, a review, or how you work day to day.
+  - You hold a two-to-three-year view without losing touch with
+    what's shipping this month.
+
+  BENEFITS
+
+  We've got your back, in life's biggest moments and the
+  everyday ones too.
+
+  - Competitive salary
+  - Equity scheme - we all share in Motorway's success
+  - 25 days holiday
+  - Flexible working (2 days a week in our London office, with
+    socials and snacks galore)
+  - Private medical insurance via BUPA
+  - Life assurance
+  - Pension scheme (we contribute 5%)
+  - Enhanced family leave (e.g. 26 weeks full pay for maternity
+    or adoption)
+  - 24/7 Employee Assistance Programme
+  - EV leasing scheme
+  - Cycle to work scheme
+  - Nursery salary sacrifice scheme
+  - 1 paid volunteering day a year
+posted_date: 2026-09-02
+url: "https://builtin.com/job/lead-generative-ai-engineer/10976928"
+source: Built In

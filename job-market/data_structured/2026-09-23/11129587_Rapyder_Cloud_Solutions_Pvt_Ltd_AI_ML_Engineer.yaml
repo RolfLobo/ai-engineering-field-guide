@@ -1,0 +1,45 @@
+company:
+  name: Rapyder Cloud Solutions Pvt Ltd
+  stage: null
+  focus: Cloud consulting and end-to-end AWS cloud solutions
+position:
+  title: AI/ ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds end-to-end ML solutions on AWS using
+      SageMaker and AWS AI/ML services, covering classical ML
+      (supervised/unsupervised, deep learning). No LLM prompting,
+      RAG, or agent shaping is described, so it is ml-first.
+  responsibilities:
+  - Assess customer workloads and technology landscape for cloud suitability across
+    ML and data platforms
+  - Design end-to-end reference architectures stitching together required AWS layers
+    based on customer needs
+  - Create and implement architectures with minimal supervision
+  - Deploy end-to-end solutions with assistance from Tech Lead and Senior AI/ML Engineer
+  - Evaluate, select, and implement new tools and frameworks to expand platform capabilities
+  use_cases:
+  - Customer ML workload assessment and cloud migration suitability
+  - Real-time ML data platform integration on AWS
+  - End-to-end AI/ML solution deployment using AWS services
+  skills:
+    genai: []
+    ml: [Machine Learning, Deep Learning, Amazon Comprehend, Amazon Forecast, Amazon
+        Lex, Amazon Rekognition, Amazon Transcribe]
+    web: []
+    databases: []
+    data: [AWS Glue, Kafka]
+    cloud: [SageMaker, AWS, AWS Lambda, AWS S3]
+    ops: [Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11129587'
+  location: Bengaluru South, IND
+  extracted_at: '2026-09-23T11:20:55.487881'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

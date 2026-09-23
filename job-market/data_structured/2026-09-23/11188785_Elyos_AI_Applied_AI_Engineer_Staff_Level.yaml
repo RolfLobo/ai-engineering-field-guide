@@ -1,0 +1,51 @@
+company:
+  name: Elyos AI
+  stage: Series A ($13m raised, Y Combinator S23)
+  focus: AI voice agents for customer service automation
+position:
+  title: Applied AI Engineer (Staff Level)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and iterates on AI voice agents: prompt
+      engineering, tool calling, conversation design,
+      orchestration across STT/LLM/TTS, plus building evals and
+      feedback loops - directly shaping model behavior, with LLMs
+      involved.
+  responsibilities:
+  - Build and ship core product features across the stack (Python, TypeScript, cloud
+    infra, event-driven systems, integrations)
+  - Design, build, and iterate on AI voice agents including prompt engineering, tool
+    calling, and conversation design
+  - Orchestrate pipelines across speech-to-text, LLM, and text-to-speech components
+  - Build evals, monitoring, and feedback loops to measure and improve agent performance
+    in production
+  - Work directly with customers to understand needs, scope solutions, and deliver
+    outcomes
+  - Apply best practices for testing, documentation, reliability, and security
+  use_cases:
+  - AI voice agents answering phone calls for trades businesses
+  - Automated customer service via email and WhatsApp
+  - Agent-driven booking and payment handling
+  - Automated CRM operation mimicking human agents
+  - Real-time speech-to-text to LLM to text-to-speech voice pipelines
+  skills:
+    genai: [LLMs, Prompt Engineering, Function Calling, RAG, Agentic Workflows, AI
+        Agents, LLM Evaluation, Fine-Tuning]
+    ml: [Model Evaluation]
+    web: []
+    databases: [NoSQL]
+    data: [Event-Driven Architecture]
+    cloud: []
+    ops: [Kubernetes, Distributed Systems, Monitoring]
+    languages: [Python, TypeScript]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11188785'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:25:05.945210'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

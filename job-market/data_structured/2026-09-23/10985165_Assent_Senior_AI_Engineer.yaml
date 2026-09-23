@@ -1,0 +1,58 @@
+company:
+  name: Assent
+  stage: null
+  focus: |-
+    Product intelligence and supply chain compliance platform
+    for manufacturers
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM systems, RAG pipelines, and
+      agent-based architectures, and implements guardrails and
+      agent lifecycle management — directly shaping model behavior
+      and agentic flows. LLM/agent components dominate, so ai-
+      first.
+  responsibilities:
+  - Design, build, and optimize AI solutions including LLMs, RAG pipelines, and agent-based
+    architectures
+  - Deploy, orchestrate, and manage multi-agent systems using frameworks like MCP,
+    LangChain Agents, CrewAI, and AutoGen
+  - Establish agent lifecycle practices covering state management, monitoring, retraining,
+    and rollback
+  - Implement guardrails, controls, and observability to bound agent behavior and
+    align with Responsible AI standards
+  - Integrate agents with APIs, microservices, and message-driven systems
+  - Apply governance, security, fairness, and compliance controls to agent operations
+  - Collaborate cross-functionally with product, design, and engineering to deliver
+    AI features
+  - Evaluate and adopt emerging AI tools and frameworks to strengthen the AI platform
+    strategy
+  use_cases:
+  - Enterprise-scale AI agents for supply chain compliance and product intelligence
+  - LLM and RAG-powered intelligence features integrated into Assent's compliance
+    platform
+  - Multi-agent orchestration for enterprise use cases
+  - Agent-driven integration with enterprise APIs, microservices, and messaging systems
+  - Responsible AI governance and safety controls for autonomous agents
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Multi-Agent Systems, MCP, LangChain, CrewAI,
+      AutoGen, Google ADK, Guardrails, Function Calling]
+    ml: [Machine Learning, Fine-Tuning]
+    web: [Angular, Microservices, APIs]
+    databases: []
+    data: [Kafka, RabbitMQ, Solace PubSub+]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Docker, Infrastructure as Code, Monitoring]
+    languages: [Python, C#, JavaScript]
+    domains: []
+    other: [Event-Driven Architecture, Distributed Systems, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10985165'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:11:26.518177'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

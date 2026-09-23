@@ -1,0 +1,55 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Asset and Wealth Management technology at global bank
+position:
+  title: Sr Lead Software Engineer - Agentic AI Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements LLM-driven agent services,
+      builds multi-agent orchestration (LangGraph, AutoGen, A2A),
+      and does prompt/context engineering and RAG — directly
+      shaping model behavior via agents and retrieval. No
+      classical-ML-only focus, so ai-first.
+  responsibilities:
+  - Design and implement LLM-driven agent services for design, code generation, documentation,
+    test creation, and observability on AWS
+  - Develop orchestration and communication layers between agents using frameworks
+    like A2A SDK, LangGraph, or AutoGen
+  - Integrate AI agents with toolchains such as Jira, Bitbucket, GitHub, Terraform,
+    and monitoring platforms
+  - Collaborate on system design, SDK development, and data pipelines supporting agent
+    intelligence
+  - Drive adoption and governance of approved AI-assisted engineering practices across
+    teams
+  - Provide technical leadership and mentorship to junior engineers
+  - Define requirements with software engineers, product managers, and stakeholders
+  use_cases:
+  - LLM-driven agents for software design, code generation, documentation, and test
+    creation
+  - AI-assisted code review, refactoring, and test acceleration in the SDLC
+  - Multi-agent orchestration with agent-to-agent communication
+  - Observability and incident/root-cause analysis support
+  - Integrating agents with DevOps toolchains like Jira, Bitbucket, GitHub, and Terraform
+  skills:
+    genai: [LangGraph, RAG, AI Agents, Agentic Workflows, LLMs, Prompt Engineering,
+      Context Engineering, LangChain, AutoGen, MCP, A2A]
+    ml: []
+    web: [FastAPI, APIs]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, EKS, AWS Lambda, AWS S3, Azure, GCP]
+    ops: [Terraform, CI/CD, Kubernetes, Docker, Monitoring, Observability, MLOps,
+      Model Monitoring]
+    languages: [Python, Pydantic]
+    domains: []
+    other: [Jira, Bitbucket, GitHub, SDLC Toolchain]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10946306'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:08:11.363742'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

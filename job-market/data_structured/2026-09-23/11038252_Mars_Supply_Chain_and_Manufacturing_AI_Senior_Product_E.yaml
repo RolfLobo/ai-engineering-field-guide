@@ -1,0 +1,68 @@
+company:
+  name: Mars
+  stage: null
+  focus: Global consumer goods (confectionery, pet care) manufacturer
+position:
+  title: Supply Chain and Manufacturing AI Senior Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG pipelines, semantic search,
+      agentic workflows, and evaluates AI outputs themselves —
+      direct shaping of LLM behavior. It is also a Forward
+      Deployed Engineer role, which is ai-first by definition.
+  responsibilities:
+  - Partner with frontline Supply Chain, Manufacturing, Logistics, Procurement, and
+    Planning teams to map operational bottlenecks
+  - Facilitate discovery workshops to translate business problems into user stories,
+    functional specs, and technical data models
+  - Act as Scrum Master for prototyping work, managing backlog, iterations, risks,
+    and dependencies
+  - Design, write, and deploy production-ready AI prototypes in Python on modern cloud
+    technologies
+  - Build enterprise-grade RAG pipelines, semantic search engines, and multi-agent
+    system workflows
+  - Build API integrations connecting AI applications to shop-floor platforms (Poka,
+    Weaver, MES) and enterprise systems (SAP ERP)
+  - Ingest, clean, and structure messy data from databases, telemetry streams, and
+    unstructured files
+  - Build reusable AI components and accelerators for future supply chain use cases
+  use_cases:
+  - Manufacturing knowledge assistants for line operators integrated with Poka and
+    Weaver
+  - AI-powered shopfloor voice assistants and hands-free SOP guidance
+  - Supplier and procurement intelligence using agentic workflows to parse contracts
+    and market data
+  - Predictive decision support for supply chain planning and logistics network optimization
+  - Multi-agent digital workers automating document analysis, compliance checks, and
+    operational reporting
+  skills:
+    databases: [Vector Databases, Snowflake]
+    domains: []
+    data: [Databricks, Spark, Airflow]
+    web: [APIs]
+    ml: []
+    ops: [Phoenix, Git, GitHub, Docker, CI/CD]
+    other: [SAP, MES, Poka, Weaver]
+    cloud: [Azure OpenAI, GCP, Vertex AI]
+    languages: [Python, SQL]
+    genai: [RAG, Semantic Search, Multi-Agent Systems, Agentic Workflows, LLMs, OpenAI
+        API, Gemini, Anthropic API, LangChain, LangGraph, LlamaIndex, Ragas, TruLens,
+      Generative AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11038252'
+  location: CAN
+  locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - GBR
+  - Mars, USA
+  - Singapore, SGP
+  remote: true
+  extracted_at: '2026-09-23T11:14:21.769550'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

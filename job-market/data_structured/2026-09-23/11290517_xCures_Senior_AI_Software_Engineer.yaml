@@ -1,0 +1,48 @@
+company:
+  name: xCures
+  stage: null
+  focus: |-
+    Healthcare AI platform for patient data and clinical
+    workflows
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building AI-powered
+      workflows and software, and champions AI-forward development
+      workflows, indicating the person shapes AI system behaviour.
+      With LLM-driven workflows implied in a healthcare data
+      platform, this maps to ai-first; no model-internals
+      classical ML is mentioned.
+  responsibilities:
+  - Own software design and architecture, making scalable technical decisions
+  - Write and ship production code across features and bug fixes
+  - Identify and clear technical and cross-team roadblocks to delivery
+  - Partner with stakeholders across teams to drive initiatives from idea to completion
+  - Champion adoption of AI-forward development workflows across the engineering org
+  - Contribute to new platform and product deliverables as the architecture evolves
+  use_cases:
+  - AI-driven engineering workflows in a regulated healthcare environment
+  - Automating administrative work around patient care
+  - Understanding and surfacing patient medical history across care providers
+  skills:
+    genai: [AI-Powered Workflows]
+    ml: []
+    web: []
+    databases: [Database Design]
+    data: []
+    cloud: [AWS, GCP]
+    ops: []
+    languages: [Object-Oriented Programming]
+    domains: []
+    other: [Event-Driven Architecture, CQRS, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11290517'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:35:06.475812'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

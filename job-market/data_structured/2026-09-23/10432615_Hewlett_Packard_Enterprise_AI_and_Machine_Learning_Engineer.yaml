@@ -1,0 +1,61 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud computing and networking
+position:
+  title: AI and Machine Learning Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, trains, and evaluates machine learning
+      models (regression, SVM, deep learning, transfer learning)
+      to improve product performance, with no LLM prompting,
+      retrieval, or agent design. Generative models appear only as
+      classical deep learning techniques, so this is ml-first.
+  responsibilities:
+  - Conduct advanced AI and machine learning research and identify opportunities to
+    apply cutting-edge techniques to business problems
+  - Design and architect AI/ML solutions for complex problems, considering scalability,
+    performance, and maintainability
+  - Develop integrated software algorithms to structure and analyze structured and
+    unstructured data
+  - Use machine learning and statistical modelling to improve product/system performance,
+    quality, and accuracy
+  - Apply and scale deep learning technologies and algorithms
+  - Provide technical guidance and mentorship to junior team members and lead design
+    reviews
+  - Collaborate with product managers, data scientists, and business analysts to translate
+    requirements into technical solutions
+  - Evaluate and integrate third-party tools and services to enhance AI solution capabilities
+  use_cases:
+  - AI-driven support and services experiences for networking customers, partners,
+    and employees
+  - Predictive and proactive experiences that shorten resolution times in customer
+    support
+  - Improving product and system performance, quality, and data accuracy through ML
+    models
+  - Intelligent automation and self-service digital experiences
+  - Analyzing structured and unstructured data for descriptive, predictive, and prescriptive
+    insights
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: [Machine Learning, Linear Regression, Decision Trees, Support Vector Machines,
+      Random Forests, Deep Learning, Neural Networks, Reinforcement Learning, Hyperparameter
+        Tuning, Model Evaluation, TensorFlow, PyTorch, Keras, Transfer Learning, Transformers,
+      CNNs, RNNs, Linear Algebra, Probability Theory, Statistics]
+    ops: [Git]
+    other: []
+    cloud: []
+    languages: [Python, R, Java]
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10432615'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T10:59:39.542857'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

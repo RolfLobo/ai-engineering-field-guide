@@ -1,0 +1,60 @@
+company:
+  name: E Source
+  stage: null
+  focus: |-
+    Utility industry research, data analytics, and technology
+    services
+position:
+  title: Forward Deployed AI/ML Engineer IV
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs retrieval/RAG, agent
+      orchestration, prompt/model selection, and evaluation
+      frameworks for LLM systems at client sites. Designs evals
+      and shapes LLM behavior directly, so ai-first (FDE edge
+      case).
+  responsibilities:
+  - Embed with utility clients to design, build, and deploy GenAI and ML systems solving
+    operational problems
+  - 'Own engagement architecture end to end: retrieval, orchestration, model selection,
+    serving, evaluation, and monitoring'
+  - Run technical discovery, define task-specific evaluations with client SMEs, and
+    gate releases against them
+  - Build retrieval and grounding systems over structured, unstructured, and graph-backed
+    client data
+  - 'Build and deploy operator-facing application layers: review/approval interfaces,
+    agent and chat front ends, dashboards'
+  - Instrument systems for accuracy, latency, cost, and drift, and hand off operations
+    the client can run
+  - Manage scope, timelines, and executive expectations against a statement of work
+  - Contribute reusable accelerators, evaluation harnesses, and reference architectures;
+    apply safety, privacy, and governance controls
+  use_cases:
+  - Generative AI and ML systems solving utility operational problems in client environments
+  - Retrieval and grounding over structured, unstructured, and graph-backed enterprise
+    data
+  - Agent and chat interfaces and operator-facing review/approval workflows
+  - LLM/ML evaluation, monitoring, and drift detection in production
+  - Structured extraction and text-to-SQL over utility data platforms
+  skills:
+    databases: [Text-to-SQL]
+    domains: [Semantic Search]
+    data: [Spark, Databricks, Data Pipelines, Lakehouse Architectures]
+    web: [React, Streamlit, GraphQL, REST APIs]
+    ml: [Machine Learning, Forecasting, Ranking, Anomaly Detection, Distillation]
+    ops: [LLMOps, Docker, CI/CD, Git, Model Deployment, Monitoring]
+    other: []
+    cloud: [AWS, Azure, GCP]
+    languages: [Python, TypeScript, Scala, Java]
+    genai: [Generative AI, LLMs, RAG, AI Agents, Multi-Agent Systems, Prompt Engineering,
+      LLM Evaluation, Fine-Tuning, Knowledge Graphs, Embeddings, Vector Databases]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11195781'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:25:50.546422'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

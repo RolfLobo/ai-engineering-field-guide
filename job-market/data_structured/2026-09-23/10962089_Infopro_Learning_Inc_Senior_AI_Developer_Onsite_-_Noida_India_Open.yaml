@@ -1,0 +1,56 @@
+company:
+  name: Infopro Learning, Inc
+  stage: null
+  focus: AI-native talent and skills intelligence platform
+position:
+  title: Senior AI Developer | Onsite - Noida, India | Open to India-based candidates
+    only
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects agentic systems, RAG pipelines, prompt
+      systems, and evaluation standards for LLM-driven outputs,
+      which is direct model-behaviour shaping. Skills inference
+      models exist but the LLM/agent component dominates, so it is
+      ai-first.
+  responsibilities:
+  - Own end-to-end architecture of agentic and RAG systems on Azure, including retrieval
+    pipelines, agent workflows, prompt systems, and serving APIs
+  - Define and enforce evaluation standards for AI features across the team
+  - Develop and oversee skills inference and proficiency models that turn evidence
+    into trusted skill scores
+  - Set data engineering standards in Microsoft Fabric for sourcing, cleaning, and
+    governing customer data
+  - 'Own the MLOps loop: versioning, monitoring, and retraining, with production tradeoffs
+    on latency, cost, and reliability'
+  - Deploy on Azure with clean APIs, containers, and CI/CD, making architecture decisions
+    like build vs. buy
+  - Mentor and review other engineers' work, raising evaluation and responsible AI
+    rigor
+  - 'Practice responsible AI: fairness, transparency, and explainability as engineering
+    requirements'
+  use_cases:
+  - Proficiency engine that scores skills from real-world evidence
+  - Retrieval and agent systems guiding learning and career decisions
+  - Turning organizational HR, learning, and job data into skills intelligence
+  - Enterprise-grade AI features with evaluation and responsible AI guarantees
+  skills:
+    genai: [RAG, Agentic Workflows, Multi-Agent Systems, Function Calling, Fine-Tuning,
+      LLM Evaluation]
+    ml: [PyTorch, TensorFlow, Hugging Face, scikit-learn, NLP]
+    web: [APIs]
+    databases: [Vector Search]
+    data: [Pandas, NumPy, Microsoft Fabric]
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI, AWS Bedrock, Vertex AI]
+    ops: [MLOps, Docker, Kubernetes, CI/CD, Git]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10962089'
+  location: Noida, IND
+  extracted_at: '2026-09-23T11:09:22.586088'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

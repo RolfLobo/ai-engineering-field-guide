@@ -1,0 +1,53 @@
+company:
+  name: Proof of Skill
+  stage: null
+  focus: Pharma analytics and data-driven business consulting
+position:
+  title: Senior Generative AI Engineer - Agentic Infrastructure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent memory, context management,
+      orchestration, guardrails, and evaluation standards for
+      agent systems — directly shaping LLM/agent behavior.
+      LLM/agent components are central, so ai-first.
+  responsibilities:
+  - Design and build agentic infrastructure for memory, context, state, and session
+    management
+  - Develop patterns for short-term and long-term agent memory, retrieval, summarization,
+    and context optimization
+  - Implement agent-to-agent communication using A2A, MCP, and event-driven APIs
+  - Build and operate agent workflows using AWS services and AWS AgentCore
+  - Integrate agents with tools, enterprise data sources, APIs, and identity systems
+  - Establish standards for agent observability, tracing, evaluation, reliability,
+    latency, and cost management
+  - Design guardrails for security, privacy, authorization, and responsible agent
+    behavior
+  - Contribute to reusable frameworks and reference architectures for production GenAI
+    systems
+  use_cases:
+  - Agent memory, context, and state management for enterprise agents
+  - Agent-to-agent communication and orchestration
+  - Enterprise agents using tools, data sources, APIs, and identity systems
+  - Agent observability, evaluation, and cost management
+  - Security, privacy, and guardrails for responsible agent behavior
+  skills:
+    databases: [Vector Databases]
+    domains: []
+    data: [Data Governance]
+    web: [REST APIs, APIs]
+    ml: []
+    ops: [CI/CD, Observability, Docker, Distributed Systems]
+    other: [Event-Driven Architecture]
+    cloud: [AWS, IAM]
+    languages: [Python, TypeScript, Java]
+    genai: [LangGraph, LangChain, MCP, AI Agents, Agentic Workflows, Multi-Agent Systems,
+      Embeddings, Guardrails, LLM Evaluation, Generative AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11127299'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:20:40.108981'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

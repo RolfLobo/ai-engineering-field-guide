@@ -1,0 +1,191 @@
+job_id: 10913845
+title: Senior AI Engineer (m/f/d)
+company: Kayzen
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 99 Employees
+description: |
+  Hello 👋 I am Servesh, Co- founder and CTO at Kayzen, and I
+  am now looking for a Senior AI Engineer who will be part of
+  our Engineering team. 🙌 But wait, you have not heard of
+  Kayzen before? 😃
+
+  Kayzen is a mobile demand-side platform (DSP) dedicated to
+  democratizing programmatic advertising. We enable leading
+  apps, agencies, media buyers, and brands to run programmatic
+  customer acquisition, retargeting, and brand performance
+  campaigns through its self-serve and managed service
+  options. Built on the three core pillars of performance,
+  transparency, and control, Kayzen powers the world’s best
+  mobile marketing teams with bespoke solutions that fuel
+  business growth and deliver a competitive advantage. With an
+  unprecedented scale of 160B+ daily ad requests from 1.6B+
+  unique users worldwide, we serve up to 1B+ ads per day in
+  180 countries. Kayzen is accessible through our APIs and
+  user interface.
+
+  The Team
+
+  You will work closely with our Console Engineering, Product
+  and ML teams. Our Engineering organization builds and
+  operates large-scale distributed systems, real-time bidding
+  and budget systems, event and stream processing, data
+  pipelines, and customer-facing products. For this role, the
+  focus is practical: building AI-powered capabilities that
+  become part of the Kayzen Console and are used in real
+  production workflows.
+
+  Sounds interesting. Isn't it?
+
+  About the Role
+
+  We are looking for a Senior AI Engineer who combines strong
+  software engineering fundamentals with hands-on experience
+  shipping LLM-powered products to production. You will design
+  and build AI features for the Kayzen Console and beyond,
+  working across backend services, product-facing
+  functionality, and the LLM layer. This is a hands-on
+  engineering role. We are not looking for a research-focused
+  ML profile or someone who has only experimented with LLMs.
+  This role is ideal for engineers who have already built,
+  shipped, monitored and improved production LLM systems and
+  is comfortable contributing in a full-stack product
+  environment .
+
+  Responsibilities
+
+  - Architect, develop, and deploy production-grade LLM
+    capabilities within the Kayzen Console
+  - Build backend services, APIs, and integrations that connect
+    AI capabilities with our product.
+  - Contribute to product-facing and full-stack functionality
+    where needed.
+  - Implement production patterns for LLMs, RAG, embeddings,
+    agents, and tool calling.
+  - Build reusable components and abstractions where they
+    improve engineering velocity and consistency.
+  - Set up and improve evaluation, observability, monitoring,
+    and feedback loops for AI features.
+  - Monitor and optimize quality, latency, reliability, and
+    inference cost.
+  - Troubleshoot production issues and iterate based on
+    telemetry and user feedback.
+  - Work closely with Product, ML and Engineering to translate
+    product problems into pragmatic AI solutions.
+  - Prototype quickly, validate ideas, and turn successful
+    experiments into maintainable production systems.
+
+  Requirements:
+
+  Hands-on AI / LLM Experience
+
+  - Hands-on experience building and shipping LLM-powered
+    features to production.
+
+  Practical experience with RAG, embeddings, vector search
+  and/or agentic systems.
+
+  - Experience with LLM APIs and orchestration patterns;
+    specific frameworks are less important than strong
+    fundamentals.
+  - Good understanding of production LLM concerns such as
+    evaluation, observability, failure modes, cost and
+    latency.
+  - Experience iterating on AI features based on telemetry,
+    evaluation results or user feedback.
+
+  Strong Software Engineering / Full-Stack Skills
+
+  - Full-stack product development using Angular,
+    JavaScript/TypeScript, Python, NodeJS etc. is a strong
+    plus.
+  - Strong experience designing APIs, services and production-
+    grade systems.
+  - Ability to write clean, maintainable code and take ownership
+    from implementation through production.
+  - Experience contributing across a product stack and
+    willingness to work on both backend systems and user-
+    facing product functionality.
+  - Comfort working with AWS cloud infrastructure, CI/CD and
+    production environments.
+
+  Product & Startup Mindset
+
+  - Bias for shipping, iteration and pragmatic problem solving.
+  - Comfortable with ambiguity and rapid change.
+  - Able to collaborate closely with Product, ML and Engineering
+    stakeholders.
+  - Can discuss trade-offs, challenge requirements
+    constructively and translate AI complexity into practical
+    product solutions.
+  - Thinks in terms of maintainability and reuse rather than
+    one-off demos.
+
+  Less About
+
+  - Heavy model training or research.
+  - Designing custom ML algorithms.
+  - Academic optimization work.
+  - Building proofs of concept that never reach production.
+
+  Nice to Have
+
+  - Experience with multi-agent systems, tool calling or MCP.
+  - Experience setting up guardrails, moderation and safety
+    checks.
+  - Experience with prompt/context management, routing, caching
+    or fallback strategies.
+  - Experience with Docker and cloud infrastructure (AWS, GCP or
+    Azure).
+  - Experience with modern frontend development and customer-
+    facing web applications.
+
+  What do we offer?
+
+  - Direct access to top management and an extremely “visible”
+    role
+  - Exceptional career growth and learning opportunity
+  - A unique opportunity to be part of an experienced team of
+    industry experts and entrepreneurs who bring massive
+    change to the Adtech market
+  - A fun, driven, and multinational team located across
+    Germany, India, UK, Argentina, Ukraine, Turkey, Spain and
+    many more countries
+  - A flexible work-from-home arrangement
+  - A 500-dollar home-office setup budget
+  - A 1000-dollar annual learning and development budget
+  - Visa and relocation support (if required)
+industries:
+  - Mobile
+  - Software
+posted_date: 2026-08-28
+url: "https://builtin.com/job/senior-ai-engineer-m-f-d/10913845"
+source: Built In

@@ -1,0 +1,55 @@
+company:
+  name: Extreme Networks
+  stage: null
+  focus: Cloud-driven networking solutions and services
+position:
+  title: AI Principal SW Systems Engineer -10359
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building agentic AI systems with tool use,
+      planning, memory, retrieval, orchestration, and evaluation,
+      which directly shapes agent behavior — ai-first. While
+      distributed systems and real-time data processing are
+      prominent, the explicit agentic/genAI design
+      responsibilities dominate.
+  responsibilities:
+  - Define and drive technical vision across intelligent networking, distributed systems,
+    real-time data processing, agentic AI, and machine learning
+  - Lead end-to-end software development lifecycle from architecture through production
+    operations, participating hands-on in design and code reviews
+  - Design and build production-ready services for real-time data and AI platforms,
+    including scalable data pipelines, distributed microservices, and agentic solutions
+  - Integrate AI capabilities and agents with networking systems and telemetry data
+  - Mentor engineers and establish technical direction for the team
+  - Champion architecture, performance, and operational readiness improvements
+  use_cases:
+  - Intelligent networking and network automation
+  - Agentic systems that reason, plan, remember, use tools, and act on behalf of users
+  - Real-time processing of network telemetry and operational data
+  - Scalable distributed data and analytics platforms powering Extreme products
+  - Generative AI experiences for enterprise networking
+  skills:
+    databases: []
+    domains: []
+    data: [Stream Processing, Kafka, Spark, Flink, PySpark, MapReduce]
+    web: [Microservices]
+    ml: [Machine Learning]
+    ops: [Distributed Systems]
+    other: [AI, Network Telemetry]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python, Java, Go, C++]
+    genai: [AI Agents, Generative AI, Function Calling, RAG, Embeddings, LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10981251'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:10:48.524429'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Guidewire Software
+  stage: null
+  focus: Cloud software platform for P&C insurance
+position:
+  title: AI Engineer- Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and shapes an LLM voice agent:
+      prompt/context architecture, RAG over policy data, tool
+      calls, agentic orchestration, and evals (LLM-as-judge,
+      golden sets) that gate releases. This is directly shaping
+      model behavior, with LLMs involved.
+  responsibilities:
+  - 'Own end-to-end slices of the agent: prompt and context architecture, retrieval
+    over policy and coverage data, tool/API calls into claims systems, and human handoff'
+  - 'Build and run the eval loop: golden sets, trajectory evaluation, LLM-as-judge,
+    and error analysis on production call traces as a release gate'
+  - Drive containment and resolution rates up while instrumenting the system to measure
+    accuracy tradeoffs
+  - 'Work on the synchronous voice path: turn-taking, interruption, latency budgets,
+    and telephony (LiveKit, SIP)'
+  - Sit in on carrier calls and review recordings to diagnose conversation failures
+  - Shape what the agent does next, deciding when to ship an MVP versus slow down
+    for claims accuracy
+  use_cases:
+  - Omnichannel AI voice agent for P&C insurance policyholders
+  - First notice of loss (FNOL) intake over phone calls
+  - Writing claims into Guidewire ClaimCenter
+  - Synchronous voice conversations with latency and turn-taking requirements
+  - Human handoff when the agent should stop
+  - Retrieval over policy and coverage data during calls
+  skills:
+    genai: [LLMs, Context Engineering, RAG, Agentic Workflows, Prompt Engineering,
+      LLM Evaluation, Function Calling, DSPy]
+    ml: [Machine Learning, Deep Learning, Model Training]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [CI/CD, Observability, Distributed Systems]
+    languages: []
+    domains: [NLP]
+    other: [LiveKit, SIP, ASR, TTS, Coding Agents, P&C Insurance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11167154'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:23:36.246279'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

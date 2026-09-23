@@ -1,0 +1,57 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Legal, tax, and compliance information and AI products
+position:
+  title: Principal Software Engineer / Architect – AI, CoCounsel FDE
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer architecting and building
+      production AI solutions including LLM, agentic AI, and RAG
+      systems for customers, so they shape model behaviour and
+      outputs directly. Customer-facing individual contributor
+      role with no LLM component ambiguity.
+  responsibilities:
+  - Lead complex technical and customer engagements from discovery through production
+    delivery
+  - Architect, build, and deploy production AI solutions within customer and enterprise
+    environments
+  - Write production code regularly and review work of Senior, Staff, and Forward
+    Deployed Engineers
+  - Provide technical direction across AI, software architecture, integration, security,
+    and deployment decisions
+  - Translate customer learnings into scalable CoCounsel product capabilities
+  - Mentor engineers and guide them through complex technical challenges
+  - Evaluate new technologies to improve AI delivery, reliability, and scalability
+  - Serve as senior technical representative in high-impact customer engagements
+  use_cases:
+  - Production AI solutions for legal technology customers
+  - LLM, agentic AI, and RAG deployments in enterprise environments
+  - AI solutions integrated with customer-owned enterprise infrastructure
+  - Scalable product capabilities for the CoCounsel legal AI assistant
+  skills:
+    genai: [Generative AI, LLMs, AI Agents, RAG]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems]
+    languages: []
+    domains: []
+    other: [Cloud Architecture, System Integration]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11292882'
+  location: Frisco, USA
+  locations:
+  - Frisco, USA
+  - Eagan, USA
+  - Toronto, CAN
+  - New York, USA
+  - Ann Arbor, USA
+  extracted_at: '2026-09-23T11:35:12.674617'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

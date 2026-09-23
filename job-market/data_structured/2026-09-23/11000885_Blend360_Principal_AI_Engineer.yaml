@@ -1,0 +1,52 @@
+company:
+  name: Blend360
+  stage: null
+  focus: Data and AI consulting and delivery services
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects production AI systems including
+      retrieval/knowledge layers, agentic pipelines, and
+      evaluation — directly shaping LLM system behaviour, so it is
+      ai-first. It remains hands-on in design and prototyping of
+      these systems, not just oversight.
+  responsibilities:
+  - Set technical direction and engineering standards across the AI Engineering practice
+  - Own technical quality of major AI engagements, especially high-risk or complex
+    architecture
+  - Design and review production AI architectures including retrieval, agentic pipelines,
+    evaluation and multilingual systems
+  - 'Stay hands-on on hardest problems: code review, prototyping, resolving architectural
+    issues'
+  - Run design reviews and challenge technical decisions across the practice
+  - Act as senior technical counterpart to clients including CxO and architecture
+    leadership
+  - Own technical quality of major AI proposals, scoping, estimates and delivery models
+  - Develop senior engineers and shape the hiring and capability plan for AI Engineering
+  use_cases:
+  - Production AI systems for CPG, pharma and energy clients
+  - Retrieval and knowledge layers for enterprise AI
+  - Agentic pipelines with evaluation and multilingual support
+  - Cost, latency, reliability and scalability trade-offs in AI delivery
+  skills:
+    genai: [Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: [Knowledge Graphs, Semantic Search]
+    data: [Databricks]
+    cloud: [Azure OpenAI]
+    ops: [Observability]
+    languages: [Python]
+    domains: []
+    other: [EU AI Act]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11000885'
+  location: London, GBR
+  remote: true
+  extracted_at: '2026-09-23T11:11:48.156591'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

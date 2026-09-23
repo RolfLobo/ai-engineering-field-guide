@@ -1,0 +1,52 @@
+company:
+  name: ProArch
+  stage: null
+  focus: 'IT services: cybersecurity, cloud, data, AI'
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds chatbots, AI agents, and search tools using
+      GPT and Claude, sets up RAG pipelines, and manages context
+      windows - directly shaping LLM behaviour through retrieval
+      and context assembly, making it ai-first.
+  responsibilities:
+  - Collaborate with the UI Architect, Product Owner, and Scrum Master to develop
+    front-end applications
+  - Build features like chatbots, AI agents, and search tools using models like GPT
+    and Claude
+  - Set up RAG pipelines, manage context windows, and connect models to external tools
+    or databases
+  - Perform hands-on development of high-quality code using .NET Core, Angular, and
+    cloud-native services
+  - Identify performance bottlenecks and bugs, and devise solutions to mitigate and
+    resolve them
+  - Design and prototype secure, scalable applications and services on Azure cloud
+  - Design and develop microservices, APIs, and serverless components
+  - Design, develop, deploy, and support applications hosted on Azure Cloud
+  use_cases:
+  - Enterprise chatbots
+  - AI agents
+  - Search solutions
+  - RAG-based enterprise applications
+  skills:
+    genai: [RAG, AI Agents, OpenAI API, Anthropic API, Generative AI, Embeddings,
+      Conversational AI]
+    ml: []
+    web: [Microservices, APIs, Angular, Kendo UI]
+    databases: [Vector Databases, Pinecone, Milvus, SQL Server]
+    data: []
+    cloud: [Azure, Azure SQL, Azure App Services]
+    ops: []
+    languages: [C#, .NET]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11298512'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:35:28.888476'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

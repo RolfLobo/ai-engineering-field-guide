@@ -1,0 +1,56 @@
+company:
+  name: OpenTable
+  stage: null
+  focus: Restaurant reservations and diner discovery platform
+position:
+  title: Senior Data Engineer (AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG systems (chunking, embeddings,
+      reranking), builds LLM evaluation frameworks, and develops
+      agentic workflows with tool calling — all direct shaping of
+      LLM behavior and output quality. Hence ai-first.
+  responsibilities:
+  - Design and build AI/LLM data pipelines supporting training, inference, evaluation,
+    embeddings, and retrieval workloads
+  - Build production-grade RAG systems including ingestion, chunking, embedding generation,
+    indexing, retrieval, reranking, and context construction
+  - Develop AI applications using LLMs, structured outputs, tool calling, and agentic
+    workflows
+  - Build and optimize semantic search and vector retrieval systems
+  - Develop LLM evaluation, monitoring, tracing, and cost/latency optimization frameworks
+  - Design scalable batch and streaming pipelines using Databricks, Spark, Delta Lake,
+    Snowflake, and Airflow
+  - Establish data quality, governance, lineage, security, and observability practices
+  - Partner with ML and application engineering teams to move AI prototypes into production
+  use_cases:
+  - AI/LLM data pipelines for training, inference, and evaluation workloads
+  - Production RAG systems over enterprise structured and unstructured data
+  - Semantic search and vector retrieval for restaurant data
+  - AI agents and LLM applications with structured outputs and tool calling
+  - LLM/RAG quality, latency, and cost measurement and observability
+  skills:
+    databases: [Semantic Search, Vector Search, Vector Databases, Qdrant, Pinecone,
+      Weaviate, Snowflake, SQL, Unity Catalog]
+    domains: []
+    data: [Databricks, Spark, Delta Lake, Airflow, Kafka, Spark Structured Streaming,
+      Data Pipelines, Data Governance]
+    web: []
+    ml: []
+    ops: [MLflow, CI/CD, Observability, Monitoring, Distributed Systems]
+    other: [Databricks Mosaic AI, Event-Driven Architecture]
+    cloud: []
+    languages: [Python, Scala, Java]
+    genai: [LLMs, RAG, Generative AI, Embeddings, Structured Outputs, Function Calling,
+      Agentic Workflows, AI Agents, LLM Evaluation, Prompt Engineering, LangGraph,
+      LangChain, LlamaIndex]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11245822'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:31:33.187707'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

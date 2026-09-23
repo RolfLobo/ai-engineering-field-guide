@@ -1,0 +1,48 @@
+company:
+  name: WebMD
+  stage: null
+  focus: |-
+    Online media and software services across health,
+    automotive, legal, home/travel verticals
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic infrastructure: search/retrieval
+      services, MCP tool execution layers, intelligent agents, and
+      feedback loops to improve AI system behavior — directly
+      shaping model behavior and agent flows. LLM/agent components
+      are central, so it's ai-first.
+  responsibilities:
+  - Build and ship full-stack AI applications across frontend and backend
+  - Own the full project lifecycle from idea through production deployment
+  - 'Build foundational infrastructure: search/retrieval services, MCP tool execution
+    layers, workflows, and intelligent agents'
+  - Establish measurement systems with feedback loops and performance tracking to
+    improve AI system behavior
+  - Debug complex issues across the stack and implement robust solutions
+  use_cases:
+  - Intelligent agents powering AI experiences across the product ecosystem
+  - Search and retrieval services for AI applications
+  - Tool execution layers via MCP servers
+  - AI system behavior improvement via feedback loops and performance tracking
+  skills:
+    genai: [LLMs, LangGraph, Google ADK, MCP, LLM Evaluation, AI Agents]
+    ml: []
+    web: [React, Vue, Angular, Svelte, APIs]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, Python, PHP]
+    domains: [Information Retrieval]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11072527'
+  location: El Segundo, USA
+  extracted_at: '2026-09-23T11:16:27.201573'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

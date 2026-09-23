@@ -1,0 +1,91 @@
+company:
+  name: Nebius
+  stage: Listed on Nasdaq (NBIS), publicly traded
+  focus: Full-stack AI cloud infrastructure platform
+position:
+  title: Forward Deployed Engineer - Physical AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates cloud infrastructure, compute
+      orchestration, platform services, and onboarding
+      environments for customer physical AI workloads; it never
+      shapes model behavior (no prompt design, retrieval, agent
+      flows, training, or output-quality evaluation). AI coding
+      tools are used as leverage, not as the product. Per the
+      rules, serving/hosting/scaling models and infrastructure
+      someone else shapes is ai-support even though the work is
+      GPU-heavy.
+  responsibilities:
+  - 'Own end-to-end technical execution within strategic accounts: discovery, scoping,
+    infrastructure design, build, and production rollout'
+  - Build and operate cloud infrastructure and compute orchestration for simulation,
+    training, evaluation, inference, and batch workloads
+  - Build platform services for job execution, scheduling, retries, observability,
+    logging, secrets, access control, and cost tracking
+  - Build onboarding infrastructure for pilots including sandbox environments, dataset
+    storage, workflow execution, and deployment
+  - Optimize cloud cost, utilization, performance, and reliability, and debug issues
+    across application, network, storage, compute, and orchestration layers
+  - Partner with Physical AI Systems and Platform & Product FDEs to support GPU-heavy
+    pipelines and expose infrastructure via APIs and SDKs
+  - Define long-term infrastructure architecture for multi-tenant SaaS and enterprise
+    deployments
+  - Turn repeated customer infrastructure pain into reusable platform capabilities
+    folded into the core platform
+  use_cases:
+  - Cloud infrastructure for physical AI workloads (simulation, training, evaluation,
+    inference)
+  - GPU compute orchestration and job scheduling at scale for customers
+  - Customer onboarding infrastructure including sandboxes, dataset storage, and deployment
+  - Multi-tenant SaaS and enterprise deployment infrastructure for physical AI platforms
+  - Reusable platform capabilities abstracting cloud complexity for ISV partners and
+    design partners
+  skills:
+    genai: [Claude Code, Codex, Cursor]
+    ml: [CUDA]
+    web: [APIs]
+    databases: []
+    data: [Ray, Airflow, Argo, Metaflow, Data Pipelines]
+    cloud: [IAM, AWS, GCP, Azure]
+    ops: [Kubernetes, CI/CD, Observability, Infrastructure as Code, Distributed Systems,
+      Slurm]
+    languages: [Python, Go]
+    domains: []
+    other: [GPU Workloads, Model Serving, ML Infrastructure]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11226765'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-09-23T11:29:02.786999'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,151 @@
+job_id: 11233508
+title: Senior AI Engineer (GTM)
+company: Paddle
+location: GBR
+locations:
+  - GBR
+  - Toronto, CAN
+remote: true
+work_type: FULL_TIME
+company_size: 355 Employees
+description: |
+  What do we do?
+
+  Paddle offers digital product companies a completely
+  different approach to their payment infrastructure. Instead
+  of assembling and maintaining a complex stack of payments-
+  related apps and services, we’re a Merchant of Record for
+  our customers. That means we take away 100% of the pain of
+  payment fragmentation. It’s faster, safer, cheaper, and,
+  above all, way better.
+
+  We’re backed by investors including KKR, FTV Capital,
+  Kindred, Notion, and 83North and serve over 6000 software
+  sellers in 245 territories globally.
+
+
+
+  The role:
+
+  We’re looking for an entrepreneurial and technically strong
+  Senior AI Engineer to join our Data & AI team and work with
+  our Go-To-Market organisation.
+
+  This is a builder's role, end to end. You’ll work closely
+  with Marketing, Sales, and RevOps to solve high-value
+  problems, design practical AI solutions and build them into
+  reliable systems that people use every day. You’ll be
+  expected to move comfortably from an ambiguous business
+  challenge to a technical design, a working prototype, and
+  then a production-ready solution.
+
+  Your work could include building systems that segment and
+  prioritise accounts, developing agents that automate sales
+  workflows, or creating intelligent tools that help our teams
+  research prospects and act on buying signals. You’ll own the
+  full lifecycle of what you build, including evaluation,
+  observability, reliability and cost optimisation.
+
+  This role is ideal for someone who enjoys being close to
+  users, can write production-quality code and is excited by
+  the challenge of turning rapidly evolving AI capabilities
+  into valuable commercial outcomes. Experience working with
+  GTM teams is useful, but the ability to understand problems,
+  build effective systems and measure their impact is more
+  important.
+
+
+
+  What you'll do:
+
+  - Design and build AI-powered systems for account
+    segmentation, enrichment, scoring, prioritisation and
+    buying-signal detection
+  - Develop and deploy agentic workflows for use cases such as
+    account research, outbound personalisation, call
+    summarisation and CRM hygiene
+  - Write production-quality code and build the integrations,
+    data pipelines and services required to take solutions
+    from prototype to reliable daily use
+  - Optimise systems for quality, latency and cost through
+    evaluation, prompt design, model selection, routing,
+    caching, context management and token optimisation
+  - Establish practical patterns for building AI systems at
+    Paddle, including monitoring, guardrails, documentation
+    and clear measures of business impact
+
+
+
+  We'd love to hear from you if you:
+
+  - Have strong software engineering experience and can
+    independently take a problem from technical design through
+    to production; Python and SQL experience would be
+    particularly relevant
+  - Have hands-on experience building applications with large
+    language models, APIs, retrieval systems, agents or other
+    applied AI technologies
+  - Understand how to evaluate and operate AI systems in
+    production, including managing hallucination risk,
+    latency, reliability, context limits and variable model
+    costs
+  - Are comfortable working with structured and unstructured
+    data, building integrations and turning information from
+    multiple sources into useful systems
+  - Have an interest in commercial problems and can understand
+    concepts such as ICP, segmentation, pipeline, buyer intent
+    and sales workflows; direct GTM experience is beneficial
+    but not essential
+  - Enjoy working directly with the people who use what you
+    build, are comfortable with ambiguity and can balance
+    speed, quality, and long-term maintainability
+
+  Everyone is welcome at Paddle
+
+  At Paddle, we’re committed to removing invisible barriers,
+  both for our customers and within our own teams. We
+  recognise and celebrate that every Paddler is unique and we
+  welcome every individual perspective. As an inclusive
+  employer we don’t care if, or where, you studied, what you
+  look like or where you’re from. We’re more interested in
+  your craft, curiosity, passion for learning and what you’ll
+  add to our culture. We encourage you to apply even if you
+  don’t match every part of the job ad, especially if you’re
+  part of an underrepresented group.  Please let us know if
+  there’s anything we can do to better support you through the
+  application process and in the workplace. We will do
+  everything we can to support any accommodations needed.
+  We’re committed to building a diverse team where everyone
+  feels safe to be their authentic self. Let’s grow together.
+
+  Our Values
+
+  - Paddle Together - “None of us, is as smart as all of us”
+  - Paddle Simply - “Simple can be harder than complex: you have
+    to get your thinking clean to make it simple”
+  - Paddle for others - “We can realise our wildest dreams, so
+    long as we help enough other people to realise theirs”
+
+
+
+  Why you’ll love working at Paddle
+
+  We are a diverse, growing group of Paddlers across the globe
+  who pride ourselves on our transparent, collaborative and
+  respectful culture.
+
+  We are a ‘digital-first’ company, which means you can work
+  remotely, from one of our stylish hubs, or even a bit of
+  both! We offer all team members unlimited holidays and 4
+  months paid family leave regardless of gender. We invest in
+  learning and will help you with your personal development
+  via constant exposure to new challenges, an annual learning
+  fund, and regular internal and external training.
+industries:
+  - Fintech
+  - Information Technology
+  - Payments
+  - Software
+posted_date: 2026-09-17
+url: "https://builtin.com/job/senior-ai-engineer-gtm/11233508"
+source: Built In

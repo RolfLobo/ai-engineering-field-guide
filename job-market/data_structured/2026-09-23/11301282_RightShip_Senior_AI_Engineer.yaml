@@ -1,0 +1,56 @@
+company:
+  name: RightShip
+  stage: null
+  focus: Maritime safety and risk intelligence platform
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM applications, agentic systems, and RAG
+      pipelines, designs evaluations and guardrails, and chooses
+      models — all direct shaping of model behaviour. LLM/agent
+      components dominate, so it is ai-first.
+  responsibilities:
+  - Work with Product Managers to shape customer problems into candidate AI solutions
+    with clear success criteria
+  - Rapidly prototype and experiment with LLM applications, agents and retrieval pipelines
+  - Propose and document solution architectures covering model choice, orchestration,
+    guardrails, and cost/latency trade-offs
+  - Design and build offline and online AI evaluation suites to define and monitor
+    quality
+  - Produce production-ready code with tests, evals, documentation and observability,
+    and hand over to engineering teams
+  - Build and maintain retrieval and embedding pipelines over maritime data including
+    inspection reports, vessel records and the knowledge graph
+  - 'Apply Responsible AI practices: traceability, guardrails, failure mode and bias
+    assessment'
+  - Present experimental results and recommendations to stakeholders and contribute
+    to AI team tooling and standards
+  use_cases:
+  - Retrieval and intelligence over maritime inspection reports, vessel records and
+    documents
+  - Safety and operational risk intelligence for global shipping
+  - Agentic AI solutions for maritime compliance and risk decisions
+  - Hybrid retrieval over the RightShip knowledge graph and unstructured maritime
+    data
+  skills:
+    genai: [LLMs, LangGraph, LangChain, RAG, Agentic Workflows, Structured Outputs,
+      Function Calling, LLM Evaluation, Embeddings, Guardrails, Prompt Engineering]
+    ml: [Model Serving, PyTorch, Machine Learning, Multi-Modal Models]
+    web: []
+    databases: [Azure AI Search, Vector Search, Neo4j, Knowledge Graphs]
+    data: [Databricks, Delta Lake]
+    cloud: [Azure, Azure OpenAI, Azure AI Foundry, Azure Functions, Container Apps]
+    ops: [MLflow, CI/CD, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11301282'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:35:46.760944'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

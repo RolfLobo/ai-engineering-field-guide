@@ -1,0 +1,62 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: Principal Software Engineer - AI Foundations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role optimizes LLM model internals directly: kernel-
+      level tuning, quantization, KV-cache strategies, speculative
+      decoding, and evaluation-driven model routing. Optimizing a
+      model's own internals is shaping, and the targets are LLMs,
+      so ai-first.
+  responsibilities:
+  - Design, build, and operate a high-throughput, low-latency LLM serving platform
+    with batching, caching, streaming, multi-tenancy, and autoscaling
+  - Build and evolve a GenAI Gateway / inference API layer with auth, rate limiting,
+    routing, policy hooks, and observability
+  - Develop intelligent model routing across open-source and vendor model backends
+    balancing quality, latency, reliability, and cost
+  - Drive GPU serving optimization including kernel-level tuning, model compilation,
+    memory management, and prefill/decode throughput tuning
+  - Implement quantization and compression strategies with evaluation-driven selection
+    and safe rollout
+  - Design disaggregated serving and distributed inference architectures to improve
+    utilization and tail latency
+  - Establish SLOs/SLAs, performance and cost observability, and automated remediation
+    for inference services
+  - Architect and govern agentic AI-enabled engineering workflows with guardrails
+    for validation and security
+  use_cases:
+  - Enterprise-scale LLM inference serving platform
+  - GenAI gateway and intelligent model routing across multiple backends
+  - GPU efficiency and cost optimization for AI serving
+  - Agentic AI-assisted engineering workflows (PR review, test generation, incident
+    triage)
+  skills:
+    genai: [LLMs, Generative AI, Guardrails, Agentic Workflows]
+    ml: [Quantization]
+    web: [APIs]
+    databases: []
+    data: [Data Engineering]
+    cloud: [AWS]
+    ops: [vLLM, TensorRT, Monitoring, Observability, Distributed Systems, Kubernetes,
+      Docker, Terraform, MLOps, A/B Testing, Model Deployment]
+    languages: [Python, Java, Scala, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10979914'
+  location: Seattle, USA
+  locations:
+  - Seattle, USA
+  - New York, USA
+  - Palo Alto, USA
+  - Jersey City, USA
+  extracted_at: '2026-09-23T11:10:13.066459'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

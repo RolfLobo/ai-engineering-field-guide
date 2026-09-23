@@ -1,0 +1,64 @@
+company:
+  name: Ateme
+  stage: null
+  focus: Video delivery and streaming technology solutions
+position:
+  title: AI Solutions & Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG, semantic search, and agent
+      orchestration for LLM-based internal tools, directly shaping
+      model behaviour and output quality. This is clearly ai-
+      first.
+  responsibilities:
+  - Identify and prioritize automation use cases with business teams across Sales,
+    Pre-Sales, Support, Product, and Operations
+  - Prototype proofs of concept and MVPs, test with users, and iterate on feedback
+  - Develop end-to-end internal tools including UIs, backend services, workflows,
+    agents, and integrations
+  - Integrate solutions with Microsoft 365, Salesforce, Jira, Confluence, SharePoint,
+    and other enterprise systems respecting access permissions
+  - Industrialize solutions with testing, CI/CD, observability, documentation, and
+    support
+  - Apply security, data protection, responsible AI, and human oversight requirements
+  - Define and track adoption, quality, and efficiency metrics to measure impact
+  - Build reusable components and agents contributing to a shared architecture
+  use_cases:
+  - Meeting preparation, summarization, and action tracking assistants
+  - Intelligent search across commercial and technical documentation
+  - Automation of RFP responses and scoping document generation
+  - Proposal preparation, opportunity tracking, and information consolidation tools
+  - Support agents suggesting contextualized resolutions and enriching knowledge base
+  - Internal applications automating checks, calculations, reporting, and recurring
+    workflows
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Semantic Search, Function Calling, AI Agents,
+      Azure OpenAI, MCP, Copilot Studio]
+    ml: []
+    web: [REST APIs, Full-Stack Development, OAuth]
+    databases: []
+    data: []
+    cloud: [Azure, Microsoft Graph]
+    ops: [Docker, Git, CI/CD, Monitoring]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Salesforce, Jira, Power Platform, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11247765'
+  location: GEO
+  locations:
+  - GEO
+  - Hanoi, VNM
+  - Milan, ITA
+  - Bucharest, ROU
+  - New Delhi, IND
+  - Cluj-Napoca, ROU
+  - Mumbai, IND
+  - Belgrade, SRB
+  remote: true
+  extracted_at: '2026-09-23T11:32:03.317333'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

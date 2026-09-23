@@ -1,0 +1,59 @@
+company:
+  name: Adani Group
+  stage: null
+  focus: |-
+    Indian conglomerate's digital solutions and enterprise
+    automation
+position:
+  title: Senior Engineer – Digital Solutions and AI Integration
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and implements LLM/agentic AI solutions
+      with LangChain, AutoGen, LlamaIndex, RAG, and prompt
+      engineering as named responsibilities, so the person shapes
+      model behaviour via prompts, retrieval, and agent flows.
+      With LLMs involved, this is ai-first.
+  responsibilities:
+  - Design, develop, and deploy responsive full-stack web applications
+  - Build RESTful APIs, GraphQL endpoints, and microservices for system integration
+  - Manage relational, NoSQL, and unstructured databases for enterprise-scale applications
+  - Design and maintain ETL/ELT pipelines consolidating data from transactional systems
+    and cloud databases
+  - Build interactive Power BI dashboards and analytics for executive decision-making
+  - Automate manual workflows using Microsoft Power Automate, cloud flows, RPA, and
+    webhooks
+  - Architect and implement Generative AI and Agentic AI solutions with LLMs/SLMs
+    and prompt engineering
+  - Deploy and scale applications across public cloud platforms with CI/CD pipelines
+    and code review practices
+  use_cases:
+  - AI-driven feature enhancements in enterprise web portals and workflow engines
+  - Agentic AI and LLM/SLM-based solutions for enterprise productivity
+  - Automated end-to-end business process workflows (ERP, CRM, legacy integrations)
+  - Executive dashboards and analytics for decision-making
+  - Consolidated data pipelines across transactional systems and cloud databases
+  skills:
+    databases: [SQL, NoSQL, PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, DynamoDB,
+      Redis, Cassandra, Pinecone, Milvus, Chrom, Qdrant, Vector Databases]
+    domains: []
+    data: [Data Pipelines, Azure Data Factory, AWS Glue, Airflow, Data Modeling, Data
+        Governance]
+    web: [Full-Stack Development, React, Angular, Vue, Node.js, Spring Boot, REST
+        APIs, GraphQL, Microservices, Webhooks, CSS, HTML]
+    ml: []
+    ops: [CI/CD, Docker, Kubernetes, GitHub Actions, Azure DevOps, Linux, Serverless
+        Computing]
+    other: [Power BI, Microsoft Power Automate, RPA, Code Review, Agile]
+    cloud: [Azure, AWS, GCP, IAM]
+    languages: [Python, TypeScript, JavaScript, Java, Bash, PHP]
+    genai: [LLMs, Generative AI, AI Agents, LangChain, LangGraph, AutoGen, CrewAI,
+      LlamaIndex, Prompt Engineering, RAG, Fine-Tuning, Function Calling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11039458'
+  location: Ahmedabad, IND
+  extracted_at: '2026-09-23T11:15:04.462928'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

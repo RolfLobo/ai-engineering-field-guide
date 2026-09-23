@@ -1,0 +1,182 @@
+job_id: 11234153
+title: "AI, HPC & GPU Infrastructure Support Engineer"
+company: Vast.ai
+location: Los Angeles, USA
+work_type: FULL_TIME
+description: |
+  About Us
+
+  Vast.ai's cloud powers AI projects and businesses all over
+  the world. We are democratizing and decentralizing AI
+  computing — reshaping our future for the benefit of
+  humanity. Our mission is to organize, optimize, and orient
+  the world's computation.
+
+  We value elegance, ownership, integrity, and continuous
+  learning. You'll have the opportunity to dive into state-of-
+  the-art AI systems while collaborating with a globally
+  distributed team.
+
+  About the Role
+
+  This role focuses on troubleshooting complex Linux and GPU
+  infrastructure issues across NVIDIA drivers, CUDA, GPU
+  workloads, Ubuntu, Docker, KVM based virtual machines,
+  networking, hardware, BIOS, and firmware. You’ll investigate
+  failures, reproduce issues, identify root causes, and
+  propose practical solutions across the full infrastructure
+  stack.
+
+  You’ll also serve as the engineering resource our L1 support
+  team relies on when tickets go beyond frontline triage.
+  You’ll own complex escalations end-to-end, gather technical
+  evidence, coordinate with the appropriate teams, and
+  communicate findings clearly to clients, infrastructure
+  suppliers, and internal teams.
+
+  The best engineers in this role don’t just resolve
+  individual issues—they recognize recurring patterns, improve
+  diagnostic tooling, and build runbooks that prevent future
+  incidents. You’ll collaborate directly with the engineering
+  and host support teams on systemic Linux, GPU, and
+  infrastructure problems.
+
+  Strong GPU troubleshooting experience, Linux systems
+  knowledge, and technical support skills are the primary
+  requirements. You should be comfortable working autonomously
+  in Ubuntu environments and troubleshooting NVIDIA drivers,
+  CUDA, containers, virtual machines, networking, hardware,
+  and GPU workloads.
+
+  Vast.ai users or hosts strongly preferred.
+
+  Location and Schedule
+
+  This is a full-time position based in our Westwood, Los
+  Angeles office.
+
+  Available schedules:
+
+  - Monday–Friday: Fully on-site
+  - Sunday–Thursday: Four days on-site and one day working from
+    home
+
+  Key Responsibilities
+
+  - Diagnose and resolve issues across NVIDIA CUDA/GPU drivers,
+    Docker, and KVM virtualization environments
+  - Investigate GPU utilization, container resource constraints,
+    thermal throttling, driver conflicts, and disk I/O
+    bottlenecks
+  - Assist clients and infrastructure suppliers working with
+    TensorFlow, PyTorch, and other GPU-accelerated workloads
+  - Troubleshoot network-layer issues, including VLAN, DNS,
+    DHCP, VPN, NAT, firewall rules, and connectivity failures
+    on host machines
+  - Handle escalated support tickets involving GPU workload
+    failures, container issues, networking problems, account
+    infrastructure, and host-side configuration
+  - Provide managed support for supplier onboarding and ongoing
+    machine management, including installation, configuration,
+    and post setup troubleshooting
+  - Advise suppliers on hardware setup, driver configuration,
+    BIOS and firmware settings, and network configuration for
+    optimal performance
+  - Provide coverage for L1 support overflow during peak periods
+    or incidents
+  - Write and maintain internal runbooks, escalation guides, and
+    knowledge base articles to reduce repeat escalations
+  - Build diagnostic and automation tooling in Python and Bash
+    to reduce manual triage overhead
+  - Collaborate with the engineering and support teams to flag
+    and document systemic or recurring platform issues
+
+  You Are
+
+  - Experienced with Linux, especially Ubuntu, and comfortable
+    troubleshooting from the command line
+  - Someone who enjoys debugging difficult problems and fixing
+    broken systems
+  - Methodical and focused on finding root causes, not just
+    temporary fixes
+  - Able to manage complex tickets independently
+  - A clear written communicator with an interest in AI
+    infrastructure and GPU computing
+
+  Must-Haves
+
+  - Strong Linux systems operations experience with Ubuntu,
+    RHEL/CentOS, or Debian, including networking, storage,
+    services, and permissions
+  - Proficiency with Docker, including container debugging,
+    Docker Compose, image management, cgroup limits, and
+    Docker storage and filesystem troubleshooting
+  - Experience with virtualization platforms such as Proxmox VE,
+    VMware, or similar hypervisors, including VM provisioning
+    and troubleshooting
+  - Strong networking fundamentals, including VLANs, DNS, DHCP,
+    NAT, VPNs, firewall rules, and L2/L3 troubleshooting
+  - Hands-on experience with NVIDIA GPU drivers, CUDA, and GPU
+    workload troubleshooting
+  - Python and Bash scripting skills for automation and
+    diagnostic tooling
+  - Strong written English communication that is clear,
+    professional, and technically precise
+  - Experience providing technical support in a customer-facing
+    or internal help desk environment
+  - Ability to prioritize across a concurrent queue of escalated
+    tickets, triaging by severity and customer impact,
+    balancing reactive resolution against proactive
+    documentation and tooling work, and making clear judgment
+    calls on when to escalate versus own resolution end-to-end
+
+  Nice-to-Haves
+
+  - Familiarity with AI/ML frameworks (TensorFlow, PyTorch) and
+    running GPU-accelerated containers
+  - Monitoring and observability experience (Prometheus,
+    Grafana)
+  - Relevant certifications: RHCSA, CompTIA Linux+, or similar
+  - Knowledge of the Vast.ai platform as a client or
+    infrastructure supplier
+
+  Interview Process (~1 week)
+
+  After you submit your application, our technical team will
+  review your experience and qualifications. Selected
+  candidates will proceed through the following stages:
+
+  - 15 minutes — Initial Screening (Virtual): A brief
+    conversation about your background, availability, and
+    interest in the role
+  - 45 minutes — Experience Interview (Virtual): An introduction
+    to Vast.ai and a deeper discussion of your technical and
+    support experience
+  - 2 hours — Meet and Greet and Technical Assessment (On-site):
+    Meet the team and complete an LLM-assisted Linux systems
+    operations assessment
+
+  Annual Salary Range
+
+  $90,000 – $160,000 + equity + benefits
+
+  Vast.ai is hiring across all experience levels with
+  compensation commensurate with background, experience and
+  potential.
+
+  Benefits
+
+  - Comprehensive health, dental, vision, and life insurance
+  - 401(k) with company match
+  - Meaningful early-stage equity
+  - Onsite meals, snacks, and close collaboration with
+    founders/tech leaders
+  - Ambitious, fast-paced startup culture where initiative is
+    rewarded
+industries:
+  - Artificial Intelligence
+  - On-Demand
+  - Software
+posted_date: 2026-09-17
+url: "https://www.builtinla.com/job/ai-hpc-gpu-infrastructure-support-engineer/11234153"
+source: Built In

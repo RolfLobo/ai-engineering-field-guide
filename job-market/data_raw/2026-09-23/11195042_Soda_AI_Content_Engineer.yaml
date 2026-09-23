@@ -1,0 +1,184 @@
+job_id: 11195042
+title: AI Content Engineer
+company: Soda
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - Amsterdam, NLD
+  - New York, USA
+  - San Francisco, USA
+  - London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 117 Employees
+description: |
+  Data quality is the bottleneck of the AI era. Every Fortune
+  500 is trying to solve it. We're the team they call.
+
+  Soda is the data quality layer for Disney, Ralph Lauren,
+  CBRE, HelloFresh, 2K Games, and Nubank. Our open-source
+  engine, Soda Core, is used by companies like Tesla, Slack,
+  Adyen, Walmart, and JPMC. The category is growing fast
+  because AI doesn't work on bad data.
+
+  We're hiring one person to own content at Soda, end to end.
+
+  Soda's mission is to monitor the world's decisions. We're
+  building the first Data & AI performance monitoring platform
+  that spans data collection to automated decision-making.
+  Soda helps customers find, understand, and fix data quality
+  issues.
+
+  The Role
+
+  The website. Technical blogs, webinars, and product videos.
+  Your own content and following.
+
+  One person cannot hand-make all of that. So you'll build the
+  system that can. That isn't a stretch goal or a second phase
+  - we don't think the job exists without it.
+
+  You'll join the Growth team reporting to a co-founder.
+
+  What you might call yourself. Content engineer, technical
+  content marketer, growth engineer, marketing engineer, GTM
+  engineer, developer advocate, technical writer who got
+  bored, or nothing in particular. We've seen this job posted
+  under every one of those. We don't care what's on your CV.
+  You need to be able to write and you need to be able to
+  build, and almost nobody can do both.
+
+  Why this is a real problem and not a content calendar. The
+  expertise is already in the building. Founders who have
+  argued about this category for a decade. Customer engineers
+  who spend their week inside broken pipelines at Fortune
+  500s. Customers who will tell you things nobody has
+  published anywhere. Almost none of it gets written down, and
+  what does get out is hand-made, one piece at a time, by
+  people who have other jobs. Your job is to get it out of
+  their heads and onto the internet, at a volume that is only
+  possible with a machine behind it.
+
+  Taste is the bar. Anti-slop is the whole point. An engine
+  that ships slop faster has negative value, and most of them
+  do. We're hiring for the judgment to look at an accurate,
+  competent, lifeless draft and bin it - then work out what
+  the pipeline did wrong and fix it. The engine has to write
+  in distinct voices: a founder sounds nothing like a customer
+  engineer, and the output should sound like them, not like a
+  model. Your own profile and following is part of how we'll
+  know it works. If it can't make you sound good, it won't
+  make anyone else sound good either.
+
+  What this is not. You'll write code every day, but this is
+  not a software engineering job. We're not hiring you to
+  build product, and if you're a backend, data, or platform
+  engineer looking for your next engineering role, this isn't
+  it. It's also not a traditional marketing or DevRel role: no
+  agency to brief and no conference circuit.
+
+  Requirements
+
+  - You can write, and you can tell good writing from bad: send
+    us something you wrote that a technical audience actually
+    read. The most important line in this ad.
+  - Serious prompt engineering: multi-step LLM pipelines with
+    structured outputs and evals, not chatting with a model.
+    You know why the naive version produces slop.
+  - 3+ years building things that go to market: technical
+    content, growth engineering, marketing engineering, GTM
+    engineering, DevRel, marketing ops, RevOps, or a founder
+    background. Nobody agrees what to call this job yet.
+    Titles vary; portfolios don't.
+  - Enough code to be autonomous: Python or TypeScript, APIs,
+    webhooks, a database. Nothing should be blocked waiting
+    for an engineer. We build agentically here - Claude Code,
+    MCP servers, and agent skills are the daily workflow.
+  - Enough data fluency to be credible: you're writing for Staff
+    Data Engineers and CDOs. You can hold your own on
+    pipelines, data quality, and warehouses.
+  - Generalist instinct: you find the constraint and fix it, and
+    you'd rather build the workflow than do the task fifteen
+    more times.
+  - Independence: you don't need hand-holding in a distributed,
+    async team across 12+ countries.
+  - Fluent English.
+
+  Good to Have
+
+  - You've grown a technical audience of your own: newsletter,
+    blog, LinkedIn, open source, YouTube.
+  - Content, growth, or DevRel in data, developer tools, or
+    infrastructure.
+  - Agentic workflows shipped to real users: MCP servers, Claude
+    skills, tool-using agents.
+  - You can shoot and cut video yourself.
+  - Data quality, data management, or data observability
+    industry experience.
+
+  Benefits
+
+  - Compensation: $120,000-$130,000 / €110,000-€120,000 per year
+    + equity - the same band wherever you live. We don't
+    discount for geography.
+
+  - Fully remote (US or EU-based), with offices in Brooklyn if
+    you want one.
+  - All the tokens you need, across all frontier models.
+  - Real ownership, real impact, no micromanagement.
+  - Colleagues in 12+ countries.
+
+  Our Values
+
+  We value freedom with responsibility, transparency, and a
+  growth mindset. We avoid politics, have no tolerance for
+  dishonesty, and value open and direct communication without
+  judgment. We proactively bring up and address potential
+  issues before they become critical, and we overcommunicate
+  frequently. Working at Soda, you will have full autonomy to
+  make impactful decisions.
+
+  ❤️ Why you will love to join Soda
+
+  - Be part of a transformation: data quality is having its
+    moment, and we're at the front of it.
+  - Ownership from day one: if you see a bottleneck, you remove
+    it.
+  - International culture: colleagues in 12+ countries.
+  - Work on your own terms: fully remote, flexible hours.
+  - Paid the same wherever you are: one band for the US and
+    Europe, no geographic discount.
+  - Your name on the work: you build your own audience on
+    company time, and we want you to.
+  - Direct line to the founders: how Soda talks about the
+    category gets decided with you in the room.
+
+  😡 What you might not love
+
+  - Rapidly changing priorities: our roadmap can pivot quickly.
+    It's a fast-paced environment with a LOT of work to be
+    done.
+  - Flexibility required: you will have to learn new things all
+    the time.
+  - You will kill a lot of your own output: accurate and
+    lifeless still goes in the bin.
+  - Judged on output, not architecture: an elegant pipeline
+    nobody reads from is a failure.
+
+  Hiring Process
+
+  - 15-minute phone screen - with a founder
+  - Short Assignment
+  - Craft deep dive (90 min)
+  - Culture fit (1 hour)
+
+  We answer every application, and every candidate hears back
+  within 3-5 days of each step. If it's not a hell yes, it's a
+  no, and we'll tell you quickly and kindly.
+industries:
+  - Information Technology
+  - Software
+  - Database
+posted_date: 2026-09-15
+url: "https://builtin.com/job/ai-content-engineer/11195042"
+source: Built In

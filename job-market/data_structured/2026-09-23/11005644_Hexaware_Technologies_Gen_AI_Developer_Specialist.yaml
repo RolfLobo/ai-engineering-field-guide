@@ -1,0 +1,54 @@
+company:
+  name: Hexaware Technologies
+  stage: null
+  focus: IT services and digital transformation solutions
+position:
+  title: Gen AI Developer Specialist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-based systems themselves:
+      RAG with vector databases, agentic workflows, prompt and
+      context engineering, and AI agent orchestration. Using AI
+      coding assistants is secondary; the core work shapes LLM
+      behavior and output quality.
+  responsibilities:
+  - Design, develop, and maintain AI-powered enterprise applications with React, TypeScript,
+    JavaScript, and Python
+  - Architect AI-enabled solutions using LLMs, GenAI services, and Agentic AI frameworks
+  - Design and implement RAG solutions with vector databases and enterprise knowledge
+    repositories
+  - Build backend APIs and microservices integrating AI services with enterprise systems
+  - Develop conversational AI applications, copilots, virtual assistants, and workflow
+    automation
+  - Implement prompt and context engineering, memory management, and token optimization
+  - Build autonomous and semi-autonomous AI agents orchestrating multi-step business
+    processes
+  - Implement AI governance, observability, monitoring, and performance optimization
+  use_cases:
+  - AI-powered enterprise applications
+  - Conversational assistants and copilots
+  - Enterprise knowledge retrieval via RAG
+  - Intelligent workflow automation
+  - Autonomous agents orchestrating business processes
+  skills:
+    genai: [LLMs, Generative AI, Agentic Workflows, RAG, Conversational AI, Prompt
+        Engineering, Context Engineering, AI Agents, Anthropic API, OpenAI API]
+    ml: []
+    web: [React, Microservices]
+    databases: [Vector Databases]
+    data: [Kafka]
+    cloud: [AWS Bedrock]
+    ops: [CI/CD, DevSecOps]
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: [GitHub Copilot, Claude Code, Agile, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11005644'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:12:39.150249'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

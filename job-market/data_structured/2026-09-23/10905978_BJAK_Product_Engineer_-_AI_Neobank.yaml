@@ -1,0 +1,51 @@
+company:
+  name: BJAK
+  stage: null
+  focus: |-
+    AI-powered neobank offering insurance, payments, savings,
+    investing
+position:
+  title: Product Engineer - AI Neobank
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a product engineer/PM role at an AI neobank. The
+      description mentions AI only as the company's vision; the
+      role itself involves product definition, launches, and
+      stakeholder coordination with no work shaping model
+      behavior, prompts, retrieval, or training. Per Step 1/3, no
+      shaping means ai-support.
+  responsibilities:
+  - Own product areas across insurance, payments, savings, investing, travel or other
+    financial services
+  - Define user problems, product scope, success metrics, roadmap and launch plans
+  - Work with engineering, design, data, operations, compliance and business teams
+  - Turn complex financial products into simple, usable customer journeys
+  - Use data, feedback, research and production issues to improve product decisions
+  - Launch features, monitor performance and drive iterations
+  - Make trade-offs between speed, user experience, business impact, compliance and
+    operational complexity
+  use_cases:
+  - Digital neobanking across insurance, payments, savings and investing
+  - Consumer financial products simplified into usable customer journeys
+  - Feature launches with metrics and experimentation in fintech
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10905978'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:05:45.636269'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

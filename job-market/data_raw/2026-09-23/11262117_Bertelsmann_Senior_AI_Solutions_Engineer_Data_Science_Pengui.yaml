@@ -1,0 +1,177 @@
+job_id: 11262117
+title: Senior AI Solutions Engineer, Data Science, Penguin Random House (Open to Remote)
+company: Bertelsmann
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 16,426 Employees
+description: |
+  Company Description
+
+  Penguin Random House is the leading adult and children's
+  publishing house in North America, the United Kingdom and
+  many other regions around the world. In publishing the best
+  books in every genre and subject for all ages, we are
+  committed to quality, excellence in execution, and
+  innovation throughout the entire publishing process:
+  editorial, design, marketing, publicity, sales, production,
+  and distribution. Our vibrant and diverse international
+  community of nearly 300 publishing brands and imprints
+  include Ballantine Bantam Dell, Berkley, Clarkson Potter,
+  Crown, DK, Doubleday, Dutton, Grosset & Dunlap, Little
+  Golden Books, Knopf, Modern Library, Pantheon, Penguin
+  Books, Penguin Press, Penguin Random House Audio, Penguin
+  Young Readers, Portfolio, Puffin, Putnam, Random House,
+  Random House Children's Books, Riverhead, Ten Speed Press,
+  Viking, and Vintage, among others. More information can be
+  found at http://www.penguinrandomhouse.com/.
+
+  Penguin Random House values the array of talents and
+  perspectives that a diverse workforce brings. All qualified
+  applicants will receive consideration for employment without
+  regard to race, national origin, religion, age, color, sex,
+  sexual orientation, gender identity, disability, or
+  protected veteran status.
+
+  Job Description
+
+  Penguin Random House publishes more of the books people love
+  than anyone else in the world and the Data Science team
+  helps those books find their readers: recommendation systems
+  that surface the right book for the right person,
+  forecasting models that guide print runs and marketing
+  spend, and AI-powered tools that support our publishing
+  teams.
+
+  We're hiring a Senior AI Solutions Engineer to build the
+  systems behind this next wave of AI work for improving
+  operations: agentic applications, LLM-powered services, and
+  the interfaces (e.g. MCP servers) that connect AI models and
+  assistants to our internal data and tools. You'll work at
+  the intersection of a world-class publishing business and
+  the modern AI stack, and you'll own what you build all the
+  way to production.
+
+  Specific responsibilities include:
+
+  - Design, build, and operate LLM-powered applications and
+    services (e.g. agentic workflows, retrieval/RAG systems,
+    classification pipelines) over our catalog, sales, and
+    operational data
+  - Stand up and maintain MCP servers and tool integrations that
+    connect AI models and assistants to our internal data and
+    systems safely and reliably
+  - Own services end-to-end: architecture, implementation,
+    deployment, evaluation, and monitoring in our
+    AWS/Databricks environment
+  - Evaluate emerging AI tooling and patterns (agent frameworks,
+    MCP, evaluation harnesses, new model capabilities), run
+    structured pilots, and lead adoption of what works
+  - Raise the team's AI engineering capability: run working
+    sessions and internal demos, pair program with scientists,
+    and build internal tools to help accelerate AI usage
+    across the team.
+
+  Qualifications
+
+  - 3+ years building and shipping production-quality software,
+    including hands-on work with machine learning or AI
+    systems that include the following preferred
+    qualifications:
+    - Experience standing up MCP servers or comparable tool-
+      integration layers for AI assistants
+    - Experience with cloud ML platforms (AWS, Databricks), model
+      APIs (Bedrock, Anthropic, OpenAI), and vector databases
+    - Advanced degree (MS/PhD) in computer science, machine
+      learning, or a related quantitative field
+    - Experience applying AI/ML to commercial problems such as
+      demand forecasting, pricing, sales and marketing
+      optimization, recommendation, or search
+    - Background in media, publishing, or other content-rich
+      domains
+  - Demonstrated fluency with the current LLM stack: retrieval-
+    augmented generation, embeddings, prompt engineering,
+    agentic patterns, and rigorous evaluation of generative
+    systems
+  - Strong Python engineering skills with experience in version
+    control, testing, and CI
+  - Self-motivated, with strong communication skills and a
+    demonstrated ability to teach and level up teammates.
+
+  Additional Information
+
+  The salary range for this position is $180,000 to $220,000. 
+  All positions are currently eligible for annual profit award
+  or bonus, subject to Company results.
+
+  Applications for this role will be accepted through October
+  8, 2026 or until the role is filled. We encourage you to
+  apply early, as we review applications on a rolling basis.
+  For this position a complete application should include your
+  resume and cover letter, as both are required for
+  consideration. Before applying for any role at Penguin
+  Random House, we recommend you review our applicant
+  resources page and our FAQs page.
+
+  Penguin Random House job postings include a good faith
+  compensation range for each open position. The salary range
+  listed is specific to each particular open position and
+  takes into account various factors including the specifics
+  of the individual role, and candidate's relevant experience
+  and qualifications.
+
+  Full-time employees are eligible for our comprehensive
+  benefits program. Our range of benefits include, but are not
+  limited to, Medical/Prescription drug insurance, Dental,
+  Vision, Health Care/Dependent Care Flexible Spending
+  Account, Health Savings Account, Pre-Tax and Roth 401(k),
+  Short and Long-Term Disability Insurance, Life/AD&D
+  Insurance, Commuter Benefits, Student Loan Repayment
+  Program, Educational Assistance & generous paid time off.
+
+  All your information will be kept confidential according to
+  EEO guidelines.
+
+
+
+  Disclosure requirements pertaining to the collection of your
+  personal data:
+
+  Responsible for processing the information provided in your
+  application is the company specified in the job
+  advertisement, with its registered office as indicated. The
+  company processes your data for the purpose of establishing
+  an employment relationship on the basis of Art. 6 (1) b GDPR
+  / Section 26 (1) sentence 1 BDSG.
+
+  The retention period for your data is determined by the
+  statutory time limits applicable in the respective country,
+  beginning upon completion of the recruitment process. You
+  can find these here.
+
+  You can contact the company’s Data Protection Officer at the
+  above-mentioned postal address.
+
+  Further information on data protection and your rights can
+  be found here.
+
+  We value the array of talents and perspectives that a
+  diverse workforce brings. All qualified applicants will
+  receive consideration for employment and will not be
+  discriminated against on the basis of race, color, religion,
+  sex, sexual orientation, gender identity, national origin,
+  disability, protected veteran status, age, genetic
+  information, or pregnancy.
+
+  All your information will be kept confidential according to
+  EEO guidelines.
+
+
+
+  Recruiting-Platform powered by SmartRecruiters.
+industries:
+  - Digital Media
+  - Marketing Tech
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-ai-solutions-engineer-data-science-penguin-random-house-open-remote/11262117"
+source: Built In

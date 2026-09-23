@@ -1,0 +1,53 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud software and AI solutions for public sector
+position:
+  title: Senior Solution Engineer - AI Apps & Agents, Public Sector
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and proves agentic applications, RAG and AI
+      agents on Azure AI Foundry and Copilot Studio, directly
+      shaping agent flows and generative AI outputs for customers.
+      Forward-deployed style solution engineering that designs AI
+      solutions is ai-first.
+  responsibilities:
+  - Own the technical decision by guiding customers from vision and architecture through
+    proof of value and deployment planning
+  - Build and deliver demos, prototypes, proofs of concept and pilots for AI Apps
+    and Agents solutions
+  - Lead architecture workshops and technical engagements, translating complex concepts
+    into actionable outcomes
+  - Act as trusted technical advisor to customers, connecting technology decisions
+    to business value, security and risk
+  - Build agentic applications on Azure AI Foundry, the Azure app platform and Copilot
+    Studio
+  - Collaborate across Solution Engineering, Customer Success, partners and account
+    teams
+  - Capture and scale reusable solution patterns and customer success stories
+  - Mentor others and contribute to technical communities
+  use_cases:
+  - Agentic AI applications for Dutch public sector organisations
+  - Citizen service automation amid labour shortages
+  - Knowledge retention and institutional knowledge management
+  - Transparent, explainable and sovereign AI in government
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [APIs, Microservices]
+    ml: []
+    ops: [DevOps]
+    other: [Responsible AI, Containers]
+    cloud: [Azure, Azure AI Foundry]
+    languages: []
+    genai: [Copilot Studio, Generative AI, AI Agents, RAG, Agentic Workflows]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10996174'
+  location: Schiphol, NLD
+  extracted_at: '2026-09-23T11:11:51.292975'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

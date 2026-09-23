@@ -1,0 +1,60 @@
+company:
+  name: Extreme Networks
+  stage: null
+  focus: Cloud-driven enterprise networking solutions and services
+position:
+  title: AI Staff SW Systems Engineer -AI Infra -Distributed Systems,Microservice,
+    AI Infrastructure,Agentic systems-10362
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes designing agentic AI solutions — tool use,
+      planning, memory, retrieval, orchestration, and evaluation —
+      which is shaping LLM/agent behavior, so it is ai-first. It
+      also covers distributed systems and real-time data
+      platforms, but the agentic component dominates per the tie
+      rule.
+  responsibilities:
+  - Define and drive technical vision across products spanning intelligent networking,
+    distributed systems, real-time data processing, agentic AI, and machine learning
+  - Lead the end-to-end software development lifecycle from architecture through deployment
+    and operations
+  - Design and build production-ready services for real-time data and AI platforms,
+    including scalable data pipelines, distributed microservices, and agentic solutions
+  - Integrate AI capabilities with networking systems and build scalable, secure,
+    observable platforms
+  - Mentor and develop engineers, set technical direction, and foster engineering
+    excellence
+  - Champion improvements to architecture, performance, and operational readiness
+  use_cases:
+  - Autonomous agents that reason, plan, remember, and act on behalf of users in network
+    management
+  - Real-time processing of large volumes of network and operational telemetry data
+  - Intelligent networking automation for enterprise wired and wireless networks
+  - Actionable insights and automated outcomes from network data
+  - Agentic automation integrated with cloud-native platforms
+  skills:
+    databases: []
+    domains: []
+    data: [Kafka, Spark, Flink, PySpark, MapReduce, Data Pipelines, Stream Processing]
+    web: [Microservices, Event-Driven Architecture]
+    ml: [Machine Learning]
+    ops: [Distributed Systems]
+    other: [Network Telemetry]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python, Java, Go, C++]
+    genai: [Agentic Workflows, Generative AI, Function Calling, RAG, Embeddings, LLM
+        Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10981253'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:10:21.996238'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

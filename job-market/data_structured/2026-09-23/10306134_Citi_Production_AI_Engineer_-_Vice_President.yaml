@@ -1,0 +1,61 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and financial services technology
+position:
+  title: Production AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements agentic AI workflows,
+      applies advanced prompt engineering to integrate LLMs into
+      operational tooling, and builds agentic systems with
+      LangChain/LangGraph/AutoGen. This is directly shaping model
+      behaviour via prompts, agent flows, and tool-use patterns,
+      so it is ai-first.
+  responsibilities:
+  - Design, develop, and maintain production-grade software systems with emphasis
+    on reliability and scalability
+  - Architect and implement agentic AI workflows that reason, plan, and act across
+    production environments
+  - Apply advanced prompt engineering to integrate LLMs into operational tooling,
+    incident response, and developer productivity platforms
+  - Lead development of AI-native observability solutions using intelligent agents
+    for anomaly detection and automated remediation
+  - Operate and evolve CI/CD pipelines, Infrastructure-as-Code tooling, and GitOps
+    workflows
+  - Collaborate with platform, data, and product engineering teams to embed AI capabilities
+    across the production lifecycle
+  - Coach and mentor team members on AI engineering practices, prompt design patterns,
+    and agentic system architecture
+  - Operate within a highly regulated financial environment ensuring compliance in
+    system design
+  use_cases:
+  - Autonomous agents operating across production environments with minimal human
+    intervention
+  - LLM-powered operational tooling and incident response pipelines
+  - AI-native observability with anomaly detection and automated remediation
+  - Developer productivity platforms powered by generative AI
+  - Self-healing infrastructure across a global production estate
+  skills:
+    databases: []
+    domains: []
+    data: [Kafka]
+    web: []
+    ml: [AI/ML Engineering]
+    ops: [GitOps, DevSecOps, CI/CD, Infrastructure as Code, Docker, Kubernetes, Istio,
+      Terraform, CloudFormation, Pulumi, Datadog, AppDynamics, Dynatrace, Observability]
+    other: [Agile, Kanban, Code Review]
+    cloud: []
+    languages: [Java, Python, Go]
+    genai: [Agentic Workflows, Prompt Engineering, LLMs, OpenAI API, Anthropic API,
+      Gemini, Embeddings, Vector Databases, LangChain, LangGraph, AutoGen, CrewAI,
+      Multi-Agent Systems, Function Calling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10306134'
+  location: London, GBR
+  extracted_at: '2026-09-23T10:59:28.917086'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: RELX
+  stage: null
+  focus: 'Risk analytics: fraud detection, identity verification, AML'
+position:
+  title: Machine Learning Engineer/AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role integrates ML models and analytical components into
+      production backend systems built by others (data scientists
+      own the models). The engineer moves prototypes into
+      production, builds APIs, and handles deployment/operations —
+      capacity plumbing, not shaping model behaviour or output
+      quality. No prompts, RAG, training, or evals owned by this
+      role.
+  responsibilities:
+  - Design, build, test, and maintain production-grade backend services and APIs using
+    Python and Java
+  - Integrate machine learning models and analytical components into real-time and
+    batch software workflows
+  - Develop reusable components for feature calculation, inference, decision support,
+    and model output interpretation
+  - Build internal and customer-facing tools to explore and evaluate analytical outcomes
+  - Improve system performance, reliability, security, observability, and maintainability
+  - Work with data scientists to translate prototypes into robust product capabilities
+  - Own deployment, incident analysis, and remediation for services built
+  use_cases:
+  - Fraud detection
+  - Identity authentication and verification
+  - Anti-money laundering / counter-terrorist financing analytics
+  - Credit risk mitigation
+  - Customer data management
+  skills:
+    genai: []
+    ml: [Machine Learning, Feature Engineering]
+    web: [APIs]
+    databases: [Snowflake, Relational Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, Code Review, Monitoring, Observability, Distributed Systems]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9910276'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:38:07.560627'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

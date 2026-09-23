@@ -1,0 +1,76 @@
+job_id: 11139534
+title: AI Product Engineer
+company: Fusion Practices
+location: New Delhi, IND
+work_type: FULL_TIME
+company_size: 309 Employees
+description: |
+  We at Fusion Practices are building the next generation of
+  our integration and extension platform – custom modules that
+  plug into Oracle Fusion Cloud ERP where standard
+  capabilities do not fit customer requirements.
+
+  These modules are built on an open-source stack, exposed
+  through APIs, and increasingly enhanced with AI capabilities
+  so that AI applications and agents can safely reason over
+  and interact with enterprise data.
+
+  We are looking for an AI Product Engineer with strong
+  software engineering fundamentals and hands-on experience
+  building Generative AI / LLM-powered applications. The ideal
+  candidate will have practical experience with Python,
+  FastAPI, RAG, LLMs and vector databases and enjoy using AI-
+  assisted development tools to build products quickly.
+
+  Roles & Responsibilities
+
+  - Build AI-powered applications and backend services using
+    Python and FastAPI.
+  - Develop RAG-based applications using LLMs and enterprise
+    data.
+  - Integrate LLMs such as OpenAI, Claude/Anthropic, Llama and
+    Gemini.
+  - Build AI applications using LangChain / LlamaIndex.
+  - Work with vector databases such as Pinecone, ChromaDB,
+    Supabase or Oracle Vector Database.
+  - Design and develop REST APIs and backend services.
+  - Use AI coding tools such as Cursor, Claude Code, GitHub
+    Copilot or ChatGPT to accelerate development.
+  - Work with product and engineering teams to turn requirements
+    into working features.
+  - Contribute to testing, debugging, deployment and continuous
+    improvement of AI products.
+
+  RequirementsSkillset Required
+
+  - 2–3 years of software development experience
+  - Strong Python development experience
+  - FastAPI / REST API development
+  - Hands-on experience with Generative AI / LLM applications
+  - Strong understanding of RAG
+  - Experience with OpenAI / Anthropic / Llama / Gemini
+  - LangChain and/or LlamaIndex
+  - Experience with a vector database – Pinecone, ChromaDB,
+    Supabase, Oracle Vector DB or similar
+  - Good understanding of SQL/databases, Git and Docker
+
+  Good to Have
+
+  - AI Agents / Agentic workflows
+  - Function/Tool calling
+  - MCP (Model Context Protocol)
+  - AWS / Azure / OCI
+  - Oracle Fusion / OIC integration experience
+  - Experience deploying AI applications to production
+
+  Qualifications
+
+  Bachelor’s degree in Computer Science, IT, Engineering or a
+  related field
+industries:
+  - Information Technology
+  - Software
+  - Consulting
+posted_date: 2026-09-11
+url: "https://builtin.com/job/ai-product-engineer/11139534"
+source: Built In

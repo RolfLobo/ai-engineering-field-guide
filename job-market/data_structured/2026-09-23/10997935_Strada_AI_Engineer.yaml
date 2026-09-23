@@ -1,0 +1,56 @@
+company:
+  name: Strada
+  stage: null
+  focus: Global people, payroll, and workforce management technology
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role personally designs and builds production LLM/RAG
+      and agentic systems — RAG pipelines, prompt engineering,
+      multi-agent orchestration, guardrails, and LLM evaluation —
+      which is shaping model behaviour, with LLM components
+      throughout.
+  responsibilities:
+  - Define technical standards, reusable patterns, and reference architecture for
+    GenAI/Agentic AI delivery across engagements
+  - Architect and build end-to-end GenAI and Agentic AI solutions — RAG pipelines,
+    LLM orchestration, multi-agent workflows — from design through production deployment
+  - Own full-stack solution architecture including backend services, APIs/microservices,
+    data layer, and cloud infrastructure
+  - 'Select and justify the technical stack: LLM providers, vector databases, orchestration
+    frameworks'
+  - Produce architecture artifacts (HLD/LLD, sequence diagrams, integration specs)
+    and review team designs
+  - Build evaluation, guardrails, and monitoring for AI systems including hallucination
+    checks and retrieval quality metrics
+  - Own and manage AI budget — tooling, LLM/API spend, infrastructure, and licensing
+  - Support presales and solutioning, representing the team in client-facing technical
+    discussions
+  - Mentor and technically lead the team, growing its GenAI capability
+  use_cases:
+  - GenAI and agentic AI delivery for client engagements across industries
+  - Enterprise RAG solutions for document retrieval and knowledge access
+  - Multi-agent workflow automation integrated with enterprise systems
+  - AI evaluation and monitoring including hallucination checks and retrieval quality
+  skills:
+    databases: [FAISS, Pinecone, pgvector, Semantic Search, NoSQL]
+    domains: []
+    data: []
+    web: [Spring Boot, REST APIs, Microservices]
+    ml: [Fine-Tuning, Machine Learning, Deep Learning]
+    ops: [Docker, CI/CD]
+    other: []
+    cloud: [Azure, AWS, GCP]
+    languages: [Python, C#, Java, SQL]
+    genai: [LLMs, OpenAI API, Gemini, Prompt Engineering, RAG, Embeddings, Function
+        Calling, Agentic Workflows, LangChain, LangGraph, Guardrails, LLM Evaluation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10997935'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:11:58.446459'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

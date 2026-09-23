@@ -1,0 +1,45 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: Enterprise data and knowledge engineering services
+position:
+  title: KNOWLEDGE ENGINEER – DATABRICKS & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG solutions, vector search,
+      and LLM grounding on top of knowledge graphs, which is
+      shaping retrieval and grounding for LLM output quality.
+      Leadership and mentoring do not change the technical shaping
+      nature.
+  responsibilities:
+  - Design scalable Knowledge Graph and semantic AI solutions
+  - Build Databricks lakehouse pipelines, vector search and RAG solutions
+  - Develop ontologies, schemas, taxonomies and knowledge services
+  - Collaborate with architects, AI engineers, data teams and business stakeholders
+  - Lead technical workstreams and mentor engineers
+  - Support solution shaping, pre-sales and client engagements
+  use_cases:
+  - Enterprise Knowledge Graphs and semantic layers on Databricks
+  - Lakehouse pipelines with vector search and RAG for LLM grounding
+  - Ontology, taxonomy and schema modeling for knowledge services
+  - NLP-based entity extraction and semantic search
+  skills:
+    genai: [RAG, LLMs, Agentic Workflows]
+    ml: []
+    web: []
+    databases: [Knowledge Graphs, Neo4j, Amazon Neptune, Vector Search, Semantic Search]
+    data: [Databricks, PySpark, Data Pipelines, Delta Lake]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [RDF, SPARQL, OWL, SHACL, LPG, Unity Catalog, Entity Extraction]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11235413'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:29:51.366910'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

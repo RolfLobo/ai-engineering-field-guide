@@ -1,0 +1,60 @@
+company:
+  name: The Walt Disney Company
+  stage: null
+  focus: Media and streaming technology for Disney, ESPN, Hulu
+position:
+  title: Software Engineer II, AI Performance
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds model evaluation frameworks,
+      automated ground-truth pipelines, and feedback loops that
+      track precision, recall, and drift of AI agents and anomaly
+      models, feeding signals back into model improvement cycles.
+      Building evals and output-quality measurement for LLM agents
+      is shaping behavior, and agents/LLMs are involved, so ai-
+      first.
+  responsibilities:
+  - Design, build, and maintain automated feedback pipelines capturing operational
+    outcomes (confirmed incidents, false positives, dismissed alerts) and correlating
+    them to AI model predictions and agent actions
+  - Develop programmatic evaluation frameworks tracking model precision, recall, and
+    drift, with automated threshold alerts to trigger model tuning and prevent alert
+    fatigue
+  - Build end-to-end data pipelines linking AI outputs to incident lifecycles, quantifying
+    impact via Service to Incident correlation, notification success rates, and Mean
+    Time to Mitigation (MTTM)
+  - Design and deploy scalable APIs, metrics layers, and single-pane model health
+    dashboards presenting AI ROI and performance narratives to leadership and technical
+    stakeholders
+  - Build mechanisms to capture structured end user feedback and feed real-world usage
+    signals back into model improvement cycles
+  - Partner with SRE, product, and platform engineering teams to eliminate visibility
+    gaps and reduce alert noise
+  use_cases:
+  - Evaluating real-world performance and precision of operational AI agents and anomaly
+    models in production
+  - Correlating AI signals with incident detection and mitigation timelines (MTTM)
+    for streaming reliability
+  - Model drift monitoring and alert noise reduction across Disney+, Hulu, and ESPN
+    observability systems
+  - AI ROI and model health dashboards for engineering and leadership
+  skills:
+    genai: [Agentic Workflows, Foundation Models, OpenAI API, Anthropic API]
+    ml: [Model Evaluation]
+    web: [FastAPI, Flask, APIs]
+    databases: [Snowflake]
+    data: [PySpark, Pandas, Databricks]
+    cloud: [AWS, EKS]
+    ops: [GitHub, Docker, Datadog, Grafana]
+    languages: [SQL]
+    domains: []
+    other: [Cursor, Claude Code, Conviva]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11262837'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:32:15.617143'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

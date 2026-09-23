@@ -1,0 +1,144 @@
+job_id: 11177211
+title: Principal Engineer - AI Capabilities
+company: Wolters Kluwer
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 18,996 Employees
+description: |
+  About the Role:
+
+  The Principal Engineer / Technical Lead (AI Capabilities) is
+  responsible for the technical design, delivery, integration,
+  and operational readiness of AI-enabled sourcing and
+  procurement capabilities.
+
+  Working across initiatives such as Compare Tool, Smart
+  Intake, SourceIQ, and future AI solutions, the role serves
+  as the primary technical owner throughout the capability
+  lifecycle, ensuring solutions are designed, built,
+  integrated, tested, deployed, and supported in alignment
+  with business requirements and enterprise standards.
+
+  The role provides technical leadership across internal and
+  external delivery teams, translating business requirements
+  into scalable technical solutions while overseeing
+  integrations, application development, data flows, testing,
+  release activities, and ongoing technical support. Acting as
+  the key technical counterpart to business, technology, and
+  vendor stakeholders, the Technical Lead ensures AI-enabled
+  capabilities remain secure, maintainable, and fit for
+  purpose as they scale. The role requires experience
+  designing and delivering AI- and agent-based solutions,
+  including understanding how decision logic, context, and
+  structured knowledge models interact across workflows and
+  system architecture.
+
+  Responsibilities:
+
+  - Lead the technical design, delivery, and ongoing operation
+    of AI-enabled sourcing and procurement capabilities,
+    ensuring solutions remain scalable, secure, maintainable,
+    and aligned to business requirements.
+  - Translate business requirements into technical solutions and
+    oversee the end-to-end delivery lifecycle, including
+    design, development, testing, deployment, release
+    management, and ongoing support.
+  - Provide technical leadership across internal engineering
+    resources and external delivery partners, ensuring
+    technical quality, architectural consistency, and
+    successful delivery of capability enhancements and new
+    solutions.
+  - Design and support implementation of AI- and agent-based
+    workflows, ensuring system behavior aligns to expected
+    decision outcomes and user interactions
+  - Design, review, and maintain application code, integrations,
+    APIs, workflows, and supporting technical components while
+    leveraging AI-assisted development approaches to improve
+    delivery speed and engineering productivity.
+  - Design and support complex, context-driven workflows where
+    outcomes depend on multiple inputs, decision paths, and
+    business scenarios
+  - Ensure solutions are designed for reuse across multiple AI-
+    enabled capabilities (Compare, Intake, SourceIQ), avoiding
+    tool-specific implementations
+  - Manage the ongoing maintenance and support of deployed
+    capabilities, including defect resolution, technical
+    enhancements, environment management, and operational
+    stability.
+  - Ensure effective integration with enterprise platforms, data
+    sources, and third-party solutions while maintaining
+    alignment with enterprise architecture, security, and
+    governance standards.
+  - Ensure all AI-enabled solutions consume and operate against
+    the shared semantic layer (taxonomy, ontology, structured
+    knowledge models) as the source of truth
+  - Ensure clear separation between semantic logic (definitions,
+    classifications, decision rules), application logic, and
+    agent behavior
+  - Identify and prevent inappropriate embedding of business
+    decision logic within application code, prompts, or agent
+    workflows
+  - Support testing, validation, and troubleshooting of AI-
+    enabled solutions, including analysis of outputs,
+    identification of edge cases, and resolution of issues
+    related to data, logic, or system behavior
+  - Identify and manage technical risks, dependencies,
+    performance issues, and scalability considerations,
+    supporting the long-term sustainability and evolution of
+    AI-enabled capabilities.
+  - Evaluate emerging technologies, engineering practices, and
+    AI development approaches to continuously improve
+    capability delivery, operational effectiveness, and
+    technical outcomes.
+
+  Required Skills and Qualifications:
+
+  - 12+ years of software development experience with at least 5
+    years in an AI environment
+  - Strong software engineering foundation, particularly Python,
+    APIs/integrations, cloud/application architecture and
+    sufficient full-stack experience to work within a
+    production codebase
+  - Practical experience with LLM, RAG, agentic AI and/or
+    intelligent workflow solutions
+  - Experience owning enterprise applications through build,
+    deployment and ongoing operation
+  - Ability to troubleshoot across application code,
+    integrations, workflows, data and AI behaviour, making
+    changes directly where appropriate and identifying when
+    deeper specialist support is required
+  - Experience providing technical oversight of engineering
+    teams and external delivery partners
+  - Strong technical aptitude to review solutions and code and
+    ensure we can operate and evolve the capabilities
+    internally rather than remaining dependent on
+    implementation partners
+  - Strong hands-on experience designing, developing, and
+    maintaining enterprise applications, integrations, APIs,
+    workflows, and digital solutions
+  - Experience working with modern software development
+    frameworks, cloud technologies, and application
+    architectures
+
+  Our Interview Practices
+
+  To maintain a fair and genuine hiring process, we kindly ask
+  that all candidates participate in interviews without the
+  assistance of AI tools or external prompts. Our interview
+  process is designed to assess your individual skills,
+  experiences, and communication style. We value authenticity
+  and want to ensure we’re getting to know you—not a digital
+  assistant. To help maintain this integrity, we ask to remove
+  virtual backgrounds and include in-person interviews in our
+  hiring process. Please note that use of AI-generated
+  responses or third-party support during interviews will be
+  grounds for disqualification from the recruitment process.
+
+  Applicants may be required to appear onsite at a Wolters
+  Kluwer office as part of the recruitment process.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-09-15
+url: "https://builtin.com/job/principal-engineer-ai-capabilities/11177211"
+source: Built In

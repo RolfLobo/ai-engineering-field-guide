@@ -1,0 +1,190 @@
+job_id: 11177671
+title: "AI Systems Engineer - Agents & Inference"
+company: Axelera AI
+location: NLD
+locations:
+  - NLD
+  - Porto, PRT
+  - Paris, CAN
+  - Athens, CAN
+  - Timisoara, ROU
+  - Amsterdam, NLD
+  - Site, TUR
+  - Dawn-Euphemia, CAN
+remote: true
+work_type: FULL_TIME
+company_size: 147 Employees
+description: |
+  About Us
+
+  Axelera AI is not your regular deep-tech company. We are
+  creating the next-generation AI platform to support anyone
+  who wants to help advancing humanity and improve the world
+  around us.
+
+  In just five years, we have raised a total of $450 million
+  and have built a world-class team of 250+ employees
+  (including 60+ PhDs with more than 40,000 citations), both
+  remotely from 20 different countries and with offices in
+  Belgium, France, Switzerland, Italy, the UK, headquartered
+  at the High Tech Campus in Eindhoven, Netherlands.
+
+  We have also launched our Metis™ AI Platform, which achieves
+  a 3-5x increase in efficiency and performance, and have
+  visibility into a strong business pipeline exceeding $100
+  million.
+
+  Our unwavering commitment to innovation has firmly
+  established us as a global industry pioneer.
+
+  Are you up for the challenge?
+
+  Position Overview
+
+  We're looking for an AI System Engineer to help build and
+  maintain Axelera Wingman and Axelera's agentic AI platform.
+  You'll develop the agent capabilities, execution
+  environments and software integrations that make the
+  platform reliable and useful. Deploying models and running
+  AI workloads will help you validate the platform, identify
+  gaps and improve the product.
+
+  Key responsibilities:
+
+  - Build reliable agent systems, intelligent tools and
+    application integrations
+  - Develop secure, scalable execution environments for
+    demanding AI workloads
+  - Build and maintain Wingman's platform capabilities,
+    including access to accelerated computing and remote
+    workload execution
+  - Deploy and optimize computer vision models, LLM services and
+    inference infrastructure to validate Axelera's agentic AI
+    platform
+  - Own capabilities from implementation and hardware validation
+    through production operation
+  - Take ownership of implementation, verification and ongoing
+    reliability
+  - Test functionality, security boundaries, hardware behavior
+    and failure recovery
+  - Write clear documentation, reproducible setup instructions
+    and practical operational runbooks
+  - Become productive quickly with unfamiliar tools, SDKs and
+    systems
+  - Collaborate effectively and exercise sound technical
+    judgment
+
+  Qualifications
+
+  Required:
+
+  Agent Systems & Effective Agent Use
+
+  - Practical experience building with AI agents, model APIs and
+    tools
+  - Understanding of how agents interact with applications,
+    manage state and recover from failures
+  - Ability to use coding agents effectively to scope, implement
+    and verify work while retaining ownership of correctness
+    and technical decisions
+  - Experience with tool calling, structured outputs, streaming
+    or MCP
+
+  Compute Platforms & Secure Workload Execution
+
+  - Understanding of how AI workloads run across applications,
+    hosts and accelerated hardware, including remotely hosted
+    environments
+  - Comfort working with Linux, processes, resource allocation
+    and diagnosing failures across the software and compute
+    stack
+  - Application of sound security principles to permissions,
+    credentials and workload isolation
+  - Ability to build reliable execution with clear progress,
+    cancellation and recovery
+
+  Model Deployment & Platform Validation
+
+  - Hands-on experience deploying computer vision models and
+    working with LLM services
+  - Ability to use representative applications and inference
+    workloads to verify platform correctness on real hardware
+  - Skills to assess accuracy, latency, throughput and resource
+    use
+  - Experience investigating failures across model code,
+    inference SDKs and execution environments
+
+  We value demonstrated ability and judgment over particular
+  degrees or certifications
+
+  Nice to have:
+
+  Software Engineering: Python, Rust or another systems
+  language. APIs, databases and native integrations.
+  TypeScript/React and Tauri experience
+
+  Workload Orchestration: Job submission, scheduling, quotas,
+  concurrency. Result retrieval and reproducible environments.
+  SDK and driver compatibility management
+
+  Security: Authentication, authorization, least privilege.
+  Access revocation, sandboxing, network security. Protection
+  of users' files and data
+
+  Cloud Operations (Google Cloud/AWS): Containers,
+  infrastructure as code, CI/CD. Monitoring, incident
+  investigation. Safe deployments, rollback and recovery
+
+  Applied ML & Accelerated Computing: PyTorch/ONNX.
+  Image/video processing, detection, classification,
+  segmentation. Calibration, quantization and hardware-aware
+  optimization
+
+  Evaluation & Retrieval: Reproducible benchmarks for model
+  quality, agent behavior and task success. Grounded retrieval
+  and traceable results
+
+  Additional Strengths:
+
+  - Fine-tuning, multimodal applications, distributed inference
+  - Desktop packaging
+  - Experience maintaining developer tools
+
+  Location
+
+   We offer a flexible working arrangement, with options to:
+
+  - Work from one of our Axelera AI offices (Florence and Milan
+    in Italy, Amsterdam and Eindhoven in the Netherlands,
+    Leuven in Belgium, Paris in France, Zurich in Switzerland,
+    or Bristol in the United Kingdom) if you're already based
+    in the vicinity.
+
+  - Work fully remotely from any European country (incl. the UK)
+    you are already in.
+
+  What we offer 
+
+  This is your chance to shape and be part of a dynamic, fast-
+  growing, international organization. We offer an attractive
+  compensation package, including a pension plan, extensive
+  employee insurances and the option to get company shares. 
+
+  An open culture that supports creativity and continual
+  innovation is awaiting you. Collaborative ownership and
+  freedom with responsibility is characteristic for the way we
+  act and work as a team. 
+
+  At Axelera AI, we wholeheartedly embrace equal opportunity
+  and hold diversity in the highest regard. Our steadfast
+  commitment is to cultivate a warm and inclusive environment
+  that empowers and celebrates every member of our team. We
+  welcome applicants from all backgrounds to join us in
+  shaping the future of AI.
+industries:
+  - Artificial Intelligence
+  - Hardware
+  - Software
+posted_date: 2026-09-15
+url: "https://builtin.com/job/ai-systems-engineer-agents-inference/11177671"
+source: Built In

@@ -1,0 +1,51 @@
+company:
+  name: Softchoice
+  stage: null
+  focus: IT solutions and technology services provider
+position:
+  title: Developer – AI Native Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is about adopting, evaluating, and enabling AI-
+      native developer tooling across the enterprise — rolling out
+      tools, training, PoCs, and workflows for other engineers. It
+      does not shape any model's behavior through prompts,
+      retrieval, or fine-tuning, so it is ai-support under the
+      developer-tools rollout rule.
+  responsibilities:
+  - Deliver hands-on AI training and enablement content across the IT organization
+  - Develop technical documentation, tutorials, demos, and short-form videos for AI
+    adoption
+  - Research, evaluate, and prototype emerging AI-native engineering tools and platforms
+  - Define and optimize AI-augmented engineering workflows and automation strategies
+  - Lead design and development of proofs of concept and reference architectures
+  - Communicate updates and recommendations to senior leadership including C-suite
+    executives
+  - Host office hours and provide support to engineers adopting new AI tools
+  - Monitor AI tooling ecosystems and translate changes into actionable insights
+  use_cases:
+  - Enterprise-wide adoption of AI-native development tooling
+  - AI training and skill-building for IT engineers
+  - AI-augmented software engineering workflows and automation
+  - Reference architectures and proofs of concept for AI-enabled delivery
+  skills:
+    databases: [SQL, NoSQL, PostgreSQL, MongoDB]
+    domains: []
+    data: []
+    web: [Vue]
+    ml: []
+    ops: [DevOps, CI/CD, Automated Testing]
+    other: [PowerPoint]
+    cloud: [Cloud-Native Architectures]
+    languages: [JavaScript, Node.js]
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10972938'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:09:55.678185'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

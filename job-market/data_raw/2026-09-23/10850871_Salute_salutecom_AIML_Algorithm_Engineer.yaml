@@ -1,0 +1,167 @@
+job_id: 10850871
+title: "AI/ML & Algorithm Engineer"
+company: Salute (salute.com)
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Salute is a leading provider of cutting-edge Data Center
+  Infrastructure Services, dedicated to serving data center
+  clients worldwide. We pride ourselves on delivering
+  sustainable solutions, unparalleled reliability, and
+  outstanding customer service. As we continue to grow, we are
+  seeking a dynamic and experienced AI/ML & Algorithm Engineer
+  to join our team and drive our relationships with hyperscale
+  clients to new heights.
+
+  We are seeking an AI/ML and Algorithm Engineer to design,
+  build, and protect the core intelligence layer of our
+  enterprise platform. This role owns the development of
+  multi-agent AI systems, novel scoring and optimization
+  algorithms, large language model applications, and closed-
+  loop autonomous workflows that operate at scale across
+  complex physical environments. You will translate cutting-
+  edge AI research into production systems, identify novel
+  algorithmic approaches worthy of patent protection, and
+  establish the technical foundation for how the organization
+  uses AI to drive measurable operational outcomes. This is a
+  high-impact, technically deep role that sits at the frontier
+  of enterprise AI deployment
+
+  KEY RESPONSIBILITIES
+
+  - Design and implement production multi-agent AI systems:
+    agent coordination, tool use, context and memory
+    management, structured output, and human-in-the-loop
+    ratification loops.
+  - Develop novel algorithms for scoring, ranking,
+    prioritization, and optimization - including multi-
+    dimensional impact scoring systems that rank ideas or
+    proposals by value, feasibility, revenue potential, and
+    strategic alignment.
+  - Build LLM-powered workflows: retrieval-augmented generation
+    (RAG), prompt pipelines, fine-tuning, structured
+    extraction, and domain-adapted language models for
+    enterprise contexts.
+  - Architect closed-loop AI systems where agent observations
+    feed structured proposals for human review and
+    ratification, then feed back into continuous improvement
+    cycles.
+  - Identify novel algorithmic and AI system designs that
+    represent patentable inventions; author invention
+    disclosures and collaborate with patent counsel through
+    prosecution.
+  - Lead evaluation and benchmarking of AI model performance in
+    production: accuracy, latency, cost, reliability, and
+    domain-specific accuracy metrics.
+  - Drive build-vs-buy-vs-partner decisions for AI components;
+    design integration patterns for third-party foundation
+    models, AI APIs, and specialized ML services.
+  - Establish AI governance practices: model cards,
+    explainability tooling, bias evaluation, auditability, and
+    responsible deployment standards.
+  - Design AI and agent systems that operate across
+    decentralized, federated data domains - enabling
+    intelligent query routing, context assembly, and inference
+    across disparate operational data sources without
+    requiring centralized data pipelines; architect retrieval
+    and grounding strategies that respect data sovereignty and
+    domain ownership as the organization transitions from
+    siloed data stores to a federated intelligence layer.
+
+  REQUIRED QUALIFICATIONS
+
+  - 8+ years in AI/ML engineering or research, with at least 3
+    years building and operating production AI systems at a
+    senior IC level.
+  - Deep expertise in large language models and agentic
+    frameworks (LangChain, LangGraph, AutoGen, CrewAI, or
+    equivalent); strong understanding of prompt engineering
+    and model behavior.
+  - Proven ability to develop novel algorithmic approaches - not
+    just apply existing frameworks - and document them
+    rigorously for IP purposes.
+  - Strong ML fundamentals: optimization theory, probabilistic
+    modeling, statistical learning, reinforcement learning,
+    and deep learning architectures.
+  - Proficiency in Python and at least one deep learning
+    framework (PyTorch or JAX); familiarity with ML
+    infrastructure (MLflow, Weights & Biases, Ray, or
+    equivalent).
+  - Experience with vector databases, embeddings, semantic
+    search, and knowledge graph architectures as components of
+    production AI systems.
+  - Demonstrated ability to deploy and maintain AI systems in
+    production: monitoring, versioning, rollback strategies,
+    and performance degradation detection.
+
+  PREFERRED QUALIFICATIONS
+
+  - Named inventor on AI, ML, or algorithmic patents.
+  - Experience with autonomous AI systems, robotic process
+    automation, or AI applied to physical infrastructure,
+    industrial operations, or IoT environments.
+  - Familiarity with RLHF, Constitutional AI, or other alignment
+    and fine-tuning methodologies.
+  - Experience with digital twin architectures, simulation
+    environments, or AI-driven 3D modeling tools in
+    operational contexts.
+  - Background in algorithm design for scheduling, resource
+    allocation, combinatorial optimization, or operational
+    research.
+  - Experience building AI systems that process structured
+    operational data: time-series sensor readings, maintenance
+    logs, energy consumption data, or workforce telemetry.
+  - Familiarity with federated learning frameworks or privacy-
+    preserving ML techniques that enable model training across
+    distributed, domain-owned data sources without
+    centralizing sensitive operational data.
+  - Experience integrating AI agents with federated data access
+    layers - query routing across multiple source systems,
+    semantic data discovery, and context-aware retrieval from
+    heterogeneous operational datastores.
+  - Graduate degree (MS or PhD) in Computer Science, Machine
+    Learning, Mathematics, or a related quantitative field.
+
+  If you are a motivated and results-driven individual with a
+  passion for data center services and a knack for building
+  strong client relationships, we want to hear from you. Join
+  us in revolutionizing the data center industry and apply
+  today!  
+
+
+
+  Salute is an equal opportunity employer committed to
+  celebrating diversity, creating an inclusive environment for
+  all employees, and providing equal employment opportunities
+  to all applicants; if you require a reasonable accommodation
+  to participate in the job application or interview process,
+  perform essential job functions, or receive other benefits
+  and privileges of employment, please contact our Human
+  Resources department at hr@salute.com for more information. 
+
+  (For specific Recruitment related questions, please contact
+  our Talent Acquisition department at recruiting@salute.com.)
+
+
+
+  Compensation & Benefits Disclosure
+
+  The base salary range for this role starts at $200,000 per
+  year. This reflects a good‑faith estimate of what we
+  reasonably expect to pay upon hire, based on factors such as
+  skills, experience, education, and market/location. Our
+  comprehensive benefits include health, dental, and vision
+  insurance, Health Savings Account (HSA), gym discount,
+  mental health, Discounted Group Life & AD&D, Discounted
+  Group Short & Long-term Disability, 401(k) retirement
+  matching, PTO/paid holidays, and parental leave. Final
+  compensation will be determined by job‑related factors
+  consistent with applicable law.
+industries:
+  - Information Technology
+  - Professional Services
+  - Database
+posted_date: 2026-09-11
+url: "https://www.builtinla.com/job/ai-ml-algorithm-engineer/10850871"
+source: Built In

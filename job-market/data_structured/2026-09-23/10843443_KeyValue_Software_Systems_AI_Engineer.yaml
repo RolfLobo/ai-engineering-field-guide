@@ -1,0 +1,48 @@
+company:
+  name: KeyValue Software Systems
+  stage: null
+  focus: Software development and AI integration services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM output quality directly through prompt
+      engineering, model selection/evaluation, and interpreting
+      LLM outputs, with LLM integration via frameworks like
+      LangChain. This is clearly LLM work, so ai-first.
+  responsibilities:
+  - Evaluate and select appropriate LLM APIs or open-source LLMs based on project
+    requirements
+  - Craft effective prompts to achieve desired outcomes from LLMs
+  - Design and implement pipelines integrating LLMs with existing infrastructure,
+    potentially using LangChain
+  - Analyze and interpret LLM outputs, ensuring accuracy and relevance
+  - Monitor and maintain the integrated LLM solution and address issues
+  - Collaborate with data scientists, engineers, and product managers on LLM-powered
+    solutions
+  - Stay up to date on LLM advancements and prompting best practices
+  use_cases:
+  - Text generation
+  - Translation
+  - Question answering
+  - LLM-powered application workflows
+  skills:
+    genai: [LLMs, Prompt Engineering, LangChain, OpenAI API]
+    ml: [Transformers]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10843443'
+  location: Kochi, IND
+  extracted_at: '2026-09-23T11:02:04.182141'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

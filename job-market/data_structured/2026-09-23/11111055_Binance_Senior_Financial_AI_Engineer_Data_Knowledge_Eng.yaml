@@ -1,0 +1,81 @@
+company:
+  name: Binance
+  stage: null
+  focus: Global cryptocurrency exchange and blockchain ecosystem
+position:
+  title: Senior Financial AI Engineer (Data & Knowledge Engineering)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and operates RAG systems end-to-end—query
+      processing, multi-route retrieval, reranking, context
+      assembly, evidence citation—and integrates LLMs into
+      pipelines, directly shaping model behaviour and output
+      quality. This is LLM/retrieval-centric work, so it is ai-
+      first.
+  responsibilities:
+  - Build production-grade AI data processing pipelines for financial content covering
+    chunking, deduplication, clustering, standardization, versioning, and validation
+  - Build layered financial knowledge bases with structured facts, entities, events,
+    full-text and vector indices, and rich metadata
+  - Engineer and operate production RAG services including query processing, permission/time
+    filtering, multi-route retrieval, reranking, and context assembly with evidence
+    citation
+  - Design extensible data processing, knowledge engineering, and indexing frameworks
+    supporting incremental updates, backfill, and authorization expiry
+  - Integrate LLMs, document understanding models, NLP models, and rule systems into
+    a unified pipeline with task orchestration and failure handling
+  - 'Own engineering capabilities: APIs, async tasks, queues, caching, retries, canary
+    releases, rollbacks, and capacity governance'
+  - Establish quality measurement for parsing accuracy, retrieval coverage, citation
+    completeness, latency, and cost
+  - Collaborate with data, algorithm, product, and compliance teams to deploy services
+    in equities products
+  use_cases:
+  - Transform financial announcements, news, and earnings reports into data and knowledge
+    for trading products
+  - RAG services over equities knowledge bases with traceable evidence citation
+  - Financial knowledge engineering of entities, events, and relationships from documents
+    and audio/video
+  - Serving retrieval and knowledge services to user-facing equities products and
+    Binance AI
+  skills:
+    genai: [RAG, LLMs]
+    ml: [NLP, Machine Learning]
+    web: []
+    databases: [Vector Search, Full-Text Search]
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Observability]
+    languages: [Python, Java]
+    domains: []
+    other: [Equity Markets]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11111055'
+  location: TJK
+  locations:
+  - TJK
+  - MYS
+  - MDV
+  - JPN
+  - LAO
+  - IND
+  - TUR
+  - TWN
+  - KHM
+  - PAK
+  - PHL
+  - MNG
+  - THA
+  - HKG
+  - BGD
+  - KOR
+  - USA
+  - Singapore, SGP
+  - Taipei City, TWN
+  remote: true
+  extracted_at: '2026-09-23T11:18:35.986877'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

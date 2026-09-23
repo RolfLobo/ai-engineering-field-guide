@@ -1,0 +1,152 @@
+job_id: 11226859
+title: Backend Engineer (Go) – AI Security Platform
+company: Pragmatike
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 11 Employees
+description: |
+  Location: India, Remote-First Employment: Full-Time Start
+  Date: November 2026 onward, with staggered start dates
+  Experience: Mid-Level to Senior Language: Fluent English
+  required Industry: Cybersecurity / Enterprise SaaS / AI
+  Security
+
+  About the Opportunity
+
+  Pragmatike is recruiting on behalf of a global enterprise
+  cybersecurity company building a new generation of products
+  to secure AI agents, LLM-powered applications, and the data
+  they access.
+
+  The engineering organization is scaling rapidly in India,
+  with multiple Backend Engineer openings across several
+  product workstreams.
+
+  Depending on your experience and interests, you may join one
+  of the following areas:
+
+  - Agentic Security: Real-time policy enforcement for AI agent
+    actions, tool calls, and data access.
+  - AI Security Gateway: High-performance proxy between
+    enterprise applications and LLM providers, covering inline
+    inspection, DLP, rate limiting, and streaming.
+  - Platform: Shared multi-tenant foundations including
+    identity/RBAC, configuration, event streaming, storage,
+    and internal APIs.
+  - Data Security Integration: Event-driven integrations between
+    AI security products and existing data security
+    infrastructure.
+  - Cloud Discovery: Services that discover AI agents, model
+    endpoints, and AI-enabled applications across AWS, Azure,
+    and GCP, and map their access.
+  - Agentic AI Forensics: Ingestion, indexing, and querying of
+    agent traces and security events for investigation and
+    analysis.
+  - AI Risk Research: Tooling and testing harnesses that enable
+    security researchers to identify and validate attacks
+    against AI agents.
+
+  Across all workstreams, the core stack includes Go, Python,
+  gRPC/REST, event streaming, Kubernetes, and major cloud
+  platforms. AI-assisted development is also a core part of
+  the engineering workflow.
+
+  What You’ll Do
+
+  - Design, build, and operate production Go services with high
+    standards for performance, reliability, and multi-tenancy.
+  - Design APIs and data models, owning service contracts,
+    idempotency, retries, and back-pressure.
+  - Build event-driven pipelines and integrations with cloud
+    providers, internal systems, or AI/agent frameworks.
+  - Own service reliability through testing, observability,
+    CI/CD, and production readiness.
+  - Use Python for tooling, testing, migrations, automation, or
+    data workflows.
+  - Collaborate with AI engineers, security researchers, and
+    product teams on threat models and enforcement logic.
+  - Use AI coding assistants as part of your daily development,
+    testing, and debugging workflow.
+
+  What We’re Looking For
+
+  - 4+ years of professional backend engineering experience,
+    including 2+ years building production services in Go.
+    Senior roles require 6+ years overall and 3+ years in Go.
+  - Strong understanding of Go concurrency, networking, and
+    performance, including goroutines, channels, context, and
+    profiling.
+  - Working knowledge of Python.
+  - Experience designing gRPC and REST APIs, working with
+    protobuf, and building asynchronous/event-driven systems
+    such as Kafka or equivalent.
+  - Experience with Docker, Kubernetes, and at least one major
+    cloud provider: AWS, GCP, or Azure.
+  - Experience with relational and/or NoSQL databases in
+    distributed systems.
+  - Strong testing discipline and attention to data correctness.
+  - Fluent English with strong written and verbal communication
+    skills.
+  - Comfortable using modern AI coding assistants such as Claude
+    Code, Cursor, GitHub Copilot, Codex, or similar. This is a
+    must-have.
+  - Ability to work independently and take ownership in a
+    remote-first, distributed environment.
+
+  Nice to Have
+
+  - Experience with API gateways, proxies, policy/authorization
+    engines such as OPA or Cedar, or service meshes.
+  - Deep knowledge of a major cloud provider's APIs and IAM
+    model.
+  - Experience with Elasticsearch/OpenSearch, ClickHouse, or
+    other search/indexing and columnar data systems at scale.
+  - Familiarity with LLM agent frameworks, tool-calling
+    protocols, and AI/agent security.
+  - Experience building multi-tenant SaaS platforms.
+  - Background in cybersecurity, security tooling, or trust &
+    safety.
+  - Experience introducing AI-assisted or agentic development
+    workflows across engineering teams.
+
+  AI-First Engineering
+
+  AI is a core part of how this team builds software.
+
+  During the interview process, you'll be asked about how you
+  use AI in real-world engineering: the tools you rely on, how
+  you validate their output, and how AI has changed your
+  development workflow.
+
+  We're looking for engineers who use AI as a force multiplier
+  for quality, productivity, and problem-solving, not simply
+  as an autocomplete tool.
+
+  Why Join
+
+  - Build a greenfield product at the intersection of
+    cybersecurity and agentic AI.
+  - Work on Go services operating at enterprise scale and
+    protecting some of the world's largest organizations.
+  - Take ownership of a product workstream and influence
+    architecture from an early stage.
+  - Work alongside a highly technical, distributed engineering
+    team where AI is a core part of the development process.
+
+  Pragmatike is committed to a fair, transparent, and
+  inclusive recruitment process. We do not discriminate based
+  on age, disability, gender, gender identity or expression,
+  marital or civil partner status, pregnancy or maternity,
+  race, religion or belief, sex, or sexual orientation.
+
+  In accordance with GDPR, your personal data will be
+  processed lawfully, fairly, and securely and used solely for
+  recruitment purposes, including sharing it with our
+  client(s) for employment consideration.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-09-17
+url: "https://builtin.com/job/backend-engineer-go-ai-security-platform/11226859"
+source: Built In

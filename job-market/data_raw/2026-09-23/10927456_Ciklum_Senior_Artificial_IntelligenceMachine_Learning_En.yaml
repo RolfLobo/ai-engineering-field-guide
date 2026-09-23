@@ -1,0 +1,229 @@
+job_id: 10927456
+title: Senior Artificial Intelligence/Machine Learning Engineer
+company: Ciklum
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Ciklum is looking for a Senior Artificial
+  Intelligence/Machine Learning Engineer to join our team
+  full-time in USA.
+
+  We are a custom product engineering company that supports
+  both multinational organizations and scaling startups to
+  solve their most complex business challenges. With a global
+  team of over 4,000 highly skilled developers, consultants,
+  analysts and product owners, we engineer technology that
+  redefines industries and shapes the way people live.
+
+  About the role:
+
+  As a Senior Artificial Intelligence/Machine Learning
+  Engineer, become a part of a cross-functional development
+  team engineering experiences of tomorrow.
+
+  This role is a feature lead responsible for advancing end-
+  to-end automation of GenAI and Agentic applications
+  development using  DevOps, cloud engineering, and
+  operational excellence across enterprise GenAI and Data
+  Science platforms. The position will build scalable
+  automation frameworks for infrastructure provisioning,
+  CI/CD, governance, observability, and AI workload
+  deployment, enabling faster onboarding and delivery of
+  enterprise AI solutions. Ideal candidates bring strong
+  experience in platform automation, cloud engineering,
+  Infrastructure-as-Code, GenAI technologies, and large-scale
+  distributed platforms.
+
+  This is a senior platform automation engineering role
+  focused on accelerating enterprise adoption of Generative
+  AI, Data Science, Data Engineering, and Advanced Analytics
+  capabilities across Bank of America. The role will lead
+  automation initiatives that improve developer productivity,
+  platform reliability, operational efficiency, governance,
+  and self-service adoption across enterprise AI and data
+  platforms.
+
+  The successful candidate will be responsible for designing,
+  building, and operationalizing automated platform
+  capabilities spanning infrastructure provisioning, CI/CD,
+  environment management, governance controls, observability,
+  testing, deployment automation, and AI workload enablement.
+  The individual will work closely with platform engineering,
+  cloud engineering, architecture, data science, and business
+  teams to deliver scalable, secure, and resilient automation
+  solutions supporting the full lifecycle of AI and analytics
+  workloads.
+
+  This role requires strong expertise in platform automation,
+  cloud-native technologies, Infrastructure-as-Code (IaC),
+  DevSecOps, Generative AI ecosystem tooling, and distributed
+  computing platforms. The ideal candidate combines deep
+  engineering expertise with a passion for automation,
+  operational excellence, and continuous platform innovation.
+
+  Responsibilities:
+
+  - Lead automation initiatives for enterprise GenAI, Data
+    Science, Metadata, Data Quality, Event Streaming, and
+    Analytics platforms
+  - Design and implement self-service automation capabilities
+    that streamline onboarding, environment provisioning,
+    deployment, governance, monitoring, and operational
+    workflows
+  - Build automated platform services supporting the complete AI
+    and analytics lifecycle including data preparation,
+    experimentation, model training, deployment, inferencing,
+    observability, and lifecycle management
+  - Develop Infrastructure-as-Code (IaC) solutions using
+    Terraform and related automation frameworks to enable
+    repeatable, scalable, and compliant infrastructure
+    deployments
+  - Design and implement enterprise CI/CD pipelines, automated
+    testing frameworks, deployment automation, and release
+    management processes using Atlassian and related DevOps
+    toolchains
+  - Partner with platform engineering and cloud teams to
+    automate Kubernetes, container, serverless, and
+    distributed computing environments
+  - Build automation solutions supporting agentic AI
+    applications, MCP-enabled services, event-driven
+    architectures, and enterprise AI workflows
+  - Drive operational excellence through platform monitoring,
+    observability, automated remediation, performance
+    optimization, and reliability engineering practices
+  - Collaborate with architecture, engineering, governance,
+    security, and business stakeholders to ensure platforms
+    meet enterprise standards and compliance requirements
+  - Conduct technical design reviews, automation assessments,
+    code reviews, and establish engineering best practices
+    across teams
+  - Provide technical leadership, mentorship, and guidance to
+    engineering teams adopting automation-first development
+    and operational practices
+  - Support key business initiatives including Consumer AML
+    Analytics and other strategic AI platform adoption efforts
+
+  Requirements:
+
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, Information Technology, or a related
+    technical field
+  - 10+ years of hands-on experience in platform engineering,
+    automation engineering, cloud engineering, DevOps, or
+    large-scale distributed systems
+  - Proven experience building self-service enterprise platforms
+    supporting AI/ML, Data Science, Data Engineering, and
+    advanced analytics workloads
+  - Strong expertise in automation frameworks, DevOps
+    methodologies, CI/CD pipelines, Infrastructure-as-Code,
+    and software delivery lifecycle automation
+  - Deep understanding of modern open-source Generative AI and
+    Data Science platform architectures including storage and
+    compute separation, interactive development environments,
+    virtual environments, containers, Jupyter, VSCode, and
+    developer productivity tooling
+  - Hands-on experience implementing enterprise CI/CD automation
+    using Atlassian ecosystem tools including Bitbucket,
+    Bamboo, Jira, and Confluence
+  - Experience designing and implementing Infrastructure-as-Code
+    solutions using Terraform and cloud-native automation
+    frameworks
+  - Strong understanding of metadata management, data lineage,
+    governance frameworks, and semantic layer concepts
+    supporting enterprise AI and data platforms
+  - Experience building scalable cloud-native solutions
+    utilizing distributed computing architectures and modern
+    platform engineering principles
+  - Experience automating deployments and operations for
+    Kubernetes, containerized, YARN, serverless, and
+    distributed processing environments
+  - Experience designing and supporting event-driven
+    architectures leveraging technologies such as Kafka and
+    streaming data platforms
+  - Working knowledge of agentic AI architectures, MCP
+    frameworks, API integrations, workflow automation, and
+    enterprise AI enablement platforms
+  - Strong Python development experience for automation,
+    orchestration, scripting, tooling, and operational
+    engineering use cases
+  - Knowledge of cloud engineering principles including
+    networking, infrastructure management, security,
+    resilience, scalability, and cost optimization
+  - Experience implementing observability frameworks including
+    logging, monitoring, tracing, alerting, automation, and
+    operational dashboards
+  - Ability to communicate effectively with engineers,
+    architects, product owners, and business stakeholders
+    across varying technical levels
+
+  Desirable:
+
+  - Experience supporting enterprise Generative AI platforms, AI
+    governance frameworks, model management, and AI
+    operationalization initiatives
+  - Knowledge of AML, financial crime, risk analytics, fraud
+    detection, or banking domain platforms
+  - Experience building platform automation for data governance,
+    data quality, metadata management, and model lifecycle
+    management
+  - Experience implementing GitOps, DevSecOps, Reliability
+    Engineering (RE), and platform engineering best practices
+  - Familiarity with large-scale cloud environments and
+    enterprise data platforms
+  - Experience creating reusable developer platforms, internal
+    engineering tools, and self-service automation
+    capabilities at enterprise scale
+  - Core Skills:
+    - Python
+    - Generative AI / LLMs
+    - RAG & Agentic AI
+    - MCP
+    - Data Engineering
+    - Kubernetes & Containers
+    - Cloud Engineering
+    - CI/CD & DevSecOps
+    - Kafka/Event Streaming
+    - APIs & Microservices
+    - AI Platform Engineering
+
+  What’s in it for you?
+
+  - Strong community: Work alongside top professionals in a
+    friendly, open-door environment
+  - Growth focus: Take on large-scale projects with a global
+    impact and expand your expertise
+  - Tailored learning: Boost your skills with internal events
+    (meetups, conferences, workshops), Udemy access, language
+    courses, and company-paid certifications
+  - Endless opportunities: Explore diverse domains through
+    internal mobility, finding the best fit to gain hands-on
+    experience with cutting-edge technologies
+  - Care: Healthcare, Basic Life Insurance, Short and Long-term
+    disability insurance according to the Company’s Benefit
+    Plans
+
+  About us:
+
+  At Ciklum, we are always exploring innovations, empowering
+  each other to achieve more, and engineering solutions that
+  matter. With us, you’ll work with cutting-edge technologies,
+  contribute to impactful projects, and be part of a One Team
+  culture that values collaboration and progress. In the US,
+  Ciklum is growing fast—inviting experienced professionals to
+  lead digital transformation alongside Fortune 500 clients.
+  Be part of a company where innovation and impact go hand in
+  hand.
+
+  Explore, empower, engineer with Ciklum!
+
+  Interested already? We would love to get to know you! Submit
+  your application. We can’t wait to see you at Ciklum.
+
+  #LI-VH1
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-31
+url: "https://www.builtinla.com/job/senior-artificial-intelligence-machine-learning-engineer/10927456"
+source: Built In

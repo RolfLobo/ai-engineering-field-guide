@@ -1,0 +1,49 @@
+company:
+  name: Spark Eighteen
+  stage: null
+  focus: Smart scalable tech solutions in health tech/IoT
+position:
+  title: AI/ML Engineer - Senior
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds classical ML models (XGBoost, ensembles,
+      time-series) and CV-adjacent work on radar/sensor data for
+      fall detection and health risk scoring, owning model
+      evaluation. This is shaping classical ML with no LLM/agent
+      component, so ml-first.
+  responsibilities:
+  - Build classical ML models (XGBoost, ensembles, time-series) for fall detection
+    and health risk scoring
+  - Engineer features from raw and sparse radar signal and point-cloud data
+  - Contribute to CV-adjacent work such as pose and skeleton estimation from radar
+  - Build data pipelines on Databricks for training and inference
+  - Own model evaluation including precision, recall, and false-alarm reduction for
+    a safety-critical system
+  - Deploy and monitor models in production
+  - Mentor a talented team
+  use_cases:
+  - Fall detection from radar signals
+  - Health risk scoring
+  - Pose and skeleton estimation from radar sensor data
+  - Safety-critical false-alarm reduction
+  skills:
+    genai: []
+    ml: [XGBoost, Machine Learning, Feature Engineering, Model Evaluation, Quantization,
+      Model Training]
+    web: []
+    databases: []
+    data: [Databricks, Data Pipelines]
+    cloud: []
+    ops: [MLOps, Model Monitoring]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: [ONNX, Time-Series Methods]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11189338'
+  location: New Delhi, IND
+  extracted_at: '2026-09-23T11:24:24.427919'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

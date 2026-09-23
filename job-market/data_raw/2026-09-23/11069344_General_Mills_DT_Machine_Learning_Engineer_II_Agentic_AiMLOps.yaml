@@ -1,0 +1,87 @@
+job_id: 11069344
+title: "D&T Machine Learning Engineer II (Agentic Ai/MLOps)"
+company: General Mills
+location: Pune, IND
+locations:
+  - Pune, IND
+  - Powai, IND
+work_type: FULL_TIME
+company_size: 21,000 Employees
+description: |
+  COMPANY OVERVIEW
+
+  We exist to make food the world loves. But we do more than
+  that. Our company is a place that prioritizes being a force
+  for good, a place to expand learning, explore new
+  perspectives and reimagine new possibilities, every day. We
+  look for people who want to bring their best — bold thinkers
+  with big hearts who challenge one another and grow together.
+  Because becoming the undisputed leader in food means
+  surrounding ourselves with people who are hungry for what’s
+  next.
+
+  OVERVIEW
+
+  General Mills, Digital and Technology India, is seeking a
+  Machine Learning Engineer II to join the Enterprise Data
+  Capabilities Organization. This team builds enterprise-level
+  scalable and sustainable data and model pipelines to serve
+  the analytic needs of business and high-impact problem
+  statements. In this role, you are a critical member of the
+  data science team focused on operationalizing the ML and AI
+  models, which entail model management and monitoring too.
+  The success is to recommend innovative ways to automate the
+  MLOps pipelines on GCP and set standards that would ensure
+  repeated success.
+
+  KEY ACCOUNTABILITIES
+
+  - Implement and support end-to-end MLOps pipelines using GCP,
+    Vertex AI, Airflow/Kubeflow, and related tools.
+  - Build and maintain feature engineering, deployment,
+    monitoring, retraining, and CI/CD/CT pipelines for
+    production ML solutions.
+  - Ensure ML model lifecycle management, including monitoring,
+    performance optimization, and operational support.
+  - Follow and recommend MLOps best practices, coding standards,
+    version control, and technical documentation.
+  - Collaborate with Data Science, Data Engineering, Cloud
+    Platform, and MLOps teams to deliver scalable ML
+    solutions.
+  - Communicate project progress, risks, and outcomes
+    effectively while contributing to knowledge sharing across
+    teams.
+  - Continuously enhance technical expertise by adopting
+    emerging MLOps technologies, tools, and best practices.
+
+  MINIMUM QUALIFICATIONS
+
+  - Education: Bachelor’s degree (full time)
+  - Experience: Total 6+ years of analytical experience with
+    atleast 3+ years of experience in AI and Machine Learning
+  - Technical Skills: Expertise in Data Transformation and
+    Manipulation through Big-Query/SQL, professional
+    experience with Vertex AI and GCP Services, Strong
+    expertise in Python for designing and running ML pipelines
+    along with Airflow/Cloud composer/Kubeflow Experience,
+    Building and maintaining project specific custom
+    containers.
+  - Soft Skills: Strong communication skills both verbal and
+    written including the ability to interact effectively with
+    colleagues of varying technical and non-technical
+    Passionate about agile software processes, data-driven
+    development, reliability, and systematic experimentation.
+
+  PREFERRED QUALIFICATIONS
+
+  - Google Cloud Platform Machine Learning (GCPML) certification
+  - Understanding of the Consumer-Packaged Goods (CPG) industry
+  - Strong understanding of Core Machine Learning Algorithms
+
+  ELIGIBILITY
+
+  Applicants must meet minimum age qualifications in the
+  country in which the job is located.
+posted_date: 2026-09-09
+url: "https://builtin.com/job/d-t-machine-learning-engineer-ii-agentic-ai-mlops/11069344"
+source: Built In

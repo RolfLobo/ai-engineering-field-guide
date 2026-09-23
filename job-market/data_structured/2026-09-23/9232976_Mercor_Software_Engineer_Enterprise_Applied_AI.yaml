@@ -1,0 +1,54 @@
+company:
+  name: Mercor
+  stage: Series C
+  focus: AI data platform connecting human experts to frontier models
+position:
+  title: Software Engineer, Enterprise Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward-deployed engineer role adapting and
+      deploying an AI platform directly at enterprise customer
+      sites, designing integrations, APIs, and workflows that
+      shape how AI agents integrate expertise into client systems.
+      The rules explicitly classify Forward Deployed Engineers on
+      AI solutions as ai-first, and the customer-facing nature
+      never downgrades it.
+  responsibilities:
+  - Embed with enterprise customers to understand technical requirements and business
+    goals
+  - Architect and implement custom integrations, APIs, and workflows on top of Mercor's
+    platform
+  - Deploy scalable solutions in client environments and drive successful launches
+    and expansions
+  - Build internal tools and reusable components that accelerate future deployments
+  - Translate ambiguous enterprise needs into clear technical plans and shipped systems
+  - Collaborate with customer stakeholders and internal teams to deliver production
+    systems
+  use_cases:
+  - Enterprise integration of AI-powered human intelligence into client systems
+  - Custom platform integrations and workflows for Fortune 500 clients
+  - Capturing how expert professionals work and translating expertise into AI agents
+  - Scalable deployment of AI data platform solutions in production environments
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9232976'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:37:37.298235'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

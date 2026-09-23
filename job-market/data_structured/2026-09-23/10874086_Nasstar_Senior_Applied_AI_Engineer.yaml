@@ -1,0 +1,50 @@
+company:
+  name: Nasstar
+  stage: null
+  focus: AWS/Databricks consultancy delivering AI and GenAI solutions
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs GenAI systems end-to-end and evaluates
+      model performance beyond accuracy, with depth areas naming
+      RAG and agentic workflows — that is shaping LLM behaviour,
+      so it is ai-first. It also acts as a client-facing technical
+      lead, but shaping responsibilities dominate.
+  responsibilities:
+  - Own engagement or workstream outcomes, defining success and measuring business
+    impact
+  - Design AI and GenAI systems end-to-end across the lifecycle
+  - Evaluate model performance beyond simple accuracy and justify key trade-offs
+  - Integrate models/LLMs and deploy on cloud platforms such as AWS and Databricks
+  - Explain AI concepts, trade-offs and limitations to technical and non-technical
+    clients
+  - Mentor engineers, lead code reviews, and contribute reusable components and best
+    practice
+  - Manage delivery, technical risk, and stakeholder relationships
+  use_cases:
+  - Production-grade GenAI systems for client organisations
+  - RAG and agentic workflow solutions
+  - Cloud-based AI model deployment on AWS and Databricks
+  - AI adoption across multiple industries with measurable business outcomes
+  skills:
+    genai: [LLMs, Generative AI, RAG, Agentic Workflows]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Engineering, Databricks]
+    cloud: [AWS]
+    ops: [MLOps, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [System Design, Code Review]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10874086'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:04:02.186765'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

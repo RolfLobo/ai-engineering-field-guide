@@ -1,0 +1,58 @@
+company:
+  name: Edmund Optics
+  stage: null
+  focus: Optics and photonics products
+position:
+  title: 'Senior Ecommerce Backend Engineer: AI - Native'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLM/semantic search and RAG capabilities
+      into ecommerce, building retrieval, product discovery, and
+      conversational experiences - partnering with AI teams to
+      design LLM-enabled service layers, which is shaping LLM
+      components. Using AI coding agents alone would be ai-
+      support, but the semantic/LLM/RAG integration
+      responsibilities make it ai-first.
+  responsibilities:
+  - Design, build, and extend backend services, APIs, and integrations for a modular
+    ecommerce platform
+  - Use AI coding agents and agentic workflows daily to generate, refactor, test,
+    debug, and document code with human review
+  - Integrate personalization, semantic/LLM search, DAM, PIM, and analytics platforms
+  - Build integrations with internal enterprise systems including SAP/HANA for product,
+    pricing, inventory, and order data
+  - Develop scalable, secure, well-documented APIs and services for internal and customer-facing
+    applications
+  - Partner with search, data, and AI teams to integrate LLM and semantic capabilities
+    including retrieval and conversational experiences
+  - Build automated testing, observability, and production reliability practices into
+    workflows
+  - Collaborate with technology vendors and implementation partners on integration
+    approaches
+  use_cases:
+  - Ecommerce product discovery with semantic and LLM-driven search
+  - Personalized shopping experiences
+  - Conversational ecommerce experiences
+  - Enterprise data integration between ecommerce and SAP/HANA ERP
+  - Digital asset and product information management
+  skills:
+    genai: [Agentic Workflows, LLMs, RAG, Semantic Search]
+    ml: []
+    web: [REST APIs]
+    databases: [SQL, SAP HANA]
+    data: []
+    cloud: []
+    ops: [CI/CD, Monitoring, Observability, Code Review]
+    languages: []
+    domains: []
+    other: [SAP, PIM, Digital Asset Management, Ecommerce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11114138'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:19:56.332205'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

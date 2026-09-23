@@ -1,0 +1,166 @@
+job_id: 11175501
+title: Sr. Network Engineer, AI Infrastructure (Starshield)
+company: SpaceX
+location: Hawthorne, USA
+work_type: FULL_TIME
+description: |
+  SpaceX was founded under the belief that a future where
+  humanity is out exploring the stars is fundamentally more
+  exciting than one where we are not. Today SpaceX is actively
+  developing the technologies to make this possible, with the
+  ultimate goal of enabling human life on Mars.
+
+  SR. NETWORK ENGINEER, AI INFRASTRUCTURE (STARSHIELD)
+
+  Starshield leverages SpaceX’s Starlink technology and launch
+  capability to support national security efforts. While
+  Starlink is designed for consumer and commercial use,
+  Starshield is designed for government use, with an initial
+  focus on earth observation, communications, and hosted
+  payloads. The Starshield team is building highly reliable
+  in-space mesh networks, designing secure systems to
+  guarantee access to space, designing next-gen communication
+  and sensing software, and more.
+
+  As a Network Engineer you will drive the operation, build
+  and deployment of the Starshield data center network, which
+  supports critical national security missions. You and your
+  teammates will own the network design and be responsible for
+  proposing and implementing continual improvements to add
+  more capabilities and customers. You will also be
+  responsible for monitoring and improving network security,
+  improving network performance and reliability, and
+  optimizing network deployments.
+
+  RESPONSIBILITIES:
+
+  - Manage network infrastructure and deployments to Top Secret
+    data centers
+  - Design, validate, and productize high-speed copper and
+    optical connectivity solutions for AI clusters (100k+ GPU
+    scale)
+  - Collaborate with ML training teams to translate workload
+    communication patterns into concrete interconnect topology
+    and optical reconfigurability requirements.
+  - Contribute to various tools for rapid deployments
+    (ZTP/custom provisioning tools)
+  - Improve network performance and reliability based upon
+    system performance metrics, including capacity planning,
+    failure detection and remediation
+  - Assist in capacity augmentation and network optimization
+    deployments
+  - Lead network integration and troubleshooting efforts
+  - Collaborate with hardware, software, and network engineers
+    to improve the Starshield network design
+  - Assist in updating system configuration and firmware
+  - Build automation for network devices, operational and
+    deployment tools
+  - Mentor and train junior network engineers
+  - As a senior engineer you must lead the team to technical
+    excellence – your decisions guide the team
+
+  BASIC QUALIFICATIONS:
+
+  - Bachelor’s degree in a technical or engineering discipline
+    AND 5+ years of professional networking experience
+    deploying enterprise network solutions or cloud and web-
+    scale networks; OR 7+ years of professional networking
+    experience deploying enterprise network solutions or cloud
+    and web-scale networks in lieu of a degree
+  - 5+ years of networking experience deploying enterprise
+    network solutions and/or cloud and GPU networks
+    (internship/co-op experience qualifies)
+  - Layer-1 experience (e.g., transport, DWDM, optical fiber,
+    circuit troubleshooting, activations, etc.)
+  - Hands-on experience with the deployment of networking
+    hardware (routers, modems, switch, firewalls, etc..)
+
+  PREFERRED SKILLS AND EXPERIENCE:
+
+  - Master’s degree in a technical or engineering discipline
+  - Experience with physical troubleshooting of fiber
+  - Deep understanding of datacenter networks including but not
+    limited to:
+    - Connectivity (Ethernet, IPv4, IPv6 and MPLS)
+    - Routing (BGP, OSPF, VXLAN)
+    - Switching and routing
+    - InfiniBand/NVLink
+    - NVIDIA GPU deployment stacks (Blackwell/Rubin)
+  - Experience implementing network security functions
+  - Cisco, Juniper, Arista or other industry certification
+  - Ability to work independently and in a team, take
+    initiative, and communicate effectively
+  - Ability to obtain and maintain a Top Secret or Top Secret
+    SCI clearance
+
+  ADDITIONAL REQUIREMENTS:
+
+  - This position requires successfully obtaining and
+    maintaining a Top Secret Security Clearance as a condition
+    of employment. While the clearance may not be immediately
+    necessary upon hire, we encourage you to initiate the
+    application process promptly upon accepting this offer.
+    Your ability to secure the necessary clearance is
+    essential for fulfilling key responsibilities of the role.
+    Should you be unable to obtain it, SpaceX reserves the
+    right to modify or terminate your employment to align with
+    operational needs.
+  - Must be willing to travel domestically and globally in the
+    future when needed
+  - Must be available for on-call rotations
+  - Must be willing to work extended hours and weekends as
+    needed
+
+  COMPENSATION AND BENEFITS: Pay Range: Level 3: $165,000.00 -
+  $265,000.00
+
+  Your actual level and base salary will be determined on a
+  case-by-case basis and may vary based on the following
+  considerations: job-related knowledge and skills, education,
+  and experience.
+
+  Base salary is just one part of your total rewards package
+  at SpaceX. You may also be eligible for long-term
+  incentives, in the form of company stock or long-term cash
+  awards, as well as potential discretionary bonuses and the
+  ability to purchase additional stock at a discount through
+  an Employee Stock Purchase Plan. You will also receive
+  access to comprehensive medical, vision, and dental
+  coverage, access to a 401(k) retirement plan, short and
+  long-term disability insurance, life insurance, paid
+  parental leave, and various other discounts and perks. You
+  may also accrue 3 weeks of paid vacation and will be
+  eligible for 10 or more paid holidays per year. Employees
+  accrue paid sick leave pursuant to Company policy which
+  satisfies or exceeds the accrual, carryover, and use
+  requirements of the law.
+
+  ITAR REQUIREMENTS:
+
+  - To conform to U.S. Government export regulations, applicant
+    must be a (i) U.S. citizen or national, (ii) U.S. lawful,
+    permanent resident (aka green card holder), (iii) Refugee
+    under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. §
+    1158, or be eligible to obtain the required authorizations
+    from the U.S. Department of State. Learn more about the
+    ITAR here.
+
+  SpaceX is an Equal Opportunity Employer; employment with
+  SpaceX is governed on the basis of merit, competence and
+  qualifications and will not be influenced in any manner by
+  race, color, religion, gender, national origin/ethnicity,
+  veteran status, disability status, age, sexual orientation,
+  gender identity, marital status, mental or physical
+  disability or any other legally protected status.
+
+  Applicants wishing to view a copy of SpaceX’s Affirmative
+  Action Plan for veterans and individuals with disabilities,
+  or applicants requiring reasonable accommodation to the
+  application/interview process should reach out to
+  EEOCompliance@spacex.com.
+industries:
+  - Aerospace
+  - Other
+posted_date: 2026-09-15
+url: "https://www.builtinla.com/job/sr-network-engineer-ai-infrastructure-starshield/11175501"
+source: Built In

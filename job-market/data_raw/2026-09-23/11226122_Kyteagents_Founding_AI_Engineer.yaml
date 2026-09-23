@@ -1,0 +1,73 @@
+job_id: 11226122
+title: Founding AI Engineer
+company: Kyteagents
+location: New York, USA
+work_type: FULL_TIME
+company_size: 3 Employees
+description: |
+  What you'll do
+
+  As a founding engineer at Kyte, you’ll operate at the
+  cutting edge of applied AI with extreme technical and
+  strategic ownership. You’ll build digital twins to model
+  human baselines and predict behavior, orchestrate complex
+  systems of agents, tackle novel distributed systems
+  problems, and work on a platform that looks as futuristic as
+  our mission statement sounds.
+
+  You'll work directly with the CTO on all parts of the
+  platform, ranging across:
+
+  - Developing Kyte's core platform to ingest data and
+    synthesize “digital twins”, as well as the agentic systems
+    to act on it (eg. Voice, SMS, and Email agents).
+  - Memory (how do we represent and refine our customer models?)
+  - Detection framework (what are the right primitives for
+    building detection agents?)
+  - Agent design (how do we turn signals into reliable
+    autonomous actions?)
+  - Distributed systems (how do we run 5000 agents in parallel?)
+  - Evals (how can we guarantee our agents are always getting
+    better?)
+
+  You’ll also interface directly with our customers and own
+  engagements end-to-end.
+
+  Who you are
+
+  - You have experience in full-stack development with
+    distributed architectures
+  - You’ve worked on systems that process and transform massive
+    amounts of data
+  - You’re capable of making practical tradeoffs to ship things
+    fast that work, while making architectural decisions that
+    allow us to come back later and scale the system
+  - You’re good at explaining complex ideas to non-technical
+    people
+  - You love moonshot ideas that feel like magic (eg. realtime
+    UX)
+  - You think big and get excited by problems that feel
+    impossible to solve
+  - You're looking to do the best work of your life and build
+    something you'll be proud of for decades
+
+  Tech stack
+
+  Typescript, Nuxt, Postgres, Vercel, Claude Code/Cursor
+
+  Benefits
+
+  - Equinox membership
+  - Free meals, coffee, and snacks
+  - Health insurance
+  - Unlimited PTO
+  - Relocation assistance to NYC available
+  - This is an in-person role in New York.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Conversational AI
+  - Automation
+posted_date: 2026-09-19
+url: "https://builtin.com/job/founding-ai-engineer/11226122"
+source: Built In

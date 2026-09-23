@@ -1,0 +1,41 @@
+company:
+  name: Truviq Systems Private Limited
+  stage: null
+  focus: Software and AI systems development services
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs AI agents, RAG, and LLM applications with
+      LangChain/LangGraph, directly shaping model behavior and
+      output quality. GenAI/agentic tooling dominates the
+      requirements, so it is ai-first.
+  responsibilities:
+  - Build GenAI and agentic AI applications using LangChain/LangGraph
+  - Design and implement RAG pipelines with vector databases such as Pinecone, Qdrant,
+    Weaviate, and Milvus
+  - Develop backend services with Python and FastAPI
+  - Deploy and operate solutions on GCP with CI/CD pipelines
+  - Work with LLMs and AI agents to deliver production functionality
+  use_cases: []
+  skills:
+    genai: [AI Agents, Agentic Workflows, Google ADK, LangChain, LangGraph, LLMs,
+      RAG, Generative AI]
+    ml: []
+    web: [FastAPI]
+    databases: [Milvus, Pinecone, Qdrant, Vector Databases, Weaviate]
+    data: []
+    cloud: [GCP]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10876895'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:04:26.978598'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Forcepoint
+  stage: null
+  focus: Cloud-native data security and Zero Trust platform
+position:
+  title: Full-Stack Developer (AI-Augmented Engineering)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role goes beyond using AI coding assistants: it requires
+      integrating LLM-powered features and building agentic
+      workflows with frameworks like LangChain/CrewAI/AutoGen,
+      connecting LLMs to APIs and tools — designing agent flows
+      and prompting, which is shaping LLM behavior. LLM components
+      are central, so ai-first.
+  responsibilities:
+  - Design, build, and maintain production web applications across the full stack
+    (frontend, backend, and data layer)
+  - Use AI coding assistants (Claude Code, Cursor, GitHub Copilot) throughout the
+    SDLC from spec through review
+  - Integrate LLM-powered features and lightweight agentic workflows into product
+    surfaces
+  - Build or extend automation with agent frameworks connecting LLMs to APIs, data
+    sources, and internal tools
+  - Critically review, debug, and refactor AI-generated code with full ownership of
+    what ships
+  - Write clean, well-tested code with unit and integration tests, including for AI-generated
+    contributions
+  - Collaborate with product and engineering peers to scope features, define API contracts,
+    and ship reliably
+  - Document designs, decisions, and AI-assisted workflows for the team
+  use_cases:
+  - LLM-powered product features (chat, RAG, summarization) inside production web
+    apps
+  - Agentic automation connecting LLMs to APIs, data sources, and internal tools
+  - AI-augmented development of security/data protection web applications
+  - Semantic search over product data
+  skills:
+    genai: [LLMs, Embeddings, Prompt Engineering, Function Calling, OpenAI API, Anthropic
+        API, Gemini, Claude Code, Cursor, GitHub Copilot, LangChain, CrewAI, AutoGen,
+      Agentic Workflows, RAG]
+    ml: []
+    web: [React, REST APIs, JSON]
+    databases: [Vector Databases, Semantic Search, Relational Databases]
+    data: [Airflow]
+    cloud: []
+    ops: [Git]
+    languages: [Python, Go, Rust]
+    domains: []
+    other: [n8n, Zapier]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10613014'
+  location: Thāne, IND
+  extracted_at: '2026-09-23T11:00:23.484188'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

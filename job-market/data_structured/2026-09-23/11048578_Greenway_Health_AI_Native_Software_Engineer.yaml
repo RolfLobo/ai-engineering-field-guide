@@ -1,0 +1,53 @@
+company:
+  name: Greenway Health
+  stage: null
+  focus: Healthcare technology for providers and patients
+position:
+  title: AI Native Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The engineer uses AI coding tools as an accelerator to
+      produce regular software; the deliverable is validated
+      application code, not shaped model behavior. Prompt writing
+      here is for code generation by the engineer's own tools, and
+      LLM/agent experience is only a "preferred" bonus, which maps
+      to ai-support.
+  responsibilities:
+  - Use AI-assisted development tools to generate, test, document, refactor, and improve
+    software solutions
+  - Convert product and business requirements into technical prompts, implementation
+    plans, and acceptance criteria
+  - Generate 80-90% of initial solution drafts with AI, then review, validate, and
+    refine the output
+  - Detect and correct AI hallucinations, invalid code, security issues, and requirement
+    gaps
+  - Create automated tests to verify expected behavior and business outcomes
+  - Build reusable prompt templates and AI-native development workflows
+  - Collaborate with product, QA, DevOps, architecture, and security teams
+  - Educate and guide other engineers in adopting AI-native practices
+  use_cases:
+  - AI-accelerated software development for healthcare technology
+  - Automated code generation, testing, documentation, and refactoring
+  - Prompt-driven implementation of business requirements
+  - Engineering process transformation to AI-native workflows
+  skills:
+    genai: [GitHub Copilot, Cursor, ChatGPT, Gemini, LLMs, RAG, AI Agents, Prompt
+        Engineering, Amazon Q Developer]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Services]
+    ops: [CI/CD]
+    languages: []
+    domains: []
+    other: [Secure Coding]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11048578'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:16:03.024747'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

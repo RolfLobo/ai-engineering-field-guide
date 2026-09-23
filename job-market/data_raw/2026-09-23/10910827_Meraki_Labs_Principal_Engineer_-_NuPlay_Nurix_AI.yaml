@@ -1,0 +1,107 @@
+job_id: 10910827
+title: Principal Engineer - NuPlay (Nurix AI)
+company: Meraki Labs
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  About Nurix AI
+
+  At Nurix AI, we are pioneering the Autopilot Enterprise. Our
+  conversational AI agents handle workflows, drive outcomes,
+  and deliver measurable impact for businesses. Born from the
+  belief that enterprises need a new playbook, we build
+  autonomous, multilingual agents capable of complex
+  reasoning, contextual understanding, and end-to-end workflow
+  ownership. Backed by $27.5M in funding from Accel, General
+  Catalyst, and Meraki Labs, and led by Mukesh Bansal, we are
+  India's first scaled enterprise AI company, delivering
+  cutting-edge AI solutions that integrate seamlessly into
+  workflows across industries like Retail, Insurance,
+  Education & Home Services. Join us in shaping the future of
+  enterprise AI — where every interaction is smarter, faster,
+  and human-like.
+
+
+
+  About the Role
+
+  As Principal Engineer at Nurix AI, you will be the
+  cornerstone of our technical infrastructure, enabling our AI
+  agents to scale reliably and securely in production. You
+  will design and oversee distributed systems that deliver
+  low-latency, high-availability voice and chat AI, while
+  meeting enterprise-grade security and compliance
+  requirements. This is a hands-on leadership role focused on
+  architecture, systems design, and performance engineering —
+  ensuring that Nurix's groundbreaking AI research translates
+  into robust, real-world deployments.
+
+
+
+  Key Responsibilities:Systems Architecture & Scalability
+
+  - Design and evolve the end-to-end infrastructure supporting
+    ASR/TTS, LLM orchestration, Agentic RAG, and self-learning
+    workflows.
+  - Architect low-latency pipelines for real-time conversational
+    AI, ensuring sub-second response times across voice and
+    chat.
+  - Build multi-cloud, distributed systems (AWS, GCP, Azure)
+    with elastic scaling to handle spiky workloads.
+
+  Reliability & Performance Engineering
+
+  - Define and enforce SLAs around latency, uptime, and
+    throughput for AI services.
+  - Drive observability, monitoring, and resilience strategies
+    to handle failures gracefully.
+  - Optimize GPU/TPU utilization for cost-effective training and
+    inference.
+
+  Security & Compliance
+
+  - Partner with InfoSec to embed security-by-design across all
+    AI/ML workloads.
+  - Implement controls to protect sensitive enterprise data
+    while meeting global compliance standards (SOC2, ISO
+    27001, GDPR, DPDP).
+
+  Collaboration & Leadership
+
+  - Work closely with the Head of AI to translate cutting-edge
+    research into production-grade platforms.
+  - Provide technical mentorship to engineering teams, ensuring
+    best practices in distributed systems and infra design.
+  - Evaluate and adopt emerging technologies (e.g., SSMs,
+    inference optimizers like Triton, Riva, vLLM) to stay
+    ahead of the curve.
+
+  Required Qualifications & Skills
+
+  - 10 - 15 years of experience in large-scale systems
+    architecture, with at least 5 years in principal
+    architect-level roles.
+  - Proven expertise in distributed systems, cloud-native
+    architectures, and real-time pipelines.
+  - Hands-on experience with containerization, orchestration
+    (Kubernetes), and microservices.
+  - Strong background in scalable ML infrastructure, including
+    model serving, GPU/accelerator utilization, and CI/CD for
+    ML.
+  - Demonstrated ability to architect systems with low latency
+    (<300ms), high throughput, and enterprise reliability.
+  - Experience in conversational AI, speech systems, or real-
+    time inference workloads.
+  - Deep knowledge of MLOps platforms (Kubeflow, MLflow,
+    VertexAI, SageMaker).
+  - Familiarity with state-of-the-art inference optimization
+    frameworks (e.g., Triton, Nvidia Riva, vLLM, SGLang).
+  - Open-source contributions or patents in distributed systems,
+    infra, or ML tooling.
+industries:
+  - Angel or VC Firm
+  - Co-Working Space or Incubator
+posted_date: 2026-08-28
+url: "https://builtin.com/job/principal-engineer-nurix-ai/10910827"
+source: Built In

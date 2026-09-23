@@ -1,0 +1,96 @@
+job_id: 10980713
+title: Senior Full-stack AI Engineer
+company: A.P. Moller - Maersk
+location: Yelahanka, IND
+work_type: FULL_TIME
+company_size: 58,338 Employees
+description: |
+  Team/Opportunity:
+
+  We are looking for a Senior Full Stack AI Engineer to
+  design, build, and scale AI-powered applications from the
+  ground up. You will bridge the gap between traditional
+  software engineering and modern artificial intelligence. You
+  will craft responsive user interfaces, architect robust
+  backend services, and integrate large language models
+  (LLMs), vector databases, and autonomous agents into
+  seamless production workflows.
+
+  Key Responsibilities:
+
+  - Full-Stack Development: Design and build scalable web
+    applications, including responsive frontends (React,
+    Next.js) and high-performance backends (Python, FastAPI,
+    Node.js).
+  - AI & Agent Integration: Integrate LLMs, small language
+    models (SLMs), and multi-agent workflows via APIs or
+    custom orchestration frameworks.
+  - Data & Knowledge Pipelines: Manage relational databases
+    alongside vector stores to support retrieval-augmented
+    generation (RAG) and real-time context retrieval.
+  - AI-First UX: Design intuitive user experiences for AI
+    interactions, including streaming responses, intermediate
+    thought outputs, and error handling for non-deterministic
+    AI behavior.
+  - Deployment & Operations: Implement CI/CD pipelines,
+    containerization (Docker, Kubernetes), and monitoring
+    tools to track model performance, latency, and operational
+    costs in production.
+  - Lead the discussion with business users. Understand what
+    they need, challenge it where needed, and turn it into a
+    clear solution design.
+  - Set up proper evaluation for every solution. Measure
+    accuracy, cost per request, token usage and response time
+    then improve them.
+
+  Required Qualifications:
+
+  - Experience: 7+ years of professional software development
+    experience, with a strong portfolio of applied AI
+    applications (At least 5+ production deployed use cases).
+  - Frontend Skills: Proficiency in modern
+    JavaScript/TypeScript, React, or Next.js.
+  - Backend Skills: Strong command of Python for backend
+    services and API design (FastAPI, Flask).
+  - AI/ML Knowledge: Hands-on experience with OpenAI, Anthropic,
+    or open-source LLMs, prompt engineering, vector databases
+    (Pinecone, pgvector, Milvus), and RAG pipelines.
+  - Infrastructure: Working knowledge of cloud platforms (AWS,
+    GCP, or Azure) and container tools like Docker.
+  - ERP Experience: Prior experience of working in SAP will be a
+    plus
+
+  Preferred Skills:
+
+  - Experience building multi-agent systems or using agent
+    frameworks (LangChain, Langgraph, LlamaIndex)
+  - Knowledge of MLOps and observability tools (LangSmith,
+    Arize, Prometheus)
+  - Understanding of fine-tuning or self-hosting smaller open-
+    source models
+
+  Maersk is committed to a diverse and inclusive workplace,
+  and we embrace different styles of thinking. Maersk is an
+  equal opportunities employer and welcomes applicants without
+  regard to race, colour, gender, sex, age, religion, creed,
+  national origin, ancestry, citizenship, marital status,
+  sexual orientation, physical or mental disability, medical
+  condition, pregnancy or parental leave, veteran status,
+  gender identity, genetic information, or any other
+  characteristic protected by applicable law. We will consider
+  qualified applicants with criminal histories in a manner
+  consistent with all legal requirements.
+
+
+
+  We are happy to support your need for any adjustments during
+  the application and hiring process. If you need special
+  assistance or an accommodation to use our website, apply for
+  a position, or to perform a job, please contact us by
+  emailing  accommodationrequests@maersk.com.
+industries:
+  - Logistics
+  - Transportation
+posted_date: 2026-09-04
+url: "https://builtin.com/job/senior-full-stack-ai-engineer/10980713"
+source: Built In

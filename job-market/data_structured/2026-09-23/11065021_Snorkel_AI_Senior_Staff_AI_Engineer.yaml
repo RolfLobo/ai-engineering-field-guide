@@ -1,0 +1,62 @@
+company:
+  name: Snorkel AI
+  stage: null
+  focus: Enterprise AI data platform for specialized AI development
+position:
+  title: Senior / Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation infrastructure, synthetic data
+      generation, and experimentation systems for LLM and agentic
+      workloads, designing how model/agent behavior is measured
+      and improved — that is shaping LLM/agent output quality.
+      Building evals, prompt/experiment evaluation, and agent
+      orchestration infrastructure maps to ai-first.
+  responsibilities:
+  - Design and build infrastructure for large-scale agentic workloads with tools,
+    sandboxes, and simulated environments
+  - Build scalable synthetic data generation and automated labeling systems for training
+    and evaluation datasets
+  - Design evaluation infrastructure measuring AI behavior across models, prompts,
+    tools, and multi-step trajectories
+  - Build orchestration and distributed compute systems for running large numbers
+    of AI experiments and simulations
+  - Develop agent simulation environments with provisioning, isolation, and lifecycle
+    management
+  - Build and operate LLM infrastructure for routing, caching, failover, and cost
+    attribution across providers
+  - Instrument agent and model workloads with traces, telemetry, and observability
+  - Build APIs, SDKs, and workflow abstractions to move AI workloads from local development
+    to production
+  use_cases:
+  - Large-scale agentic workload execution and simulation
+  - Synthetic data generation and automated labeling for model training
+  - Evaluation and benchmarking of LLM and agent behavior
+  - LLM infrastructure for multi-provider routing and cost management
+  - Agent simulation and sandboxed tool execution environments
+  - Experimentation platform for non-deterministic AI systems
+  skills:
+    genai: [Agentic Workflows, AI Agents, LLMs, Multi-Agent Systems, LLM Evaluation]
+    ml: [Synthetic Data Generation, Machine Learning, Reinforcement Learning, Model
+        Training, Fine-Tuning, Inference]
+    web: [APIs, SDKs]
+    databases: []
+    data: [Prefect, Airflow, Dagster, Ray]
+    cloud: [AWS]
+    ops: [Distributed Systems, Kubernetes, Monitoring, Observability, Telemetry, Serverless
+        Compute]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11065021'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:16:17.137713'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

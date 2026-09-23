@@ -1,0 +1,52 @@
+company:
+  name: Photon
+  stage: null
+  focus: |-
+    Technology consulting and digital product engineering
+    services
+position:
+  title: AI Full-Stack Engineer | Onsite
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack web engineer; AI/ML appears only as
+      "exposure" in preferred qualifications and as integrating
+      models others build. The person does not shape model
+      behaviour (no prompts, RAG, training, or evals), so it is
+      ai-support.
+  responsibilities:
+  - Design, develop, and maintain client-side and server-side architecture for web
+    applications
+  - Build scalable backend services and RESTful APIs using Spring Boot or Node.js
+  - Develop responsive front-end interfaces using modern JavaScript frameworks
+  - Use Python for scripting, data manipulation, and integrating AI/ML models into
+    applications
+  - Collaborate with data scientists and AI engineers to deploy ML models and AI-driven
+    features
+  - Create and optimize CI/CD pipelines using GitHub Actions
+  - Manage SQL and NoSQL databases
+  - Troubleshoot, debug, and upgrade software for performance and security
+  use_cases:
+  - Integration of AI/ML models into web applications
+  - AI-driven product features built with the data science team
+  - Scalable full-stack web applications with automated CI/CD delivery
+  skills:
+    genai: [OpenAI API]
+    ml: [Machine Learning, Hugging Face]
+    web: [Spring Boot, React, Angular, Vue, REST APIs, HTML, CSS, Microservices]
+    databases: [PostgreSQL, MySQL, MongoDB]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [GitHub Actions, CI/CD, Git, Docker, Kubernetes]
+    languages: [Node.js, Python, Java, JavaScript]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10945395'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:08:21.230041'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

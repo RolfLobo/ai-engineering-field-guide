@@ -1,0 +1,53 @@
+company:
+  name: Seismic
+  stage: null
+  focus: AI-powered sales enablement and go-to-market platform
+position:
+  title: Senior Software Engineer I - Full Stack/ Backend - AI Interfaces
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is on the Aura Agentic Interfaces team and the
+      engineer implements and optimizes AI-driven semantic search,
+      indexing, and information retrieval techniques that power
+      content discovery and agentic interfaces. Designing
+      retrieval systems is shaping model output quality, and the
+      agentic/LLM product context makes it ai-first.
+  responsibilities:
+  - Design, develop, and maintain scalable backend services for search functionality
+  - Lead implementation of high-performance frontend components to surface search
+    results
+  - Implement and optimize AI-driven semantic search algorithms, indexing, and information
+    retrieval techniques
+  - Collaborate with data scientists, AI engineers, and product teams to integrate
+    AI-driven search across the platform
+  - Monitor and optimize search performance, ensuring low-latency query responses
+  - Provide technical guidance and mentorship to junior engineers
+  - Work with cross-functional, geographically distributed teams including the China
+    team
+  use_cases:
+  - AI-driven content discovery and search across the Seismic platform
+  - Semantic search and information retrieval for sales enablement content
+  - Agentic interfaces powered by the Seismic Aura AI engine
+  - Low-latency, high-performance search experiences for enterprise users
+  skills:
+    databases: [Redis, PostgreSQL, Snowflake, Elasticsearch, Semantic Search]
+    domains: [NLP]
+    data: [Kafka]
+    web: [Web Services, Microservices, Postman]
+    ml: []
+    ops: [Infrastructure as Code, Terraform, Pulumi, Docker, Kubernetes, CI/CD, Jenkins,
+      NewRelic, Ansible, Monitoring, xUnit]
+    other: [Event-Driven Architecture, Domain-Driven Design, LaunchDarkly, Apache
+        Solr, SaaS, TDD, Agile, Jira]
+    cloud: [AWS, GCP, Azure]
+    languages: [C#, .NET, Python, Scala]
+    genai: [Generative AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11113595'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:18:46.845446'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,185 @@
+job_id: 11183272
+title: "Principal ML & AI Engineer (Spatial AI & Perception)"
+company: HERE Technologies
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - Munich, DEU
+  - Amsterdam, NLD
+  - Frankfurt am Main, DEU
+  - Schwalbach, DEU
+work_type: FULL_TIME
+company_size: 6,000 Employees
+description: |
+  What's the role?
+
+  As ADAS/AD moves towards model-driven intelligence, industry
+  value is extending from map delivery to model training and
+  validation.
+
+  It's the growth of HERE's AI-model creation platform that
+  turns maps and drive data into reusable spatial intelligence
+  – powering scalable training, validation, and next
+  generation ADAS/AD performance.
+
+  As a Principal Engineer, you will work hands-on with
+  cutting-edge architectures (BEVFormer, BEVFusion, occupancy
+  networks), large-scale distributed training, model
+  quantisation and compression for embedded SOCs, and
+  proprietary datasets at a scale that most organisations
+  simply do not have access to. If you want to push perception
+  AI from research to real-world deployment — this is the
+  role.
+
+  Key Responsibilities:
+
+  - Model Development & Training: Develop and train
+    infrastructure perception models for lane detection, road
+    boundaries, traffic signs/lights, and road surface
+    attributes. Build BEV-based scene representation models
+    (BEVFormer, BEVDet, BEVFusion, or similar), run large-
+    scale distributed training, integrate geospatial priors,
+    and validate synthetic training data for quality and
+    coverage gaps.
+  - Model Optimisation & Edge Readiness: Own the hands-on model
+    optimisation pipeline for edge deployment, including ONNX
+    export, TensorRT/QNN compilation, operator compatibility
+    checks, graph optimisation, quantisation, compression, and
+    accuracy recovery. Profile and benchmark models on
+    embedded hardware, identifying latency, throughput,
+    memory, and bottleneck issues, and build automated
+    regression pipelines to validate models against release
+    targets.
+  - Research-to-Pipeline Implementation: Operationalise novel
+    architectures: translate state-of-the-art research
+    (CVPR/NeurIPS papers) into reproducible, scalable training
+    pipelines. Design rigorous experiments, including A/B
+    tests and ablation studies, while evaluating cloud
+    accuracy, deployment readiness, distribution coverage,
+    temporal consistency, spatial coherence, and performance
+    trade-offs across accuracy, latency, memory, and GPU
+    utilisation.
+  - Collaboration & Quality: Partner with research, simulation,
+    and technical leadership to ensure perception outputs meet
+    downstream training and deployment requirements. Support
+    key architecture decisions around quantisation and
+    precision, design experiments to measure real-world gains
+    from synthetic training, and maintain high standards for
+    code quality, documentation, extensibility, and mentoring
+    the junior engineers as the team grows.
+
+
+  Who are you?
+
+  We are looking for a self-directed and pragmatic engineer
+  who can own complex problems end to end, think across the
+  full ML lifecycle from large-scale model training to SoC
+  deployment, and collaborate effectively while maintaining
+  high standards for code quality, documentation, and
+  knowledge sharing.
+
+  - 5–7 years in ML/AI with 3+ years in computer vision,
+    perception or deep learning systems
+  - Proven experience shipping production perception models into
+    real-world systems or large-scale data pipelines
+  - Hands-on edge deployment experience — optimised and deployed
+    models on embedded hardware or automotive-grade SoCs (not
+    just cloud inference)
+  - Strong PyTorch expertise, with hands-on experience building
+    custom architectures, loss functions, and training loops,
+    as well as distributed training using DDP/FSDP, mixed
+    precision, and gradient checkpointing.
+  - Experience with large-scale distributed training, beyond
+    fine-tuning pre-trained models
+
+  Technical Skills
+
+  - Deep Learning & Perception: Experience with BEV or multi-
+    camera transformer architectures such as BEVFormer,
+    BEVDet, BEVFusion, or occupancy networks, along with
+    multi-task learning, scalable training infrastructure,
+    data loading optimisation, augmentation pipelines, and
+    experiment tracking tools such as W&B or MLflow.
+  - Infrastructure Perception: Experience with structured scene
+    understanding, including road topology, lane geometry,
+    road surface attributes, semantic/instance segmentation of
+    infrastructure elements, and BEV-space, occupancy-grid, or
+    map-aligned representations.
+  - Model Optimisation & Embedded Deployment (Critical):Hands-on
+    expertise in ONNX and TensorRT/QNN, experience in
+    quantisation workflows such as QAT, PTQ, mixed-precision
+    inference, per-layer sensitivity analysis, and accuracy
+    recovery, along with model compression
+    techniques.Familiarity with automotive SoC platforms such
+    as Qualcomm Snapdragon Ride, NVIDIA Orin, TI TDA4, or
+    comparable embedded accelerators is important, as is
+    experience profiling latency on real hardware, identifying
+    bottlenecks, analysing memory bandwidth, and optimising
+    inference throughput.
+  - Evaluation & Quality:Ability to evaluate models beyond
+    single metrics, including data coverage, failure modes,
+    and edge cases, while validating deployment readiness
+    through accuracy-latency trade-offs, regression testing
+    across model variants. Ability to reproduce research
+    papers, adapt architectures, and integrate them into
+    scalable, production-ready training loops.
+
+  What Do We Offer?
+
+  - A great work-life balance.
+  - 30 paid vacation days.
+  - Hybrid model of work (2 days office and 3 days home office
+    per week).
+  - On-site Gym and Sauna(For Berlin location), Stay active and
+    unwind with our fully equipped fitness center and relaxing
+    sauna.
+  - Yoga Room(For Berlin location),  A dedicated space for
+    mindfulness, stretching, and relaxation.
+  - Work on the development of high-scale services, serving and
+    storing petabytes of data.
+  - Work with cutting-edge, modern technologies.
+  - Flexible working hours.
+  - Competitive salary plus bonus.
+  - BVG Ticket (For Berlin location).
+  - German language course (For Germany-based employees).
+  - Employee wellness programs and life-coaching sessions.
+  - A diverse team of fantastic & talented people from 60+
+    countries worldwide.
+  - Brown bag talks, team events, BBQ on the rooftop, and more!
+
+  Change is HERE. Apply Now!
+
+  As part of HERE Technologies employment process, candidates
+  will be required to successfully complete a pre-employment
+  screening process. This offer and any related claims are
+  subject to the successful completion of a pre-employment
+  screening. This will involve employment, education, and
+  criminal verification if applicable.
+
+  #LI-AY2 #LI-HYBRID
+
+  Who are we?
+
+  HERE Technologies is a location data and technology platform
+  company. We empower our customers to achieve better outcomes
+  – from helping a city manage its infrastructure or a
+  business optimize its assets to guiding drivers to their
+  destination safely.
+
+  At HERE we take it upon ourselves to be the change we wish
+  to see. We create solutions that fuel innovation, provide
+  opportunity and foster inclusion to improve people’s lives.
+  If you are inspired by an open world and driven to create
+  positive change, join us. Learn more about us on our YouTube
+  Channel.
+industries:
+  - Artificial Intelligence
+  - Automotive
+  - Computer Vision
+  - Information Technology
+  - Internet of Things
+  - Logistics
+  - Software
+posted_date: 2026-09-15
+url: "https://builtin.com/job/principal-ml-ai-engineer-spatial-ai-perception/11183272"
+source: Built In

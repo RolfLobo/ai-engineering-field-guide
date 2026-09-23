@@ -1,0 +1,180 @@
+job_id: 11245822
+title: Senior Data Engineer (AI/ML)
+company: OpenTable
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 1,891 Employees
+description: |
+  This role is 100% remote across India location About
+  OpenTable
+
+  With millions of diners, 70,000+ restaurant partners and 25+
+  years of experience, OpenTable, part of Booking Holdings,
+  Inc. (NASDAQ: BKNG), is an industry leader with a passion
+  for helping restaurants thrive. Our world-class technology
+  empowers restaurants to focus on what matters most – their
+  team, their guests, and their bottom line – while enabling
+  diners to discover and book the perfect restaurant for every
+  occasion.
+
+  Every employee at OpenTable has a tangible impact on what we
+  do and how we do it. You’ll also be part of a global team
+  and its portfolio of metasearch brands. Hospitality is all
+  about taking care of others, and it defines our culture.
+
+  About Role
+
+  We are looking for a Senior Data Engineer – AI/ML to help
+  build the data and AI infrastructure powering our next
+  generation of intelligent products and experiences.
+
+  This role combines modern data engineering with Generative
+  AI. You will design scalable data platforms and pipelines
+  while building production-grade solutions using LLMs, RAG,
+  embeddings, vector search, and AI agents. You will work
+  closely with data scientists, ML engineers, software
+  engineers, and product teams to turn AI capabilities into
+  reliable, scalable production systems.
+
+  What You'll Do
+
+  - Design and build AI/LLM data pipelines supporting training,
+    inference, evaluation, embeddings, and retrieval
+    workloads.
+  - Build production-grade RAG systems, including ingestion,
+    chunking, embedding generation, indexing, retrieval,
+    reranking, and context construction.
+  - Develop AI applications using LLMs, structured outputs,
+    function/tool calling, and agentic workflows.
+  - Build and optimize semantic search and vector retrieval
+    systems.
+  - Develop frameworks for LLM evaluation, monitoring, tracing,
+    quality measurement, latency, and cost optimization.
+  - Design scalable batch and streaming pipelines using
+    Databricks, Apache Spark, Delta Lake, Snowflake, and
+    Airflow.
+  - Build data products and platforms that make structured and
+    unstructured enterprise data accessible to AI
+    applications.
+  - Develop reliable ETL/ELT pipelines and optimize large-scale
+    distributed workloads for performance and cost.
+  - Establish data quality, governance, lineage, security, and
+    observability practices.
+  - Partner with ML and application engineering teams to move AI
+    prototypes into production-ready systems.
+
+  Required Qualifications
+
+  - 5+ years of experience in data engineering, software
+    engineering, distributed systems, or a related field.
+  - Strong programming skills in Python and/or Scala/Java and
+    advanced SQL.
+  - Hands-on experience with Databricks, Snowflake, Apache
+    Spark, Delta Lake, and Airflow.
+  - Strong experience with cloud data platforms such as
+    Snowflake and/or Databricks.
+  - Practical experience building applications using LLMs or
+    Generative AI.
+  - Strong understanding of RAG architectures, embeddings,
+    vector databases, semantic search, and retrieval systems.
+  - Familiarity with LLM concepts including prompting,
+    structured outputs, tool calling, and model evaluation.
+  - Experience designing scalable, reliable, and observable
+    production data systems.
+
+  Preferred Qualifications
+
+  - Deep experience designing large-scale data platforms,
+    distributed processing systems, and complex data
+    workflows.
+  - Strong experience with real-time and streaming data
+    architectures, including Kafka, Spark Structured
+    Streaming, or similar technologies.
+  - Experience building low-latency data pipelines and event-
+    driven architectures.
+  - Experience designing complex multi-stage ETL/ELT and data
+    orchestration workflows using Airflow or similar
+    platforms.
+  - Experience optimizing Spark/Databricks workloads, including
+    partitioning, clustering, caching, joins, and compute
+    optimization.
+  - Experience building data platforms supporting both batch and
+    real-time AI/ML workloads.
+  - Experience with LLM and AI evaluation frameworks, including
+    automated evaluations, offline/online evaluation, quality
+    metrics, and experimentation.
+  - Experience building evaluation datasets and pipelines for
+    measuring LLM/RAG/agent quality, accuracy, relevance,
+    latency, and cost.
+  - Experience with AI observability and tracing, including
+    token usage, model performance, latency, failures, and
+    production monitoring.
+  - Experience with LangGraph, LangChain, LlamaIndex, or similar
+    AI orchestration frameworks.
+  - Experience with vector databases such as Qdrant, Pinecone,
+    Weaviate, or Databricks Vector Search.
+  - Experience with Kafka, MLflow, Unity Catalog, Databricks
+    Mosaic AI, or model-serving platforms.
+  - Experience building data quality, lineage, governance, and
+    data/AI observability frameworks.
+  - Strong understanding of distributed systems, cloud
+    architecture, APIs, CI/CD, and production operations.
+
+  Impact
+
+  You will help build the data and AI foundation for
+  intelligent products, combining large-scale data
+  engineering, streaming systems, and modern Generative AI to
+  deliver reliable, scalable, measurable, and production-ready
+  AI systems.
+
+  Benefits
+
+  - Work from (almost) anywhere for up to 20 days per year
+  - Focus on mental health and well-being:
+  - Paid parental leave
+  - Generous paid vacation + time off for your birthday
+  - Paid volunteer time
+  - Focus on your career growth:
+  - Travel Discounts
+  - Employee Resource Groups
+  - Quarterly team offsites
+  - Tax optimisation options
+  - Generous health insurance
+  - Pension fund
+
+  Work Environment & Flexibility
+
+  At OpenTable, we pride ourselves on fostering a global and
+  dynamic work environment. As a team member with us, you will
+  benefit from a schedule tailored to accommodate a global
+  workforce operating across multiple time zones. While the
+  majority of your responsibilities may align with
+  conventional business hours, there will be instances where
+  you are expected to manage communications - via calls, Slack
+  messages, or emails - outside of regular working hours to
+  effectively collaborate with international colleagues,
+  respond to restaurant partners, and/or address urgent
+  matters. OpenTable will always abide by and consider local
+  laws and regulations.
+
+  Inclusion
+
+  We’re committed to creating a workplace where everyone feels
+  they belong and can thrive. We know the best ideas come when
+  we bring different voices to the table, so we're building a
+  team as dynamic as the diners and restaurants we serve—and
+  fostering a culture where everyone feels welcome to be
+  themselves.
+
+  If you need accommodations during the application or
+  interview process, or on the job, we’re here to support you.
+  Please reach out to your recruiter to request any
+  accommodations. #LI-Remote #LI-MK1
+industries:
+  - Food
+  - Mobile
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-data-engineer-ai-ml/11245822"
+source: Built In

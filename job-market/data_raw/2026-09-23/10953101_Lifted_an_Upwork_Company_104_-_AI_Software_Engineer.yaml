@@ -1,0 +1,124 @@
+job_id: 10953101
+title: "#104 - AI Software Engineer"
+company: Lifted, an Upwork Company
+location: Hyderabad, IND
+remote: true
+work_type: FULL_TIME
+company_size: 283 Employees
+description: |
+  Company Description
+
+  We are seeking an AI Software Engineer to design, build, and
+  scale intelligent applications, production-grade backend
+  services, agentic workflows, and integrations between AI
+  systems and external tools and platforms. This contract role
+  is suited for an engineer who can contribute quickly across
+  software development, applied AI experimentation,
+  integration work, and production support while balancing
+  performance, reliability, cost, and safety.
+
+  - Enterprise experience strongly preferred
+
+  Job Description
+
+  Key Responsibilities:
+
+  - Design, build, and enhance AI-powered applications and
+    backend services for internal or customer-facing use
+    cases.
+  - Build and maintain AI agents and agentic workflows that can
+    reason, orchestrate tasks, and integrate with external
+    tools and services.
+  - Develop MCP-based integrations and tool interfaces that
+    enable AI systems to interact securely with external
+    platforms, APIs, and business systems.
+  - Implement prompt orchestration, context handling, tool
+    calling, memory patterns, and evaluation workflows to
+    improve agent reliability.
+  - Collaborate with engineering, product, and architecture
+    teams to define scalable patterns for AI agent development
+    and deployment.
+  - Integrate LLM capabilities into software systems while
+    balancing performance, reliability, cost, and safety.
+  - Investigate system issues, improve quality and
+    observability, and optimize AI workflow efficiency in
+    production environments.
+  - Participate in code reviews, release support,
+    experimentation, and production incident resolution.
+  - Create technical documentation and contribute to best
+    practices for AI engineering, agent development, and MCP
+    adoption.
+
+  Qualifications
+
+  Must-Have Skills
+
+  - 4+ years of experience in software engineering, backend
+    engineering, or applied AI engineering.
+  - Strong programming skills in Java and/or Python.
+  - Hands-on experience building AI-powered applications or
+    integrating LLM capabilities into production systems.
+  - Experience designing or building AI agents, multi-step
+    orchestration workflows, or tool-using automation systems.
+  - Experience with MCP or similar integration patterns for
+    connecting AI systems to external tools, APIs, or
+    enterprise platforms.
+  - Strong understanding of system design, APIs, distributed
+    systems, and production software engineering fundamentals.
+  - Familiarity with prompt design, context management,
+    evaluation approaches, and reliability patterns for agent-
+    based systems.
+  - Proven ability to work effectively in fast-paced delivery
+    environments.
+  - Delivery-oriented and comfortable operating across
+    development, experimentation, and production support
+    responsibilities.
+  - Effective at collaborating with cross-functional teams under
+    tight timelines.
+  - Strong ownership mindset with practical problem-solving
+    skills.
+
+  Nice-to-Have Skills
+
+  - Experience with multi-agent systems, retrieval-augmented
+    generation, semantic search, or vector-based
+    architectures.
+  - Familiarity with cloud-native infrastructure, monitoring,
+    and observability for AI services.
+  - Experience with model evaluation, guardrails, safety
+    patterns, and prompt/version lifecycle management.
+  - Experience integrating AI solutions with enterprise
+    platforms such as Salesforce, Jira, Slack, or internal
+    developer tools.
+  - Background in workflow automation, event-driven systems, or
+    backend platforms that support AI-enabled products.
+
+  Required Tools & Platforms
+
+  - Java and/or Python.
+  - MCP or similar AI integration patterns for connecting AI
+    systems with external tools, APIs, or platforms.
+  - LLM and agent-based application environments supporting
+    prompt orchestration, context handling, tool calling,
+    memory, and evaluation.
+  - APIs and production backend or distributed systems.
+
+  Location, Time & Engagement
+
+  - Remote contract engagement.
+  - 100% allocation, approximately 40 hours per week.
+  - Candidates must be based in APAC or LATAM.
+  - Candidates must be able to provide working-hours overlap
+    with U.S. Central Time.
+  - APAC candidates should also be able to provide some overlap
+    with India Standard Time, with availability preferably
+    extending through 11:00 a.m. U.S. Central Time.
+  - Current engagement end date: March 31, 2027.
+industries:
+  - Enterprise Web
+  - HR Tech
+  - Professional Services
+  - Software
+posted_date: 2026-09-01
+url: "https://builtin.com/job/104-ai-software-engineer/10953101"
+source: Built In

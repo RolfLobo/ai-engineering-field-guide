@@ -1,0 +1,48 @@
+company:
+  name: Greenboard, Inc.
+  stage: null
+  focus: AI-native compliance operating system for financial firms
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns how to evaluate and test AI-driven detection
+      and review systems, including golden datasets and quality
+      bars for non-deterministic output — this is shaping model
+      output quality (LLM evaluation), so ai-first. The bulk is QA
+      engineering, but the AI evaluation responsibility is
+      explicit.
+  responsibilities:
+  - Build the test framework, automated regression suites, and QA practices from zero
+  - 'Own testing of critical compliance paths: message archiving, marketing review
+    routing, attestations, and audit trails'
+  - Evaluate AI-driven detection and review, including golden datasets and quality
+    bars for non-deterministic output
+  - Validate data integrity end-to-end from ingestion of tens of millions of messages
+    daily to the compliance officer UI
+  - Own bug triage, release sign-off, and the definition of deployment-ready
+  use_cases:
+  - Evaluating AI-driven compliance detection and review systems
+  - Message archiving and supervision for regulated financial institutions
+  - Marketing review routing and approval workflows
+  - Employee attestation delivery and audit trails
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, Playwright, Cypress, Node.js, React]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [SOC 2]
+    languages: [SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11122224'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:19:13.526593'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

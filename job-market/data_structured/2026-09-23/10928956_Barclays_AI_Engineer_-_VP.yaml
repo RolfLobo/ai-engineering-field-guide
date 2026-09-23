@@ -1,0 +1,55 @@
+company:
+  name: Barclays
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: AI Engineer - VP
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "AI Engineer" title, the responsibilities are
+      about designing and operating real-time streaming and data
+      platforms (Kafka, Flink, Kinesis) with no LLM, prompt,
+      retrieval, or model shaping work described. The role builds
+      data infrastructure that other systems consume, which is ai-
+      support.
+  responsibilities:
+  - Lead and manage engineering teams delivering real-time data and streaming platform
+    capabilities
+  - Oversee timelines, team allocation, risk management, and task prioritization for
+    solution delivery
+  - Mentor engineers, conduct performance reviews, and support professional growth
+  - Design and evolve enterprise-grade, low-latency, resilient streaming and real-time
+    data platforms in production
+  - Make hands-on technical contributions to solution design and implementation of
+    business-critical systems
+  - Enforce technology standards, peer reviews, and robust testing practices
+  - Collaborate with business partners, product managers, and stakeholders to translate
+    business requirements into technical solutions
+  - Advise senior leadership on functional and cross-functional areas of impact and
+    manage operational risks
+  use_cases:
+  - Enterprise real-time data streaming platforms supporting critical business, regulatory,
+    and client outcomes
+  - Low-latency, resilient event-driven systems at production scale in financial services
+  - Reliable data delivery with observability, recovery, and fault tolerance for regulated
+    environments
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Kafka, Pulsar, Kinesis, Flink, Spark Structured Streaming, Databricks]
+    cloud: []
+    ops: [Distributed Systems, CI/CD]
+    languages: [Java]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10928956'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:07:12.657931'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

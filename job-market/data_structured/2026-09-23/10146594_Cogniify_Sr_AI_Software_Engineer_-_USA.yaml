@@ -1,0 +1,59 @@
+company:
+  name: Cogniify
+  stage: null
+  focus: Enterprise AI consulting and AI transformation solutions
+position:
+  title: Sr. AI Software Engineer  - USA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who personally designs and builds
+      RAG pipelines, agentic workflows, and LLM-powered
+      applications for clients, directly shaping model behaviour.
+      Per the edge cases, forward-deployed AI solution work is ai-
+      first.
+  responsibilities:
+  - Own client AI transformation engagements end to end, from executive discovery
+    through solution design, build, and delivery
+  - Lead discovery sessions with client CXOs, engineering leaders, and investor-level
+    stakeholders to frame AI opportunities
+  - Assess client systems, data landscape, AI maturity, and constraints to scope technical
+    solutions
+  - Architect and build client-specific Proofs of Acceleration including data pipelines,
+    integrations, and AI/LLM applications within 2-3 week cycles
+  - Design and implement AI/ML features such as RAG pipelines, LLM-based workflows,
+    document processing, search/retrieval, and agentic AI
+  - 'Integrate enterprise data sources: relational databases, warehouses, REST/GraphQL
+    APIs, event streams, SaaS platforms, and unstructured data'
+  - Deploy solutions on client cloud infrastructure ensuring security and scalability
+  - Present and defend solution designs to technical and executive audiences and drive
+    PoAs into full-scale engagements
+  - Mentor junior FDEs and contribute reusable frameworks and playbooks
+  use_cases:
+  - Client-specific AI transformation proofs of concept for enterprises
+  - RAG pipelines and document processing
+  - LLM-based workflows and agentic or conversational AI
+  - Search and retrieval systems over enterprise data
+  - Integration of enterprise data sources with AI applications
+  skills:
+    genai: [RAG, LLMs, Embeddings, Vector Databases, Agentic Workflows, LangChain,
+      LlamaIndex, MCP, Conversational AI, Generative AI]
+    ml: []
+    web: [REST APIs, GraphQL, React, Next.js, APIs]
+    databases: [Snowflake, BigQuery, Redshift, Relational Databases, Data Warehouses]
+    data: [Data Pipelines, Databricks, dbt, Airflow, Dagster, Prefect]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Terraform]
+    languages: [Python, SQL]
+    domains: []
+    other: [Salesforce, Workday, SAP, Retool, Appsmith, Great Expectations, Monte
+        Carlo, Soda]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10146594'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T10:58:26.853161'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

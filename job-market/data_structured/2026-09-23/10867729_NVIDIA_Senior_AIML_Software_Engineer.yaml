@@ -1,0 +1,55 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU and accelerated computing hardware and software
+position:
+  title: Senior AI/ML Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys agentic AI applications using
+      LLMs, RAG, and orchestration frameworks, and improves output
+      quality via prompt engineering and evaluation - directly
+      shaping model behaviour. LLM/agent components dominate, so
+      it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy Agentic AI applications using LLMs, RAG, and AI orchestration
+    frameworks
+  - Build scalable AI services and reusable components integrated with enterprise
+    applications such as PLM and SAP
+  - Collaborate with business and IT teams to translate business requirements into
+    AI-driven solutions
+  - Develop secure, scalable APIs and enterprise integrations for intelligent workflows
+    and automation
+  - Improve AI solution quality, performance, and reliability through prompt engineering,
+    evaluation, and continuous optimization
+  - Partner with cross-functional teams throughout the SDLC from design through deployment
+    and production support
+  use_cases:
+  - Enterprise AI copilots and intelligent assistants
+  - Business workflow automation across Engineering, Operations, and Manufacturing
+  - AI-driven automation integrated with enterprise systems like PLM and SAP
+  - Intelligent enterprise workflows via agentic AI with retrieval
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Generative AI, AI Agents, Prompt Engineering,
+      MCP, LangChain, LangGraph, Semantic Kernel, Azure OpenAI, Embeddings]
+    ml: []
+    web: [REST APIs, APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure, Azure AI Foundry]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [PLM, SAP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10867729'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:04:10.940360'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

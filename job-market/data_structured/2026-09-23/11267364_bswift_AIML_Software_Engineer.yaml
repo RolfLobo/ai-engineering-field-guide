@@ -1,0 +1,51 @@
+company:
+  name: bswift
+  stage: null
+  focus: Cloud-based benefits administration technology and services
+position:
+  title: AI/ML Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic workflows, RAG, prompt engineering,
+      tool/function calling, and LLM-powered chat systems,
+      directly shaping LLM behavior. Mentoring juniors is
+      technical leadership, not people management.
+  responsibilities:
+  - Lead design and development of scalable, secure, high-performance generative AI
+    applications
+  - Build agentic workflows and LLM-powered chat interfaces for employee benefits
+    guidance
+  - Implement prompt engineering, RAG, function calling, memory management, and agent
+    orchestration
+  - Architect backend systems and integrate with frontend and third-party services
+  - Deploy applications on AWS and implement observability, logging, and SLOs/SLAs
+  - Build and maintain CI/CD pipelines using Infrastructure-as-Code
+  - Take end-to-end ownership of features from prototype through production and operations
+  - Mentor junior engineers and participate in hiring and technical interviews
+  use_cases:
+  - Employee benefits guidance chatbot
+  - Agentic workflows for autonomous multi-step benefits tasks
+  - Personalized benefits automation
+  - Intelligent conversational interfaces for benefits administration
+  skills:
+    genai: [Agentic Workflows, Prompt Engineering, RAG, Function Calling, LangChain,
+      LlamaIndex, AutoGen, AWS Bedrock, LLMs, Memory Management, Generative AI]
+    ml: [OOP]
+    web: [REST APIs, Microservices, Event-Driven Architecture]
+    databases: [NoSQL]
+    data: []
+    cloud: [AWS, AWS Lambda, AWS S3, DynamoDB, API Gateway, SQS, EventBridge, CloudFront,
+      AWS CodePipeline]
+    ops: [CI/CD, GitHub Actions, Jenkins, Infrastructure as Code, Monitoring, Observability]
+    languages: [Python, TypeScript, Java, C#, Node.js, SQL]
+    domains: []
+    other: [Jira, GitHub, SonarQube, Agile, Distributed Systems, Design Patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11267364'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:33:25.183529'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

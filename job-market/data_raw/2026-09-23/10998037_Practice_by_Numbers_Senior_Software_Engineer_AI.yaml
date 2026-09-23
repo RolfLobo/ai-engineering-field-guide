@@ -1,0 +1,176 @@
+job_id: 10998037
+title: Senior Software Engineer, AI
+company: Practice by Numbers
+location: Gurugram, IND
+work_type: FULL_TIME
+company_size: 87 Employees
+description: |
+  Senior Software Engineer, AI
+
+  Practice by Numbers (PBN) | Gurugram, India Scope: AI /
+  Conversational Products & Backend Services
+
+  About Practice by Numbers
+
+  Practice by Numbers is a dental practice management SaaS
+  platform serving over 1,500 practices across North America —
+  practice management software, VOIP, payment processing, and
+  analytics. We're now expanding into AI-powered automation,
+  building conversational AI products that change how
+  practices interact with their patients.
+
+  About the Role
+
+  We’re looking for a Senior Software Engineer with strong,
+  hands-on experience in both backend product engineering and
+  modern AI systems. The ideal candidate can design and build
+  reliable, production-grade services while also developing,
+  integrating, and deploying AI-powered capabilities. As this
+  is a single opening on a small team, we need someone who can
+  take end-to-end ownership across both areas and contribute
+  independently throughout the product development lifecycle.
+
+  You'll work on our AI Receptionist — a multi-channel
+  conversational AI (voice, SMS, web chat) for dental
+  practices — and the backend services, APIs, and integrations
+  behind it. Hands-on IC role: you own features end to end,
+  including their production behaviour. Real patient-facing
+  traffic under HIPAA constraints, where correctness and
+  latency both matter.
+
+  Reports to: Lead Engineer — AI Location: Gurugram, India —
+  this role is open in Gurugram only Work Mode: In-office
+  Working Hours: Primarily IST (10 AM – 5 PM), with some
+  evening overlap with US teams (until 9–11 PM IST) as needed
+
+  What You'll Do
+
+  Backend
+
+  - Build and maintain backend services and RESTful APIs in
+    Python (FastAPI / Django)
+  - Design schemas and write efficient PostgreSQL queries; use
+    Redis for caching and session state
+  - Work with async and event-driven patterns — queues,
+    webhooks, WebSockets, background workers
+  - Own the operational side: logging, metrics, alerting,
+    debugging production issues
+  - Write unit and integration tests for the business logic you
+    ship
+
+  AI & LLM
+
+  - Own the conversation layer for real-time voice — turn-
+    taking, barge-in, and recovery when the agent talks over a
+    caller or stalls mid-turn
+  - Debug non-deterministic failures in production: fabricated
+    confirmations, invented practice policies, dropped context
+    across turns
+  - Own patient identity resolution over the phone — misheard
+    and misspelled names, shared phone numbers, multi-
+    algorithm phonetic matching
+  - Version prompts and tool schemas like code: canary changes,
+    measure impact, roll back regressions
+  - Own the eval and regression suite — golden conversation
+    sets, replay of production calls, CI gating on prompt and
+    model changes
+  - Design guardrails for patient-facing interactions: no
+    medical advice, no unverified data disclosure, tool-call
+    authorization, PHI excluded from logs and traces,
+    escalation to a human when the agent should stop
+  - Own the model and voice vendor abstraction so a provider
+    change is configuration, not a rewrite
+  - Keep voice, SMS, and web chat consistent — shared state and
+    knowledge base, channel- appropriate behaviour
+
+  Integrations & Data
+
+  - Integrate with practice management systems (Dentrix, Open
+    Dental, Eaglesoft) and internal PBN APIs
+  - Implement secure auth flows, including OTP-based patient
+    verification
+  - Define SLOs for conversation success and turn latency; own
+    incident response and postmortems for this surface
+
+  Collaboration
+
+  - Work with Product Management to turn requirements into
+    working software, surfacing edge cases early
+  - Participate in sprint planning, standups, code reviews, and
+    product reviews
+  - Document what you build; collaborate across time zones with
+    US-based stakeholders
+
+  Required Qualifications
+
+  Experience
+
+  - 4+ years of professional software development experience
+  - Hands-on experience building backend services and APIs that
+    ran in production
+  - Practical experience with LLM-based applications (GPT-4/4o,
+    Claude, or similar) — prompt design, tool calling,
+    handling model output in real systems. Substantial
+    personal or open-source work counts; tutorial-level does
+    not.
+  - Experience debugging and improving a system after it shipped
+
+  Technical Skills
+
+  - Strong Python — our primary language across AI and backend
+  - APIs: RESTful services, webhooks, third-party integrations;
+    FastAPI or Django preferred
+  - Databases: PostgreSQL — schema design, indexing, query
+    performance; Redis or similar
+  - Async Python (asyncio) and event-driven architectures
+  - Cloud: working knowledge of AWS (or GCP/Azure) — compute,
+    storage, managed DBs, queues
+  - Version control, code review, and CI/CD as normal parts of
+    your workflow
+
+  AI Domain Understanding
+
+  - Shipped an LLM system to real users and debugged it in
+    production; can describe a failure mode you found and
+    fixed
+  - Specific view of what current models are unreliable at, and
+    how that shapes what runs unsupervised versus behind a
+    tool call or human review
+  - Multi-turn conversation design — state that survives
+    interruptions, topic switches, and mid-call corrections
+  - Experience measuring LLM systems: offline evals, judge model
+    calibration, or production quality metrics
+  - Working knowledge of token cost and latency trade-offs,
+    including where streaming helps and where it adds
+    complexity
+
+  Soft Skills
+
+  - Frame the problem, not just solve it; write down
+    architectural decisions and the tradeoffs you rejected
+  - Clear communication with technical and non-technical
+    stakeholders
+  - Able to drive your own work to completion without close
+    supervision
+  - Comfortable with a fast pace and evolving requirements
+  - Willing to work in-office in Gurugram and overlap with US
+    hours when needed
+
+  Preferred Experience & Skills
+
+  - Conversational AI — chatbots, voice assistants, or IVR
+  - Voice/telephony (Twilio, Vonage) or STT/TTS APIs (Deepgram,
+    ElevenLabs, AssemblyAI)
+  - LLM orchestration frameworks (LangChain, LlamaIndex) — or a
+    considered view on skippingthem
+  - Healthcare / HIPAA compliance knowledge
+  - SaaS or B2B product company background; multi-tenant
+    architecture
+industries:
+  - Healthtech
+  - Software
+  - Analytics
+  - Business Intelligence
+posted_date: 2026-09-03
+url: "https://builtin.com/job/senior-software-engineer-ai/10998037"
+source: Built In

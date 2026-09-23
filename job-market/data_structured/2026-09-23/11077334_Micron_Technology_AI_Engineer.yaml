@@ -1,0 +1,59 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage (DRAM, NAND) semiconductor solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes both classical deep learning models (CNNs,
+      ViTs, speech, time-series) and agentic AI/LLM components
+      (reasoning, planning, orchestration, foundation models,
+      Bedrock). Roles spanning LLM and classical ML are classified
+      ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI and machine learning solutions at scale
+  - Build and optimize deep learning models for computer vision, speech recognition,
+    signal analytics, and intelligent automation
+  - Develop and evaluate neural network architectures including CNNs, Transformers,
+    ViTs, Whisper-based ASR, and foundation models
+  - Contribute to agentic AI solutions leveraging reasoning, planning, orchestration,
+    and autonomous task execution
+  - Design speech-to-text systems, voice analytics pipelines, and audio AI capabilities
+  - Build signal processing and time-series analytics pipelines for sensor and industrial
+    telemetry at the edge
+  - Deploy AI models to edge devices and embedded systems (NVIDIA Jetson, Raspberry
+    Pi, ARM)
+  - Design AWS-based AI architectures with SageMaker, Bedrock, Lambda, Step Functions,
+    IoT Core, and Greengrass
+  - Maintain AI model lifecycle management, MLOps, and CI/CD pipelines
+  - Participate in AI security assessments, model evaluation, adversarial robustness
+    testing, and responsible AI practices
+  use_cases:
+  - Computer vision for industrial use cases
+  - Speech recognition and speech-to-text systems
+  - Voice analytics and audio AI
+  - Signal processing and time-series analytics for sensor data and industrial telemetry
+  - Edge inference on embedded devices
+  - Intelligent automation and autonomous task execution
+  skills:
+    genai: [AI Agents, Agentic Workflows, AWS Bedrock]
+    ml: [Machine Learning, Deep Learning, Neural Networks, CNNs, Transformers, Whisper,
+      Model Evaluation, Fine-Tuning, Model Deployment]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, SageMaker, AWS Lambda, IoT Core]
+    ops: [MLOps, CI/CD]
+    languages: []
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11077334'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:18:00.904282'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

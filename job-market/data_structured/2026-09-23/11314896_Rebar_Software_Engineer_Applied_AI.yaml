@@ -1,0 +1,53 @@
+company:
+  name: Rebar
+  stage: Series A
+  focus: |-
+    AI-powered software platform for commercial HVAC,
+    electrical, and plumbing quoting
+position:
+  title: Software Engineer, Applied AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineer who translates outputs of in-
+      house CV detection models and frontier VLMs into canvas
+      geometry, data contracts, and user correction loops. There
+      is no evidence they shape model behavior themselves — no
+      prompt design, retrieval, training, or eval/guardrail
+      building; the deliverable is product integration and
+      plumbing of model outputs. The "human in the loop" work is
+      nice-to-have, not a stated responsibility, so the role
+      defaults to ai-support.
+  responsibilities:
+  - Design the perception-to-product data contract between ML models and frontend
+  - Ship AI-generated geometry into the product canvas
+  - Own the tradeoff between model accuracy and user experience
+  - Build and close the loop for user corrections of model output
+  - Act as translation layer between AI/ML team and product engineers
+  - Read and debug PyTorch postprocessing paths and model architectures to spot inefficiencies
+    in downstream translation
+  use_cases:
+  - Turning computer vision model outputs (e.g., segmentation masks) into editable
+    canvas geometry like polygons, polylines, and connection ports
+  - AI-native quoting platform for commercial HVAC, electrical, and plumbing trades
+  - Human-in-the-loop correction of AI-generated construction drawings
+  - Processing construction drawings as the source of truth for estimating and billing
+  skills:
+    genai: []
+    ml: [PyTorch, Machine Learning, Active Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: [Computer Vision]
+    other: [CAD, GIS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11314896'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:36:32.135333'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

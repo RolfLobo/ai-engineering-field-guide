@@ -1,0 +1,59 @@
+company:
+  name: World Wide Technology
+  stage: null
+  focus: |-
+    Global technology solutions and integrator (AI, cloud,
+    cybersecurity, infrastructure)
+position:
+  title: Developer – AI Native Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role evaluates, adopts, and operationalizes AI-native
+      development tools and delivers AI training/enablement across
+      the enterprise. It does not shape model behavior through
+      prompts, retrieval, agents, or training; the deliverable is
+      developer workflow and adoption, matching the AI-tooling
+      rollout edge case.
+  responsibilities:
+  - Deliver hands-on AI training initiatives across the IT organization, including
+    documentation, demos, and short-form videos
+  - Research, evaluate, and prototype emerging AI-native engineering tools and platforms,
+    producing comparative analyses and recommendations
+  - Partner with engineering teams to integrate approved AI tools into workflows and
+    operationalize them
+  - Define and optimize AI-augmented engineering workflows, delivery patterns, and
+    automation strategies
+  - Develop documentation, tutorials, and enablement materials codifying AI-native
+    engineering best practices
+  - Lead design and development of proofs of concept, reference architectures, and
+    reusable frameworks
+  - Host office hours, troubleshoot adoption issues, and gather feedback to inform
+    standards and tooling strategy
+  - Present status updates on training initiatives and outcomes to senior leadership
+    including C-suite
+  use_cases:
+  - Enterprise AI tool adoption and evaluation
+  - AI training and developer enablement across IT
+  - AI-augmented engineering workflow and process optimization
+  - Proofs of concept and reference architectures for AI-native engineering
+  skills:
+    genai: []
+    ml: []
+    web: [Vue]
+    databases: [SQL, NoSQL, PostgreSQL, MongoDB]
+    data: []
+    cloud: [Cloud-Native Architectures]
+    ops: [DevOps, CI/CD]
+    languages: [JavaScript, Node.js]
+    domains: []
+    other: [Automated Testing, Technical Documentation, Training Material Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10973117'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:09:47.292868'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

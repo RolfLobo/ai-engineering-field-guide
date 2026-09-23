@@ -1,0 +1,183 @@
+job_id: 11294845
+title: "Senior Software Developer - Full Stack & AI Product Engineering"
+company: Kraftshala School of Business
+location: New Delhi, IND
+work_type: FULL_TIME
+company_size: 40 Employees
+description: |
+  The Short Version
+
+  Who we're looking for: A strong full-stack engineer who
+  deeply knows their stack and can also build AI products end-
+  to-end. You write clean, performant Node.js and TypeScript,
+  model data well in SQL, build fast search with
+  Elasticsearch, work comfortably on AWS, and ship polished
+  React and Gatsby frontends. You're backend-heavy and
+  genuinely hands-on, but comfortable across the full stack.
+  You can take an AI product from idea to production using
+  LLMs, AI agents, APIs, and production-grade infrastructure,
+  and you take real ownership of what you build.
+
+  What the role is about: You'll design and build the systems
+  behind our web experience - APIs, data models, search,
+  infrastructure, and AI-powered products and workflows.
+  You'll work across the full product lifecycle, from
+  architecture and development to deployment and iteration.
+  Strong engineering craft, AI product-building ability, and
+  product sense are all core to this role.
+
+  Why you should apply: If you love building solid systems and
+  turning AI capabilities into real products, this role gives
+  you deep technical ownership and the opportunity to work on
+  products that directly impact thousands of learners. You'll
+  get to work across traditional software engineering and
+  hands-on AI product development, with the freedom to build,
+  ship, and iterate rather than simply consume AI tools.
+
+  About us: Kraftshala is India's largest higher-education
+  institution in terms of marketing placements, with a 94%
+  placement rate, and we are gunning to become the world's
+  largest career launchpad, across domains.
+
+  We're backed by a number of eminent investors including ex-
+  unicorn startup founders and CXOs of global giants like
+  RedBus, NoBroker, Nestlé, and Performics.
+
+  The Detailed Version
+
+  As a Senior Software Developer (Backend-Heavy & AI Product
+  Engineering) at Kraftshala, you'll work closely with
+  product, design, and other engineers to build fast,
+  reliable, scalable web applications and AI-powered products.
+
+  This role suits someone with strong engineering fundamentals
+  and depth in their tools, combined with hands-on AI product-
+  building ability, product thinking, attention to detail, and
+  the ability to take ownership in a fast-moving startup.
+
+  Responsibilities & Metrics
+
+  - Build and ship backend services and APIs: Design and build
+    scalable backend systems in Node.js and TypeScript.
+    Metrics to measure: API performance, reliability, delivery
+    timelines, and post-release defects.
+  - Build AI-powered products end-to-end: Build production-ready
+    AI products using LLMs, AI agents, APIs, and external
+    systems - from architecture and implementation through
+    production deployment and iteration. Metrics to measure:
+    time to production, reliability, adoption, task
+    completion, latency, and cost efficiency.
+  - Build and optimise data and search systems: Design
+    performant SQL data models and Elasticsearch-powered
+    search and discovery experiences. Metrics to measure:
+    query/search performance, data integrity, relevance, and
+    indexing reliability.
+  - Own cloud infrastructure and deployment: Deploy, scale,
+    monitor, and optimise backend and AI systems on AWS.
+    Metrics to measure: uptime, incident frequency/recovery,
+    deployment reliability, and infrastructure/AI costs.
+  - Build user-facing product experiences: Develop polished
+    React/Gatsby experiences on top of the systems you own.
+    Metrics to measure: feature adoption, page performance,
+    and post-release defects.
+  - Own technical architecture and projects end-to-end: Make
+    sound frontend, backend, and AI architecture decisions and
+    independently take projects from problem definition
+    through production. Metrics to measure: on-time delivery,
+    system reliability and scalability, technical debt, and
+    production performance.
+
+  Top Grading
+
+  - Problem Solving: An A-player breaks complex engineering and
+    AI problems into elegant solutions independently, whereas
+    a B-player needs frequent direction.
+  - Code Quality & Craft: An A-player consistently writes clean,
+    well-tested, maintainable code and builds reliable
+    production systems, whereas a B-player prioritises getting
+    something working over long-term quality.
+  - Ownership & Accountability: An A-player takes full ownership
+    of product outcomes from idea to production - including
+    what happens after deployment - whereas a B-player limits
+    responsibility to assigned tickets.
+  - AI Product Engineering: An A-player can independently turn
+    an AI product idea into a reliable production system using
+    LLMs, agents, APIs, and application engineering, whereas a
+    B-player has primarily experimented with AI tools without
+    being able to build complete products.
+  - Product Thinking: An A-player deeply understands user needs
+    and identifies where technology can genuinely improve the
+    product, whereas a B-player implements requirements
+    without enough consideration of the underlying user
+    problem.
+
+  Must Haves
+
+  - 2-3 years of experience building web applications with
+    Node.js and TypeScript on the backend, and React on the
+    frontend. (We are not too fussed about the number of years
+    - experience is simply a proxy for capability, which is
+    what we really care about.)
+  - Hands-on experience building AI products end-to-end using
+    LLMs, AI agents, and APIs, from problem definition and
+    architecture through implementation, production
+    deployment, and iteration.
+  - Strong proficiency in JavaScript/TypeScript fundamentals,
+    including ES6+ features, asynchronous programming, and
+    modular architecture.
+  - Solid experience designing and consuming RESTful APIs, and
+    building backend services that are efficient, secure,
+    well-documented, and clean.
+  - Strong command of SQL and relational database concepts -
+    schema design, indexing, and writing performant queries.
+  - Hands-on experience with Elasticsearch for indexing,
+    querying, and relevance tuning.
+  - Working knowledge of AWS for deploying, scaling, and
+    monitoring services.
+  - Experience building frontends in React, with familiarity
+    with Gatsby, and an eye for product polish and detail.
+
+  Good to Haves
+
+  - Familiarity with GraphQL alongside REST.
+  - Experience with infrastructure-as-code and CI/CD pipelines
+    on AWS.
+  - Exposure to caching, queuing, or event-driven architectures.
+  - Familiarity with Netlify, WordPress, or other JAMstack
+    tooling.
+  - Contributions to the open-source ecosystem.
+  - Comfort with observability tooling such as logging, metrics,
+    and tracing.
+
+  Selection Process
+
+  As a small team, it's imperative that we get to know each
+  other before taking the leap. We want to ensure you succeed
+  in your role within our team. Each conversation with us will
+  last about 40-60 minutes. The process will occur over a mix
+  of online calls and in-person conversations.
+
+  - Setting Expectations: A call with the HR team to understand
+    your profile and share the details of the selection
+    process.
+  - Technical Assessment: An assessment designed to evaluate
+    your fit for the role, with a focus on backend problem-
+    solving and hands-on AI product building.
+  - Technical Interview: A conversation with our Tech Lead
+    covering the core competencies needed for the role,
+    including backend engineering, system design, product
+    thinking, and AI product development.
+  - Culture Fit Conversation: A conversation with our CEO to
+    ensure there is a fit with the Kraftshala Kode.
+  - Extending an Offer: If all goes well, we'll extend an offer
+    with the relevant details.
+
+  Location
+
+  Delhi
+
+  Know more about Kraftshala’s philosophy, culture, and
+  investors here.
+posted_date: 2026-09-22
+url: "https://builtin.com/job/senior-software-developer-full-stack-ai-product-engineering/11294845"
+source: Built In

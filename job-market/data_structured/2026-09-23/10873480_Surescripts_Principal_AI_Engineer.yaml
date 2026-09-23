@@ -1,0 +1,55 @@
+company:
+  name: Surescripts
+  stage: null
+  focus: |-
+    Health intelligence sharing network for medication and
+    patient data
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and builds generative AI, RAG, and
+      agentic AI solutions with guardrails, evals, and monitoring
+      — directly shaping model behavior. LLM/agent components are
+      present, so it is ai-first.
+  responsibilities:
+  - Own technical design and delivery timelines for enterprise AI initiatives as solution
+    architect and principal engineer
+  - Architect and build scalable AI solutions including generative AI, RAG, agentic
+    AI, and predictive models, and deploy them to production
+  - Partner with product, engineering, design, and business stakeholders on technical
+    feasibility, effort, and performance trade-offs
+  - Evaluate new AI technologies and vendors for architectural fit and integration
+  - Prototype and validate advanced AI approaches to de-risk initiatives
+  - Set AI engineering standards covering model integration, data architecture, LLMOps,
+    and AgentOps
+  - 'Lead enterprise AI Trust & Safety practices: guardrails, automated evals in CI/CD,
+    monitoring, drift detection, and incident response'
+  - Mentor engineers and run architecture and design reviews across teams
+  use_cases:
+  - Prior authorization streamlining
+  - Comprehensive medication histories
+  - Provider-to-provider messaging
+  - Healthcare customer-facing AI products
+  - Internal operational AI for staff
+  skills:
+    genai: [Generative AI, RAG, AI Agents, Guardrails, LLM Evaluation]
+    ml: [Machine Learning]
+    web: [APIs, Microservices]
+    databases: []
+    data: [Data Engineering, Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [LLMOps, CI/CD, MLOps, Distributed Systems]
+    languages: []
+    domains: []
+    other: [Event-Driven Architecture, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10873480'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:04:28.195163'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

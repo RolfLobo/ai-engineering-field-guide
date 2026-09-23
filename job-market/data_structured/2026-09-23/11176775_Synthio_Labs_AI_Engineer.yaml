@@ -1,0 +1,53 @@
+company:
+  name: Synthio Labs
+  stage: seed
+  focus: Conversational voice/video AI for life sciences
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production LLM systems: prompting, context
+      engineering, retrieval, orchestration, agents, and
+      evaluations, directly shaping model behavior. The primary
+      deliverable is LLM pipelines, making it ai-first even though
+      real-time voice systems are mentioned.
+  responsibilities:
+  - Build production AI systems using frontier models, retrieval, tool use, agents,
+    and structured workflows
+  - Design and productionize LLM pipelines including prompting, context engineering,
+    retrieval, orchestration, and evaluations
+  - Build backend services, APIs, data flows, and integrations that power AI products
+  - Work on real-time voice and multimodal AI systems
+  - Design evaluation suites to identify failures, regressions, and model behavior
+    improvements
+  - Experiment with new models and techniques and determine production usefulness
+  - Debug problems across models, application code, data, and infrastructure
+  - Communicate technical decisions, tradeoffs, results, and failures clearly
+  use_cases:
+  - Conversational voice and video AI for life sciences
+  - AI medical experts helping pharma teams engage doctors
+  - Patient support via compliant conversational AI
+  - Real-time voice and multimodal AI interactions
+  - Insights extraction for pharma teams
+  skills:
+    genai: [LLMs, Prompt Engineering, Context Engineering, RAG, Embeddings, Function
+        Calling, AI Agents, LLM Evaluation, Agentic Workflows]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11176775'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:23:45.329450'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

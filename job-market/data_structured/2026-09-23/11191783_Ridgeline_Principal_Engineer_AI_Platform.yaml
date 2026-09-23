@@ -1,0 +1,55 @@
+company:
+  name: Ridgeline
+  stage: null
+  focus: Investment management software platform
+position:
+  title: Principal Engineer, AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects agentic AI systems, designs agent loops,
+      tool calling, MCP, RAG, and model evaluation standards,
+      directly shaping model behavior and output quality.
+      LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Define and drive technical strategy and architecture for the AI platform and shared
+    AI capabilities
+  - Lead technical decisions enabling teams to use AI platform capabilities scalably,
+    securely, and responsibly
+  - Resolve systemic technical obstacles limiting availability, usability, and extensibility
+    of the AI platform
+  - Establish engineering standards including reliability and evaluation standards
+    for AI models in production
+  - Architect RAG-based integrations with third-party data stores
+  - Build token-efficient AI systems such as model routing and code execution
+  - Propose and evaluate new AI features and align teams on technical approaches
+  use_cases:
+  - Autonomous tool-using AI agents embedded in an investment management product
+  - Retrieval-augmented access to external and third-party data stores
+  - Token-efficient AI usage via model routing and code execution
+  - Platform-wide AI capabilities adopted across engineering teams
+  skills:
+    genai: [Agentic Workflows, Structured Outputs, Function Calling, MCP, RAG, Anthropic
+        API, OpenAI API, LLM Evaluation, Multi-Agent Systems, AI Agents]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Kotlin, TypeScript]
+    domains: []
+    other: [Full-Stack Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11191783'
+  location: Reno, USA
+  locations:
+  - Reno, USA
+  - New York, USA
+  - San Ramon, USA
+  remote: true
+  extracted_at: '2026-09-23T11:24:29.885913'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

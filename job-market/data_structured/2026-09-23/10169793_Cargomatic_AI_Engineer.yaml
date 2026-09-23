@@ -1,0 +1,51 @@
+company:
+  name: Cargomatic
+  stage: null
+  focus: Technology platform and marketplace for local trucking
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role designs agentic AI workflows, builds agents with tool
+      use/function calling, writes prompts, and owns evaluation
+      frameworks and guardrails for LLM systems. Clear LLM/agent
+      shaping work.
+  responsibilities:
+  - Design agentic AI workflows for structured logistics operations with escalation
+    paths to human review or RPA
+  - Integrate LLMs, APIs, and data pipelines into reliable production services tied
+    to TMS and internal systems
+  - Build agentic AI systems capable of autonomous decision-making and task execution
+  - Own evaluation frameworks covering accuracy, latency, cost per call, fallback
+    behavior, and exception handling
+  - Implement guardrails, monitoring, and audit trails for production AI systems
+  - Collaborate with Product and Ops to define success metrics before building
+  - Build lightweight frontend interfaces from prototypes and partner with full-stack
+    engineering to productionize
+  use_cases:
+  - Agentic automation of logistics and trucking operations
+  - Automated exception handling and escalation in a live TMS
+  - Integration of AI agents with RPA workflows for deterministic tasks
+  - Audit-compliant production AI services for supply chain operations
+  skills:
+    genai: [AI Agents, Agentic Workflows, Function Calling, Prompt Engineering, Anthropic
+        API, OpenAI API, LLM Evaluation, Guardrails, RAG, LangChain, LLMs]
+    ml: []
+    web: [Node.js, React, APIs, Microservices]
+    databases: [Vector Databases, MongoDB, PostgreSQL, MySQL, Firestore, Redshift]
+    data: [Data Pipelines]
+    cloud: [AWS, AWS Lambda, ECS, AWS S3]
+    ops: [RPA]
+    languages: []
+    domains: []
+    other: [Temporal, n8n, Zapier, GitHub, TMS, ERP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10169793'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T10:58:53.590861'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

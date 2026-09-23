@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role trains, fine-tunes, and aligns LLMs (RLHF, SFT,
+      LoRA), designs GraphRAG retrieval and embedding systems, and
+      does prompt optimization — all direct shaping of LLM
+      behaviour, so it is ai-first.
+  responsibilities:
+  - Train and fine-tune LLMs across open-source and closed-source ecosystems end to
+    end
+  - Architect and implement GraphRAG pipelines with knowledge graph representation
+    and retrieval
+  - Design, train, and optimize semantic and dense vector embeddings for document
+    understanding and search
+  - Develop semantic retrieval systems with advanced document segmentation and indexing
+  - Build and scale distributed multi-GPU/multi-node training environments using NCCL
+    and InfiniBand
+  - Apply reinforcement learning techniques (RLHF, RLAIF) to align model behavior
+    with human preferences
+  - Collaborate with cross-functional teams to deploy AI-driven solutions in production
+  use_cases:
+  - Document understanding, search, and retrieval for healthcare data
+  - Contextually grounded question answering via GraphRAG and knowledge graphs
+  - Alignment of LLM behavior with domain-specific healthcare goals via RLHF/RLAIF
+  - Semantic search over large document collections
+  skills:
+    databases: [Knowledge Graphs, FAISS, Weaviate, Milvus, Vector Search]
+    domains: [NLP]
+    data: [Exploratory Data Analysis]
+    web: []
+    ml: [Model Training, NCCL, RLHF, PyTorch, Deep Learning, Machine Learning, Transformers,
+      LoRA, Reinforcement Learning, Ensemble Methods, Bayesian Optimization, Genetic
+        Algorithms, Supervised Fine-Tuning, PPO]
+    ops: [Distributed Systems]
+    other: [OCR]
+    cloud: [Azure ML, AWS]
+    languages: [Python, SQL]
+    genai: [LLMs, Fine-Tuning, RAG, GraphRAG, Embeddings, RLAIF, AI Agents, LoRA,
+      DSPy]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11236266'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:31:15.846689'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

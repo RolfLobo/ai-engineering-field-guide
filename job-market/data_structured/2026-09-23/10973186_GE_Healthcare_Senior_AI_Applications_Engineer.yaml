@@ -1,0 +1,64 @@
+company:
+  name: GE Healthcare
+  stage: null
+  focus: Healthcare data, analytics and AI products
+position:
+  title: Senior AI Applications Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds the shared execution layer for
+      AI agents, integrates LLMs with prompt/instruction design,
+      function calling, structured outputs, RAG, and automated
+      evaluation of AI output quality — all direct shaping of
+      LLM/agent behavior. It is ai-first despite heavy
+      platform/tooling emphasis.
+  responsibilities:
+  - 'Build internal AI engineering framework: shared libraries, standardized interfaces,
+    and automated verification used by data scientists to productionize AI solutions'
+  - Build the shared execution runtime for AI agents covering lifecycle, messaging,
+    retries, tracing, permissions, output evaluation and deployment
+  - Develop configuration-driven UI capability rendering dashboards from structured
+    data files with typed validated components and design tokens
+  - Develop selected AI applications end to end (front end, back end, agents) as reference
+    implementations and pilot use cases
+  - Build code generation tools, project templates, and CI/CD automated verification
+    including automated quality evaluation of AI output
+  - 'Maintain and evolve the platform: semantic versioning, migration paths, dependency
+    upgrades, compatibility tests'
+  - Support colleagues using the platform and convert recurring difficulties into
+    tooling and documentation
+  use_cases:
+  - Internal AI engineering platform that reduces prototype-to-production time from
+    months to days
+  - Enabling data scientists to ship production-grade AI applications without infrastructure
+    or front-end expertise
+  - Agent-based AI applications for finance, commercial, supply chain, quality and
+    manufacturing business units
+  - Automated security, compliance and quality gating for every AI solution
+  - Configuration-driven dashboards rendered without per-view application code
+  - Reference implementations proving platform capabilities before rollout
+  skills:
+    genai: [LLMs, Prompt Engineering, Function Calling, Structured Outputs, RAG, Embeddings,
+      LangGraph, LangChain, CrewAI, LLM Evaluation]
+    ml: []
+    web: [React, Vue, Angular, OpenAPI]
+    databases: [SQL, Relational Databases, Vector Search, pgvector, FAISS, OpenSearch,
+      Pinecone]
+    data: []
+    cloud: [AWS Bedrock, AWS, AWS Lambda, AWS S3]
+    ops: [CI/CD, GitHub Actions, GitLab CI, Jenkins, Langfuse, Docker, Terraform,
+      CloudFormation, OpenTelemetry, Datadog, Grafana, Claude Code, GitHub Copilot,
+      Cursor]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [mypy, Pyright, Pydantic, Ragas, DeepEval, SQS, Aurora, RDS, Pulumi, Code
+        Review, copier, cookiecutter, Zod, JSON Schema, Renovate, Dependabot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10973186'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:10:08.271718'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

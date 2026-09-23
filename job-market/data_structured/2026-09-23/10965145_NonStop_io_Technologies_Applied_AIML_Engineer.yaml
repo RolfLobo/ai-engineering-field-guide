@@ -1,0 +1,55 @@
+company:
+  name: NonStop io Technologies
+  stage: null
+  focus: Software product development for startups and enterprises
+position:
+  title: Applied AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds engineering solutions on top of industry AI
+      tooling (e.g., APIs around OpenAI) and develops ML models
+      including LLM-based ones (GPT, Llama, BERT). Designing and
+      implementing models and integrating OpenAI APIs involves
+      shaping model solutions, and LLM components are present, so
+      ai-first.
+  responsibilities:
+  - Build engineering solutions on top of industry AI/ML tooling, e.g. engineering
+    APIs around OpenAI
+  - Design, develop, and implement ML models for NLP, computer vision, recommendation,
+    and anomaly detection problems
+  - Cleanse, preprocess, and transform data and perform feature engineering for model
+    training
+  - Train and evaluate AI/ML models using diverse datasets and appropriate metrics
+  - Create data visualizations to communicate data patterns and model performance
+  - Deploy and integrate AI/ML models into production applications with engineering
+    and DevOps teams
+  - Ensure data security, privacy compliance, and maintain documentation of AI/ML
+    processes
+  use_cases:
+  - Natural language processing
+  - Computer vision
+  - Recommendation systems
+  - Anomaly detection
+  - Applied AI/ML features integrated into client products
+  skills:
+    genai: [OpenAI API]
+    ml: [PyTorch, TensorFlow, scikit-learn, Machine Learning, Deep Learning, Neural
+        Networks, Transfer Learning, Model Training, Model Evaluation, Feature Engineering,
+      Fine-Tuning, LLMs]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10965145'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:09:29.687532'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

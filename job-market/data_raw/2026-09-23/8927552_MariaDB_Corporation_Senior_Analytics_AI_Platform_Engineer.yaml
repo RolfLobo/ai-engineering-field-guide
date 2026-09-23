@@ -1,0 +1,177 @@
+job_id: 8927552
+title: Senior Analytics AI Platform Engineer
+company: MariaDB Corporation
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 292 Employees
+description: |
+  MariaDB is making a big impact on the world. Whether you’re
+  checking your bank account, buying a coffee, shopping
+  online, making a phone call, listening to music, taking out
+  a loan or ordering takeout – MariaDB is the backbone of
+  applications used everyday. Companies small and large,
+  including 75% of the Fortune 500, run MariaDB, touching the
+  lives of billions of people. With massive reach through
+  Linux distributions, enterprise deployments and public
+  clouds, MariaDB is uniquely positioned as the leading
+  database for modern application development.
+
+  .
+
+  About the Role
+
+  We're hiring a Senior Analytics AI Platform Engineer with
+  strong programming skills, a deep command of analytical
+  methods, and the ability to turn complex data into clear
+  business insights. You'll join a small, highly skilled team
+  where your work has a direct impact on how the business
+  operates and makes decisions.
+
+  This is a hands-on, high-autonomy role. You'll work across
+  the full data stack-writing sophisticated SQL in BigQuery
+  and MariaDB, building automation and tooling in Python, and
+  leveraging AI-powered tools like Windsurf, Gemini, and
+  Claude to work faster and smarter. You'll be expected to
+  understand how data is structured end-to-end, from source
+  systems through to the warehouse, and to know which
+  analytical approach fits which business question.
+
+  You'll also be a key communicator-translating complex data
+  into clear narratives for stakeholders across the
+  organization. We need someone who can operate independently,
+  manage their own priorities, and continuously raise the bar
+  on what's possible with our data. If you have a genuine
+  passion for analytics, a GitHub full of projects, and you're
+  the kind of person who's always learning the next thing-we'd
+  love to hear from you.
+
+  Key Responsibilities
+
+  - Apply the right analytical methods-statistical analysis,
+    regression, clustering, forecasting, classification-to
+    solve real business problems at scale
+  - Design and build end-to-end analytical solutions-from data
+    extraction in BigQuery and MariaDB to actionable insights
+    and automated reporting
+  - Develop and maintain data pipelines, analytical frameworks,
+    and tooling using Python and SQL
+  - Use AI-powered development tools (Windsurf, Gemini, Claude,
+    Cursor) to accelerate experimentation, code generation,
+    and analysis
+  - Leverage the latest AI features and tools (LLMs, embeddings,
+    generative AI) to augment and automate analytical
+    workflows
+  - Build lightweight applications and APIs (FastAPI) to put
+    models and insights into the hands of stakeholders
+  - Own the data architecture decisions within your domain-
+    schema design, data modeling, and pipeline reliability
+  - Communicate results, trade-offs, and recommendations clearly
+    to both technical and business audiences
+  - Map and improve business processes through data-driven
+    analysis and process design
+
+  Requirements & Qualifications
+
+  - 7+ years of professional experience in data science,
+    advanced analytics, or a quantitative field
+  - Expert-level SQL - deep fluency in BigQuery and MariaDB or
+    similar data platforms; you understand query optimization,
+    partitioning, and data modeling
+  - Strong Python and/or JavaScript skills - production-quality
+    code, not just notebooks; experience with modern data and
+    ML libraries
+  - Deep understanding of analytical methods - regression,
+    clustering, time series, A/B testing, classification; you
+    know when to apply what and why
+  - Solid understanding of data architecture - how warehouses,
+    lakes, and pipelines are designed; how to structure data
+    for both analytical and ML workloads
+  - Proficiency with AI-powered development tools - Windsurf,
+    Gemini, Claude, Cursor, or similar; you leverage AI
+    assistants as a core part of your workflow
+  - Excellent communication skills - you present complex
+    technical work in a way that drives decisions
+  - Self-managing and self-sufficient - you set your own
+    priorities, unblock yourself, and deliver without hand-
+    holding
+  - Relentlessly curious and ambitious - you're always learning,
+    always building, always improving
+  - A public GitHub profile showcasing your projects,
+    experiments, or contributions
+
+  Nice to Have
+
+  - Experience with Next.js or modern frontend frameworks for
+    building data-facing applications
+  - FastAPI experience for serving models or internal tooling
+  - Background in business process analysis or operational
+    process design
+  - Experience working across multiple business departments
+    (Finance, Marketing, Sales, Operations, Engineering) -
+    broad organizational exposure is a big plus
+  - Experience with JSON-based data formats, APIs, and
+    integration patterns
+  - Understanding of Docker and Kubernetes - containerization
+    and cluster orchestration experience is a big plus
+
+  Benefits & Culture
+
+  - Globally distributed team environment
+  - Remote or hybrid work options (location-dependent)
+  - Challenging projects with company-wide impact
+  - Competitive compensation, 25 days paid annual leave, plus
+    holidays
+  - A culture that values curiosity, clean engineering, and
+    people who genuinely love what they do
+
+  Location – India (remote)
+
+  Travel – Flexible for adhoc travel
+
+  What's in it for you?
+
+  Impact the world of technology by pushing the boundaries of
+  technology and business models, working at MariaDB, plc. Be
+  part of a game-changing organization that encourages
+  outside-the-box thinking, values empowerment, and is truly
+  shaping the future of the software industry.
+
+  You’ll be collaborating with high-caliber colleagues around
+  the world, offering unparalleled learning and growth
+  opportunities. We provide a very competitive compensation
+  package, 25 days paid annual leave (plus holidays) and a
+  massive degree of flexibility and freedom, and more.
+
+  Salaries for candidates outside the U.S. will vary based on
+  local compensation structures.
+
+  How to Apply
+
+  If you are interested in this position, please submit your
+  application along with your CV/Resume through our ATS
+  Greenhouse on our MariaDB Careers site.
+
+  - At MariaDB we celebrate the diverse experiences and
+    perspectives of our employees because this drives
+    innovation and success. MariaDB is an equal opportunity
+    employer dedicated to creating a welcoming and inclusive
+    workplace for everyone.
+  - MariaDB does not sponsor work visas or relocation.
+  - MariaDB is committed to providing accommodations for
+    individuals with disabilities within our application and
+    interview process. To request an accommodation due to a
+    disability, please inform your recruiter.
+  - MariaDB will not accept agency resumes without a prior
+    contractual agreement with HR. Please do not forward
+    resumes to any recruiting alias or employee directly.
+    MariaDB is not responsible for paying any fees associated
+    with any unsolicited submitted CV/Resumes.
+industries:
+  - Cloud
+  - Hardware
+  - Software
+  - Database
+posted_date: 2026-08-08
+url: "https://builtin.com/job/senior-data-scientist/8927552"
+source: Built In

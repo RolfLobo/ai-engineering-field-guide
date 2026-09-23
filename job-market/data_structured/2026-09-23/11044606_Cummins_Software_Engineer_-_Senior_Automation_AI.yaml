@@ -1,0 +1,61 @@
+company:
+  name: Cummins
+  stage: null
+  focus: Engine and power generation technology manufacturer
+position:
+  title: Software Engineer - Senior (Automation & AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role contributes to hybrid automation solutions
+      integrating UiPath with Generative AI, RAG, LLM APIs and
+      agentic automation, and develops UiPath agentic
+      capabilities, so the person designs/works with LLM and
+      agentic components directly. However, the GenAI elements are
+      secondary and described as "preferred" with core work being
+      RPA automation engineering; still, designing agentic and RAG
+      capabilities counts as shaping LLM behavior, so ai-first.
+  responsibilities:
+  - Design, develop, deploy, and support enterprise automation solutions using UiPath,
+    APIs, workflows, and reusable components
+  - Translate business requirements into technical designs addressing scalability,
+    security, and other NFRs
+  - Troubleshoot production failures across automation code, integrations, platform,
+    and infrastructure with root-cause analysis
+  - Support automation platform activities including provisioning, patching, upgrades,
+    migrations, and disaster recovery
+  - Perform hands-on platform upgrades and compatibility testing for enterprise applications
+    like ERP, SAP, and Salesforce
+  - Implement monitoring, logging, alerting, and observability using Splunk, Dynatrace,
+    and ServiceNow
+  - Develop and integrate advanced automation capabilities using UiPath APIs, Integration
+    Service, Coded Apps, Maestro, and AI/agentic features
+  - Contribute to hybrid automation solutions integrating UiPath with Power Platform,
+    AWS services, Python, APIs, Generative AI, and agentic technologies
+  use_cases:
+  - Enterprise RPA automation of business processes via UiPath
+  - Integrating automation platforms with enterprise systems such as ERP, SAP, and
+    Salesforce
+  - Hybrid automation combining RPA with generative AI, RAG, and agentic capabilities
+  - Automation platform operations including upgrades, patching, and disaster recovery
+  - Production monitoring and observability for enterprise automations
+  skills:
+    genai: [Generative AI, RAG, LLMs, Agentic Workflows]
+    ml: []
+    web: [REST APIs, C#, React, JSON, OAuth]
+    databases: []
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Splunk, DevSecOps, CI/CD, Monitoring, Infrastructure as Code]
+    languages: [.NET, Python, TypeScript, SQL]
+    domains: []
+    other: [UiPath, XML, Power Platform, Power BI, Dynatrace, ServiceNow, IAM, Agile,
+      Salesforce, SAP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11044606'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:15:04.786310'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

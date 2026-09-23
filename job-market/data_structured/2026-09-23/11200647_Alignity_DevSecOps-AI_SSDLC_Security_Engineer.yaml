@@ -1,0 +1,56 @@
+company:
+  name: Alignity
+  stage: null
+  focus: IT solutions integrator and consulting firm
+position:
+  title: DevSecOps-AI SSDLC Security Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents and agentic workflows
+      for AppSec automation, including guardrails and human-in-
+      the-loop validation, which is shaping agent behaviour. It
+      also tests RAG data flows and function calling, confirming
+      LLM/agent involvement.
+  responsibilities:
+  - Integrate and optimize SAST, SCA, and DAST tools in CI/CD pipelines with quality
+    gates
+  - Perform static, dynamic, and open-source dependency assessments including OWASP
+    Top 10 and supply-chain risks
+  - Execute API security testing (REST/GraphQL) covering OAuth2/OIDC/JWT, BOLA/BFLA,
+    and rate limiting
+  - Triage scan results, remove false positives, and provide actionable remediation
+    guidance
+  - Implement DevSecOps controls such as IaC scanning, secrets detection, container
+    image scanning, and Kubernetes security
+  - Design and build AI agents and agentic workflows for AppSec automation with guardrails
+    and human-in-the-loop validation
+  - Support threat modeling and security design reviews
+  - Produce security assessment reports, dashboards, and trend analysis for stakeholders
+  use_cases:
+  - AppSec automation via AI agents (triage, false-positive suppression, secure code
+    review)
+  - Automated security testing in CI/CD pipelines
+  - API security testing and authorization validation
+  - Software supply-chain security (SBOM, artifact signing, provenance)
+  - Security testing of AI/ML pipelines including RAG data flows
+  skills:
+    genai: [AI Agents, Agentic Workflows, Guardrails, RAG, Function Calling]
+    ml: []
+    web: [REST APIs, GraphQL, OAuth, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: [SAST, DAST, SCA, CI/CD, Infrastructure as Code, Kubernetes, Policy as Code,
+      DevSecOps]
+    languages: [Python, Bash]
+    domains: []
+    other: [OWASP Top 10, Container Image Scanning, SBOM, Threat Modeling, OWASP ASVS]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11200647'
+  location: Shaikpet, IND
+  extracted_at: '2026-09-23T11:26:17.715063'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

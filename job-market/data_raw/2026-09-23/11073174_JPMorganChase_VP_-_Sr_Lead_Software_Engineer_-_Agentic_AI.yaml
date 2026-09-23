@@ -1,0 +1,122 @@
+job_id: 11073174
+title: VP - Sr Lead Software Engineer - Agentic AI
+company: JPMorganChase
+location: Mumbai, IND
+work_type: FULL_TIME
+company_size: 289,097 Employees
+description: |
+  Be an integral part of an agile team that's constantly
+  pushing the envelope to enhance, build, and deliver top-
+  notch technology products.  As a Senior Lead Software
+  Engineer at JPMorganChase within the Asset and Wealth
+  Management, you are an integral part of an agile team that
+  works to enhance, build, and deliver trusted market-leading
+  technology products in a secure, stable, and scalable way.
+  Drive significant business impact through your capabilities
+  and contributions, and apply deep technical expertise and
+  problem-solving methodologies to tackle a diverse array of
+  challenges that span multiple technologies and applications.
+  Job responsibilities
+
+  - Design and build autonomous agentic AI workflows capable of
+    multi-step reasoning, tool use, and task execution with
+    appropriate human-in-the-loop guardrails aligned with
+    emerging enterprise patterns such as OpenAI Frontier and
+    Anthropic Claude Cowork, and implement Model Context
+    Protocol (MCP) integrations to enable AI agents to
+    securely connect to and interact with external data
+    sources, APIs, and enterprise tools in real time.
+  - Architect and implement prompt-based models on Large
+    Language Models (LLMs) for NLP tasks tailored to financial
+    services use cases such as intelligent search,
+    conversational interfaces, and advisory support.
+  - Produce architecture and design artifacts for complex,
+    distributed applications while ensuring design
+    constraints, including latency, throughput, and regulatory
+    requirements, are met and implement observability,
+    monitoring, and feedback loops for agentic AI systems to
+    track agent behavior, detect hallucinations, and ensure
+    reliability in high-stakes financial applications
+  - Build and maintain scalable data pipelines and data
+    processing workflows for both structured and unstructured
+    data, leveraging cloud services to support LLM-based
+    features and real-time client interactions ensuring
+    seamless, low-latency experiences.
+  - Drive adoption and governance of approved AI-assisted
+    engineering practices and Software Development Life Cycle
+    toolchain across teams to improve code quality, delivery
+    speed, and operational outcomes (e.g., AI-assisted code
+    review/refactoring, test acceleration, release readiness,
+    incident/root-cause analysis), while establishing
+    measurable validation standards (secure coding, peer
+    review, automated testing) and promoting reuse of proven
+    patterns and automation within the SDLC/TLM toolchain.
+  - Partner closely with product, design, and business
+    stakeholders to translate client needs and business
+    requirements into scalable AI-driven technical solutions.
+  - Ensure all client-facing solutions adhere to strict
+    security, privacy, and regulatory standards applicable to
+    the financial services industry, including data
+    protection, model governance, and responsible AI
+    practices, particularly as regulators increase scrutiny of
+    autonomous AI agents in financial services.
+  - Drives adoption and governance of approved AI-assisted
+    engineering practices across teams to improve code
+    quality, delivery speed, and operational outcomes (e.g.,
+    AI-assisted code review/refactoring, test acceleration,
+    release readiness, incident/root-cause analysis), while
+    establishing measurable validation standards (secure
+    coding, peer review, automated testing) and promoting
+    reuse of proven patterns and automation within the
+    SDLC/TLM toolchain.
+  - Applies knowledge of tools within the Software Development
+    Life Cycle toolchain, including approved AI-assisted
+    development and automation capabilities, to improve the
+    value realized by automation at scale.
+
+  Required qualifications, capabilities, and skills
+
+  - Formal training or certification on software engineering
+    concepts and 5+ years applied experience
+  - Demonstrated experience leading effective use of enterprise-
+    authorized AI-assisted software development tools within
+    the work environment (e.g., for coding, code review, test
+    acceleration, troubleshooting) with the ability to set
+    team expectations for validating AI outputs for
+    correctness, performance, and security
+  - Strong understanding of responsible AI use in engineering
+    workflows, including data sensitivity considerations,
+    secure handling of inputs/outputs, and adherence to
+    resiliency and security expectations; experience coaching
+    senior engineers/leads on compliant usage patterns and
+    controls.
+  - Experience building agentic AI systems with multi-step
+    reasoning, tool orchestration, and autonomous task
+    execution within guardrailed environments
+  - Familiarity with agentic AI orchestration frameworks such as
+    LangChain, LangGraph, LlamaIndex, Semantic Kernel, CrewAI,
+    AutoGen, or similar libraries
+  - Strong programming proficiency in Python or Java, with
+    demonstrated experience building AI/ML-powered
+    applications
+  - Proven experience designing and developing client-facing
+    applications with a focus on usability, performance, and
+    reliability at scale
+  - Experience developing microservices and integrating NLP or
+    LLM models into production software applications, and
+    hands-on experience with cloud platforms (AWS or Azure)
+    for AI/ML model deployment, data processing, and
+    infrastructure management
+  - Solid understanding of the Software Development Life Cycle
+    (SDLC) and agile methodologies including CI/CD,
+    application resiliency, and DevSecOps, and experience
+    working in a large corporate or financial services
+    environment, with familiarity in navigating complex
+    stakeholder landscapes and regulatory frameworks
+
+  Preferred qualifications, capabilities, and skills
+
+  - Experience with both Java and Python
+posted_date: 2026-09-09
+url: "https://builtin.com/job/sr-lead-software-engineer/11073174"
+source: Built In

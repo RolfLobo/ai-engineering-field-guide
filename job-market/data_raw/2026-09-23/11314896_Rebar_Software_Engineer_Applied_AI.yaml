@@ -1,0 +1,122 @@
+job_id: 11314896
+title: Software Engineer, Applied AI
+company: Rebar
+location: New York, USA
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  About Rebar
+
+  Rebar is building the AI operating system for commercial
+  HVAC, Electrical, and Plumbing.
+
+  Over the past year our quoting platform has processed tens
+  of thousands of projects across North America and we're
+  continuing that growth. Our customers include many of the
+  top firms in the industry. Some of these companies are
+  running billion dollar construction projects on workflows
+  that still look like it's 1985.
+
+  Construction is 10% of GDP and still massively underserved
+  by software. We are changing that.
+
+  We recently raised a $14M Series A from leading construction
+  tech investors and are entering our next phase of growth. We
+  are building a set of AI native products that will define
+  how this industry operates.
+
+  About the Engineering Org
+
+  The role of the engineer is rapidly changing. We're aware
+  and we're being very intentional of ensuring we adapt with
+  it. We are fostering an engineering culture of growth and
+  development. We strongly emphasize care of craft and winning
+  together. To echo our values, everyone operates like an
+  owner, we find a way, and we win together.
+
+  About the Role
+
+  This role is going to be sitting on our AI and ML team as a
+  backend engineer.
+
+  You will be working directly with our in house models (as
+  well as frontier VLMs) so that we can build a world class
+  interaction for the frontend. For example, you could be
+  taking a segmentation mask that one of our detection models
+  produces, deciding what it should become on the canvas - a
+  polygon, a polyline, a set of connection ports - designing
+  the contract that carries it there, and then making it
+  something our users can grab and correct.
+
+  The job is not just "make the model better", it’s to have
+  the ideal shape and use case for the user can see, trust,
+  correct, and bill against.
+
+  Responsibilities
+
+  - Design the perception → product data contract
+  - Ship AI geometry into the canvas
+  - Own the accuracy and UX tradeoff honestly
+  - Close the correction loop
+  - Be the translation layer between our AI/ML team and the
+    product engineers
+
+  What We're Looking For
+
+  We're looking for someone comfortable working largely across
+  the stack. You should be comfortable reading a PyTorch
+  postprocessing path in the morning and then understanding
+  the flow to the canvas rendering path in the afternoon. You
+  should be willing to dive deeper into understand model
+  architectures and spotting inefficiencies as their outputs
+  are translated downstream.
+
+  Qualifications
+
+  - 6+ years of industry software engineering experience
+    - If fewer than 6 years of experience, still encouraged to
+      apply!
+  - Shipped computer vision or ML output into a product surface
+    that users interact with daily
+  - Comfortable in Python and TypeScript
+  - Experience designing and versioning data contracts between
+    services on live customer data
+
+  Nice to Have
+
+  - Canvas and rendering experience
+  - Familiarity with vector graphic object models, standards,
+    and protocols
+  - Experience building human in the loop labeling or active
+    learning loops
+  - Construction, CAD, GIS, or another domain where drawings are
+    the source of truth
+
+  Compensation and Benefits
+
+  - Salary: Competitive base salary
+  - Equity: Meaningful equity package, commensurate with
+    experience
+  - Benefits: Comprehensive medical, dental, and vision coverage
+  - Perks:
+    - Agentic tooling budget
+    - Lunches provided, dinners provided (after a set time)
+    - Great culture and office banter
+
+  This is a salaried, onsite role located in New York City's
+  Flatiron district. We are still a startup! We love working
+  onsite together and believe strongly that this gives us for
+  creative problem-solving, and building strong connections.
+  You'll be at the heart of our fast-paced operations,
+  actively contributing to a culture that values engagement,
+  growth, and teamwork.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Analytics
+  - Business Intelligence
+  - Industrial
+  - Generative AI
+posted_date: 2026-09-22
+url: "https://builtin.com/job/software-engineer-applied-ai/11314896"
+source: Built In

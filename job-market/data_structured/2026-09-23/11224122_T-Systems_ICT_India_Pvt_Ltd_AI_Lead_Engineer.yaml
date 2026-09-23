@@ -1,0 +1,52 @@
+company:
+  name: T-Systems ICT India Pvt. Ltd.
+  stage: null
+  focus: European IT services and digital transformation provider
+position:
+  title: AI Lead Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds GenAI solutions directly: RAG
+      systems, agentic/multi-agent orchestration, prompt
+      engineering, fine-tuning, and evaluating foundation models.
+      These are core responsibilities, not peripheral, so it
+      clearly shapes model behaviour via LLM components.
+  responsibilities:
+  - Lead design, architecture, and implementation of AI/GenAI solutions
+  - Build and deploy scalable LLM-powered applications and RAG systems
+  - Design and implement Agentic AI and Multi-Agent systems for business automation
+  - Define enterprise AI architecture, governance, and security best practices
+  - Collaborate with business stakeholders, product, and engineering teams
+  - Mentor development teams and drive AI innovation initiatives
+  - Evaluate emerging AI technologies and recommend adoption strategies
+  use_cases:
+  - Enterprise LLM-powered applications
+  - Retrieval-Augmented Generation for knowledge access
+  - Business automation via agentic and multi-agent systems
+  - Enterprise search with GraphRAG and knowledge graphs
+  - AI governance and evaluation for enterprise deployments
+  skills:
+    databases: [Vector Databases, Pinecone, Qdrant, Weaviate, Chroma, FAISS, SQL,
+      NoSQL]
+    domains: [Enterprise Search]
+    data: [Databricks, Data Engineering]
+    web: [APIs, Microservices]
+    ml: [TensorFlow, PyTorch, scikit-learn, Machine Learning]
+    ops: [MLOps, LLMOps, MLflow, Kubeflow, Docker, Kubernetes, Monitoring, Observability,
+      LLM Evaluation]
+    other: [Responsible AI]
+    cloud: [Azure, AWS, Vertex AI, Azure ML, Azure AI Search]
+    languages: [Python, Temporal]
+    genai: [Generative AI, LLMs, RAG, AI Agents, Multi-Agent Systems, LangChain, LlamaIndex,
+      Semantic Kernel, LangGraph, CrewAI, AutoGen, Prompt Engineering, Fine-Tuning,
+      Embeddings, MCP, Function Calling, Agentic Workflows, Azure OpenAI, OpenAI API,
+      Anthropic API, Gemini, Llama, Mistral, GraphRAG, Knowledge Graphs]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11224122'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:28:05.163287'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

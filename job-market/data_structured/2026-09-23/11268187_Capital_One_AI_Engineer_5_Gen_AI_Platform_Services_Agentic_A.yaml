@@ -1,0 +1,57 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML personalization
+position:
+  title: 'AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic workflows, multi-agent
+      orchestration pipelines, guardrails, and model evaluation
+      for LLM-based systems, which is direct shaping of LLM
+      behavior and output quality. Hence ai-first.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI software components including agents
+    and multi-agent workflows, guardrails, model evaluation, governance, and observability
+  - Design, implement, and optimize multi-model orchestration pipelines integrating
+    LLMs, vector search, and domain-specific models
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Establish cost-performance governance reviews tracking GPU utilization, model
+    throughput, and inference cost efficiency
+  - Lead team design councils and design review boards for AI engineering standards
+  - Mentor Principal and Manager-level AI engineers
+  - Contribute to technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - AI-powered banking products improving customer and associate experiences
+  - Agentic AI systems and multi-agent workflows for enterprise automation
+  - Model evaluation, guardrails, and governance for responsible AI deployment
+  - LLM inference and foundation model services at production scale
+  - Similarity/vector search and retrieval-augmented generation components
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails]
+    ml: [Model Training, Similarity Search, Model Evaluation, Hugging Face, PyTorch,
+      Fine-Tuning, Machine Learning, CUDA, Quantization]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Observability]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268187'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:34:13.496149'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

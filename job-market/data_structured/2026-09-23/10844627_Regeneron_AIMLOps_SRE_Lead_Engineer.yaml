@@ -1,0 +1,61 @@
+company:
+  name: Regeneron
+  stage: null
+  focus: |-
+    Biopharmaceutical company developing medicines for serious
+    diseases
+position:
+  title: AI/MLOps SRE Lead Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operates, monitors, and scales ML/LLM/RAG/agent
+      platforms that other teams build — SLOs, observability, IaC,
+      CI/CD, ChatOps automation. The deliverable is platform
+      capacity and reliability, not shaping model behaviour;
+      monitoring LLM platforms for performance and governance is
+      not designing prompts, retrieval, or evals.
+  responsibilities:
+  - Drive service reliability, availability, and performance across multi-cloud environments
+    via SLOs, SLIs, and error budgets
+  - Design, build, and scale enterprise ML platform infrastructure using Dataiku,
+    SageMaker AI, Databricks, and Vertex AI
+  - Develop AI-driven observability with anomaly detection, predictive analytics,
+    and automated remediation
+  - Implement and monitor LLM, SLM, RAG, and AI Agent platforms for performance, governance,
+    and scalability
+  - Design Infrastructure as Code, CI/CD pipelines, self-healing systems, and platform
+    automation
+  - Architect enterprise ChatOps solutions integrating operational events, AI workflows,
+    and observability
+  - Partner with Data Science, AI Engineering, and Platform teams on secure, production-ready
+    AI/ML solutions
+  - Mentor engineers and influence reliability engineering, MLOps, and cloud platform
+    strategy
+  use_cases:
+  - Reliable multi-cloud operation of enterprise AI/ML platforms
+  - ML platform infrastructure for training, deployment, and monitoring workflows
+  - Operational monitoring and governance of LLM, RAG, and AI Agent platforms
+  - AI-driven observability and automated remediation for operational issues
+  - Enterprise ChatOps integrating operational events and AI workflows
+  skills:
+    genai: [LLMs, RAG, AI Agents]
+    ml: [Machine Learning, Anomaly Detection, Model Deployment, Model Monitoring]
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: [AWS, GCP, Azure, SageMaker, Vertex AI, EKS, GKE, AKS]
+    ops: [Terraform, CI/CD, Prometheus, Grafana, Datadog, OpenTelemetry, Kubernetes,
+      MLOps, Kubeflow, MLflow, LangSmith, Weights & Biases, Infrastructure as Code,
+      Observability]
+    languages: [Python, Go, Bash]
+    domains: []
+    other: [Dataiku, Pulumi, AWS CDK, Feast, RAGAS, Evidently AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10844627'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:02:04.557452'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

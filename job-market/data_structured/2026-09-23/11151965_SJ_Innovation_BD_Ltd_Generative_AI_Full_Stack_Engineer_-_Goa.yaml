@@ -1,0 +1,47 @@
+company:
+  name: SJ Innovation BD Ltd.
+  stage: null
+  focus: Software development and AI solutions services
+position:
+  title: Generative AI & Full Stack Engineer - Goa
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG applications, chatbots, and AI agents
+      with LangChain/LlamaIndex and evaluates AI models and tools,
+      which is shaping LLM behavior and output quality. This is
+      ai-first since LLM/agent components are central.
+  responsibilities:
+  - Build AI-powered applications using APIs and tools such as OpenAI, Anthropic,
+    Hugging Face, LangChain, or LlamaIndex
+  - Develop scalable applications using React.js, Node.js, and MongoDB
+  - Build chatbots, AI agents, automation workflows, and RAG-based applications
+  - Write clean, secure, maintainable code and contribute to application architecture
+  - Evaluate new AI tools, models, and frameworks for practical implementation
+  - Collaborate with Product, QA, DevOps, Design, and development teams
+  - Participate in code reviews, testing, debugging, and documentation
+  use_cases:
+  - Chatbots and conversational assistants
+  - AI agents and automation workflows
+  - RAG-based business applications
+  - AI-powered web applications for business solutions
+  skills:
+    genai: [OpenAI API, Anthropic API, LangChain, LlamaIndex, RAG, AI Agents, Generative
+        AI, Chatbots]
+    ml: [Hugging Face]
+    web: [React, Node.js, REST APIs]
+    databases: [MongoDB]
+    data: []
+    cloud: []
+    ops: [Git]
+    languages: [JavaScript, TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151965'
+  location: Verna, IND
+  extracted_at: '2026-09-23T11:22:59.989948'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

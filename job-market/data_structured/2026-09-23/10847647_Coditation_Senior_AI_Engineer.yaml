@@ -1,0 +1,54 @@
+company:
+  name: Coditation
+  stage: null
+  focus: Software consulting in ML, AI, data engineering, cloud
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows with LangGraph/LangChain,
+      builds RAG pipelines, and does prompt engineering for LLM-
+      driven code modernization — directly shaping LLM behavior.
+  responsibilities:
+  - Design modular Python systems with LangGraph and LangChain for state, configuration,
+    and workflow orchestration
+  - Design AI workflows for code modernization including code analysis, summarization,
+    and dependency transformation
+  - Build and maintain RAG pipelines and database operations for dependency matrices
+    and workflow results
+  - Integrate and optimize multiple LLMs (Gemini, Claude, GPT-4, Vertex AI) for code
+    analysis and generation
+  - Manage PostgreSQL with pgvector persistence including schema management and similarity
+    searches
+  - Develop utilities for file handling, model operations, logging, and error handling
+  - Collaborate with client leads and architects to define requirements and deliver
+    scalable AI solutions
+  - Write unit and integration tests and participate in SAFe Agile ceremonies with
+    JIRA tracking
+  use_cases:
+  - Code modernization platform for legacy software systems
+  - Reverse and forward engineering of code including analysis and summarization
+  - Automated code generation and dependency transformation
+  - Similarity search over dependency matrices and workflow results
+  skills:
+    databases: [PostgreSQL, pgvector, Vector Search, SQL, NoSQL, Vector Databases,
+      Knowledge Graphs]
+    domains: []
+    data: []
+    web: [React]
+    ml: []
+    ops: [Git]
+    other: [SAFe Agile, SQLAlchemy, psycopg2]
+    cloud: [Vertex AI]
+    languages: [Python, Java, JSON, YAML]
+    genai: [LangChain, LangGraph, Agentic Workflows, Prompt Engineering, LLMs, Gemini,
+      Anthropic API, GPT-4, RAG, Tokenization]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10847647'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:02:15.283514'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

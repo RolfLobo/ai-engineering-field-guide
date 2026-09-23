@@ -1,0 +1,52 @@
+company:
+  name: DigitalOcean
+  stage: null
+  focus: Cloud infrastructure and AI inference platform
+position:
+  title: Senior Software Engineer I-Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds backend infrastructure (orchestration, APIs,
+      isolated execution environments) that runs and captures
+      agent evaluations; it does not itself shape model behavior
+      via prompts, retrieval, or training, nor design the evals'
+      quality criteria. Interacting with LLM APIs and prompt
+      constraints is awareness, not shaping.
+  responsibilities:
+  - Design, build, and maintain robust backend services and highly concurrent asynchronous
+    workflows in Python and Go
+  - Integrate backend control planes with isolated, secure execution environments
+    to safely run agents and capture artifacts
+  - Build and operate scalable gRPC and REST APIs connecting data pipelines, evaluation
+    engines, and internal platforms
+  - Collaborate with cross-functional teams to support complex evaluation scenarios
+    and outcome metrics
+  - Drive engineering best practices including code reviews, testing, and technical
+    design documentation
+  - Monitor system performance, investigate bottlenecks, and ensure high reliability
+    of orchestration systems
+  use_cases:
+  - Safe and reliable testing and evaluation of AI agents
+  - High-throughput orchestration of complex agent execution workflows
+  - Isolated, secure execution environments for running AI agents
+  - Processing of evaluation signals and outcome metrics at scale
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [gRPC, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, Distributed Systems, Monitoring, Code Review, MicroVMs]
+    languages: [Python, Go, C++, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10888177'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:05:25.208085'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

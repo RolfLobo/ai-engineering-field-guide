@@ -1,0 +1,54 @@
+company:
+  name: Turing
+  stage: null
+  focus: |-
+    AI datasets, RL environments, and enterprise agentic AI
+    systems
+position:
+  title: Forward Deployed AI Engineer (In Training)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineers who architect and build
+      production AI systems (multi-agent workflows, RAG, context
+      engineering, tool use) at client sites are ai-first per the
+      edge case rules. The role shapes LLM/agent system behavior
+      directly and is customer-facing deployment work.
+  responsibilities:
+  - Work directly with customers to uncover high-value opportunities and define business
+    outcomes for AI solutions
+  - Architect and build production AI systems including multi-agent workflows, orchestration,
+    tool use, context engineering, memory, and RAG
+  - Build supporting APIs, data pipelines, integrations, and distributed systems for
+    reliability at scale
+  - Complete an eight-week intensive training placement in Turing Akademia
+  - Lead solutions from discovery through deployment and measurable client impact
+  - Own evaluation, observability, security, reliability, latency, scalability, and
+    cost
+  - Present work to stakeholders, manage expectations, and explain technical decisions
+  use_cases:
+  - End-to-end agentic AI systems inside mission-critical enterprise workflows
+  - Generative AI solutions driving measurable business impact in large institutions
+  - Multi-agent orchestration and RAG for enterprise knowledge work
+  - Production AI deployment for Fortune 500 clients across financial services, life
+    sciences, healthcare, retail, automotive, and CPG
+  skills:
+    genai: [Agentic Workflows, AI Agents, RAG, Context Engineering, LLMs, Function
+        Calling]
+    ml: []
+    web: [APIs]
+    databases: [Databases]
+    data: [Data Pipelines]
+    cloud: [Cloud Infrastructure]
+    ops: [Distributed Systems]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11242904'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:31:13.274079'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

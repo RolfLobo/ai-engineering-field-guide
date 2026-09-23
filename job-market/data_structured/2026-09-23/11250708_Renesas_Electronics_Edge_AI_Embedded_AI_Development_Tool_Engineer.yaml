@@ -1,0 +1,52 @@
+company:
+  name: Renesas Electronics
+  stage: null
+  focus: |-
+    Embedded semiconductor solutions for automotive, industrial,
+    IoT
+position:
+  title: Edge AI / Embedded AI Development Tool Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds PC/cloud-based development tools (spec,
+      design, implementation, evaluation) for deploying AI models
+      to embedded devices, including visualization/tuning UIs. It
+      does not itself shape model behaviour through prompts,
+      retrieval, or training — it's software tooling around AI. No
+      LLM component exists, and model development isn't the
+      deliverable.
+  responsibilities:
+  - Define specifications, design, implement, and evaluate AI development tool products
+  - Develop tools enabling deployment of AI models onto embedded devices
+  - Build visualization and performance tuning capabilities for AI models on edge
+    devices
+  - Account for embedded resource constraints such as performance and memory
+  - Design intuitive, user-friendly UIs for smooth engineering workflows
+  - Develop PC-based and cloud-based tool products for Reality AI and Renesas365
+  use_cases:
+  - Edge AI development tools for embedded devices
+  - Deployment of AI models onto resource-constrained embedded systems
+  - Visualization and tuning of AI model performance and results
+  - AI sensing applications via Reality AI
+  - Support for the Renesas365 platform
+  skills:
+    genai: []
+    ml: [Machine Learning, TensorFlow, PyTorch]
+    web: [APIs, Front-End Development, Back-End Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C, Java, C#]
+    domains: []
+    other: [UI/UX Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11250708'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:31:33.773434'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

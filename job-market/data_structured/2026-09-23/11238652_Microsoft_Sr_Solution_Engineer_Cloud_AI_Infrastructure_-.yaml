@@ -1,0 +1,51 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud computing and software products
+position:
+  title: Sr Solution Engineer, Cloud & AI Infrastructure - CTJ - Top Secret
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs and sells cloud infrastructure and
+      migration architectures; AI tooling (GitHub Copilot, Agentic
+      Assessment) is used as accelerators, not shaped by this
+      role. No prompting, RAG, agent design, or model training is
+      part of the job.
+  responsibilities:
+  - Lead customer engagements for platform estate modernization and sovereign cloud
+    architecture
+  - Run technical workshops with demos, whiteboarding, architecture co-creation, rapid
+    prototyping, and proofs of concept
+  - Prove technical solutions and influence customer solution design and deployment
+    commitments
+  - Maintain expertise in cloud migration (Windows, Linux, app workloads), resiliency,
+    security, and compliance
+  - Design secure, scalable, resilient, and compliant hybrid and cloud-native architectures
+  - Guide customers through modernization using 6R strategy and Azure-native services
+  - Explore how Agentic AI and tooling can accelerate customer transformation
+  use_cases:
+  - Cloud migration and modernization of Windows, Linux, and Oracle workloads to Azure
+  - Sovereign cloud architecture design for commercial and government customers
+  - Hybrid and cloud-native networking with secure connectivity
+  - AI-powered infrastructure supporting Frontier AI transformation goals
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: [VPN]
+    databases: [SQL Server, PostgreSQL]
+    data: []
+    cloud: [Azure, AKS, Azure Container Apps, Defender for Cloud]
+    ops: [GitHub Copilot, Linux, Windows Server]
+    languages: []
+    domains: []
+    other: [VMware, SAP, Oracle, RedHat, NetApp, GDPR, HIPAA Compliance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11238652'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:30:10.618000'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

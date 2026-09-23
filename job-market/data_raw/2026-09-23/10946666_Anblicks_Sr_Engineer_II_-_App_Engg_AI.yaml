@@ -1,0 +1,114 @@
+job_id: 10946666
+title: "Sr. Engineer II - App Engg & AI"
+company: Anblicks
+location: Ahmedabad, IND
+locations:
+  - Ahmedabad, IND
+  - Hyderabad, IND
+work_type: FULL_TIME
+company_size: 568 Employees
+description: |
+  About the Role
+
+  Senior engineer owning the customer-facing experience of a
+  metrics and reporting platform — a React application,
+  module-federated into a wider micro-frontend shell, served
+  by a FastAPI backend over a curated analytics data layer.
+  Dashboards, tables, filters, charts, and saved views are
+  yours: the layer where correct metrics become answers a
+  customer can act on.
+
+  This is a full-stack position with a frontend centre of
+  gravity. You will spend the majority of your time in
+  TypeScript and React, and you are expected to be productive
+  in the Python and FastAPI codebase as well — extending an
+  endpoint, writing a migration, and reviewing backend pull
+  requests.
+
+  This cross-capability is a requirement of the role, not a
+  preference. The team is deliberately structured so that no
+  layer has a single owner, with every engineer able to take a
+  feature through end-to-end development and support it in
+  production. If you would prefer to stay within a single
+  layer, this is not the right role.
+
+  Key Responsibilities
+
+  - Own the customer-facing application — dashboards, data
+    tables, filtering, charts, and saved views, built in React
+    and TypeScript
+  - Integrate with the platform shell — ship the application as
+    a module-federated remote that behaves as a first-class
+    part of the host application
+  - Own server state — TanStack Query cache keys, invalidation,
+    pagination, and optimistic updates against the metrics API
+  - Build data-dense interfaces — TanStack Table with sorting,
+    filtering, and virtualization that stays responsive at
+    scale
+  - Design the visualization layer — Recharts implementations
+    chosen for the question the user is actually asking, not
+    for decoration
+  - Enforce the API contract on the client — Zod schemas
+    validating at the boundary, with inferred types flowing
+    through the application
+  - Make state addressable — typed routing with TanStack Router,
+    filters and saved views represented in the URL so any view
+    can be shared
+  - Uphold the design system — Tailwind CSS with shadcn/ui,
+    composing and extending components rather than forking
+    them
+  - Build and review backend work — extend FastAPI endpoints,
+    write database migrations, review backend pull requests,
+    and take end-to-end ownership of a slice when the work
+    calls for it
+  - Own quality and performance — Vitest coverage, render
+    performance, bundle size, and accessibility as delivery
+    standards rather than afterthoughts
+  - Support the application in production — triage and resolve
+    customer-raised issues across the stack, from rendering
+    defects through to the queries behind them
+
+  Qualifications
+
+  - 6+ years building production web applications; 4+ years with
+    React at scale
+  - Working proficiency in Python (required) — able to extend a
+    FastAPI endpoint, write a migration, and review backend
+    code to the team standard.
+  - Strong TypeScript — generics, discriminated unions, and
+    disciplined use of the type system rather than escape
+    hatches
+  - Modern React: hooks, composition patterns, and hands-on
+    render performance optimization
+  - Next.js and Vite build tooling
+  - TanStack Query in production — caching, invalidation, and
+    pagination strategy
+  - TanStack Table for large, interactive datasets, including
+    virtualization
+  - TanStack Router or comparable typed routing, with search-
+    parameter state management
+  - Zustand or equivalent for genuine client state, and a clear
+    sense of what does not belong there
+  - Zod for runtime schema validation at the API boundary
+  - Data visualization experience with Recharts, D3, or similar,
+    and sound judgement about chart selection
+  - Tailwind CSS and component libraries such as shadcn/ui or
+    Radix
+  - Vitest and React Testing Library
+  - Comfort with SQL: reading and writing queries against a
+    relational database
+  - Micro-frontend or module federation experience is a strong
+    plus
+  - Experience with analytics, reporting, or dashboard products
+    is a strong plus
+  - Accessibility (WCAG) and design-system contribution
+    experience is a plus
+  - Strong written communication and the ability to work within
+    defined overlap hours across time zones
+industries:
+  - Cloud
+  - Analytics
+  - Consulting
+posted_date: 2026-09-01
+url: "https://builtin.com/job/sr-engineer-ii-app-engg-ai/10946666"
+source: Built In

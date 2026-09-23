@@ -1,0 +1,46 @@
+company:
+  name: Evnek Technologies Pvt Ltd
+  stage: null
+  focus: AI and data consulting services
+position:
+  title: Forward Deployed Engineer - LLM/Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer role adapting and deploying
+      LLM/Gen AI solutions at client sites, with working knowledge
+      of RAG pipelines and AI agents, reviewing outputs and
+      prototyping solutions. Per the edge case rules, forward
+      deployed engineers adapting and deploying AI solutions are
+      ai-first.
+  responsibilities:
+  - Run discovery engagements independently with clients
+  - Scope and deliver AI/data product implementations with client stakeholders
+  - Present solutions and demos to senior business and technology stakeholders
+  - Write SOWs, project proposals, and technical specifications
+  - Own delivery outcomes across multiple workstreams in a pod environment
+  - Review AI outputs critically and prototype solutions using AI platforms and tools
+  use_cases:
+  - Client-facing AI and data solution delivery
+  - Discovery and scoping of Gen AI engagements
+  - RAG and AI agent solution prototyping for clients
+  - Enterprise data platform and pipeline consulting
+  skills:
+    databases: [Snowflake]
+    domains: []
+    data: [Databricks, Data Pipelines, Data Lakes, Data Lakehouse, Data Mesh]
+    web: [APIs]
+    ml: [AI/ML]
+    ops: [MLOps, CI/CD, Model Registry, Model Observability]
+    other: [Security, Governance, Cost Optimization, Enterprise Integrations]
+    cloud: [AWS, Azure, GCP, Cloud Architecture]
+    languages: []
+    genai: [LLMs, RAG, AI Agents, Generative AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10843743'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:01:45.980462'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

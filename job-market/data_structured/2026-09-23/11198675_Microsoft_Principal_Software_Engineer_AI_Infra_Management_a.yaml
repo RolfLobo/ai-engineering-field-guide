@@ -1,0 +1,55 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud software, AI infrastructure, and productivity
+position:
+  title: Principal Software Engineer, AI Infra Management and Ops
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates AI/GPU infrastructure platforms
+      — hosting, scaling, and orchestrating compute and networking
+      for models that other teams build. The person does not shape
+      model behaviour via prompts, retrieval, or training.
+      Serving/hosting infrastructure is explicitly ai-support.
+  responsibilities:
+  - Lead design and evolution of cloud-native services, distributed systems, and platform
+    capabilities for large-scale production environments
+  - Define technical direction and architecture for platform infrastructure, cloud
+    services, networking, storage, and compute
+  - Build platform engineering capabilities for deployment automation, service lifecycle
+    management, observability, and reliability
+  - Advance CI/CD, Infrastructure as Code, testing, security, and monitoring practices
+  - Contribute to design and operation of AI infrastructure, HPC platforms, bare-metal
+    infrastructure, and GPU environments
+  - Collaborate on datacenter architecture and networking solutions including fabrics,
+    RDMA, SmartNICs, and DPUs
+  - Foster technical excellence through architecture collaboration, mentorship, and
+    design reviews
+  use_cases:
+  - Cloud infrastructure platform supporting large-scale distributed systems
+  - AI and GPU infrastructure for accelerated computing workloads
+  - Service lifecycle management and orchestration at datacenter scale
+  - High-performance datacenter networking (Ethernet, InfiniBand, RDMA fabrics)
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Infrastructure as Code, Distributed Systems, Monitoring, Observability]
+    languages: [C, C++, C#, Java, JavaScript, Python, Go, Rust]
+    domains: []
+    other: [AI Infrastructure, High Performance Computing, GPU Platforms, InfiniBand,
+      NVLink, NVSwitch, Ethernet Networking, RDMA, SmartNICs, DPUs, Bare-Metal Infrastructure,
+      Datacenter Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11198675'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:25:12.925811'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

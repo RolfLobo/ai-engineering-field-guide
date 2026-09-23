@@ -1,0 +1,55 @@
+company:
+  name: Huzzle Ltd
+  stage: null
+  focus: Talent matching agency placing remote professionals globally
+position:
+  title: AI/ML & Optimization Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour: evaluating and integrating
+      AI models for creative generation, improving autonomous
+      reasoning, and reducing inference costs while maintaining
+      output quality. The system involves autonomous generative AI
+      for marketing assets, so it is ai-first rather than ml-
+      first.
+  responsibilities:
+  - Architect and refine autonomous optimization algorithms driving marketing decisions
+  - Analyze experiment performance and A/B test results to iterate on system logic
+  - Evaluate and integrate cutting-edge AI models for creative generation and prediction
+  - Develop and improve multi-touch attribution models for revenue reporting
+  - Scale the platform to new advertising channels and complex customer journeys
+  - Optimize performance and reduce inference costs and latency
+  - Incorporate customer feedback and behavioral data into autonomous reasoning
+  - Monitor reliability and speed of optimization loops
+  use_cases:
+  - Autonomous full-funnel marketing asset creation and testing
+  - Ad, website, and email marketing optimization
+  - Predictive revenue attribution across advertising channels
+  - Self-improving marketing decision engine
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [A/B Testing, Experimental Design, Multi-Touch Attribution]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10961043'
+  location: MAR
+  locations:
+  - MAR
+  - EGY
+  - IND
+  - PAK
+  - PHL
+  remote: true
+  extracted_at: '2026-09-23T11:09:31.997343'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

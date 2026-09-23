@@ -1,0 +1,121 @@
+job_id: 10866307
+title: Generative AI Engineer - Fullstack
+company: Evnek Technologies Pvt Ltd
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 13 Employees
+description: |
+  Job Title: GenAI Engineer – Full Stack
+
+  Experience: 4–12 Years
+
+  Location: Bengaluru
+
+  Notice Period: Immediate Joiners Only
+
+  Employment Type: Full-Time
+
+  About the Role
+
+  We are looking for a hands-on Generative AI Engineer with
+  strong Full Stack development experience to design, develop,
+  and deploy production-grade AI applications. The ideal
+  candidate should have expertise in LLMs, RAG, AI Agents,
+  Python, APIs, modern frontend frameworks, databases, and
+  cloud technologies.
+
+  The role requires an engineer who can take complete
+  ownership of AI applications—from solution design and
+  backend development to frontend integration, deployment, and
+  production support.
+
+  Key Responsibilities
+
+  - Design, develop, and deploy end-to-end Generative AI
+    applications for enterprise use cases.
+  - Build and optimize Retrieval-Augmented Generation (RAG)
+    pipelines.
+  - Develop LLM workflows, AI Agents, and multi-agent solutions.
+  - Integrate LLMs such as OpenAI/Azure OpenAI, Claude, Gemini,
+    or open-source models into enterprise applications.
+  - Implement prompt engineering, function/tool calling,
+    structured outputs, and LLM evaluation techniques.
+  - Develop scalable backend services and REST APIs using
+    Python, FastAPI, or Flask.
+  - Build responsive frontend applications using React.js,
+    Next.js, Angular, or similar frameworks.
+  - Integrate GenAI solutions with enterprise applications,
+    APIs, databases, and third-party platforms.
+  - Work with Vector Databases such as Pinecone, FAISS, Chroma,
+    Weaviate, or Azure AI Search.
+  - Implement document ingestion, chunking, embedding,
+    retrieval, reranking, and response-generation pipelines.
+  - Deploy and manage AI applications on Azure, AWS, or GCP.
+  - Implement authentication, security, logging, monitoring, and
+    performance optimization.
+  - Work closely with Product, Data, AI, and business teams to
+    translate requirements into production-ready solutions.
+  - Troubleshoot production issues and continuously improve AI
+    application quality, latency, accuracy, and scalability.
+
+  Must-Have Skills
+
+  - 4–12 years of overall software engineering experience with
+    hands-on GenAI development experience.
+  - Strong programming skills in Python.
+  - Hands-on experience with Generative AI, LLMs, RAG, Prompt
+    Engineering, and AI Agents.
+  - Experience with frameworks such as LangChain, LangGraph,
+    LlamaIndex, Semantic Kernel, or equivalent.
+  - Strong backend development experience with FastAPI/Flask and
+    REST APIs.
+  - Full Stack development experience using React.js / Next.js /
+    Angular and JavaScript/TypeScript.
+  - Experience with SQL and NoSQL databases.
+  - Hands-on knowledge of Vector Databases and Embeddings.
+  - Experience with at least one major cloud platform: Azure,
+    AWS, or GCP.
+  - Knowledge of Git, Docker, CI/CD, and microservices
+    architecture.
+  - Strong debugging, analytical, and problem-solving skills.
+
+  Good to Have
+
+  Experience with Azure OpenAI, AWS Bedrock, or Google Vertex
+  AI.
+
+  Knowledge of MLOps/LLMOps, model evaluation, monitoring, and
+  guardrails.
+
+  Experience developing enterprise-grade AI Agents and Agentic
+  AI workflows.
+
+  Exposure to Kubernetes and container orchestration.
+
+  Understanding of AI security, responsible AI, data privacy,
+  and governance.
+
+  Experience delivering GenAI applications from POC to
+  production.
+
+  Requirements
+
+  Ideal Candidate
+
+  We are looking for a hands-on GenAI Engineer who is also a
+  strong Full Stack Developer and can independently build an
+  AI solution from the backend and LLM layer through to the
+  user interface and production deployment.
+
+  Key Skills: GenAI | LLM | RAG | Agentic AI | AI Agents |
+  Python | FastAPI | LangChain | LangGraph | React.js |
+  Next.js | JavaScript/TypeScript | Vector Database |
+  Azure/AWS/GCP | Docker | CI/CD
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Machine Learning
+  - Consulting
+posted_date: 2026-08-27
+url: "https://builtin.com/job/generative-ai-engineer-fullstack/10866307"
+source: Built In

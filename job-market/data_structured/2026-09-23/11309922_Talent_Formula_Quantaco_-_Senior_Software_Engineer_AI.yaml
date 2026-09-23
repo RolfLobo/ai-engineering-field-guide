@@ -1,0 +1,44 @@
+company:
+  name: Talent Formula
+  stage: null
+  focus: Tech-enabled accounting services for hospitality
+position:
+  title: Quantaco - Senior Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires prompt engineering to optimize
+      LLM performance and accuracy, and integrating AI/ML models
+      into products — the person shapes LLM behaviour, making it
+      ai-first despite the full-stack majority of duties.
+  responsibilities:
+  - Design and develop scalable full-stack web applications using Django and React
+  - Develop and maintain robust APIs and database schemas
+  - Build modern, responsive UIs and integrate them with backend APIs
+  - Integrate AI and machine learning models into existing software systems
+  - Integrate applications with third-party services and APIs
+  - Optimize system performance, scalability, and reliability
+  - Monitor and troubleshoot production issues
+  use_cases:
+  - Predictive financial data services for hospitality
+  - AI-driven accounting and finance operations
+  - Automated data pipelines for financial analytics
+  skills:
+    genai: [Prompt Engineering, LLMs]
+    ml: [Machine Learning]
+    web: [Django, FastAPI, React, REST APIs, JavaScript, HTML, CSS]
+    databases: [PostgreSQL, MySQL, Relational Databases]
+    data: []
+    cloud: [GCP, Vertex AI, AWS, Azure]
+    ops: [CI/CD, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11309922'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:36:06.756140'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

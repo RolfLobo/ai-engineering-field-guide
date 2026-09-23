@@ -1,0 +1,46 @@
+company:
+  name: NTT DATA
+  stage: null
+  focus: |-
+    Business and technology services including AI and digital
+    infrastructure
+position:
+  title: Senior Associate Engineer - AI Services
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs ML/AI algorithms on telemetry data as part of
+      general software development; it does not shape model
+      behaviour via prompts, retrieval, fine-tuning, or evals.
+      AI/ML is mentioned only as a familiarity item in an
+      otherwise generic software engineering role.
+  responsibilities:
+  - Design and develop software solutions and functionality supporting business growth
+  - Write, test, and refactor code, and review code from other developers
+  - Support automated testing and software deployment
+  - Develop functionality in a micro-services environment working with APIs and telemetry
+    data
+  - Run ML/AI algorithms on structured and unstructured data
+  - Support integration and automation of solutions using 3rd party software
+  - Help build and debug large-scale distributed systems
+  - Write and maintain technical documentation and operational procedures
+  use_cases: []
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: [REST APIs, Microservices]
+    databases: [SQL, NoSQL, Elasticsearch, MongoDB, Cassandra]
+    data: []
+    cloud: [AWS, GCP, Azure, Microsoft Office 365]
+    ops: [Kubernetes, Docker, LXC/LXD, CI/CD, DevOps]
+    languages: [C++, C#, Java, JavaScript, Python, Node.js]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11177355'
+  location: Chennai, IND
+  extracted_at: '2026-09-23T11:23:50.819356'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

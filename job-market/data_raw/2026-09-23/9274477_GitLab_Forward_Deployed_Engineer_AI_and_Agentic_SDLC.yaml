@@ -1,0 +1,210 @@
+job_id: 9274477
+title: Forward Deployed Engineer, AI and Agentic SDLC
+company: GitLab
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  GitLab is the intelligent orchestration platform for
+  DevSecOps. GitLab enables organizations to increase
+  developer productivity, improve operational efficiency,
+  reduce security and compliance risk, and accelerate digital
+  transformation. More than 50 million registered users and
+  more than 50% of the Fortune 100* trust GitLab to ship
+  better, more secure software faster.
+
+  The same principles built into our products are reflected in
+  how our team works: we embrace AI as a core productivity
+  multiplier, with all team members expected to incorporate AI
+  into their daily workflows to drive efficiency, innovation,
+  and impact. GitLab is where careers accelerate, innovation
+  flourishes, and every voice is valued. Our high-performance
+  culture is driven by our values and continuous knowledge
+  exchange, enabling our team members to reach their full
+  potential while collaborating with industry leaders to solve
+  complex problems. Co-create the future with us as we build
+  technology that transforms how the world develops software.
+
+  *Fortune 500® is a registered trademark of Fortune Media IP
+  Limited, used under license. Claim based on GitLab data.
+  Fortune 100 refers to the top 20% ranked companies in the
+  2025 Fortune 500 list, published in June 2025. Fortune and
+  Fortune Media IP Limited are not affiliated with, and do not
+  endorse products or services of GitLab.
+
+  Forward Deployed Engineer, AI and Agentic SDLCAn Overview of
+  This Role
+
+  GitLab’s Forward Deployed Engineering team closes the gap
+  between what strategic customers need and what GitLab can
+  currently deliver. We work alongside customers, Product,
+  Engineering, and existing field teams, using hands-on
+  engineering to resolve product friction, accelerate customer
+  outcomes, and contribute reusable improvements back to
+  GitLab.
+
+  As a Staff Forward Deployed Engineer focused on AI and
+  Agentic SDLC, you will help define and build GitLab Duo
+  Agent Platform at the frontier of agentic software
+  development. You will design agent workflows and context
+  systems, build integrations and product changes, evaluate
+  and optimize system behavior, and work directly with
+  customers to understand where AI systems succeed, fail, or
+  create friction.
+
+  Engagements may range from a focused technical consultation
+  to a long-running design partnership. The technical work may
+  span GitLab’s CLI, IDE integrations, AI Gateway, web
+  experiences, agent orchestration, evaluation systems,
+  authorization controls, and other evolving parts of the
+  platform.
+
+  What You’ll Do
+
+  - Design and build agentic systems using models, tools, action
+    loops, orchestration, context, retrieval, state, memory,
+    evaluation, tracing, and human oversight.
+  - Develop context and knowledge systems using approaches such
+    as retrieval-augmented generation, cache-augmented
+    generation, graph-based retrieval, repository
+    understanding, and context optimization.
+  - Work directly in strategic customer environments to
+    understand technical friction and turn ambiguous needs
+    into working solutions.
+  - Build agent workflows, integrations, evaluation suites,
+    reference architectures, and product capabilities that
+    improve customer outcomes.
+  - Contribute production-quality changes across GitLab Duo
+    Agent Platform and the broader GitLab product.
+  - Evaluate and improve system quality, reliability, latency,
+    cost, token use, safety, authorization, governance, and
+    developer experience.
+  - Diagnose failures across models, context, retrieval, tool
+    use, control flow, product behavior, permissions, and
+    surrounding software-development workflows.
+  - Partner with Product and Engineering as an extension of
+    their teams, accelerating work while aligning with product
+    direction and engineering standards.
+  - Generalize customer-specific learning into reusable platform
+    capabilities, implementation patterns, and technical
+    guidance.
+  - Provide Staff-level technical leadership through
+    architecture, implementation, review, mentorship, and
+    influence across teams.
+
+  What You’ll Bring
+
+  - Staff-level software-engineering experience building,
+    shipping, and improving complex production systems.
+  - Hands-on experience designing and building substantive AI
+    systems, with the ability to evaluate, trace, debug, and
+    optimize their behavior.
+  - Strong understanding of how agentic systems use models,
+    context, retrieval, tools, state, control flow,
+    evaluation, and human oversight.
+  - Understanding of why AI systems become unreliable, fail to
+    achieve adoption, or consume significant resources without
+    producing useful outcomes.
+  - Depth in one or more areas of AI engineering, such as agent
+    systems, context and knowledge systems, AI developer
+    tools, inference, or AI-enabled product engineering.
+  - Strong programming skills in Python, TypeScript, Go, Rust,
+    Java, Kotlin, Ruby, C#, or another language used to build
+    AI, backend, developer-tooling, or platform systems.
+  - Ability to learn and contribute across large, mature,
+    polyglot codebases.
+  - Practical understanding of AI safety, authorization,
+    governance, observability, and cost management.
+  - Ability to communicate clearly with customers and senior
+    stakeholders, work through ambiguity, and build trust
+    while remaining deeply technical.
+  - A record of Staff-level impact through technical direction,
+    reusable systems, mentorship, cross-team influence, or
+    product architecture.
+
+  AI engineering spans multiple disciplines, and we do not
+  expect every candidate to have equal depth across all of
+  them. Strong candidates will bring deep expertise in one or
+  more areas, along with the systems perspective needed to
+  collaborate across the complete platform.
+
+  It Would Be Helpful If You Have
+
+  - Experience working directly with customers, design partners,
+    or external engineering teams.
+  - Experience building AI systems for software development,
+    coding agents, IDEs, code understanding, code review,
+    testing, CI/CD, security, or incident response.
+  - Experience with LangChain, LangGraph, RAG, cache-augmented
+    generation, knowledge graphs, agent evaluation, tracing,
+    or related systems.
+  - Experience evaluating how model and inference behavior
+    affects application or agent performance.
+  - Experience with self-hosted models, restricted environments,
+    enterprise governance, or customer-controlled inference.
+  - Familiarity with Git, GitLab, CI/CD, developer platforms, or
+    large open-source products.
+  - Experience with Ruby on Rails or other parts of GitLab’s
+    existing product stack.
+  - Experience with AWS, GCP, Azure or Kubernetes.
+  - Experience with Infrastructure as Code tooling, such as
+    Terraform, Ansible, etc.
+  - Public technical writing, architecture guidance, open-source
+    contributions, talks, or other evidence of technical
+    leadership.
+
+  How GitLab Supports Full-Time Employees
+
+  - Benefits to support your health, finances, and well-being
+  - Flexible Paid Time Off
+  - Team Member Resource Groups
+  - Equity Compensation & Employee Stock Purchase Plan
+  - Growth and Development Fund
+  - Parental Leave
+
+  Please note that we welcome interest from candidates with
+  varying levels of experience; many successful candidates do
+  not meet every single requirement. Additionally, studies
+  have shown that people from underrepresented groups are less
+  likely to apply to a job unless they meet every single
+  qualification. If you're excited about this role, please
+  apply and allow our recruiters to assess your application.
+
+  Country Hiring Guidelines: GitLab hires new team members in
+  countries around the world. All of our roles are remote,
+  however some roles may carry specific location-based
+  eligibility requirements. Our Talent Acquisition team can
+  help answer any questions about location after starting the
+  recruiting process.
+
+  Privacy Policy: Please review our Recruitment Privacy
+  Policy. Your privacy is important to us.
+
+  GitLab is proud to be an equal opportunity workplace and is
+  an affirmative action employer. GitLab’s policies and
+  practices relating to recruitment, employment, career
+  development and advancement, promotion, and retirement are
+  based solely on merit, regardless of race, color, religion,
+  ancestry, sex (including pregnancy, lactation, sexual
+  orientation, gender identity, or gender expression),
+  national origin, age, citizenship, marital status, mental or
+  physical disability, genetic information (including family
+  medical history), discharge status from the military,
+  protected veteran status (which includes disabled veterans,
+  recently separated veterans, active duty wartime or campaign
+  badge veterans, and Armed Forces service medal veterans), or
+  any other basis protected by law. GitLab will not tolerate
+  discrimination or harassment based on any of these
+  characteristics. See also GitLab’s EEO Policy and EEO is the
+  Law. If you have a disability or special need that requires
+  accommodation, please let us know during the recruiting
+  process.
+industries:
+  - Cloud
+  - Security
+  - Software
+  - Cybersecurity
+  - Automation
+posted_date: 2026-08-26
+url: "https://www.builtinla.com/job/forward-deployed-engineer/9274477"
+source: Built In

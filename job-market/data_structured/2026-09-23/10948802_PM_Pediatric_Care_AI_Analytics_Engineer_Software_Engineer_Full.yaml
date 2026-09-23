@@ -1,0 +1,59 @@
+company:
+  name: PM Pediatric Care
+  stage: null
+  focus: Pediatric urgent care and clinical healthcare services
+position:
+  title: AI & Analytics Engineer (Software Engineer – Full stack)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI-powered applications and agents that
+      support business workflows, and develops backend services
+      integrating AI capabilities - creating agent-based AI
+      solutions is shaping model behavior. While junior and guided
+      by seniors, the responsibilities explicitly include building
+      agents and iterating on AI application outputs, making this
+      an LLM/agent-shaping role rather than pure AI consumption.
+  responsibilities:
+  - Build and enhance AI-powered applications and agents supporting business workflows
+  - Develop frontend interfaces surfacing AI capabilities to clinical and operational
+    users
+  - Build backend services and REST/GraphQL APIs integrating AI capabilities into
+    workflows
+  - Integrate AI applications with enterprise systems (EMR, HRIS, data platforms)
+    under senior direction
+  - Deploy, test, and monitor AI solutions in production and lower environments
+  - Build and maintain ETL/ELT pipelines feeding analytics and AI use cases
+  - Develop semantic models, datasets, and Power BI dashboards with row-level security
+  - Monitor AI outputs and data pipelines for accuracy, reliability, and compliance
+    (HIPAA-aware)
+  use_cases:
+  - AI-powered applications and agents automating routine business workflows in healthcare
+    operations
+  - Surfacing AI-driven insights to clinical and operational users via user-facing
+    interfaces
+  - Automated data pipelines feeding analytics and AI use cases from EMR, HRIS, and
+    enterprise systems
+  - Dashboards and semantic models for operational efficiency and decision-making
+    across the organization
+  skills:
+    databases: [Relational Databases]
+    domains: []
+    data: [Data Pipelines]
+    web: [React, Vue, Angular, REST APIs, GraphQL, FastAPI, Django, Express, ASP.NET
+        Core, Spring Boot]
+    ml: [Machine Learning]
+    ops: [CI/CD, Git, GitHub]
+    other: [Power BI, DAX, Code Review, Agile, HIPAA Compliance]
+    cloud: [Azure]
+    languages: [Python, Node.js, .NET, SQL]
+    genai: [AI Agents]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10948802'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:08:16.022881'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

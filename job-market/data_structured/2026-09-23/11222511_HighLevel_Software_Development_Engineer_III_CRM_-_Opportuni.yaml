@@ -1,0 +1,57 @@
+company:
+  name: HighLevel
+  stage: null
+  focus: AI-powered business operating system for agencies and SMBs
+position:
+  title: Software Development Engineer III (CRM - Opportunities - AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Although primarily a backend role, the engineer designs
+      context assembly, prompt/response contracts, and an output-
+      quality feedback loop for LLM-backed features themselves,
+      which is shaping model behavior. Per the edge case, a
+      backend engineer who writes prompts or designs context
+      assembly is ai-first even when they don't train or serve
+      models.
+  responsibilities:
+  - Own the full lifecycle of the Opportunities CRM backend end-to-end
+  - Design and evolve data models for pipelines, stages, deals, and associated entities
+  - Build and scale APIs, event-driven workflows, and background jobs handling high-volume
+    writes and integrations
+  - 'Solve distributed systems concerns: idempotency, eventual consistency, race conditions,
+    tenant isolation'
+  - Improve performance and reliability of large pipelines via indexing, sharding,
+    caching, and query optimization
+  - 'Build AI-assisted features on top of existing AI capabilities: context assembly,
+    prompt/response contracts, caching, cost/latency budgets, graceful degradation,
+    and output-quality feedback loop'
+  - Ship occasional UI changes in Vue without cross-functional blocking
+  - Instrument the system with logs, metrics, traces, and SLOs; drive incident response
+    and postmortems
+  use_cases:
+  - CRM deal and pipeline management as system of record for revenue motions
+  - AI-assisted pipeline attention surfacing, deal context summarization, and next-step
+    suggestions
+  - Sales automations, reporting, and integrations at scale
+  - Multi-tenant SaaS with millions of opportunities per workspace
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [Vue, APIs]
+    databases: [SQL, NoSQL, MongoDB, PostgreSQL, Elasticsearch, ClickHouse]
+    data: [Kafka, Redis Streams]
+    cloud: []
+    ops: [Event-Driven Architecture, Monitoring, Observability, Distributed Systems]
+    languages: [Node.js, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11222511'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:28:24.570215'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Emerson
+  stage: null
+  focus: Automation technology and software for critical industries
+position:
+  title: Principal Software Engineer – AI Systems for Engineering Workflows
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI-powered systems for
+      engineering workflows, including hands-on work with RAG
+      architectures, agentic systems, and evaluation methods.
+      Shaping LLM-based systems for build/test triage and release
+      decision support makes it ai-first. It is stated to be an
+      individual contributor role despite being Principal-level.
+  responsibilities:
+  - Lead design and delivery of AI-enabled solutions for software build, test, and
+    release workflows
+  - Identify engineering workflows that can be offloaded to AI systems to reduce manual
+    effort
+  - Design and implement scalable AI-powered solutions for build/test triage, failure
+    analysis, flaky test intelligence, debugging assistance, and release decision
+    support
+  - Own initiatives from concept and architecture through development, rollout, validation,
+    and adoption
+  - Establish approaches for evaluation, telemetry, monitoring, and observability
+    of AI-enabled systems
+  - Set technical direction and shape the roadmap for AI-driven DevOps transformation
+  - Mentor engineers and teams on AI/ML fundamentals and automation practices
+  - Ensure AI-enabled automation aligns with reliability, safety, and regulatory commitments
+  use_cases:
+  - AI-powered build and test triage
+  - Failure analysis and flaky test intelligence
+  - Debugging assistance for engineers
+  - Release decision support
+  - Predictive and self-healing CI/CD pipelines
+  - Engineering productivity automation at organizational scale
+  skills:
+    genai: [RAG, Agentic Workflows, LLM Evaluation, Fine-Tuning, LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, MLOps, Monitoring, Observability, DevOps]
+    languages: []
+    domains: []
+    other: [Agile, Workflow Automation, Internal Developer Platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11175860'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:23:53.778090'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

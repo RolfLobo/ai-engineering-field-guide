@@ -1,0 +1,48 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions (DRAM, NAND) manufacturing
+position:
+  title: PRINCIPAL ENGINEER, AI ARCHITECT, SMAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires expertise in Agentic AI and Gen AI and
+      architecting AI/ML solutions, which involves designing agent
+      flows and LLM-based systems. Architecting agentic AI
+      solutions counts as shaping LLM/agent behavior, so it is ai-
+      first.
+  responsibilities:
+  - Architect scalable, production-ready cloud analytics, ML, and data science solutions
+    for Smart Manufacturing problems
+  - Lead technical architecture decisions covering system design, data models, platform
+    standards, and lifecycle management
+  - Provide subject matter expertise to troubleshoot critical technical issues across
+    projects
+  - Collaborate in cross-functional teams and technical working groups to align stakeholders
+  - Coach and mentor Data Scientists, AI Engineers, and AI Product Owners
+  - Design Agentic AI, Gen AI, Big Data, and IoT solutions on cloud and on-prem platforms
+  use_cases:
+  - Smart Manufacturing analytics
+  - Factory data science and AI/ML solutions
+  - IoT-driven manufacturing insights
+  - Agentic AI for manufacturing operations
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [Angular]
+    ml: [Machine Learning]
+    ops: [Kubernetes, OpenShift, GitHub]
+    other: [Solace, IoT, Big Data]
+    cloud: [GCP, Azure]
+    languages: [Python, .NET, SQL]
+    genai: [AI Agents, Generative AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11041071'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:14:47.072908'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

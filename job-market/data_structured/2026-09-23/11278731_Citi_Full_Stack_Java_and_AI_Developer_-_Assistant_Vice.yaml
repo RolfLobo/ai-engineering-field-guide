@@ -1,0 +1,49 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Full Stack Java and AI Developer - Assistant Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds generative AI applications with LangChain
+      and AI development kits and integrates AI/ML solutions into
+      enterprise applications, which means shaping LLM behavior
+      directly. Step 1 is satisfied with an LLM component, so it
+      is ai-first.
+  responsibilities:
+  - Design, develop, and maintain scalable enterprise applications using Java, Spring
+    Boot, and Hibernate
+  - Develop and consume RESTful APIs and microservices
+  - Implement real-time data processing pipelines and messaging with Kafka
+  - Build responsive front-end interfaces using Angular
+  - Design and integrate AI/ML models and generative AI applications using Python
+    and LangChain
+  - Write complex SQL queries and perform database schema design and optimization
+  - Participate in all SDLC phases including feasibility studies and cost estimates
+  - Provide operational support, mentor junior analysts, and serve as SME in full-stack
+    and AI development
+  use_cases: []
+  skills:
+    genai: [LangChain, Generative AI]
+    ml: [Hibernate, Model Training]
+    web: [Spring Boot, Angular, Microservices]
+    databases: [Oracle, PostgreSQL]
+    data: [Kafka]
+    cloud: []
+    ops: [Docker, Monitoring]
+    languages: [Java, Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11278731'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Chennai, IND
+  extracted_at: '2026-09-23T11:35:36.435676'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Wheel
+  stage: null
+  focus: Virtual care and telehealth infrastructure
+position:
+  title: Staff Software Engineer, AI-Native Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production AI agents —
+      retrieval, orchestration, tool/function calling, evaluation
+      harnesses, and guardrails — directly shaping LLM/agent
+      behavior, so Step 2 gives ai-first. Technical leadership
+      without direct reports means it is an IC role.
+  responsibilities:
+  - 'Own technical direction for an AI-native domain: agent architecture, platform
+    abstractions, or evaluation and guardrail infrastructure'
+  - Design and build production AI agents with retrieval, orchestration, policy-based
+    routing, tool invocation, evaluation harnesses, and lifecycle observability
+  - Build shared abstraction layers, libraries, and guardrails that other teams integrate
+    AI capabilities with
+  - Own full-stack delivery in TypeScript/Node.js and Python across service and API
+    layers and data-processing jobs
+  - 'Define and run the evaluation strategy: metrics, test harnesses, and plans measuring
+    agent accuracy, latency, safety, and cost'
+  - Own deployment, monitoring, troubleshooting, and on-call for production systems
+  - Partner with product, operations, and business leaders to define worthwhile AI
+    use cases and influence roadmap
+  - Mentor engineers and anchor the internal community of practice around agentic
+    engineering
+  use_cases:
+  - Agent-powered workflows carrying real operational load in virtual care
+  - Replacing manual, ad-hoc telehealth processes with intelligent systems
+  - Workflow automation, forecasting-driven products, and supply-demand matching
+  - Safe use of AI on sensitive healthcare data in a regulated environment
+  skills:
+    genai: [Agentic Workflows, AI Agents, RAG, Function Calling, LLM Evaluation, Guardrails,
+      LLMs, Multi-Agent Systems]
+    ml: []
+    web: [APIs]
+    databases: [Relational Databases]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Observability, Model Deployment]
+    languages: [TypeScript, Node.js, Python, SQL]
+    domains: []
+    other: [Event-Driven Architecture, Workflow Automation, HIPAA Compliance, Code
+        Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10864010'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:39.080370'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

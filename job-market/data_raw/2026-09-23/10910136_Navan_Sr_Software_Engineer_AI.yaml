@@ -1,0 +1,117 @@
+job_id: 10910136
+title: Sr. Software Engineer, AI
+company: Navan
+location: New York, USA
+work_type: FULL_TIME
+company_size: 3,300 Employees
+description: |
+  Navan is building the next generation of intelligent travel
+  experiences, where loyalty, personalization, and AI agents
+  help travelers make better decisions before, during, and
+  after every trip. As a Senior Software Engineer, AI on the
+  Loyalty Wallet team, you’ll build agentic product
+  experiences that understand a traveler’s loyalty programs,
+  surface useful insights, and safely help users manage their
+  memberships through Navan Edge.
+
+  What You’ll Do:
+
+  - Build AI-Powered Product Experiences: Design and develop
+    agentic workflows that help users view, understand,
+    connect, and manage their loyalty programs through chat,
+    wallet surfaces, and personalized recommendations.
+  - Develop Production AI Systems: Build reliable LLM-powered
+    flows with structured outputs, tool calling, guardrails,
+    human confirmation, evals, and monitoring for real
+    customer-facing use cases.
+  - Own Agent and Workflow Quality: Create and maintain scenario
+    tests, adversarial evals, prompt/tool contracts, and
+    quality metrics that ensure agents behave safely around
+    loyalty data, PII, financial guidance, and unsupported
+    requests.
+  - Integrate Across the Stack: Work across frontend, backend,
+    and AI orchestration layers, including wallet APIs,
+    streaming chat experiences, UI components, data services,
+    and ML/LLM workflows.
+  - Turn Data Into Personalization: Help transform loyalty
+    balances, tier progress, membership data, connected email
+    signals, and trip context into useful recommendations and
+    next-best actions.
+  - Collaborate Cross-Functionally: Partner closely with
+    product, design, backend, data, and platform teams to ship
+    polished, measurable customer experiences.
+  - Raise the Engineering Bar: Champion maintainable code,
+    thoughtful abstractions, strong tests, observability,
+    documentation, and operational ownership.
+
+  What We’re Looking For:
+
+  - 6+ years of software engineering experience building
+    production systems, with meaningful hands-on experience in
+    AI, LLM, agent, workflow, or ML-powered products.
+  - Experience building agentic systems, tool-calling workflows,
+    RAG-like systems, structured LLM outputs, eval pipelines,
+    or AI assistants in production.
+  - Strong engineering fundamentals in TypeScript/Node.js, Java,
+    Python, or similar backend/product engineering stacks.
+  - Experience with distributed systems, APIs, async workflows,
+    caching, observability, and production debugging.
+  - Comfort working with AI safety patterns such as guardrails,
+    HITL confirmation, deterministic tool boundaries,
+    hallucination prevention, and PII-sensitive workflows.
+  - Product mindset and ability to translate ambiguous user
+    needs into robust, user-facing experiences.
+  - Strong ownership mentality, with the ability to ship,
+    measure, iterate, and support features after release.
+  - Experience with travel, loyalty programs, personalization,
+    fintech, or consumer data products is a strong plus.
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, or related field, or equivalent hands-on
+    experience.
+
+  The posted pay range represents the anticipated low and high
+  end of the compensation for this position and is subject to
+  change based on business need. To determine a successful
+  candidate’s starting pay, we carefully consider a variety of
+  factors, including primary work location, an evaluation of
+  the candidate’s skills and experience, market demands, and
+  internal parity. For roles with on-target-earnings (OTE),
+  the pay range includes both base salary and target incentive
+  compensation. Target incentive compensation for some roles
+  may include a ramping draw period. Compensation is higher
+  for those who exceed targets. Candidates may receive more
+  information from the recruiter.
+
+  Pay Range
+
+  $113,400—$252,000 USD
+
+  Navan uses AI-assisted Automated Employment Decision Tool
+  (Metaview) to assist with evaluating resumes against job
+  qualifications for this role. All final decisions are made
+  by human recruiters and hiring managers.
+
+  Human oversight: Metaview does not automatically reject
+  candidates or make final hiring decisions. Our recruiters
+  and hiring managers review all outputs and make the final
+  hiring decision regarding every application.
+
+  - Your rights: If you prefer to have your application reviewed
+    without AI assistance, you may request a human evaluation
+    by entering your email here. Your decision to do so will
+    not affect how your candidacy is evaluated.
+
+  Please refer to our Candidate Privacy Notice for more
+  information about our processing of personal data, and your
+  rights.
+industries:
+  - Fintech
+  - Information Technology
+  - Payments
+  - Productivity
+  - Software
+  - Travel
+  - Automation
+posted_date: 2026-08-28
+url: "https://builtin.com/job/sr-software-engineer-ai/10910136"
+source: Built In

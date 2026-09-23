@@ -1,0 +1,187 @@
+job_id: 11223932
+title: Staff QA Engineer (AI Enabled)
+company: Ping Identity
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 2,300 Employees
+description: |
+  About Ping Identity:
+
+  At Ping Identity, we believe in making digital experiences
+  both secure and seamless for all users, without compromise.
+  We call this digital freedom. And it's not just something we
+  provide our customers. It's something that inspires our
+  company. People don't come here to join a culture that's
+  built on digital freedom. They come to cultivate it.
+
+  Our intelligent, cloud identity platform lets people shop,
+  work, bank, and interact wherever and however they want.
+  Without friction. Without fear.
+
+  While protecting digital identities is at the core of our
+  technology, protecting individual identities is at the core
+  of our culture. We champion every identity. One of our core
+  values, Respect Individuality, reminds us to celebrate
+  differences so you are empowered to bring your authentic
+  self to work.
+
+  We're headquartered in Denver, Colorado and we have offices
+  and employees around the globe. We serve the largest, most
+  demanding enterprises worldwide, including more than half of
+  the Fortune 100. At Ping Identity, we're changing the way
+  people and businesses think about cybersecurity, digital
+  experiences, and identity and access management.
+
+  The Ping Identity Data Platform team is building the next
+  generation of enterprise AI governance capabilities to
+  enable secure, scalable, and responsible adoption of AI
+  agents. The team is evolving governance frameworks,
+  platforms, and operational processes to manage AI agents
+  across the enterprise, addressing key areas such as
+  security, compliance, identity, risk management, and
+  responsible AI.
+
+  As part of our Data Platform team, you will help define and
+  implement next-generation QA automation and AI-driven
+  testing capabilities across our platform. You will build
+  intelligent test automation frameworks, leverage AI to
+  improve test coverage and accelerate defect detection, and
+  automate validation across APIs, services, workflows, and
+  end-to-end customer scenarios. You will work closely with
+  engineering, product, security, and other cross-functional
+  teams to drive quality from design through delivery, while
+  exploring innovative AI-driven approaches to make our
+  testing more intelligent, scalable, and efficient.
+
+  You Will:
+
+  - Design, develop, and maintain QA automation frameworks and
+    automated test suites covering Identity Governance
+    capabilities such as certifications, lifecycle management,
+    workflows, and Separation of Duties (SoD), ensuring high-
+    quality and reliable product releases.
+  - Build and enhance AI-driven test automation capabilities
+    that leverage AI/LLMs to generate test scenarios, expand
+    test coverage, identify potential defects, analyze
+    failures, and accelerate the overall software testing
+    lifecycle.
+  - Create automated validation for AI agents, tools, MCP
+    servers, workflows, APIs, and enterprise integrations,
+    including functional, integration, regression,
+    performance, security, and end-to-end testing.
+  - Contribute to rapid prototyping and iteration of AI-powered
+    testing solutions, while learning and adopting evolving AI
+    frameworks, testing tools, agentic technologies, and
+    industry best practices.
+  - Leverage AI coding assistants and agentic development tools
+    to improve test automation productivity, accelerate test
+    development, generate meaningful test data and scenarios,
+    and improve test coverage while maintaining modularity,
+    maintainability, observability, and code quality.
+  - Develop intelligent automation for test failure analysis,
+    defect detection, root-cause identification, and
+    regression analysis, reducing manual investigation and
+    improving feedback cycles.
+  - Collaborate with Engineering, Support, Product, Security,
+    and customer-facing teams to troubleshoot issues,
+    reproduce customer scenarios, identify root causes, and
+    deliver automated regression coverage to prevent recurring
+    issues.
+  - Develop automated tests to validate AI agent performance,
+    usage, operational health, security, and reliability
+    across supported AI platforms and integrations.
+  - Contribute to automated logging, metrics, monitoring, and
+    observability validation, ensuring AI agents and
+    governance capabilities meet operational and compliance
+    requirements.
+  - Explore and evaluate emerging AI testing and agentic
+    automation frameworks, interoperability standards such as
+    MCP and Agent-to-Agent communication, and technologies
+    that can enable autonomous or intelligent QA automation.
+  - Continuously identify opportunities to replace manual
+    testing with scalable, reliable, and AI-driven automation,
+    improving release confidence, test coverage, execution
+    speed, and overall engineering efficiency.
+  - Document technical designs, automation frameworks, test
+    strategies, implementation details, operational
+    procedures, and QA engineering best practices.
+
+     You Have:
+
+  - Bachelor’s degree in Computer Science, Software Engineering,
+    or equivalent practical experience.
+  - 8+ years of experience in software engineering, QA
+    automation, test engineering, or a related technical
+    discipline.
+  - Strong programming experience with JavaScript/TypeScript
+    and/or Java.
+  - Strong proficiency with Google Cloud, AWS, and other cloud
+    infrastructure technologies, including testing and
+    troubleshooting cloud-based distributed systems.
+  - Strong experience designing, building, adapting, and
+    maintaining scalable QA automation frameworks and test
+    harnesses using tools such as Jest, Playwright, Cypress,
+    or equivalent technologies.
+  - Demonstrated ability to rapidly create new test harnesses,
+    adapt existing automation to new architectures and product
+    requirements, and continuously improve test coverage and
+    execution efficiency.
+  - Strong experience owning test strategy and test inventory,
+    including exploratory testing, functional testing,
+    regression testing, mini-regression testing, end-to-end
+    testing, and release validation.
+  - Strong ability to analyze failures, establish reproducible
+    test scenarios, collaborate closely with Engineering on
+    root-cause analysis and verification, report test/release
+    status, and drive efficient, high-quality releases.
+
+  Life at Ping:
+
+  We believe in and facilitate a flexible, collaborative work
+  environment. We’re growing quickly, but remain true to the
+  innovative, can-do startup values that got us here. Most
+  importantly, we keep hiring talented, smart, fun, and
+  genuinely nice people because that’s who we want to succeed
+  with every day.
+
+  Here are just a few of the things that make Ping special:
+
+  - A company culture that empowers you to do your best work.
+  - Employee Resource Groups that create a sense of belonging
+    for everyone.
+  - Regular company and team bonding events.
+  - Competitive benefits and perks.
+  - Global volunteering and community initiatives
+
+  Our Benefits:
+
+  - Generous PTO & Holiday Schedule
+  - Parental Leave
+  - Progressive Healthcare Options
+  - Retirement Programs
+  - Opportunity for Education Reimbursement
+  - Commuter Offset (Specific locations)
+
+  Ping is the collective sum of all our individual
+  experiences, backgrounds and influences and we pride
+  ourselves in growing and learning together. We are committed
+  to building an inclusive and diverse environment where
+  everyone’s individuality is respected and everyone has an
+  Identity. In recruiting for new colleagues, we welcome the
+  unique contributions you can bring and encourage you to be
+  your best self.
+
+  We are an Equal Opportunity/Affirmative Action employer.
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex
+  including sexual orientation and gender identity, national
+  origin, disability, protected Veteran Status, or any other
+  characteristic protected by applicable federal, state, or
+  local law.
+industries:
+  - Cloud
+  - Security
+  - Software
+posted_date: 2026-09-17
+url: "https://builtin.com/job/staff-software-engineer/11223932"
+source: Built In

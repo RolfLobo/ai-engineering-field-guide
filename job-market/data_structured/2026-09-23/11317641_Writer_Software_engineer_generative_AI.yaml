@@ -1,0 +1,56 @@
+company:
+  name: Writer
+  stage: null
+  focus: Enterprise generative AI platform and AI agents
+position:
+  title: Software engineer, generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds generative AI applications integrating LLMs,
+      vector databases, and agentic workflows into the platform,
+      directly shaping how AI models are integrated and
+      orchestrated, which is LLM/agent work. It is not merely
+      consuming a pre-configured API, since designing and
+      integrating agentic workflows and AI services is shaping
+      behavior.
+  responsibilities:
+  - Design and develop secure, scalable generative AI services and applications using
+    Python and modern frameworks
+  - Build and optimize high-performance, low-latency APIs and microservices integrating
+    AI models and agentic workflows into the core platform
+  - Own architecture of core platform components from proposal through production
+    deployment
+  - Implement and maintain responsive user interfaces with React and TypeScript
+  - Communicate changes and proposals to cross-functional teams including product
+    managers, data scientists, and DevOps engineers
+  - Partner with DevOps to build continuous deployment, logging, and monitoring systems
+    for distributed workloads
+  use_cases:
+  - Enterprise generative AI applications and services
+  - Integration of LLMs and agentic workflows into an enterprise AI platform
+  - Secure, scalable AI adoption in complex corporate environments
+  - Enterprise administration and billing services
+  skills:
+    genai: [Generative AI, LLMs, AI Agents]
+    ml: []
+    web: [Microservices, REST APIs, FastAPI, OAuth, React]
+    databases: [Pinecone, Weaviate, pgvector, PostgreSQL]
+    data: []
+    cloud: [AWS, GCP, Azure, IAM]
+    ops: [Docker, Kubernetes]
+    languages: [Python, asyncio, TypeScript]
+    domains: []
+    other: [Claude Code, Cursor, GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11317641'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Seattle, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:36:39.129546'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

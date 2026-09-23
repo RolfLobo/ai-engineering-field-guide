@@ -1,0 +1,53 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and data solutions
+position:
+  title: AI/ML Engineer - R01570580
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role consumes prebuilt Snowflake Cortex AI functions
+      (AI_COMPLETE, AI_CLASSIFY, etc.) inside SQL data pipelines
+      rather than shaping model behavior through prompts,
+      retrieval design, or fine-tuning. It is primarily a SQL/data
+      engineering role with GenAI capabilities invoked as an API,
+      so it is ai-support.
+  responsibilities:
+  - Develop complex SQL queries, joins, CTEs, views, stored procedures and data transformations
+    in Snowflake
+  - Use Snowflake Cortex AI Functions such as AI_COMPLETE, AI_CLASSIFY, AI_EXTRACT,
+    AI_SENTIMENT, AI_EMBED and AI_SUMMARIZE_AGG
+  - Build AI-powered data processing and analytics solutions using SQL
+  - Work with structured and unstructured data within Snowflake
+  - Perform data validation, quality checks and troubleshooting
+  - Optimize SQL queries for performance and cost
+  - Support development of GenAI use cases such as summarization, classification,
+    information extraction and semantic search
+  - Collaborate with data engineers, analysts and business teams to deliver solutions
+  use_cases:
+  - AI-powered data processing and analytics in Snowflake
+  - Text summarization
+  - Classification
+  - Information extraction
+  - Sentiment analysis
+  - Semantic search over structured and unstructured data
+  skills:
+    databases: [Snowflake, PL/SQL, T-SQL, Stored Procedures]
+    domains: []
+    data: [Data Pipelines, Data Modeling, Data Warehousing, Snowpipe]
+    web: []
+    ml: []
+    ops: []
+    other: []
+    cloud: []
+    languages: [SQL, Python]
+    genai: [Snowflake Cortex, Generative AI, LLMs, Semantic Search]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11225957'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:28:48.299847'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

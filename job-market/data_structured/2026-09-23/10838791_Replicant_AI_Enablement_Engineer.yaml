@@ -1,0 +1,52 @@
+company:
+  name: Replicant
+  stage: null
+  focus: AI agents and conversation intelligence for contact centers
+position:
+  title: AI Enablement Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent specs, shared agents, MCP
+      integrations, and applies prompt caching, model routing, and
+      agent design to shape behavior and cost of AI agents — that
+      is shaping LLM/agent systems (Step 1 yes, LLM/agent
+      component → ai-first), even though the consumers are
+      internal teams.
+  responsibilities:
+  - Build the paved road for internal AI adoption across Claude Enterprise and Replicant's
+    AI Operating System
+  - Turn team-level wins into reusable shared skills, templates, and agent specs
+  - Drive AI literacy across the company via office hours and champions with the People
+    team
+  - Work with Sales, Delivery, Finance, People, and Engineering to build function-specific
+    AI solutions
+  - Own MCP integrations, shared agents, agent identity management, and commercial
+    tool connections
+  - 'Own cost visibility: consolidate tools, surface shadow AI, and reduce cost via
+    prompt caching, model routing, and agent design'
+  use_cases:
+  - Internal AI enablement across company functions
+  - Agent identity management and shared agent infrastructure
+  - Cost optimization of AI tooling via prompt caching and model routing
+  - Automation of internal workflows for Sales, Delivery, Finance, and People teams
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [APIs]
+    ml: []
+    ops: []
+    other: [SDLC, Secure Authentication, Integration]
+    cloud: []
+    languages: [Python, TypeScript, Bash]
+    genai: [MCP, AI Agents, Agentic Workflows, Claude Code, RAG]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10838791'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:01:35.935484'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

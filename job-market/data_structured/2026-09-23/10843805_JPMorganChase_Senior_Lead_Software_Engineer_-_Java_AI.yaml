@@ -1,0 +1,59 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Consumer and community banking technology at a global bank
+position:
+  title: Senior Lead Software Engineer - Java & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves creating AI agents, RAG with
+      MCP, context engineering, and prompt engineering with LLM
+      tools (Gemini, Claude, Copilot) to generate full-stack code
+      and assemble solutions - directly shaping LLM behavior and
+      outputs. This goes beyond merely using AI coding assistants;
+      it designs agentic workflows and prompts.
+  responsibilities:
+  - Provide technical guidance and direction to business, technical teams, contractors,
+    and vendors
+  - Develop secure, high-quality production code and review/debug code written by
+    others
+  - Create AI agents, skills, and RAG with MCP to auto-generate full-stack Java code,
+    APIs, designs, and test cases, shortening the SDLC
+  - Drive adoption and governance of approved AI-assisted engineering practices across
+    teams with measurable validation standards
+  - Apply SDLC toolchain knowledge, including AI-assisted development and automation,
+    to improve value at scale
+  - Own microservices platform engineering with production support, observability,
+    and SRE in a DevOps model
+  - Lead small teams, own estimations and timelines, and influence broader divisions
+    with tech assets
+  - Coach senior engineers on compliant, responsible AI usage patterns and controls
+  use_cases:
+  - Automated generation of full-stack Java backend code, APIs, designs, and test
+    cases using AI agents and prompt engineering
+  - RAG with MCP and context engineering for AI-assisted solution assembly
+  - AI-assisted code review, refactoring, test acceleration, and incident/root-cause
+    analysis
+  - Self-service platform features and microservices with observability and SRE
+  - Live application and data migrations in production banking systems
+  skills:
+    databases: [SQL, NoSQL, Cassandra]
+    domains: []
+    data: [Kafka]
+    web: [Microservices, Playwright, Selenium, REST APIs, React]
+    ml: []
+    ops: [Observability, SRE, DevOps, CI/CD, SonarQube, Checkmarx, Splunk, Dynatrace]
+    other: [RPA, Agile, Responsible AI]
+    cloud: [AWS]
+    languages: [Java, Spring Boot, Spring Cloud]
+    genai: [AI Agents, RAG, MCP, Context Engineering, Prompt Engineering, LLMs, Gemini,
+      GitHub Copilot, Anthropic API]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10843805'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:02:11.689347'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,369 @@
+job_id: 11113221
+title: Staff AI Automation Engineer
+company: Genesys
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 6,774 Employees
+description: |
+  Be the one building AI-powered experiences where they matter
+  most.
+
+  At Genesys, we help organizations create better customer
+  experiences through AI-powered experience orchestration. Our
+  platform connects people, systems, data and AI to help
+  organizations deliver more personalized service, improve
+  operational efficiency and build stronger customer
+  relationships.
+
+  Help build, support and operate technology used by more than
+  8,000 organizations in over 100 countries – moving AI from
+  possibility to production in real-world enterprise
+  environments every day.
+
+  Job Title: Staff AI Automation Engineer Department & Team:
+  IT Reports to: Manager, AI Enablement & Automation
+
+
+
+  ABOUT GENESYS
+
+  Genesys empowers organizations of all sizes to improve
+  loyalty and business outcomes by creating the best
+  experiences for their customers and employees. Through
+  Genesys Cloud, the AI-powered Experience Orchestration
+  platform, organizations can accelerate growth by delivering
+  empathetic, personalized experiences at scale to drive
+  customer loyalty, workforce engagement, efficiency and
+  operational improvements.
+
+  We employ more than 6,000 people across the globe who
+  embrace empathy and cultivate collaboration to succeed. And,
+  while we offer great benefits and perks like larger tech
+  companies, our employees have the independence to make a
+  larger impact on the company and take ownership of their
+  work. Join the team and create the future of customer
+  experience together.
+
+  ABOUT THE ROLE
+
+  The Staff AI Automation Engineer sets the technical
+  direction for how Genesys builds, scales, and governs
+  automation across the enterprise. This is the senior-most
+  engineering voice on the automation team — someone who has
+  already done the hands-on work of designing production
+  automation systems and RPA modernization, and now operates
+  one level up: setting architecture standards across multiple
+  initiatives, making build-versus-buy calls on automation
+  platforms and frameworks, and mentoring the engineers who do
+  the day-to-day design and delivery.
+
+  You will own the technical strategy for a portfolio that
+  spans legacy RPA, Playwright-based workflows, and agentic AI
+  pipelines — deciding not just how individual automations
+  should be built, but how the team's tooling, standards, and
+  platform capabilities should evolve so automation scales
+  safely across Genesys. You will partner with the Manager, AI
+  Enablement & Automation and cross-functional leaders to
+  translate ambiguous, high-stakes process problems into a
+  coherent automation roadmap, and you will be the person
+  other engineers escalate to when a design decision needs
+  deeper judgment
+
+  WHAT YOU'LL DO
+
+  AI Automation Architecture & Technical Strategy
+
+  - Own the technical strategy and multi-year roadmap for
+    Genesys's automation portfolio, making build-versus-buy
+    and platform-consolidation calls across RPA, Playwright,
+    and agentic frameworks.
+
+  - Set and evolve the automation engineering standards —
+    architecture patterns, testing, observability, deployment,
+    and documentation — and drive their adoption across the
+    team.
+
+  - Lead architecture reviews for the highest-complexity or
+    highest-risk automation initiatives, and decide when a
+    proposed solution needs to be reworked before investment
+    is committed.
+
+
+
+
+
+  RPA Estate Management & Modernization
+
+
+
+  - Own the modernization strategy for the legacy RPA estate:
+    what gets retained, refactored, replaced, or
+    decommissioned, and in what sequence.
+
+  - Define the migration and decommission playbook other
+    engineers use to move automations from legacy RPA to
+    modern, API-native, or agentic alternatives without
+    disrupting business operations.
+
+  - Establish the evidence-based framework — cost, reliability,
+    maintainability — the team uses to make retain versus-
+    replace decisions consistently.
+
+
+
+  Agentic & AI-Integrated Automation Platform
+
+
+
+  - Design reusable, production-grade patterns for agentic
+    workflows — context management, tool-calling reliability,
+    cost controls, and failure handling — that other engineers
+    build on rather than reinventing.
+
+  - Own the integration architecture connecting enterprise AI
+    platforms (Claude, ChatGPT Enterprise, Amazon Q) into the
+    automation pipeline, including versioning, prompt
+    strategy, and output-reliability practices as shared team
+    standards.
+
+  - Build internal tooling and shared components (libraries,
+    templates, CI/CD patterns) that reduce the cost of
+    building new automations across the team
+
+
+
+  Technical Leadership & Mentorship
+
+  - Mentor senior and mid-level automation engineers on
+    architecture, code quality, and technical judgment; review
+    designs and code for the team's most complex work.
+
+  - Serve as the technical escalation point across IT,
+    engineering, and business stakeholders — resolving
+    ambiguous requirements and pushing back on scope that
+    would produce brittle automation.
+
+  - Turn execution telemetry (reliability, volume, latency,
+    cost) into a clear narrative for the Manager, AI
+    Enablement & Automation and other leaders, directly
+    informing prioritization and platform investment
+    decisions.
+
+  WHAT YOU BRING
+
+  We encourage candidates who meet many, though not all, of
+  the qualifications below to apply.
+
+  Required Qualifications
+
+  - 8+ years of experience in automation engineering, software
+    engineering, or systems integration, with a substantial
+    track record delivering production automation — not just
+    prototypes.
+
+  - Expert-level proficiency in Python and/or
+    JavaScript/TypeScript, with a track record of setting
+    architectural direction and code standards that other
+    engineers follow.
+
+  - Deep, hands-on experience with RPA platforms (Automation
+    Anywhere, Power Automate, UiPath, or equivalent),
+    including leading modernization or decommission efforts
+    across a live automation estate.
+
+  - Demonstrated experience designing automation systems for
+    failure at scale: retry logic, alerting, state management,
+    and recovery paths embedded as team-wide standards, not
+    one-off fixes.
+
+  - Hands-on experience building production agentic systems
+    (LangChain, CrewAI, AutoGen, or equivalent), including
+    managing context, tool-calling reliability, and cost at
+    scale.
+
+  - Strong track record establishing engineering standards —
+    code review, testing, documentation, or architectural
+    patterns — adopted across a team or organization and
+    mentoring other engineers to that standard.
+
+  - Hands-on experience with REST API integration:
+    authentication patterns, rate limiting, pagination, and
+    multiservice orchestration.
+
+
+
+  Preferred Qualifications
+
+  - Experience with Playwright or similar browser automation
+    tools, and the judgment to evaluate new automation
+    frameworks for team-wide adoption.
+
+  - Familiarity with CI/CD pipelines and deployment practices
+    applied to automation workflows, including building shared
+    pipeline patterns for other engineers to use.
+
+  - Experience partnering with Security, Legal, or Compliance
+    stakeholders to build governance into automation before
+    rollout.
+
+  - Background in enterprise IT operations, ITSM, or large-scale
+    business process automation.
+
+  - Experience presenting technical recommendations (build-
+    versus-buy, platform consolidation) to senior leadership.
+
+  KEY SKILLS
+
+  - Automation portfolio strategy and technical roadmap
+    ownership • RPA modernization and estate-scale migration
+    planning
+
+  - Agentic and LLM-integrated automation architecture
+
+  - Python and/or JavaScript/TypeScript at an expert engineering
+    level
+
+  - API integration and multi-service workflow orchestration
+
+  - Technical mentorship and cross-team standards influence
+
+  - Data-driven prioritization and stakeholder communication
+
+  BUSINESS IMPACT
+
+  - Sets the technical direction that keeps Genesys's entire
+    automation portfolio reliable while systematically
+    modernizing it, reducing the operational risk of an aging
+    RPA estate at scale.
+
+  - Raises the technical ceiling of the automation team through
+    mentorship and standards, enabling the group to take on
+    more complex, higher-value process problems.
+
+  - Shapes the pace and direction of Genesys's shift to AI-
+    native automation, translating platform strategy into a
+    roadmap that balances innovation with reliability.
+
+  Working Hours- 3:00 PM- 11:00 PM IST
+
+  #LI-GR1 #LI-Hybrid
+
+  Working at Genesys
+
+  - AI at enterprise scale – Build, support and operate AI-
+    powered technology used by more than 8,000 organizations
+    worldwide. 150+ new AI features were released in the last
+    fiscal year.
+  - A flexible-first culture – Join a global team of nearly
+    7,000 employees with flexible ways of working designed to
+    help people do their best work.
+  - Growth in the AI era – Build future-ready skills through
+    mentorship, learning programs, leadership development and
+    education support.
+  - Time to recharge and give back – Benefits include paid
+    volunteer time, August Free Fridays, well-being resources
+    and regionally tailored programs for employees and their
+    families.
+  - Recognized globally – Genesys is Great Place to Work®
+    certified in 17 countries and 94% of employees are proud
+    to tell others they work at Genesys.
+
+  Learn more about our culture, AI innovation and
+  sustainability commitments through our Careers site and
+  Sustainability Report.
+
+  What Happens After You Apply
+
+  After you apply, here's what you can typically expect:
+
+  - Our Talent Acquisition team reviews your application with
+    the hiring team.
+
+  - A Talent Acquisition Partner will review your application
+    and, if your background is aligned, schedule a Zoom
+    interview.
+
+  - Next, you'll meet the hiring manager and other members of
+    the interview team.
+
+  - We aim to keep the process focused and respectful of your
+    time, with no more than five interviews in most cases.
+
+  - After interviews are complete, our team will follow up with
+    the final steps.
+
+  Every application is reviewed by a person. Response times
+  may vary by role and location, but our team will keep you
+  informed throughout the process.
+
+  Stay Connected
+
+  Stay connected to learn more about how we're applying AI to
+  customer and employee experience challenges and get notified
+  when relevant opportunities become available.
+
+  Get notified about relevant opportunities.
+
+  Be the one building what's next - where AI, experience and
+  impact come together.
+
+  Employee Referral
+
+  If a Genesys employee referred you, please apply using the
+  link they shared so we can connect your application to their
+  referral.
+
+  About Genesys:
+
+  Genesys® empowers more than 8,000 organizations worldwide to
+  create the best customer and employee experiences. Genesys
+  Cloud™ is the Agentic Orchestration Platform that securely
+  connects people, systems, data and AI across the enterprise
+  with built-in governance and control. As a result,
+  organizations can drive customer loyalty, growth and
+  retention while increasing operational efficiency and
+  teamwork across human and AI workforces. To learn more,
+  visit www.genesys.ai.
+
+  Reasonable Accommodations:
+
+  If you require a reasonable accommodation to complete any
+  part of the application process, or are limited in your
+  ability to access or use this online application and need an
+  alternative method for applying, you or someone you know may
+  contact us at reasonable.accommodations@genesys.com.
+
+  You can expect a response within 24–48 hours. To help us
+  provide the best support, click the email link above to open
+  a pre-filled message and complete the requested information
+  before sending. If you have any questions, please include
+  them in your email.
+
+
+
+  This email is intended to support job seekers requesting
+  accommodations. Messages unrelated to accommodation—such as
+  application follow-ups or resume submissions—may not receive
+  a response.
+
+  Genesys is an equal opportunity employer committed to
+  fairness in the workplace. We evaluate qualified applicants
+  without regard to race, color, age, religion, sex, sexual
+  orientation, gender identity or expression, marital status,
+  domestic partner status, national origin, genetics,
+  disability, military and veteran status, and other protected
+  characteristics.
+
+  Please note that recruiters will never ask for sensitive
+  personal or financial information during the application
+  phase.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Cloud
+  - Machine Learning
+  - Software
+posted_date: 2026-09-10
+url: "https://builtin.com/job/staff-ai-automation-engineer/11113221"
+source: Built In

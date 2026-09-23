@@ -1,0 +1,54 @@
+company:
+  name: BJAK
+  stage: null
+  focus: |-
+    AI-native proactive productivity apps (email, calendar,
+    tasks)
+position:
+  title: Lead Software Engineer, AI Email App
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs reliable systems for AI-powered workflows
+      including orchestration, tool use, retries, and failure
+      handling — shaping agent behavior directly, which is ai-
+      first per Step 2. The product is an LLM-driven email/life
+      assistant app.
+  responsibilities:
+  - Own application engineering strategy and execution across backend, mobile, and
+    desktop
+  - Design reliable systems for AI-powered workflows including state, orchestration,
+    tool use, retries, fallbacks, and failure handling
+  - Build APIs and abstractions connecting AI systems to real-world product experiences
+  - Lead a small senior engineering team through design reviews, code reviews, and
+    mentorship
+  - Make trade-offs across latency, reliability, cost, security, and user experience
+  - 'Establish production foundations: observability, monitoring, testing, and operational
+    excellence'
+  - Partner with ML leadership to turn model capabilities into shippable product experiences
+  use_cases:
+  - AI-native email application
+  - Proactive life organization with minimal prompting
+  - Long-running workflow execution with high reliability
+  - Persistent context and real-world task completion
+  - Hallucination reduction in AI-driven conversations and errands
+  skills:
+    genai: [Agentic Workflows, LLMs, Function Calling]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring, Observability]
+    languages: []
+    domains: []
+    other: [Architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10887745'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:05:03.773376'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

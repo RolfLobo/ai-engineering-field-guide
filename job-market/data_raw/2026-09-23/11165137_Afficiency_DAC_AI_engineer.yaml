@@ -1,0 +1,204 @@
+job_id: 11165137
+title: DAC AI engineer
+company: Afficiency
+location: New York, USA
+work_type: FULL_TIME
+company_size: 33 Employees
+description: |
+  Company Description
+
+  Afficiency is a rapidly growing Insurtech startup whose
+  mission is to provide life insurance to everyone on the
+  platforms they already trust. Located in NYC, we design life
+  insurance products that can be purchased entirely digitally
+  and can be easily embedded into distribution platforms or
+  with agents who sell insurance. The company is experiencing
+  rapid growth and is well-funded. We are looking for new team
+  members to join us on our journey to shake up the life
+  insurance industry. We need individuals who bring passion,
+  curiosity, and a desire for excellence.
+
+  Job Description
+
+  We are seeking a highly skilled DAC AI engineer to design,
+  develop, and deploy AI-driven digital solutions for Life
+  Insurance business applications. The ideal candidate will
+  possess strong full-stack development expertise along with
+  hands-on experience in AI technologies, agentic workflows,
+  prompt engineering, and Large Language Model (LLM)
+  integrations.
+
+  This role will focus on building real-time AI-powered
+  applications that enhance customer experience, underwriting,
+  servicing, claims processing, agent productivity, knowledge
+  management, and operational efficiency.
+
+  The successful candidate will work closely with business
+  stakeholders, solution architects, data engineers, and
+  digital product teams to deliver enterprise-grade AI
+  solutions.
+
+  This role is for someone who is based in the NYC Metro Area,
+  passionate about building real-world GenAI applications and
+  bringing them into production, while continuously improving
+  performance, reliability, and user outcomes.
+
+  Qualifications
+
+  Responsibilities
+
+  AI & Prompt Engineering
+
+  - Design, develop, and optimize prompts for Large Language
+    Models (LLMs) including OpenAI Codex, GPT, Claude, Gemini,
+    and other enterprise AI platforms.
+  - Build AI-powered workflows, copilots, virtual assistants,
+    and intelligent agents for insurance business processes.
+  - Develop Retrieval-Augmented Generation (RAG) solutions using
+    enterprise knowledge repositories and policy
+    documentation.
+  - Implement prompt testing, evaluation, and optimization
+    frameworks to improve accuracy, consistency, and
+    reliability.
+  - Design agent-based solutions using tools, skills, plugins,
+    function calling, workflows, and orchestration frameworks.
+  - Create reusable prompt libraries and AI solution
+    accelerators.
+  - Monitor AI performance metrics and continuously improve
+    model outcomes.
+
+  Application Development
+
+  - Design and develop modern web applications using React.js
+    and related frontend technologies.
+  - Build RESTful APIs and microservices using Python Flask.
+  - Integrate AI services into enterprise digital applications.
+  - Develop real-time applications supporting customer service,
+    underwriting, policy servicing, and claims workflows.
+  - Implement authentication, security, and scalability best
+    practices.
+
+  Data & Integration
+
+  - Connect AI applications to enterprise systems through APIs
+    and service layers.
+  - Work with structured and unstructured data sources
+    supporting AI use cases.
+
+  Architecture & Delivery
+
+  - Participate in AI solution architecture and technology
+    selection.
+  - Conduct proof-of-concepts and rapid prototypes.
+  - Collaborate with cloud, data, and application teams.
+  - Follow DevOps, CI/CD, and Agile development practices.
+  - Maintain documentation, technical specifications, and AI
+    governance controls.
+
+  Education
+
+  - Bachelor's Degree in Computer Science, Information
+    Technology, Engineering, Data Science, or related
+    discipline.
+
+  Experience
+
+  - Minimum 4+ years of software engineering experience.
+  - Minimum 2+ years developing AI-powered applications or
+    Generative AI solutions.
+  - Experience in Life Insurance, Financial Services, or
+    regulated industries is highly preferred.
+
+  Technical Skills / Exposure
+
+  Front-End Development
+
+  - React.js
+  - JavaScript / TypeScript
+  - HTML5 / CSS3
+  - Responsive UI development
+
+  Backend Development
+
+  - Python
+  - Flask API Development
+  - REST APIs
+  - Microservices Architecture
+
+  Database Technologies
+
+  - SQL Server, PostgreSQL, MySQL, or Oracle
+  - Database design and optimization
+  - Query performance tuning
+
+  AI & Generative AI
+
+  - Prompt Engineering
+  - Large Language Models (LLMs)
+  - OpenAI GPT/Codex
+  - Anthropic Claude
+  - Google Gemini
+  - AI Agents and Agentic Workflows
+  - RAG (Retrieval Augmented Generation)
+  - Vector Databases
+  - Embeddings
+  - Fine-Tuning Concepts
+  - Model Evaluation Techniques
+  - Tool Calling and Function Calling
+
+  AI Frameworks & Tools
+
+  - Claude (co-work, code and design)
+  - Microsoft Copilot Studio
+  - AI Skills and Plugin Development
+  - Workflow Orchestration Frameworks
+
+  Cloud & DevOps
+
+  - Git/GitHub
+  - Azure DevOps
+  - CI/CD Pipelines
+
+  Desired Competencies
+
+  - Strong analytical and problem-solving abilities.
+  - Ability to quickly learn emerging AI technologies.
+  - Excellent communication and stakeholder engagement skills.
+  - Strong understanding of responsible AI practices.
+  - Ability to work independently in a fast-paced environment.
+  - Strong focus on solution quality, scalability, and business
+    outcomes.
+
+  Additional Information
+
+  Success Criteria
+
+  Within the first 6 months, the candidate will:
+
+  - Deliver production-ready AI-powered digital applications.
+  - Build reusable prompt engineering frameworks and AI
+    accelerators.
+  - Develop real-time AI agents supporting insurance operations.
+  - Improve operational efficiency and customer experience
+    through Generative AI solutions.
+  - Establish best practices for AI application development,
+    governance, and monitoring.
+
+  Benefits
+
+  - Competitive salary with equity options
+  - Robust health, dental, and vision benefits for employee and
+    dependents
+  - 401k matching contributions
+  - Generous PTO policy
+  - Provided work-from-home equipment
+
+  Afficiency is an Equal Opportunity Employer. All your
+  information will be kept confidential according to EEO
+  guidelines.
+industries:
+  - Insurance
+  - Design
+posted_date: 2026-09-14
+url: "https://builtin.com/job/dac-ai-engineer/11165137"
+source: Built In

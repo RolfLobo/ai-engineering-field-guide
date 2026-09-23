@@ -1,0 +1,246 @@
+job_id: 11038894
+title: "AVP - Data Scientist & AI Engineer"
+company: Barclays
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 83,500 Employees
+description: |
+  Job Description
+
+  Purpose of the role
+
+  To use innovative data analytics and machine learning
+  techniques to extract valuable insights from the bank's data
+  reserves, leveraging these insights to inform strategic
+  decision-making, improve operational efficiency, and drive
+  innovation across the organisation.
+
+  Accountabilities
+
+  - Identification, collection, extraction of data from various
+    sources, including internal and external sources.
+  - Performing data cleaning, wrangling, and transformation to
+    ensure its quality and suitability for analysis.
+  - Development and maintenance of efficient data pipelines for
+    automated data acquisition and processing.
+  - Design and conduct of statistical and machine learning
+    models to analyse patterns, trends, and relationships in
+    the data.
+  - Development and implementation of predictive models to
+    forecast future outcomes and identify potential risks and
+    opportunities.
+  - Collaborate with business stakeholders to seek out
+    opportunities to add value from data through Data Science.
+
+  Assistant Vice President Expectations
+
+  - To advise and influence decision making, contribute to
+    policy development and take responsibility for operational
+    effectiveness. Collaborate closely with other functions/
+    business divisions.
+  - Lead a team performing complex tasks, using well developed
+    professional knowledge and skills to deliver on work that
+    impacts the whole business function. Set objectives and
+    coach employees in pursuit of those objectives, appraisal
+    of performance relative to objectives and determination of
+    reward outcomes
+  - If the position has leadership responsibilities, People
+    Leaders are expected to demonstrate a clear set of
+    leadership behaviours to create an environment for
+    colleagues to thrive and deliver to a consistently
+    excellent standard. The four LEAD behaviours are: L –
+    Listen and be authentic, E – Energise and inspire, A –
+    Align across the enterprise, D – Develop others.
+  - OR for an individual contributor, they will lead
+    collaborative assignments and guide team members through
+    structured assignments, identify the need for the
+    inclusion of other areas of specialisation to complete
+    assignments. They will identify new directions for
+    assignments and/ or projects, identifying a combination of
+    cross functional methodologies or practices to meet
+    required outcomes.
+  - Consult on complex issues; providing advice to People
+    Leaders to support the resolution of escalated issues.
+  - Identify ways to mitigate risk and developing new
+    policies/procedures in support of the control and
+    governance agenda.
+  - Take ownership for managing risk and strengthening controls
+    in relation to the work done.
+  - Perform work that is closely related to that of other areas,
+    which requires understanding of how areas coordinate and
+    contribute to the achievement of the objectives of the
+    organisation sub-function.
+  - Collaborate with other areas of work, for business aligned
+    support areas to keep up to speed with business activity
+    and the business strategy.
+  - Engage in complex analysis of data from multiple sources of
+    information, internal and external sources such as
+    procedures and practises (in other areas, teams,
+    companies, etc).to solve problems creatively and
+    effectively.
+  - Communicate complex information. 'Complex' information could
+    include sensitive information or information that is
+    difficult to communicate because of its content or its
+    audience.
+  - Influence or convince stakeholders to achieve outcomes.
+
+  All colleagues will be expected to demonstrate the Barclays
+  Values of Respect, Integrity, Service, Excellence and
+  Stewardship – our moral compass, helping us do what we
+  believe is right. They will also be expected to demonstrate
+  the Barclays Mindset – to Empower, Challenge and Drive – the
+  operating manual for how we behave.
+
+  The AVP — Data Analytics & AI is a hands-on technical
+  leadership role within the Risk & Compliance division,
+  responsible for designing, building, and deploying advanced
+  analytics and AI solutions across risk domains. Working
+  closely with the VP — Data Analytics & AI Lead, the role
+  holder will translate business and regulatory requirements
+  into production-grade machine learning models, data
+  pipelines, and AI-powered applications. This role is ideal
+  for a technically strong data scientist or ML engineer who
+  is ready to step into a leadership capacity — combining deep
+  hands-on delivery with mentoring junior team members and
+  contributing to the team's strategic roadmap.
+
+
+  Key Responsibilities
+
+  Analytics & AI Delivery • Design, develop, and deploy
+  machine learning models and data analytics solutions for
+  credit risk, financial crime, operational risk, and
+  compliance monitoring use cases. • Build and maintain end-
+  to-end ML pipelines — from data ingestion and feature
+  engineering through model training, validation, and
+  deployment. • Develop NLP and generative AI applications
+  including RAG-based document retrieval, automated regulatory
+  analysis, and compliance report generation. • Deliver
+  predictive analytics capabilities such as early warning
+  models, anomaly detection, and risk scoring enhancements. •
+  Create and maintain BI dashboards and analytical reports
+  using Power BI, Tableau, or equivalent tools. Model
+  Development & Governance Support • Develop well-documented,
+  reproducible models that meet internal Model Risk Management
+  (MRM) validation standards. • Prepare model documentation
+  packages including methodology papers, validation reports,
+  and ongoing monitoring plans. • Support the VP in regulatory
+  exam preparedness and AI governance activities, including
+  bias testing and explainability reporting. • Contribute to
+  the maintenance of model inventories and performance
+  monitoring frameworks. Data Engineering & Infrastructure •
+  Collaborate with Data Engineering and Cloud Platform teams
+  to build scalable data pipelines and ensure data quality for
+  analytics consumption. • Work with cloud-native platforms
+  (AWS/Azure) and big data technologies to process and
+  transform large-scale risk datasets. • Contribute to feature
+  store development and data quality monitoring aligned with
+  BCBS 239 principles. Stakeholder Engagement • Partner with
+  risk officers, compliance analysts, and business SMEs to
+  understand requirements and translate them into analytical
+  solutions. • Present model outputs, analytical findings, and
+  technical recommendations to senior stakeholders in clear,
+  non-technical language. • Collaborate with cross-functional
+  teams including Technology, Chief Data Office, and Front
+  Office. Team Contribution & Mentoring • Mentor and guide
+  junior data scientists and analytics engineers, conducting
+  code reviews and knowledge-sharing sessions. • Contribute to
+  hiring, onboarding, and technical competency development
+  within the analytics team. • Stay current with emerging
+  AI/ML research, tools, and techniques — bringing best
+  practices into the team.
+
+  Technology & AI Solution Architecture
+
+  The successful candidate will be expected to work hands-on
+  across on prem & cloud Compliance AI Platform. This requires
+  strong proficiency in data ingestion and processing (Kafka,
+  Airflow, Spark), cloud-based data platforms (Databricks,
+  Snowflake, AWS S3/Azure), and SQL-based data transformation
+  (dbt, PySpark). The candidate must demonstrate experience
+  building and deploying ML models (XGBoost, PyTorch, scikit-
+  learn) for risk analytics use cases, along with practical
+  exposure to generative AI — including LLM integration
+  (LangChain), RAG architectures, and prompt engineering.
+  Familiarity with MLOps practices is essential: CI/CD for ML,
+  model serving (SageMaker or equivalent), experiment tracking
+  (MLflow), and model monitoring. Experience with
+  explainability tools (SHAP/LIME) and an understanding of AI
+  governance frameworks (SS1/23, BCBS 239) are expected.
+
+  Essential Qualifications & Experience
+
+  Education • Master's degree in a quantitative discipline —
+  Computer Science, Data Science, Statistics, Mathematics,
+  Physics, Engineering, or a related field. PhD is a plus but
+  not required. • Relevant certifications are advantageous
+  (e.g., AWS ML Specialty, Azure Data Scientist, FRM).
+  Experience • Experience in data analytics, data science, or
+  AI/ML, with at least 2–3 years in financial services —
+  preferably within Risk, Compliance, or regulatory functions.
+  • Proven track record of delivering production-grade ML
+  models that have driven measurable business impact. • Solid
+  understanding of banking risk concepts including credit risk
+  (PD/LGD, IFRS 9), market risk, operational risk, or
+  financial crime (AML, fraud detection). • Experience with
+  the model lifecycle — development, documentation, validation
+  support, and ongoing monitoring. • Some exposure to
+  regulatory frameworks such as BCBS 239, Basel III/IV, or
+  PRA/FCA guidance on AI/ML. Technical Skills • Strong
+  proficiency in Python for ML development and data analysis.
+  • Solid SQL skills and experience with big data technologies
+  (Spark, Databricks). • Hands-on experience with ML
+  frameworks — scikit-learn, XGBoost, LightGBM, PyTorch, or
+  TensorFlow. • Practical experience with NLP and/or
+  generative AI — LLMs, RAG, prompt engineering. • Working
+  knowledge of cloud platforms (AWS SageMaker, Azure ML) and
+  MLOps tooling (MLflow, Airflow). • Experience with BI tools
+  — Power BI or Tableau. • Familiarity with version control
+  (Git) and collaborative development practices.
+
+
+  Desirable Skills & Experience
+
+  • Experience with Responsible AI practices including
+  explainability (SHAP, LIME) and bias detection. • Knowledge
+  of graph analytics or network analysis for financial crime
+  detection. • Exposure to real-time streaming technologies
+  (Kafka, Flink). • Experience with dbt, data quality
+  frameworks, or metadata management tools. • Prior
+  involvement in model validation reviews or regulatory
+  examinations. • Experience with Agile/Scrum delivery
+  methodologies. • Familiarity with emerging AI regulations
+  (EU AI Act, UK AI regulatory framework). • Published
+  research or open-source contributions in ML or data science.
+
+
+  Core Competencies & Behaviours
+
+  Technical Excellence • Strong problem-solving skills with
+  the ability to break down complex business problems into
+  analytical approaches. • Intellectually curious with a
+  passion for staying at the forefront of AI/ML research and
+  tooling. • Rigorous approach to code quality,
+  reproducibility, and documentation. Communication &
+  Collaboration • Ability to explain technical concepts and
+  model outputs to non-technical stakeholders clearly and
+  concisely. • Strong team player who thrives in cross-
+  functional environments spanning Risk, Compliance, and
+  Technology. • Effective written communication skills for
+  model documentation and technical reports. Ownership &
+  Delivery • Self-starter who can manage multiple workstreams
+  and deliver under deadlines. • Proactive in identifying
+  risks, blockers, and opportunities for improvement. •
+  Comfortable balancing hands-on technical delivery with
+  mentoring and coordination responsibilities. Risk Awareness
+  • Appreciation for the regulatory environment in banking and
+  the importance of model governance. • Commitment to
+  responsible use of AI and data, with attention to fairness,
+  privacy, and ethical considerations. This role is based our
+  of Pune.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-09-07
+url: "https://builtin.com/job/avp-data-scientist-ai-engineer/11038894"
+source: Built In

@@ -1,0 +1,58 @@
+company:
+  name: Stream
+  stage: null
+  focus: |-
+    Real-time chat, feeds, and voice/video APIs and AI agent
+    frameworks
+position:
+  title: Staff Backend Engineer – AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes, evaluates, and ships in-house AI models
+      end-to-end, including supervised fine-tuning, post-training,
+      and building evaluation harnesses — clearly shaping model
+      behaviour. The models run inside Stream's products built
+      around Vision Agents (voice/video AI agent framework with
+      LLM integrations), so an LLM/agent component is present.
+  responsibilities:
+  - Own development, fine-tuning, and evaluation of in-house AI models from dataset
+    design to production deployment
+  - Run supervised fine-tuning and post-training experiments, and build benchmarks
+    and evaluation harnesses
+  - Build and maintain data pipelines feeding model training with high data quality
+    and reproducibility
+  - Deploy models to Stream's serving stack, tuning for latency, cost, and reliability
+    at high volume
+  - Set technical direction for an undefined problem space, deciding what to build,
+    test, or abandon
+  - Interface with Go-based API teams and infrastructure to integrate models into
+    products
+  - Contribute to open-source ecosystem and share work publicly
+  - Raise engineering standards through code review and mentorship
+  use_cases:
+  - AI models powering Stream's chat, activity feed, and voice/video products
+  - Voice and video AI agents with sub-500ms latency (Vision Agents)
+  - Low-latency production inference serving over a billion end users
+  - Model training and evaluation pipelines for production AI systems
+  skills:
+    genai: [Unsloth]
+    ml: [Model Training, Fine-Tuning, Model Evaluation, Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [GCP, AWS]
+    ops: [Fireworks, Baseten, Terraform, Model Deployment, Model Monitoring, Code
+        Review]
+    languages: [Python, Go, asyncio]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10833428'
+  location: Amsterdam, NLD
+  remote: true
+  extracted_at: '2026-09-23T11:01:29.825927'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

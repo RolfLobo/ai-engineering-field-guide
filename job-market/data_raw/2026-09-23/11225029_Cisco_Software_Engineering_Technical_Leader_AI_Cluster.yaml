@@ -1,0 +1,136 @@
+job_id: 11225029
+title: "Software Engineering Technical Leader | AI Cluster Orchestrator & Automation Engineer | 15+ years"
+company: Cisco
+location: Pune, IND
+locations:
+  - Pune, IND
+  - Bengaluru, IND
+work_type: FULL_TIME
+company_size: 77,500 Employees
+description: |
+  Meet the Team
+
+  We are a small, agile, and highly collaborative team at the
+  forefront of AI Infrastructure Automation and Benchmarking &
+  Certification. We partner closely with leading hardware and
+  software vendors to design, validate, and deliver curated AI
+  infrastructure solutions to our customers — all built on
+  proven reference architectures that reduce risk and
+  accelerate time-to-value.
+
+  Because we're a lean team, every member has real ownership
+  and visibility into outcomes — from automating complex
+  infrastructure workflows to running rigorous benchmarking
+  and certification processes that ensure our solutions
+  perform reliably at scale. We move fast, communicate openly,
+  and lean on each other's expertise daily, making this a
+  great environment for engineers who want to work across the
+  full stack of AI infrastructure rather than being siloed
+  into one narrow function.
+
+  Your Impact
+
+  As a Software Engineering Technical leader for AI Cluster
+  Orchestrator & Automation,  you will design and
+  implementation of repeatable, end-to-end automation for AI
+  cluster bring-up, configuration, validation, lifecycle
+  management, and teardown across compute, network, and
+  storage domains.
+
+  You will:
+
+  - Build idempotent orchestration workflows for GPU nodes,
+    service nodes, network fabrics, and storage.
+  - Automate PXE, NVIDIA BCM, DHCP, Redfish, BIOS, firmware, OS,
+    Kubernetes/operators, and Slurm integration.
+  - Coordinate dependencies across compute, Cisco networking,
+    storage/Vast, GPU platforms, and service nodes.
+  - Implement health checks, configuration drift detection,
+    validation gates, rollback, failure recovery, and
+    operational observability.
+  - Document runbooks, APIs, interfaces, and support handoffs.
+
+  Minimum Qualifications
+
+  - Bachelors + 12 years of related experience, or Masters + 8
+    years of related or equivalent related work experience.
+  - Experience with Linux systems and AI/GPU cluster
+    architecture knowledge.
+  - Coding experience using Python and automation/API
+    development
+  - Prior experience with PXE, DHCP, Kubernetes, Slurm,
+    BIOS/firmware, networking, and storage integration.
+  - Experience troubleshooting distributed provisioning failures
+    and system dependencies.
+
+  Preferred Qualifications
+
+  - Familiarity with REST/Redfish and infrastructure-as-code
+    concepts.1024-GPU-class lab operations, Supermicro
+    systems, Cisco UCS, NVIDIA platforms, Vast storage, and
+    Cisco switching.
+  - NVIDIA BCM, Cisco network automation, storage automation,
+    and GPU server platforms such as Supermicro and Cisco UCS.
+  - Experience automating multi-plane/ToR network designs and
+    large-scale cluster lifecycle operations.
+  - Familiarity with CI/CD, configuration management, logging,
+    and telemetry systems.
+
+  Why Cisco?
+
+  At Cisco, we’re revolutionizing how data and infrastructure
+  connect and protect organizations in the AI era – and
+  beyond. We’ve been innovating fearlessly for 40 years to
+  create solutions that power how humans and technology work
+  together across the physical and digital worlds. These
+  solutions provide customers with unparalleled security,
+  visibility, and insights across the entire digital
+  footprint.
+
+  Fueled by the depth and breadth of our technology, we
+  experiment and create meaningful solutions. Add to that our
+  worldwide network of doers and experts, and you’ll see that
+  the opportunities to grow and build are limitless. We work
+  as a team, collaborating with empathy to make really big
+  things happen on a global scale. Because our solutions are
+  everywhere, our impact is everywhere.
+
+  We are Cisco, and our power starts with you.
+
+  Disclaimer
+
+  To ensure that we hire the best talent in the right way, we
+  follow a strict hiring process and recently, Cisco has been
+  made aware of fraudulent recruiters claiming to be from the
+  company. Please be advised that any communication from Cisco
+  about careers will:
+
+  - be in direct response to an application you have submitted
+    through the company career site
+  - begin with screening or an interview
+  - originate from a Cisco email address, and
+  - be conducted across email, phone, or WebEx
+
+  Cisco will never make a job offer without conducting an
+  interview process or ask you for money in any way. If you
+  have been requested to apply for a role or have received an
+  offer from a site other than https://careers.cisco.com or
+  cisco.wd5.myworkday.com, do not provide any personal
+  identifying information, including your Aadhaar or other
+  personal identifying number, birth certificate, banking
+  information, driver's license, or passport.
+
+  If you are the target of a recruiting scam, consider filing
+  a report with your local law enforcement authorities. Cisco
+  bears no responsibility, and cannot be held liable, for any
+  claims, damages, expenses, or other inconvenience resulting
+  from or in any way connected to recruiting scams.
+industries:
+  - Cloud
+  - Information Technology
+  - Internet of Things
+  - Professional Services
+  - Software
+posted_date: 2026-09-17
+url: "https://builtin.com/job/software-engineering-technical-leader-ai-cluster-orchestrator-automation-engineer-15-years/11225029"
+source: Built In

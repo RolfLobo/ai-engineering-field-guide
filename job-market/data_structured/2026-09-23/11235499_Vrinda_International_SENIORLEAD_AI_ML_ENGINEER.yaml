@@ -1,0 +1,49 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: AI/ML engineering services company
+position:
+  title: SENIOR/LEAD AI ML ENGINEER
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly via prompt
+      engineering, RAG design, LLM fine-tuning, and building AI
+      agents with LangChain/LangGraph/LlamaIndex. LLM components
+      are central, so it classifies as ai-first.
+  responsibilities:
+  - Design, develop and deploy scalable AI solutions
+  - Build GenAI/LLM applications with RAG, fine-tuning and prompt engineering
+  - Develop AI agents using LangChain, LangGraph or LlamaIndex
+  - Build NLP and Computer Vision models using Transformers, OpenCV, YOLO and R-CNN
+  - Develop Python APIs and microservices
+  - Manage MLOps, model serving and AI lifecycle management
+  - Optimize LLM inference for speed, cost and memory
+  - Provide team leadership and mentoring
+  use_cases:
+  - Enterprise GenAI applications with RAG
+  - AI agent workflows
+  - NLP tasks such as text understanding
+  - Computer vision detection and recognition (YOLO, R-CNN)
+  - Scalable AI/ML solution deployment and lifecycle management
+  skills:
+    genai: [Generative AI, LLMs, RAG, Fine-Tuning, Prompt Engineering, AI Agents,
+      LangChain, LangGraph, LlamaIndex]
+    ml: [Transformers, OpenCV, YOLO, R-CNN, PyTorch, TensorFlow, Keras]
+    web: [APIs, Microservices]
+    databases: [FAISS, Pinecone, Chroma, Weaviate, Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, Model Deployment, vLLM]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235499'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:30:30.475588'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

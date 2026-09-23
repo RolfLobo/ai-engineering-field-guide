@@ -1,0 +1,133 @@
+job_id: 10845799
+title: "Sr. Engineer I - Cloud Engg & AI"
+company: Anblicks
+location: Ahmedabad, IND
+locations:
+  - Ahmedabad, IND
+  - Hyderabad, IND
+work_type: FULL_TIME
+company_size: 568 Employees
+description: |
+  Sr. DevOps Engineer
+
+  1. Role Overview
+
+  The DevOps and Infrastructure Developer is responsible for
+  building, maintaining, and optimizing CI/CD pipelines,
+  infrastructure provisioning, and cloud resource management.
+  This role demands a collaborative professional who can work
+  closely with development teams, IT operations, and security
+  stakeholders to ensure scalable, resilient, and secure
+  systems. The engineer must demonstrate expertise in
+  infrastructure automation, cloud platform governance, and
+  the adoption of industry-standard DevOps tools and
+  methodologies.
+
+  2. Key Responsibilities
+
+  ·        Infrastructure as Code (IaC): Design, author, and
+  manage IaC using Terraform for both Azure and AWS cloud
+  environments. Maintain reusable modules and enforce
+  infrastructure version control.
+
+  ·        CI/CD Pipeline Development: Build, configure, and
+  optimize CI/CD pipelines in Azure DevOps and GitHub Actions.
+  Automate build, test, and deployment workflows for cloud-
+  native and legacy applications.
+
+  ·        Cloud Resource Management: Provision, monitor, and
+  optimize resources in Azure and AWS, ensuring compliance
+  with performance, scalability, and budgetary requirements.
+
+  ·        Version Control Management: Utilize GitHub for code
+  repositories, branching strategies, pull request management,
+  and code reviews to support collaborative development.
+
+  ·        Security and Compliance: Integrate security best
+  practices into the automation pipelines and IaC. Implement
+  policies for identity, access management, and secrets
+  handling.
+
+  ·        Monitoring and Logging: Set up and maintain
+  monitoring, logging, and alerting frameworks using native
+  cloud services and third-party tools to ensure system health
+  and rapid incident response.
+
+  ·        Collaboration: Work alongside software developers,
+  QA engineers, product owners, and cloud architects to
+  deliver high-quality, robust infrastructure solutions.
+
+  ·        Documentation: Author and maintain clear,
+  comprehensive documentation for infrastructure
+  architectures, CI/CD pipelines, and operational procedures.
+
+  ·        Continuous Improvement: Evaluate and recommend new
+  technologies or processes to improve performance,
+  reliability, and scalability of the infrastructure.
+
+  ·        Support and Troubleshooting: Provide Level 2/3
+  support for infrastructure incidents, root cause analysis,
+  and post-mortem documentation.
+
+  4. Required Skills & Qualifications
+
+  ·        Experience: Minimum 3-5 years in a DevOps, or Cloud
+  Infrastructure role.
+
+  ·        Terraform: Demonstrated expertise in authoring,
+  maintaining, and modularizing Terraform scripts for Azure
+  and AWS environments.
+
+  ·        Azure DevOps: Strong experience with Azure DevOps,
+  including build/release pipeline configuration, YAML
+  pipelines, and environment management.
+
+  ·        GitHub: Proficiency in GitHub, including workflows,
+  GitHub Actions, branching, and code review processes.
+
+  ·        Azure: In-depth knowledge of Azure services (VMs,
+  App Services, AKS, Networking, Storage, IAM, etc.) and
+  experience managing production workloads.
+
+  ·        AWS: Hands-on experience with core AWS services
+  (EC2, S3, IAM, CloudFormation, Lambda, VPC, RDS, etc.) and
+  account management.
+
+  ·        Programming/Scripting Languages: Proficiency in at
+  least one scripting language (e.g., Python, Bash,
+  PowerShell, Terraform) to complement automation tasks.
+
+  ·        Operating Systems: Experience with Linux and
+  Windows Server environments.
+
+  ·        Soft Skills: Excellent problem-solving,
+  communication, teamwork, and documentation skills.
+
+  5. Desired Skills & Qualifications
+
+  ·        Kubernetes: Experience managing Kubernetes
+  clusters, preferably Azure Kubernetes Service (AKS) and/or
+  Amazon EKS.
+
+  ·        Configuration Management: Knowledge of tools like
+  Ansible, Chef, or Puppet.
+
+  ·        Cloud Cost Optimization: Familiarity with
+  strategies and tools for cloud cost management and
+  optimization.
+
+  ·        Disaster Recovery: Experience designing and testing
+  backup, recovery, and high-availability strategies.
+
+  ·        Certifications: Azure, AWS, or Terraform
+  certifications are considered an asset.
+
+  ·        Agile Methodologies: Experience working in
+  Agile/Scrum development environments.
+industries:
+  - Cloud
+  - Analytics
+  - Consulting
+posted_date: 2026-08-26
+url: "https://builtin.com/job/sr-engineer-i-cloud-engg-ai/10845799"
+source: Built In

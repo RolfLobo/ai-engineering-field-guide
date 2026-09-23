@@ -1,0 +1,205 @@
+job_id: 10940573
+title: Senior AI Engineer
+company: Incredible Health
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Position Summary
+
+  Nurses take care of everyone else — our mission is to take
+  care of them — helping healthcare professionals live better
+  lives and find and do their best work. Over one million
+  nurses and 1,500+ hospitals rely on Incredible Health's AI-
+  powered career marketplace, and the intelligence behind it:
+  the matching and search models that decide what every nurse
+  sees, and AI products like Lyn, our AI interview agent.
+
+  This is a hands-on role for an engineer with range: notebook
+  in the morning, eval suite by afternoon, production by
+  Friday — full stack, all the way to the user. You think in
+  systems, tradeoffs, and outcomes, not just models — and
+  you'd rather ship a good feature that helps 10,000 nurses
+  today than a perfect model that stays in a notebook.
+
+  This role is 100% remote and can be located in the following
+  states:
+
+  Alabama, Arizona, California, Colorado, Connecticut,
+  District of Columbia, Florida, Georgia, Idaho, Illinois,
+  Indiana, Iowa, Maryland, Massachusetts, Michigan, Minnesota,
+  Mississippi, Missouri, Nebraska, Nevada, New Jersey, New
+  York, North Carolina, Ohio, Oregon, Pennsylvania, South
+  Carolina, Tennessee, Texas, Utah, Virginia, Washington, West
+  Virginia
+
+  What you'll do
+
+  - Lead LLM-powered products end to end using the foundation
+    models best suited to the job: prototype a capability,
+    validate it with evals, deploy, monitor, and iterate.
+  - Take end-to-end ownership of matching, search, and ranking —
+    model design, offline validation, shadow-scoring, and A/B
+    experiments — across embeddings and ElasticSearch.
+  - Ship production code across the stack — Python ML services,
+    Rails and React web app — and diagnose whatever breaks:
+    hallucinations, retrieval misses, ranking regressions.
+  - Turn ambiguous questions into production-minded data
+    analysis that changes what we build, and raise the bar
+    through rigorous code review with our ML, AI, and product
+    engineers.
+
+  What you'll bring
+
+  - 6+ years of software engineering, including 2+ recent years
+    taking ML- and LLM-powered features from concept through
+    deployment and long-term production maintenance.
+  - Strong Python software engineering skills — with the depth
+    to independently run, validate, and interpret a ranking-
+    model retrain, an embedding pipeline, or an eval harness.
+  - Evaluation for non-deterministic systems: golden datasets,
+    LLM-as-judge, regression tests that gate launches.
+  - Core ML foundations — classification, ranking, model
+    evaluation — and the rigor to know what offline metrics
+    predict about real users.
+  - Production LLM experience (prompt engineering, tool calling,
+    structured outputs, agent and voice workflows), plus SQL-
+    driven product analysis and the notebook fluency to set up
+    an environment and train or run a model on your own box.
+
+  What sets you apart
+
+  - Marketplaces or recommendation systems where both sides say
+    yes.
+  - Voice agents in production.
+  - Embedding retrieval at scale.
+  - Claude Code as a daily force multiplier.
+  - Confident full-stack contributor.
+
+  Above all, we look for ownership and adaptability: product-
+  driven engineers who start from outcomes, work backwards to
+  impact and step up independently to deliver for the team. If
+  startup ethos is your default setting, you'll fit right in.
+
+  Your first 90 days
+
+  - Day 30: Shipped to production across our entire AI product
+    stack. Running our eval suites and core notebooks solo,
+    and already trading substantive PR reviews with our ML
+    engineer.
+  - Day 60: Owning a production surface end to end — Lyn's eval
+    loop or the matching retrain cycle — and shipped your
+    first measurable improvement, validated by experiment.
+  - Day 90: Led an AI bet from scoping through experiment-
+    validated launch. Operating our production ML services
+    independently and pitching the next quarter's AI roadmap
+    with data behind it.
+
+  The stack
+
+  Anthropic (Claude) · ElevenLabs · Python/FastAPI + Celery ·
+  Rails + React · ElasticSearch + embeddings · Snowflake + dbt
+  + Hex · Claude Code everywhere
+
+  And now a little bit about us...
+
+  Incredible Health is the largest software and AI-powered
+  healthcare career marketplace, trusted by over 1,500 U.S.
+  hospitals, ambulatory surgery centers, home health
+  organizations and over one million U.S. nurses, technicians,
+  and technologists.  Our vision and mission is to help
+  healthcare professionals live better lives, and find and do
+  their best work. Our software and AI technology custom
+  matches healthcare employer's nurse and technician hiring
+  needs with experienced, permanent nurse and technician
+  talent for hard-to-fill roles, resulting in faster hiring,
+  cost savings and growth for employers, and expanding
+  opportunities for healthcare workers. We’re backed by $100M
+  from top tier venture capital firms Andreessen Horowitz,
+  Obvious Ventures, Base10, Kaiser Permanente, and Johns
+  Hopkins. Incredible Health is headquartered in San
+  Francisco, CA, supports US-based remote employees, and
+  operates nationally.
+
+  Working here is awesome because:
+
+  - We’re moving quickly so things never get stale.
+  - We get to make a difference in the lives of healthcare
+    workers who are truly amazing people.
+  - We are a very high-caliber team of medical doctors, nurses,
+    software engineers, designers, sales leaders, account
+    managers, and more.
+  - We offer a competitive, market based salary aligned with
+    your skills and experience
+  - Our comprehensive benefits package covers medical, dental
+    and vision coverage with shared premiums
+  - Our company sponsored 401(k) allows you to save for
+    retirement
+  - Commission and/or equity may be offered based on the
+    position
+  - Unlimited vacation, so take a break when you need it!
+  - We have a generous family leave policy so that you can spend
+    time bonding with new additions to your family.
+  - We welcome candidates with backgrounds that are commonly
+    underrepresented in our industries.
+  - We deeply value culture, community, and camaraderie amongst
+    our team - we strive to create a work environment that
+    lets you have fun and celebrate (team events and trivia
+    galore!).
+
+  Incredible Health is proud to be an equal opportunity
+  employer.  Qualified candidates are considered for
+  employment without regard to race, religion, gender, gender
+  identity, sexual orientation, national origin, age, military
+  or veteran status, disability, or any other characteristic
+  protected by applicable law.
+
+  We are committed to inclusion of all individuals and will
+  make reasonable accommodations for qualified individuals
+  with disabilities in our job application process.  If you
+  require assistance or accommodations to participate in the
+  job application or interview process, please
+  contact recruiting@incrediblehq.com
+
+  At Incredible Health, we believe that great ideas come from
+  anywhere. Our core values steward kindness and respect for
+  everyone with a zero tolerance for harassment. We support,
+  welcome and value open participation from individuals with
+  different ideas, experiences, and perspectives.
+
+  Protect Yourself from Recruitment Fraud
+
+  At Incredible Health, the security of our employees and
+  candidates is a priority.
+
+  All application information should be submitted securely on
+  https://www.incrediblehealth.com/careers
+
+  We will always communicate with you via @incrediblehq.com or
+  @incrediblehealth.com e-mail addresses and will use the
+  email address that you provided in your application. We will
+  not make offers or schedule interviews through LinkedIn
+  InMail or Wire.
+
+  We will never request money or sensitive information like
+  bank account information, social security number, or any
+  other non-public information during the application process.
+  We do not charge a fee to process employment applications or
+  require any other form of payment during the recruitment
+  process. You will not be asked to purchase your own company
+  hardware, phone, or phone line during the recruitment
+  process.
+
+  If you suspect fraud, please do not respond and report the
+  situation to fraud@incrediblehealth.com. Please include as
+  much information as possible when submitting your report,
+  including a copy of the original email or text you received
+  and any other important information such as email headers,
+  names, company names, e-mail addresses, phone numbers, URLs,
+  and mailing details.
+industries:
+  - Healthtech
+  - Software
+posted_date: 2026-08-31
+url: "https://www.builtinla.com/job/senior-ai-engineer/10940573"
+source: Built In

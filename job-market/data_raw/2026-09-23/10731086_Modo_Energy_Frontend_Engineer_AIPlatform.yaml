@@ -1,0 +1,151 @@
+job_id: 10731086
+title: Frontend Engineer (AI/Platform)
+company: Modo Energy
+location: London, GBR
+work_type: FULL_TIME
+company_size: 40 Employees
+description: |
+  About Modo Energy
+
+  The energy transition is the biggest infrastructure buildout
+  in human history. Modo Energy is the data platform at the
+  centre of it.
+
+  We build the benchmarking, forecasting, and valuation tools
+  that the world's most serious energy investors, developers,
+  and operators depend on to make decisions. If a battery gets
+  financed, built, or traded anywhere in the world, there's a
+  good chance Modo data was in the room.
+
+  Founded in 2019, we're 90+ people across London, New York,
+  Sydney, and Madrid; $30M Series B, AI-native, and moving
+  fast.
+
+  This is a rare chance to join a category-defining company at
+  the moment it's scaling globally.
+
+  The Role
+
+  Modo Energy's engineering team builds the systems behind the
+  Modo Terminal, the data, research, and agentic platform that
+  energy market professionals rely on every day. We're growing
+  fast, and our ambitions are growing faster: from a data and
+  research product to an agentic layer that lets users work
+  with our domain knowledge through natural language and AI-
+  assisted tools.
+
+  We're hiring frontend engineers to join one of our product
+  teams: Terminal, Data, Ko (our AI Analyst), or Modelling.
+  Each team owns a business capability end-to-end, including
+  its own frontend, backend, and infrastructure, and every
+  team ships to production independently, without centralized
+  approval. Wherever you land, you'll help shape a shared
+  TypeScript, React, and Next.js codebase in a monorepo built
+  for rapid, AI-assisted development, and you'll build against
+  a company-wide design system so what you ship stays
+  consistent with the rest of the product.
+
+  We're looking for engineers who learn fast and go wide. You
+  won't be boxed into pixel-pushing; the best people on our
+  teams move fluidly between component architecture,
+  performance work, and the backend or infrastructure basics
+  behind the features they build. If you're the kind of
+  engineer who picks up a new tool, library, or part of the
+  stack without needing much of a runway, this is built for
+  you.
+
+  What You'll Do
+
+  - Help shape the technical direction of our frontend monorepo
+    so it scales with the team and the product.
+  - Design and build components in our internal UI library,
+    built on MUI, that the rest of the team can build on.
+  - Build and improve high-performance, low-latency interfaces
+    that hold up under real, live market data.
+  - Write well-tested code (Jest, Cypress, or Playwright) and
+    contribute to how the team reviews and documents its work.
+  - Split your time between shipping new features and keeping
+    things healthy: maintenance, performance, and production
+    issues are a normal, expected part of the job, not an
+    interruption to it.
+  - Work directly with design and with the people who understand
+    the domain (energy analysts, data scientists) to bridge
+    the gap between design and engineering.
+  - Cross into the backend and infrastructure basics behind your
+    own features when the team needs it: an API change, a
+    deployment fix, a bit of the pipeline behind the data
+    you're rendering.
+
+  What We're Looking For
+
+  The Essentials
+
+  - 3+ years of professional frontend development experience,
+    with excellent TypeScript, React, and Next.js.
+  - Experience with MUI or a similar component library.
+  - Solid testing practice with frameworks like Jest and Cypress
+    or Playwright.
+  - Proficient with Git, Docker, and CI/CD workflows, and
+    familiar with monorepo structures and tools (Turborepo,
+    Yarn Workspaces, or similar).
+  - Fluent with AI-assisted development tools (Cursor, Claude
+    Code, GitHub Copilot, or similar). We write a lot of code
+    this way.
+  - An eye for design (UI/UX): you can build polished,
+    aesthetically pleasing interfaces, not just functional
+    ones.
+  - A fast learner with good judgement, comfortable making calls
+    on component design and what's good enough to ship, and
+    genuinely energized by picking up unfamiliar tools,
+    stacks, or problem areas rather than staying in one lane.
+  - Comfortable in a small, fast-moving team where you're
+    expected to figure things out, make trade-offs, and ship,
+    with real autonomy over how.
+
+  Nice to have
+
+  - Start-up or scale-up experience.
+  - Familiarity with Python.
+  - Experience with energy markets.
+
+  Equal Opportunity
+
+  Modo Energy is an equal opportunity employer. Employment
+  decisions are made on the basis of qualifications, merit,
+  and business need. We do not discriminate on the basis of
+  race, colour, religion, national origin, sex, age,
+  disability, sexual orientation, gender identity or
+  expression, pregnancy, or any other characteristic protected
+  by law.
+
+  If you require assistance or a reasonable accommodation
+  during the application or interview process, please contact
+  us at careers@modoenergy.com.
+
+  What You Can Expect From Us
+
+  At Modo Energy, we believe that exceptional work deserves
+  exceptional reward. We're a high-performance team;
+  ambitious, collaborative, and genuinely motivated by the
+  scale of what we're trying to build.
+
+  You'll have real ownership from day one, work alongside some
+  of the brightest people in the industry, and be part of a
+  company that's defining a new category in the global energy
+  market. We're hybrid: everyone works Tuesday to Thursday in
+  office, with Monday and Friday flexible. We offer top-of-
+  market compensation, equity for every employee, and the
+  space to take your career wherever you want it to go.
+
+  We're looking for people who want to do the best work of
+  their careers. If that's you, we want to talk.
+industries:
+  - Fintech
+  - Information Technology
+  - Payments
+  - Consulting
+  - Energy
+  - Financial Services
+posted_date: 2026-08-18
+url: "https://builtin.com/job/frontend-engineer-ko-terminal/10731086"
+source: Built In

@@ -1,0 +1,58 @@
+company:
+  name: Talkiatry
+  stage: null
+  focus: In-network psychiatry and mental health care platform
+position:
+  title: Staff AI Enablement Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role hands-on designs and ships agents, prompt
+      engineering, context/tool design, evaluation, orchestration,
+      and guardrails — directly shaping LLM/agent behavior.
+      Rollout of AI coding tools alone would be ai-support, but
+      here the agents and automations are the person's own
+      deliverable, so it's ai-first.
+  responsibilities:
+  - Act as engineering's subject-matter expert on generative AI, agentic systems,
+    and AI-assisted software development
+  - Diagnose team workflows and pain points, translating findings into a prioritized
+    backlog of AI-enabled solutions
+  - Own the AI enablement roadmap end-to-end, including buy-in, execution, and impact
+    reporting
+  - Design, build, and operate a network of specialized automation agents on a shared
+    architecture
+  - Instrument and measure impact of shipped automations and iterate based on usage
+  - Partner with teams to modernize rules-based systems into data-driven, ML-informed
+    approaches
+  - Define adoption frameworks and guardrails (quality, security, cost, responsible
+    use)
+  - Champion AI/automation best practices across engineering via documentation, demos,
+    and pairing
+  use_cases:
+  - AI coding assistant and agentic developer tool adoption across engineering
+  - Automation agents for high-friction engineering and operational workflows
+  - Modernizing rules-based business systems with ML-informed approaches
+  - Internal developer enablement and AI tooling for mental healthcare operations
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Prompt Engineering, Function Calling,
+      LLM Evaluation, Guardrails, Generative AI, RAG, Vector Search, Conversational
+        AI]
+    ml: [Machine Learning, Model Evaluation, Feature Engineering]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11080553'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:31.730992'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

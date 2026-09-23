@@ -1,0 +1,53 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: Enterprise Data & AI platform services
+position:
+  title: AI PLATFORM ENGINEER (FDE)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role enables and builds AI agents, MCP integrations, and
+      agentic AI services as part of platform engineering, which
+      counts as designing agent flows/tool integrations and
+      shaping AI components, hence ai-first. The bulk is
+      platform/data infrastructure, but the named agentic AI and
+      MCP responsibilities decide the classification.
+  responsibilities:
+  - Build and operate scalable enterprise Data & AI platforms
+  - Develop batch, streaming and AI-enabled data pipelines
+  - Enable semantic models, AI agents, MCP integrations and reusable AI services
+  - Automate infrastructure using IaC, CI/CD and DevOps practices
+  - Implement security, governance, compliance, RBAC and audit controls
+  - Monitor platform health, SLAs and operational performance
+  - Optimize cloud and AI usage costs
+  - Evaluate and operationalize emerging AI technologies
+  use_cases:
+  - Enterprise Data & AI platform enablement
+  - AI agents and MCP integrations for enterprise services
+  - Batch and streaming data pipelines
+  - Cloud and AI cost optimization
+  - Data governance, security and self-service data products
+  skills:
+    genai: [MCP, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: [Snowflake, BigQuery]
+    data: [PySpark, Airflow, Databricks, Spark, Data Modeling]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Git, Infrastructure as Code, Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: [Astronomer, Microsoft Fabric, Data Quality, RBAC, Data Governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235244'
+  location: IND
+  locations:
+  - IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:30:15.350041'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

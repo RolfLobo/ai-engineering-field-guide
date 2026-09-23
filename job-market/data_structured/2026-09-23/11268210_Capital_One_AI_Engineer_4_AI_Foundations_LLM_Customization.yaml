@@ -1,0 +1,66 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML applications
+position:
+  title: 'AI Engineer 4 (AI Foundations: LLM Customization, Finetuning, Reinforcement
+    Learning)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: foundation model
+      training, LLM fine-tuning, reinforcement learning,
+      agents/multi-agent workflows, guardrails, and model
+      evaluation. LLM/generative components dominate, so it is ai-
+      first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, test, deploy, and support AI components including foundation
+    model training, LLM inference, agents, multi-agent workflows, guardrails, and
+    model evaluation
+  - Apply state-of-the-art foundation model optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Own end-to-end architecture for complex AI systems ensuring maintainability, observability,
+    and ethical alignment
+  - Define and maintain service-level objectives for AI reliability including latency,
+    uptime, and model performance drift
+  - Collaborate with infrastructure engineering to optimize GPU/TPU utilization and
+    accelerate model inference pipelines
+  - Lead cross-functional technical reviews for AI deployments ensuring security,
+    data governance, and compliance
+  - Mentor Principal and Senior Associates on scalable design, performance tuning,
+    and research-to-production translation
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Fraud detection and unusual charge alerts
+  - Real-time customer question answering
+  - AI models and platforms that empower product teams across the company
+  - LLM customization and fine-tuning for production AI systems
+  skills:
+    genai: [LLMs, Fine-Tuning, AI Agents, Multi-Agent Systems, Agentic Workflows,
+      Guardrails, Semantic Search]
+    ml: [Foundation Model Training, Model Training, Reinforcement Learning, Model
+        Evaluation, Hugging Face, PyTorch, CUDA, Machine Learning]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Observability, Distributed Systems]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268210'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:32:58.569903'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

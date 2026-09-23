@@ -1,0 +1,49 @@
+company:
+  name: Zebra Technologies
+  stage: null
+  focus: Enterprise hardware and computer vision solutions
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds SDKs and deployment pipelines that port,
+      optimize throughput, and benchmark CV models on hardware
+      targets — the deliverable is capacity and integration, not
+      shaping model behaviour. Quantization and deep learning
+      fundamentals appear only as bonus items, and no LLM/agent
+      component exists.
+  responsibilities:
+  - Design, develop, and maintain high-performance C++ SDKs exposing computer vision
+    capabilities
+  - Port, convert, and deploy ML models across Qualcomm SoCs, Intel CPUs, and NVIDIA
+    GPUs
+  - Optimize model throughput using hardware-specific toolkits without sacrificing
+    accuracy
+  - Test and benchmark models on target hardware against performance expectations
+  - Build automation scripts and CI/CD pipelines in Python to streamline model testing
+    and deployment
+  use_cases:
+  - Computer vision model deployment on edge SoCs and cloud GPUs
+  - Exposing CV capabilities to end-users and internal products via SDKs
+  - Automated model testing and deployment lifecycle
+  skills:
+    genai: []
+    ml: [TensorFlow Lite, Deep Learning, CNNs, Transformers, Object Detection, Model
+        Conversion, Quantization, PTQ, QAT]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [SNPE, QNN, OpenVINO, TensorRT, Docker, CI/CD]
+    languages: [C++, Python]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10888323'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:05:13.946723'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

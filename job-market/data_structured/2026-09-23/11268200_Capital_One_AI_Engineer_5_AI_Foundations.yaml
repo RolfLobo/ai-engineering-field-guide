@@ -1,0 +1,59 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with applied AI
+position:
+  title: AI Engineer 5 (AI Foundations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM inference, agents and multi-
+      agent workflows, guardrails, model evaluation, and
+      orchestration pipelines—clearly shaping model behavior and
+      output quality with heavy LLM components, so it is ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, deploy, and support AI components including foundation model
+    training, LLM inference, agents, multi-agent workflows, guardrails, and model
+    evaluation
+  - Design and optimize multi-model orchestration pipelines integrating LLMs, vector
+    search, and domain-specific models
+  - Invent and apply foundation model optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Lead cost-performance governance reviews tracking GPU utilization, throughput,
+    and inference cost efficiency
+  - Lead design councils and design review boards to enforce AI engineering standards
+  - Mentor Principal and Manager-level AI engineers
+  use_cases:
+  - Real-time personalized customer banking experiences
+  - AI-powered products for associates and customer interactions
+  - Fraud and unusual charge detection alerts
+  - Real-time customer question answering
+  - Enterprise AI foundation platform empowering teams across the bank
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails, LLM Evaluation, RAG]
+    ml: [Hugging Face, PyTorch, Fine-Tuning, Model Training, Machine Learning, Model
+        Evaluation, CUDA]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268200'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:33:51.866016'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

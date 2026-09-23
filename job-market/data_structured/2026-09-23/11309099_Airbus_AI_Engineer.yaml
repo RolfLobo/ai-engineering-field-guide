@@ -1,0 +1,55 @@
+company:
+  name: Airbus
+  stage: null
+  focus: Aerospace manufacturing and digital innovation
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompt architectures, RAG pipelines, and
+      fine-tuned LLMs to automate code and document
+      transformation, directly shaping model behavior and output
+      quality. LLM/GenAI is central, so it is ai-first.
+  responsibilities:
+  - Lead end-to-end AI product lifecycle from architecture and model selection/fine-tuning
+    to deployment, monitoring, and optimization
+  - Design intelligent systems that parse, translate, and modernize legacy codebases
+    and technical documentation using NLP and LLMs
+  - Develop prompt architectures, RAG pipelines, and fine-tuned models for domain-specific
+    artifact generation
+  - Build resilient serverless and scalable AI microservices and batch pipelines on
+    GCP
+  - Implement AI FinOps including cost tagging, billing telemetry, token metering,
+    and model routing for cost efficiency
+  - Establish CI/CD pipelines, automated testing, API design, and documentation for
+    AI assets
+  - Collaborate with Product Managers, UX Designers, Architects, and Domain Experts
+    on integration
+  - Mentor junior engineers and drive innovation in production ML engineering practices
+  use_cases:
+  - Automated modernization and translation of legacy codebases
+  - Parsing and generation of technical documentation
+  - Domain-specific artifact generation from high-level user prompts
+  - Intelligent software automation and code transformation
+  - Cost-optimized scalable AI microservices on cloud
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Fine-Tuning, LangChain, LlamaIndex, Generative
+        AI, Model Routing]
+    ml: [NLP, Machine Learning]
+    web: [REST APIs, gRPC, Microservices]
+    databases: [BigQuery, Vector Databases, Pinecone, Chroma, Vertex Vector Search]
+    data: []
+    cloud: [GCP, Vertex AI, Cloud Run, Cloud Functions, GKE]
+    ops: [MLOps, Docker, Kubernetes, CI/CD, OpenTelemetry, Model Tracking, Cloud Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Abstract Syntax Trees, Static Code Analysis, Compiler Concepts, AI FinOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11309099'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:37:08.608292'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

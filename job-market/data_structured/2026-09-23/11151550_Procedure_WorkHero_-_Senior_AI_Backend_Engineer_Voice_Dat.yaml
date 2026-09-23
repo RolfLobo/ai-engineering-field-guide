@@ -1,0 +1,58 @@
+company:
+  name: Procedure
+  stage: null
+  focus: AI-powered back office for skilled trades/HVAC contractors
+position:
+  title: WorkHero - Senior AI Backend Engineer (Voice + Data Infra)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds tool-using AI agents,
+      RAG/search, and real-time voice agents end-to-end, including
+      evals and quality monitoring for agent behavior — this is
+      shaping LLM/agent output quality. LLM/agent components are
+      central, so ai-first.
+  responsibilities:
+  - Build product screens and flows (jobs, customers, invoices, scheduling) in React/React
+    Native including AI chat UI with streaming and human review loops
+  - 'Design and ship AI workflows in production: tool-using agents, RAG/search, classification/extraction,
+    and human-in-the-loop flows'
+  - 'Own the real-time voice stack end to end: telephony/WebRTC integration, streaming
+    STT/TTS, turn-taking, interruption handling, latency optimization'
+  - 'Build voice pipeline reliability: backpressure, failover, graceful degradation,
+    and monitoring for live calls'
+  - Build the call-data pipeline from transcripts and events into the warehouse, plus
+    analytics and conversation-intelligence dashboards
+  - 'Build evals and monitoring for voice agents: quality metrics, drift detection,
+    cost/latency tracking'
+  - Scale cloud infrastructure with infrastructure as code, queues/orchestration,
+    and CI/CD
+  - Mentor team members and collaborate with product and subject matter experts
+  use_cases:
+  - Real-time AI voice agents handling live phone calls for contractors
+  - 'Back-office automation: invoicing, permits, scheduling, paperwork'
+  - AI chat UI with tool results, streaming responses, and human review/feedback
+  - 'Conversation intelligence: turning call transcripts into events and dashboards'
+  - Data extraction and classification from call data for analytics
+  skills:
+    genai: [AI Agents, RAG, LLMs, Prompt Engineering, Human-in-the-Loop, Agentic Workflows,
+      LLM Evaluation]
+    ml: []
+    web: [React, React Native]
+    databases: []
+    data: [Data Modeling, Data Warehousing, Event Pipelines]
+    cloud: [AWS]
+    ops: [Terraform, CI/CD, Infrastructure as Code, Monitoring, Claude Code, Cursor]
+    languages: [TypeScript]
+    domains: []
+    other: [WebRTC, Telephony, Speech-to-Text, Text-to-Speech, LiveKit, Pipecat, Vapi,
+      Deepgram, n8n, SIP, Twilio]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151550'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:21:45.789709'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

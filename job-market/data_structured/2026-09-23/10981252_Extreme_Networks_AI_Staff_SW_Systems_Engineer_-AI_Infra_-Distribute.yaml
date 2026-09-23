@@ -1,0 +1,56 @@
+company:
+  name: Extreme Networks
+  stage: null
+  focus: Cloud-driven enterprise networking solutions
+position:
+  title: AI Staff SW Systems Engineer -AI Infra -Distributed Systems,Microservice,
+    AI Infrastructure,Agentic systems-10363
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes building generative AI and agentic systems
+      with tool use, planning, memory, retrieval, orchestration,
+      and evaluation, which is directly shaping agent behavior.
+      Although it spans distributed systems and data
+      infrastructure, the LLM/agent component makes it ai-first.
+  responsibilities:
+  - Define and drive technical vision across intelligent networking, distributed systems,
+    real-time data processing, agentic AI, and machine learning
+  - Lead the end-to-end software development lifecycle from architecture through deployment
+    and operations
+  - Design and build high-performance production services for real-time data and AI
+    platforms, including scalable data pipelines and distributed microservices
+  - Build agentic solutions and integrations with networking systems
+  - Mentor engineers and establish technical direction for the team
+  - Champion improvements to architecture, performance, and operational readiness
+    of resilient, secure, observable systems
+  use_cases:
+  - Intelligent network management for wired and wireless enterprise networks
+  - AI agents that reason, plan, remember, and take actions on behalf of users
+  - Real-time processing and analytics of high-volume network telemetry data
+  - Agentic automation for network operations
+  - Automated insights and intelligent experiences across Extreme products
+  skills:
+    genai: [Agentic Workflows, Generative AI, RAG]
+    ml: [Machine Learning]
+    web: [Microservices]
+    databases: []
+    data: [Kafka, Spark, Flink, PySpark, Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Monitoring, Observability, Distributed Systems]
+    languages: [Python, Java, Go, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10981252'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:10:29.255202'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

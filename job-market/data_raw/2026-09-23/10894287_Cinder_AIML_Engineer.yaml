@@ -1,0 +1,135 @@
+job_id: 10894287
+title: AI/ML Engineer
+company: Cinder
+location: New York, USA
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  About Cinder
+
+  Cinder is the mission-critical infrastructure that keeps the
+  world's most important digital platforms true to what they
+  stand for. The internet has always been abused by bad
+  actors, and AI is making it exponentially worse, driving
+  fraud, abuse, and manipulation at a scale and speed no human
+  team can fight alone. Cinder gives platforms one command
+  center to fight back: to write and enforce policy, deploy AI
+  agents against abuse in real time, investigate threats, file
+  NCMEC reports, and prove their safety programs are working.
+
+  Our customers are some of the largest internet platforms in
+  the world. The decisions made in our software directly
+  determine what stays up, what comes down, and how users are
+  treated.
+
+  We're a small, fast-moving team backed by Accel and Y
+  Combinator. We care about being intentional, direct, and
+  deeply focused on solving real customer problems.
+
+  Why This Role
+
+  Cinder is expanding quickly, and we want to bring on an
+  additional AI Engineer to partner with our current AI
+  Engineers, Data Scientist, and Data Engineer. You'll build
+  the ML systems that make Cinder faster, more efficient, and
+  more accurate, turning the enormous volume of customer
+  decision data we process into production models that
+  directly shape customer outcomes.
+
+  We're looking for a builder. Someone who has taken models
+  from messy data to production at scale, who reaches for a
+  gradient-boosted tree before a transformer when that's the
+  right call, and who has stood up ML infrastructure from
+  scratch rather than inheriting it fully-built. What matters
+  most is judgment: knowing the smallest, most efficient, most
+  reliable model for the job, and understanding both ML
+  methods and LLMs deeply enough to make that call yourself
+  rather than defaulting to whichever one you know best. This
+  role needs someone who cares as much about precision-recall
+  tradeoffs, class imbalance, and serving latency as they do
+  about model architecture.
+
+  What you'll do
+
+  - Turn real-world customer data into something a model can
+    actually learn from, then decide what model approach fits:
+    a classical classifier when it wins on cost and latency, a
+    fine-tuned LLM when the tradeoff is worth it, a third-
+    party API as a bootstrap. You own the full path from data
+    to decision, not just the model.
+  - Improve our classification pipeline, confidence cascading,
+    and detection strategies so we catch harmful content
+    efficiently — balancing cost, latency, and accuracy
+    deliberately.
+  - Develop intelligent features that help moderators make
+    decisions, organize platform content, and reveal patterns
+    across our data.
+  - Partner with Engineering to build out Cinder's in-house
+    model training, hosting, and inference platform.
+  - Design and build the evaluation and metrics infrastructure
+    customers rely on, including how classifier scores and
+    model outputs are calculated, stored, surfaced, and
+    iterated on.
+  - Partner with our Founding Data Scientist and AI Engineers to
+    shape the agent evaluation architecture — measuring
+    whether our agent fleet is making the right decisions with
+    the right tools at the right cost.
+  - Partner with our Data Engineer to shape the data
+    infrastructure powering our ML systems, ensuring model
+    training, feature pipelines, and production inference have
+    the right data flowing at the right latency and scale.
+  - Mentor teammates and raise the ML bar across the company as
+    Cinder's ML capability matures.
+
+  What we’re looking for
+
+  - 5–8+ years of machine learning engineering experience on a
+    small team, with a strong track record of shipping ML
+    systems (gradient boosting, tree-based models,
+    classifiers, embedding-based methods) to production.
+  - You've taken a classification problem from messy, unlabeled,
+    real-world data all the way to a model that shipped and
+    served production traffic.
+  - You understand LLMs well enough to make an informed,
+    defensible call about when an LLM is worth its cost and
+    latency versus a classic model.
+  - Real, hands-on experience building classifiers under severe
+    class imbalance, where the signal you care about is a
+    small minority of the data
+  - Thrived in environments where the ML infrastructure wasn't
+    already built for you: you've stood up training pipelines,
+    serving infrastructure, evaluation harnesses, and
+    monitoring from scratch rather than inheriting a mature
+    platform.
+  - Startup or small/mid-size company experience where you owned
+    meaningful scope and had to make pragmatic tradeoffs about
+    what to build, what to buy, and what to defer.
+  - Deep fluency with the fundamentals: thoughtful feature
+    engineering, leak-aware train/test splits, metric
+    selection on imbalanced data (precision/recall/F1/AUC over
+    accuracy), cross-validation, and principled hyperparameter
+    tuning.
+  - Strong Python skills and hands-on experience with AI & ML
+    frame works: (PyTorch, scikit-learn, langchain, XGBoost
+    etc)
+  - Solid MLOps foundation: CI/CD for ML, model versioning,
+    experiment tracking, drift detection, and production
+    monitoring. Bonus if you have experience with training,
+    evaluating and serving models via Databricks
+  - Experience designing inference systems with explicit latency
+    and throughput targets, and independently making informed
+    tradeoffs between model complexity, cost, and performance.
+  - Experience with AWS and infrastructure-as-code (Terraform)
+    is a plus.
+
+  Location & Benefits
+
+  We're based in NYC and will relocate for this role. We
+  believe in working together in person and hold at least two
+  all-company events per year. We offer health, vision &
+  dental benefits, a 401(k) plan with employer matching, fully
+  paid commuter benefits, and a fully stocked office with paid
+  lunch and dinner.
+posted_date: 2026-08-27
+url: "https://builtin.com/job/machine-learning-engineer/10894287"
+source: Built In

@@ -1,0 +1,52 @@
+company:
+  name: T-Systems ICT India Pvt. Ltd.
+  stage: null
+  focus: IT services, digital transformation, cloud and AI
+position:
+  title: AI, Python engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role applies machine learning, statistical analysis, and
+      predictive modeling to business data, which is shaping
+      classical ML outputs with no LLM or agent component
+      mentioned. Step 2 therefore classifies it as ml-first.
+  responsibilities:
+  - Analyze and interpret large datasets using advanced analytics techniques on modern
+    data platforms
+  - Prepare reports, dashboards, and insights to support business decision-making
+  - Evaluate data structures, data quality, and business processes to identify improvements
+  - Design, develop, and maintain data models for analytical and operational needs
+  - Apply machine learning techniques and integrate analytical outcomes into business
+    solutions
+  - Perform data transformation including enrichment, blending, filtering, consolidation,
+    and cleansing
+  - Prepare cost-benefit analyses and techno-economic evaluations for data-driven
+    initiatives
+  - Manage end-to-end analytics and data science projects and collaborate with cross-functional
+    teams
+  use_cases:
+  - Business decision support through dashboards and insights
+  - Data quality evaluation and process improvement
+  - Predictive analytics and ML integration into business processes
+  - Data transformation and consolidation across multiple sources
+  - Cost-benefit and techno-economic evaluation of data initiatives
+  skills:
+    genai: []
+    ml: [Machine Learning, Model Training]
+    web: []
+    databases: [Snowflake]
+    data: [Data Modeling, Data Pipelines, Databricks, Data Governance]
+    cloud: [Azure, AWS, GCP]
+    ops: []
+    languages: [SQL, Python, R]
+    domains: []
+    other: [Power BI, Tableau]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11043947'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:14:55.010288'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

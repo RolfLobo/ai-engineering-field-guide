@@ -1,0 +1,45 @@
+company:
+  name: True Anomaly
+  stage: null
+  focus: Autonomous spacecraft and space security technology
+position:
+  title: Machine Learning Engineer (II-III), Space Agentic AI
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops, trains, and evaluates classical ML models
+      (classification, anomaly detection) for space domain
+      awareness. Despite "Agentic AI" in the title, no LLM or
+      agent-shaping work is described — training/evaluating models
+      is shaping, but only classical ML components are named, so
+      ml-first.
+  responsibilities:
+  - Develop, train, and evaluate ML models across mission-relevant tasks
+  - Support data ingestion, preprocessing, and feature engineering pipelines
+  - Run experiments, track results, and iterate on model evaluation
+  - Write clean, documented, testable Python code
+  - Collaborate with senior engineers and grow within the team
+  use_cases:
+  - Object classification for space domain awareness
+  - Anomaly detection in space-based sensor data
+  - Data-driven decision making for space superiority missions
+  skills:
+    genai: []
+    ml: [Machine Learning, Model Evaluation, Feature Engineering, Anomaly Detection,
+      PyTorch, TensorFlow, JAX, Deep Learning, Model Training]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, MLOps]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11090350'
+  location: Long Beach, USA
+  extracted_at: '2026-09-23T11:17:42.400814'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

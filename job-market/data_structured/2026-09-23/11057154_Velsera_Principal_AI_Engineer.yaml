@@ -1,0 +1,58 @@
+company:
+  name: Velsera
+  stage: null
+  focus: Precision medicine software and infrastructure
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships AI/LLM systems including a
+      governed model access layer, evaluation harnesses,
+      guardrails, RAG, and agentic patterns — directly shaping
+      model behaviour, evaluation, and governance with an LLM
+      focus. Hence ai-first.
+  responsibilities:
+  - Build a governed, multi-tenant AI/LLM serving and invocation layer spanning self-hosted,
+    cloud-managed, and customer-supplied models
+  - Integrate AI capabilities into product experiences and enterprise workflows across
+    batch, interactive, and agentic patterns
+  - Establish reusable patterns for evaluation, versioning, approvals, audit trails,
+    cost control, guardrails, and safe rollout/rollback
+  - Define a model governance workflow (intake, evaluation, approval, versioning,
+    deprecation) satisfying regulated customers
+  - Ship AI capabilities end to end across product features, internal automation,
+    and compliance tooling
+  - 'Ensure operational readiness: monitoring, evaluation harnesses, incident playbooks,
+    cost visibility, and SLOs'
+  - Partner with product, engineering, security, compliance, IT, and scientific teams
+    to drive adoption of AI-native architectures
+  - Set technical direction for a growing AI platform and enablement team
+  use_cases:
+  - Governed model access and compliant LLM serving layer for multiple products
+  - AI capabilities embedded in precision medicine research, clinical, and diagnostic
+    applications
+  - Internal enterprise workflow automation
+  - Assisted validation and compliance tooling for regulated environments
+  - 'Model governance: evaluation, approval, versioning, and audit for regulated customers'
+  skills:
+    genai: [RAG, Agentic Workflows, Guardrails, LLMs, Function Calling]
+    ml: [Model Evaluation, LLM Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, AWS Bedrock, Vertex AI, Azure OpenAI, Azure AI Foundry,
+      IAM]
+    ops: [MLOps, LLMOps, Monitoring, Model Deployment]
+    languages: [Python, Java, Go, TypeScript]
+    domains: []
+    other: [HIPAA Compliance, GDPR, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11057154'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:16:22.906833'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

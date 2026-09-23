@@ -1,0 +1,52 @@
+company:
+  name: Kyndryl
+  stage: null
+  focus: |-
+    Enterprise IT infrastructure and mission-critical technology
+    services
+position:
+  title: Forward Deployed Engineer - AI & Agentic Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      FDE role that directly builds agentic workflows, RAG
+      pipelines, LLM API integrations, and governance guardrails -
+      clearly shaping LLM-based systems. Customer-facing delivery
+      at client sites.
+  responsibilities:
+  - Translate business challenges into agentic AI applications and generative AI use
+    cases
+  - Build and iterate agentic workflows, RAG pipelines, and LLM API integrations
+  - Process unstructured data into structured knowledge including ontology extraction
+  - Write production-grade Python services (FastAPI) with design, testing, code review,
+    CI/CD
+  - Work with relational and graph databases (Postgres, Neo4j) behind AI applications
+  - Define AI governance and responsible-use guardrails including policy enforcement
+    (OPA/Rego)
+  - Instrument AI applications for observability (OpenTelemetry, Prometheus)
+  - Guide clients through legacy modernisation into AI-enabled workflows
+  use_cases:
+  - Customer delivery of agentic AI and generative AI applications in production
+  - Legacy application modernisation into AI-enabled workflows
+  - Unstructured data processing into structured knowledge and ontology extraction
+  - AI governance and responsible-use policy enforcement
+  skills:
+    genai: [Agentic Workflows, RAG, LLMs, LangGraph, CrewAI, AutoGen, Semantic Kernel,
+      MCP, OpenAI API, Google ADK, Guardrails, Generative AI]
+    ml: [TensorFlow, PyTorch, Hugging Face]
+    web: [FastAPI, APIs]
+    databases: [PostgreSQL, Neo4j, Graph Databases, Vector Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, Git, GitHub, Docker, OpenTelemetry, Prometheus, MLOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: [OPA/Rego, OCR, Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11179644'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:24:07.147577'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

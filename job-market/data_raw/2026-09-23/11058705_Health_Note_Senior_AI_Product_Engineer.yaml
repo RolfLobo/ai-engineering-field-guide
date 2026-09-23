@@ -1,0 +1,137 @@
+job_id: 11058705
+title: Senior AI Product Engineer
+company: Health Note
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Health Note
+
+  Health Note is building AI-powered digital assistants that
+  act like trusted members of the care team. Instead of rigid,
+  disconnected software modules, our assistants gain skills
+  over time — from handling simple reschedules to managing
+  complex intake, referrals, medication refills, and patient
+  access workflows.
+
+  Patients experience a natural, empathetic interaction while
+  providers gain a system that is reliable, transparent, and
+  continually improving. Our goal is to deliver a concierge
+  experience for every patient and a scalable path to
+  automation for every clinic.
+
+  About the Role
+
+  We're looking for a product-minded engineer who can make AI
+  systems measurably better in production. This is a product
+  engineering role first: you'll write production code, build
+  internal and product-facing systems, and use measurement to
+  decide what to improve next.
+
+  As a Senior AI Product Engineer, you'll build systems that
+  help us understand how Health Note's Access Agent is
+  performing, where it breaks down, and which changes actually
+  improve outcomes. You'll connect agent behavior, customer
+  workflows, prompts, configurations, and outcome data so we
+  can improve the system with confidence.
+
+  Success is measured by whether the systems you build make
+  the Access Agent more reliable, measurable, and effective in
+  production.
+
+  This is not a pure ML research role or a dedicated evals-
+  platform role. You'll build AI product systems, use
+  measurement to decide what to improve next, and create
+  enough feedback structure to make changes safely.
+
+  This role is ideal for an engineer who likes ambiguous
+  product problems, trusts data over assumptions, and can turn
+  messy real-world behavior into systems for measurement and
+  improvement.
+
+  Responsibilities
+
+  - Own improvements to the Access Agent from investigation
+    through production rollout, measurement, and follow-up.
+  - Build practical ways to measure agent performance, including
+    evals, dashboards, review workflows, logs, and production
+    metrics.
+  - Analyze transfer patterns, containment rates, task success,
+    and operational outcomes to identify improvement
+    opportunities.
+  - Build tooling and workflows that connect prompts,
+    configurations, interventions, customer workflows, and
+    outcomes.
+  - Create checks that help us catch regressions before and
+    after changes go live.
+  - Partner with Product, Operations, and Engineering to
+    prioritize and validate improvements.
+  - Design lightweight experiments and measurement approaches
+    for model, STT, prompt, workflow, and configuration
+    changes.
+  - Build visibility into agent performance through dashboards,
+    analytics, and reporting.
+  - Use AI-assisted development tools and agentic workflows to
+    accelerate experimentation and delivery.
+
+  Qualifications
+
+  - 5+ years of software engineering experience building
+    production systems.
+  - Experience shipping Agentic systems into production and
+    measuring whether they worked.
+  - Strong analytical and problem-solving skills with an ability
+    to translate ambiguous problems into measurable outcomes.
+  - Ability to use metrics, logs, qualitative review, or
+    experiments to understand whether product changes worked.
+  - Strong product instincts and ability to connect technical
+    decisions to business outcomes.
+  - Demonstrated ability to independently own initiatives from
+    problem identification through measurable impact.
+  - Experience using modern AI-assisted engineering workflows
+    (e.g., Claude, Cursor, Codex, or similar tools).
+
+  Nice to Haves
+
+  - Experience building eval frameworks for AI products.
+  - Familiarity with Langfuse, observability platforms,
+    analytics systems, or experimentation tooling.
+  - Experience with RAG, agent orchestration, prompt management,
+    or workflow automation systems.
+  - Experience measuring and improving customer-facing AI
+    experiences.
+  - Healthcare technology or regulated-industry experience.
+  - Experience working in startup environments with significant
+    ambiguity.
+
+  What Success Looks Like
+
+  Within your first 90 days, you will:
+
+  - Own a product improvement from problem identification
+    through production rollout and measured impact.
+  - Establish practical checks for evaluating changes before
+    production deployment.
+  - Create visibility into key Access Agent performance metrics
+    and breaking points.
+  - Ship measurable improvements with documented before-and-
+    after impact.
+  - Help Health Note build a disciplined, scalable system for
+    continuous AI improvement.
+
+  Compensation
+
+  Compensation is based on experience, demonstrated production
+  AI expertise, and location.
+
+  - United States: Expected base salary of $170,000-$210,000 USD
+  - Latin America (contract): Expected compensation of
+    $9,000-$12,000 USD per month, depending on experience and
+    location
+
+  We evaluate every candidate individually and may adjust
+  compensation based on relevant experience, technical depth,
+  and overall fit.
+posted_date: 2026-09-08
+url: "https://www.builtinla.com/job/senior-ai-product-engineer/11058705"
+source: Built In

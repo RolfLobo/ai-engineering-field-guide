@@ -1,0 +1,60 @@
+company:
+  name: CONVEGENIUS EDU SOLUTIONS PRIVATE LIMITED
+  stage: null
+  focus: |-
+    Ed-tech infrastructure platforms for public education at
+    scale
+position:
+  title: AI Engineer - 2
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: building agentic
+      workflows, RAG, prompt optimization, fine-tuning (SFT,
+      LoRA), and evaluation pipelines. LLM/agent components are
+      central, making it ai-first.
+  responsibilities:
+  - Design, develop, and deploy production-grade AI/ML systems using LLMs, NLP, Computer
+    Vision, Speech, and multimodal models
+  - Build agentic AI applications with tool calling, planning, memory, retrieval,
+    state management, and human-in-the-loop mechanisms
+  - Develop RAG and knowledge-grounded systems with embeddings, reranking, and context
+    optimization
+  - Experiment with model adaptation techniques such as SFT, LoRA/QLoRA, synthetic
+    data generation, prompt optimization, and knowledge distillation
+  - Design evaluation pipelines for accuracy, groundedness, hallucination, safety,
+    latency, reliability, and cost
+  - Integrate AI systems with APIs, databases, vector stores, and backend services
+  - Collaborate with product, engineering, research, and education teams to take AI
+    solutions from prototype to production
+  - Own reliability and safety of AI systems deployed at scale in child-facing educational
+    contexts
+  use_cases:
+  - AI learning tutor (Swiftee) for school children
+  - Agentic AI applications with tool calling and human-in-the-loop
+  - Knowledge-grounded retrieval for educational content
+  - Multimodal AI including speech, OCR, and computer vision for education
+  - Child-facing AI systems requiring safety and reliability at scale
+  skills:
+    databases: []
+    domains: [NLP, Computer Vision, OCR, Speech, Multimodal AI]
+    data: []
+    web: [APIs]
+    ml: [PyTorch, Transformers, Machine Learning, Deep Learning, Knowledge Distillation,
+      Model Evaluation]
+    ops: [Docker, CI/CD, Model Deployment, Monitoring]
+    other: []
+    cloud: [Cloud Platforms]
+    languages: [Python]
+    genai: [LLMs, Agentic Workflows, Function Calling, RAG, Embeddings, Fine-Tuning,
+      LoRA, Prompt Engineering, Synthetic Data Generation, Multi-Agent Systems, LangGraph,
+      LangChain, Semantic Search, Vector Databases, LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11037171'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:14:23.345235'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

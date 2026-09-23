@@ -1,0 +1,166 @@
+job_id: 11250578
+title: AI Automation Engineer Associate
+company: JPMorganChase
+location: Hyderabad, IND
+locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+work_type: FULL_TIME
+company_size: 289,097 Employees
+description: |
+  Make your mark by building reliable AI automation that
+  improves accuracy, reduces manual effort, and grows your
+  engineering impact.
+
+  As a Senior Associate in Operations Automation within the
+  Commercial and Investment Bank, you design, build, deploy,
+  and operate production-grade AI assistants that automate
+  high-volume knowledge work. You focus on intelligent
+  document processing by transforming unstructured inputs
+  (such as PDFs, spreadsheets, emails, and images) into
+  structured, validated data for downstream business systems.
+  You define success metrics and continuously improve quality
+  through offline evaluation and production monitoring while
+  embedding Responsible AI controls and troubleshooting issues
+  across the full solution stack.
+
+  Job Responsibilities:
+
+  - Design production-grade AI assistants that combine language
+    models, multimodal models, business rules, retrieval, and
+    tool integrations to automate operational workflows.
+  - Engineer multi-stage workflows using directed-graph or
+    graph-based orchestration patterns, including ingestion,
+    model execution, tool invocation, validation, and post-
+    processing.
+  - Apply fit-for-purpose techniques across structured model
+    outputs, retrieval-augmented generation, agentic patterns,
+    and multimodal document processing.
+  - Define output schemas (for example, Pydantic), prompts,
+    deterministic post-processing rules, validation logic, and
+    exception handling aligned to domain needs.
+  - Build document digitization and Optical Character
+    Recognition pipelines, including PDF text extraction, OCR
+    processing, normalization, and handling of noisy or low-
+    quality scans.
+  - Establish success metrics and improve accuracy and
+    reliability through offline evaluation (golden datasets,
+    regression tests, error analysis) and production
+    monitoring (quality, drift, latency, cost).
+  - Write secure, maintainable, well-tested production code and
+    develop reusable components that can be leveraged across
+    use cases.
+  - Troubleshoot production issues across model, retrieval,
+    tool-integration, and post-processing layers, driving
+    root-cause analysis and preventative fixes.
+  - Embed Responsible AI practices, guardrails, and governance
+    controls into delivery and operations to support
+    auditability, traceability, and well-controlled execution.
+  - Produce recurring health views and reporting for key
+    performance indicators such as adoption, accuracy, and
+    override or exception rates to support stakeholders.
+  - Facilitate requirements elicitation with operations users
+    through workshops, process walkthroughs, and shadowing,
+    translating needs into requirements, controls, and
+    acceptance criteria.
+
+  Required qualifications, skills, and capabilities:
+
+  - Demonstrate at least 5 years of hands-on experience in
+    applied AI, machine learning, or AI-powered automation,
+    including delivery of production or production-like
+    solutions.
+  - Show strong proficiency in Python, including asynchronous
+    programming, to build clean, maintainable, well-tested
+    code.
+  - Apply Large Language Model techniques, including prompt
+    engineering, structured or JSON-schema outputs, and
+    robustness methods for real-world tasks.
+  - Use LangGraph or an equivalent graph-based orchestration
+    framework to build multi-step AI workflows.
+  - Define and validate schemas using Pydantic and perform data
+    processing using pandas.
+  - Implement Optical Character Recognition and document
+    digitization workflows, including PDF text extraction, OCR
+    tools such as AWS Textract or equivalent, post-OCR
+    cleanup, validation, and exception handling.
+  - Integrate external tools and services via application
+    programming interfaces, including tool-using assistant
+    patterns with strong validation and error handling.
+  - Follow core software engineering practices, including
+    automated testing, continuous integration and continuous
+    delivery, secure development, and production readiness
+    (logging, metrics, tracing, runbooks, incident response
+    participation).
+  - Use Git and a hosted repository platform to manage
+    branching, pull requests, and code review workflows.
+  - Define objective success metrics and evaluate solution
+    quality with clear problem framing and effective
+    communication across technical and non-technical
+    stakeholders.
+  - Analyze adoption and performance drivers (such as accuracy
+    and override patterns) using structured root-cause
+    analysis and measurable remediation.
+
+  Preferred qualifications, skills, and capabilities:
+
+  - Developing experience using AI-powered analytics, workflow
+    automation, or intelligent process tools to drive
+    efficiency gains, reduce manual effort, or improve
+    accuracy in operational processes.
+  - Hold a Master’s degree with a specialization in AI or
+    machine learning, or a closely related quantitative field.
+  - Deliver enterprise Large Language Model-powered or agentic
+    applications with accountability for service health,
+    including service level objectives, reliability, and
+    operational excellence.
+  - Apply retrieval-augmented generation components, including
+    embeddings, vector stores, retrieval quality evaluation,
+    grounding approaches, and hallucination mitigation.
+  - Interpret evaluation and statistical concepts such as
+    confusion matrix, precision, recall, F1, error analysis,
+    A/B testing, and statistical significance to measure and
+    defend model performance.
+  - Use classical machine learning frameworks such as PyTorch,
+    TensorFlow, or scikit-learn as needed.
+  - Deploy solutions as scalable, observable backend services or
+    application programming interfaces, including familiarity
+    with containerization and cloud-native deployment.
+
+  About Us
+
+
+
+  JPMorganChase, one of the oldest financial institutions,
+  offers innovative financial solutions to millions of
+  consumers, small businesses and many of the world’s most
+  prominent corporate, institutional and government clients
+  under the J.P. Morgan and Chase brands. Our history spans
+  over 200 years and today we are a leader in investment
+  banking, consumer and small business banking, commercial
+  banking, financial transaction processing and asset
+  management. We recognize that our people are our strength
+  and the diverse talents they bring to our global workforce
+  are directly linked to our success. We are an equal
+  opportunity employer and place a high value on diversity and
+  inclusion at our company. We do not discriminate on the
+  basis of any protected attribute, including race, religion,
+  color, national origin, gender, sexual orientation, gender
+  identity, gender expression, age, marital or veteran status,
+  pregnancy or disability, or any other basis protected under
+  applicable law. We also make reasonable accommodations for
+  applicants’ and employees’ religious practices and beliefs,
+  as well as mental health or physical disability needs. Visit
+  our FAQs for more information about requesting an
+  accommodation.
+
+  About the TeamJ.P. Morgan’s Commercial & Investment Bank is
+  a global leader across banking, markets, securities services
+  and payments. Corporations, governments and institutions
+  throughout the world entrust us with their business in more
+  than 100 countries. The Commercial & Investment Bank
+  provides strategic advice, raises capital, manages risk and
+  extends liquidity in markets around the world.
+posted_date: 2026-09-18
+url: "https://builtin.com/job/ai-automation-engineer-associate/11250578"
+source: Built In

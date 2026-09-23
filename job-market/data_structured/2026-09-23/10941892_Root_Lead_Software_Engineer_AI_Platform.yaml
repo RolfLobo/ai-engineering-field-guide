@@ -1,0 +1,50 @@
+company:
+  name: Root
+  stage: null
+  focus: Technology-driven direct-to-consumer auto insurance
+position:
+  title: Lead Software Engineer, AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates infrastructure, tooling, and
+      deployment patterns that make AI capabilities reliable and
+      secure for other teams. It does not shape model behaviour —
+      no prompting, RAG design, fine-tuning, or evals are
+      mentioned; the deliverable is platform capacity and
+      reliability. Per the serving/infra rule, this is ai-support.
+  responsibilities:
+  - Lead delivery of shared AI services, tools, deployment patterns, and operational
+    practices
+  - Set quarterly technical priorities balancing current needs with foundational investments
+  - Drive decisions on reliability, security, observability, cost, and developer experience
+  - Coordinate dependencies across product engineering, data, security, and platform
+    teams
+  - Create reusable team patterns for architecture, testing, documentation, and production
+    operations
+  - Coach engineers through complex designs and delivery challenges
+  - Keep stakeholders informed on progress, risks, and decisions
+  use_cases:
+  - Shared AI platform infrastructure supporting insurance products and operations
+  - Reliable, secure, observable AI capabilities adopted across teams
+  - Developer tooling and deployment patterns for AI workloads
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Cloud Infrastructure]
+    ops: [Terraform, DevOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10941892'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:07:50.901980'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,242 @@
+job_id: 11267364
+title: AI/ML Software Engineer
+company: bswift
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 750 Employees
+description: |
+  Want to be a bswifter?
+
+  At bswift we’ve been transforming benefits administration
+  since 1996, making it simpler, smarter, and more human. Our
+  state-of-the-art, cloud-based technology and services
+  empower employees to understand, manage, and love their
+  benefits. From downtown Chicago, and remotely across the
+  country, we serve thousands of companies and millions of
+  people nationwide, reducing administrative burdens and
+  freeing HR teams to focus on creating thriving, people-first
+  workplaces.
+
+   We’re looking for motivated and goal-driven individuals who
+  share our passion for delivering excellence and creating
+  solutions that make a difference. The reward is a fun,
+  flexible and creative environment with ample opportunity for
+  professional and personal growth. If you love the bswift
+  values of pursue excellence, embrace accountability, deliver
+  superior service, and be a great place to work, we want to
+  hear from you!
+
+  About the Role
+
+  We are looking for an AI Engineer II to design, build, and
+  deploy cutting-edge generative AI applications, including
+  agentic workflows and intelligent chat experiences, that
+  transform how employees interact with their benefits.
+
+  This role goes beyond individual contribution—you will own
+  complex AI features end-to-end, influence architecture
+  decisions around LLMs and agent systems, and mentor junior
+  engineers. You will play a key role in bringing secure,
+  scalable, and high-performance AI solutions to production
+  using AWS cloud technologies.
+
+  You will collaborate closely with software engineers,
+  architects, product managers, and cross-functional teams to
+  deliver seamless and impactful user experiences
+
+  Key Responsibilities1. Solution Design & Development
+
+  - Lead the design and development of scalable, secure, and
+    high-performance applications.
+  - Architect robust backend systems and integrate them with
+    frontend applications and third-party services.
+  - Drive technical decisions and participate in design reviews
+    alongside senior engineers and architects.
+  - Build generative AI-powered applications , including:
+    - Agentic workflows (multi-step AI agents using tools)
+    - Intelligent chat interfaces for employee benefits guidance
+
+  2. System Decomposition & Iterative Delivery
+
+  - Break down complex systems into manageable components and
+    deliverables.
+  - Lead prototyping efforts to validate assumptions and reduce
+    risk.
+  - Own technical scoping and execution planning for features.
+
+  3. Product Ownership & Lifecycle Management
+
+  - Take end-to-end ownership from prototype to production and
+    ongoing operations.
+  - Ensure systems are reliable, scalable, maintainable, and
+    performant.
+  - Identify and proactively resolve technical debt.
+
+  4. Observability & Reliability
+
+  - Implement logging, monitoring, and tracing across services.
+  - Define and maintain SLOs/SLAs for critical systems.
+  - Ensure real-time visibility to detect anomalies and ensure
+    system health.
+
+  5. Deployment & Release Management
+
+  - Build and maintain CI/CD pipelines using Infrastructure-as-
+    Code (IaC).
+  - Ensure automated and reliable deployments.
+  - Promote best practices for deployment and release processes.
+
+  6. Code Quality, Testing & Performance
+
+  - Write clean, modular, and well-documented code.
+  - Lead code reviews and establish quality standards.
+  - Implement unit, integration, and end-to-end testing.
+  - Optimize APIs and backend systems for performance and
+    scalability.
+
+  7. Cloud & Security
+
+  - Design and deploy applications on AWS cloud, including: S3,
+    CloudFront, API Gateway, Lambda, DynamoDB, SQS,
+    EventBridge
+  - Ensure secure handling of sensitive data.
+  - Support security reviews, compliance audits, and mitigation
+    efforts.
+
+  8. Generative AI & Agentic Systems
+
+  - Build agentic AI workflows enabling autonomous multi-step
+    task execution.
+  - Develop LLM-powered chat systems with contextual and
+    intelligent interactions.
+  - Implement core AI capabilities:
+    - Prompt engineering
+    - Retrieval-Augmented Generation (RAG)
+    - Tool/function calling
+    - Memory management
+    - Agent orchestration
+  - Evaluate and leverage frameworks like:
+    - LangChain, LlamaIndex, AutoGen, Amazon Bedrock Agents
+  - Partner with product and data teams to drive automation and
+    personalization through AI.
+
+  9. Mentorship & Collaboration
+
+  - Mentor junior engineers and interns, supporting technical
+    and career growth.
+  - Foster a culture of knowledge sharing and engineering
+    excellence.
+  - Participate in hiring and technical interviews.
+
+  QualificationsEducation & Experience
+
+  - Bachelor’s degree in Computer Science, Engineering, or
+    related field
+  - 4–8 years of experience in software development or AI
+    engineering
+
+  Technical Skills
+
+  - Strong experience with AWS services (mandatory):
+    - DynamoDB, Lambda, API Gateway, SQS, EventBridge, S3
+  - Proficiency in:
+    - C# / Java, Node.js, TypeScript
+    - Python (preferred for AI/ML integrations)
+  - Solid understanding of:
+    - OOP principles, design patterns
+    - Microservices & event-driven architectures
+    - RESTful APIs and distributed systems
+  - Experience with:
+    - SQL & NoSQL databases
+    - CI/CD tools (GitHub Actions, Jenkins, AWS CodePipeline)
+    - Development tools (Jira, GitHub, SonarQube)
+
+  AI & Generative AI Expertise
+
+  - Hands-on experience in:
+    - LLM integrations
+    - Prompt engineering
+    - RAG pipelines
+    - Tool/function calling
+  - Experience building:
+    - Agentic workflows or AI-powered chat systems (highly
+      preferred)
+  - Familiarity with Amazon Bedrock or similar AI/ML platforms
+
+  Soft Skills
+
+  - Strong problem-solving and system design capabilities
+  - Excellent communication and collaboration skills
+  - Ability to independently own and deliver complex solutions
+  - Experience working in Agile environments
+
+  Why Join bswift?
+
+  At bswift, we empower our employees to make a meaningful
+  impact, innovate, and grow. Joining our team means stepping
+  into a collaborative and dynamic environment that values
+  creativity, initiative, and a passion for client success. We
+  are dedicated to fostering an inclusive workplace that
+  celebrates diversity and values each team member’s unique
+  contributions.
+
+
+
+  Benefits of Working at bswift:
+
+  Comprehensive Health Benefits: Medical, Accidental and Term
+  Life Insurance coverage to support your wellness and that of
+  your family.
+
+  Competitive Compensation: A compensation package that
+  recognizes your skills, experience, and contributions,
+  including performance-based incentives for most roles.
+
+  Hybrid work-model: With flexible working hours
+
+  Retirement Savings Plans: Options like Provident Fund and
+  Gratuity to help you plan for a secure financial future with
+  employer contribution
+
+  Professional Development: Opportunities for career growth,
+  including training and access to resources to support your
+  career progression.
+
+  Supportive Culture: A work environment that encourages
+  collaboration, open communication, and creative problem-
+  solving, where your voice and ideas are valued.
+
+  Employee Wellbeing Initiatives: Programs focused on mental
+  health, financial planning, and wellness resources to help
+  you thrive inside and outside of work.
+
+  Make an Impact: At bswift, your work directly contributes to
+  transforming how organizations approach benefits
+  administration and client engagement. Join us to be part of
+  an organization that is making a meaningful difference in
+  the lives of our clients and their employees.
+
+  At bswift, our mission is clear: Become the preeminent
+  benefits administrator through exceptional people,
+  innovative technology, and delighted customers. And our
+  values are at the heart of everything we do to accomplish
+  that mission. We Pursue Excellence, Embrace Accountability,
+  Deliver Superior Service, and strive to Be A Great Place To
+  Work. We take pride in having an engaged, collaborative team
+  that goes the extra mile to get the job done right.
+
+   bswift has been regularly named one of Chicago’s Best and
+  Brightest Companies to Work For®, as well as one of the
+  Nation’s Best and Brightest Companies to Work For® year
+  after year. We offer a fun, flexible, and creative
+  environment where you can grow both professionally and
+  personally.
+
+  If you have what it takes to join our award-winning culture,
+  we’d love to hear from you!
+industries:
+  - Healthtech
+  - Software
+posted_date: 2026-09-19
+url: "https://builtin.com/job/ai-ml-software-engineer/11267364"
+source: Built In

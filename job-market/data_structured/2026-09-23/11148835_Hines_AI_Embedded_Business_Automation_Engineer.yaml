@@ -1,0 +1,62 @@
+company:
+  name: Hines
+  stage: null
+  focus: Global real estate investment management
+position:
+  title: AI Embedded Business Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-driven solutions directly:
+      prompt orchestration, RAG pipelines, vector search, agentic
+      workflows, and agents using LangChain/LangGraph/MCP. This is
+      shaping model behavior via prompts, retrieval, and agent
+      design, with an LLM component, so ai-first.
+  responsibilities:
+  - Partner with business stakeholders to map workflows, identify manual handoffs
+    and exception-heavy processes, and prioritize AI automation opportunities
+  - Co-design AI-enabled process improvements and translate business requirements
+    into technical specs and delivery plans
+  - Prototype and iterate on AI-driven automations, assistants, agents, and workflows
+    using Python, LLM APIs, and RAG patterns
+  - Build integrations with enterprise systems such as SharePoint, Teams, Outlook,
+    ERP, Salesforce, and internal APIs
+  - Design trustworthy AI components including prompt orchestration, RAG pipelines,
+    vector search, and secure data handling
+  - Support adoption through SME enablement, training, and feedback loops
+  - Deploy, monitor, and continuously improve production AI and automation solutions
+    with focus on reliability, security, and governance
+  - Define success metrics and measure solution impact such as cycle-time reduction
+    and adoption
+  use_cases:
+  - AI-enabled business process automation across finance, legal, and operations functions
+  - Intelligent agents and assistants for enterprise workflows
+  - RAG-based document ingestion and retrieval for internal knowledge
+  - Automations integrating enterprise systems like SharePoint, Teams, Outlook, ERP,
+    and Salesforce
+  - Reducing manual handoffs, rework, and delays in day-to-day business operations
+  skills:
+    databases: [Vector Search]
+    domains: []
+    data: [Document Ingestion, Data Pipelines]
+    web: [APIs]
+    ml: []
+    ops: [iPaaS Tools]
+    other: [Power Platform, SharePoint, Salesforce, Responsible AI]
+    cloud: [Azure OpenAI, Azure AI Foundry, IAM, Azure]
+    languages: [Python, SQL, TypeScript, JavaScript, Go, Java]
+    genai: [LLMs, RAG, AI Agents, Workflow Orchestration, Prompt Engineering, Prompt
+        Orchestration, MCP, OpenAI API, ChatGPT, Copilot Studio, Semantic Kernel,
+      OpenAI Agent SDK, LangGraph, LangChain, LlamaIndex, Generative AI, Microsoft
+        Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11148835'
+  location: Houston, USA
+  locations:
+  - Houston, USA
+  - New York, USA
+  extracted_at: '2026-09-23T11:21:57.901233'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

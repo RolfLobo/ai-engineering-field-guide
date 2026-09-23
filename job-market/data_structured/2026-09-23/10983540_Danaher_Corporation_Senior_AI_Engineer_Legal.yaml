@@ -1,0 +1,62 @@
+company:
+  name: Danaher Corporation
+  stage: null
+  focus: |-
+    Life sciences, diagnostics, and biotechnology technology
+    company
+position:
+  title: Senior AI Engineer, Legal
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG architectures, agentic
+      workflows, and evaluation pipelines for LLM-based legal
+      applications, directly shaping model behavior and output
+      quality. This is clearly ai-first.
+  responsibilities:
+  - Partner with legal stakeholders to translate legal and compliance workflows into
+    technical AI solutions
+  - Architect and build AI-powered legal applications for contract review, legal research,
+    regulatory analysis, and compliance workflows
+  - Develop and optimize document processing pipelines including ingestion, parsing,
+    chunking, embedding, and indexing of legal content
+  - Ship production-grade AI features using LLM APIs, orchestration frameworks, and
+    CI/CD pipelines
+  - Design automated evaluation pipelines, test sets, and quality metrics for legal
+    AI outputs
+  - Implement governance and security controls including access management, audit
+    logging, PII redaction, and data residency compliance
+  - Mentor legal team members in no-code AI solutions and serve as technical bridge
+    between legal and engineering
+  - Partner with IT, Data & AI teams to deliver scalable AI solutions aligned with
+    enterprise architecture standards
+  use_cases:
+  - AI-powered contract review
+  - Legal research and regulatory analysis
+  - Compliance workflow automation
+  - Intelligent search and analysis over legal documents (contracts, playbooks, regulatory
+    filings)
+  - Automated evaluation of legal AI output quality
+  - PII redaction and governance for privileged legal content
+  skills:
+    genai: [Prompt Engineering, Fine-Tuning, RAG, AI Agents, Function Calling, MCP,
+      Structured Outputs, LangChain, LlamaIndex, LLMs, Generative AI, Claude Code,
+      Cursor, GitHub Copilot, Embeddings]
+    ml: [Hugging Face]
+    web: [APIs]
+    databases: [Vector Databases, Pinecone, Weaviate, Qdrant]
+    data: [Data Pipelines]
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, TypeScript, Java]
+    domains: []
+    other: [OCR, Responsible AI, EU AI Act]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10983540'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:11:17.881128'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

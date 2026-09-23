@@ -1,0 +1,78 @@
+job_id: 11170129
+title: AI Research Engineer
+company: LanceDB
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About LanceDB
+
+  AI advances at the speed of its research, and research moves
+  at the speed of its data. LanceDB is the AI-native
+  Multimodal Lakehouse: one system where a researcher curates
+  petabytes of video, audio, and every signal derived from
+  them with a few lines of Python, and the next training run
+  starts as fast as the next idea. Customers like Runway,
+  Midjourney, and Netflix build the future of AI on LanceDB,
+  from frontier and world models to robots and autonomous
+  vehicles.
+
+  About the Role
+
+  As the AI research engineer at LanceDB, you'll work with the
+  research team to perform fairly open ended research, focused
+  on end to end training flows across different AI domains,
+  showcasing how LanceDB can be used to accelerate research
+  flows.
+
+  This is an opportunity to pursue your research interest as
+  an engineer, and have a meaningful impact on raising
+  awareness and significantly improve the product.
+
+  What You'll Do
+
+  - Show how Lancedb can be used for training models end to end
+    from curation to modeling across industry verticals
+  - Compare the Lancedb stacked workflow with existing standard
+    training flows with well designed and replicable
+    experiments, that may include benchmarking
+  - Provide core content and work cross-function with to
+    increase awareness for workflow specific features like
+    blobv2, distributed indexing etc.
+  - Publish models and research papers on LanceDB blog platform,
+    social media, and in AI conferences
+  - Partner closely with engineering and product to provide
+    feedback from a researcher’s perspective
+
+  What We're Looking For
+
+  - 5+ years of experience in training deep learning models, not
+    limited to LLM, ideally have worked with video, action,
+    world models before
+  - Proven track record of training SOTA models in an industry
+    vertical
+  - Strong experience in building and maintaining popular OSS
+    repos.
+  - Demonstrated ability to map user feedback from noise to key
+    deliverables
+  - Excellent prioritization skills and demonstrate execution
+    efficiency
+  - Strong sense of product GTM, demonstrate ability to balance
+    strategic thinking with hands-on execution
+  - Passion for staying up-to-date with SOTA AI research and
+    trends
+
+  Nice to Have
+
+  - Experience with training transformer based models, and post-
+    training/alignment
+  - Hands on experience with PyTorch, distributed training, and
+    tensor parallelism
+  - 5+ years of experience, including working at startups
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-09-14
+url: "https://www.builtinla.com/job/ai-research-engineer/11170129"
+source: Built In

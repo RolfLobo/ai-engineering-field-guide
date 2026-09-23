@@ -1,0 +1,52 @@
+company:
+  name: AIS (Applied Information Sciences)
+  stage: null
+  focus: IT consulting and software engineering services
+position:
+  title: AI Foundry Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role configures, secures, and operates Azure AI Foundry
+      platform infrastructure (networking, identity, quotas,
+      telemetry, deployment automation). It does not shape model
+      behavior through prompts, retrieval, evals, or training;
+      prompt management and LLM observability are only nice-to-
+      haves, so this is ai-support.
+  responsibilities:
+  - Configure and support Azure AI Foundry projects, model deployments, quotas, access
+    controls, and telemetry
+  - Implement private networking, private endpoints, DNS, managed identities, Key
+    Vault integration, and role-based access
+  - Build monitoring and reporting for usage, token consumption, capacity, cost allocation,
+    safety events, and service health
+  - Support secure integration between AI services, developer tools, and approved
+    enterprise systems
+  - Automate environment configuration and promote repeatable deployment patterns
+  - Create operational runbooks, troubleshooting guides, and knowledge-transfer materials
+  use_cases:
+  - Governed enterprise use of Azure AI Foundry and approved generative AI models
+  - Secure AI platform delivery in Azure Government environments
+  - Cost, capacity, and token-consumption governance for AI services
+  - Reliable developer experience for consuming approved AI models
+  skills:
+    genai: [LLM Observability, AI Safety Controls, Prompt Management, Codex]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, Azure OpenAI, Azure ML, Azure, Azure Government, Entra
+        ID, Azure Key Vault, Azure Cost Management]
+    ops: [Log Analytics, Monitoring, Infrastructure as Code]
+    languages: [PowerShell, Azure CLI, Python]
+    domains: []
+    other: [AVD]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11080501'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:02.643967'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

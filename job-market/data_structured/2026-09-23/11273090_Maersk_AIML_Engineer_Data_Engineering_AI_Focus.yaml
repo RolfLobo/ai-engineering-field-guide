@@ -1,0 +1,56 @@
+company:
+  name: Maersk
+  stage: null
+  focus: Integrated container shipping and logistics
+position:
+  title: AI/ML Engineer (Data Engineering + AI Focus)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and ships LLM/Generative AI systems using
+      LangChain/LlamaIndex and RAG integrated into production
+      workflows, plus end-to-end model training and evaluation —
+      direct shaping of both LLM and classical ML systems, which
+      classifies as ai-first.
+  responsibilities:
+  - Design, build, and maintain data pipelines and data platforms using Python, Spark/PySpark,
+    and cloud services
+  - Develop and deploy end-to-end AI/ML solutions from ingestion through training,
+    evaluation, and production deployment
+  - Integrate LLMs and Generative AI systems into production workflows using frameworks
+    like LangChain and LlamaIndex
+  - Architect and optimize large-scale data processing systems on Azure/AWS for performance
+    and cost efficiency
+  - Implement MLOps and DataOps practices including CI/CD, model versioning, monitoring,
+    and automated retraining
+  - Design batch and streaming data models supporting analytics, reporting, and AI
+    use cases
+  - Ensure data quality, governance, and observability across pipelines and ML systems
+  - Deploy solutions using Docker and Kubernetes; mentor junior engineers and contribute
+    to code reviews
+  use_cases:
+  - Intelligent decision-making across supply chain and logistics operations
+  - Predictive analytics and process automation on supply chain data
+  - LLM-powered document processing and workflow automation via RAG
+  - Scalable data platforms powering analytics and reporting
+  skills:
+    genai: [LLMs, Generative AI, LangChain, LlamaIndex, RAG]
+    ml: [Machine Learning, Model Training, Model Evaluation, Feature Engineering,
+      Deep Learning, Neural Networks]
+    web: []
+    databases: []
+    data: [Spark, PySpark, Hadoop, Databricks, Data Pipelines, Data Engineering, Data
+        Modeling]
+    cloud: [Azure, AWS, AWS S3, Azure Synapse, AWS EMR]
+    ops: [MLOps, CI/CD, MLflow, Model Deployment, Monitoring, Docker, Kubernetes]
+    languages: [Python, SQL, R]
+    domains: [NLP]
+    other: [Data Architecture, Simulation, Optimization, Operations Research]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11273090'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:33:49.681799'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

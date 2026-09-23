@@ -1,0 +1,48 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT staffing and recruitment services
+position:
+  title: Full Stack Developer – AI/GenAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires working with LLMs, RAG, and Agentic AI as
+      core must-have skills, meaning the developer shapes model
+      behavior through retrieval design and agent flows (Step 1
+      yes), with LLM components (Step 2: ai-first).
+  responsibilities:
+  - Build full stack web applications with ReactJS frontends and Python/FastAPI backends
+  - Develop LLM-based features using RAG and Agentic AI techniques
+  - Design and consume REST APIs across the stack
+  - Use GitHub/Git for version control and collaboration
+  - Integrate GenAI capabilities into full stack products
+  use_cases:
+  - LLM-powered application features
+  - Retrieval-augmented generation for information access
+  - Agentic AI workflows in web applications
+  skills:
+    genai: [LLMs, RAG, AI Agents]
+    ml: []
+    web: [React, FastAPI, Full-Stack Development, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234947'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - IND
+  - Hyderabad, IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:30:00.605135'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

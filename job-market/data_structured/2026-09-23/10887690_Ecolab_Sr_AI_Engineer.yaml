@@ -1,0 +1,44 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene and infection prevention solutions
+position:
+  title: Sr AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns architecture and delivery of GenAI systems
+      with LLMs, multi-agent workflows, and embedding-powered
+      retrieval, which is directly shaping model behaviour and
+      retrieval design. LLM/agent components dominate, so it is
+      ai-first.
+  responsibilities:
+  - Own the architecture and delivery of GenAI-based systems
+  - Integrate large language models, multi-agent workflows, and embedding-powered
+    retrieval solutions
+  - Guide cross-functional pods and define engineering standards
+  - Drive innovation through scalable, production-grade intelligent applications
+  - Lead a team of associates with functional and administrative responsibilities
+  use_cases:
+  - Production-grade intelligent applications
+  - LLM-powered systems
+  - Embedding-powered retrieval solutions
+  skills:
+    genai: [Generative AI, LLMs, Multi-Agent Systems, Embeddings, RAG]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10887690'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:04:59.372918'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

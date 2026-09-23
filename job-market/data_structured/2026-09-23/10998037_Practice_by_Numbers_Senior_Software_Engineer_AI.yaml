@@ -1,0 +1,51 @@
+company:
+  name: Practice by Numbers
+  stage: null
+  focus: Dental practice management SaaS with AI automation
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and shapes LLM behavior directly: prompt
+      versioning, tool schemas, evals/regression suites,
+      guardrails, and conversation layer design for a multi-
+      channel conversational AI product. This is clearly ai-first
+      work.
+  responsibilities:
+  - Build and maintain backend services and RESTful APIs in Python (FastAPI/Django)
+  - 'Own the real-time voice conversation layer: turn-taking, barge-in, and recovery'
+  - Debug non-deterministic LLM failures in production (fabrications, dropped context)
+  - Own patient identity resolution over the phone with multi-algorithm phonetic matching
+  - Version prompts and tool schemas with canary releases and rollbacks
+  - Own the eval and regression suite with CI gating on prompt and model changes
+  - Design guardrails for patient-facing interactions including PHI protection and
+    human escalation
+  - Integrate with practice management systems and internal APIs; define and own SLOs
+  use_cases:
+  - AI receptionist handling voice, SMS, and web chat for dental practices
+  - Patient identity resolution over the phone with phonetic matching
+  - Patient appointment and practice-policy conversations under HIPAA constraints
+  - Secure patient verification via OTP auth flows
+  - Consistent multi-channel conversations with shared state and knowledge base
+  skills:
+    genai: [Prompt Engineering, Function Calling, LLMs, Guardrails, LLM Evaluation,
+      Conversational AI, LangChain, LlamaIndex]
+    ml: []
+    web: [FastAPI, Django, REST APIs, Webhooks, WebSockets]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Code Review]
+    languages: [Python, asyncio]
+    domains: []
+    other: [Twilio, Vonage, Deepgram, ElevenLabs, AssemblyAI, HIPAA Compliance, Multi-Tenant
+        Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10998037'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:11:31.317553'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

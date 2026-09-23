@@ -1,0 +1,126 @@
+job_id: 10908666
+title: Sr. AI Developer
+company: Garrett
+location: Madurai, IND
+locations:
+  - Madurai, IND
+  - Bengaluru, IND
+work_type: FULL_TIME
+company_size: 5,001 Employees
+description: |
+  We are looking for a Senior AI Software Engineer to join our
+  AI Center of Excellence (COE) team and play a key role in
+  executing our AI initiatives. If you have a passion for
+  architecting, developing, and deploying sophisticated AI
+  solutions and want to be part of an innovative team pushing
+  the boundaries of technological possibilities, then we are
+  looking for you!
+
+  This position involves architecting, developing, and
+  deploying sophisticated AI-enabled solutions, leveraging
+  advanced software development skills and a deep
+  understanding of artificial intelligence. The Senior
+  Software Engineer will mentor junior developers, providing
+  technical guidance and ensuring best practices are followed.
+  They will drive the integration of cutting-edge AI
+  technologies into complex solutions, addressing strategic
+  business challenges. Their expertise and leadership will
+  significantly contribute to the innovation and technological
+  advancement of the Garrett's AI capabilities.
+
+  Responsibilities:
+
+  - Develop intuitive and responsive user interfaces using
+    React.Collaborate with UX/UI designers to ensure seamless
+    and visually appealing user experiences.Integrate frontend
+    components with backend services and APIs.
+  - Enhance our LLM engine module using either Python or .NET
+    Core.Leverage Azure OpenAI services to enable advanced AI-
+    driven functionalities.
+  - Build and maintain pipelines to synchronize data with Azure
+    AI Search.Implement secure and efficient data handling
+    practices.Utilize Kafka as a message queue for processing
+    events and ensuring system scalability.Optimize message
+    processing for high availability and low latency.
+  - Collaborate with the backend team to build robust
+    APIs.Partner with React frontend developers to ensure
+    seamless integration and user experience.
+  - Mentor junior developers and provide technical guidance to
+    the team.Collaborate with product managers, DevOps, and QA
+    teams to ensure timely delivery of robust solutions.
+
+  Your profile:
+
+  - Bachelor’s Degree in Computer Science, Software Engineering,
+    or a related field: A solid foundational understanding of
+    computer science principles and software engineering
+    practices is essential.
+  - Master’s Degree (preferred): Advanced education in relevant
+    fields is a plus, demonstrating a deeper expertise and
+    commitment to the field.
+  - 5+ years of experience in software development.
+  - Expertise in React and frontend development.
+  - Proficiency in either Python or .NET Core for backend
+    development.
+  - Experience with Kafka or similar message queue systems.
+  - Proven experience in AI development, particularly with Large
+    Language Models (LLMs) and other advanced AI technologies.
+
+  Technical Skills:
+
+  - Expert proficiency in .NET or Python, with a comprehensive
+    understanding of the software development lifecycle.
+  - Expert proficiency in frontend framework, e.g. React or
+    VueJS.
+  - Strong knowledge of AI technologies and frameworks, with
+    extensive hands-on experience in integrating AI into
+    software solutions.
+  - Deep familiarity with machine learning algorithms, data
+    processing techniques, and model deployment strategies.
+  - Experience with version control systems (e.g., Git),
+    continuous integration/continuous deployment (CI/CD)
+    pipelines, and agile development methodologies.
+  - Comprehensive experience in testing methodologies, including
+    unit testing, integration testing, and performance
+    testing.
+  - Proficiency in automated testing tools and frameworks to
+    enhance the quality assurance process.
+  - Extensive experience with cloud platforms, particularly AWS,
+    with expertise in deploying and managing applications in a
+    cloud environment.
+  - Azure OpenAI, Azure AI Search experience is a plus.
+  - Familiarity with Microsoft Teams Bot Framework and Office
+    365/OneDrive APIs is a plus.
+  - Familiarity with containerization technologies such as
+    Docker and orchestration tools like Kubernetes.
+
+  Soft Skills:
+
+  - Excellent problem-solving abilities and analytical thinking,
+    with a proactive approach to addressing complex
+    challenges.
+  - Strong communication skills, both written and verbal, to
+    effectively collaborate with cross-functional teams and
+    stakeholders.
+  - Demonstrated leadership abilities, with experience in
+    mentoring and guiding junior developers.
+
+  About UsWith a legacy of over 70 years, Garrett Motion is a
+  cutting-edge technology leader enabling emission reduction
+  and energy efficiency. We design, manufacture and sell
+  highly engineered turbocharging, air and fluid compression,
+  and high-speed electric motor technologies for customers in
+  the mobility and industrial fields.
+
+  About the TeamThe Garrett Information Technology (IT) team
+  focuses on understanding the business, market challenges and
+  new technologies to deliver competitive and innovative
+  services that make our business more flexible both today and
+  in the future
+industries:
+  - Automotive
+  - Hardware
+  - Other
+posted_date: 2026-08-28
+url: "https://builtin.com/job/sr-ai-developer/10908666"
+source: Built In

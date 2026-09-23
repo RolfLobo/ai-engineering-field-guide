@@ -1,0 +1,63 @@
+company:
+  name: Palona AI
+  stage: null
+  focus: AI perception systems for physical restaurant environments
+position:
+  title: AI Research Engineer, Computer Vision & VLMs
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes, evaluates, and adapts vision-language
+      models (VLMs) — shaping model behavior through training
+      strategies, distillation, and rigorous evaluation of model
+      output quality. VLMs are prompt-driven models that produce
+      text, so per the classification rules this is ai-first.
+  responsibilities:
+  - Develop computer vision and VLM approaches for scene understanding, object detection,
+    tracking, and activity recognition across video
+  - Fine-tune and evaluate vision and vision-language models for visual grounding,
+    temporal reasoning, and structured prediction
+  - Design training and adaptation strategies including supervised fine-tuning, representation
+    learning, distillation, and domain adaptation
+  - Build representative image and video datasets, annotation workflows, and evaluation
+    sets covering difficult edge cases
+  - Create experiments and benchmarks measuring perception quality, temporal consistency,
+    hallucinations, robustness, latency, and cost
+  - Diagnose perception failures from occlusion, lighting, camera placement, and domain
+    shift to improve data and models
+  - Partner with infrastructure and product engineers to deploy efficient inference
+    pipelines with monitoring and rollout controls
+  - Translate advances in computer vision, VLMs, and embodied AI into practical product
+    capabilities
+  use_cases:
+  - Scene understanding of busy restaurant environments
+  - Object detection and tracking across camera views
+  - Activity and event recognition in video
+  - Spatiotemporal reasoning under occlusion, lighting changes, and varied camera
+    views
+  - Multimodal visual-to-insight prediction for real-world product actions
+  skills:
+    genai: [VLMs]
+    ml: [Fine-Tuning, PyTorch, Deep Learning, Representation Learning, Distillation,
+      Model Evaluation, Quantization, Domain Adaptation, Model Training, Multimodal
+        Learning, Visual Grounding, Video Understanding]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Inference Optimization]
+    languages: [Python]
+    domains: [Computer Vision, Embodied AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11147210'
+  location: Toronto, CAN
+  locations:
+  - Toronto, CAN
+  - New York, USA
+  - Los Altos, USA
+  extracted_at: '2026-09-23T11:22:03.245837'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

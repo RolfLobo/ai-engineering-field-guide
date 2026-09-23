@@ -1,0 +1,62 @@
+company:
+  name: Nextiva
+  stage: null
+  focus: Customer experience and team collaboration platform
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and builds production agentic workflows
+      across the SDLC, designs AI evaluation, prompt/context
+      management, and retrieval architectures — directly shaping
+      LLM/agent behavior, not merely consuming APIs. Individual
+      contributor Staff role with technical leadership only, no
+      people management.
+  responsibilities:
+  - Architect, build, deploy, and operate production-grade AI systems and agentic
+    workflows across the SDLC and business processes
+  - Establish a scalable internal AI platform with reusable architecture, patterns,
+    and guardrails
+  - Build integrations between AI models, agents, developer tooling, internal platforms,
+    APIs, and data sources
+  - Design AI evaluation, observability, quality measurement, and failure handling
+    for production systems
+  - Operate within GCP and/or AWS designing cloud-native production architectures
+  - Evaluate emerging AI models, frameworks, and agent architectures for business
+    value
+  - Provide Staff-level technical leadership through architecture reviews, design
+    decisions, and mentorship
+  - Deliver measurable business impact through AI and automation with clear success
+    metrics
+  use_cases:
+  - Agentic AI workflows across the software development lifecycle (design, build,
+    test, review, deploy, operate)
+  - Internal AI platform enabling safe, scalable adoption of AI-powered automation
+    across the company
+  - Intelligent automation of engineering and business processes
+  - 'AI-assisted developer productivity: code generation, testing, code review, incident
+    management'
+  - AI model, agent, and workflow evaluation, observability, and quality measurement
+    in production
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, Agentic Workflows, Prompt Engineering,
+      Context Engineering, RAG, LLM Evaluation, Model APIs]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [GCP, AWS]
+    ops: [Kubernetes, CI/CD, Infrastructure as Code, Observability, DevOps, Model
+        Monitoring, Distributed Systems]
+    languages: [Java, Python, Go]
+    domains: []
+    other: [Event-Driven Architecture, IAM, Code Generation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10733190'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:00:54.319267'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

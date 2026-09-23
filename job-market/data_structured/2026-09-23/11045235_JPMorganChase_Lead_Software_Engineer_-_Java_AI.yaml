@@ -1,0 +1,50 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and payments
+position:
+  title: Lead Software Engineer - Java & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds a cloud-based payments platform and rolls
+      out enterprise-authorized AI-assisted engineering tools; the
+      person does not shape any model's behavior, prompts,
+      retrieval, or evals. AI appears as a developer workflow tool
+      and responsible-use concern, which is ai-support per the
+      edge cases.
+  responsibilities:
+  - Design, develop, and troubleshoot software solutions for a cloud-based payments
+    platform
+  - Build new payment flows end to end, from requirements through coding and production
+    support
+  - Drive team adoption of enterprise-authorized AI-assisted engineering practices
+    to improve code quality and delivery speed
+  - Establish validation standards including secure coding, peer review, and automated
+    testing
+  - Apply SDLC toolchain tools including AI-assisted development and automation capabilities
+  - Lead evaluation sessions with internal teams to assess architectural designs
+  - Lead communities of practice to promote new technologies across software engineering
+  use_cases:
+  - High-performance, low-latency payments processing
+  - Cloud-based payment application development
+  - Diverse global payment flows supporting business expansion
+  skills:
+    genai: [AI-Assisted Development]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud-Native Development]
+    ops: [CI/CD, Automation]
+    languages: [Java]
+    domains: []
+    other: [Agile, Responsible AI, Application Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11045235'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:14:41.352977'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

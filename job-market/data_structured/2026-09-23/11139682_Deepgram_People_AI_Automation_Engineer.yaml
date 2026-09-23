@@ -1,0 +1,53 @@
+company:
+  name: Deepgram
+  stage: Series C
+  focus: |-
+    Voice AI platform for speech-to-text, text-to-speech, and
+    voice agents
+position:
+  title: People AI & Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents and AI-powered
+      workflows for People Operations, including answering
+      questions and completing actions via agents, with human-in-
+      the-loop controls. This is shaping LLM/agent behavior, so
+      ai-first.
+  responsibilities:
+  - Partner with People & Talent team to identify high-impact AI and automation opportunities
+  - Build an AI-first onboarding experience at scale
+  - Turn manual People workflows into automated, AI-powered systems
+  - Build AI agents and workflows that answer questions, gather information, and complete
+    actions
+  - Integrate AI systems with HRIS, Slack, recruiting, performance, and compensation
+    tools
+  - Build internal tools and interfaces for People processes
+  - Establish human-in-the-loop controls, permissions, and safeguards for sensitive
+    workflows
+  - Measure impact of built solutions on time savings and employee experience
+  use_cases:
+  - AI-powered People Operations workflows
+  - Automated employee onboarding experience
+  - AI agents answering employee and manager questions
+  - Automation of HR, recruiting, performance, and compensation processes
+  skills:
+    genai: [AI Agents, Agentic Workflows, Guardrails]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [HRIS]
+    languages: []
+    domains: []
+    other: [Automation, Internal Tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11139682'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:21:48.144368'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

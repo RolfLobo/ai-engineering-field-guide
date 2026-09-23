@@ -1,0 +1,46 @@
+company:
+  name: DXC Technology
+  stage: null
+  focus: IT services and consulting
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires prompt engineering, fine-tuning, agentic
+      frameworks, and multi-agent orchestration, which directly
+      shapes LLM behavior. Generative AI solutions with LLM/agent
+      components dominate the requirements.
+  responsibilities:
+  - Design and implement generative AI solutions across text and image generation
+    use cases
+  - Develop prompts, fine-tune models, and build with GenAI SDKs
+  - Build agentic AI applications with multi-agent orchestration and memory concepts
+  - Architect end-to-end AI solutions on Azure
+  - Design scalable distributed systems and microservices architectures
+  - Develop Python software for AI solutions
+  use_cases:
+  - Text generation
+  - Image generation
+  - Creative content synthesis
+  - Multi-agent AI applications
+  skills:
+    genai: [Generative AI, Prompt Engineering, Fine-Tuning, Agentic Workflows, AutoGen,
+      LangGraph, MCP, Multi-Agent Systems]
+    ml: []
+    web: [Microservices]
+    databases: []
+    data: [Databricks]
+    cloud: [Azure, Azure ML, Azure Cognitive Services, AKS]
+    ops: [Kubernetes, Docker, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11213991'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:27:47.392371'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

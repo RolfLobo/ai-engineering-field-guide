@@ -1,0 +1,51 @@
+company:
+  name: TeamFicient
+  stage: null
+  focus: Remote business process and customer engagement solutions
+position:
+  title: AI Engineer — Conversational, Voice & Call Intelligence (Project Based)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs dynamic non-scripted LLM conversation
+      flows, intent handling, escalation logic, and builds LLM-
+      based call evaluation pipelines — directly shaping model
+      behavior and output quality. This is conversational LLM
+      work, so ai-first.
+  responsibilities:
+  - Design dynamic non-scripted conversation flows for outbound sales calls and a
+    support/sales chatbot, including intent, objection handling, and human escalation
+  - Build knowledge-base structures and content-update processes for the chatbot
+  - Transcribe and evaluate calls (Zoom Phone / AWS), scoring tone, sentiment, professionalism,
+    and compliance against QA criteria
+  - Integrate call/chat outcomes, transcripts, and summaries with GoHighLevel and/or
+    CRM systems
+  - Design architecture for portability across telephony providers (8x8, Vonage, RingCentral,
+    Ooma)
+  - Maintain restricted access and data-protection standards for customer call data
+  use_cases:
+  - Outbound AI sales and follow-up voice calls
+  - Tech/sales support chatbot
+  - Call transcription and QA audit with tone, sentiment, and compliance scoring
+  - CRM integration of call and chat outcomes
+  skills:
+    genai: [LLMs, Conversational AI, OpenAI API, Gemini]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: []
+    domains: []
+    other: [Speech Transcription, Sentiment Analysis, Telephony APIs, Twilio, Vonage,
+      GoHighLevel, Zoom Phone, CRM Integration, VoIP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11244864'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:30:41.135831'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

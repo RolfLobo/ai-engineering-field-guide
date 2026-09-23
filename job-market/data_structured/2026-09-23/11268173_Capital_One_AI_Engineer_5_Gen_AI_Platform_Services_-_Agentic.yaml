@@ -1,0 +1,62 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI/ML-powered customer
+    experiences
+position:
+  title: AI Engineer 5 (Gen AI Platform Services - Agentic Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agents, multi-agent workflows, guardrails,
+      model evaluation, and multi-model orchestration pipelines
+      integrating LLMs - directly shaping LLM behavior, making it
+      ai-first. Foundation model optimization and model training
+      are also shaping activities with LLM/generative targets.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, and deploy AI software components including agents, guardrails,
+    model evaluation, and observability
+  - Apply foundation model optimization techniques to improve performance, scalability,
+    cost, and latency of production AI systems
+  - Design and optimize multi-model orchestration pipelines integrating LLMs, vector
+    search, and domain-specific models
+  - Lead cost-performance governance reviews tracking GPU utilization, throughput,
+    and inference cost efficiency
+  - Lead design councils and review boards for AI engineering standards
+  - Mentor Principal and Manager-level AI engineers
+  use_cases:
+  - AI-powered products that change how associates work and customers interact with
+    Capital One
+  - Multi-agent and agentic workflow systems for banking
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges and answering questions in real time
+  - Enterprise AI platform empowering teams across Capital One to add AI capabilities
+    to products
+  skills:
+    genai: [AI Agents, Agentic Workflows, Guardrails, LLMs, Function Calling]
+    ml: [Model Training, Hugging Face, PyTorch, Foundation Model Training, CUDA, Model
+        Evaluation, Machine Learning, Quantization]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Monitoring, Observability]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268173'
+  location: San Jose, USA
+  locations:
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:33:42.121218'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

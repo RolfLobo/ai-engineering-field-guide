@@ -1,0 +1,60 @@
+company:
+  name: Wells Fargo
+  stage: null
+  focus: Large diversified financial services and banking
+position:
+  title: Lead Software Engineer - Python/Gen AI/RAG
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, agentic multi-agent
+      orchestration, tool-calling via MCP, and prompt
+      engineering—directly shaping LLM behavior, so it is ai-
+      first. Lead software engineer IC role at a large bank, not
+      people management.
+  responsibilities:
+  - Architect and build the Valence (CIBX) agentic platform for business users to
+    configure, deploy, and manage AI agents
+  - Design and develop deep agents with multi-step planning, tool use, memory, and
+    autonomous task execution
+  - Build and optimize RAG pipelines for grounding agent responses in enterprise knowledge
+    bases
+  - Integrate Generative AI / LLM capabilities into scalable backend services via
+    model gateways
+  - Design orchestration layers for routing, planning, task execution, and result
+    aggregation across multiple agents
+  - Implement MCP or similar tool-calling protocols to connect agents with enterprise
+    systems and APIs
+  - Ensure platform scalability, reliability, and observability for production-grade
+    agentic workloads
+  - Mentor junior engineers and contribute to CI/CD, containerization, and deployment
+    strategy
+  use_cases:
+  - Agentic platform enabling business users to build and deploy AI agents without
+    technical expertise
+  - Automation, analytics, insights, and predictive use cases driven by configurable
+    AI agents
+  - RAG-grounded responses from enterprise knowledge bases and documents
+  - Tool-integrated agents connecting to enterprise systems and APIs
+  - Business process automation translating BAU pain points into agent-driven solutions
+  skills:
+    genai: [Generative AI, RAG, Embeddings, AI Agents, Agentic Workflows, LangChain,
+      LangGraph, AutoGen, CrewAI, LLMs, Prompt Engineering, Function Calling, MCP,
+      Guardrails]
+    ml: []
+    web: [FastAPI, Flask, WebSockets, SSE]
+    databases: [Vector Databases, MongoDB, NoSQL]
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Kubernetes, CI/CD, GitHub Actions, Jenkins, Observability]
+    languages: [Python, asyncio]
+    domains: []
+    other: [OpenShift, RBAC, SSO, SonarQube]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11323679'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:38:33.036732'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

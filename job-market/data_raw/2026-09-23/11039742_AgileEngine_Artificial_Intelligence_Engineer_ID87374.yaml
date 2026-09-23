@@ -1,0 +1,104 @@
+job_id: 11039742
+title: Artificial Intelligence Engineer ID87374
+company: AgileEngine
+location: Yelahanka, IND
+work_type: FULL_TIME
+company_size: 289097 Employees
+description: |
+  AgileEngine is an Inc. 5000 company that creates award-
+  winning software for Fortune 500 brands and trailblazing
+  startups across 17+ industries. We rank among the leaders in
+  areas like application development and AI/ML, and our
+  people-first culture has earned us multiple Best Place to
+  Work awards.
+
+  WHY JOIN US
+
+  If you're looking for a place to grow, make an impact, and
+  work with people who care, we'd love to meet you!
+
+  ABOUT THE ROLE
+
+  We are looking for an Agentic AI Engineer to build AI agents
+  that analyze infrastructure discovery logs and automate
+  complex troubleshooting. Using Python and REST APIs, this
+  person integrates Gen AI capabilities such as RAG and vector
+  databases into production systems, correlating failures and
+  recommending fixes. This is a software engineering role, not
+  a research position.
+
+  WHAT YOU WILL DO
+
+  - Design and build AI agents that continuously analyze
+    Discovery logs, execution results, errors, and failed
+    discoveries at scale.
+
+  - Develop agents capable of classifying and correlating
+    failures, performing troubleshooting, identifying probable
+    root causes, and recommending corrective actions.
+
+  - Build capabilities for agents to analyze and recommend or
+    generate corrections to probes and patterns, ensuring
+    appropriate testing and guardrails are in place before
+    production changes.
+
+  - Create and manage the data-processing pipelines and API
+    integrations required to feed telemetry from monitoring
+    platforms into the AI ecosystem.
+
+  MUST HAVES
+
+  - 4+ years of experience in software engineering, with
+    advanced Python development and REST API design
+    capabilities with experience building APIs, data-
+    processing pipelines, integrations, automation, and
+    production-grade engineering solutions.
+
+  - Practical experience integrating Gen AI APIs into software
+    applications (e.g., OpenAI, Anthropic) and a working
+    understanding of developer-level concepts like Retrieval-
+    Augmented Generation (RAG) and Vector databases. (Note: We
+    need software builders, not Machine Learning researchers.)
+
+  - Strong experience with modern software development and SDLC
+    practices and toolchains, including Git/GitHub, Jenkins or
+    equivalent CI/CD platforms, artifact repositories,
+    automated testing, code quality/security scanning, release
+    management, and deployment automation.
+
+  - Upper-intermediate English level.
+
+  NICE TO HAVES
+
+  - Experience with high-volume logs, metrics, errors, and
+    operational datasets to identify patterns and anomalies.
+
+  - General knowledge of Infrastructure Engineering or
+    ServiceNow platform operations.
+
+  PERKS AND BENEFITS
+
+  - Growth without limits: build your skills through mentorship,
+    internal TechTalks, challenging projects, and a dedicated
+    annual learning budget
+
+  - Competitive compensation: get recognition that reflects your
+    skills and impact, with regular performance and
+    compensation reviews
+
+  - Flexibility: work 100% remotely with flexible hours that
+    support focus, autonomy, and a healthy work rhythm
+
+  - Meaningful, modern projects: build impactful products using
+    modern technologies alongside global teams and leading
+    brands
+
+  - Collaborative culture: join a supportive environment with
+    zero micromanagement where ideas are welcomed and
+    contributions are recognized
+
+  - Well-being & support: access local well-being programs and
+    people-focused support tailored to your location
+posted_date: 2026-09-22
+url: "https://builtin.com/job/artificial-intelligence-engineer-id87374/11039742"
+source: Built In

@@ -1,0 +1,53 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: Software Engineer III - AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires familiarity with agentic workflows and
+      frameworks like LangChain, LangGraph, and Auto-GPT, and
+      expertise in LLMs, indicating hands-on shaping of LLM/agent
+      components. Step 1 yes, Step 2 LLM/agent involved -> ai-
+      first.
+  responsibilities:
+  - Deliver AI/ML projects through the ML development life cycle using Agile methodology
+  - Transform business requirements into AI/ML specifications, define milestones,
+    and ensure timely delivery
+  - Execute solutions, design, development, and technical troubleshooting with innovative
+    approaches
+  - Create secure and high-quality production code, maintaining algorithms that run
+    synchronously with systems
+  - Produce architecture and design artifacts for complex applications, ensuring design
+    constraints are met
+  - Develop visualizations and reporting from large, diverse data sets
+  - Identify hidden problems and patterns in data to drive improvements in coding
+    hygiene and system architecture
+  - Contribute to software engineering communities of practice and explore emerging
+    technologies
+  use_cases:
+  - Production AI/ML solutions integrated with enterprise systems
+  - Data visualization and reporting from large data sets
+  - Pattern discovery in data to improve system architecture
+  skills:
+    genai: [Agentic Workflows, LangChain, LangGraph, Auto-GPT, LLMs]
+    ml: [Machine Learning, NLP, Reinforcement Learning, TensorFlow, PyTorch, PyG,
+      Keras, MXNet, scikit-learn, Data Mining, Information Retrieval, Statistics]
+    web: []
+    databases: [Knowledge Graphs]
+    data: [Spark, NumPy, SciPy, Dask, Ray, Polars, Distributed Computation]
+    cloud: [AWS, SageMaker, Amazon EMR]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11022908'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:13:38.370615'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

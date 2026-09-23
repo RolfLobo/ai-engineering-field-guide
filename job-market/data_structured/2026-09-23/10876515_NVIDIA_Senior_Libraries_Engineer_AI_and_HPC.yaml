@@ -1,0 +1,53 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU accelerated computing and AI hardware
+position:
+  title: Senior Libraries Engineer – AI and HPC
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and optimizes GPU/CPU accelerated data
+      processing libraries (DALI, nvImageCodec) — infrastructure
+      serving and performance work, not shaping model behavior via
+      prompts, retrieval, or training. No LLM or agent component
+      is being shaped, so it is ai-support.
+  responsibilities:
+  - Develop scalable accelerated library software for numerical methods
+  - Performance tuning, optimization, and benchmarking of algorithms across architectures
+  - Collaborate with leadership and partners on feature, performance requirements,
+    and technical roadmaps
+  - Provide technical leadership and guidance to library engineers
+  - Identify opportunities to improve user experience and library performance
+  use_cases:
+  - GPU/CPU accelerated data processing libraries
+  - Image and video decoding workflows
+  - AI data loading pipelines
+  - Computer vision and scientific simulation workloads
+  skills:
+    databases: []
+    domains: [Computer Vision]
+    data: []
+    web: []
+    ml: [CUDA]
+    ops: [CI/CD]
+    other: [Jira]
+    cloud: []
+    languages: [C++, C, Python]
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10876515'
+  location: ESP
+  locations:
+  - ESP
+  - HUN
+  - POL
+  - DEU
+  - CHE
+  - Warsaw, POL
+  remote: true
+  extracted_at: '2026-09-23T11:04:32.947156'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

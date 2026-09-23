@@ -1,0 +1,59 @@
+company:
+  name: IDnow
+  stage: null
+  focus: Digital identity verification and fraud prevention SaaS
+position:
+  title: AI Platform Engineer (f/m/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is integration and DevOps engineering (CI/CD,
+      Terraform, middleware, data pipelines). AI components are
+      consumed rather than shaped: the role integrates "approved
+      AI-based services" and model APIs into workflows, and
+      builds/plumbs MCP servers, but does not design prompts,
+      retrieval, or agent behavior as its deliverable.
+  responsibilities:
+  - Design and maintain scalable integrations across enterprise systems, SaaS platforms,
+    and internal applications
+  - Build and enhance GitLab-based CI/CD pipelines for integration and infrastructure
+    automation
+  - Provision and manage AWS cloud infrastructure using Terraform and other Infrastructure
+    as Code tools
+  - Integrate machine learning and approved AI-based services into operational workflows
+    and data pipelines
+  - Develop AI-driven middleware in Node.js and/or Python for decisioning, routing,
+    and workflow logic
+  - Manage, deploy, and troubleshoot Node.js-based MCP servers for programmatic control
+    and message processing
+  - Implement data integration pipelines using APIs, event-driven architectures, and
+    messaging systems
+  - Monitor, tune, and optimise performance and reliability across integration layers
+  use_cases:
+  - Enterprise system and SaaS integration automation
+  - AI-driven workflow automation for business processes
+  - Intelligent data pipelines connecting systems
+  - Infrastructure provisioning and automation on AWS
+  skills:
+    databases: []
+    domains: []
+    data: [Data Pipelines, Event-Driven Architecture]
+    web: [Node.js, APIs, Webhooks]
+    ml: [Machine Learning]
+    ops: [GitLab CI, CI/CD, Terraform, Infrastructure as Code, Docker, Kubernetes,
+      Code Review]
+    other: [Identity and Access Management]
+    cloud: [AWS]
+    languages: [Python, Bash, JavaScript]
+    genai: [Prompt Engineering, LLMs, MCP, Model APIs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11022379'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - München, DEU
+  extracted_at: '2026-09-23T11:13:31.394255'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU hardware, AI, and high-performance computing
+position:
+  title: Senior AI Infrastructure Engineer - EDA Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds telemetry pipelines, observability tooling,
+      catalogs, and operational automation for GPU cloud
+      infrastructure. No responsibilities involve shaping model
+      behavior via prompts, RAG, agents, or training; ML/agent
+      frameworks appear only as nice-to-have. AI is named only as
+      tooling the engineer builds around, not a model they shape.
+  responsibilities:
+  - Build and operate scalable telemetry pipelines for metrics, logs, traces, and
+    events across on-premise, CSP, and NCP clusters
+  - Establish common instrumentation, collection, storage, and access patterns for
+    telemetry
+  - Deliver dashboards, alerting, and analysis capabilities to improve service visibility
+    and troubleshooting
+  - Standardize and automate incident, maintenance, and on-call workflows
+  - Build reporting and AI-assisted tooling to reduce manual toil
+  - Maintain hardware and software catalogs as trusted sources of truth for inventory
+    and ownership
+  - Create data models and integration pipelines connecting clusters, hardware, services,
+    and teams
+  - Provide self-service discovery capabilities for engineers
+  use_cases:
+  - Telemetry and observability for GPU cloud services
+  - Incident management and operational automation
+  - Infrastructure inventory and service cataloging
+  - Self-service discovery of service ownership and dependencies
+  skills:
+    genai: [AI Agents]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [Python, Go, TypeScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10941884'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:07:49.776555'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Barclays
+  stage: null
+  focus: Global bank providing retail and financial services
+position:
+  title: AVP - Data Scientist & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG-based document retrieval,
+      LLM integration via LangChain, and prompt engineering for
+      compliance applications, which is directly shaping LLM
+      behavior — making it ai-first per Step 2, alongside
+      classical ML model development for risk.
+  responsibilities:
+  - Design, develop, and deploy machine learning and analytics solutions for credit
+    risk, financial crime, operational risk, and compliance monitoring
+  - Build and maintain end-to-end ML pipelines from data ingestion and feature engineering
+    through training, validation, and deployment
+  - Develop NLP and generative AI applications including RAG-based document retrieval,
+    regulatory analysis, and compliance report generation
+  - Deliver predictive analytics such as early warning models, anomaly detection,
+    and risk scoring
+  - Prepare model documentation and support Model Risk Management validation, regulatory
+    exams, and AI governance including bias testing and explainability
+  - Collaborate with Data Engineering and Cloud Platform teams on scalable data pipelines
+    and data quality
+  - Present model outputs and technical recommendations to senior stakeholders
+  - Mentor junior data scientists and contribute to hiring and team competency development
+  use_cases:
+  - Credit risk and financial crime analytics (PD/LGD, AML, fraud detection)
+  - Automated regulatory analysis and compliance report generation via RAG and generative
+    AI
+  - Early warning models, anomaly detection, and risk scoring for operational risk
+  - Compliance monitoring with explainability and bias testing for AI governance
+  - Document retrieval for regulatory and compliance use cases
+  skills:
+    genai: [LangChain, RAG, Prompt Engineering, LLMs, Generative AI, Fine-Tuning]
+    ml: [Machine Learning, scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow, Model
+        Training, Anomaly Detection, Feature Engineering, Model Evaluation, SHAP,
+      LIME]
+    web: []
+    databases: [Snowflake, AWS S3]
+    data: [Spark, PySpark, Databricks, Kafka, Airflow, dbt, Data Pipelines, Flink]
+    cloud: [AWS, Azure, SageMaker, Azure ML]
+    ops: [MLOps, MLflow, CI/CD, Model Deployment, Model Monitoring, Git]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Power BI, Tableau, Agile, Responsible AI, Code Review, Graph Analytics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11038894'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:14:55.240862'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

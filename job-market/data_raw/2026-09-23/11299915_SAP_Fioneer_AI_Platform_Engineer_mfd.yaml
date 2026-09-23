@@ -1,0 +1,87 @@
+job_id: 11299915
+title: AI Platform Engineer (m/f/d)
+company: SAP Fioneer
+location: SRB
+locations:
+  - SRB
+  - AUT
+  - DEU
+  - ROU
+remote: true
+work_type: FULL_TIME
+company_size: 991 Employees
+description: |
+  As an AI Platform Engineer, you will join the team driving
+  SAP Fioneer's Generative AI initiative within our Banking
+  division. Working closely with AI Engineers and Software
+  Developers, you will design, build, and operate the cloud
+  platform, infrastructure, and operational capabilities that
+  power enterprise-grade AI solutions. This role offers the
+  opportunity to work with modern cloud-native technologies
+  while contributing to the secure, scalable, and reliable
+  deployment of AI applications into production.
+
+  Key Responsibilities
+
+  - Design, build, and operate the infrastructure and platform
+    capabilities required for enterprise-grade AI solutions.
+  - Develop and maintain containerized applications and
+    deployment environments using Docker and Kubernetes.
+  - Drive production readiness across security, scalability,
+    reliability, observability, and operational excellence.
+  - Design and implement multi-tenant architectures with strong
+    isolation and governance concepts.
+  - Establish monitoring, logging, tracing, alerting, and
+    operational dashboards.
+  - Build and maintain CI/CD pipelines, release processes, and
+    Infrastructure-as-Code.
+  - Define and implement security controls, secrets management,
+    identity integration, and secure deployment practices.
+  - Collaborate with AI Engineers and Software Developers to
+    transition AI solutions from prototype to production.
+  - Contribute directly to application development with a focus
+    on platform capabilities, integrations, operational
+    tooling, and infrastructure-related code.
+  - Support architecture decisions related to cloud
+    infrastructure, security, operations, and maintainability.
+  - Drive platform standardization, automation, and operational
+    best practices across AI solutions.
+
+  Requirements
+
+  - Degree in (Business) Informatics, (Business) Mathematics,
+    Computer Science, Physics, Engineering and interest in the
+    area of financial services.
+  - 2-3 years of experience in Platform Engineering, DevOps, or
+    Cloud Engineering.
+  - Experience operating production-grade cloud-native
+    applications.
+  - Hands-on expertise with Kubernetes, Docker, and container
+    orchestration.
+  - Experience with CI/CD, Infrastructure-as-Code, and
+    automation frameworks.
+  - Knowledge of observability platforms such as Langfuse,
+    OpenTelemetry, Grafana, Prometheus, or Azure Monitor is
+    considered an asset.
+  - Experience with cloud security, identity management, and
+    multi-tenant architectures.
+  - Familiarity with Python and modern software development
+    practices.
+  - Understanding of AI platforms, LLM applications, agent
+    frameworks, or RAG systems is beneficial.
+  - Strong troubleshooting and operational mindset.
+
+  Benefits
+
+  We offer a comprehensive benefits package that includes
+  occupational pension provisions, support for health and
+  wellbeing, various mobility options like bike leasing and
+  transportation allowances, as well as additional perks such
+  as celebration rewards, meal programs, jubilee recognition,
+  and relocation reimbursement.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-22
+url: "https://builtin.com/job/ai-platform-engineer-m-f-d/11299915"
+source: Built In

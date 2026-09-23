@@ -1,0 +1,52 @@
+company:
+  name: FactEntry
+  stage: null
+  focus: Financial data and analytics services
+position:
+  title: AI & ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: fine-tuning LLMs,
+      prompt engineering, RAG pipelines, and evaluating model
+      outputs. It also covers classical ML, but roles spanning
+      both LLM and classical ML are ai-first.
+  responsibilities:
+  - Design and implement supervised and unsupervised ML models (regression, trees,
+    clustering)
+  - Preprocess and analyse structured/tabular datasets and evaluate models with standard
+    metrics
+  - Build predictive models, deploy to production, and monitor performance
+  - Build and fine-tune LLMs for summarisation, Q&A, and document generation
+  - Implement prompt engineering, RAG pipelines, and vector database integrations
+  - Develop APIs to expose GenAI models in real-time apps
+  - Optimise model inference using quantisation and batching
+  - Ensure safe, explainable, and bias-free output aligned with AI ethics
+  use_cases:
+  - Predictive modelling on structured/tabular business data
+  - Document summarisation and question answering
+  - Document generation
+  - Real-time GenAI-powered applications
+  skills:
+    databases: [FAISS, Pinecone, Weaviate]
+    domains: [NLP]
+    data: [NumPy, Pandas]
+    web: [REST APIs, FastAPI, Flask]
+    ml: [Linear Regression, Logistic Regression, Decision Trees, Random Forest, XGBoost,
+      Naive Bayes, K-Means, SVM, PCA, Model Evaluation, Model Deployment, Fine-Tuning,
+      Hugging Face, Transformers, scikit-learn, TensorFlow, PyTorch, Diffusion Models,
+      Whisper, Quantization]
+    ops: [Docker, Kubernetes, LLMOps, MLOps, Model Monitoring, CI/CD]
+    other: []
+    cloud: [AWS, GCP, Azure]
+    languages: [Python]
+    genai: [LLMs, GPT, Llama, PaLM, Prompt Engineering, RAG, Vector Databases, LangChain,
+      LlamaIndex, OpenAI API, Embeddings]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10956761'
+  location: Vellore, IND
+  extracted_at: '2026-09-23T11:09:09.059740'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

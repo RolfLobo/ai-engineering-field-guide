@@ -1,0 +1,53 @@
+company:
+  name: QueueBuster
+  stage: null
+  focus: Android-based mobile POS and business management super app
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and builds LLM-powered autonomous
+      agents, multi-agent orchestration frameworks, and LLM fine-
+      tuning, which is directly shaping model behavior. LLM/agent
+      involvement makes it ai-first.
+  responsibilities:
+  - Design, build, and optimize AI/ML models and systems aligned with product and
+    business objectives
+  - Architect and implement intelligent autonomous agents powered by LLMs
+  - Design multi-agent collaboration frameworks and task orchestration pipelines
+  - Build agent-based systems using frameworks such as LangChain, AutoGPT, and CrewAI
+  - Integrate AI agents with enterprise APIs, databases, and external systems
+  - Optimize performance, reliability, and scalability of deployed AI solutions using
+    MLOps and CI/CD best practices
+  - Promote adoption of Responsible AI frameworks ensuring fairness, transparency,
+    and compliance
+  - Translate technical roadmaps into actionable engineering tasks and collaborate
+    cross-functionally
+  use_cases:
+  - Intelligent autonomous agents for enterprise applications
+  - Multi-agent collaboration and task orchestration for complex workflows
+  - AI-driven features for a mobile POS and business super app
+  - Forecasting and credit scoring models
+  - AI platform and internal ML tooling for product organizations
+  skills:
+    genai: [LangChain, AutoGPT, CrewAI, LLMs, AI Agents, Multi-Agent Systems, Agentic
+        Workflows, Generative AI, Fine-Tuning]
+    ml: [Machine Learning, TensorFlow, PyTorch, Hugging Face, Reinforcement Learning,
+      Deep Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, CI/CD]
+    languages: [Python]
+    domains: [NLP]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10848100'
+  location: Noida, IND
+  extracted_at: '2026-09-23T11:02:17.123866'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

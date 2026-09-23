@@ -1,0 +1,96 @@
+job_id: 11129251
+title: Agentic AI Engineer
+company: Weekday, Inc.
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  This role is for one of Weekday’s clients
+
+  Min Experience: 5+ years Location: Remote (India) JobType:
+  full-time
+
+  We're looking for a Senior Agentic AI/Generative AI Engineer
+  to help architect our next-generation AI-driven products —
+  from prototyping through production deployment. This is a
+  customer-facing role where you'll move fluidly between
+  solution architecture, hands-on engineering, and client
+  conversations.
+
+  Requirements
+
+  Key Responsibilities:
+
+  - Architect and build scalable Generative AI and agentic AI
+    applications, end to end
+  - Design LLM-powered workflows and prompt strategies for
+    reflexive, self-learning, multi-agent systems
+  - Build intelligent AI agents using LangChain and LangGraph
+    for use cases like NL-to-SQL, autonomous task agents, and
+    RAG pipelines
+  - Select, customize, fine-tune, and optimize state-of-the-art
+    LLMs
+  - Design and own full ML/GenAI pipelines — training,
+    deployment, monitoring, lifecycle management
+  - Build APIs, microservices, and integration frameworks to
+    bring AI into enterprise products
+  - Champion responsible AI practices — mitigating
+    hallucinations, bias, and reliability risks
+  - Partner directly with customers, product, and engineering to
+    turn business needs into robust AI architecture
+  - Mentor engineers and help shape our long-term AI platform
+    strategy
+
+  Required Qualifications:
+
+  - 6+ years in traditional ML, including 2+ years hands-on with
+    Generative AI
+  - Strong experience with LLMs (GPT and similar), prompt
+    engineering, and agentic systems
+  - Real-world experience with LangChain/LangGraph or similar
+    agentic frameworks
+  - Strong Python skills — API wrappers, third-party
+    integrations, internal tooling
+  - Solid foundation in Transformers, CNNs, RNNs — hands-on with
+    TensorFlow, PyTorch, Scikit-learn
+  - Experience with NLP, embedding models, and vector databases
+  - Hands-on work with OpenAI, Llama/Llama2, Azure OpenAI, and
+    other open-source models
+  - Experience designing distributed, cloud-native architectures
+    (microservices, REST APIs)
+  - Proficiency with AWS, Azure, or GCP, plus Docker/Kubernetes
+  - MLOps/LLMOps experience — training, deployment, monitoring,
+    lifecycle management
+  - Excellent communication skills — you can translate technical
+    depth for non-technical stakeholders
+  - Bachelor's or Master's in CS, Data Science, Engineering,
+    Math, Statistics, or related field
+  - Comfort with startup pace and strong ownership mentality
+
+  Preferred Qualifications:
+
+  - LLM fine-tuning experience (LoRA, RLHF, PEFT)
+  - Performance optimization (GPU/TPU acceleration,
+    quantization, pruning, distillation)
+  - AI observability/monitoring tool experience
+  - Familiarity with AI governance and compliance (GDPR, SOC 2)
+  - Prior consulting or solution-architecture experience
+    shipping enterprise AI products
+  - Background in financial services, healthcare, or insurance
+
+  Must-have skills
+
+  Agentic AI, Generative AI, Artificial Intelligence
+
+  Good-to-have skills
+
+  Machine Learning, LangChain, LangGraph
+industries:
+  - Artificial Intelligence
+  - HR Tech
+  - Professional Services
+  - Software
+posted_date: 2026-09-11
+url: "https://builtin.com/job/agentic-ai-engineer/11129251"
+source: Built In

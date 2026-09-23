@@ -1,0 +1,51 @@
+company:
+  name: Federato
+  stage: Series D
+  focus: AI-native platform for insurance underwriting
+position:
+  title: Staff Software Engineer, AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements agent workflows,
+      orchestration, tool integration, prompt iteration, and LLM
+      evaluation frameworks—directly shaping LLM/agent behavior,
+      so it is ai-first.
+  responsibilities:
+  - Design and implement agent workflows and orchestration systems for AI-powered
+    product features
+  - Build backend services integrating LLMs with structured insurance data and platform
+    APIs
+  - Develop infrastructure for tooling, context management, and agent execution
+  - Contribute to internal frameworks for prompt iteration, evaluation, and observability
+  - Partner with product and design to translate underwriting workflows into AI-enabled
+    experiences
+  - Define architectural patterns for reliable AI-native features in production
+  - Work across backend systems, data infrastructure, and product integrations to
+    ship user-facing capabilities
+  use_cases:
+  - Agentic AI for the insurance policy lifecycle
+  - AI-powered underwriting workflows
+  - LLM-driven automation in a B2B SaaS underwriting platform
+  - Agent orchestration over structured insurance data
+  skills:
+    genai: [LLMs, Agentic Workflows, Prompt Engineering, Function Calling, LLM Evaluation,
+      Generative AI]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [Observability]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11283891'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:34:41.505388'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

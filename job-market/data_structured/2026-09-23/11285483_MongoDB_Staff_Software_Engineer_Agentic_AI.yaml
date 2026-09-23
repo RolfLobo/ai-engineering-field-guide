@@ -1,0 +1,51 @@
+company:
+  name: MongoDB
+  stage: null
+  focus: |-
+    Globally distributed multi-cloud database platform for AI
+    applications
+position:
+  title: Staff Software Engineer, Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds high-scale distributed systems
+      infrastructure for a platform that lets customers build AI
+      applications; it does not shape model behavior, prompts,
+      retrieval, or agents itself. AI frameworks and tools are
+      mentioned only as a bonus, so per the edge cases this is ai-
+      support.
+  responsibilities:
+  - Provide technical direction and implement core parts of a new platform for building
+    AI applications on MongoDB
+  - Lead high-visibility projects improving performance, scalability, and reliability
+    of distributed systems infrastructure
+  - Work with product management, engineering, and design peers to define the first
+    version and evolution of the service
+  - Design, build, and deliver well-tested core pieces of the platform
+  - Shape architecture, code reviews, development practices, and developer experience
+    as the team grows
+  - Mentor fellow engineers and own projects from conception to delivery
+  use_cases:
+  - Platform enabling customers to build AI applications using MongoDB
+  - Deployment at scale of AI applications
+  - High-scale compute and data distributed systems infrastructure
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Databases]
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Kubernetes]
+    languages: [Python, Go, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11285483'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:35:55.850400'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

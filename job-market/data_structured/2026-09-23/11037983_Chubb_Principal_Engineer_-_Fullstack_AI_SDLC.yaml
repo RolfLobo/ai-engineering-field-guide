@@ -1,0 +1,53 @@
+company:
+  name: Chubb
+  stage: Publicly traded
+  focus: Global commercial and personal insurance
+position:
+  title: Principal Engineer - Fullstack & AI SDLC
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on production work integrating LLMs,
+      building RAG pipelines, and designing agentic systems, which
+      is directly shaping LLM-based model behaviour and output.
+      Hence ai-first.
+  responsibilities:
+  - Embed AI natively into system design including LLM-powered features, intelligent
+    pipelines, semantic layers, and AI-augmented developer tooling
+  - Evaluate and adopt AI/ML tools, frameworks, and services for enterprise use
+  - Define engineering standards across CI/CD, observability, testing, IaC, and AI
+    model lifecycle management
+  - Own technical strategy and architecture for large-scale cloud-native systems on
+    Azure (.NET and/or Java)
+  - Resolve complex design challenges, cross-system dependencies, and high-stakes
+    architectural decisions
+  - Mentor senior engineers and future principals
+  - Partner with senior business and technology stakeholders to translate strategy
+    into architecture
+  - Drive performance, cost efficiency, security, and compliance in Azure deployments
+  use_cases:
+  - LLM-powered features in insurance platforms
+  - Intelligent AI pipelines and semantic layers
+  - AI-augmented developer tooling across the engineering organization
+  - Claims processing simplification and customer satisfaction initiatives
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Semantic Search]
+    ml: []
+    web: [Entity Framework, Microservices]
+    databases: [Azure SQL, Cosmos DB]
+    data: []
+    cloud: [Azure, Azure Functions, Azure DevOps]
+    ops: [Distributed Systems, Docker, Kubernetes, CI/CD, Observability, Infrastructure
+        as Code, GitHub Actions, Terraform, ARM, Bicep]
+    languages: [Java, .NET]
+    domains: []
+    other: [System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11037983'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:13:52.041949'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

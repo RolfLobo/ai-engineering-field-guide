@@ -1,0 +1,45 @@
+company:
+  name: Intel
+  stage: null
+  focus: Semiconductor and silicon technology innovation
+position:
+  title: AI Platform and Agentic Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the title mentioning AI Platform and Agentic
+      Engineer, the description contains no LLM, agent, or ML
+      responsibilities. The work is generic development tools
+      software engineering: building, debugging, and validating
+      software tools for silicon/manufacturing domains, with no
+      evidence of shaping model behavior or output quality.
+  responsibilities:
+  - Design and implement software tools using modern development methodologies and
+    programming languages
+  - Debug, validate, and optimize algorithms and software systems for engineering
+    applications
+  - Collaborate with cross-functional teams to enable integration of Intel silicon
+    and software into products
+  - Apply secure coding practices to ensure robustness of software tools
+  - Explore innovative solutions to enhance design, manufacturing, validation, and
+    testing processes
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, C++, Java]
+    domains: []
+    other: [Version Control Systems, Secure Coding]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11273131'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:34:56.728750'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

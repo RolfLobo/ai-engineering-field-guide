@@ -1,0 +1,51 @@
+company:
+  name: Wayve
+  stage: null
+  focus: Embodied AI and autonomous driving software
+position:
+  title: Senior Software Engineer, Platform - AI Portal
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a cloud platform/DevOps engineer owning
+      infrastructure, IAM, CI/CD, and Kubernetes for an internal
+      portal at an AI company. No model behavior shaping (no
+      prompts, RAG, training, or evals); the deliverable is
+      infrastructure capacity and developer tooling.
+  responsibilities:
+  - Design, build and maintain cloud infrastructure, CI/CD and developer tooling (primarily
+    Azure) using Terraform IaC
+  - Own and evolve RBAC/IAM across cloud and application layers for a multi-tenant
+    portal environment
+  - Build and improve CI/CD pipelines to increase developer velocity, reliability
+    and deployment safety
+  - Support and improve Kubernetes-based deployment workflows and platform services
+  - Build internal tools and observability capabilities for reliable software delivery
+    at scale
+  - Participate in on-call rotation, respond to incidents and contribute to root cause
+    analysis
+  - Apply security and networking knowledge to harden the platform and coach developers
+    on best practices
+  use_cases:
+  - Cloud platform supporting a partner-facing autonomy portal
+  - Multi-tenant data exchange and AI insight surfacing with OEM partners
+  - Developer tooling and deployment workflows for autonomous driving products
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, IAM, AWS, GCP]
+    ops: [Terraform, CI/CD, Kubernetes, Infrastructure as Code, Observability, Monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9516309'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:39:12.950631'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,67 @@
+company:
+  name: Citi
+  stage: null
+  focus: |-
+    Global banking and financial services (enterprise Controls
+    Technology)
+position:
+  title: Senior Agentic AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and shapes LLM/agent behavior directly:
+      prompt and context engineering, RAG architecture, Graph RAG,
+      multi-agent orchestration, MCP/A2A integration, and agent
+      guardrails/evals — all on pre-trained foundation models.
+      This is textbook ai-first work.
+  responsibilities:
+  - Design and implement generative and agentic AI solutions for enterprise Controls
+    Technology with cross-functional teams
+  - Architect advanced context engineering strategies (layering, chaining, compression,
+    memory management) for reliability and token efficiency
+  - Build and optimize RAG systems with hybrid search, multi-vector retrieval, and
+    re-ranking
+  - Design knowledge graphs and Graph RAG architectures for multi-hop reasoning and
+    grounded responses
+  - Architect agentic workflows and multi-agent systems using Google ADK, LangGraph,
+    CrewAI and similar frameworks
+  - Integrate agents with tools and data via MCP and inter-agent collaboration via
+    the Agent2Agent protocol
+  - Deploy GenAI/agentic applications to production with scalability, observability,
+    and compliance/guardrails
+  - Mentor junior engineers and contribute code reviews
+  use_cases:
+  - Enterprise automation and operational efficiency for Citi's Controls Technology
+    platform
+  - Grounded, traceable Q&A over high-value business domains via Graph RAG and knowledge
+    graphs
+  - Multi-agent orchestration for delegated business workflows
+  - Real-time and streaming AI solutions
+  - Compliant agent execution with guardrails, sandboxing, and observability
+  skills:
+    databases: [Knowledge Graphs, Neo4j, ArangoDB, Vector Databases, Hybrid Search,
+      Vector Search]
+    domains: [NLP]
+    data: []
+    web: [APIs]
+    ml: [NER, Topic Modeling]
+    ops: [Docker, Kubernetes, CI/CD, OpenTelemetry, Observability]
+    other: [Responsible AI]
+    cloud: [AWS]
+    languages: [Python]
+    genai: [Generative AI, LLMs, Prompt Engineering, Context Engineering, RAG, Embeddings,
+      Agentic Workflows, Multi-Agent Systems, Google ADK, LangGraph, CrewAI, Microsoft
+        Agent Framework, OpenAI Agents SDK, MCP, Agent2Agent Protocol, Function Calling,
+      Guardrails, OpenAI API, Anthropic API, Gemini, LangChain, LlamaIndex, Tokenization,
+      Graph RAG]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11205280'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Chennai, IND
+  extracted_at: '2026-09-23T11:27:18.251092'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

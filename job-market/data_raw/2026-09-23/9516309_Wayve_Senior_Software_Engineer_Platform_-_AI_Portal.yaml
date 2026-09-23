@@ -1,0 +1,155 @@
+job_id: 9516309
+title: Senior Software Engineer, Platform - AI Portal
+company: Wayve
+location: London, GBR
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  About us
+
+  Founded in 2017, Wayve is the leading developer of Embodied
+  AI technology.  Our advanced AI software and foundation
+  models enable vehicles to perceive, understand, and navigate
+  any complex environment, enhancing the usability and safety
+  of automated driving systems.
+
+  Our vision is to create autonomy that propels the world
+  forward.  Our intelligent, mapless, and hardware-agnostic AI
+  products are designed for automakers, accelerating the
+  transition from assisted to automated driving.   In our
+  fast-paced environment big problems ignite us—we embrace
+  uncertainty, leaning into complex challenges to unlock
+  groundbreaking solutions. We aim high and stay humble in our
+  pursuit of excellence, constantly learning and evolving as
+  we pave the way for a smarter, safer future.
+
+  At Wayve, your contributions matter.  We value diversity,
+  embrace new perspectives, and foster an inclusive work
+  environment; we back each other to deliver impact.
+
+  Make Wayve the experience that defines your career!
+
+   About the Team
+
+  Portal is the platform that connects Wayve to the outside
+  world; handling data exchange with partners, surfacing AI
+  insights, and enabling the commercial deployment of Wayve's
+  autonomy stack to OEM partners globally. The team operates
+  as a startup within a scale-up: with its own infrastructure,
+  its own DevOps, and a high-autonomy operating model
+  independent from Wayve's core engineering org.
+
+  The Role
+
+  We're looking for a Platform Engineer to own and evolve the
+  cloud infrastructure and developer tooling that underpins
+  the entire Portal engineering team.
+
+  This is a broad, hands-on platform engineering role, not a
+  narrow specialisation. You'll work across cloud
+  infrastructure, RBAC/IAM, CI/CD, Kubernetes and developer
+  productivity. You'll be the person application developers
+  come to when they need to move faster, more safely and
+  you'll build the systems and guardrails that make that
+  possible.
+
+  What You'll Do
+
+  - Design, build and maintain cloud infrastructure, CI/CD and
+    developer tooling (primarily Azure) using IaC (Terraform)
+    across development, staging, and production environments.
+  - Own and evolve RBAC/IAM across both cloud/infrastructure and
+    application/product layers for a multi-tenant Portal
+    environment.
+  - Build and improve CI/CD pipelines to increase developer
+    velocity, reliability and deployment safety.
+  - Support and improve Kubernetes-based deployment workflows
+    and platform services.
+  - Build internal tools and observability capabilities that
+    help engineers deliver performant, reliable software at
+    scale.
+  - Participate in a support/on-call rotation; respond to
+    incidents, support engineers, and contribute to root cause
+    analysis.
+  - Apply practical security and networking knowledge to harden
+    the platform and coach application developers on best
+    practices.
+
+  What We're Looking For
+
+  - Strong hands-on cloud infrastructure experience, ideally
+    Azure, with production Terraform/IaC experience.
+  - Strong RBAC/IAM knowledge at cloud/infrastructure level;
+    experience with application/product-level IAM or multi-
+    tenancy is highly valuable.
+  - Experience building and maintaining CI/CD pipelines
+  - Security and networking fundamentals: you are a hands-on
+    builder, not just a reviewer
+  - Experience as part of a support or on-call rotation
+  - A strong communicator who can coach and guide application
+    developers, not just build in isolation
+  - A product mindset: you think about the developer experience
+    and build tools that genuinely improve how the team works
+  - High autonomy and ownership: you take responsibility for
+    outcomes in a fast-moving team
+
+  Nice to Have
+
+  - Experience working with multiple cloud providers or cross-
+    cloud IAM across Azure, AWS and/or GCP
+  - Background in developer experience (DX) or internal tooling
+  - Experience in a startup or high-growth engineering
+    environment
+  - Security certifications are a plus but not required
+
+  This is a full-time role based in our office in London. At
+  Wayve we want the best of all worlds so we operate a hybrid
+  working policy that combines time together in our offices
+  and workshops to fuel innovation, culture, relationships and
+  learning, and time spent working from home.   We operate
+  core working hours so you can determine the schedule that
+  works best for you and your team.
+
+  #LI-KM1
+
+  Wayve is committed to creating an inclusive interview
+  experience. If you require any accommodations or adjustments
+  to participate fully in our interview process, please let us
+  know.
+
+  We understand that everyone has a unique set of skills and
+  experiences and that not everyone will meet all of the
+  requirements listed above. If you’re passionate about self-
+  driving cars and think you have what it takes to make a
+  positive impact on the world, we encourage you to apply. At
+  Wayve we're committed to creating a diverse, fair and
+  respectful culture that is inclusive of everyone based on
+  their unique skills and perspectives, and regardless of sex,
+  race, religion or belief, ethnic or national origin,
+  disability, age, citizenship, marital, domestic or civil
+  partnership status, sexual orientation, gender identity,
+  veteran status, pregnancy or related condition  (including
+  breastfeeding) or any other basis as protected by applicable
+  law.
+
+  For more information visit Careers at Wayve.
+
+  To learn more about what drives us, visit Values at Wayve
+
+  For US candidates only, please visit E-Verify Notice and
+  Participation and Right to Work
+
+  DISCLAIMER: We will not ask about marriage or pregnancy,
+  care responsibilities or disabilities in any of our job
+  adverts or interviews. However, we do look to capture
+  information about care responsibilities, and disabilities
+  among other diversity information as part of an optional DEI
+  Monitoring form to help us identify areas of improvement in
+  our hiring process and ensure that the process is inclusive
+  and non-discriminatory.
+industries:
+  - Artificial Intelligence
+  - Transportation
+posted_date: 2026-09-04
+url: "https://builtin.com/job/platform-engineer/9516309"
+source: Built In

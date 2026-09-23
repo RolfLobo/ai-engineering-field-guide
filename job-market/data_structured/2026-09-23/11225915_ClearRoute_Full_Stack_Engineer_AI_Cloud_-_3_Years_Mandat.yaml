@@ -1,0 +1,52 @@
+company:
+  name: ClearRoute
+  stage: null
+  focus: |-
+    Engineering consultancy: quality engineering, cloud
+    platforms, developer experience
+position:
+  title: Full Stack Engineer – AI & Cloud - 3+ Years Mandatory
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires hands-on experience building
+      LLM integrations, RAG, and agentic workflows as core work,
+      which means the engineer shapes LLM behaviour through
+      retrieval and agent design, not merely consuming an API.
+  responsibilities:
+  - Design, build and maintain reliable, testable, production-quality software
+  - Develop APIs, services and automation supporting engineering and business workflows
+  - Contribute to cloud-native applications and reusable platform capabilities
+  - Build integrations across applications, APIs, developer tooling and external services
+  - Develop and maintain automated delivery through CI/CD
+  - Contribute to AI-enabled solutions including LLM integrations, RAG and agentic
+    workflows
+  - Apply good engineering practices across testing, observability, security and reliability
+  use_cases:
+  - LLM-powered applications for engineering and business workflows
+  - RAG-based retrieval solutions
+  - Agentic AI workflows
+  - Cloud-native platform capabilities
+  - Developer tooling and workflow automation
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, MCP, LangChain, LlamaIndex]
+    ml: []
+    web: [React, Vue, APIs]
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, Vertex AI, AWS, Azure, GCP]
+    ops: [Kubernetes, Terraform, CI/CD, Git]
+    languages: [Python]
+    domains: []
+    other: [GitHub APIs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11225915'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:28:16.410769'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

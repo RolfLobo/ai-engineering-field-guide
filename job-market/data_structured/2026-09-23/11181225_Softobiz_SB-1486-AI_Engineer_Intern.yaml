@@ -1,0 +1,57 @@
+company:
+  name: Softobiz
+  stage: null
+  focus: Software services building agentic AI systems
+position:
+  title: SB-1486-AI Engineer Intern
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The intern designs and implements multi-agent workflows
+      (LangGraph), context engineering, prompt engineering, RAG,
+      and evaluation loops for agent outputs — directly shaping
+      model behaviour of LLM-based agents, so ai-first.
+  responsibilities:
+  - Assist in designing and implementing multi-agent workflows using LangGraph with
+    Pydantic structured output
+  - Model processes as stateful, resumable graphs with branching, looping, retries,
+    checkpointing, and human-in-the-loop checkpoints
+  - 'Contribute to context management: layered context, retrieval/indexing, context
+    selectors, token-budgeted prompts, and summarisation'
+  - Integrate LLM providers (Anthropic, OpenAI/Azure OpenAI) with prompt engineering,
+    tool calling, and structured output
+  - Help wire in retrieval via vector search and embeddings, plus code-intelligence
+    techniques over large codebases
+  - Contribute to model-routing experiments balancing task type, latency, and cost
+  - Build evaluation and error-analysis loops, verification/validation patterns, and
+    deterministic gates for agent outputs
+  - Keep agent decisions and context observable, auditable, and reproducible; collaborate
+    on deployment and inference
+  use_cases:
+  - Multi-agent orchestration for production-grade agentic AI systems
+  - Code intelligence and retrieval over large codebases
+  - Resumable long-running agent workflows with human-in-the-loop checkpoints
+  - Cost- and latency-aware model routing across LLM providers
+  - Reliability and evaluation of agent outputs
+  skills:
+    genai: [LangGraph, Multi-Agent Systems, Agentic Workflows, Human-in-the-Loop,
+      Context Engineering, Prompt Engineering, Function Calling, Structured Outputs,
+      Anthropic API, OpenAI API, Azure OpenAI, Embeddings, MCP, CrewAI, Microsoft
+        Agent Framework, LLM Evaluation]
+    ml: []
+    web: [JSON Schema]
+    databases: [Vector Search, Qdrant]
+    data: []
+    cloud: [Azure AI Search]
+    ops: [Temporal, vLLM]
+    languages: [Python]
+    domains: []
+    other: [Data Structures, Algorithms, Pydantic]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11181225'
+  location: Kochi, IND
+  extracted_at: '2026-09-23T11:24:26.559635'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,132 @@
+job_id: 11106298
+title: Senior AI Compute Engineer
+company: Neysa
+location: Mumbai, IND
+work_type: FULL_TIME
+company_size: 141 Employees
+description: |
+  About the Role
+
+  We are building next-generation AI infrastructure powering
+  LLM training, inference clusters, and HPC workloads. As a
+  Senior AI Compute Engineer, you will design, deploy, and
+  operate GPU clusters based on NVIDIA and AMD GPU
+  infrastructure—managing everything from hardware
+  configuration and Linux optimization to Kubernetes
+  orchestration and customer success. You will work with team
+  end-to-end: from architecture planning and production
+  rollout through optimization and technical support. This is
+  hands-on infrastructure engineering at neo cloud.
+
+  What you will be doing:
+
+  ·       Deploy and manage AI GPU clusters (NVIDIA and AMD)
+  for enterprise and cloud customers—end-to-end ownership from
+  planning to production acceptance
+
+  ·       Manage advanced Linux systems (RHEL, Ubuntu, Rocky)
+  with expertise in kernel tuning, driver optimization, and
+  system performance at scale
+
+  ·       Build and optimize GPU infrastructure: configure
+  CUDA, NVIDIA drivers, GPU Operator, GPUDirect RDMA, NVLink,
+  and NVSwitch
+
+  ·       Deploy and operate Kubernetes clusters with GPU
+  support using Helm, Docker, and Containerd for AI workload
+  orchestration
+
+  ·       Configure and optimize Slurm, MPI, and parallel file
+  systems for distributed AI training and HPC workloads
+
+  ·       Perform root cause analysis on production incidents
+  and proactively reduce cluster issues through validation and
+  monitoring
+
+  What we need to see:Core Compute (8+ years)
+
+  ·       8+ years of hands-on Linux systems administration
+  and data center infrastructure deployment
+
+  ·       3+ years of HPC infrastructure experience with job
+  schedulers (Slurm/PBS) and parallel computing
+
+  ·       Expertise in Linux administration (RHEL, Ubuntu,
+  Rocky)—kernel tuning, driver management, PCIe
+  troubleshooting, performance optimization
+
+  ·       Proficiency with GPU infrastructure (NVIDIA GPUs,
+  CUDA, GPUDirect RDMA, NVLink, DCGM monitoring and
+  troubleshooting)
+
+  ·       Experience with Kubernetes and container
+  orchestration (Helm, Docker, Containerd, GPU Operator, CSI
+  drivers)
+
+  Automation & Infrastructure-as-Code
+
+  ·       3+ years of infrastructure automation using Python,
+  Bash, Ansible, Terraform, or SaltStack
+
+  ·       Ability to develop provisioning workflows, CI/CD
+  pipelines, and version control with Git
+
+  ·       Strong scripting skills to automate deployment,
+  validation, and operational tasks at scale
+
+  Ways to stand out from the rest:
+
+  ·       NVIDIA certifications (AI Infrastructure, AI
+  Operations, Certified Associate/Professional)
+
+  ·       Kubernetes certifications (CKA, CKS) or Red Hat
+  Certified Engineer (RHCE)
+
+  ·       Experience with AI Factory deployments, LLM training
+  clusters, or GPU cloud platforms
+
+  ·       Background with NVIDIA DGX SuperPOD, HGX clusters,
+  or NVIDIA Spectrum-X networking
+
+  ·       Experience with monitoring stacks (Prometheus,
+  Grafana, DCGM, ELK, Loki) and observability in distributed
+  systems
+
+  ·       Hands-on experience with advanced storage systems
+  (Ceph, GPFS, Weka, VAST) or bare-metal provisioning (MAAS,
+  Foreman)
+
+  Minimum Qualifications:
+
+  ·       Bachelor's degree in Computer Science, Electrical
+  Engineering, Electronics, Information Technology, or
+  equivalent professional experience
+
+  ·       8+ years of Linux systems administration and data
+  center deployment
+
+  ·       4+ years of consulting or customer-success
+  engineering roles
+
+  Soft Skills:
+
+  ·       Strong problem-solving and debugging abilities
+  across hardware, kernel, and application layers
+
+  ·       Ownership mindset with accountability for deployment
+  quality and customer success
+
+  ·       Cross-functional collaboration with other teams
+
+  ·       Proactive approach to continuous learning and
+  staying current with AI infrastructure trends
+
+  ·       Strong documentation and presentation skills, able
+  to defend design decisions amongst peers.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-09-10
+url: "https://builtin.com/job/senior-ai-compute-engineer/11106298"
+source: Built In

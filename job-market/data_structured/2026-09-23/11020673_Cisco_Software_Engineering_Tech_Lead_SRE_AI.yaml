@@ -1,0 +1,54 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking and collaboration technology products
+position:
+  title: Software Engineering Tech Lead (SRE + AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production AI agents, MCP tool
+      integrations, RAG architectures, and evaluation pipelines,
+      which is directly shaping LLM behavior and output quality.
+      LLM/agent components are central, so it's ai-first.
+  responsibilities:
+  - Define technical roadmap and architecture for AI-assisted observability, automated
+    incident response, and self-healing cloud infrastructure
+  - Design and build production-grade AI agents, MCP tool integrations, and deterministic
+    evaluation pipelines
+  - Architect telemetry ingestion and correlation pipelines across logs, metrics,
+    traces, change events, and runbooks to improve MTTD/MTTR
+  - Develop anomaly detection and Human-in-the-Loop remediation workflows with safety
+    and quality guardrails
+  - Partner with teams to define SLIs/SLOs, handle error budgets, and lead post-incident
+    reviews
+  - Mentor senior and mid-level engineers and establish engineering best practices
+  - Manage priorities and deadlines and communicate progress across global teams
+  use_cases:
+  - AI-assisted observability and production intelligence for global SaaS infrastructure
+  - Automated incident response and self-healing cloud infrastructure
+  - Automated root cause analysis and operational decision support
+  - Anomaly detection and Human-in-the-Loop auto-remediation
+  - Telemetry correlation across logs, metrics, and traces to reduce MTTD/MTTR
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, MCP, RAG, LLM Evaluation, Guardrails,
+      Responsible AI]
+    ml: [Anomaly Detection]
+    web: [APIs, Microservices]
+    databases: [Redis, PostgreSQL, Elasticsearch, Vector Databases]
+    data: [Kafka]
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, OpenTelemetry, Prometheus, Grafana, Splunk, ThousandEyes,
+      Monitoring, Terraform, Infrastructure as Code, GitOps, CI/CD, Jenkins, GitHub
+        Actions, Model Deployment, MLOps]
+    languages: [Python, Go, Java, C++]
+    domains: []
+    other: [Site Reliability Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11020673'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:13:28.240628'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

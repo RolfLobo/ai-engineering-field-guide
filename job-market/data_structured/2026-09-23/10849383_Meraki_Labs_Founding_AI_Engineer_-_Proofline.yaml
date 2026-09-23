@@ -1,0 +1,47 @@
+company:
+  name: Meraki Labs
+  stage: null
+  focus: AI-first moonshot startup studio, research retrieval product
+position:
+  title: Founding AI Engineer - Proofline
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs retrieval quality end-to-end (chunking,
+      embeddings, hybrid search, reranking, retrieval evaluation
+      harness) — clearly shaping LLM/RAG-driven output quality, so
+      ai-first per Step 2.
+  responsibilities:
+  - 'Own the retrieval pipeline: document ingestion, chunking, embeddings, hybrid
+    search, and reranking'
+  - Build dual-corpus retrieval across published literature and private institutional
+    documents with provenance
+  - Build citation and identifier resolution (DOI/arXiv-class) and large-corpus onboarding
+  - 'Own retrieval evaluation: build the harness, set metrics, and prove improvement
+    release over release'
+  - Drive production engineering including monitoring, reliability, cost, and latency
+  - Frame problems, freeze designs, and review AI-agent-driven implementation
+  use_cases:
+  - Dual-corpus retrieval over published literature and private institutional documents
+  - Citation and identifier resolution (DOI/arXiv-class) with provenance
+  - Large-corpus document onboarding for research institutions
+  - Retrieval quality evaluation for enterprise research teams
+  skills:
+    genai: [RAG, Embeddings, Semantic Search]
+    ml: [Machine Learning, Model Evaluation]
+    web: []
+    databases: [Vector Databases, Graph Databases]
+    data: []
+    cloud: []
+    ops: [Monitoring]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10849383'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:02:05.775266'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

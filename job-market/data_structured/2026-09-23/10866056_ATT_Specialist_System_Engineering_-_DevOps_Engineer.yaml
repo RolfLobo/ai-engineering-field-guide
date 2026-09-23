@@ -1,0 +1,61 @@
+company:
+  name: AT&T
+  stage: null
+  focus: Telecommunications and 5G network services
+position:
+  title: Specialist System Engineering - DevOps Engineer — AI & Pipeline Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG, function calling, and custom
+      MCP servers so LLMs can analyze build failures and drive
+      self-healing pipelines — directly shaping LLM/agent
+      behavior, so it is ai-first rather than ai-support.
+  responsibilities:
+  - Design, build, and maintain Azure DevOps CI/CD pipelines for 5G NF application
+    deployment from lab to production
+  - Develop AI-assisted pipeline automation using LLMs to analyze build failures,
+    deployment issues, and telemetry
+  - Build and maintain MCP servers and AI-callable tool integrations exposing Azure,
+    ADO, Kubernetes, and deployment capabilities
+  - Create self-healing pipeline workflows that detect failure patterns and trigger
+    approved remediation with diagnostics and escalation paths
+  - Develop reusable YAML templates, scripts, and automation libraries standardizing
+    CI/CD delivery
+  - Support Kubernetes-based deployments, troubleshooting failures, container readiness,
+    and service health
+  - Implement observability for CI/CD systems including pipeline metrics, dashboards,
+    alerts, and failure trend analysis
+  - Build AI-assisted root-cause analysis tools and lead technical sessions training
+    client teams on AI-enabled pipeline automation
+  use_cases:
+  - AI-assisted analysis of CI/CD build failures, deployment issues, and pipeline
+    telemetry
+  - Self-healing pipeline workflows with automated remediation and escalation
+  - AI-assisted root-cause diagnosis and failure summarization for engineering teams
+  - AI-callable tool integrations exposing Azure, ADO, and Kubernetes capabilities
+    via MCP servers
+  - Automated 5G NF application deployment promotion from lab to production
+  skills:
+    genai: [LLMs, MCP, Function Calling, RAG, Prompt Engineering, Azure OpenAI, Agentic
+        Workflows, Guardrails, Generative AI, GitHub Copilot, Embeddings]
+    ml: []
+    web: [JSON, REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure, Azure Container Registry, Bicep, ARM Templates, Azure Key Vault,
+      Azure CLI, Azure Operator Service Manager, AKS, Azure AI Search]
+    ops: [Azure DevOps, CI/CD, Linux, Ansible, Infrastructure as Code, Docker, Kubernetes,
+      kubectl, Helm, Prometheus, Grafana, Datadog, Observability, Monitoring, HashiCorp
+        Vault]
+    languages: [Bash, Python, PowerShell]
+    domains: []
+    other: [YAML, Code Review]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10866056'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:03:50.400611'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

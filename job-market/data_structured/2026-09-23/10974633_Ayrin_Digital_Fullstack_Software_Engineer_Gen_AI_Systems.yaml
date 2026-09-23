@@ -1,0 +1,49 @@
+company:
+  name: Ayrin Digital
+  stage: null
+  focus: Digital agency building AI-powered products
+position:
+  title: Fullstack Software Engineer, Gen AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly architects multi-agent systems, designs
+      RAG pipelines, and does prompt engineering, model selection,
+      and evaluation - directly shaping LLM behavior. This is ai-
+      first.
+  responsibilities:
+  - Own features end-to-end from UI through API design to cloud deployment
+  - Design and build multi-agentic systems where autonomous AI agents collaborate
+  - Architect and implement RAG pipelines using vector databases and LLM orchestration
+    frameworks
+  - Take AI-powered features from prototype to production, owning serving, latency,
+    cost, and reliability
+  - Design, deploy, and manage scalable systems on cloud platforms (AWS, GCP, or Azure)
+  - Partner with Product Owners and Subject Matter Experts to translate requirements
+    into shipped solutions
+  use_cases:
+  - Multi-agent AI systems for complex real-world tasks
+  - RAG-based retrieval pipelines for AI products
+  - Production AI features with model serving, latency, and cost optimization
+  - Fullstack AI-powered product features
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, Multi-Agent Systems, AI Agents, RAG, Vector
+        Databases, Prompt Engineering, LLMs]
+    ml: [Model Evaluation]
+    web: [React, Next.js, Node.js, NestJS]
+    databases: [PostgreSQL, Pinecone, Weaviate, pgvector]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10974633'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:09:58.048551'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

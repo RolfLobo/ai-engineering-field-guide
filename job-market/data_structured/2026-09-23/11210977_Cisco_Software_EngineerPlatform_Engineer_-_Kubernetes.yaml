@@ -1,0 +1,55 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and cloud infrastructure solutions
+position:
+  title: Software Engineer/Platform Engineer - Kubernetes + Golang/Python + AI (5+
+    Years)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates Kubernetes infrastructure
+      offering LLMs and GPUs as a service — hosting and scaling
+      models rather than shaping their behavior through prompts,
+      retrieval, or training. Preferred LangChain/RAG knowledge is
+      a nice-to-have, not a core responsibility, so the
+      deliverable is platform capacity and reliability.
+  responsibilities:
+  - Design and develop scalable Kubernetes-based platform components with focus on
+    reliability, multi-tenancy, and workload orchestration
+  - Build platform capabilities to support Kubernetes and GenAI workloads including
+    GPU-based deployments
+  - Develop backend services and platform tooling using Golang and Python
+  - Contribute to AIOps initiatives by collaborating with SREs and software engineers
+    to operationalize AI workflows
+  - Implement observability frameworks (metrics, logs, traces) for platform visibility
+    and debugging
+  - Build automation frameworks and Infrastructure as Code for platform consistency
+  - Participate in on-call rotations, incident response, and troubleshooting
+  - Conduct code reviews, establish best practices, and mentor junior engineers
+  use_cases:
+  - Kubernetes platform offering LLMs and GPUs as a service
+  - GPU-based GenAI workload hosting with multi-tenancy
+  - AIOps to operationalize and optimize AI workflows
+  - Model monitoring and retraining pipelines for ML workflows
+  - Automation of legacy platforms via Infrastructure as Code
+  skills:
+    genai: [LangChain, RAG, LLMs]
+    ml: [TensorFlow, PyTorch]
+    web: [Microservices]
+    databases: [Vector Databases]
+    data: [Airflow]
+    cloud: []
+    ops: [Kubernetes, CI/CD, Docker, Infrastructure as Code, Kubeflow, MLflow, Observability,
+      Model Monitoring, KServe]
+    languages: [Go, Python]
+    domains: []
+    other: [Distributed Systems, AIOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11210977'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:27:33.012131'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

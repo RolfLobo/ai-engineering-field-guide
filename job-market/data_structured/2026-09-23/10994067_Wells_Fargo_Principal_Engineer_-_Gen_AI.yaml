@@ -1,0 +1,49 @@
+company:
+  name: Wells Fargo
+  stage: null
+  focus: Large diversified banking and financial services
+position:
+  title: Principal Engineer - Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds GenAI/LLM applications and shapes model
+      behavior directly through context engineering, prompt
+      design, agent orchestration, and retrieval systems, with an
+      explicit LLM focus. Not management despite the senior title;
+      it's an IC advisory engineering role.
+  responsibilities:
+  - Lead end-to-end ownership of GenAI platform components and solutions
+  - Advise leadership on complex technical and business solutions across the enterprise
+  - Design agent orchestration and autonomous systems, including context engineering,
+    prompt optimization, and memory architectures
+  - Drive innovation and adoption of agentic AI across business lines
+  - Integrate AI development tools such as GitHub Copilot, Claude Code, and autonomous
+    coding agents
+  - Influence strategic direction of enterprise AI initiatives
+  - Collaborate with global teams across time zones
+  use_cases:
+  - Enterprise GenAI platform for banking and financial services
+  - Agentic AI automation across business lines
+  - Productivity gains and customer experience improvements
+  - Autonomous coding agents for developer workflows
+  skills:
+    genai: [Generative AI, LLMs, Agentic Workflows, Context Engineering, Prompt Engineering,
+      Vector Databases, RAG, Google ADK, Multi-Agent Systems, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: [Distributed Systems, GitHub Copilot, Claude Code, Devin]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10994067'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:11:40.485492'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

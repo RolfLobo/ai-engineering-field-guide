@@ -1,0 +1,56 @@
+company:
+  name: AZX
+  stage: null
+  focus: |-
+    Physics-informed ML and enterprise AI for climate and
+    sustainability
+position:
+  title: Senior Backend Engineer  (AI Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behaviour directly: guardrail
+      composition, retrieval/RAG design (chunking, hybrid search,
+      reranking), eval harness for retrieval quality, and MCP
+      surface. LLM gateway routing and metering plus designing
+      authorization across the surface goes well beyond consuming
+      an API.
+  responsibilities:
+  - 'Own the LLM gateway: routing, metering, budgets, guardrail composition, and provider/backend
+    adapters'
+  - 'Manage the retrieval and knowledge service: connectors, chunking, hybrid search,
+    reranking, and MCP surface'
+  - Build the eval harness for retrieval tuning with confidence intervals and per-segment
+    breakdowns
+  - Own the async framework's public API, rate-limit algorithms, and admin tooling
+  - 'Design authorization: token hierarchies, capability grammars, and per-tenant
+    isolation'
+  - Own evals, traces, cost accounting, and monitoring dashboards for everything shipped
+  use_cases:
+  - Governed LLM gateway routing across hosted and self-hosted models
+  - Enterprise retrieval with grounded answers and audit-ready RAG
+  - Cost accounting and model usage metering per tenant
+  - Agent durable execution and async job runs
+  - Per-tenant isolation and authorization for AI platform
+  - AI solutions for clean energy, decarbonization, climate risk, and utilities
+  skills:
+    genai: [Guardrails, RAG, MCP, OpenAI API, Anthropic API, LLM Evaluation, Semantic
+        Search]
+    ml: [Hybrid Search, Reranking, Machine Learning]
+    web: [FastAPI, Pydantic, Starlette]
+    databases: [PostgreSQL, pgvector, Redis, Dragonfly, SQLAlchemy]
+    data: [Prefect]
+    cloud: []
+    ops: [Observability, OpenTelemetry, SSE]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10853784'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:13.207616'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

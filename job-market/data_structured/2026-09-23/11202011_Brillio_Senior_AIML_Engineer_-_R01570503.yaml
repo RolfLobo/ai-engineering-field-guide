@@ -1,0 +1,52 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and engineering services
+position:
+  title: Senior AI/ML Engineer - R01570503
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role centers on training and deploying classical ML/DL
+      models, forecasting, and statistical modeling with no LLM
+      shaping responsibilities; GenAI/Agentic AI is only listed as
+      "experience with" and no LLM work is described. Model
+      quality and training work means shaping, but purely
+      classical ML -> ml-first.
+  responsibilities:
+  - Design and develop machine learning models using classic algorithms and deep learning
+    to solve business problems
+  - Conduct exploratory data analysis and statistical analysis to extract insights
+    from large datasets
+  - Deploy AI/ML models on GCP with scalability and production reliability
+  - Orchestrate, deploy, and monitor models using KubeFlow and BentoML
+  - Perform forecasting with exponential smoothing, ARIMA, and ARIMAX
+  - Apply probabilistic graph models to improve predictive accuracy
+  - Maintain data quality and model performance with Great Expectations and Evidently
+    AI
+  use_cases:
+  - Predictive modeling for complex business challenges
+  - Statistical forecasting for business planning
+  - Classification and regression on large datasets
+  - Data quality and model performance monitoring
+  skills:
+    genai: []
+    ml: [Machine Learning, Deep Learning, TensorFlow, PyTorch, scikit-learn, Keras,
+      Model Deployment, Forecasting, ARIMA, Probabilistic Graph Models, Model Evaluation,
+      Regression, Classification]
+    web: []
+    databases: []
+    data: [Exploratory Data Analysis, PySpark]
+    cloud: [GCP]
+    ops: [Kubeflow, BentoML, Evidently AI]
+    languages: [Python, SQL, R]
+    domains: []
+    other: [Great Expectations, SAS, SPSS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11202011'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:26:02.103490'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

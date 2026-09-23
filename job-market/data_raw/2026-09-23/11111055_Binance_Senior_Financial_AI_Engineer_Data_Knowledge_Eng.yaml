@@ -1,0 +1,167 @@
+job_id: 11111055
+title: "Senior Financial AI Engineer (Data & Knowledge Engineering)"
+company: Binance
+location: TJK
+locations:
+  - TJK
+  - MYS
+  - MDV
+  - JPN
+  - LAO
+  - IND
+  - TUR
+  - TWN
+  - KHM
+  - PAK
+  - PHL
+  - MNG
+  - THA
+  - HKG
+  - BGD
+  - KOR
+  - USA
+  - Singapore, SGP
+  - Taipei City, TWN
+remote: true
+work_type: FULL_TIME
+company_size: 7,696 Employees
+description: |
+  Binance is a leading global blockchain ecosystem behind the
+  world’s largest cryptocurrency exchange by trading volume
+  and registered users. We are trusted by 300+ million people
+  in 100+ countries for our industry-leading security, user
+  fund transparency, trading engine speed, deep liquidity, and
+  an unmatched portfolio of digital-asset products. Binance
+  offerings range from trading and finance to education,
+  research, payments, institutional services, Web3 features,
+  and more. We leverage the power of digital assets and
+  blockchain to build an inclusive financial ecosystem to
+  advance the freedom of money and improve financial access
+  for people around the world.
+
+  Role Overview
+
+  You will be responsible for production-grade AI data
+  processing and knowledge services for Binance’s equities
+  business. You will transform financial
+  information—announcements, news, earnings reports, earnings
+  call transcripts and audio/video, research reports, and
+  more—into data, knowledge, and evidence that trading
+  products and Binance AI can directly consume. Knowledge
+  engineering, knowledge bases, and retrieval-augmented
+  generation (RAG) are the core scenarios. You will also build
+  reusable processing frameworks and own model and rule
+  integration, task orchestration, servitization, quality
+  control, cost management, and production stability—not just
+  document parsing, vectorization, or model API calls.
+
+  Responsibilities:
+
+  - Own production-grade AI data processing pipelines for
+    financial content (announcements, news, financial reports,
+    earnings call materials, research reports, etc.), covering
+    text, table, layout, and audio/video processing, as well
+    as chunking, deduplication, clustering, standardization,
+    versioning, and result validation.
+  - Build layered financial knowledge bases that manage source
+    documents, structured facts, entities and events, full-
+    text and vector indices, and relationship data; maintain
+    metadata including source, time, security, market,
+    language, version, and authorization.
+  - Engineer and operate RAG services in production—building
+    query processing, permission and time filtering, multi-
+    route retrieval, reranking integration, context assembly,
+    evidence citation, and result return pipelines that ensure
+    traceability to original sources.
+  - Design extensible AI data processing, knowledge engineering,
+    and indexing frameworks with unified interfaces to adapt
+    to new sources, formats, languages, models, rules, and
+    algorithms; support incremental updates, index rebuilds,
+    historical backfill, deletion, and authorization expiry.
+  - Integrate LLMs, document understanding models, NLP models,
+    rule systems, and algorithm components into a unified
+    pipeline with clear input/output contracts, task
+    orchestration, version governance, and failure handling.
+  - Own engineering capabilities for AI data processing and
+    knowledge services: APIs, async tasks, queues, caching,
+    retry and graceful degradation, human review, canary
+    releases, rollbacks, fault recovery, and capacity
+    governance.
+  - Establish a quality system for AI data processing,
+    knowledge, and RAG—measuring parsing accuracy, retrieval
+    coverage, citation completeness, staleness, latency,
+    stability, and cost, with tiered root-cause analysis.
+  - Collaborate with data, algorithm, product, and compliance
+    teams to deploy AI data processing and knowledge services
+    reliably in user-facing equities products and Binance AI.
+
+  Requirements:
+
+  - Master’s degree or above in Computer Science, Software
+    Engineering, AI, or a related field; 5+ years of
+    experience in backend, data platforms, ML engineering, or
+    AI application engineering.
+  - Familiarity with equity markets and the investor research
+    and decision-making workflow; understanding of trading
+    mechanics, market data, fundamentals, corporate actions,
+    and major market events; ability to assess the entities,
+    time sensitivity, sources, and usage boundaries of
+    financial information.
+  - Proficient in Python and at least one of Java or another
+    backend language; solid software engineering, distributed
+    systems, and service interface design skills.
+  - Production experience with LLMs, NLP, or ML systems; ability
+    to explain model invocation, task orchestration, failure
+    recovery, version governance, and online issue resolution.
+  - Production experience with knowledge engineering or RAG
+    systems; familiarity with structured, semi-structured, and
+    unstructured content processing; ability to explain the
+    full pipeline from source ingestion through retrieval,
+    citation, and online feedback.
+  - Familiarity with full-text search, vector search, document
+    storage, and their combinations; understanding of
+    chunking, indexing, filtering, recall, reranking, context
+    assembly, citation, and permission control—not tied to any
+    specific database or framework.
+  - Experience with performance, stability, cost, and
+    observability governance for high-concurrency or large-
+    scale processing systems—beyond model API calls or demo
+    prototypes.
+  - Experience adapting new data sources or content types;
+    ability to distill source-specific logic into reusable
+    processing capabilities.
+
+  Why Binance
+
+  • Shape the future with the world’s leading blockchain
+  ecosystem
+
+  • Collaborate with world-class talent in a user-centric
+  global organization with a flat structure
+
+  • Tackle unique, fast-paced projects with autonomy in an
+  innovative environment
+
+  • Thrive in a results-driven workplace with opportunities
+  for career growth and continuous learning
+
+  • Competitive salary and company benefits
+
+  • Work-from-home arrangement (the arrangement may vary
+  depending on the work nature of the business team)
+
+  Binance is committed to being an equal opportunity employer.
+  We believe that having a diverse workforce is fundamental to
+  our success.
+
+  By submitting a job application, you confirm that you have
+  read and agree to our Candidate Privacy Notice.
+industries:
+  - Blockchain
+  - Fintech
+  - Software
+  - Cryptocurrency
+  - Metaverse
+posted_date: 2026-09-10
+url: "https://builtin.com/job/senior-financial-ai-engineer-data-knowledge-engineering/11111055"
+source: Built In

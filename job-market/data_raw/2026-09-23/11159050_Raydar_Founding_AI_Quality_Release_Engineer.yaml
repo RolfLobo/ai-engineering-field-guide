@@ -1,0 +1,84 @@
+job_id: 11159050
+title: "Founding AI Quality & Release Engineer"
+company: Raydar
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Our client is a seed-stage enterprise AI company building
+  autonomous data agents that execute complex engineering
+  workflows inside customer-controlled cloud environments.
+  Founded by early employees of a leading cloud data platform,
+  the approximately 20-person team helps data organizations
+  compress work that once took months into hours.
+
+  This is the company's first dedicated quality-infrastructure
+  hire. It is a software engineering role, not a traditional
+  manual QA position. You will write code most days and own
+  the verification and release system that carries every build
+  from merge to customer. Roughly 70% of the role is AI-
+  powered verification through agent-run test harnesses, LLM
+  graders, regression coverage, flake management, and
+  automated release gates. Roughly 30% is release and
+  environment engineering across CI health, artifact
+  publication, deployment pipelines, and reliable demo and
+  staging environments.
+
+  You will eliminate silent skips, build fresh-install and
+  upgrade verification, turn escaped bugs into permanent
+  regression tests, expand natural-language UAT executed by
+  coding agents, own release candidates and artifact
+  publication, automate credentials and certificates, and make
+  release readiness visible through trusted system evidence.
+
+  Requirements
+
+  • 7 to 15 years in quality engineering, release engineering,
+  platform engineering, developer productivity, SDET-adjacent
+  engineering, or a similar software role.
+
+  • Production-quality Python and strong software engineering
+  fundamentals.
+
+  • Deep fluency with GitHub Actions or an equivalent CI
+  system.
+
+  • Genuine interest and practical judgment in LLM-driven and
+  agent-driven verification.
+
+  • Experience with Docker, Kubernetes, Helm, AWS, cloud
+  deployment mechanics, secrets, credentials, and
+  certificates.
+
+  • High ownership and clear technical communication through
+  runbooks, dashboards, retrospectives, and operating
+  policies.
+
+  • Full work authorization in either the United States or
+  Canada. Visa sponsorship and transfer support are not
+  available.
+
+  Nice to have: TypeScript, Snowflake Native Apps, Playwright,
+  LLM-as-judge or grader design, nondeterministic system
+  testing, and early-stage startup quality infrastructure.
+
+  Benefits
+
+  • $170,000 to $200,000 base salary, based on qualifications
+  and experience.
+
+  • Competitive equity and benefits.
+
+  • Remote-first across the United States and Canada.
+
+  • Periodic team offsites and flexible hybrid access to the
+  New York City office for local team members.
+
+  • High ownership over a founding technical function at a
+  $5M-funded enterprise AI company.
+industries:
+  - Professional Services
+  - Consulting
+posted_date: 2026-09-14
+url: "https://www.builtinla.com/job/founding-ai-quality-release-engineer/11159050"
+source: Built In

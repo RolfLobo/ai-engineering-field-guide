@@ -1,0 +1,52 @@
+company:
+  name: Incredible Health
+  stage: null
+  focus: AI-powered healthcare career marketplace for nurses
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior end to end: prompt engineering,
+      tool calling, structured outputs, agent/voice workflows, and
+      eval suites (LLM-as-judge, golden datasets) for products
+      like the Lyn AI interview agent. It also involves
+      ranking/search models, but LLM work is central, making it
+      ai-first.
+  responsibilities:
+  - 'Lead LLM-powered products end to end: prototype, validate with evals, deploy,
+    monitor, and iterate'
+  - Own matching, search, and ranking including model design, offline validation,
+    shadow-scoring, and A/B experiments
+  - Ship production code across Python ML services, Rails, and React, diagnosing hallucinations,
+    retrieval misses, and ranking regressions
+  - Run production-oriented data analysis to inform what gets built
+  - Raise engineering quality through rigorous code review with ML, AI, and product
+    engineers
+  use_cases:
+  - AI interview agent (Lyn) for nurse hiring
+  - Nurse-hospital matching and ranking in a career marketplace
+  - Search relevance over nurse and job listings
+  - Voice agents in production
+  - Embedding-based retrieval at scale
+  skills:
+    databases: [Elasticsearch, Snowflake, pgvector]
+    domains: []
+    data: [Celery, dbt]
+    web: [FastAPI, Ruby on Rails, React]
+    ml: [Machine Learning, Model Evaluation, Model Training, Recommendation Systems]
+    ops: []
+    other: [A/B Testing, Code Review, ElevenLabs, Hex]
+    cloud: []
+    languages: [Python, SQL]
+    genai: [Prompt Engineering, Function Calling, Structured Outputs, AI Agents, LLM
+        Evaluation, Anthropic API, Embeddings, Claude Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10940573'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:07:24.965107'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

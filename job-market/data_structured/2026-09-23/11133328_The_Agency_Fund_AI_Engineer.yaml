@@ -1,0 +1,52 @@
+company:
+  name: The Agency Fund
+  stage: null
+  focus: Nonprofit innovation lab for human agency
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a software/data engineer advising NGOs and
+      building tools and data pipelines; LLMs and generative AI
+      appear only as an interest area and a domain the person
+      advises partners on, with no evidence the person shapes
+      prompts, retrieval, or model behaviour themselves. Core
+      responsibilities are web development, data integration, and
+      experimentation.
+  responsibilities:
+  - Build reference codebases for the social sector to learn from and adapt
+  - Provide advice and support to NGOs building generative AI products
+  - Streamline data across sources into a single source of truth for analytics
+  - Create internal tools to run experiments across digital services (content, schedule,
+    nudges)
+  - Organize workshops and seminars on research mindsets and personalizing interventions
+  - Conduct NGO site visits and draft technical recommendations
+  - Mentor NGO staff on industry best practices, culture, and tooling
+  - Ship solutions fast through rapid development and deployment cycles, open-sourcing
+    non-trivial innovations
+  use_cases:
+  - Advising NGOs on building generative AI products
+  - Data integration to create a single source of truth for NGO analytics
+  - Experimentation tools for digital services content, scheduling, and nudges
+  - Behavioral interventions and scalable social-sector tools
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: []
+    web: [React]
+    databases: [PostgreSQL, MySQL]
+    data: [Data Engineering]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [TypeScript, Python, R, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11133328'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:21:23.222282'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

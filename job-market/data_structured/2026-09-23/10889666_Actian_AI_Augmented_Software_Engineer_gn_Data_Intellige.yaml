@@ -1,0 +1,75 @@
+company:
+  name: Actian
+  stage: null
+  focus: Enterprise data governance and intelligence platform
+position:
+  title: AI Augmented Software Engineer [gn] Data Intelligence Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a general software engineer on a data platform
+      who uses AI coding assistants as a development tool. The
+      engineer does not shape any model's behaviour — no prompts,
+      RAG, fine-tuning, or evals as a deliverable. AI is
+      explicitly a workflow multiplier, which per the rules is ai-
+      support.
+  responsibilities:
+  - Pick up features end-to-end within a feature team on the Actian Data Intelligence
+    Platform
+  - Make architectural decisions and write production-grade code
+  - Ship features autonomously without waiting for direction
+  - Use AI coding assistants as a core part of the development workflow to accelerate
+    delivery and reduce boilerplate
+  use_cases:
+  - Data discovery, governance, and trust at enterprise scale
+  - Connecting metadata, data lineage, data quality, and business context into a knowledge
+    graph
+  - Turning raw enterprise data into reliable decisions
+  skills:
+    genai: [AI Coding Assistants]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10889666'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-09-23T11:05:16.349395'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

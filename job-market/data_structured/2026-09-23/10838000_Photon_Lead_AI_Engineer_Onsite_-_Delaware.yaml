@@ -1,0 +1,52 @@
+company:
+  name: Photon
+  stage: null
+  focus: |-
+    Digital consultancy delivering AI solutions in financial
+    services
+position:
+  title: Lead AI Engineer | Onsite - Delaware
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: prompt engineering,
+      RAG architecture, agent/multi-agent and MCP integration
+      patterns, guardrails, and evaluation frameworks. All shaping
+      involves LLMs, so it is ai-first.
+  responsibilities:
+  - Own delivery of LLM API integration and SDK patterns across applications
+  - Set guidance on LLM selection and drive multi-LLM scenario delivery
+  - Define standards for prompt engineering and context window management
+  - Own RAG delivery including vector database topology and knowledgebase design
+  - Drive AI agent, multi-agent, and tool-use/MCP integration patterns
+  - Own guardrails delivery covering safety, compliance, and PII handling
+  - Define evaluation frameworks and AI testing standards in CI/CD
+  - Manage day-to-day delivery of the offshore development team
+  use_cases:
+  - Multi-LLM selection and integration across enterprise applications
+  - RAG-based knowledge retrieval for financial services
+  - AI agents and tool-use workflows
+  - Compliance guardrails including PII protection in AI outputs
+  - LLM evaluation and AI testing in CI pipelines
+  - Latency, observability, and cost management for LLM-backed systems
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, AI Agents, Multi-Agent Systems, MCP, Guardrails,
+      LLM Evaluation, LangChain, LlamaIndex, Semantic Kernel, Function Calling]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS Bedrock]
+    ops: [CI/CD, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10838000'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:01:30.122659'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

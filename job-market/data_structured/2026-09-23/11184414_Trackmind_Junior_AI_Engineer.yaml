@@ -1,0 +1,36 @@
+company:
+  name: Trackmind
+  stage: null
+  focus: Unknown - company business not described
+position:
+  title: Junior AI Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The description lists no responsibilities and only states
+      general exposure to AI/ML, data handling, and web
+      technologies, with Generative AI/LLMs as an added advantage.
+      It is too vague to determine whether the person shapes model
+      behaviour, so the classification defaults to unknown.
+  responsibilities:
+  - Build practical, real-world AI applications
+  use_cases: []
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11184414'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:24:25.060336'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

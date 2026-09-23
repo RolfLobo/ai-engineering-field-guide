@@ -1,0 +1,46 @@
+company:
+  name: Kubera Health
+  stage: null
+  focus: HealthTech startup surfacing insights from healthcare data
+position:
+  title: 'Founding Engineer: AI Native HealthTech Startup'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack software engineering role; AI is
+      mentioned only as coding tools (Claude Code, Cursor) the
+      engineer uses and as familiarity items, not as shaping model
+      behaviour. No prompt design, retrieval, or model training
+      responsibilities.
+  responsibilities:
+  - Develop, test, and release new features shipping production code from day one
+  - 'Work across the full stack: backend, frontend, infrastructure, architecture,
+    analytics, and integrations'
+  - Design data structures and analytics models, parsing complex healthcare datasets
+    to surface actionable insights
+  - Participate in code reviews, architecture discussions, and technical decision-making
+  - Own problems end-to-end including working directly with customers and shaping
+    product roadmaps
+  - Use AI coding tools such as Claude Code and Cursor in daily development
+  use_cases:
+  - Turning unstructured complex healthcare datasets into business insights
+  - Healthcare data analytics for actionable insights
+  skills:
+    genai: [Claude Code, Cursor, LLMs]
+    ml: []
+    web: [React, Node.js]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Infrastructure as Code]
+    languages: [TypeScript]
+    domains: []
+    other: [Analytics Modeling]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11205253'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:27:08.555042'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

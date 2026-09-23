@@ -1,0 +1,74 @@
+job_id: 11251616
+title: ML Ops / AI Infrastructure Engineer
+company: ZeroSpace
+location: Brooklyn, USA
+work_type: FULL_TIME
+company_size: 39 Employees
+description: |
+  ZeroSpace is a digital agency and production studio
+  specializing in emerging technologies and real-time 3D for
+  virtual production, CG animation, and immersive experiences.
+  Our unique facility houses the largest fixed-install LED
+  volume on the East Coast, industry-standard Vicon motion
+  capture systems, and a state-of-the-art volumetric capture
+  studio. We're an interdisciplinary team of technologists and
+  artists where technical innovation meets creative vision.
+  Our clients include major film studios, Oscar-winning
+  directors, and the biggest brands in the world.
+
+  The Role
+
+  We're seeking an MLOps Engineer to build our AI
+  infrastructure from the ground up, indexing and retrieving
+  petabytes of multimodal data and enabling our creative AI
+  team to push the boundaries of generative AI in production.
+  This is a foundational role where you'll architect and
+  implement the systems that power generative production, from
+  data management to model deployment and monitoring.
+
+  In this role, you will:
+
+  - Design and build ML infrastructure to ingest, store, index,
+    and retrieve from petabyte-scale media datasets
+  - Work closely with product and creative AI team to understand
+    backend requirements
+  - Design and deploy model fine-tuning and inference
+    infrastructure
+  - Build monitoring and observability systems for AI workloads
+  - Scale data storage and retrieval capabilities with high
+    availability and efficiency
+  - Build data validation and quality assurance pipelines
+  - Monitor and optimize costs across cloud providers
+  - Develop CI/CD pipelines for our backend services
+
+  About you:
+
+  - Proven experience with infrastructure as code (Terraform,
+    CloudFormation, etc.)
+  - Familiarity with ML workflow orchestration tools (Airflow,
+    Kubeflow, MLflow, etc.)
+  - In-depth understanding of distributed computing and storage
+    systems
+  - Experience with monitoring and observability tools
+  - Experience designing and shipping flexible domain models and
+    APIs at scale
+  - A track record of delivering efficiency through automation
+  - Able to set, own, and communicate direction in a dynamic
+    environment
+
+  Nice to Have:
+
+  - Experience in media & entertainment industry
+  - Knowledge of media file formats and image/video processing
+    pipelines
+  - Familiarity with 3D game engines such as Unreal
+  - Experience with on-premise infrastructure and hybrid cloud
+  - Experience with creating agentic systems
+industries:
+  - Agency
+  - Digital Media
+  - Events
+  - Metaverse
+posted_date: 2026-09-22
+url: "https://builtin.com/job/ml-ops-ai-infrastructure-engineer/11251616"
+source: Built In

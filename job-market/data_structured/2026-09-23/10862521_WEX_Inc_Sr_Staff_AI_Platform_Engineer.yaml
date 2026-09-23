@@ -1,0 +1,58 @@
+company:
+  name: WEX Inc.
+  stage: null
+  focus: Payments and financial technology solutions
+position:
+  title: Sr Staff AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, retrieval/context
+      infrastructure (Context Fabric, Reasoning-based Retrieval,
+      Agentic RAG), implements MCP, and builds agent evaluation
+      frameworks — all shaping LLM/agent behavior. This makes it
+      ai-first despite the platform/infra emphasis.
+  responsibilities:
+  - Own the 3-5 year technical roadmap for the AI-ready Data Lakehouse optimized for
+    agent context retrieval
+  - Design platform-level interfaces for agentic workflows, including tool-execution
+    environments and Human-in-the-Loop triggers
+  - Build the Context Fabric enabling AI agents to securely discover and interpret
+    enterprise data with reasoning-based retrieval
+  - Implement emerging standards like Model Context Protocol (MCP) for interoperability
+  - Prototype and benchmark multi-agent orchestration, memory management, and agent
+    evaluation frameworks
+  - Set standards for code quality, CI/CD, and system design; lead cross-functional
+    architecture reviews
+  - Build GitOps workflows, Terraform IaC libraries, and modern CI pipelines at enterprise
+    scale
+  - Architect multi-cloud platform layers bridging AWS and Azure with unified observability
+  use_cases:
+  - Agentic AI workflows powered by an enterprise context retrieval platform
+  - Autonomous agents accessing and interpreting enterprise data via reasoning-based
+    retrieval
+  - Standardized agent-to-tool and host-to-server communication for autonomous systems
+  - Automated LLM-based evaluation and root-cause analysis in CI/CD pipelines
+  - Multi-cloud AI infrastructure with versioned prompt templates and model parameters
+  skills:
+    databases: [Vector Databases, Data Lakehouse]
+    domains: []
+    data: []
+    web: []
+    ml: []
+    ops: [CI/CD, GitOps, ArgoCD, Flux, Terraform, Infrastructure as Code, GitHub Actions,
+      GitLab CI, OpenTelemetry, Distributed Systems]
+    other: [System Design, Automated Root-Cause Analysis]
+    cloud: [AWS, Azure, IAM, AWS S3, CloudWatch, Azure Monitor]
+    languages: [Java, Scala, Python]
+    genai: [Agentic Workflows, LangGraph, CrewAI, Agentic RAG, MCP, LLM Evaluation,
+      Human-in-the-Loop, AI Agents, Small Language Models, Prompt Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10862521'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:25.636774'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

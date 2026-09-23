@@ -1,0 +1,61 @@
+company:
+  name: Blake Willson Group, LLC
+  stage: null
+  focus: |-
+    Financial management technology consulting for federal
+    agencies
+position:
+  title: Subject Matter Expert - Senior Cloud, Data & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI workflows with
+      Bedrock and Azure OpenAI, including evaluations and
+      guardrails, which is direct LLM/agent shaping. It also
+      includes substantial cloud/data engineering, but the AI
+      component makes it ai-first.
+  responsibilities:
+  - Architect, implement, and operate cloud-native services on AWS GovCloud with infrastructure
+    as code, CI/CD, observability, and security controls
+  - Build data ingestion, transformation, and API components including ETL and streaming
+    pipelines with data quality validation
+  - Develop and extend Celonis solutions including data models, Knowledge Models,
+    PQL metrics, Studio Views, and Action Flows
+  - Design and build agentic AI workflows using Amazon Bedrock, Azure OpenAI, and
+    Celonis AI with evaluations, guardrails, and traceability
+  - Own system architecture and technical direction for Innovation Lab products including
+    design decisions, code reviews, and engineering standards
+  - Lead end-to-end technical delivery of the A-123 Continuous Controls Monitoring
+    solution from prototype through production
+  - Package solutions for reuse across federal agencies with parameterized configuration
+    and automated deployment
+  - Support capability demonstrations and post-award implementation into FedRAMP-authorized
+    cloud environments
+  use_cases:
+  - Continuous controls monitoring for OMB Circular A-123 compliance in federal financial
+    management
+  - Process mining and process intelligence on federal source systems via Celonis
+  - Automating manual control testing, audit, and review to reduce effort
+  - Reusable cloud and data platform solutions packaged for federal agencies
+  - Agentic AI workflows for financial stewardship mission objectives
+  skills:
+    databases: [DynamoDB]
+    domains: []
+    data: [Data Pipelines]
+    web: []
+    ml: [Celonis ML Workbench]
+    ops: [CloudWatch, Infrastructure as Code, CI/CD, Observability, Terraform, CloudFormation]
+    other: [Celonis, Process Mining, PQL, FedRAMP, NIST 800-53, Power BI, Agile, Kanban]
+    cloud: [AWS, AWS GovCloud, API Gateway, AWS Lambda, Fargate, AWS S3, IAM, AWS
+        Bedrock, Azure OpenAI, CDK, Azure]
+    languages: [Python, SQL]
+    genai: [Agentic Workflows, Guardrails, LLM Evaluation, LLMs, AI Agents]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11234217'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:29:42.453506'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

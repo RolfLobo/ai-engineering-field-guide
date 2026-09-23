@@ -1,0 +1,55 @@
+company:
+  name: Barclays
+  stage: null
+  focus: Global financial services and banking
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on GenAI engineering: prompt
+      engineering, RAG, embeddings, vector stores, guardrails,
+      evaluation, and agentic workflows - directly shaping LLM
+      behavior. It combines this with full-stack engineering, but
+      the AI shaping work makes it ai-first.
+  responsibilities:
+  - Design, develop and deliver high-quality, scalable and secure software solutions
+  - Build GenAI features including LLM integration, RAG, prompt engineering, agentic
+    workflows, evaluation and guardrails
+  - Develop full-stack services using Python (FastAPI/Django) or Java (Spring Boot)
+    with React/Angular frontends
+  - Deliver cloud-native solutions using microservices, Docker, Kubernetes and CI/CD
+    with DevSecOps practices
+  - Apply MLOps/LLMOps practices including prompt/model versioning, evaluation automation
+    and monitoring
+  - Collaborate cross-functionally with product managers, designers and engineers
+    to define requirements and solutions
+  - Perform code reviews and promote code quality, secure coding and unit testing
+  - Manage risk, strengthen controls and contribute to policy development within the
+    business function
+  use_cases:
+  - LLM-powered applications with retrieval-augmented generation
+  - Agentic AI workflows for business and banking solutions
+  - Enterprise digital solutions with secure, scalable infrastructure
+  - AI feature delivery within a financial services environment
+  skills:
+    databases: [Vector Databases]
+    domains: []
+    data: []
+    web: [FastAPI, Django, Spring Boot, React, Angular, APIs, Microservices]
+    ml: []
+    ops: [Docker, Kubernetes, CI/CD, Observability, MLOps, LLMOps]
+    other: [Automated Testing, DevSecOps, Event-Driven Architecture, Responsible AI]
+    cloud: []
+    languages: [Python, Java, TypeScript]
+    genai: [LLMs, Prompt Engineering, RAG, Embeddings, LLM Evaluation, Guardrails,
+      Agentic Workflows, LangChain, LangGraph, LlamaIndex, Semantic Kernel, Spring
+        AI, LangChain4j]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10885733'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:04:53.052426'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

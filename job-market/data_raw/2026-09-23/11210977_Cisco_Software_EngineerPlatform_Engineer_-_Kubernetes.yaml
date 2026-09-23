@@ -1,0 +1,170 @@
+job_id: 11210977
+title: Software Engineer/Platform Engineer - Kubernetes + Golang/Python + AI (5+ Years)
+company: Cisco
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 77,500 Employees
+description: |
+  Meet the Team
+
+  You will be pivotal in contributing to the team responsible
+  for designing and developing the next generation of scalable
+  Kubernetes infrastructure with Foundational Model and GPU
+  Platforms. This is a position for experienced engineers
+  where you will lead the technical direction, ensuring the
+  performance, reliability, and scalability of AI systems
+  while collaborating closely with data scientists,
+  researchers, and other engineering teams.
+
+  Your Impact
+
+  You will architect scalable infrastructure, and implement
+  standard methodologies for Infrastructure as a Code with
+  Golang along with developing platforms which offers LLMs and
+  GPUs as service. Your leadership will influence the adoption
+  of modern technologies and processes while mentoring junior
+  engineers to strengthen the team’s technical foundation.
+  This role is perfect for someone with a deep passion for
+  solving engineering challenges in the fast-paced AI/ML
+  space, with a focus on delivering high-impact solutions at
+  scale.
+
+  Core Responsibilities
+
+  As a Platform Engineer with AI/ML Experience you will:
+
+  - Design and develop scalable Kubernetes-based platform
+    components, focusing on reliability, multi-tenancy, and
+    efficient workload orchestration.
+  - Build and enhance platform capabilities to support
+    Kubernetes workloads and emerging GenAI workloads
+    (including GPU-based deployments), ensuring performance
+    and cost efficiency.
+  - Develop backend services and platform tooling using Golang
+    and/or Python, following strong software engineering
+    practices.
+  - Contribute to AIOps initiative across platforms by
+    collaborating with multi-functional teams, including SREs,
+    Software Engineers to operationalize and optimize AI
+    workflows effectively.
+  - Implement and improve observability frameworks (metrics,
+    logs, traces) to enhance platform visibility and
+    debugging.
+  - Build and maintain automation frameworks and Infrastructure
+    as Code (IaC) to improve platform consistency and
+    operational efficiency.
+  - Ensure platform reliability, scalability, and performance
+    through meticulous engineering practices with operational
+    rigor.
+  - Participate in on-call rotations, contributing to round the
+    clock support, incident response, troubleshooting, and
+    continuous reliability improvements.
+  - Conduct code reviews, establish standard processes, and
+    mentor junior engineers.
+  - Stay updated on the latest trends in AI/ML to influence
+    platform enhancements.
+
+  Minimum Qualifications / Requirements
+
+  - Experience: 5-7 years of software engineering experience
+  - Expertise in Golang or Python, with hands-on experience with
+    Kubernetes platform Along with ML frameworks (TensorFlow,
+    PyTorch).
+  - Assist in the design, implementation, and day-to-day
+    operation of a Kubernetes platform supporting
+    microservices architecture.
+  - Support and help improve the existing platform that hosts a
+    large number of business applications.
+  - Help automate legacy platforms to enable infrastructure as
+    code, increasing efficiency and consistency in platform
+    management.
+  - Consistent track record in designing and deploying scalable
+    machine learning systems in production.
+  - Experience building CI/CD pipelines for ML workflows,
+    including model monitoring and retraining.
+  - Proficiency in cloud platforms and orchestration tools for
+    distributed systems.
+  - Strong problem-solving and debugging skills for complex,
+    large-scale systems.
+  - Experience in mentoring engineers and driving technical
+    decision-making.
+
+  Preferred Qualifications / Requirements
+
+  - Sophisticated understanding in Kubernetes for managing
+    production-grade systems and ensuring scalability.
+  - Sophisticated experience with Docker and orchestration of
+    complex services.
+  - Expertise in Golang or Python
+  - Develop & enforce secure software development lifecycle
+  - Experience with architecting and optimizing workflows using
+    Kubeflow pipelines, KServe, Airflow, and MLflow.
+  - Ability to design and implement efficient CI/CD workflows
+    for LLM/GPU provisioning.
+  - Understanding of LangChain and experience designing RAG
+    systems.
+  - Knowledge of integrating and scaling vector databases for
+    real-world applications.
+  - Consistent record of designing and leading the development
+    of distributed systems.
+  - Experience with implementing robust inter-service
+    communication patterns and solving scalability issues.
+
+  Why Cisco?
+
+  At Cisco, we’re revolutionizing how data and infrastructure
+  connect and protect organizations in the AI era – and
+  beyond. We’ve been innovating fearlessly for 40 years to
+  create solutions that power how humans and technology work
+  together across the physical and digital worlds. These
+  solutions provide customers with unparalleled security,
+  visibility, and insights across the entire digital
+  footprint.
+
+  Fueled by the depth and breadth of our technology, we
+  experiment and create meaningful solutions. Add to that our
+  worldwide network of doers and experts, and you’ll see that
+  the opportunities to grow and build are limitless. We work
+  as a team, collaborating with empathy to make really big
+  things happen on a global scale. Because our solutions are
+  everywhere, our impact is everywhere.
+
+  We are Cisco, and our power starts with you.
+
+  Disclaimer
+
+  To ensure that we hire the best talent in the right way, we
+  follow a strict hiring process and recently, Cisco has been
+  made aware of fraudulent recruiters claiming to be from the
+  company. Please be advised that any communication from Cisco
+  about careers will:
+
+  - be in direct response to an application you have submitted
+    through the company career site
+  - begin with screening or an interview
+  - originate from a Cisco email address, and
+  - be conducted across email, phone, or WebEx
+
+  Cisco will never make a job offer without conducting an
+  interview process or ask you for money in any way. If you
+  have been requested to apply for a role or have received an
+  offer from a site other than https://careers.cisco.com or
+  cisco.wd5.myworkday.com, do not provide any personal
+  identifying information, including your Aadhaar or other
+  personal identifying number, birth certificate, banking
+  information, driver's license, or passport.
+
+  If you are the target of a recruiting scam, consider filing
+  a report with your local law enforcement authorities. Cisco
+  bears no responsibility, and cannot be held liable, for any
+  claims, damages, expenses, or other inconvenience resulting
+  from or in any way connected to recruiting scams.
+industries:
+  - Cloud
+  - Information Technology
+  - Internet of Things
+  - Professional Services
+  - Software
+posted_date: 2026-09-16
+url: "https://builtin.com/job/software-engineer-platform-engineer-kubernetes-golang-python-ai-5-years/11210977"
+source: Built In

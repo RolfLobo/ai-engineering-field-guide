@@ -1,0 +1,49 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and engineering services
+position:
+  title: Lead AI Engineer I - R01571162
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI applications, multi-agent
+      systems, and LLM-based workflows using frameworks like
+      LangChain, plus prompt engineering and RAG — directly
+      shaping LLM/agent behavior, so it is ai-first.
+  responsibilities:
+  - Design and build end-to-end full-stack intelligent applications integrating frontend,
+    backend, and APIs
+  - Develop and deploy cloud-native solutions on Azure, AWS, and GCP
+  - Build agentic AI applications including multi-agent systems and autonomous workflows
+  - Develop scalable backend systems using microservices and event-driven architectures
+  - Work with LLM-based frameworks and agent orchestration tools to create adaptive
+    workflows
+  - Ensure best practices in code quality, testing, observability, and performance
+  - Collaborate with cross-functional teams on architecture and technical solutions
+  use_cases:
+  - Autonomous agentic AI applications
+  - Multi-agent systems and workflows
+  - Intelligent adaptive workflows driven by LLMs
+  - Conversational AI and AI-driven automation
+  - Retrieval-augmented generation applications
+  skills:
+    genai: [LangChain, LlamaIndex, Semantic Kernel, AutoGen, CrewAI, Prompt Engineering,
+      RAG, LLMs, Agentic Workflows, Multi-Agent Systems, Conversational AI]
+    ml: []
+    web: [React, Angular, Vue, Node.js, Spring Boot, FastAPI, Django, REST APIs, Microservices]
+    databases: [Vector Databases, FAISS, Pinecone]
+    data: [Kafka]
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, JavaScript, TypeScript, Java]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11149027'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:22:03.255106'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

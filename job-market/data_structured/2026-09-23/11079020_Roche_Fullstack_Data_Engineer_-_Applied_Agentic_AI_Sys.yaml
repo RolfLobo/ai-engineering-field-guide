@@ -1,0 +1,57 @@
+company:
+  name: Roche
+  stage: null
+  focus: Global pharmaceutical and healthcare company
+position:
+  title: Fullstack Data Engineer - Applied & Agentic AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops RAG architectures with vector and graph
+      databases, supports GraphRAG for agentic workflows, and
+      integrates LLM fine-tuning data pipelines — designing
+      retrieval that shapes model output quality. LLM/agent
+      components are involved, so ai-first.
+  responsibilities:
+  - Design and implement scalable, high-performance data pipelines for AI/GenAI applications
+    covering ingestion, transformation, storage and retrieval
+  - Work with vector databases (AWS OpenSearch, Azure AI Search) to enable high-speed
+    similarity search and RAG for generative AI applications
+  - Build graph database solutions (Neo4j, AWS Neptune) enabling GraphRAG and multi-hop
+    reasoning for agentic workflows
+  - Build and maintain cloud-based data solutions on AWS and Azure, and design Snowflake-based
+    storage and analytics
+  - Develop ETL/ELT pipelines for real-time and batch data processing
+  - Support integration of data pipelines with AI fine-tuning, inference and training
+    workflows
+  - Implement data governance, security and compliance measures aligned with regulatory
+    standards
+  - Set up monitoring, alerting and logging for data pipeline reliability
+  use_cases:
+  - Agentic, LLM-based solutions for healthcare business challenges
+  - RAG and GraphRAG for enterprise AI decision-making with auditable explainability
+  - Similarity search over high-dimensional data for generative AI applications
+  - Data infrastructure powering AI fine-tuning, training and inference workflows
+  - Cloud-native analytics and real-time/batch data processing in a regulated environment
+  skills:
+    databases: [Vector Databases, OpenSearch, Azure AI Search, Neo4j, AWS Neptune,
+      GraphDB, Snowflake]
+    domains: []
+    data: [Data Pipelines, Airflow, Spark, Flink, Lakehouse, Feature Engineering]
+    web: [REST APIs, Microservices]
+    ml: [Machine Learning, Model Training, Hallucination Mitigation]
+    ops: [Git, CI/CD, Docker, Kubernetes, Terraform, CloudFormation, Infrastructure
+        as Code]
+    other: [Document Processing, Responsible AI, Data Governance]
+    cloud: [AWS, AWS S3, AWS Lambda, Azure, Azure Blob Storage]
+    languages: [Python, SQL]
+    genai: [RAG, GraphRAG, LLMs, Generative AI, Agentic Workflows, Fine-Tuning, Claude
+        Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11079020'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:18:18.186704'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,48 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: AI application development and voice AI services
+position:
+  title: LEAD AI ENGINEER
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM applications, designs RAG, optimizes
+      prompts, and implements guardrails/evals — directly shaping
+      model behavior and output quality, so it is ai-first.
+  responsibilities:
+  - Design and develop scalable AI-powered applications and services
+  - Build LLM-based applications using OpenAI, Claude and other foundation models
+  - Develop real-time voice and conversational AI solutions
+  - Build APIs and microservices using Python, FastAPI and Django
+  - Implement RAG, embeddings and vector database solutions
+  - Develop AI assistants and workflow automation systems
+  - Optimize prompts, context windows, tokens and model costs
+  - Implement AI safety, guardrails and evaluation frameworks
+  use_cases:
+  - Real-time voice and conversational AI solutions
+  - AI assistants and workflow automation
+  - RAG-based retrieval with vector databases
+  - LLM-powered applications using GPT and Claude models
+  - Production AI services exposed via APIs and microservices
+  skills:
+    genai: [LLMs, Generative AI, OpenAI API, Anthropic API, Embeddings, LangChain,
+      RAG, Prompt Engineering, Guardrails, LLM Evaluation, Conversational AI]
+    ml: []
+    web: [FastAPI, Django, REST APIs, WebSockets]
+    databases: [Redis, Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, asyncio]
+    domains: []
+    other: [Microservices, Speech-to-Text, Text-to-Speech, Voice Activity Detection,
+      Streaming Audio]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235115'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:29:32.768446'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

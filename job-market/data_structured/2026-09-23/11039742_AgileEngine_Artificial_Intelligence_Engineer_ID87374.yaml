@@ -1,0 +1,49 @@
+company:
+  name: AgileEngine
+  stage: null
+  focus: Outsourced software development for enterprises and startups
+position:
+  title: Artificial Intelligence Engineer ID87374
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, designs RAG with
+      vector databases, and builds guardrails—directly shaping
+      LLM/agent behavior. This is agent engineering, not model
+      serving or API consumption alone.
+  responsibilities:
+  - Design and build AI agents that analyze Discovery logs, execution results, errors,
+    and failed discoveries at scale
+  - Develop agents that classify and correlate failures, troubleshoot, identify root
+    causes, and recommend corrective actions
+  - Enable agents to recommend or generate corrections to probes and patterns with
+    testing and guardrails before production
+  - Create and manage data-processing pipelines and API integrations feeding telemetry
+    into the AI ecosystem
+  - Integrate GenAI capabilities such as RAG and vector databases into production
+    systems
+  use_cases:
+  - Automated analysis of infrastructure discovery logs at scale
+  - Failure classification, correlation, and root cause identification
+  - Automated troubleshooting with recommended corrective actions
+  - Generating corrections to probes and patterns for infrastructure discovery
+  - Telemetry-driven infrastructure monitoring intelligence
+  skills:
+    genai: [AI Agents, RAG, Vector Databases, OpenAI API, Anthropic API, Guardrails]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Git, GitHub, Jenkins, CI/CD, Automated Testing]
+    languages: [Python]
+    domains: []
+    other: [ServiceNow]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11039742'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:14:40.525792'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

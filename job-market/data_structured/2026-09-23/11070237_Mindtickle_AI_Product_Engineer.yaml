@@ -1,0 +1,53 @@
+company:
+  name: Mindtickle
+  stage: null
+  focus: B2B SaaS sales enablement and readiness platform
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, RAG architectures, and
+      guardrails/evals for LLMs, directly shaping model behavior
+      and output quality. This is LLM/agent work, so it's ai-
+      first.
+  responsibilities:
+  - Build a unified intelligence layer ingesting signals from product telemetry, CRM,
+    call transcripts, and marketing inputs
+  - Build integrations and webhooks to push AI-generated insights into workflow tools
+    such as Salesforce
+  - Architect agentic workflows where LLMs are granted permission to perform tasks
+  - Implement advanced RAG to ground AI outputs in company documentation and historical
+    data
+  - Ensure evaluation and guardrails for non-deterministic models to prevent hallucinations
+  - Collaborate with Analytics Engineers on data pipelines supporting real-time AI
+    applications
+  - Maintain security and privacy standards for AI agent data access permissions
+  use_cases:
+  - Automated lead qualification and churn risk alerts pushed into CRM
+  - Synthesizing strategic intelligence across business data sources
+  - Grounding AI outputs in company documentation and historical data
+  - Automating customer support workflows
+  - Real-time business workflow automation from product and customer signals
+  skills:
+    genai: [Agentic Workflows, RAG, LLMs, Guardrails, AI Agents]
+    ml: []
+    web: [FastAPI, Django, APIs, Webhooks]
+    databases: [Snowflake, BigQuery]
+    data: [Data Pipelines, Airflow]
+    cloud: [Snowflake]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Salesforce, HubSpot, Zendesk, Jira, Marketo, Zapier]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11070237'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:17:22.490020'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

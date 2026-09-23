@@ -1,0 +1,57 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Asset and Wealth Management technology at a global bank
+position:
+  title: VP - Sr Lead Software Engineer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI workflows with multi-
+      step reasoning, tool use, MCP integrations, and prompt-based
+      LLM models, directly shaping model behavior. It also
+      implements observability and guardrails for agent
+      reliability, which is shaping work on LLM systems.
+  responsibilities:
+  - Design and build autonomous agentic AI workflows with multi-step reasoning, tool
+    use, human-in-the-loop guardrails, and MCP integrations
+  - Architect and implement prompt-based LLM models for NLP tasks in financial services
+    use cases
+  - Produce architecture and design artifacts for distributed applications meeting
+    latency, throughput, and regulatory constraints
+  - Implement observability, monitoring, and feedback loops to track agent behavior
+    and detect hallucinations
+  - Build scalable data pipelines for structured and unstructured data supporting
+    LLM-based features
+  - Drive adoption and governance of AI-assisted engineering practices and SDLC toolchain
+    across teams
+  - Partner with product, design, and business stakeholders to translate requirements
+    into AI-driven solutions
+  - Ensure client-facing solutions adhere to security, privacy, and regulatory standards
+    including model governance
+  use_cases:
+  - Intelligent search for financial services
+  - Conversational interfaces
+  - Advisory support in asset and wealth management
+  - Autonomous agent task execution with human-in-the-loop guardrails
+  - Real-time client interactions powered by LLM features
+  skills:
+    genai: [AI Agents, Agentic Workflows, MCP, OpenAI API, Anthropic API, Prompt Engineering,
+      LLMs, LangChain, LangGraph, LlamaIndex, Semantic Kernel, CrewAI, AutoGen, Guardrails]
+    ml: [NLP]
+    web: [Microservices]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS, Azure]
+    ops: [CI/CD, DevSecOps]
+    languages: [Python, Java]
+    domains: []
+    other: [SDLC, Responsible AI, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11073174'
+  location: Mumbai, IND
+  extracted_at: '2026-09-23T11:16:40.808860'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

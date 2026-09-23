@@ -1,0 +1,47 @@
+company:
+  name: NielsenIQ
+  stage: null
+  focus: Consumer intelligence and market analytics platform
+position:
+  title: Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes supporting implementation of LLM-based
+      features and developing/optimizing RAG, semantic search, and
+      vector search capabilities — designing retrieval and shaping
+      LLM behaviour — so it is ai-first.
+  responsibilities:
+  - Develop and enhance backend services using Python, FastAPI, and REST APIs
+  - Support implementation of AI-powered workflows and LLM-based features
+  - Assist in developing and optimizing RAG, semantic search, and vector-search capabilities
+  - Build and maintain APIs, integrations, and microservices for the Discover platform
+  - Write clean, maintainable, testable code and execute unit tests
+  - Contribute to CI/CD pipelines, deployments, and cloud-native development practices
+  - Troubleshoot defects and support production issue resolution
+  - Monitor application behavior and improve reliability, performance, and observability
+  use_cases:
+  - AI-powered features for the NIQ Discover consumer insights platform
+  - LLM-based workflows in a cloud-native analytics product
+  - RAG and semantic/vector search over market and consumer data
+  - Scalable APIs and microservices for data insight delivery
+  skills:
+    genai: [LLMs, RAG, Semantic Search, OpenAI API, Azure OpenAI, LangChain, LangGraph,
+      Prompt Engineering, AI-Powered Applications]
+    ml: []
+    web: [FastAPI, REST APIs, Microservices]
+    databases: [Vector Search, Snowflake]
+    data: [Data Modeling]
+    cloud: [AKS]
+    ops: [Docker, Kubernetes, GitHub Actions, Distributed Systems, Git, CI/CD]
+    languages: [Python, Node.js, TypeScript]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11202536'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:26:18.076035'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

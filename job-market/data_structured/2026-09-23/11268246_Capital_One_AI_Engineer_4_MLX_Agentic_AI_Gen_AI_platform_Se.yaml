@@ -1,0 +1,63 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agents, multi-agent workflows, guardrails,
+      model evaluation, and foundation model optimization -
+      directly shaping model behavior and output quality. LLM and
+      agentic components are central, so ai-first.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI software components including LLM
+    inference, agents, multi-agent workflows, guardrails, and model evaluation
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Own end-to-end architecture for complex AI systems with maintainability, observability,
+    and ethical alignment
+  - Define and maintain SLOs for AI reliability including latency, uptime, and model
+    performance drift
+  - Collaborate with infrastructure engineering to optimize GPU/TPU utilization and
+    accelerate inference pipelines
+  - Lead cross-functional technical reviews for new AI deployments ensuring security,
+    governance, and compliance
+  - Mentor Principal and Senior Associates on scalable design and research-to-production
+    translation
+  - Contribute to the technical vision and roadmap of foundational AI systems
+  use_cases:
+  - AI-powered banking customer experiences and real-time customer support
+  - Fraud and unusual charge detection notifications
+  - Agentic AI systems to change how associates work
+  - Proprietary AI platforms powering products across the bank
+  - Large-scale LLM training and inference infrastructure
+  skills:
+    genai: [LLMs, Agentic Workflows, AI Agents, Guardrails, Fine-Tuning]
+    ml: [Foundation Model Training, Hugging Face, PyTorch, CUDA, Machine Learning,
+      Model Evaluation]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Distributed Systems, Model Deployment, Observability]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268246'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:34:09.187801'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

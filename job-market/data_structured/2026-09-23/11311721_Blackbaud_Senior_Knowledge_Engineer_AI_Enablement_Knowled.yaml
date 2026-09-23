@@ -1,0 +1,57 @@
+company:
+  name: Blackbaud
+  stage: null
+  focus: Social impact software for nonprofit organizations
+position:
+  title: Senior Knowledge Engineer, AI Enablement & Knowledge Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs knowledge systems to power AI assistants
+      and agentic workflows, defines AI-ready knowledge standards,
+      retrieval quality, and RAG/prompt design familiarity — this
+      shapes model output quality via retrieval and prompt design.
+      LLM/agent components are involved, so ai-first.
+  responsibilities:
+  - Design and optimize the knowledge ecosystem supporting customers, support professionals,
+    self-service, and AI-enabled support capabilities
+  - Define and maintain content standards, governance practices, taxonomy, and lifecycle
+    management
+  - Structure and optimize knowledge systems to power AI assistants, copilots, and
+    agentic workflows
+  - Partner with Operations, AI, and Technology teams to improve AI performance through
+    knowledge design, retrieval, and governance
+  - Define standards for AI-ready knowledge including content structure, retrieval
+    quality, and response accuracy
+  - Develop measurement tools to monitor knowledge health, self-service success, and
+    AI effectiveness
+  - Validate knowledge readiness for product releases and AI-enabled experiences through
+    testing and gap analysis
+  - Advocate for knowledge-first and AI-enabled ways of working across teams
+  use_cases:
+  - AI-assisted customer support and self-service
+  - Knowledge retrieval powering AI assistants and copilots
+  - Agentic support workflows grounded in trusted knowledge
+  - Knowledge health and self-service success measurement
+  - Knowledge readiness validation for product releases
+  skills:
+    genai: [RAG, Prompt Engineering, Agentic Workflows, LLM Evaluation, Conversational
+        AI]
+    ml: []
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Knowledge Management, Content Strategy, Taxonomy, Content Governance,
+      Salesforce, Agentforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11311721'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:37:21.845632'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

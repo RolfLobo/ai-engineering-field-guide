@@ -1,0 +1,121 @@
+job_id: 10900241
+title: Senior AI Engineer
+company: Mastercard
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 38,800 Employees
+description: |
+  Our Purpose  Mastercard powers economies and empowers people
+  in 200+ countries and territories worldwide. Together with
+  our customers, we're helping build a sustainable economy
+  where everyone can prosper. We support a wide range of
+  digital payments choices, making transactions secure,
+  simple, smart and accessible. Our technology and innovation,
+  partnerships and networks combine to deliver a unique set of
+  products and services that help people, businesses and
+  governments realize their greatest potential. Title and
+  Summary Senior AI Engineer Overview As a Senior AI Engineer
+  within Mastercard's AI Center of Excellence, you will be
+  responsible for designing, building, deploying, and
+  operating enterprise-grade AI and Agentic AI solutions that
+  drive innovation across Mastercard's products, platforms,
+  and internal business functions. You will partner with data
+  scientists, software engineers, architects, product teams,
+  and business stakeholders to transform AI research and
+  prototypes into secure, scalable, and production-ready
+  solutions You will be part of a team leading the engineering
+  of AI platforms and applications, establish best practices
+  for MLOps and AgenticOps and ensure AI systems meet
+  Mastercard's standards for reliability, architecture,
+  security, governance, and compliance Key Responsibilities
+  - Design, develop, and deploy scalable AI, machine learning
+    and Agentic AI applications for enterprise use cases
+  - Lead the productionization of AI solutions, transforming
+    PoCs into highly available, resilient, and maintainable
+    production systems
+  - Build E2E AI pipelines including data ingestion, feature
+    engineering, model training, evaluation, deployment,
+    monitoring, and continuous improvement
+  - Develop and deploy LLM-powered applications using RAG, AI
+    agents, vector databases, prompt engineering, and model
+    orchestration frameworks
+  - Design cloud-native AI architectures leveraging
+    containerization, Kubernetes, serverless technologies, and
+    event-driven microservices
+  - Implement MLOps and AgenticOps best practices, including
+    CI/CD, automated testing, model versioning, observability,
+    drift detection, governance, and rollback strategies
+  - Optimize AI models for scalability, latency, throughput,
+    reliability, and cost efficiency in production
+    environments
+  - Collaborate with platform engineering teams to build
+    reusable AI services, APIs, SDKs, and enterprise AI
+    capabilities
+  - Ensure AI solutions adhere to Mastercard's security,
+    architecture, privacy, compliance, and Responsible AI
+    standards
+  - Evaluate emerging AI technologies and recommend adoption
+    strategies to accelerate enterprise AI innovation.
+  - Partner with cross-functional teams to define technical
+    roadmaps and deliver AI capabilities aligned with
+    strategic business objectives
+  Required Qualifications
+  - Bachelor's or Master's degree in Computer Science,
+    Artificial Intelligence, Software Engineering, or a
+    related field
+  - Extensive experience building and deploying production AI/ML
+    systems in enterprise environments
+  - Strong software engineering skills using Python, Java, or
+    similar programming languages
+  - Experience developing cloud-native applications on AWS,
+    Azure, or Google Cloud Platform
+  - Hands-on experience with containerization and orchestration
+    technologies such as Docker and Kubernetes
+  - Strong understanding of distributed systems, APIs,
+    microservices, and event-driven architectures
+  - Experience implementing CI/CD pipelines and MLOps frameworks
+    for automated model deployment and lifecycle management
+  - Experience with modern AI frameworks such as PyTorch,
+    TensorFlow, Scikit-learn, LangChain, LangGraph,
+    LlamaIndex, or equivalent
+  - Experience deploying LLMs, RAG, vector databases, and AI
+    agent frameworks
+  - Knowledge of model monitoring, observability, performance
+    optimization, and AI governance.
+  - Strong communication and stakeholder management skills with
+    the ability to influence technical decisions
+  What You'll Deliver
+  - Enterprise-scale AI and Generative AI solutions operating
+    reliably in production.
+  - Production-ready AI platforms that enable reusable
+    capabilities across Mastercard.
+  - Robust MLOps and AgenticOps practices that accelerate AI
+    delivery while maintaining quality, security, and
+    governance
+  - High-performance AI services that improve customer
+    experiences, operational efficiency, and business outcomes
+    across Mastercard
+  Corporate Security Responsibility All activities involving
+  access to Mastercard assets, information, and networks comes
+  with an inherent risk to the organization and, therefore, it
+  is expected that every person working for, or on behalf of,
+  Mastercard is responsible for information security and must:
+
+  - Abide by Mastercard's security policies and practices;
+  - Ensure the confidentiality and integrity of the information
+    being accessed;
+  - Report any suspected information security violation or
+    breach, and
+  - Complete all periodic mandatory security trainings in
+    accordance with Mastercard's guidelines.
+industries:
+  - Blockchain
+  - Fintech
+  - Payments
+  - Consulting
+  - Cryptocurrency
+  - Cybersecurity
+  - Quantum Computing
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-ai-engineer/10900241"
+source: Built In

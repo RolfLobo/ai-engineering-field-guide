@@ -1,0 +1,54 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and infrastructure solutions
+position:
+  title: Senior Software Engineer – AI Quality & Test Automation | Security - Python
+    | Golang | Test Automation LLM APIs | Agentic Workflows (8 - 12 Years)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation frameworks, benchmarking, LLM-as-
+      judge validation, and behavioral regression suites for AI
+      agents and agentic workflows. Judging model output quality
+      and building evals is shaping, and the targets are LLM/agent
+      systems, so this is ai-first.
+  responsibilities:
+  - Develop PQ foundations and evaluation frameworks ensuring assessment of AI agents,
+    workflows, and system processes
+  - Find opportunities in testing methodologies and develop AI-based solutions or
+    agents to mitigate risk
+  - Implement validation techniques including LLM-as-judge, tenant isolation probes,
+    and behavioral regression suites
+  - Implement lifecycle of proof-of-concepts and validate new testing paradigms
+  - Partner with engineering teams on contract testing, audit log validation, and
+    security compliance
+  - Maintain quality ecosystems ensuring reliable, high-quality testing outcomes
+  - Participate in code and design reviews and support validation of technical hypotheses
+  use_cases:
+  - Quality assurance for an AI-agentic Security Operations Center
+  - Evaluation and benchmarking of AI agents and agentic workflows
+  - LLM-as-judge validation and AI behavioral regression testing
+  - Tenant isolation probing and audit log validation
+  - Security compliance and contract testing across the development lifecycle
+  skills:
+    genai: [LLMs, Anthropic API, Codex, Prompt Engineering, Agentic Workflows, LangChain,
+      LangSmith, LLM Evaluation, AI Agents]
+    ml: [Machine Learning]
+    web: [Playwright]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Go]
+    domains: []
+    other: [Test Automation, Contract Testing, Security Compliance, OCSF, Caldera,
+      Performance Testing, K6, JMeter]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11036570'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:14:36.439580'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

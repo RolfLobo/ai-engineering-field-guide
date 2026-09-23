@@ -1,0 +1,121 @@
+job_id: 11274325
+title: AI Security Engineer
+company: Syngenta Group
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 56,000 Employees
+description: |
+  Company Description
+
+  About Syngenta At Syngenta Group, we're a global community
+  of 56,000 innovators across 90 countries, united by a
+  250-year legacy of agricultural excellence. As the world's
+  most local agricultural technology partner, we create
+  tailor-made solutions that transform farming while
+  protecting our planet, driven by our commitment to
+  innovation, ethics, and integrity. Through our inclusive
+  environment and diverse perspectives, we pioneer
+  breakthrough solutions for farmers, society, and future
+  generations. Join our worldwide teams of agricultural
+  pioneers in creating a more resilient and equitable food
+  system for all.
+
+  Job Description
+
+  The AI Security Platform Lead acts as a vital member of
+  Syngenta’s Information Security team to help safeguard
+  Syngenta Information Technology infrastructure against AI-
+  related cyber threats and vulnerabilities.  The AI Security
+  Platform Lead bridges end users, developers, operational
+  run/support teams and other functional stakeholders to
+  maintain reliable operation of AI Security Platform(s) while
+  driving continuous and sustainable improvement and providing
+  regular transparent performance & security metric reporting
+
+  Accountabilities:
+
+  - Cross-Platform AI Policy Enforcement: Manage and optimize
+    security controls across endpoints, SaaS environments, and
+    run-time interactions to monitor AI agent behaviors and
+    protect against data exfiltration.
+  - AI Asset Discovery & Posture Management:Leverage the AI
+    Security Platform to maintain a comprehensive inventory of
+    private and public AI tools while ensuring continuous
+    visibility and security posture across AWS, Azure, GCP.
+  - AI Red Teaming: Work with Syngenta application development
+    teams to maintain CI/CD integration of automated AI
+    security Red-Teaming tests that assess internally
+    developed AI agents for security and AI use-policy
+    compliance.
+  - Vendor Management & Roadmap: Act as the primary technical
+    point of contact for the AI Security Platform vendor,
+    influencing their product roadmap to meet Syngenta’s
+    evolving AI security needs and staying ahead of new
+    feature releases.
+  - Scalability & Performance Tuning: Ensure the AI Security
+    Platform(s) AI security architecture scales effectively
+    with enterprise growth, minimizing latency for end-users
+    while maintaining rigorous inspection standards.
+  - Incident Response Integration: Partner with the SOC
+    (Security Operations Center) to develop playbooks for
+    responding to AI-specific threats detected by the AI
+    Security Platform(s).
+  - Collaboration and Communication: Collaborate closely across
+    functional, regional and business unit teams and
+    stakeholders to proactively identify, recommend and
+    develop continuous improvements for AI cybersecurity
+    tooling, event detection, correlation and incident
+    response.
+  - Documentation and Knowledge Management: Maintain
+    comprehensive documentation of the AI Security Platform,
+    operational procedures, contacts, and security findings
+    for knowledge sharing and audit purposes.
+
+  Qualifications
+
+  - Experience managing a large-scale enterprise security
+    solution including capability road-mapping and operational
+    change management
+  - Strong understanding of generative AI concepts such as LLMs,
+    RAG, MCP servers, AI agent frameworks, agent loops, agent
+    Red-Teaming, model routing, model gateways, guardrails
+    technologies, LLM context windows, private AI vs public AI
+    and more
+  - Familiarity with EU AI Act, OWASP LLM Top 10 and other
+    emerging AI regulatory and security frameworks
+  - Hands-on experience with cloud-native security tools and
+    API-based integrations with cloud, network, security SIEM,
+    firewalls, intrusion detection systems, endpoint security,
+    application development IDEs and agentic coding tools
+  - Experience with Data Loss Prevention (DLP) specifically
+    tailored for LLMs and generative AI prompts.
+  - Excellent analytical, problem-solving, and troubleshooting
+    skills
+  - Strong communication and interpersonal skills
+  - Ability to work independently and as part of a team
+
+  Additional Information
+
+  Note: Syngenta is an Equal Opportunity Employer and does not
+  discriminate in recruitment, hiring, training, promotion or
+  any other employment practices for reasons of race, color,
+  religion, gender, national origin, age, sexual orientation,
+  gender identity, marital or veteran status, disability, or
+  any other legally protected status.
+
+  Follow us on: Twitter & LinkedIn
+
+  https://twitter.com/SyngentaAPAC
+
+  https://www.linkedin.com/company/syngenta/
+
+  India page
+
+  https://www.linkedin.com/company/70489427/admin/
+industries:
+  - Biotech
+  - Agriculture
+  - Chemical
+posted_date: 2026-09-21
+url: "https://builtin.com/job/ai-security-engineer/11274325"
+source: Built In

@@ -1,0 +1,55 @@
+company:
+  name: M+C Saatchi Group
+  stage: null
+  focus: Creative advertising and marketing solutions company
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role engineers the platform layer that hosts,
+      integrates, monitors, and governs approved AI tools and
+      services. The deliverable is secure, scalable infrastructure
+      and governance controls, not shaping model behavior via
+      prompts, retrieval, or agent design. Agent-based workflows
+      appear only as desirable familiarity, not core
+      responsibility.
+  responsibilities:
+  - Design, build and operate the enterprise AI platform infrastructure supporting
+    MICA, including AI applications, agents and automation
+  - Engineer and maintain integrations with approved AI tools covering authentication,
+    monitoring and usage tracking
+  - Implement platform-level governance controls including access management, auditability
+    and data protection
+  - Develop automation for provisioning, configuration, monitoring and optimisation
+    of AI environments
+  - Review and assure AI solutions against architecture, security and governance standards
+    before production
+  - Monitor platform performance, usage and cost and drive continuous optimisation
+  - Support incident management, troubleshooting and root cause analysis
+  - Partner with AI Operations and Adoption Manager on onboarding, rollout and lifecycle
+    management of AI services
+  use_cases:
+  - Enterprise AI platform hosting and lifecycle management for the MICA AI capability
+  - Governed integration of approved AI tools into enterprise systems
+  - Automated provisioning, monitoring and cost control of AI services
+  - Secure access and auditability for AI usage across a global group
+  skills:
+    genai: [Generative AI, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure, AWS, GCP]
+    ops: [Infrastructure as Code, Observability, Monitoring]
+    languages: []
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11211883'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:27:08.019268'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Baringa
+  stage: null
+  focus: Global management and technology consulting firm
+position:
+  title: Senior Manager, AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires SME-level depth in agentic AI/LLM
+      engineering including designing and building production-
+      grade agentic systems, RAG, MCP servers, and prompt
+      engineering — clearly shaping LLM behaviour. Customer-facing
+      consultancy leadership around these solutions confirms ai-
+      first.
+  responsibilities:
+  - Own and lead end-to-end delivery of complex AI and technology consulting engagements,
+    accountable for scope, quality, risk and client outcomes
+  - Lead and resource multi-disciplinary delivery teams of engineers, data scientists
+    and consultants, with mentoring and talent development
+  - 'Lead business development: shaping opportunities, supporting bids and RFP responses,
+    and building client relationships as trusted advisor'
+  - Lead architecture design for AI-enabled platforms and cloud solutions, balancing
+    technical excellence with commercial realities
+  - Provide hands-on technical direction, reviewing designs, code and delivery artefacts
+  - Design and build production-grade agentic systems using LLM SDKs, agent frameworks,
+    RAG, MCP servers and prompt engineering at scale
+  - Drive robust, scalable and secure AI deployments from prototype to production
+  - Act as a credible technical voice with client architects, CTOs and engineering
+    leads
+  use_cases:
+  - AI-enabled solutions embedded into client business processes
+  - Enterprise data control and actionable insights through AI and ML
+  - Production-scale agentic AI and LLM-powered systems for enterprise clients
+  - Cloud platform and software engineering delivery across regulated industries
+  - AI transformation across energy, financial services, government and telecoms sectors
+  skills:
+    genai: [Agentic Workflows, RAG, MCP, Prompt Engineering, LLMs, AI Agents]
+    ml: [Feature Engineering, Model Training, Model Evaluation, scikit-learn, PyTorch,
+      XGBoost]
+    web: [FastAPI, Event-Driven Architecture, React, Next.js, Material UI, SWR]
+    databases: [Relational Databases, NoSQL, Graph Databases]
+    data: []
+    cloud: [AWS Lambda, AWS, SageMaker, Azure ML, Vertex AI, AWS Solutions Architect,
+      Google Professional ML Engineer]
+    ops: [MLOps, Monitoring, Model Deployment, Drift Detection, CI/CD, Jest, Cypress,
+      React Testing Library, Release Management]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11267856'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:32:49.320724'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

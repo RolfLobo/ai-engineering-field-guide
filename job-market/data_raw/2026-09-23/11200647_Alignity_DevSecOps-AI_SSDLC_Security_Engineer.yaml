@@ -1,0 +1,127 @@
+job_id: 11200647
+title: DevSecOps-AI SSDLC Security Engineer
+company: Alignity
+location: Shaikpet, IND
+work_type: FULL_TIME
+company_size: 289097 Employees
+description: |
+  Do you love a career where you Experience, Grow & Contribute
+  at the same time, while earning at least 10% above the
+  market? If so, we are excited to have bumped onto you.
+
+  Learn how we are redefining the meaning of work, and be a
+  part of the team raved by Clients, Job-seekers and
+  Employees.
+
+  - Jobseeker Video Testimonials
+  - Employee Glassdoor Reviews
+
+  If you are a DevSecOps-AI SSDLC Security Engineer looking
+  for excitement, challenge and stability in your work, then
+  you would be glad to come across this page.
+
+  We are an IT Solutions Integrator/Consulting Firm helping
+  our clients hire the right professional for an exciting
+  long-term project. Here are a few details.
+
+  Check if you are up for maximizing your earning/growth
+  potential, leveraging our Disruptive Talent Solution.
+
+  Role:DevSecOps-AI SSDLC Security Engineer
+
+  Location: Hyderabad Experience:5-8 Years
+
+  Work Mode: Hybrid
+
+  Type: Contract to Hire
+
+  Notice Period:Immediate Joiners
+
+  Requirements
+
+  Description:
+
+  As a Security Engineer, you will:
+
+  - Integrate, configure, and optimize SAST, SCA, and DAST tools
+    within CI/CD pipelines to automate security testing across
+    build, test, and release stages (including quality gates
+    and exception workflows).
+  - Perform static, dynamic, and open-source dependency
+    assessments to identify vulnerabilities including OWASP
+    Top 10 risks, insecure libraries, exposed secrets,
+    misconfigurations, and software supply-chain weaknesses.
+  - Execute API security testing (REST/GraphQL) including
+    authentication/authorization validation (OAuth2/OIDC/JWT),
+    input validation, rate limiting/abuse cases, and broken
+    object/function level authorization (BOLA/BFLA), and
+    translate results into developer-ready fixes.
+  - Analyze scan results, remove false positives, prioritize
+    findings based on exploitability and business impact, and
+    provide clear, actionable remediation guidance (secure
+    coding patterns, compensating controls, and verification
+    steps).
+  - Work hands-on with developers, DevOps engineers, architects,
+    and client stakeholders to embed secure coding, secure
+    design, and shift-left security practices, including
+    playbooks, office hours, and remediation sprints.
+  - Support threat modeling and security design reviews; convert
+    threats into actionable security requirements, test cases,
+    and engineering backlog items aligned to delivery
+    timelines.
+  - Track vulnerabilities through closure, validate remediation
+    (re-scan, proof of fix, and regression checks), and ensure
+    issues are managed in line with client policy, risk
+    tolerance, and SLA expectations.
+  - Implement additional DevSecOps controls such as IaC
+    scanning, secrets detection, container image scanning, and
+    Kubernetes security checks (where applicable), including
+    policy-as-code to prevent insecure deployments.
+  - Strengthen software supply-chain security by supporting SBOM
+    generation/consumption, dependency hygiene, and
+    build/release integrity controls (e.g., artifact
+    signing/verification and provenance where applicable).
+  - Automate repeatable security tasks using scripting (e.g.,
+    Python/Bash) and integrations (APIs/webhooks) to improve
+    scan reliability, reporting, and developer workflow
+    adoption.
+  - Design and build AI agents / agentic workflows for AppSec
+    automation (e.g., triage, false-positive suppression,
+    secure code review assistance, threat-model generation,
+    remediation assistance), ensuring appropriate guardrails,
+    logging, and human-in-the-loop validation.
+  - Perform current-state assessments of client DevSecOps and
+    emerging AISecOps practices against industry standards;
+    provide prioritized recommendations and an implementation
+    roadmap.
+  - Perform security testing across modern application
+    surfaces—code, APIs, cloud, containers/Kubernetes—and,
+    where applicable, AI/ML pipelines (e.g., RAG data flows,
+    model integration points, and tool/function calling) using
+    a combination of automated and manual techniques.
+  - Produce security assessment reports, dashboards, trend
+    analysis, and root-cause insights for technical and non-
+    technical stakeholders.
+  - Contribute to secure SDLC standards aligned to recognized
+    verification frameworks such as OWASP ASVS
+  - Stay current on emerging threats, AppSec tooling trends,
+    software supply-chain risks, and new attack surfaces
+    introduced by AI-enabled applications and agentic
+    workflows.
+
+  BenefitsBenefits
+
+  Visit us at http://alignity.io/careers. Alignity Solutions
+  is an Equal Opportunity Employer, M/F/V/D.
+
+  CEO Message: Click Here
+
+  Clients Testimonial: Click Here
+industries:
+  - HR Tech
+  - Information Technology
+  - Professional Services
+  - Consulting
+posted_date: 2026-09-16
+url: "https://builtin.com/job/devsecops-ai-ssdlc-security-engineer/11200647"
+source: Built In

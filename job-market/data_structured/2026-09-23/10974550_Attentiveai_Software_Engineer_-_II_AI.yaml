@@ -1,0 +1,59 @@
+company:
+  name: Attentive.ai
+  stage: null
+  focus: |-
+    Vertical SaaS for landscape, paving & construction
+    industries
+position:
+  title: Software Engineer - II (AI)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role applies model optimization techniques
+      (quantization, pruning, knowledge distillation) and builds
+      training/inference pipelines for computer vision, NLP, and
+      multi-modal models, which is shaping model
+      behaviour/internals. There is no LLM or agent component —
+      targets are classical CV/NLP — so it is ml-first.
+  responsibilities:
+  - Own the end-to-end MLOps lifecycle from model packaging and CI/CD to deployment,
+    monitoring, and rollback for CV, NLP, and multi-modal models
+  - Design and maintain scalable training and inference pipelines optimizing for cost,
+    latency, and throughput
+  - Build and manage containerized deployment infrastructure (Docker, Kubernetes)
+    for hosted deep learning and geoprocessing services
+  - Set up experiment tracking, model registry, and versioning systems for reproducibility
+  - Implement model monitoring and observability including drift detection and performance
+    alerts
+  - Apply model optimization techniques (quantization, pruning, knowledge distillation)
+    to improve inference efficiency
+  - Collaborate with Research, Backend, and Product teams to translate research into
+    production-ready services
+  - Develop infrastructure-as-code, monitoring, and logging for deployed ML/AI software
+  use_cases:
+  - Automated construction take-off and estimation from blueprints, drawings, and
+    PDF documents
+  - Production deployment of computer vision, NLP, and multi-modal models
+  - Hosted deep learning and geoprocessing services
+  - Model monitoring and reliability for production AI systems
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, OpenCV, Hugging Face, Quantization, Deep Learning]
+    web: [Microservices]
+    databases: [PostGIS]
+    data: [Kafka, RabbitMQ]
+    cloud: [GCP, AWS, Azure]
+    ops: [MLOps, CI/CD, Docker, Kubernetes, MLflow, Weights & Biases, DVC, Monitoring,
+      Observability, Model Deployment, Infrastructure as Code, Temporal, Jenkins,
+      GitHub Actions, GitLab CI, Git]
+    languages: [Python]
+    domains: [Computer Vision, NLP]
+    other: [Jira, Geographic Information Systems, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10974550'
+  location: Noida, IND
+  extracted_at: '2026-09-23T11:10:06.971224'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

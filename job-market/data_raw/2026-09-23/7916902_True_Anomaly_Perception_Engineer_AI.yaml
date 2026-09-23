@@ -1,0 +1,134 @@
+job_id: 7916902
+title: Perception Engineer, AI
+company: True Anomaly
+location: Long Beach, USA
+work_type: FULL_TIME
+description: |
+  Space is a warfighting domain. True Anomaly seeks those with
+  the talent and ambition to build the technology that secures
+  it.
+
+  OUR MISSION
+
+  True Anomaly delivers decisive capabilities for space
+  superiority. We build autonomous spacecraft, advanced
+  payloads, mission software, and space-based interceptors —
+  enabling the U.S. and its Allies to secure the space
+  environment and counter threats from the ultimate high
+  ground.
+
+  OUR VALUES
+
+  - Be the offset. We create asymmetric advantages with
+    creativity and ingenuity.
+  - What would it take? We challenge assumptions to deliver
+    ambitious results.
+  - It’s the people. Our team is our competitive advantage and
+    we are better together.
+
+  YOUR MISSION
+
+  You will architect and deploy the perception systems that
+  enable autonomous spacecraft operations in contested
+  environments. Your algorithms will track satellites during
+  close-proximity rendezvous, reconstruct 3D geometry for
+  inspection missions, and detect threats in real-time from
+  on-orbit sensors. The neural networks you optimize will run
+  on space-qualified processors with strict power budgets. The
+  tracking filters you design will maintain custody through
+  occlusions, tumbles, and adversarial maneuvers. Your work
+  bridges cutting-edge perception research and flight-ready
+  systems that operate autonomously for months without ground
+  intervention. You will own the perception stack end-to-end:
+  from algorithm design through hardware-in-the-loop
+  validation to on-orbit operation. This is perception
+  engineering where mistakes have consequences, where your
+  code operates in vacuum, and where the systems you build
+  secure the space domain for the United States and its
+  Allies.
+
+  RESPONSIBILITIES
+
+  - Drive the architecture for the image processing, object
+    tracking, and pose estimation pipelines for the next
+    generation of Jackal spacecraft
+  - Design and implement robust perception, object detection,
+    and tracking algorithms in C++
+  - Perform statistical analysis to support algorithm
+    characterization and verification
+  - Test and verify your algorithms via software and hardware in
+    the loop simulation
+  - Work with the software team to integrate your algorithms
+    into flight software
+
+  QUALIFICATIONS
+
+  - Bachelor’s degree in computer science, robotics, or a
+    similar discipline
+  - Experienced with C/C++ and Python
+  - 2+ years of experience with implementing perception and
+    tracking algorithms deployed in real world systems
+  - Demonstrated ability to work in a multidisciplinary team and
+    solve complex problems with first principles approaches
+  - Passion for spaceflight and advancing capabilities related
+    to space domain awareness and space security
+  - U.S. Citizen and eligible for DoD Secret or TS/SCI clearance
+
+  PREFERRED SKILLS AND EXPERIENCE
+
+  - Master’s or PhD in computer science, robotics, or a similar
+    discipline
+  - 2+ years of professional experience writing high-
+    reliability, production C/C++ code
+  - Deep technical expertise in one or more of the following:
+    SLAM, nonlinear filtering, image processing, object
+    detection, computer vision, pose estimation
+
+  COMPENSATION
+
+  - Base Salary: $125,000 - $270,000
+  - Equity + Benefits including Health, Dental, Vision, HRA/HSA
+    options, PTO and paid holidays, 401K, Parental Leave
+
+  Your actual level and base salary will be determined on a
+  case-by-case basis and may vary based on the following
+  considerations: job-related knowledge and skills, education,
+  location, and experience.
+
+  ADDITIONAL REQUIREMENTS
+
+  - Work Location— This is an onsite role, we are seeking only
+    candidates based near Denver, CO or Long Beach, CA.
+  - Work environment—the work environment; temperature, noise
+    level, inside or outside, or other factors that will
+    affect the person's working conditions while performing
+    the job.
+  - Physical demands—the physical demands of the job, including
+    bending, sitting, lifting and driving.
+
+  This position will be open until it is successfully filled.
+  To submit your application, please follow the directions
+  below.  #LI-Onsite
+
+  To conform to U.S. Government space technology export
+  regulations, including the International Traffic in Arms
+  Regulations (ITAR) you must be a U.S. citizen, lawful
+  permanent resident of the U.S., protected individual as
+  defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the
+  required authorizations from the U.S. Department of State.
+
+  True Anomaly is committed to equal employment opportunity on
+  any basis protected by applicable state and federal laws. If
+  you have a disability or additional need that requires
+  accommodation, please do not hesitate to let us.
+industries:
+  - Aerospace
+  - Artificial Intelligence
+  - Hardware
+  - Machine Learning
+  - Software
+  - Defense
+  - Manufacturing
+posted_date: 2026-08-24
+url: "https://www.builtinla.com/job/navigation-tracking-engineer/7916902"
+source: Built In

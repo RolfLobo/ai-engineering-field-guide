@@ -1,0 +1,60 @@
+company:
+  name: Simpplr
+  stage: null
+  focus: AI-powered employee intranet and digital workplace platform
+position:
+  title: Lead Voice AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-based voice agents end-to-
+      end, including multi-turn agent conversations, tool calling,
+      RAG/orchestration (LangGraph), and evaluation frameworks for
+      intent accuracy and response quality. This is shaping LLM-
+      driven agent behaviour, so it is ai-first.
+  responsibilities:
+  - Design and build the real-time voice runtime for live conversations
+  - Build and optimize streaming ASR, TTS, VAD, endpointing, turn-taking, and barge-in
+  - Architect multi-provider multilingual speech routing with real-time language detection
+    and fallback chains
+  - Develop multi-turn, multi-intent Voice Agents with context switching, clarification,
+    and recovery
+  - Integrate Voice Agents with enterprise workflows, APIs, CRM, ITSM, and knowledge
+    bases
+  - Build identity verification, consent, privacy, audit, and compliance controls
+  - Implement warm transfer, callback, queue routing, and human handoff with full
+    context
+  - Build evaluation frameworks and production observability across ASR, LLM, tools,
+    and TTS
+  - Mentor engineers and lead technical design reviews for the Voice AI platform
+  use_cases:
+  - Real-time voice agents for frontline workers in healthcare, manufacturing, warehousing,
+    retail, and hospitality
+  - Employee support, procurement, collections, logistics, and ordering via voice
+  - Multilingual and code-switching conversations with human handoff and warm transfer
+  - Grounded knowledge retrieval and enterprise workflow execution by voice
+  - Compliant identity verification and secure call handling
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, RAG, LangGraph,
+      OpenAI API, Azure Speech, Google Speech, Deepgram, ElevenLabs]
+    ml: [Speech Recognition, Text-to-Speech]
+    web: [APIs, WebSockets, WebRTC]
+    databases: []
+    data: []
+    cloud: [Cloud-Native Platforms]
+    ops: [Observability, Monitoring, Distributed Systems]
+    languages: [Python, Java, Go]
+    domains: [Conversational AI]
+    other: [LiveKit, Twilio, SIP, RTP, Salesforce, ServiceNow, Jira, Zendesk, Workday,
+      SaaS, Voice Activity Detection, Noise Cancellation, PII Redaction]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10996822'
+  location: Gurugram, IND
+  locations:
+  - Gurugram, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:11:30.817132'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

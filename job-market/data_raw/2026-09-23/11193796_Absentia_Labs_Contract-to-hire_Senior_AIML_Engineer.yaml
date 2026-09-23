@@ -1,0 +1,147 @@
+job_id: 11193796
+title: "Contract-to-hire: Senior AI/ML Engineer"
+company: Absentia Labs
+location: Austin, USA
+locations:
+  - Austin, USA
+  - Seattle, USA
+  - San Jose, USA
+  - Boston, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 7 Employees
+description: |
+  About Absentia Labs
+
+  Absentia Labs is building intelligent systems that sit at
+  the intersection of AI, biology, chemistry, and large-scale
+  engineering. Our goal is to translate complex scientific
+  data into machine intelligence capable of reasoning,
+  generalizing, and driving discovery.
+
+  Biomedical data is fragmented, noisy, and deeply
+  interconnected. Turning it into a useful signal requires not
+  only strong data foundations but also carefully designed
+  learning systems that can scale across modalities, tasks,
+  and uncertainty regimes. This role focuses on building and
+  training those systems.
+
+  The Role
+
+  As a Senior AI/ML Engineer, you will lead the design,
+  training, and deployment of large-scale machine learning
+  models that form the core of Absentia Labs’ AI capabilities.
+  You will work at the boundary between model architecture,
+  training systems, and production infrastructure, with
+  significant ownership over technical direction.
+
+  This role is intended for engineers who have trained large
+  models in real production environments, understand the
+  realities of scale, and can reason about both learning
+  dynamics and systems constraints.
+
+  What You’ll Do
+
+  - Design, train, and evaluate large-scale models, including
+    Large Language Models (LLMs), diffusion models, and Graph
+    Neural Networks (GNNs).
+  - Own end-to-end training pipelines, from dataset interfaces
+    and batching strategies to distributed training and
+    checkpointing.
+  - Make principled decisions about model architecture,
+    objective functions, optimization strategies, and scaling
+    laws.
+  - Build and optimize distributed training systems (data
+    parallelism, model parallelism, sharding, mixed
+    precision).
+  - Collaborate closely with data engineers to define ML-ready
+    datasets and streaming interfaces.
+  - Translate ambiguous scientific or product requirements into
+    robust ML solutions.
+  - Drive model evaluation, ablation, and iteration with a focus
+    on generalization, stability, and reproducibility.
+  - Contribute to architectural decisions around model serving,
+    inference efficiency, and lifecycle management.
+  - Provide technical leadership through design reviews,
+    mentorship, and cross-team collaboration.
+
+  Who You Are
+
+  You are a senior ML engineer who thinks holistically about
+  models as systems. You are comfortable operating under
+  uncertainty, making trade-offs between compute, data, and
+  performance, and owning outcomes from research through
+  production.
+
+  You care deeply about training dynamics, failure modes, and
+  scaling behavior, and you have the scars to prove it.
+
+  You Likely Have
+
+  - 5+ years of industry experience in machine learning or
+    applied AI roles.
+  - Demonstrated experience training large-scale models in
+    production settings, not just prototypes.
+  - Hands-on expertise with LLMs, diffusion models, and/or GNNs.
+  - Strong proficiency in PyTorch (or equivalent deep learning
+    frameworks).
+  - Deep understanding of distributed training, including
+    parallelism strategies and performance optimization.
+  - Experience working with large datasets and high-throughput
+    data pipelines.
+  - Strong software engineering fundamentals: clean code,
+    testing, reproducibility, and debugging at scale.
+  - Ability to clearly communicate technical trade-offs to both
+    technical and non-technical stakeholders.
+
+  Bonus If You Have
+
+  - Experience with reinforcement learning, fine-tuning, or
+    preference-based optimization (e.g., RLHF).
+  - Familiarity with model compression, distillation, or
+    inference optimization.
+  - Experience deploying models in production inference systems.
+  - Exposure to multimodal learning or foundation models.
+  - Prior work in startups or fast-moving R&D environments.
+  - Contributions to open-source ML frameworks or research
+    codebases.
+
+  Note: Prior experience with molecular or biomedical models
+  is not required. We value strong ML systems experience and
+  the ability to transfer learning across domains.
+
+  What We Offer
+
+  - Competitive compensation, including meaningful equity
+    participation, allows you to share directly in the long-
+    term success and growth of the company.
+  - The opportunity to work on foundation-level ML systems
+    applied to real scientific problems.
+  - Ownership over model design and training strategy, not just
+    implementation.
+  - Close collaboration with data, infrastructure, and
+    scientific teams.
+  - High autonomy, low bureaucracy, and a culture that values
+    technical depth.
+  - Flexible remote or hybrid work arrangements.
+
+  How to Apply
+
+  Please submit your resume and a brief note describing your
+  experience training large-scale models. Links to GitHub
+  repositories, papers, or technical write-ups are encouraged.
+
+  Our Commitment
+
+  Absentia Labs is an equal opportunity employer. We believe
+  diverse teams build better systems and stronger science, and
+  we encourage applicants from all backgrounds to apply.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Biotech
+  - Pharmaceutical
+posted_date: 2026-09-15
+url: "https://builtin.com/job/contract-hire-senior-ai-ml-engineer/11193796"
+source: Built In

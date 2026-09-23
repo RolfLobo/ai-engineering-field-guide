@@ -1,0 +1,53 @@
+company:
+  name: WISEcode
+  stage: null
+  focus: Food intelligence and nutrition AI platform
+position:
+  title: Senior Software Quality Engineer – AI Automation Tester
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds QA/testing automation infrastructure; AI/LLM
+      tooling is used to assist test generation and triage, but
+      the person does not shape model behavior, prompts,
+      retrieval, or agent flows as the product. AI is a tool to
+      accelerate testing workflows, making this ai-support.
+  responsibilities:
+  - Design and implement AI-augmented UI testing frameworks for ASP.NET using LLM-assisted
+    test generation
+  - Build end-to-end testing infrastructure with Playwright, Selenium, or equivalent,
+    with AI-driven test authoring and self-healing selectors
+  - Develop API and integration test suites for ASP.NET services using AI tooling
+    to generate edge cases
+  - Create reusable testing abstractions and patterns scalable across teams
+  - Build automated validation around complex nutrition and food intelligence computations,
+    including testing AI/ML-driven outputs
+  - Integrate automated testing into CI/CD workflows with AI-assisted triage of failures
+    and flaky tests
+  - Define quality metrics, failure visibility, and release readiness standards
+  - Investigate intermittent failures, race conditions, and environment inconsistencies
+  use_cases:
+  - Automated quality assurance for a food intelligence and nutrition platform
+  - Automated validation of nutrition and food computation pipelines
+  - Testing AI/ML-assisted workflow outputs
+  - End-to-end and regression testing of stateful Blazor web applications
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: []
+    web: [Playwright, Selenium, ASP.NET, Blazor, Cypress]
+    databases: [PostgreSQL, DuckDB, MotherDuck]
+    data: []
+    cloud: []
+    ops: [CI/CD, Observability]
+    languages: [C#]
+    domains: []
+    other: [Performance Testing, Load Testing, Automated Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10899156'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:05:25.943353'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

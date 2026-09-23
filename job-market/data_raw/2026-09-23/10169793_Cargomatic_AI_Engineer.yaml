@@ -1,0 +1,111 @@
+job_id: 10169793
+title: AI Engineer
+company: Cargomatic
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  AI Engineer – Agentic Automation Location: Remote
+  Compensation: $150,000 – $210,000 Join a rapidly growing
+  company disrupting the trucking industry! Cargomatic is the
+  #1 technology platform and digital marketplace for powering
+  world-class, local trucking. Take a look around you.
+  Literally everything humans build, grow, or sell has spent
+  time on a truck. Local trucking is the lifeblood of every
+  regional economy, and yet this $82 billion industry still
+  relies heavily on phone calls and fax machines. Cargomatic
+  is transforming the way goods move around every local node
+  in the supply chain by connecting shippers and commercial
+  truck drivers with mobile technology. We are solving
+  complex, real-world problems every day, and giving full
+  transparency to the shipping process. Cargomatic is seeking
+  a highly hands-on AI Engineer who thrives in fast-paced
+  environments and is passionate about rapid prototyping and
+  deploying standalone AI-driven applications. This role
+  focuses on building agentic AI systems and automation tools
+  that integrate with our ecosystem and deliver immediate
+  business value — working alongside a live TMS and RPA stack,
+  with real exception-handling and audit requirements. You
+  will work at the intersection of AI, product development,
+  and infrastructure — quickly turning ideas into working
+  prototypes and scaling the most promising solutions into
+  production. Key Responsibilities
+  - Design agentic AI workflows for structured logistics
+    operations, with clear escalation paths to human review or
+    RPA where deterministic handling is required
+  - Call core platform/internal APIs to integrate automation
+    workflows into our TMS and other internal systems,
+    partnering with front-end and backend engineering on
+    execution
+  - Integrate LLMs, APIs, and data pipelines into reliable
+    production services — including data engineering tie-ins
+    with systems like Firestore and Redshift
+  - Build and implement agentic AI systems capable of autonomous
+    decision-making and task execution
+  - Own evaluation frameworks — accuracy, latency, cost per
+    call, fallback behavior, and exception handling
+  - Implement guardrails, monitoring, and audit trails for
+    production AI systems
+  - Collaborate with Product and Ops to define success metrics
+    before building
+  - Leverage modern LLM ecosystems, including Claude-based and
+    code-first AI frameworks, to build intelligent agents and
+    workflows
+  - Stay current with advancements in AI/ML, especially in agent
+    frameworks and automation tooling
+  - Build lightweight frontend interfaces from product
+    prototypes, and partner with full-stack engineering to
+    productionize and scale successful prototypes
+  Required
+  - 3+ years in software engineering with hands-on experience
+    shipping AI or automation systems in production enterprise
+    environments
+  - Strong grasp of agentic AI concepts — tool use, function
+    calling, exception routing, and confidence handling at
+    scale
+  - Clear understanding of where LLMs and agentic systems
+    outperform RPA — and where they don't
+  - Comfortable working alongside RPA developers — understands
+    how to hand off structured outputs into downstream
+    deterministic workflows
+  - Experience with LLM APIs (Claude, OpenAI) including prompt
+    design, orchestration, and evaluation
+  - Workflow orchestration experience — n8n, LangChain,
+    Temporal, or similar
+  - Familiarity with no-code/low-code automation tools including
+    Zapier, with the ability to know when to move beyond them
+  - Experience building rules-based automation with structured
+    inputs, exception handling, and audit trails
+  - Familiarity with RAG and vector databases
+  - Experience integrating with TMS or ERP platforms, including
+    calling core platform/internal APIs to execute production
+    actions
+  - Backend proficiency in Node.js; comfort with React for
+    building lightweight interfaces; comfortable partnering
+    with full-stack and data engineering teams to ship into
+    production systems
+  - AWS experience (Lambda, ECS, S3)
+  - Familiarity with databases and data warehouses such as
+    MongoDB, RDS (PostgreSQL/MySQL), Firestore, and Redshift
+  - Experience integrating third-party APIs and building
+    microservices
+  - Active GitHub or demonstrated track record of shipping AI
+    systems in production beyond the prototype stage
+  Benefits & Perks Competitive compensation Medical, dental,
+  and vision benefits 401K company match program Flexible paid
+  time off (PTO) and paid holidays
+
+  Equal Opportunity Employer
+
+  Cargomatic is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees.
+industries:
+  - Logistics
+  - Software
+  - Transportation
+  - "3PL: Third Party Logistics"
+  - App development
+posted_date: 2026-08-09
+url: "https://www.builtinla.com/job/ai-engineer/10169793"
+source: Built In

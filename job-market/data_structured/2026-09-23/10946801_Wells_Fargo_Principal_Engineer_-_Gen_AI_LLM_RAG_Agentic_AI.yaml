@@ -1,0 +1,51 @@
+company:
+  name: Wells Fargo
+  stage: null
+  focus: Large diversified financial services and banking
+position:
+  title: Principal Engineer - Gen AI, LLM, RAG, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires deep GenAI stack expertise including LLMs,
+      RAG, prompt engineering, fine-tuning, agentic AI/multi-agent
+      architectures, and building AI evaluations and guardrails —
+      all activities that directly shape model behaviour and
+      output quality. With LLM and agent components central, this
+      is ai-first.
+  responsibilities:
+  - Advise leadership on applications, security, database, and web technologies for
+    complex enterprise needs
+  - Lead strategy and resolution of highly complex, large-scale technical challenges
+    across the enterprise
+  - Translate business objectives and technological opportunities into engineering
+    solutions
+  - Provide vision and expertise on implementing innovative business solutions
+  - Track industry best practices and recommend new technologies for competitive advantage
+  - Serve as expert advisor to leadership across the enterprise
+  use_cases:
+  - Enterprise GenAI applications with LLM and RAG pipelines
+  - Agentic AI platforms with multi-agent orchestration and autonomous execution
+  - AI evaluation, benchmarking, and model quality assurance
+  - GenAI governance, compliance, and risk controls
+  - GenAI security including prompt injection and jailbreak mitigations
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Agentic Workflows, Multi-Agent Systems,
+      Function Calling, LLM Evaluation, Guardrails, Red Teaming]
+    ml: [Fine-Tuning]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [LLMOps, Observability, Model Deployment]
+    languages: []
+    domains: []
+    other: [Responsible AI, OWASP LLM Top 10, MITRE ATLAS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10946801'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:08:17.875374'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

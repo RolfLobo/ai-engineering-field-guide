@@ -1,0 +1,136 @@
+job_id: 11202862
+title: Senior AI/ML Engineer
+company: N-iX
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 2,135 Employees
+description: |
+  We are looking for a Senior AI/ML Engineer to design,
+  develop, and enhance AI-driven solutions within the Palantir
+  Foundry and AIP ecosystem.
+
+  In this role, you will take ownership of developing
+  production-ready machine learning and LLM-based solutions,
+  from understanding business needs and exploring data to
+  designing technical approaches, implementing solutions, and
+  integrating them into Foundry workflows. You will work
+  closely with data engineers, business analysts, and domain
+  experts, contribute to technical decisions, and help
+  establish best practices for building scalable and reliable
+  AI solutions.
+
+  Key Responsibilities:
+
+  - Design and develop AI/ML solutions for predictive analytics,
+    classification, forecasting, automation, and AI-assisted
+    workflows within Palantir Foundry, leveraging Python,
+    Ontology objects, pipelines, and workflows.
+  - Design, implement, evaluate, and optimize LLM/NLP and RAG
+    solutions using Palantir AIP, including prompt
+    engineering, embeddings, retrieval strategies, vector
+    search, and text processing.
+  - Own the end-to-end lifecycle of AI solutions, from
+    experimentation and model development to deployment,
+    monitoring, and continuous improvement.
+  - Collaborate with data engineers to understand data sources,
+    ensure data quality, and design efficient and scalable
+    data processing approaches.
+  - Integrate AI solutions into production workflows and
+    optimize them for accuracy, reliability, latency,
+    scalability, and cost-efficiency.
+  - Contribute to technical architecture and design decisions,
+    including model, framework, and tool selection;
+    proactively identify technical risks, improvement
+    opportunities and proactively propose solutions.
+  - Work with business and domain stakeholders to translate
+    business needs into practical, scalable, and production-
+    ready AI solutions, clearly communicating technical
+    decisions and model limitations.
+  - Identify technical risks, limitations, and opportunities for
+    improvement and proactively propose solutions.
+
+  Requirements:
+
+  - 4+ years of experience in machine learning, AI engineering,
+    applied data science, or related fields.
+  - Strong Python skills and hands-on experience with ML
+    frameworks such as scikit-learn, XGBoost, TensorFlow, or
+    PyTorch.
+  - Strong practical experience with LLMs, NLP, or GenAI
+    applications, including prompt engineering, embeddings,
+    text processing, summarization, or similar use cases.
+  - Solid hands-on experience designing and implementing RAG
+    architectures, vector databases, and retrieval strategies.
+  - Strong understanding of the ML lifecycle, including data
+    preparation, feature engineering, model development,
+    evaluation, deployment, and monitoring.
+  - Experience working with both structured and unstructured
+    data, including tabular data, time series, text, and
+    documents.
+  - Ability to independently analyze ambiguous problems, propose
+    technical approaches, and drive solutions from concept to
+    implementation.
+  - Strong communication skills, with the ability to explain AI
+    concepts, technical decisions, and model behavior to non-
+    technical stakeholders.
+  - Upper-Intermediate English or higher.
+
+  Nice to Have:
+
+  - Proficiency in Foundry Ontology, Object Builders, and Code
+    Repositories.
+  - Experience in big pharma or highly regulated industries.
+  - Knowledge of data privacy, compliance, and security best
+    practices in AI applications.
+  - Familiarity with cloud platforms (AWS, GCP, or Azure) and
+    containerization (Docker, Kubernetes)
+
+  We offer*:
+
+  - Flexible working format - remote, office-based or flexible
+  - A competitive salary and good compensation package
+  - Personalized career growth
+  - Professional development tools (mentorship program, tech
+    talks and trainings, centers of excellence, and more)
+  - Active tech communities with regular knowledge sharing
+  - Education reimbursement
+  - Memorable anniversary presents
+  - Corporate events and team buildings
+  - Other location-specific benefits
+
+  *not applicable for freelancers
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-ai-ml-engineer/11202862"
+source: Built In

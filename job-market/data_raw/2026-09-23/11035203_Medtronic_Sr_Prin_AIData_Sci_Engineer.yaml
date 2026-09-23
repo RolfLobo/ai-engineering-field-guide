@@ -1,0 +1,258 @@
+job_id: 11035203
+title: Sr Prin AI/Data Sci Engineer
+company: Medtronic
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 80,303 Employees
+description: |
+  Careers that change lives start here. Medtronic is a global
+  leader in healthcare technology with a Mission to alleviate
+  pain, restore health, and extend life. Our 95,000 employees
+  work across more than 150 countries to put patients first —
+  developing innovative medical technologies that improve the
+  lives of 72+ million patients each year. Your unique talents
+  will help shape the future of healthcare while building a
+  career grounded in purpose, growth, and impact.
+
+  A Day in the LifeWe are seeking a Senior Principal AI/Data
+  Science Engineer specializing in Generative AI, Large
+  Language Models (LLMs), Agentic AI, and Enterprise AI
+  Platforms to lead the next generation of AI-enabled
+  healthcare solutions. This role serves as the organization's
+  technical authority for Generative AI, driving enterprise-
+  wide AI strategy, architecture, innovation, governance, and
+  deployment of scalable AI solutions across product
+  engineering, clinical applications, digital health, quality,
+  regulatory, and operational functions. The role requires
+  deep expertise in Generative AI technologies and the ability
+  to influence executive stakeholders, research teams, product
+  organizations, and engineering functions to accelerate AI
+  adoption while ensuring safety, compliance, explainability,
+  and measurable business impact.
+
+  A Day in the Life
+
+  As a Senior Principal Generative AI SME, you will:
+
+  - Partner with executive leadership, R&D, product management,
+    clinical experts, and software engineering organizations
+    to define and execute enterprise Generative AI strategy.
+  - Serve as the technical lead for Generative AI initiatives
+    spanning healthcare products, clinical decision support,
+    software development lifecycle acceleration, regulatory
+    automation, digital health, and operational
+    transformation.
+  - Architect enterprise-scale AI platforms leveraging Large
+    Language Models, Agentic AI systems, Retrieval-Augmented
+    Generation (RAG), Knowledge Graphs, AI Agents, and
+    multimodal foundation models.
+  - Drive AI innovation programs by identifying high-value
+    opportunities where Generative AI can improve patient
+    outcomes, engineering productivity, quality, and business
+    efficiency.
+  - Define reference architectures, governance models, AI
+    platform standards, design patterns, and reusable
+    frameworks for enterprise adoption.
+  - Lead design reviews, architecture assessments, and technical
+    evaluations of Generative AI solutions across business
+    units.
+  - Collaborate with domain experts in Neuroscience,
+    Cardiovascular, Medical Surgical and organizations to
+    develop domain-specific AI solutions.
+  - Guide teams in fine-tuning foundation models and building
+    healthcare-specific LLM solutions using enterprise and
+    clinical datasets.
+  - Establish best practices for Prompt Engineering, AI Agents,
+    RAG pipelines, semantic search, vector databases, AI
+    observability, and model lifecycle management.
+  - Lead exploration of emerging technologies including Agentic
+    AI, AI Copilots, Digital Twins, Knowledge Graph AI,
+    Multimodal AI, and Autonomous Reasoning Systems.
+  - Drive implementation of AI governance frameworks addressing
+    transparency, explainability, bias mitigation, risk
+    management, security, and regulatory compliance.
+  - Mentor principal engineers, data scientists, AI engineers,
+    and technical leaders while building organizational
+    capability in Generative AI.
+  - Represent the organization in innovation councils, technical
+    forums, conferences, research partnerships, and external
+    collaborations.
+  - Partner with cloud, security, infrastructure, and platform
+    engineering teams to enable scalable and secure AI
+    deployments.
+  - Evaluate emerging LLMs, foundation models, open-source AI
+    ecosystems, and AI tooling to establish enterprise AI
+    roadmaps.
+  - Define and monitor AI success metrics, model quality
+    measures, adoption KPIs, and business-impact indicators.
+
+  Responsibilities may include the following and other duties
+  may be assigned:
+
+  - AI Strategy & Innovation
+    - Define and drive enterprise Generative AI vision, strategy,
+      roadmap, and adoption framework.
+    - Identify transformational AI opportunities across healthcare
+      products, clinical workflows, software engineering,
+      quality systems, and business operations.
+    - Lead AI innovation initiatives from concept through
+      production deployment.
+
+  - Generative AI Architecture
+    - Architect scalable AI platforms supporting: Large Language
+      Models (LLMs), Small Language Models (SLMs), Retrieval
+      Augmented Generation (RAG), Agentic AI Systems,
+      Multimodal AI Models, Knowledge Graph AI, AI Copilots,
+      Autonomous Workflows, AI Orchestration Platforms
+
+  - Model Development & Fine-Tuning
+    - Lead adaptation and fine-tuning of foundation models for
+      healthcare-specific use cases.
+    - Develop domain-specific AI solutions using enterprise,
+      regulatory, engineering, and clinical knowledge.
+    - Establish enterprise standards for model benchmarking,
+      evaluation, validation, and continuous improvement.
+
+  - Enterprise AI Platform Leadership
+    - Develop reusable AI frameworks, accelerators, and reference
+      implementations.
+    - Define enterprise architecture standards for AI deployment,
+      observability, governance, security, and compliance.
+    - Drive platform modernization using cloud-native AI
+      architectures.
+
+  - AI Governance & Responsible AI
+    - Ensure AI solutions comply with healthcare regulations and
+      enterprise governance requirements.
+    - Champion responsible AI principles including fairness,
+      transparency, explainability, safety, traceability, and
+      human oversight.
+    - Establish model monitoring, risk management, and AI audit
+      readiness processes.
+
+  - Technical Leadership
+    - Serve as the highest-level technical authority for
+      Generative AI initiatives.
+    - Conduct architecture reviews and technical assessments.
+    - Mentor engineering and AI teams globally.
+    - Influence technical direction across product portfolios and
+      operating units.
+
+  Required Knowledge and Experience
+
+  - B.E/B.Tech/Master's or PhD in: Computer Science/Artificial
+    Intelligence/Machine Learning/Data Science/Computational
+    Statistics/Applied Mathematics/Related quantitative
+    discipline
+  - 15+ years of software engineering, AI, machine learning, or
+    data science experience.
+  - 8+ years developing machine learning and AI systems.
+  - 5+ years specializing in Generative AI technologies.
+  - Demonstrated leadership in enterprise-scale AI
+    transformation initiatives.
+  - Proven experience architecting and deploying production-
+    grade AI platforms.
+
+  Required Technical Expertise
+
+  - Generative AI & Foundation Models
+    - GPT Family, Llama Models, Mistral, Claude, Gemini, DeepSeek
+    - Med-PaLM, BioGPT, MedBERT, T5
+    - Transformer Architectures
+  - Advanced AI Techniques
+    - Retrieval-Augmented Generation (RAG), GraphRAG, Knowledge
+      Graphs
+    - Agentic AI, Multi-Agent Systems, Prompt Engineering, Fine-
+      Tuning (SFT, PEFT, LoRA)
+    - Reinforcement Learning from Human Feedback (RLHF), Synthetic
+      Data Generation, Multimodal AI
+  - AI Frameworks & Platforms
+    - PyTorch, TensorFlow, Hugging Face, LangChain, LlamaIndex,
+      Semantic Kernel, AutoGen, CrewAI, Copilot Studio, Azure
+      AI Foundry
+  - Data Science & Analytics
+    - Python, NLP, Statistical Modeling, Feature Engineering,
+      Model Evaluation, Data Pipelines, Experiment Tracking
+  - Cloud & MLOps
+    - Azure AI Services, AWS AI/ML Services, Google Vertex AI,
+      Kubernetes, Docker, MLFlow, CI/CD for AI Systems, AI
+      Observability Platforms
+  - Vector Databases
+    - Pinecone, Weaviate, Qdrant, Chroma, Azure AI Search
+
+  Nice to Have
+
+  - Experience in medical devices, digital health, or regulated
+    healthcare environments.
+  - Publications, patents, or research contributions in AI/ML,
+    healthcare AI, or Generative AI.
+  - Knowledge of FDA guidance, ISO 13485, IEC 62304, IEC 82304,
+    and SaMD frameworks.
+  - Experience building AI solutions for:
+    - Clinical Decision Support
+    - Regulatory Documentation
+    - Software Development Copilots
+    - Digital Twin Platforms
+    - Biomedical Research
+    - Healthcare Knowledge Management
+
+  - Experience leading enterprise AI Centers of Excellence
+    (CoE).
+
+  Impact of the Role
+
+  - This position serves as the organization's Principal
+    Generative AI authority, shaping AI strategy, enterprise
+    architecture, innovation initiatives, governance
+    frameworks, and next-generation healthcare solutions while
+    enabling responsible adoption of AI technologies at scale.
+
+  Physical Job Requirements The above statements are intended
+  to describe the general nature and level of work being
+  performed by employees assigned to this position, but they
+  are not an exhaustive list of all the required
+  responsibilities and skills of this position.
+
+  ‌
+
+  Recruitment Fraud Alert
+
+  We are aware of phishing scams targeting job seekers. Please
+  keep the following in mind:
+
+  Apply only through official Medtronic channels. All
+  legitimate Medtronic recruiting communications come from
+  approved Medtronic platforms and official @medtronic.com
+  email addresses.
+
+  Medtronic will never ask for payment or sensitive personal
+  information (such as bank account or Social Security
+  details) during early stages of the hiring process. Any such
+  requests are not legitimate.
+
+  If you receive a suspicious message claiming to be from
+  Medtronic, do not respond, click links, or open attachments.
+
+  If you have any questions, concerns regarding the
+  authenticity of a communication alleged to have been made by
+  or on behalf of Medtronic, please contact us immediately at
+  AskHR@medtronic.com.
+
+  ‌
+
+  Benefits & Compensation
+
+  Medtronic offers a competitive Salary and flexible Benefits
+  Package A commitment to our employees lives at the core of
+  our values. We recognize their contributions. They share in
+  the success they help to create.  We offer a wide range of
+  benefits, resources, and competitive compensation plans
+  designed to support you at every career and life stage.
+
+
+  This position is eligible for a short-term incentive called
+  the Medtronic Incentive Plan (MIP).
+posted_date: 2026-09-07
+url: "https://builtin.com/job/sr-prin-ai-data-sci-engineer/11035203"
+source: Built In

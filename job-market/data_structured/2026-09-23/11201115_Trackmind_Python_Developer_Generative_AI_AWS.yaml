@@ -1,0 +1,54 @@
+company:
+  name: Trackmind
+  stage: null
+  focus: Technology solutions and consulting services
+position:
+  title: Python Developer – Generative AI & AWS
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM applications: prompt
+      workflows, embeddings, semantic search, RAG, and document
+      chunking strategies for retrieval. This is directly shaping
+      LLM behavior and output quality, so it is ai-first.
+  responsibilities:
+  - Design, develop, test, and maintain scalable backend applications and REST APIs
+    using Python
+  - Integrate Python applications with AWS services including Lambda, S3, API Gateway,
+    ECS, EKS, DynamoDB, RDS, SQS, SNS, and IAM
+  - Develop AI-powered applications using LLMs such as GPT and Cohere
+  - Build and optimize prompt workflows, embeddings, semantic search, and RAG solutions
+  - Implement document-processing pipelines with chunking, segmentation, tokenization,
+    and metadata enrichment
+  - Design and optimize document chunking strategies (fixed-size, recursive, semantic,
+    context-aware)
+  - Develop event-driven microservices and package/deploy applications with Docker
+    on ECS/EKS
+  - Develop and maintain CI/CD pipelines and monitor application performance in production
+  use_cases:
+  - LLM-powered applications using GPT and Cohere
+  - RAG solutions with semantic search and embeddings
+  - Document-processing pipelines with chunking and metadata enrichment
+  - Scalable backend microservices on AWS
+  - Event-driven document and data workflows
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, Embeddings, Semantic Search,
+      RAG, OpenAI API, Cohere, LangChain, LangGraph]
+    ml: []
+    web: [REST APIs, Microservices, React, Angular]
+    databases: [SQL, Relational Databases, PostgreSQL, Vector Databases, Pinecone,
+      Qdrant, Weaviate]
+    data: [Kafka]
+    cloud: [AWS, AWS Lambda, AWS S3, API Gateway, ECS, EKS, DynamoDB, IAM, CloudWatch]
+    ops: [Docker, CI/CD, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11201115'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:25:54.834605'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

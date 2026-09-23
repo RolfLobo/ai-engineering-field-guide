@@ -1,0 +1,53 @@
+company:
+  name: Boston Dynamics
+  stage: null
+  focus: Advanced robotics, humanoid robots
+position:
+  title: Atlas Research Engineer, SLAM & Spatial AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes vision-language/VLA model behaviour by
+      integrating them with 3D spatial perception and grounding
+      language/vision into geometry, and builds the reconstruction
+      pipelines that supervise VLM/VLA training. Per the rules, a
+      role shaping both LLM-based and classical ML systems is ai-
+      first.
+  responsibilities:
+  - Design and implement real-time SLAM and perception-based state estimation for
+    a mobile humanoid and data collection devices
+  - Build offline 3D reconstruction pipelines (SfM, MVS, neural reconstruction, depth/pose
+    fusion) that produce geometric data to supervise VLM/VLA training
+  - Research integrating large VLA and VLM models with 3D spatial perception for language-grounded
+    scene reasoning
+  - Bridge classical geometric estimation methods with learned approaches
+  - Write production-quality C++ and Python code in a large codebase
+  - Rapidly test perception systems on Atlas humanoid hardware
+  use_cases:
+  - Real-time spatial perception and state estimation for a humanoid robot in unstructured
+    environments
+  - Language-grounded 3D scene reasoning for learned robot policies
+  - Geometric scene reconstruction to train and supervise large vision-language and
+    vision-language-action models
+  - Spatial grounding to improve robot manipulation and long-horizon behavior
+  skills:
+    genai: [VLM, VLA]
+    ml: [PyTorch, JAX, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C++, Python]
+    domains: [Robotics, Computer Vision, NLP]
+    other: [SLAM, Visual-Inertial Odometry, 3D Reconstruction, Structure from Motion,
+      Multi-View Stereo, Neural Reconstruction, Sensor Fusion, Factor Graphs, Lie
+        Groups, Nonlinear Optimization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9955862'
+  location: Fatepura, IND
+  extracted_at: '2026-09-23T11:39:34.571687'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

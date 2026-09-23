@@ -1,0 +1,59 @@
+company:
+  name: Photon
+  stage: null
+  focus: Digital IT services and AI consulting firm
+position:
+  title: AI Engineer – Agentic AI | Offshore
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and shapes LLM agent behavior: prompts,
+      tool calling, structured outputs, agent state orchestration,
+      RAG design, and evaluation of agent responses. These are
+      core shaping activities on LLM/agent systems, so it is ai-
+      first.
+  responsibilities:
+  - Design and develop AI agents, super-agent/sub-agent architectures, and agentic
+    workflows using Python, LangChain, and LangGraph
+  - Build production-ready AI solutions on Amazon Bedrock
+  - Design prompts, tool definitions, structured outputs, agent state, and workflow
+    orchestration
+  - Build RAG-based solutions using embeddings, vector databases/search, and enterprise
+    knowledge sources
+  - Implement reliability mechanisms including error handling, retries, validation,
+    fallbacks, and guardrails
+  - Test, evaluate, and improve agent responses for accuracy, reliability, and consistency
+  - Develop clean, scalable Python services and APIs
+  - Deploy and integrate AI solutions into AWS cloud environments
+  use_cases:
+  - Multi-step business workflow automation via super-agent/sub-agent architectures
+  - Tool calling and API invocation agents for information retrieval and task execution
+  - Enterprise knowledge retrieval using RAG over vector databases
+  - Integration of AI agents with enterprise applications and external services
+  - Production deployment of AI solutions in AWS environments
+  skills:
+    genai: [LangChain, LangGraph, AI Agents, Agentic Workflows, Generative AI, LLMs,
+      Prompt Engineering, Function Calling, Structured Outputs, RAG, Embeddings, Vector
+        Search, Guardrails, MCP, LLM Evaluation]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS Bedrock, AWS Lambda, AWS S3, API Gateway, DynamoDB, IAM, CloudWatch,
+      AWS]
+    ops: [Docker, Git, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11096114'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  remote: true
+  extracted_at: '2026-09-23T11:19:14.340289'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

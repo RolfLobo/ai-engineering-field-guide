@@ -1,0 +1,109 @@
+job_id: 11159044
+title: AI Engineer
+company: Raydar
+location: New York, USA
+work_type: FULL_TIME
+company_size: 28 Employees
+description: |
+  Our client is a 15-person consumer AI company building an
+  agentic travel platform that understands individual
+  preferences and can plan and book real-time travel
+  experiences. Its product connects conversational
+  intelligence with live inventory from major travel and
+  hospitality brands, allowing users to discover and book
+  verified options in one conversation.
+
+  We are hiring an AI Engineer to own the conversational
+  intelligence layer end to end. You will turn large language
+  model capabilities into reliable product behavior across
+  agent loops, prompt architecture, tool calling, state,
+  memory, streaming, and error recovery.
+
+  What you'll do
+
+  • Own the full agent architecture, including prompts, tool
+  calling, multi-step reasoning, and streaming
+
+  • Productionize conversational state and memory systems that
+  interpret user preferences
+
+  • Build ranking, retrieval, and recommendation experiences
+  that surface useful, personalized results
+
+  • Improve multi-turn reliability through refinement loops,
+  error recovery, and graceful degradation
+
+  • Design the rendering layer between agent output and the
+  consumer product experience
+
+  • Manage model-provider strategy, caching, structured
+  outputs, and fallback behavior
+
+  • Define and operate evaluation systems for ranking,
+  retrieval, and agent behavior
+
+  • Debug production failure modes and continuously improve
+  quality using evidence from real users
+
+  Requirements
+
+  • At least four years of experience as a full-stack or
+  backend-leaning software engineer
+
+  • Experience shipping LLM-powered ranking, retrieval, or
+  recommendation systems into production
+
+  • Hands-on ownership of systems where models interpret user
+  preferences and surface results
+
+  • Real evaluation experience, including defining, running,
+  and iterating on quality metrics
+
+  • Comfort across prompting, embeddings, retrieval, memory,
+  preferences, and product-facing agent workflows
+
+  • Strong ability to explain specific production failures you
+  diagnosed and corrected
+
+  • An AI-native development workflow and a track record of
+  learning and shipping quickly
+
+  • Willingness to work regularly from New York City
+
+  Bonus points
+
+  • Experience in travel, search relevance, personalization,
+  memory, or consumer recommendations
+
+  • Experience at a high-growth startup or top technology
+  company
+
+  • Proficiency in TypeScript, with Python also welcome
+
+  • Significant side projects involving AI agents or
+  production-grade LLM systems
+
+  • A strong academic or equivalent technical signal
+
+  Benefits
+
+  • Total compensation of $350K-$500K
+
+  • Competitive equity
+
+  • Direct ownership of a core consumer AI product surface
+
+  • Visa transfers, including OPT or H-1B transfers, may be
+  considered case by case
+
+  • Hybrid in New York City
+
+  • Full-time position
+
+  • Close collaboration with a small, fast-moving team
+industries:
+  - Professional Services
+  - Consulting
+posted_date: 2026-09-14
+url: "https://builtin.com/job/ai-engineer/11159044"
+source: Built In

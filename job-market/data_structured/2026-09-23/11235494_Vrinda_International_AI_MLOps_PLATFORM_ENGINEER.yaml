@@ -1,0 +1,54 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: Enterprise AI platform engineering services
+position:
+  title: AI / MLOps PLATFORM ENGINEER
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires building LLM evaluation,
+      hallucination monitoring, and AI quality evaluation, which
+      is output-quality monitoring and thus shaping model
+      behaviour, with LLM/GenAI components involved. Although the
+      title is platform-focused, the evals/guardrails
+      responsibility qualifies it as ai-first.
+  responsibilities:
+  - Build scalable, secure and highly available AI platforms
+  - Automate AI/ML deployment, monitoring and governance
+  - Enable enterprise GenAI and Agentic AI adoption
+  - Drive reliability, observability and cloud cost optimization
+  - Implement ML lifecycle automation and continuous training pipelines
+  - Operate and support production and mission-critical AI workloads
+  use_cases:
+  - Enterprise GenAI and Agentic AI adoption
+  - Production and mission-critical AI workloads
+  - ML lifecycle automation and continuous training
+  - AI platform reliability and observability
+  - AI quality assurance via hallucination and drift monitoring
+  - GPU and LLM cost optimization
+  skills:
+    genai: [Agentic Workflows, LangGraph, CrewAI, AutoGen, Semantic Kernel, Generative
+        AI, RAG, OpenAI API, Azure OpenAI, Gemini, Anthropic API, LangChain, LlamaIndex,
+      LLM Evaluation]
+    ml: [Model Evaluation]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [Vertex AI, Azure ML, SageMaker, AKS, GKE, EKS, AWS Bedrock, Azure, AWS,
+      GCP]
+    ops: [MLOps, LLMOps, MLflow, Kubeflow, Argo Workflows, CI/CD, Continuous Training,
+      Terraform, Infrastructure as Code, Kubernetes, GitHub Actions, Azure DevOps,
+      GitOps, Model Monitoring, Drift Detection, Monitoring, Observability, Prometheus,
+      Grafana, Datadog]
+    languages: []
+    domains: []
+    other: [AIOps, AI FinOps, SRE, SLOs, SLIs, Error Budgets, Self-Healing Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235494'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:30:59.528909'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

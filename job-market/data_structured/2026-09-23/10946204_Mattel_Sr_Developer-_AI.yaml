@@ -1,0 +1,47 @@
+company:
+  name: Mattel
+  stage: null
+  focus: Global toy and family entertainment company
+position:
+  title: Sr Developer- AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements RAG pipelines, prompt engineering, AI
+      orchestration workflows, and integrates/embeds LLMs into
+      production systems, so the person shapes LLM behaviour. This
+      makes it ai-first.
+  responsibilities:
+  - Design and develop backend services to power AI-driven applications
+  - Integrate LLMs, ML models, and AI services into production systems
+  - Build RESTful APIs and microservices using Python frameworks
+  - Implement RAG pipelines and AI orchestration workflows
+  - Design and deploy AI backend services on GCP with scalability and fault tolerance
+  - Develop data pipelines and integrate backend systems with third-party APIs and
+    databases
+  - Containerize and deploy services with Docker and Kubernetes, implementing CI/CD
+    pipelines
+  use_cases:
+  - AI-driven backend applications for consumer/family entertainment products
+  - LLM-powered features using RAG and AI orchestration
+  - Scalable API and microservice backends for AI systems
+  - Cloud-native AI deployment and inference on GCP
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Embeddings, LangChain, AI Agents]
+    ml: [Hugging Face, TensorFlow, PyTorch]
+    web: [FastAPI, Flask, Django, REST APIs, Microservices]
+    databases: [Vector Databases, Pinecone, FAISS, BigQuery, PostgreSQL, MySQL, MongoDB]
+    data: [Kafka, Data Pipelines]
+    cloud: [GCP, Vertex AI, GKE, IAM]
+    ops: [Docker, Kubernetes, CI/CD, Git, MLOps, GitHub Actions, Jenkins]
+    languages: [Python, SQL, asyncio]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10946204'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:08:20.275243'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,48 @@
+company:
+  name: Hightouch
+  stage: null
+  focus: Agentic marketing platform built on composable CDP
+position:
+  title: Software Engineer, Applied AI Research
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role experiments with and prototypes LLM applications,
+      designs evaluation/improvement systems, and builds agentic
+      AI marketing workflows — all shaping model behavior and
+      output quality. While image/video generation leans
+      generative-ML, the agentic LLM application focus makes it
+      ai-first.
+  responsibilities:
+  - Rapidly build proofs of concept exploring AI integration into data and marketing
+    workflows
+  - Design evaluation and improvement systems for AI outputs
+  - Advance the frontier of AI-generated video, e.g. realistic generated humans
+  - Experiment with approaches for generating brand-aligned creative assets
+  - Prototype and apply new generative AI techniques grounded in customer and product
+    needs
+  use_cases:
+  - AI-generated marketing video with realistic human characters
+  - Brand-aligned asset and creative generation
+  - Agentic AI marketing applications
+  - AI-augmented data and marketing workflows
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, LLM Evaluation]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10920908'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:07:00.282015'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

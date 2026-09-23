@@ -1,0 +1,141 @@
+job_id: 11200702
+title: Principal Engineer, AI Architect
+company: Nagarro
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 19,994 Employees
+description: |
+  Company Description
+
+  👋🏼We're Nagarro.
+
+  We are a Digital Product Engineering company that is scaling
+  in a big way! We build products, services, and experiences
+  that inspire, excite, and delight. We work at scale across
+  all devices and digital mediums, and our people exist
+  everywhere in the world (18000+ experts across 40 countries,
+  to be exact). Our work culture is dynamic and non-
+  hierarchical. We're looking for great new colleagues. That's
+  where you come in!
+
+  Job Description
+
+  REQUIREMENTS:
+
+  - Total experience 11+ years.
+  - Should have experience in software engineering, with strong
+    depth in Python.
+  - Must have experience to develop microservices and APIs
+    (Python, FastAPI, Node.js) to embed AI and deep learning
+    models into enterprise applications.
+  - Should have proven experience architecting and delivering
+    production-grade Generative AI applications at scale.
+  - Should have strong system design skills across backend,
+    frontend, and AI infrastructure layers.
+  - Should be able to architect and implement scalable ML,
+    Generative AI, and Agentic AI solutions (LLMs, RAG,
+    autonomous agents) aligned with business objectives.
+  - Must have good experience in Enterprise Architecture &
+    Solution Design.
+  - Should be able to build robust end-to-end AI pipelines and
+    integrate Vector databases (e.g., Pinecone, Weaviate,
+    Milvus) for data processing and feature extraction.
+  - Must have experience to deploy secure, production-grade
+    hybrid and cloud AI solutions (AWS/GCP/Azure) using modern
+    CI/CD, AI-assisted code optimization, and strict access
+    control.
+  - Should be able to leverage emerging AI research to
+    continuously tune models, optimize codebases, and manage
+    scalable compute resources.
+  - Must have experience defining technical strategy and
+    influencing architecture across teams or pods.
+  - Should be able to mentor junior engineers, drive agile
+    workflows (Jira), and partner with Product managers to
+    define technical strategy.
+  - Maintain clear technical documentation and translate complex
+    AI concepts for non-technical audiences.
+  - Should have strong grasp of AI Governance & Responsible AI,
+    Multi-cloud AI platform architecture, AgentOps / GenAIOps,
+    Knowledge Graphs & Semantic Layer Architecture.
+  - Should have hands-on experience with cloud platforms (AWS,
+    Azure, or GCP) and distributed systems.
+  - Must have ability to translate ambiguous business problems
+    into durable technical architectures.
+  - Should have excellent communication skills, with the ability
+    to influence senior stakeholders and technical leadership.
+
+  RESPONSIBILITIES:
+
+  - Understanding the client’s business use cases and technical
+    requirements and be able to convert them into technical
+    design which elegantly meets the requirements.
+  - Own the architecture and technical vision for AI-powered,
+    user-facing applications built with Python, React, and
+    Generative AI.
+  - Design scalable, secure, and cost-efficient backend
+    platforms for LLM inference, RAG pipelines, and agent-
+    based orchestration.
+  - Define frontend architecture and UX patterns for AI-native
+    applications, including conversational interfaces,
+    copilots, and intelligent dashboards.
+  - Lead the design and implementation of complex GenAI
+    workflows that combine LLMs, tools, APIs, structured data,
+    and user context.
+  - Establish engineering standards and best practices for
+    prompt design, model integration, evaluation, and
+    observability.
+  - Drive GenAI platformisationâ€”building reusable components,
+    SDKs, and frameworks used across multiple teams or
+    products.
+  - Partner with product, design, data, and business leaders to
+    translate strategic objectives into scalable technical
+    solutions.
+  - Review critical designs and codebases, unblock teams on
+    complex technical challenges, and raise the overall
+    engineering bar.
+  - Lead technical discovery and solutioning for high-impact
+    initiatives, including client or executive-facing
+    workshops when required.
+  - Ensure enterprise readiness: security, privacy, compliance,
+    governance, and responsible AI practices.
+  - Use AI-assisted development tools (e.g., Copilot, Claude
+    Code) to accelerate delivery while maintaining production-
+    grade quality.
+  - Mapping decisions with requirements and be able to translate
+    the same to developers.
+  - Identifying different solutions and being able to narrow
+    down the best option that meets the client’s requirements.
+  - Defining guidelines and benchmarks for NFR considerations
+    during project implementation
+  - Writing and reviewing design document explaining overall
+    architecture, framework, and high-level design of the
+    application for the developers
+  - Reviewing architecture and design on various aspects like
+    extensibility, scalability, security, design patterns,
+    user experience, NFRs, etc., and ensure that all relevant
+    best practices are followed.
+  - Developing and designing the overall solution for defined
+    functional and non-functional requirements; and defining
+    technologies, patterns, and frameworks to materialize it
+  - Understanding and relating technology integration scenarios
+    and applying these learnings in projects
+  - Resolving issues that are raised during code/review, through
+    exhaustive systematic analysis of the root cause, and
+    being able to justify the decision taken.
+  - Carrying out POCs to make sure that suggested
+    design/technologies meet the requirements.
+
+  Qualifications
+
+  Bachelor’s or master’s degree in computer science,
+  Information Technology, or a related field.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Virtual Reality
+  - Analytics
+posted_date: 2026-09-16
+url: "https://builtin.com/job/principal-engineer-ai-architect/11200702"
+source: Built In

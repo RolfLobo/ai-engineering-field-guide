@@ -1,0 +1,53 @@
+company:
+  name: DriveNets
+  stage: null
+  focus: Disaggregated networking software for AI infrastructure
+position:
+  title: Senior Solutions Engineer, AI/HPC Networking
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates the networking and
+      infrastructure under AI/HPC clusters (GPU servers, switches,
+      monitoring, datacenter design) but never shapes any model's
+      behavior - no prompt work, retrieval design, training, or
+      evals. Model serving/infrastructure support with no shaping
+      is ai-support.
+  responsibilities:
+  - Build and support NVIDIA/AMD based AI/HPC infrastructure platforms for customers
+  - Support operations and reliability of large-scale AI clusters including monitoring,
+    logging, and alerting
+  - Administer Linux systems including GPU-enabled servers
+  - Design rack layouts and network topologies for customer requirements
+  - Design and evaluate automation scripts for network operations and switch fabric
+    configuration
+  - Install, configure, and maintain DriveNets products and data center upgrades
+  - Engage with sales teams and customers on deployments and technical training
+  - Provide feedback to internal teams via bugs, documentation, and roadmap input
+  use_cases:
+  - AI/HPC cluster networking for hyperscalers, NeoClouds, and enterprises
+  - High-performance Ethernet-based AI fabric as an alternative to InfiniBand
+  - Large-scale AI training cluster operations and reliability
+  - Data center network topology design and deployment
+  skills:
+    genai: []
+    ml: []
+    web: [gRPC]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, OCI]
+    ops: [Linux, Prometheus, Grafana, ELK Stack]
+    languages: []
+    domains: []
+    other: [BGP, EVPN, VXLAN, QoS, Multicast, Data Center Design, InfiniBand, RoCEv2,
+      PFC, ECN, GPU, NIC, DPU, NVLink, UALink, Ethernet, Spectrum-X, Telemetry, gNMI,
+      OTLP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11218949'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:27:38.273140'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

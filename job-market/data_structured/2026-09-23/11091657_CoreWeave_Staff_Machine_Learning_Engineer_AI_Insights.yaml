@@ -1,0 +1,58 @@
+company:
+  name: CoreWeave
+  stage: publicly traded
+  focus: |-
+    AI hyperscaler cloud infrastructure for training and
+    inference
+position:
+  title: Staff Machine Learning Engineer, AI Insights
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role centers on developing classical ML systems for
+      infrastructure observability: anomaly detection, time-series
+      analysis, event correlation, ranking, and root-cause
+      inference, plus evaluation frameworks for these models. LLM
+      evaluation and retrieval appear only as a nice-to-have, so
+      there is no LLM shaping component in the core
+      responsibilities.
+  responsibilities:
+  - Lead technical design and delivery of production ML systems for infrastructure
+    observability, troubleshooting, and optimization
+  - Develop anomaly detection, time-series analysis, event correlation, ranking, recommendation,
+    classification, and root-cause inference across high-volume telemetry
+  - Build evaluation frameworks and datasets measuring accuracy, robustness, and safety
+  - Design data pipelines, feature-generation workflows, model-serving paths, and
+    feedback loops
+  - Integrate ML capabilities with telemetry platforms and customer-facing experiences
+    including Mission Control and Grafana
+  - Establish standards for experimentation, evaluation, monitoring, reproducibility,
+    and model lifecycle management
+  - Mentor engineers and influence technical direction across teams
+  use_cases:
+  - Infrastructure observability and workload health monitoring
+  - AI-powered troubleshooting and incident diagnosis
+  - Root-cause inference from metrics, logs, traces, and operational events
+  - Recommendations for efficiency, capacity, and performance optimization of cloud
+    workloads
+  skills:
+    genai: [RAG, Function Calling]
+    ml: [Machine Learning, Anomaly Detection, Feature Engineering, Model Evaluation,
+      LLM Evaluation]
+    web: []
+    databases: [ClickHouse]
+    data: [Kafka, Data Pipelines]
+    cloud: []
+    ops: [Grafana, Prometheus, Observability, Monitoring, Kubernetes, Distributed
+        Systems, MLOps, Model Deployment]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11091657'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:18:36.293516'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

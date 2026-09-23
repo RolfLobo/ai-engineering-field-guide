@@ -1,0 +1,139 @@
+job_id: 10436646
+title: Generative AI Pipeline Engineer (Tech Lead)
+company: CapsLock (capslock.global)
+location: CAN
+locations:
+  - CAN
+  - HUN
+  - IND
+  - POL
+  - BLR
+  - MDA
+  - BGR
+  - ROU
+  - SVK
+  - AUS
+  - IRL
+  - CZE
+  - GBR
+  - Singapore, SGP
+remote: true
+work_type: FULL_TIME
+company_size: 77 Employees
+description: |
+  Description
+
+  CapsLock is a global IT marketing company that pioneers
+  unique, scalable customer acquisition solutions for B2C
+  clients. We solve complex sales challenges across a wide
+  range of industries, primarily for large North American
+  partners. By integrating our expertise in Digital Marketing,
+  IT, Design, AI-driven analytics, proprietary MarTech, and
+  sales consulting, we deliver powerful, data-informed
+  customer acquisition solutions.
+
+  At CapsLock, people, technology, and forward-thinking
+  innovation lie at the heart of everything we do. Our
+  diverse, global team, fluent in over 10 languages, thrives
+  on open collaboration and the exchange of new ideas, pushing
+  boundaries to ensure our clients' success.
+
+  Role overview
+
+  We are building CapsLock's AI Media Production platform, and
+  we're hiring the tech lead who will architect it.
+
+  We generate visuals of real products, not concepts. Every
+  asset must match the client's actual product 1:1 - down to
+  hardware and geometry. No artifacts, no hallucinations, no
+  "close enough". This is a control and reproducibility
+  problem, not a prompting problem, and it needs an engineer.
+
+  This is a greenfield build. You'll be the first engineer in
+  this direction, working directly with the Design Director as
+  the technical interface between creative teams and software
+  infrastructure.
+
+  What you will work on
+
+  - Architect and run our AI Media Production platform: serving
+    ComfyUI or similar engines, GPU environments, one-click
+    UIs for non-technical teams;
+  - Ship modular, versioned, reproducible generative pipelines,
+    node-based and/or code-first (e.g. diffusers);
+  - Develop one-click presets and use cases for image and video
+    generation;
+  - Train LoRAs end-to-end: from real product photography to
+    evaluated, production-ready models;
+  - Build control-first generation into every pipeline:
+    ControlNet, IP-Adapter, inpainting, reference
+    conditioning;
+  - Engineer QC into the pipeline itself: automated checks
+    against product references, before a human ever reviews;
+  - Build our creative intelligence loop: encode what makes our
+    best-performing assets work into reusable presets and
+    styles;
+  - Own the technical roadmap with the Design Director; qualify
+    new models and tools; drive adoption through enablement,
+    not mandates.
+
+  Requirements
+
+  Your must haves
+
+  You don't need to meet every single requirement. If you're
+  excellent in most of these areas and can show shipped work,
+  we'd love to hear from you.
+
+  - Shipped generative pipelines adopted and used daily by other
+    people;
+  - Production-grade workflows in ComfyUI or similar
+    technologies, or equivalent code-first experience (e.g.
+    diffusers);
+  - Strong Python: automation, API integrations, custom nodes;
+  - LoRA training end-to-end, from dataset curation to
+    evaluation;
+  - Control techniques across modalities (t2i, i2i, i2v, v2v):
+    ControlNet, IP-Adapter, inpainting, reference
+    conditioning;
+  - Deploying pipelines as internal tools;
+  - Enough visual literacy to set the quality bar (no design
+    portfolio required);
+  - Confident English (B2+).
+
+  Nice to have
+
+  - 3D/render-hybrid workflows: Blender or CAD renders as
+    geometric ground truth with generated environments;
+  - LLM orchestration and agentic workflows: automated prompt
+    generation, VLM-based QC;
+  - Experience producing visuals for performance marketing.
+
+  What we offer
+
+  - Remote Work - we offer a truly and fully remote environment.
+    You choose where you are the most productive and
+    comfortable to have an impact.
+  - Paid vacations - generous paid vacation policy to ensure you
+    have time to recharge
+  - Unlimited Sick Days - we understand that being only human
+    means getting sick or feeling under the weather from time
+    to time, so we guarantee you time off as long as you need
+    to recover and get back on your feet.
+  - Ongoing Learning - people at CapsLock are deeply inquisitive
+    and eager to learn new knowledge and skills, that's why we
+    support and create learning opportunities like the Free
+    Books program, workshops, conferences, and more.
+  - Home Office - we will cover the equipment and furniture
+    expenses to make sure you have the best work-from-home
+    experience.
+  - Physical Well–Being - We will cover costs of your medical
+    insurance. Additionally we offer an allowance for a
+    flexible fitness program.
+  - Fun Stuff - there is never a shortage of fun stuff
+industries:
+  - Marketing Tech
+  - Design
+posted_date: 2026-08-24
+url: "https://builtin.com/job/generative-ai-pipeline-engineer-tech-lead/10436646"
+source: Built In

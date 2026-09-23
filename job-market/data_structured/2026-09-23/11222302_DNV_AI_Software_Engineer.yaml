@@ -1,0 +1,55 @@
+company:
+  name: DNV
+  stage: null
+  focus: |-
+    Assurance, certification, and risk management for energy
+    systems
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompt patterns, retrieval, extraction
+      workflows, and agent configurations itself, directly shaping
+      LLM behavior, so it is ai-first. It also builds AI quality
+      measurement and evaluation methods.
+  responsibilities:
+  - Design, develop, and maintain AI-enabled platform capabilities, APIs, and reusable
+    services
+  - Build prompt patterns, retrieval pipelines, extraction workflows, and agent integrations
+  - Support model integration, prompt optimization, and AI quality measurement
+  - Develop backend services and APIs using Python, JavaScript, and Node.js
+  - Use AI-assisted development practices for coding, testing, and documentation
+  - Contribute to CI/CD pipelines, automated testing, monitoring, and observability
+  - Partner with Solution Engineering on complex document extraction and AI quality
+    improvements
+  - Promote reusable components, shared services, and integration standards across
+    the platform
+  use_cases:
+  - Due diligence, verification, and assurance workflows for energy systems
+  - Renewables certification
+  - Complex document processing and structured data extraction
+  - Retrieval-augmented generation for platform search and knowledge tasks
+  - Reusable AI capabilities across multiple customer implementations
+  skills:
+    databases: []
+    domains: []
+    data: [Document Processing]
+    web: [APIs, Node.js, Vue, React]
+    ml: []
+    ops: [CI/CD, Automated Testing, Monitoring, Observability]
+    other: [SOC 2 Type II, ISO 27001]
+    cloud: [Azure, AWS]
+    languages: [Python, JavaScript]
+    genai: [LLMs, Prompt Engineering, RAG, AI Agents, LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11222302'
+  location: Helena, USA
+  locations:
+  - Helena, USA
+  - Chennai, IND
+  extracted_at: '2026-09-23T11:27:44.651408'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

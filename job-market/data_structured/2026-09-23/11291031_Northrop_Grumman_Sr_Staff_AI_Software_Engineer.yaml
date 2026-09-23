@@ -1,0 +1,50 @@
+company:
+  name: Northrop Grumman
+  stage: null
+  focus: Aerospace and defense advanced research and design
+position:
+  title: Sr. Staff AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops state-of-the-art AI/ML applications
+      incorporating LLMs with prompt engineering, fine-tuning, and
+      quantization experience preferred, indicating the engineer
+      shapes LLM behavior. Both LLM and classical ML components
+      are named, which maps to ai-first.
+  responsibilities:
+  - Design, develop, document, test, debug, and deploy state-of-the-art AI/ML applications
+  - Collaborate with cross-functional teams to deploy AI/ML solutions in development
+    and production environments
+  - Design and develop requirements for software development and software testing
+    environments
+  - Integrate LLMs, NLP/NLU/NLG, AI-based decision-making, sensor fusion, and computer
+    vision into software development workflows
+  - Carry out rapid prototyping and proof-of-concept demonstrations
+  - Work within large multi-language code bases including monorepos
+  use_cases:
+  - Next-generation aircraft and autonomous platform design
+  - AI-based decision-making for battle management
+  - Sensor and data fusion for national security systems
+  - Computer vision and image processing for survivability
+  - Natural language understanding and generation for aeronautics workflows
+  skills:
+    genai: [LLMs, Prompt Engineering, Fine-Tuning, Quantization, Embeddings, Azure
+        OpenAI, vLLM]
+    ml: [Deep Learning, Neural Networks, Genetic Algorithms]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, DevSecOps, Linux]
+    languages: [Python, C++, Java]
+    domains: [NLP, Computer Vision]
+    other: [Responsible AI, Explainable AI, Sensor Fusion, Image Processing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11291031'
+  location: El Segundo, USA
+  extracted_at: '2026-09-23T11:36:14.829167'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

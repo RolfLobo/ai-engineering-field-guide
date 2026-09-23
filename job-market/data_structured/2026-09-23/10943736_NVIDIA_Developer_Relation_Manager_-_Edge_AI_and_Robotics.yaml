@@ -1,0 +1,54 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: Edge AI and robotics hardware/software platforms
+position:
+  title: Developer Relation Manager - Edge AI and Robotics
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is developer relations: guiding customers to use
+      the Jetson platform and enabling deployment of models built
+      by others. There is no evidence the person writes prompts,
+      designs retrieval/agents, or trains models themselves; they
+      advise on and champion existing capabilities. Customer-
+      facing advocacy work is not shaping model behaviour.
+  responsibilities:
+  - Build and own relationships across the Jetson ecosystem with ISVs, OEMs, ODMs,
+    and robotics companies to drive adoption of the Jetson SW stack
+  - Guide customers through the Jetson platform including BSP, security, OTA, real-time
+    behavior, and mixed-criticality workloads
+  - Champion NVIDIA AI libraries and frameworks on Jetson, helping developers optimize
+    edge AI and robotics applications
+  - Enable deployment of AI models and agentic pipelines on Jetson including on-device
+    LLM inference and vision-language models
+  - Feed developer insights into product and engineering teams to shape platform priorities
+    and roadmap
+  - Track the edge AI and robotics landscape to inform platform positioning and developer
+    experience
+  use_cases:
+  - Edge AI and robotics solutions on Jetson hardware
+  - On-device LLM inference and vision-language models at the edge
+  - Autonomous machines, industrial systems, healthcare devices, and smart infrastructure
+  - Mixed-criticality and real-time embedded workloads
+  skills:
+    genai: [AI Agents, LLMs, Vision-Language Models]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [Robotics]
+    other: [NVIDIA Jetson, Embedded Linux, BSP, Linux Kernel, Device Drivers, OTA
+        Updates, Real-Time Systems, JetPack SDK, Edge AI, Developer Relations]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '10943736'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:07:37.897136'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

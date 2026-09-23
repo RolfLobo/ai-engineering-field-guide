@@ -1,0 +1,54 @@
+company:
+  name: Photon
+  stage: null
+  focus: Digital IT services and consulting
+position:
+  title: Gen AI Engineer -Dallas, TX
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly: designing agent
+      orchestration, multi-agent workflows, prompt
+      management/optimization, guardrails, and evaluation
+      frameworks for LLM-based systems. LLM/agent components are
+      central, so it is ai-first.
+  responsibilities:
+  - Design and develop scalable platforms for deploying and managing AI agents and
+    GenAI applications
+  - Build agent orchestration frameworks supporting multi-agent workflows and autonomous
+    task execution
+  - Integrate LLMs, foundation models, and AI services from cloud and third-party
+    providers
+  - Implement prompt management, versioning, and optimization strategies
+  - Establish AI governance controls, policy enforcement, and safety guardrails
+  - Design telemetry, monitoring, and observability solutions for AI platform operations
+  - Develop evaluation frameworks measuring model quality, latency, accuracy, cost,
+    and reliability
+  - Support AI model deployment, testing, troubleshooting, and lifecycle management
+  use_cases:
+  - Enterprise AI agent platforms for intelligent, scalable, secure GenAI deployment
+  - Copilots and autonomous workflows across the enterprise
+  - Tool invocation and API-driven workflow automation
+  - Responsible AI governance with policy enforcement and safety guardrails
+  - Model quality, latency, accuracy, cost, and reliability evaluation
+  skills:
+    genai: [Generative AI, LLMs, AI Agents, Agentic Workflows, Prompt Engineering,
+      Guardrails, Function Calling, LLM Evaluation]
+    ml: []
+    web: [APIs, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Monitoring, Observability, Model Deployment]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11264404'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:32:32.890544'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

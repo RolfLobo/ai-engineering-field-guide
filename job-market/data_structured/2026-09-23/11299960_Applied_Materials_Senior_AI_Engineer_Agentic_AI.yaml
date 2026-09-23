@@ -1,0 +1,51 @@
+company:
+  name: Applied Materials
+  stage: null
+  focus: Semiconductor equipment and materials engineering solutions
+position:
+  title: Senior AI Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM applications, RAG systems,
+      agent orchestration, fine-tuning, and evals—directly shaping
+      model behaviour and output quality, so it is ai-first.
+  responsibilities:
+  - Design, develop, and deploy LLM applications, RAG systems, multi-agent workflows,
+    and scientific AI solutions
+  - Fine-tune and optimize foundation models and build embedding pipelines, vector
+    search, and agent orchestration frameworks
+  - Evaluate model performance, hallucination rates, and business impact
+  - Develop production-quality systems using Python, FastAPI, LangGraph, LangChain,
+    and Semantic Kernel with reusable AI services and APIs
+  - Integrate AI solutions with Databricks, Azure AI Foundry, and AWS
+  - Mentor junior engineers, design architectures, and establish engineering best
+    practices
+  - Own full lifecycle of AI products from development to monitoring, optimization,
+    and scaling
+  use_cases:
+  - Engineering copilots and knowledge assistants
+  - Manufacturing and service workflow acceleration
+  - Scientific AI solutions for R&D
+  - Multi-agent orchestration for enterprise workflows
+  - Hallucination and model performance evaluation
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Fine-Tuning, Embeddings, Vector Search,
+      LangChain, LangGraph, Semantic Kernel, Generative AI, Multi-Agent Systems]
+    ml: [Transformers, Machine Learning, Model Evaluation]
+    web: [FastAPI, APIs]
+    databases: []
+    data: [Databricks]
+    cloud: [Azure AI Foundry, AWS, Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11299960'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:37:00.328686'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

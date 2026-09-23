@@ -1,0 +1,116 @@
+job_id: 10788755
+title: Staff Software Engineer, AI Platform
+company: Redpanda Data
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Redpanda is the first runtime and control plane for agent-
+  data interaction — a unified platform that combines
+  streaming, SQL analytics, and intelligent connectivity with
+  the governance layer enterprise AI agents need in
+  production.
+
+  Built on infrastructure already trusted by Fortune 500
+  companies and fast-growing startups, Redpanda enforces
+  governance entirely outside the agent's data path,
+  controlling what agents see, limiting what they do, and
+  capturing a tamper-proof record of everything they touch, so
+  organizations never have to choose between innovation and
+  control.
+
+  About the Role:
+
+  We’re looking for an experienced Staff Software Engineer to
+  help architect and build the systems that power Redpanda’s
+  vision for the Agentic Data Plane (ADP), while also shaping
+  the technical culture behind them.
+
+  In this role, you will design and develop our ADP product,
+  building on our Bring Your Own Cloud, Serverless, and
+  Redpanda Connect offerings. You will lead system
+  architecture, develop new features, and operate ADP and
+  Redpanda Cloud, helping us meet our 99.99% SLA. You will
+  raise the engineering bar across the Cloud team and
+  collaborate closely with Cloud, Core, and Platform
+  engineering, as well as pre- and post-sales teams, to build
+  robust, scalable systems with a strong emphasis on stability
+  and zero-downtime upgrades.
+
+  This is a hybrid role based in our San Francisco office.
+
+  You Will:
+
+  - Design, build and operate ADP and cloud services across AWS,
+    GCP, and Azure, including control plane and data plane
+    components
+  - Convert ambiguous product requirements into clear technical
+    designs and executable workstreams
+  - Lead the technical direction of large projects within ADP,
+    and contribute to architecture discussions that span ADP
+    and adjacent Cloud teams
+  - Anticipate technical risks and proactively mitigate them to
+    ensure timely, high quality delivery
+  - Set and uphold high standards for reliability, scalability,
+    performance, and security
+  - Identify and champion new features, process improvements,
+    and strategic initiatives that enhance engineering culture
+    and operational excellence
+  - Participate in the on-call escalation chain; helping reduce
+    escalations and improve operational health
+  - Build tools and services for automated infrastructure
+    provisioning, deployment, and self-healing
+  - Make resilience and observability integral to the systems
+    you own, enabling us to run enterprise-grade agentic
+    systems and service in the cloud
+
+  You Have:
+
+  - Significant experience designing and operating  large-scale,
+    reliable systems in public cloud environments
+  - A track record of leading large technical projects end-to-
+    end, from design and planning, to execution and production
+    operations
+  - Strong proficiency in Go (or comparable systems language
+    with willingness to ramp)
+  - Experience with AI-assisted software development workflows
+    including tools like Claude Code
+  - Production experience with Kubernetes, including running and
+    operating workloads
+  - Working knowledge of at least one of AWS / Azure / GCP,
+    including IaC for system and network infrastructure
+  - Familiarity with stream processing concepts
+  - Excellent written and verbal communication skills;
+    comfortable working in a globally distributed, async
+    environment (e.g., GitHub)
+  - Ability to collaborate effectively with engineering,
+    product, and customer-facing stakeholders
+
+  Nice to Have:
+
+  - Experience building Kubernetes operators for stateful /
+    storage workloads
+  - Experience building or operating SaaS platforms
+  - Experience with streaming platforms as a user or provider
+  - Exposure to production agentic systems and building agentic
+    workflows
+
+
+
+  U.S. base salary range for this role is $220,000 -
+  $260,000.Our salary ranges are determined by role, level,
+  and location. We strive to consider each candidate's job-
+  related skills, location, experience, relevant education or
+  training to determine individual base salary. Your talent
+  partner will share more about the specific salary range for
+  your preferred location during the hiring process.
+
+  Join Redpanda if you’d enjoy being part of a fast-moving,
+  diverse, people-first organization with team members around
+  the globe and a culture based on trust, transparency,
+  communication, and kindness. You'll dive into a nimble,
+  high-impact team with the latest AI tools — and the budget
+  to actually use them.
+posted_date: 2026-08-21
+url: "https://www.builtinla.com/job/staff-software-engineer-ai-platform-san-francisco/10788755"
+source: Built In

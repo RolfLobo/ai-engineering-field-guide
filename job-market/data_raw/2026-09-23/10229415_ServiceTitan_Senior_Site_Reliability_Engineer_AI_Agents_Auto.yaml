@@ -1,0 +1,213 @@
+job_id: 10229415
+title: "Senior Site Reliability Engineer, AI Agents & Automation"
+company: ServiceTitan
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Ready to be a Titan?
+
+  We're looking for a Senior Site Reliability Engineer to join
+  our Site Reliability & Infrastructure Engineering team. We
+  run entirely on the cloud, and this team owns the
+  reliability and health of the applications running on top of
+  it — designing the signals that tell us when something's
+  wrong, and building the systems that keep ServiceTitan
+  running better, faster, and cheaper as we scale.
+
+
+  We make a huge impact on thousands of companies in the U.S.
+  and abroad by enabling them to be more efficient and
+  effective at running their business. Our Site Reliability
+  and Infrastructure Engineering team centralizes the concerns
+  of measurement and guidance so every engineer can improve
+  availability and efficiency in their own area of the
+  ServiceTitan cloud. We have a cultural foundation built on
+  diversity, inclusion, and innovation, and we want you and
+  your ideas to thrive at ServiceTitan. Come join us.
+
+
+  What You'll Do
+
+  - Participate in an on-call rotation, using runbooks and
+    playbooks to diagnose and resolve production issues (e.g.,
+    adjusting Horizontal Pod Autoscaler rules in response to
+    load).
+  - Design, build, and maintain observability dashboards and
+    alerting grounded in Service Level Indicators (SLIs) and
+    Service Level Objectives (SLOs).
+  - Operate and improve our Kubernetes-based compute platform,
+    which runs the large majority of our infrastructure.
+  - Work across cloud networking and infrastructure (Azure/AWS)
+    to support reliable, scalable systems.
+  - Investigate and resolve production incidents, including
+    root-cause analysis and follow-up remediation work.
+  - Build and operate AI agents and automation that take on
+    manual, repetitive SRE work directly — not just tools that
+    assist a human doing the work.
+  - Partner with product engineering teams to review
+    architecture and infrastructure decisions before they
+    ship.
+  - Write and maintain runbooks and documentation so on-call
+    knowledge is shared across the team, not siloed with one
+    person.
+  - Help define non-functional requirements — scalability,
+    availability, performance — for new systems as they're
+    designed.
+  - Collaborate across engineering teams to adopt best practices
+    in reliability and observability.
+  - Contribute to CI/CD pipelines and help teams ship changes
+    safely and quickly.
+
+  What You'll Bring
+
+  - Kubernetes (must-have): strong, hands-on understanding of
+    Kubernetes as a system.
+  - AI-native SRE practice (must-have): hands-on, personal
+    experience using AI tools and agents (e.g., Claude Code,
+    GitHub Copilot Workspace, Cursor, or custom agents built
+    on Claude/MCP servers) to diagnose, automate, and resolve
+    infrastructure and reliability work.
+    - Agentic depth: You've built or operated agents that
+      autonomously monitor infrastructure and take action
+      (e.g., an agent that watches system load and scales,
+      remediates, or escalates without a human in the loop) —
+      not just general AI coding assistance. You can speak
+      concretely to how these agents are actually built and
+      operated (MCP protocol, what a harness is, how to
+      differentiate agent-design strategies rather than just
+      naming tools), to context management (e.g., progressive-
+      disclosure strategies for surfacing the right
+      information without dumping everything into context),
+      and to securing agent actions (scoping authorization,
+      guardrails, what's available in the AI infra ecosystem
+      to enforce it).
+    - SRE application: That agentic work is pointed at
+      infrastructure and reliability problems specifically —
+      you use AI to move at a materially faster pace in the
+      SRE domain, not as a general-purpose coding aid.
+  - SRE principles: practical experience with SLIs, SLOs, and
+    error budgets — able to speak to how you've defined and
+    monitored these on real systems, not just definitions.
+  - Cloud engineering & networking: solid grounding in AWS or
+    Azure, including networking fundamentals (subnetting, IP
+    addressing).
+  - Observability: deep experience with at least one modern
+    observability stack (OpenTelemetry, Prometheus, Grafana,
+    Datadog, or Elasticsearch) and the ability to translate
+    that understanding across tools.
+  - CI/CD: strong understanding of a CI/CD system — GitHub
+    Actions preferred, but TeamCity, Azure DevOps, or GitLab
+    CI experience is acceptable.
+  - Programming: strong programming skills with the ability to
+    build web applications — ideally with solid working
+    knowledge of .NET and ASP.NET. We're also open to strong
+    Python (Flask, FastAPI) or Java (Spring) backgrounds. The
+    coding assessment will be tailored to whichever
+    language/framework you're most comfortable in.
+  - Experience with distributed systems and their common failure
+    modes (retries, timeouts, cascading failures).
+  - Strong production troubleshooting skills — comfortable
+    diagnosing issues under pressure.
+  - 8-10+ years of relevant hands-on experience.
+  - Nice-to-have: database experience (not mandatory — databases
+    are monitored by the same team, not owned individually).
+
+  About You
+
+  You're someone who enjoys being directly accountable for the
+  reliability of a business-critical, large-scale enterprise
+  system. You're comfortable guiding and making decisions with
+  limited information, and capable of operating within the
+  trade-offs between solving for immediate needs versus
+  bigger-scale solutions. You feel rewarded by developing an
+  operability culture in a quickly growing and changing
+  environment, and you're comfortable owning a wide and
+  diverse set of problem areas.
+
+  Be Human With Us: Being human isn’t about checking every box
+  on a list. It’s about the experiences we have, people we
+  meet, and the perspectives we share. So, if you have the
+  skills but are hesitant to apply because of your background,
+  apply anyway. We need amazing people like you to help us
+  challenge the conventional and think differently about the
+  problems that we’re solving. We’re in this together. Come be
+  human, with us.
+
+  Use of AI Technology:
+
+  We use technology, including automated and AI-assisted
+  tools, to support certain aspects of our recruitment
+  process. These tools are designed to improve efficiency and
+  enhance the candidate experience. AI tools are not used to
+  make hiring decisions; all hiring decisions are made by our
+  hiring teams.
+
+  What We Offer:
+
+  When you join our team, you’re not just accepting a job.
+  You’re making a career move. Here’s how we’ll support you in
+  doing some of the most impactful work of your career:
+
+  - Flextime, recognition, and support for autonomous work:
+    Flexible time off with ample learning and development
+    opportunities to continue growing your career. We offer a
+    comprehensive onboarding program, leadership training for
+    Titans at all levels, and other programs and events. Great
+    work is rewarded through Bonusly, peer-nominated awards,
+    and more.
+  - Holistic health and wellness benefits: Company-paid medical,
+    dental, and vision (with 100% employer paid options and
+    90% coverage for dependents), FSA and HSA, 401k match, and
+    telehealth options including memberships to One Medical.
+  - Support for Titans at all stages of life: Parental leave and
+    support, up to $20k in fertility services (i.e. IUI and
+    IVF), surrogacy, and adoption reimbursement, on demand
+    maternity support through Maven Maternity, free breast
+    milk shipping through Maven Milk, pet insurance, legal
+    advisory services, financial planning tools, and more.
+
+  At ServiceTitan, we celebrate individuality and uniqueness.
+  We believe that the convergence of fresh perspectives and
+  experiences from all walks of life is what makes our product
+  and culture so great. We strongly encourage people from
+  underrepresented groups to apply. We do not discriminate
+  against employees based on race, color, religion, sex,
+  national origin, gender identity or expression, age,
+  disability, pregnancy (including childbirth, breastfeeding,
+  or related medical condition), genetic information,
+  protected military or veteran status, sexual orientation, or
+  any other characteristic protected by applicable federal,
+  state or local laws.
+
+  ServiceTitan is committed to fair and equitable compensation
+  for all of our employees. We thoughtfully consider a wide
+  range of factors when determining individual compensation,
+  which may change over time. We comply with all applicable
+  minimum wage laws. For candidates in the United States, the
+  good faith salary ranges estimate for this role is
+
+  Zone 1: $147,600 USD - $221,400 USD Applicable for: CA, CT,
+  DC, MD, MA, NJ, NY, VA, and WA
+
+  Zone 2: $137,900 USD - $206,900 USD Applicable for: All
+  other US locations.
+
+  International Compensation for candidates residing outside
+  the United States will vary by location and will be
+  discussed during the hiring process. Actual compensation
+  within a range is determined by factors including relevant
+  experience, skill set, qualifications, and performance. In
+  addition to base salary, our total compensation package
+  includes an annual bonus, equity, and a holistic suite of
+  benefits.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Fintech
+  - Machine Learning
+  - Mobile
+  - Software
+posted_date: 2026-09-02
+url: "https://www.builtinla.com/job/senior-site-reliability-engineer/10229415"
+source: Built In

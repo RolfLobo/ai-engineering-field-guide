@@ -1,0 +1,42 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: AI engineering services
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI applications using OpenAI technologies,
+      AutoGen (multi-agent framework), and MCP, which means
+      designing agent flows and LLM application behavior. This is
+      shaping LLM/agent output, so it is ai-first.
+  responsibilities:
+  - Develop AI applications using OpenAI technologies and AutoGen
+  - Build agentic workflows and integrations using MCP
+  - Develop Python services with FastAPI and REST APIs
+  - Deploy AI applications on Azure cloud with Docker and Kubernetes
+  - Maintain CI/CD pipelines for AI application delivery
+  use_cases:
+  - AI application development
+  - Multi-agent AI workflows
+  - AI application deployment
+  skills:
+    genai: [OpenAI API, AutoGen, MCP]
+    ml: [Machine Learning]
+    web: [FastAPI, REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234884'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:29:17.502990'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

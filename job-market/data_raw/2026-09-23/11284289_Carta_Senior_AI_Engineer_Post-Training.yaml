@@ -1,0 +1,149 @@
+job_id: 11284289
+title: Senior AI Engineer, Post-Training
+company: Carta
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 1,902 Employees
+description: |
+  The Company You’ll Join
+
+  Carta is the connected platform and AI-native ecosystem for
+  private capital. Built to replace fragmented tools with a
+  single system of record, Carta brings together the software,
+  services, and legal infrastructure that founders use to
+  manage equity, fund managers use to run administration and
+  reporting, and legal teams use to close transactions.
+  Trusted by 55,000 companies and 1.8M+ equity holders in 160+
+  countries, and 10,000 funds and SPVs representing $250B+ in
+  assets under management, Carta is transforming how private
+  capital operates. Recognized by Fortune, Forbes, Fast
+  Company, Inc. and Great Places to Work.
+
+  For more information about our offices and culture, check
+  out our Carta careers page.
+
+  The Team You'll Work With
+
+  You’ll join Carta’s ML Engineering team, embedded in Carta
+  Law, our legal tech platform built around autonomous AI
+  agents, specialized legal models, document intelligence and
+  contract workflows. You’ll have end-to-end ownership across
+  model development and applied AI, from post-training and
+  evaluation through model serving and the agents and systems
+  built around those models. You'll work closely with the
+  engineers building the product and bringing these
+  capabilities to users.
+
+  The Problems You'll Solve
+
+  As an AI Engineer, you will lead technically complex, model-
+  centric projects and serve as a multiplier for your team.
+  You will:
+
+  - Post-train open-weight language models on proprietary legal
+    data, owning the model development lifecycle end-to-end,
+    from data, objective design, and base-model selection
+    through training, evaluation, and iteration.
+  - Apply the right training techniques for the problem,
+    including supervised fine-tuning, preference optimization,
+    reinforcement learning, and related methods, with careful
+    attention to reward and grader design, model behavior, and
+    evaluation.
+  - Build and improve training datasets and data pipelines,
+    including labeling guidance, model-generated data, and
+    human feedback loops with domain experts.
+  - Own the training stack needed to run experiments reliably,
+    using managed or self-hosted infrastructure as
+    appropriate, and understand distributed training well
+    enough to diagnose and optimize training runs.
+  - Build and operate the systems that take models into
+    production, including model serving, agents, evaluation
+    pipelines, and the surrounding tooling and infrastructure.
+  - Partner with product and agent engineers on model/system co-
+    design, deciding what belongs in the model versus the
+    agent harness, tools, context, and workflow.
+  - Work directly with lawyers and other domain experts to
+    translate real workflows into model, data, and evaluation
+    decisions.
+
+  About You
+
+  - Technical Depth: You have hands-on experience with LLM post-
+    training using PyTorch or equivalent frameworks, and
+    understand the training, evaluation, and inference systems
+    around them. You are equally comfortable building the
+    product around the model, including agents, tools,
+    services, and production infrastructure. You can work
+    across model and product engineering problems as needed.
+    You stay current on open-weight models and post-training
+    techniques.
+  - Execution: You have owned model development or post-training
+    work in applied settings and built AI systems around those
+    models that shipped to real users. You can turn ambiguous
+    product or model problems into tractable technical work,
+    make pragmatic trade-offs across research and engineering,
+    and drive projects from idea through production with
+    minimal guidance.
+  - Strategic Mindset: You have strong judgment on model
+    selection, data, training objectives, and evaluation, and
+    know when training is the right lever versus improving the
+    agent, tools, context, or broader product. You can make
+    and defend those decisions with data and communicate them
+    clearly across technical and domain teams.
+  - Experience: You have done ambitious work in AI, applied
+    research, or adjacent engineering roles, with meaningful
+    ownership of the models or systems you built. You can
+    point to work that materially improved model capability or
+    product outcomes. Your experience spans both model-level
+    training work and the product and engineering systems
+    around it, from shaping the technical approach through
+    putting it into production.
+
+  At Carta, you’re not just an employee. You’re a builder who
+  is creating  infrastructure that accelerates innovation and
+  empowers more ownership. Cartans are helpful, relentless,
+  unconventional and kind; representing Carta’s Identity
+  Traits. They work collaboratively and cross functionally  to
+  challenge the status quo; working towards a common goal of
+  creating more owners in the private markets.
+
+  Salary
+
+  Carta’s compensation package includes a market competitive
+  salary, equity for all full time roles, exceptional
+  benefits, and, for applicable roles, commissions plans. Our
+  minimum cash compensation (salary + commission if
+  applicable) range for this role is:
+
+  - $242,250 - $285,000 in San Francisco, CA and in New York
+    City, New York
+
+  Final offers may vary from the amount listed based on
+  geography, candidate experience and expertise, and other
+  factors.
+
+  Disclosures:
+
+  - We are an equal opportunity employer and are committed to
+    providing a positive interview experience for every
+    candidate. If accommodations due to a disability or
+    medical condition are needed, please connect with the
+    talent partner via email.
+  - Carta uses E-Verify in the United States for employment
+    authorization. See the E-Verify and Department of Justice
+    websites for more details.
+  - For information on our data privacy policies, see Privacy,
+    CA Candidate Privacy, and Brazil Transparency Report.
+  - Please note that all official communications from us will
+    come from an @carta.com or @carta-external.com domain.
+    Report any contact from unapproved domains to
+    security@carta.com.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-09-21
+url: "https://builtin.com/job/senior-ai-engineer-post-training/11284289"
+source: Built In

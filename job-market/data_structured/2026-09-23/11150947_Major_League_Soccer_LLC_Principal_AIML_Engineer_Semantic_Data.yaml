@@ -1,0 +1,55 @@
+company:
+  name: Major League Soccer, L.L.C.
+  stage: null
+  focus: Professional soccer league with fan data and AI platforms
+position:
+  title: Principal AI/ML Engineer, Semantic Data
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG systems, embedding pipelines, context
+      assembly, LLM fine-tuning with parameter-efficient
+      techniques, and evaluation frameworks for retrieval and LLM
+      output quality - directly shaping LLM behavior. This is
+      clearly ai-first.
+  responsibilities:
+  - Design and implement embedding pipelines across fan data, content, metadata, and
+    behavioral signals
+  - Architect and manage knowledge graphs and a semantic layer standardizing metrics,
+    features, and business concepts
+  - Build retrieval-augmented generation (RAG) systems grounded in semantic data with
+    context assembly pipelines
+  - Fine-tune or adapt open-weight models using parameter-efficient techniques and
+    optimize inference for latency and cost
+  - Design evaluation frameworks for retrieval quality and LLM output correctness,
+    with guardrails for explainability and traceability
+  - Build scalable, production-grade services and APIs for semantic and AI systems
+  - Translate natural language into structured outputs such as queries and analytical
+    tasks
+  - Collaborate with product, analytics, and engineering teams and mentor engineers
+  use_cases:
+  - Fan intelligence and personalization
+  - Semantic understanding of fan, content, and business entity data
+  - Natural language to structured query translation over enterprise data
+  - Grounded, factual AI reasoning over unified semantic representations
+  - Marketing analytics and customer data platform capabilities
+  skills:
+    genai: [RAG, LLMs, Embeddings, Prompt Engineering, Guardrails, LoRA]
+    ml: [Fine-Tuning, Machine Learning]
+    web: []
+    databases: [Vector Databases, Vector Search, Knowledge Graphs, Graph Databases,
+      Snowflake, SQL]
+    data: [Data Pipelines, Databricks, Data Modeling]
+    cloud: [AWS]
+    ops: [Model Deployment, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [Semantic Search]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11150947'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:21:28.864824'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,173 @@
+job_id: 11232191
+title: AI Platform Engineer, Enablement and Governance Operations
+company: Kraken Digital Asset Exchange
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Building the Future of Open Finance
+
+  Payward - the parent company behind Kraken, NinjaTrader,
+  Breakout, xStocks, Payward Services and CF Benchmarks - has
+  spent the last 15 years building one of the most modern and
+  globally accessible financial infrastructure platforms in
+  the industry, built to advance an open, global financial
+  system.
+
+  Before you apply, we encourage you to explore our culture
+  page to understand what drives us and how we work.
+
+  The team
+
+  Founded in 2011, Kraken is one of the world's longest-
+  standing crypto platforms, trusted by over 10 million
+  individuals and institutions across the globe. It offers
+  spot trading, margin, futures, staking, and OTC services,
+  with products built for both individual investors and
+  institutional clients.
+
+  Enterprise Transformation owns Kraken's internal AI
+  platform. AI tooling is deployed at scale across the org.
+  Tiered spend controls are live, a governed integration
+  gateway is in production, and a system inventory is being
+  built against real regulatory obligations. The next
+  constraint is not access. It's capability. The frontier
+  moves every few weeks, and most of what arrives is a
+  protocol, API, or primitive that someone has to turn into
+  something the rest of the company can safely use.
+
+
+
+  The opportunity
+
+  - Design and build the technical layer of the AI platform,
+    from integration surface to production runbook. Identify
+    capability gaps between what's possible and what the
+    organization can safely use, then close them by evaluating
+    vendors or building internally.
+  - Own the governed integration gateway as an engineering
+    surface. You'll handle connector onboarding,
+    authentication flows including OAuth and federated
+    identity, reliability, and vendor escalation when things
+    break.
+  - Build internal tooling that extends the platform. Think
+    agent scaffolding, reusable skills and prompt assets,
+    evaluation harnesses for model changes, provisioning
+    automation, and integrations between AI tooling and your
+    systems of record.
+  - Configure and operate tiered spend controls across the AI
+    estate. Set caps by role and tier, build alerting rules,
+    manage exception queues, run monthly reconciliation
+    against vendor commitments, and eliminate the current
+    single author risk in cap automation.
+  - Implement the technical controls behind policy on data
+    handling, retention, and model eligibility. This means
+    identity integration, SSO and SCIM, entitlement by role
+    and tier, and workspace configuration where retention
+    terms differ by model class.
+  - Work directly with teams to unblock them. Sit with them,
+    understand the workflow, build or configure the thing that
+    enables them to get real leverage from the tools.
+  - Run technical enablement. Deep dives for tool rollouts,
+    office hours for model releases, and authority over the
+    engineering detail in knowledge base material.
+  - Administer the enterprise AI estate end to end. Model turn
+    ups, feature enablement, deprecation, provisioning queue,
+    vendor configurations, and seat true ups.
+
+
+
+  What you bring
+
+  - Enterprise SaaS administration at 1,000+ seats, ideally
+    including an AI or LLM platform.
+  - Demonstrated ability to build and ship working software, not
+    just configure vendor products. Python or a comparable
+    language should be natural to you. Version control, CI,
+    containers, and secrets management are everyday tools.
+  - Experience integrating against LLM and SaaS APIs with
+    working familiarity of agent and tool use patterns,
+    including MCP or equivalent tool calling architectures.
+  - Working knowledge of identity and access. Okta or an
+    equivalent IdP, OAuth, SCIM, SSO, and federated machine
+    identity are things you've worked with.
+  - Operational discipline. You understand intake queues, SLAs,
+    runbooks, escalation hygiene, and the instinct to document
+    a fix the first time you make it.
+  - Genuine teaching ability. You can explain a technical
+    capability three different ways on the same day to
+    compliance, traders, and backend engineers.
+  - Clear written communication for technical documentation,
+    runbooks, and policy pages.
+  - Judgment about what to build. You can tell the difference
+    between a capability the organization actually needs and a
+    demo that will be abandoned in a month.
+
+
+
+  Nice to haves
+
+  - Experience standing up an internal developer or AI platform,
+    including the self service and guardrail layers.
+  - Exposure to FinOps or software asset management practice.
+  - Experience with low code or workflow automation platforms.
+  - Atlassian administration depth in Jira, Confluence, or JSM.
+  - Familiarity with regulated industry audit and evidence work
+    in financial services.
+
+  Unless a specific application deadline is stated in the job
+  posting, applications are accepted on an ongoing basis.
+
+  Please note, applicants are permitted to redact or remove
+  information on their resume that identifies age, date of
+  birth, or dates of attendance at or graduation from an
+  educational institution.
+
+  We consider qualified applicants with criminal histories for
+  employment on our team, assessing candidates in a manner
+  consistent with the requirements of the San Francisco Fair
+  Chance Ordinance.
+
+  Our commitment
+
+  Payward is powered by people from around the world and we
+  celebrate the diverse talents, backgrounds, contributions,
+  and unique perspectives that everyone brings to the table.
+  We hire based on merit, seeking out people with the right
+  abilities, knowledge, and skills for the job. We encourage
+  you to apply for roles where you don't fully meet the listed
+  requirements, especially if you're passionate or
+  knowledgeable about crypto.
+
+  We may ask candidates to complete job-related skills or
+  work-style assessments as part of our hiring process. These
+  assessments evaluate competencies relevant to the role and
+  are applied consistently across candidates for similar
+  positions. Results are considered alongside experience and
+  interviews, and are not the sole basis for any employment
+  decision.
+
+  As an equal opportunity employer, we don't tolerate
+  discrimination or harassment of any kind, whether based on
+  race, ethnicity, age, gender identity, citizenship,
+  religion, sexual orientation, disability, pregnancy, veteran
+  status, or any other protected characteristic as outlined by
+  federal, state, or local laws.
+
+  Stay connected
+
+  Follow us on Twitter
+
+  Learn on the Kraken Blog
+
+  Connect on LinkedIn
+
+  Candidate Privacy Notice
+industries:
+  - Blockchain
+  - Financial Services
+  - Cryptocurrency
+  - Web3
+posted_date: 2026-09-17
+url: "https://www.builtinla.com/job/ai-platform-engineer-enablement-and-governance-operations/11232191"
+source: Built In

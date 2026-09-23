@@ -1,0 +1,54 @@
+company:
+  name: Kyndryl
+  stage: null
+  focus: Mission-critical IT infrastructure and services
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates infrastructure (serverless
+      compute, CI/CD, observability) for AI workloads and
+      integrates Azure AI services; the responsibilities focus on
+      capacity, reliability, and pipelines rather than shaping
+      model behavior. Mentions of AI SDK development and
+      integrating Mistral LLMs read as API integration, not
+      prompt, retrieval, or training work.
+  responsibilities:
+  - Design and assess serverless compute architectures for AI workloads
+  - Implement scalable Azure Databricks Serverless environments
+  - Develop and maintain CI/CD pipelines in Azure DevOps for AI and Databricks workloads
+  - Ensure reliability, observability, monitoring, and optimization of Databricks
+    and serverless services
+  - Build central AI Platform capabilities including AI SDK development, data masking,
+    PII detection, and document intelligence
+  - Integrate Azure AI services with modern DevOps practices ensuring compliance with
+    enterprise governance
+  - Collaborate with Data Science, Cloud Engineering, and DevOps teams as an independent
+    expert on operationalizing AI models
+  use_cases:
+  - Enterprise AI platform modernization on Azure
+  - Data masking and PII detection for AI workloads
+  - Document intelligence processing
+  - Serverless compute for scalable AI workloads
+  - Fintech LLM integration in a corporate environment
+  skills:
+    genai: [Mistral, LLMs]
+    ml: [PyTorch, Model Deployment]
+    web: []
+    databases: []
+    data: [Databricks, PySpark, Data Engineering]
+    cloud: [Azure, Azure Functions, Event Grid]
+    ops: [CI/CD, MLOps, Infrastructure as Code, Azure DevOps, Terraform, Observability,
+      Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: [Logic Apps, Cloud Cost Management, Data Protection]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11171160'
+  location: Hoofddorp, NLD
+  extracted_at: '2026-09-23T11:22:51.563614'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,59 @@
+company:
+  name: bunch (bunch.capital)
+  stage: Series B
+  focus: |-
+    Operating infrastructure and AI-powered workflows for
+    private markets
+position:
+  title: Senior Applied AI Engineer, AI Platform (f/m/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agents, builds evaluation layers,
+      and owns orchestration/context engineering (RAG, MCP, tool
+      contracts) that directly shape LLM behavior — clearly
+      shaping model output quality with an LLM/agent component,
+      hence ai-first.
+  responsibilities:
+  - Design, ship, and own agents automating real fund-operations workflows, integrated
+    with services, data model, and authorization
+  - 'Build the evaluation layer: test cases from real documents, regression suites
+    in CI, human review, and success criteria; improve accuracy, latency, and cost'
+  - 'Own AI application architecture: orchestration, multi-agent design, tool contracts,
+    memory, context engineering, guardrails and human-in-the-loop controls'
+  - 'Run agents in production: versioned feature-flagged rollouts, rate limits, provider
+    fallback, EU regional failover, and observability for tracing failures'
+  - 'Make AI a platform: consolidate document parsing/extraction and provide shared
+    evaluation and observability consumed by other teams'
+  - Publish agent patterns and conventions adopted by teams outside AI Platform, partnering
+    with DevX and mentoring engineers
+  - Ship the MCP offering to first customers with access boundaries, evaluation, and
+    observability
+  use_cases:
+  - Automating fund-operations workflows via agents (capital calls, document parsing,
+    portfolio reconciliation)
+  - Document extraction pipeline for subscription documents in fund operations
+  - Customer-facing MCP offering with access boundaries and evaluation
+  - Multi-provider LLM fallback within EU data residency
+  - Shared AI observability platform (token usage, cost, latency, failures)
+  skills:
+    genai: [AI Agents, Agentic Workflows, Multi-Agent Systems, RAG, MCP, LLM Evaluation,
+      Context Engineering, Prompt Engineering, LangGraph, Guardrails, Vercel AI SDK,
+      Mastra, Gemini, AWS Bedrock, LLMs]
+    ml: []
+    web: [Node.js, Nest.js, React, Svelte]
+    databases: [MySQL, PostgreSQL]
+    data: []
+    cloud: [AWS, Vertex AI]
+    ops: [Kubernetes, Datadog, Observability]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [FusionAuth, Retool]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11206906'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:26:40.680266'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

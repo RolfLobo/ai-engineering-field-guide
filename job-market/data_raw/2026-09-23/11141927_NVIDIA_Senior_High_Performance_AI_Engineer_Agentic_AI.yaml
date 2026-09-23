@@ -1,0 +1,108 @@
+job_id: 11141927
+title: Senior High Performance AI Engineer, Agentic AI
+company: NVIDIA
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  We are looking for outstanding Senior High Performance AI
+  Engineers to build the next generation of agentic AI systems
+  for the CUDA ecosystem. Our team works across the full
+  agentic AI stack—from training and improving models, to
+  designing agent architectures and multi-agent systems, to
+  building the systems, runtimes, and evaluation frameworks
+  that make them effective at scale.
+
+  You will help develop intelligent agentic systems that can
+  reason about, generate, optimize, and operate across
+  NVIDIA's accelerated computing stack. This includes
+  advancing model and agent capabilities, building scalable
+  agent systems and runtimes, developing high-fidelity
+  training and evaluation environments, and co-designing with
+  NVIDIA's libraries, runtimes, compilers, and hardware. You
+  will collaborate closely with internal NVIDIA software,
+  model, and hardware teams to bring new capabilities into
+  NVIDIA products.
+
+  What you'll be doing:
+
+  - Design, build, and optimize agentic AI systems for the CUDA
+    ecosystem, including agent architectures, multi-agent
+    workflows, tool use, memory, and orchestration.
+  - Build the data, environments, verification, reward, and
+    evaluation systems needed to continuously improve model
+    and agent capabilities.
+  - Co-design and optimize agentic systems across NVIDIA's
+    software and hardware stack, from models and inference
+    through compilers, runtimes, libraries, kernels, and GPUs.
+
+  What we need to see:
+
+  - Bachelor's degree in Computer Science, Electrical
+    Engineering, or a related field, or equivalent experience;
+    MS or PhD preferred.
+  - 4+ years of relevant industry or academic experience in AI
+    systems, machine learning, compilers, high-performance
+    computing, or related areas.
+  - Hands-on experience in one or more of the following: agent
+    systems, coding agents, reinforcement learning, or modern
+    AI inference systems.
+  - Strong C/C++, Rust, and Python programming skills, with
+    solid software engineering fundamentals.
+  - Experience with GPU programming and performance optimization
+    using CUDA or comparable accelerator platforms, and the
+    ability to work effectively across system boundaries.
+
+  Ways To Stand Out From The Crowd:
+
+  - Track record of building high-impact coding agents,
+    autonomous software-engineering systems, or developer
+    tools.
+  - Hands-on experience optimizing and deploying with TRT-LLM,
+    SGLang, vLLM, or Transformer Engine.
+  - Deep expertise in GPU systems and performance optimization,
+    demonstrated through benchmark results, deployed systems,
+    publications, or widely used software.
+  - Publications or open-source leadership in deep learning,
+    agentic AI, reinforcement learning, compilers, high-
+    performance computing, or AI systems.
+
+  With highly competitive salaries and a comprehensive
+  benefits package, NVIDIA is widely considered to be one of
+  the technology industry's most desirable employers. We have
+  some of the most brilliant and hardworking people in the
+  world working with us and our product lines are growing fast
+  in some of the hottest state of the art fields such as
+  Virtual Reality, Artificial Intelligence, Deep Learning and
+  Autonomous Vehicles.
+
+  Your base salary will be determined based on your location,
+  experience, and the pay of employees in similar positions.
+  The base salary range is 152,000 USD - 241,500 USD.
+
+  You will also be eligible for equity and benefits.
+
+  Applications for this job will be accepted at least until
+  September 15, 2026.
+
+  This posting is for an existing vacancy.
+
+  NVIDIA uses AI tools in its recruiting processes.
+
+  NVIDIA is committed to fostering an inclusive work
+  environment and proud to be an equal opportunity employer.
+  As we highly value diversity in our current and future
+  employees, we do not discriminate (including in our hiring
+  and promotion practices) on the basis of race, religion,
+  color, national origin, gender, gender expression, sexual
+  orientation, age, marital status, veteran status, disability
+  status or any other characteristic protected by law.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-09-11
+url: "https://www.builtinla.com/job/senior-high-performance-ai-engineer-agentic-ai/11141927"
+source: Built In

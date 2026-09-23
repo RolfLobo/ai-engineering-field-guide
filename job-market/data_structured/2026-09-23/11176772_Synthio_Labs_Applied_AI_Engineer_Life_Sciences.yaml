@@ -1,0 +1,55 @@
+company:
+  name: Synthio Labs
+  stage: seed
+  focus: Conversational voice and video AI for life sciences
+position:
+  title: Applied AI Engineer, Life Sciences
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production LLM applications with retrieval,
+      agents, embeddings, and evaluation frameworks for output
+      quality, which is directly shaping model behaviour.
+      LLM/agent components are central, so ai-first. Customer-
+      facing work with pharma domain experts and customers.
+  responsibilities:
+  - Build production-grade applications using LLMs, retrieval, agents, structured
+    data, and multimodal AI
+  - Design AI workflows across pharmaceutical commercial, medical, and patient use
+    cases
+  - Build retrieval and knowledge systems over scientific, medical, and enterprise
+    data
+  - Develop evaluation frameworks for accuracy, reliability, safety, and domain-specific
+    failure modes
+  - Work with pharma datasets including CRM, claims, sales, HCP, patient, clinical,
+    and scientific data
+  - Prototype quickly, evaluate approaches rigorously, and productionize what works
+  - Work directly with domain experts and customers to translate complex workflows
+    into technical solutions
+  use_cases:
+  - Conversational voice and video AI for life sciences
+  - Pharma engagement with healthcare professionals (HCP)
+  - Patient support workflows
+  - Medical and commercial pharma workflows
+  - Retrieval and knowledge systems over scientific and medical data
+  - Scientifically accurate AI under regulatory compliance
+  skills:
+    genai: [LLMs, RAG, AI Agents, Agentic Workflows, Embeddings, Generative AI]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Multimodal AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11176772'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:23:36.453754'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

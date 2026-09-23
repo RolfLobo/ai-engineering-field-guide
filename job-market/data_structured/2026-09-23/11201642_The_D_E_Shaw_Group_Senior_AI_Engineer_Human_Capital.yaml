@@ -1,0 +1,46 @@
+company:
+  name: The D. E. Shaw Group
+  stage: null
+  focus: Global investment and technology development firm
+position:
+  title: Senior AI Engineer – Human Capital
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prototypes and refines AI tools for talent
+      use cases with prompt design, RAG, and agentic
+      architectures, directly shaping model behavior and output
+      quality. LLM components are central, so it is ai-first.
+  responsibilities:
+  - Collaborate with internal stakeholders to identify where AI can transform work
+    and scope solutions
+  - Own the design and delivery of prototype AI solutions using Python for high-impact
+    use cases
+  - Drive integration of AI features across product and engineering teams
+  - Lead evaluation and continuous refinement of AI tools via feedback and outcome
+    monitoring
+  - Set the team's point of view on the evolving AI landscape, models, and tooling
+  - Mentor junior team members and set technical direction
+  use_cases:
+  - AI solutions for talent attraction, assessment, and development
+  - Human Capital process transformation
+  - Prototyping AI-driven internal products
+  skills:
+    genai: [LLMs, Prompt Engineering, Cursor, Claude Code, RAG, Agentic Workflows]
+    ml: [Statistical Methods]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11201642'
+  location: NY, USA
+  extracted_at: '2026-09-23T11:26:22.157083'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

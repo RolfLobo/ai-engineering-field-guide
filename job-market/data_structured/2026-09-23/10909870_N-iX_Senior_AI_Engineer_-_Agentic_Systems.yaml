@@ -1,0 +1,86 @@
+company:
+  name: N-iX
+  stage: null
+  focus: |-
+    IT services firm serving European online car marketplace
+    client
+position:
+  title: Senior AI Engineer - Agentic Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems, knowledge
+      graphs for AI reasoning and retrieval, and works with prompt
+      engineering and LLMs - directly shaping model behaviour and
+      agent flows. LLM/agent component present, so ai-first.
+  responsibilities:
+  - Design, build, and maintain agentic AI systems as part of the AI platform
+  - Build and operate underlying AWS platform infrastructure
+  - Design and implement knowledge graph solutions to support AI reasoning and retrieval
+  - Collaborate with cross-functional teams to align the AI platform with business
+    goals and internal use cases
+  - Troubleshoot and resolve issues across integrated systems for reliable end-to-end
+    agentic workflows
+  use_cases:
+  - Internal AI platform for a European online car marketplace
+  - Agentic AI workflows supporting business goals and internal use cases
+  - Knowledge graph-backed AI reasoning and retrieval
+  skills:
+    genai: [AI Agents, LLMs, Prompt Engineering, MCP]
+    ml: []
+    web: []
+    databases: [Knowledge Graphs, Neo4j]
+    data: []
+    cloud: [AWS, AWS Neptune, AWS Bedrock, AWS Agent Core]
+    ops: [Infrastructure as Code, Docker, Kubernetes]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10909870'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - CHL
+  - PER
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - GUY
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - BRA
+  - ECU
+  - ISL
+  - URY
+  - COL
+  - ROU
+  - SUR
+  - BOL
+  - LUX
+  - PRY
+  - CHE
+  - NLD
+  - ARG
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-09-23T11:06:01.009560'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

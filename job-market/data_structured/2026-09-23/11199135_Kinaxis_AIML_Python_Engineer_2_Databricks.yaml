@@ -1,0 +1,53 @@
+company:
+  name: Kinaxis
+  stage: null
+  focus: Supply chain orchestration software platform
+position:
+  title: AI/ML Python Engineer 2, Databricks
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates data platform infrastructure
+      (Databricks, Spark, Delta Lake) that enables AI products; it
+      does not shape model behavior via prompts, retrieval, or
+      training. AI is only mentioned as development tools
+      (Copilot, Cursor) the engineer uses, which is ai-support.
+  responsibilities:
+  - Design, build, and operate large-scale data platform capabilities
+  - Engineer and evolve the Databricks platform across Azure and GCP, including workspace
+    lifecycle, infrastructure automation, and governance
+  - Build and maintain data platform services and tooling for reliable data ingestion,
+    processing, sharing, and discovery
+  - Drive platform engineering best practices via Infrastructure-as-Code, CI/CD, observability,
+    and automated testing
+  - Partner with AI/ML, product, and engineering teams to enable data-driven and AI-powered
+    product capabilities
+  - Use AI-assisted development tools and agentic coding workflows to accelerate delivery
+  - Troubleshoot complex production issues and improve platform reliability
+  use_cases:
+  - Scalable data platform powering data and AI products across Kinaxis
+  - Databricks platform operations across Azure and GCP
+  - Data ingestion, processing, sharing, and discovery at scale
+  - Governed, secure data infrastructure enabling analytics and AI product innovation
+  - Supply chain orchestration analytics
+  skills:
+    genai: []
+    ml: []
+    web: [FastAPI, Flask, REST APIs]
+    databases: [Unity Catalog]
+    data: [Databricks, Spark, Delta Lake, Data Pipelines, Data Governance, Data Modeling,
+      Kafka, Delta Sharing, Structured Streaming]
+    cloud: [Azure, GCP, AWS]
+    ops: [Terraform, CI/CD, Docker, Kubernetes, Observability, Infrastructure as Code,
+      GitHub Copilot, Claude Code, Cursor]
+    languages: [Python, SQL]
+    domains: []
+    other: [RBAC, PII, Event-Driven Architecture, SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11199135'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:25:51.849547'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

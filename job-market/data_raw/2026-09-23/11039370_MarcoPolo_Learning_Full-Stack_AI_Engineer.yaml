@@ -1,0 +1,169 @@
+job_id: 11039370
+title: Full-Stack AI Engineer
+company: MarcoPolo Learning
+location: Bengaluru, IND
+remote: true
+work_type: FULL_TIME
+company_size: 54 Employees
+description: |
+  Full-Stack AI Engineer
+
+  Location:  Remote (India-based) — Bengaluru preferred; with
+  meaningful daily overlap with our UK and US teams
+
+  Engagement Type:  Full-time — permanent, ongoing
+
+  About MarcoPolo Learning MarcoPolo Learning is a leading
+  provider of innovative content, technology, and
+  instructional support for early childhood education. Since
+  2013, we’ve impacted thousands of classrooms and hundreds of
+  thousands of families across North America. Our Emmy-
+  nominated MarcoPolo World School app and The Polos TV series
+  bring STEM and global discovery to life for young learners.
+
+  Backed by top-tier investors, we’re on a mission to
+  transform early learning at scale. At the center of that
+  mission is Audrey, our AI Teaching Companion & Coach — a
+  guided AI assistant that helps early-learning educators plan
+  lessons, discover the right materials, and improve classroom
+  outcomes. We’re looking for a Full-Stack AI Engineer to help
+  bring Audrey to life and shape where she goes next.
+
+  Role Overview
+
+  This is a role for an engineer who loves working where AI
+  meets product. You’ll own the intelligence behind Audrey —
+  the retrieval, generation, and logic that make her genuinely
+  useful to teachers — while being just as comfortable moving
+  across the backend and frontend to bring the whole
+  experience together. You’ll work alongside our backend,
+  infrastructure, and frontend engineers, with real ownership
+  of the AI and real influence over what we build.
+
+  Audrey is approaching an exciting launch, and you’ll play a
+  central part in shaping her — refining how she works today
+  and helping define where she goes as we grow into more
+  classrooms.
+
+  Just as much as the engineering, we care about instinct for
+  the product. We’re looking for someone genuinely curious
+  about the teachers we serve — an engineer who asks the right
+  questions, understands how educators actually use what we
+  build, and lets that understanding shape the experience.
+  You’ll bring deep AI expertise, a natural instinct for
+  collaboration, and a calm, considered approach to solving
+  hard problems.
+
+  Key Responsibilities
+
+  - Own the AI at the heart of Audrey — retrieval, generation,
+    and the models and logic that make her intelligent and
+    dependable.
+  - Craft an experience where teachers instantly find exactly
+    the right video, printable, or activity, with retrieval
+    that’s fast, accurate, and reliable.
+  - Build and refine the content and data pipelines that power
+    Audrey — ingesting and structuring videos, printables,
+    guides, and multilingual content for precise retrieval.
+  - Work across the full stack, connecting the AI seamlessly
+    into the wider product alongside our backend and frontend
+    engineers.
+  - Shape how Audrey thinks, responds, and guides teachers —
+    designing her behavior, personality, and overall
+    experience with the end user always in mind.
+  - Help bring Audrey to launch and shape her evolution as we
+    scale.
+  - Continuously raise the quality, speed, and reliability of
+    Audrey’s responses and recommendations.
+  - Build fluently with modern AI-assisted development tools to
+    design, build, and iterate quickly.
+  - Partner with our infrastructure lead to keep Audrey running
+    smoothly and efficiently in the cloud.
+  - Put in place the evaluation, testing, and monitoring that
+    keep quality high, and keep technical documentation clear.
+  - Collaborate closely and openly with engineering and product,
+    sharing your thinking and progress early and often.
+  - Help shape the product roadmap — from deeper personalization
+    to multilingual support and classroom insights.
+  - Build with privacy and safety in mind, including FERPA/COPPA
+    alignment.
+
+  What We’re Looking For
+
+  - 5+ years of software engineering experience across the full
+    stack, comfortable working fluidly between backend and
+    frontend.
+  - Proven, hands-on depth with modern AI: you’ve personally
+    built and shipped at least one production LLM/AI
+    application. We know the LLM tooling is only a few years
+    old — what you’ve actually built matters far more to us
+    than years on a résumé.
+  - Strong experience building retrieval-augmented (RAG) systems
+    — embeddings, vector databases, semantic search, and re-
+    ranking — with a real feel for what makes retrieval
+    accurate and dependable.
+  - An AI-native engineer who builds fluently with modern AI-
+    assisted development tools (e.g. Cursor) and weaves AI
+    through their workflow.
+  - Strong Python and solid backend fundamentals (APIs,
+    databases, data pipelines), with enough frontend ability
+    to work end-to-end across the stack.
+  - Practical LLM orchestration and prompt engineering
+    (LangChain or comparable), including agent/tool design,
+    system-prompt and persona design, and guardrails.
+  - Solid AWS experience (compute, storage, databases,
+    containers, monitoring); familiarity with managed model
+    services (e.g. Amazon Bedrock) and/or self-hosted model
+    inference is a plus.
+  - A genuine product sensibility — you’re curious about the
+    people who use what you build, and you let that shape your
+    work.
+  - A natural collaborator who communicates openly, builds trust
+    across teams, and brings a calm, considered approach to a
+    fast-moving environment.
+  - Comfortable owning your work and driving it forward with
+    minimal oversight.
+  - Able to work remotely with meaningful overlap across UK and
+    US time zones, with strong written communication.
+  - Bonus: edtech or early-childhood education experience;
+    multilingual retrieval; video/audio ML; familiarity with
+    FERPA/COPPA or similar.
+
+  What We Offer
+
+  - Competitive, market-aligned salary for an experienced
+    engineer in India.
+  - Fully remote, full-time role with flexibility over how you
+    structure your day.
+  - End-to-end ownership of the AI behind a flagship product,
+    from launch through scale, with real influence over its
+    architecture and roadmap.
+  - A collaborative, family-friendly, mission-driven environment
+    at the intersection of education, media, and technology.
+
+  Why Join Us
+
+  This is a rare chance to own the AI capabilities of a
+  growing global education company at a defining moment.
+  You’ll be the engineer who brings Audrey to life, shapes how
+  she’s built, and helps take her from launch to a product
+  used in thousands of classrooms. If you want work that’s
+  visible, technically meaningful, and genuinely impactful for
+  young learners and their teachers, this is it.
+
+  Note: This is an India-based engagement. Applicants must
+  have the right to work in India; visa sponsorship is not
+  available at this time.
+
+  MarcoPolo Learning is an Equal Opportunity Employer and does
+  not discriminate on the basis of race, national origin,
+  gender, gender identity, sexual orientation, protected
+  veteran status, disability, age, or other legally protected
+  status. We pride ourselves on a supportive and mission-
+  driven working environment.
+industries:
+  - Edtech
+  - Software
+posted_date: 2026-09-07
+url: "https://builtin.com/job/full-stack-ai-engineer/11039370"
+source: Built In

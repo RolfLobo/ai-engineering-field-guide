@@ -1,0 +1,56 @@
+company:
+  name: Sandisk Corporation
+  stage: null
+  focus: Flash memory and data storage solutions
+position:
+  title: Staff AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: prompt engineering
+      strategies, RAG pipeline design (chunking, embeddings,
+      vector search), and agentic workflow orchestration with
+      guardrails. It also covers classical ML for yield
+      optimization, but LLM work makes it ai-first.
+  responsibilities:
+  - Lead end-to-end design, development, and deployment of ML models and GenAI solutions
+    for manufacturing intelligence, yield optimization, supply chain analytics, and
+    enterprise data platforms
+  - Architect data pipelines, feature stores, and model serving infrastructure on
+    Lakehouse and cloud-native architectures
+  - Develop prompt engineering strategies and feedback loops for LLM optimization
+  - Implement RAG pipelines including document parsing, chunking, vectorization, and
+    semantic search with vector databases
+  - Architect agentic workflows for autonomous task orchestration and multi-step reasoning
+    with safe execution constraints
+  - Define KPIs and business impact measurements for AI/ML initiatives with cross-functional
+    teams
+  - Mentor junior engineers and establish ML engineering best practices
+  - Present technical findings and recommendations to senior leadership
+  use_cases:
+  - Manufacturing intelligence
+  - Yield optimization
+  - Supply chain analytics
+  - Enterprise data platforms
+  - Domain knowledge retrieval via RAG and semantic search
+  - Autonomous task orchestration with agentic workflows
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Embeddings, Vector Search, Agentic Workflows,
+      Semantic Search]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: [Vector Databases]
+    data: [Spark, Data Pipelines, Databricks, Feature Stores]
+    cloud: [Azure, AWS, GCP]
+    ops: [MLflow, CI/CD, MLOps, Model Deployment, Model Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11207353'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:26:50.023251'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

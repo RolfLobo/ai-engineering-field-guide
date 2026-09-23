@@ -1,0 +1,57 @@
+company:
+  name: iSpeedToLead
+  stage: null
+  focus: Lead marketplace for service businesses and real estate
+position:
+  title: Senior AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role ships LLM-powered functionality with structured
+      outputs, function calling, retrieval, context engineering,
+      agentic workflows, and evaluation — directly shaping model
+      behavior, so ai-first. It is an individual contributor
+      builder role on a lead marketplace.
+  responsibilities:
+  - Discover and frame high-value product and operational problems with clear success
+    criteria before building
+  - Design and ship customer-facing AI features and internal automations across lead
+    quality, matching, prediction, call intelligence, CRM, and support
+  - Build agents and workflows that safely use tools, APIs, databases, calls, SMS,
+    and email with human approval where needed
+  - 'Create the context layer around models: instructions, retrieval, memory, structured
+    outputs, tool definitions, and feedback loops'
+  - Build reliable event-driven and scheduled automation with retries, idempotency,
+    audit logs, and fallbacks
+  - Create evaluation datasets and automated checks measuring accuracy, failure modes,
+    regressions, latency, and cost
+  - Investigate production failures and improve the complete system end-to-end
+  - Turn successful solutions into reusable components and patterns for new niches
+  use_cases:
+  - Lead quality improvement and refund reduction in a lead marketplace
+  - Lead matching, ranking, scoring, and prediction
+  - 'Call intelligence: transcription and extracting insights from calls'
+  - CRM, support, and operations automation
+  - Agents that use company systems (calls, SMS, email, databases) with human approval
+  skills:
+    genai: [LLMs, Structured Outputs, Function Calling, RAG, Context Engineering,
+      Agentic Workflows, AI Agents, LLM Evaluation, Claude Code, Codex, Cursor, MCP,
+      LangGraph]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: [Databases, Vector Search, NoSQL]
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Monitoring, Docker, CI/CD, Observability]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Temporal, n8n, Voice AI, Telephony]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10574508'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:00:11.357355'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

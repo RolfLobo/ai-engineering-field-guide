@@ -1,0 +1,59 @@
+company:
+  name: LPL Financial
+  stage: null
+  focus: Wealth management and financial advisory services
+position:
+  title: Principal Engineer, AI Retrieval & Knowledge Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG infrastructure including
+      chunking, embeddings, ranking, context assembly, and LLM
+      integration with evaluation frameworks for grounding quality
+      — directly shaping LLM-based retrieval and generation
+      behavior. This is ai-first.
+  responsibilities:
+  - Design and build high-scale retrieval systems combining keyword, semantic, and
+    vector search
+  - Develop RAG infrastructure including indexing, retrieval, ranking, and context
+    assembly
+  - Build streaming and batch data pipelines for ingesting and enriching structured
+    and unstructured data
+  - Build low-latency, highly available APIs and SDKs exposing retrieval and knowledge
+    services to applications and AI agents
+  - Integrate LLMs with retrieval systems for grounded, context-aware experiences
+    including prompt augmentation and response orchestration
+  - Implement evaluation frameworks for relevance and grounding quality
+  - Design for performance, scalability, and reliability with caching, sharding, and
+    observability pipelines
+  - Lead architecture of AI platform components and mentor engineers
+  use_cases:
+  - Enterprise knowledge retrieval and search platform
+  - Grounded AI assistants and copilots
+  - Context-aware search experiences over enterprise data
+  - Automation agents that reason over large-scale enterprise data
+  skills:
+    genai: [RAG, Semantic Search, Embeddings, LLM Integration Patterns, Prompt Engineering,
+      LLMs, AI Agents, LLM Evaluation]
+    ml: []
+    web: [APIs, Microservices]
+    databases: [Vector Databases, Knowledge Graphs, Elasticsearch, OpenSearch]
+    data: [Kafka, Data Pipelines, Real-Time Data Platforms]
+    cloud: []
+    ops: [Kubernetes, CI/CD, Observability, Monitoring, Infrastructure as Code]
+    languages: [Java, Python, Go]
+    domains: []
+    other: [Event-Driven Architecture, Multi-Tenant Platform Design, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9962538'
+  location: Austin, USA
+  locations:
+  - Austin, USA
+  - New York, USA
+  - Fort Mill, USA
+  - Charlotte, USA
+  extracted_at: '2026-09-23T11:39:18.937049'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

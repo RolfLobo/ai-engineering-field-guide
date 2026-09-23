@@ -1,0 +1,149 @@
+job_id: 11269207
+title: ServiceNow AI Developer
+company: NTT DATA
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 55,092 Employees
+description: |
+  Make an impact with NTT DATA Join a company that is pushing
+  the boundaries of what is possible. We are renowned for our
+  technical excellence and leading innovations, and for making
+  a difference to our clients and society. Our workplace
+  embraces diversity and inclusion – it’s a place where you
+  can grow, belong and thrive.
+
+  About the Role
+
+  We are seeking an experienced ServiceNow Developer to
+  design, build, and implement solutions on ServiceNow AI
+  Control Tower (AICT) — our enterprise platform for
+  governing, securing, and managing AI agents, models, and
+  workflows across the organization. You'll work at the
+  intersection of platform development, AI governance, and
+  enterprise architecture, helping us discover, govern, and
+  scale AI initiatives responsibly.
+
+  Responsibilities
+
+  - Design, configure, and extend ServiceNow AI Control Tower to
+    support enterprise-wide AI governance and lifecycle
+    management
+  - Build and maintain custom AI agents, skills, flow actions,
+    and subflows using the Now Assist Skill Kit and Build
+    Agent
+  - Develop and maintain integrations with third-party AI
+    platforms (e.g., AWS Bedrock, Azure AI Foundry, GCP Vertex
+    AI, Copilot Studio) via the Service Graph Connector
+    framework
+  - Manage CMDB and CSDM data models to ensure accurate tracking
+    of AI assets as configuration items
+  - Configure and troubleshoot plugin activation sequences,
+    scopes, dependencies, and access controls
+  - Collaborate with AI Stewards, Risk & Compliance Managers,
+    and Platform Administrators to implement risk assessments,
+    compliance frameworks, and governance policies
+  - Monitor and support AI Agent Fabric protocols (MCP, A2A) for
+    secure cross-agent communication
+  - Manage the full AI asset lifecycle from intake and
+    assessment through deployment and retirement
+  - Write clean, maintainable scripts and workflows (business
+    rules, script includes, client scripts, Flow Designer,
+    IntegrationHub)
+  - Support version control, rollback, and quality assurance
+    processes for custom AI skills
+
+  Required Qualifications
+
+  - 5+ years of ServiceNow development experience, including
+    scripting and Studio/App Engine
+  - Strong working knowledge of CMDB and CSDM, including CI
+    classes, relationships, and data health management
+  - Experience with Flow Designer, IntegrationHub, and Service
+    Graph Connectors
+  - Hands-on experience with ACLs, role design, and persona-
+    based access control
+  - Experience with plugin/scope management, including
+    activation sequencing and dependency mapping
+  - Understanding of AI/agentic concepts: AI agents, LLMs,
+    skills, and orchestration frameworks
+  - Familiarity with Now Assist Skill Kit and/or Build Agent for
+    creating custom skills and agents
+  - Strong analytical and troubleshooting skills across complex,
+    multi-system integrations
+  - Excellent communication skills, with the ability to work
+    cross-functionally with governance, risk, security, and
+    compliance stakeholders
+
+  Preferred Qualifications
+
+  - Direct experience implementing or administering ServiceNow
+    AI Control Tower (AICT)
+  - Knowledge of AI governance, risk, and compliance (IRM/GRC)
+    concepts
+  - Familiarity with AI Agent Fabric protocols (MCP, A2A)
+  - Experience integrating with third-party AI/ML platforms
+    (Azure OpenAI, AWS Bedrock, GCP Vertex AI, etc.)
+  - ServiceNow certifications (e.g., Certified System
+    Administrator, Certified Application Developer, Certified
+    Implementation Specialist)
+  - Completion of ServiceNow's AI Control Tower Implementation
+    Bootcamp or equivalent training
+
+  Workplace type:
+
+  Remote Working
+
+  About NTT DATA NTT DATA is a $30+ billion business and
+  technology services leader, serving 75% of the Fortune
+
+  Global 100. We are committed to accelerating client success
+  and positively impacting society through
+
+  responsible innovation. We are one of the world’s leading AI
+  and digital infrastructure providers, with
+
+  unmatched capabilities in enterprise-scale AI, cloud,
+  security, connectivity, data centers and
+
+  application services. Our consulting and industry solutions
+  help organizations and society move
+
+  confidently and sustainably into the digital future. As a
+  Global Top Employer, we have experts in more
+
+  than 70 countries. We also offer clients access to a robust
+  ecosystem of innovation centers as well as
+
+  established and start-up partners. NTT DATA is part of NTT
+  Group, which invests over $3 billion each
+
+  year in R&D.
+
+  Equal Opportunity Employer NTT DATA is proud to be an Equal
+  Opportunity Employer with a global culture that embraces
+  diversity. We are committed to providing an environment free
+  of unfair discrimination and harassment. We do not
+  discriminate based on age, race, colour, gender, sexual
+  orientation, religion, nationality, disability, pregnancy,
+  marital status, veteran status, or any other protected
+  category. Join our growing global team and accelerate your
+  career with us. Apply today.
+
+  Third parties fraudulently posing as NTT DATA recruiters
+
+  NTT DATA recruiters will never ask job seekers or candidates
+  for payment or banking information during the recruitment
+  process, for any reason. Please remain vigilant of third
+  parties who may attempt to impersonate NTT DATA recruiters
+  whether in writing or by phone in order to deceptively
+  obtain personal data or money from you. All email
+  communications from an NTT DATA recruiter will come from an
+  @nttdata.com email address. If you suspect any fraudulent
+  activity, please contact us.
+industries:
+  - Information Technology
+  - Business Intelligence
+  - Consulting
+posted_date: 2026-09-20
+url: "https://builtin.com/job/servicenow-ai-developer/11269207"
+source: Built In

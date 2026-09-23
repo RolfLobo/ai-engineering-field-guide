@@ -1,0 +1,55 @@
+company:
+  name: NewRocket
+  stage: null
+  focus: ServiceNow consulting and implementation partner
+position:
+  title: ServiceNow Lead Engineer (Power BI +AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a ServiceNow/Power BI analytics and
+      reporting engineering job. AI and Generative AI are listed
+      as experience implementing "AI-driven insights" and
+      leveraging Azure AI, OpenAI, Copilot for business use cases
+      — using AI services rather than shaping model behaviour
+      through prompts, retrieval, or training. The deliverable is
+      dashboards, data pipelines, and reporting, so it is ai-
+      support.
+  responsibilities:
+  - Develop and deliver data analytics, reporting, and AI-driven solutions leveraging
+    ServiceNow data and enterprise platforms
+  - Collaborate with stakeholders to translate business requirements into dashboards,
+    reports, and AI-powered insights
+  - Design and optimize data models, integrations, and reporting frameworks for business
+    intelligence initiatives
+  - Interact with technical SMEs to gather data requirements and develop scalable
+    analytics and AI solutions
+  - Design and develop data pipelines connecting ServiceNow, enterprise applications,
+    and reporting platforms
+  - Define and implement data quality, governance, and security standards
+  use_cases:
+  - Enterprise reporting and analytics on ServiceNow data
+  - Interactive dashboards and visualizations for business users
+  - AI-powered insights and predictive analytics for business use cases
+  - Intelligent automation and AI-driven insights on enterprise platforms
+  - Data integrations between ServiceNow and external systems
+  skills:
+    databases: [Relational Databases, NoSQL]
+    domains: []
+    data: [Data Pipelines, Data Modeling, Data Governance]
+    web: [REST APIs]
+    ml: [Predictive Analytics]
+    ops: []
+    other: [ServiceNow, Power BI, DAX, Power Query, Business Intelligence, Data Visualization]
+    cloud: [Azure AI]
+    languages: [SQL]
+    genai: [Generative AI, OpenAI API, Copilot Studio]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11198817'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:25:26.055147'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,134 @@
+job_id: 10863432
+title: AI Developer
+company: SunCore Digital
+location: London, GBR
+locations:
+  - London, GBR
+  - Scottsdale, USA
+  - Bellevue, USA
+work_type: FULL_TIME
+company_size: 289097 Employees
+description: |
+  About the Role
+
+  SunCore Digital is seeking an experienced AI Developer to
+  design, build, and deploy intelligent systems that power our
+  next generation of client‑facing and internal automation
+  tools. This role is ideal for someone who thrives at the
+  intersection of software engineering, machine learning, and
+  product strategy — someone who can translate complex
+  business logic into scalable, production‑ready AI solutions.
+
+  You will work closely with engineering, product, and
+  leadership to architect AI modules that support personalized
+  recommendations, risk modeling, workflow automation, and
+  data‑driven insights across our unified workspace platform.
+
+  Key Responsibilities
+
+  •        Design, build, and deploy AI‑powered features using
+  Python, modern ML frameworks, and cloud‑native tooling.
+
+  •        Develop and integrate LLM‑based systems (OpenAI,
+  Azure OpenAI, Hugging Face, etc.) into production
+  applications.
+
+  •        Architect data pipelines, embeddings, vector
+  search, and retrieval‑augmented generation (RAG) workflows.
+
+  •        Collaborate with product and engineering to
+  translate business requirements into technical AI solutions.
+
+  •        Build models and inference systems that support
+  personalization, risk scoring, forecasting, and decision
+  support.
+
+  •        Optimize model performance, latency, and cost
+  across cloud environments.
+
+  •        Implement monitoring, evaluation, and continuous
+  improvement processes for deployed models.
+
+  •        Ensure security, privacy, and compliance in all
+  AI‑related data handling.
+
+  •        Contribute to architectural decisions,
+  documentation, and best practices for AI development.
+
+  •        Stay current with emerging AI technologies and
+  propose new capabilities that strengthen our platform.
+
+  ·         Work with structured and unstructured data,
+  ensuring data quality, versioning, and evaluation readiness.
+
+  Required Skills & Experience
+
+  ·         4+ years of experience in AI/ML engineering or
+  applied machine learning.
+
+  ·         Strong proficiency in Python, including frameworks
+  such as TensorFlow, PyTorch, Scikit‑learn, or similar.
+
+  ·         Experience integrating LLMs, embeddings, and
+  vector databases (Pinecone, Weaviate, Redis, etc.).
+
+  ·         Hands‑on experience with RAG pipelines, prompt
+  engineering, and model fine‑tuning.
+
+  ·         Solid understanding of data structures,
+  algorithms, and API development.
+
+  ·         Experience deploying AI systems in cloud
+  environments (Azure, AWS, or GCP).
+
+  ·         Familiarity with DevOps practices: Docker, CI/CD,
+  monitoring, and observability.
+
+  ·         Strong problem‑solving skills and ability to work
+  in a fast‑paced, remote‑first environment.
+
+  ·         Excellent communication skills and ability to
+  explain complex concepts to non‑technical stakeholders.
+
+  ·         Experience designing end-to-end AI systems, from
+  data ingestion to inference and monitoring.
+
+  ·         Experience with model evaluation, testing, and
+  defining quality metrics for AI systems.
+
+  Preferred Qualifications
+
+  • Experience with financial modeling, risk scoring, or
+  recommendation systems.
+
+  • Background in NLP, time‑series forecasting, or
+  reinforcement learning.
+
+  • Experience building AI‑powered user experiences in web or
+  mobile applications.
+
+  • Knowledge of data governance, privacy, and compliance
+  frameworks.
+
+  • Prior experience in a startup or high‑growth environment.
+
+  What We Offer
+
+  • Competitive compensation and performance‑based bonuses
+
+  • Profit‑share participation
+
+  • Remote‑first culture with flexible working hours
+
+  • Opportunity to shape a first‑to‑market AI platform
+
+  • Collaborative, high‑ownership environment
+
+  • Professional development support and growth opportunities
+industries:
+  - Blockchain
+  - Energy
+  - Cryptocurrency
+posted_date: 2026-08-26
+url: "https://builtin.com/job/ai-developer/10863432"
+source: Built In

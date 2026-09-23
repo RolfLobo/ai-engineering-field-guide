@@ -1,0 +1,58 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud software, AI platforms and developer tools
+position:
+  title: Senior and/or Principal Software Engineer- AI Frameworks
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role benchmarks, profiles, and optimizes LLM training
+      and inference workloads across frameworks, compilers,
+      runtimes, and GPU kernels - optimizing model internals is
+      shaping. Because the targets are large language models and
+      their runtimes, this maps to ai-first.
+  responsibilities:
+  - Design, implement, test, and operate production-quality components across AI frameworks,
+    runtimes, benchmarking systems, and performance tooling
+  - Benchmark, profile, debug, and optimize large language model training and inference
+    workloads across GPUs and Microsoft hardware
+  - Build automation and observability to detect regressions, improve reproducibility,
+    and accelerate model and hardware onboarding
+  - Drive projects from problem definition through deployment with measurable performance
+    and capacity impact
+  - Partner with researchers, model teams, infrastructure owners, and hardware vendors
+    on cross-stack issues
+  - Define technical vision, architecture, and multi-release strategy for AI framework
+    and performance capabilities
+  - Lead ambiguous cross-stack investigations spanning models, frameworks, compilers,
+    runtimes, services, and silicon
+  - Mentor engineers and advance engineering standards through design and code reviews
+  use_cases:
+  - Running state-of-the-art AI models reliably and efficiently at cloud scale
+  - Accelerating model onboarding onto GPU and Microsoft silicon platforms
+  - Improving training and inference runtime performance and reliability
+  - Reducing deployment time and hardware footprint for AI workloads
+  - Turning performance insights into reusable platform capabilities and Azure capacity
+    efficiency
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, CUDA, ROCm]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Triton, Distributed Systems]
+    languages: [C++, Python]
+    domains: []
+    other: [ONNX Runtime, GPU Profiling, Software Architecture, Computer Architecture,
+      Benchmarking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11196888'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:25:20.037376'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

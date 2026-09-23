@@ -1,0 +1,46 @@
+company:
+  name: Chubb
+  stage: null
+  focus: Global commercial and personal insurance
+position:
+  title: Senior AI/ML Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires GenAI, LLM fine-tuning, agentic AI,
+      embedding techniques, and zero/few-shot learning - directly
+      shaping model behavior. LLM components are explicitly
+      involved, so it's ai-first.
+  responsibilities:
+  - Design, build, and test machine learning models with data scientists to solve
+    business challenges on Azure
+  - Research and implement state-of-the-art modeling approaches including zero-shot/few-shot
+    learning, embeddings, and fine-tuning
+  - Ensure high quality, secure code meeting business objectives and quality standards
+  - Build reusable tools to streamline the modeling pipeline and share knowledge
+  - Manage stakeholder expectations and communicate project progress
+  - React to shifting priorities while meeting deadlines
+  use_cases:
+  - ML/NLP models solving insurance business challenges
+  - GenAI and LLM solutions including agentic AI
+  - Entity extraction and text similarity matching for insurance workflows
+  skills:
+    genai: [Generative AI, Fine-Tuning, AI Agents, Embeddings]
+    ml: [Machine Learning, PyTorch, TensorFlow, Model Training, Transformers, Neural
+        Networks, Feature Engineering]
+    web: [FastAPI, Uvicorn, Full-Stack Development]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Docker, Kubernetes, Jenkins]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11227403'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:28:32.400770'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

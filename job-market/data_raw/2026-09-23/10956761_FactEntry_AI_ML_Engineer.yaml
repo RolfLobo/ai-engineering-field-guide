@@ -1,0 +1,80 @@
+job_id: 10956761
+title: "AI & ML Engineer"
+company: FactEntry
+location: Vellore, IND
+work_type: FULL_TIME
+company_size: 246 Employees
+description: |
+  Job Summary
+
+  We are looking for an experienced AI & Generative AI
+  Developer who can work across the AI spectrum—from classical
+  machine learning models to cutting-edge Generative AI
+  applications. The role demands strong experience in building
+  ML models using regression, classification, and tree-based
+  algorithms, along with hands-on exposure to LLMs and
+  generative frameworks like GPT, Stable Diffusion, and
+  LangChain.
+
+  Key Responsibilities
+
+  🔹 Classical AI/ML
+
+  - Design and implement supervised and unsupervised ML models
+    including:
+  - Linear Regression, Logistic Regression
+  - Decision Trees, Random Forest, XGBoost
+  - Naive Bayes, K-Means, SVM, PCA, etc.
+  - Preprocess and analyse structured/tabular datasets
+  - Evaluate models using metrics like accuracy, precision,
+    recall, ROC-AUC, and RMSE
+  - Build predictive models, deploy them into production, and
+    monitor performance
+  - Collaborate with business teams to translate requirements
+    into ML use cases
+
+  🔹 Generative AI (GenAI)
+
+  - Build and fine-tune LLMs (e.g., GPT, LLaMA, PaLM) for
+    summarisation, Q&A, document generation, etc.
+  - Implement prompt engineering, RAG pipelines, and vector
+    database integrations
+  - Use libraries like Hugging Face Transformers, LangChain, and
+    LlamaIndex
+  - Develop APIs to expose GenAI models in real-time apps
+  - Optimise model inference using quantisation, batching, etc.
+  - Ensure safe, explainable, and bias-free output in alignment
+    with AI ethics guidelines
+
+  Required Skills & Qualifications
+
+  - Bachelor’s or Master’s in Computer Science, Data Science,
+    Statistics, or related field
+  - Strong programming skills in Python, with experience in
+    NumPy, Pandas, Scikit-learn
+  - Proficiency in classical ML algorithms (regression, trees,
+    naive Bayes, etc.)
+  - Experience with LLM frameworks like OpenAI API, Hugging
+    Face, and LangChain
+  - Understanding of transformer architecture, NLP, embeddings,
+    and tokenisation
+  - Familiarity with REST API development using FastAPI/Flask
+  - Exposure to cloud platforms (AWS/GCP/Azure) and
+    Docker/Kubernetes
+
+  Preferred / Nice to Have
+
+  - Experience with deep learning (TensorFlow, PyTorch)
+  - Exposure to image/audio/video generation using models like
+    DALL·E, Stable Diffusion, Whisper
+  - Familiarity with RAG, LLMOps, and vector stores (FAISS,
+    Pinecone, Weaviate)
+  - Knowledge of MLOps pipelines, model monitoring, and CI/CD
+    for ML
+industries:
+  - Analytics
+  - Financial Services
+  - Big Data Analytics
+posted_date: 2026-09-01
+url: "https://builtin.com/job/ai-ml-engineer/10956761"
+source: Built In

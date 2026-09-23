@@ -1,0 +1,52 @@
+company:
+  name: Commure
+  stage: null
+  focus: |-
+    AI operating system for healthcare and revenue cycle
+    management
+position:
+  title: Senior Software Engineer, AI Billing
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the AI Billing title and AI-focused company, the
+      responsibilities are full-stack web engineering (React,
+      Python, PostgreSQL) on a practice management platform. There
+      is no prompt writing, RAG, agent design, or model shaping
+      described.
+  responsibilities:
+  - Drive the technical direction of the Insights practice management platform, scaling
+    to thousands of practices
+  - Design, build, and maintain scalable full-stack solutions using ReactJS, Python,
+    and PostgreSQL
+  - Improve system reliability and observability with monitoring, logging, and alerting
+    best practices
+  - Optimize performance and scalability of web applications
+  - Collaborate with infrastructure and backend teams to ensure high availability
+  - Mentor engineers and foster technical excellence
+  - Lead high-impact projects and conduct code reviews
+  - Work with product and design teams on user-friendly experiences
+  use_cases:
+  - Practice management platform (Insights) for healthcare staff
+  - Revenue cycle management reports and visualizations
+  - Workflow automation tools for healthcare practices
+  - Scalable web applications supporting thousands of practices and millions of users
+  skills:
+    genai: []
+    ml: []
+    web: [React, Vue, APIs, GraphQL, REST, gRPC, Full-Stack Development]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: [CI/CD, Monitoring]
+    languages: [JavaScript, Python]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9872369'
+  location: Los Angeles, USA
+  extracted_at: '2026-09-23T11:38:10.963054'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

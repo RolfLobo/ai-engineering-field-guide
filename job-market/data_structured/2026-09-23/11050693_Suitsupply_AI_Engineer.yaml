@@ -1,0 +1,48 @@
+company:
+  name: Suitsupply
+  stage: null
+  focus: Retail menswear brand building data and AI automation
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships tool-calling agentic workflows,
+      RAG, and eval frameworks for agents, directly shaping agent
+      behaviour in production. This is shaping with a clear
+      LLM/agent component, so it is ai-first.
+  responsibilities:
+  - Embed with business teams to map processes and identify highest-leverage automation
+    opportunities
+  - Build production-grade tool-calling agents running real business processes
+  - Create reusable skills, connectors, evals, and templates for faster agent delivery
+  - Define agent quality standards covering accuracy, cost, guardrails, and sensitive
+    data handling
+  - Mentor per-team champions who scale agent adoption
+  - Hand off running systems with runbooks, eval frameworks, and named owners
+  use_cases:
+  - Automating real business processes with tool-calling agents
+  - Process automation workflows built on a GCP data platform and governed context
+    layer
+  - Reusable agent-building golden path with skills, connectors, and evals
+  - Agent quality evaluation covering accuracy, cost, and sensitive data handling
+  skills:
+    genai: [Agentic Workflows, RAG, Function Calling, Claude Code, MCP, LLM Evaluation,
+      Guardrails]
+    ml: []
+    web: [APIs]
+    databases: [BigQuery]
+    data: []
+    cloud: [GCP, Vertex AI]
+    ops: [Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11050693'
+  location: Amsterdam, NLD
+  extracted_at: '2026-09-23T11:16:11.045140'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

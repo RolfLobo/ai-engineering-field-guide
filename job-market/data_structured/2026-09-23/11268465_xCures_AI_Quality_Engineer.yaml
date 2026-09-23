@@ -1,0 +1,63 @@
+company:
+  name: xCures
+  stage: Series B
+  focus: |-
+    Turning fragmented medical records into validated clinical
+    data
+position:
+  title: AI Quality Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role runs systematic accuracy and consistency analyses
+      on clinical extractor outputs, defines quality KPIs,
+      monitors performance drift, and recommends
+      retraining/recalibration — this is judging and shaping model
+      output quality for a text-extraction system. Since the
+      extractors process unstructured medical text into structured
+      clinical data, the LLM/text-generation component makes it
+      ai-first.
+  responsibilities:
+  - Lead quality control of clinical extractor outputs with systematic accuracy and
+    consistency analyses across detection, dataset composition, and value extraction
+  - Lead regulatory alignment for the extraction and validation program with privacy,
+    de-identification, and clinical-data standards
+  - Deliver client-facing performance reporting translating validation metrics and
+    extractor limitations into evidence-backed reports
+  - Serve as internal subject-matter expert for clinical domains, especially oncology
+    and real-world evidence, guiding Data Science
+  - Partner with Data Science to prototype and refine extraction logic, inferred variables,
+    normalization, and binning
+  - Define and monitor clinical quality KPIs, track extractor performance drift, and
+    recommend retraining or recalibration
+  - Ensure accurate export of structured clinical data into downstream formats such
+    as FHIR bundles and CSV tables
+  - Serve as clinical reviewer in internal quality reviews, client demos, and QA events,
+    and support business development with feasibility analysis
+  use_cases:
+  - Clinical data extraction from unstructured medical records (faxes, PDFs, notes)
+  - Source-linked, validated structured clinical data for decision-making
+  - Oncology and real-world evidence data quality
+  - Export of structured clinical data to FHIR and CSV formats
+  - Quality monitoring and drift detection for AI extractors
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Git, GitHub]
+    languages: [Python, R, SQL]
+    domains: [Computational Biology, Real-World Evidence]
+    other: [FHIR, SNOMED, LOINC, RxNorm, OMOP, HIPAA Compliance, De-identification,
+      Electronic Medical Records]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11268465'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:34:40.934985'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

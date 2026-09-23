@@ -1,0 +1,58 @@
+company:
+  name: FICO
+  stage: null
+  focus: |-
+    Analytics software for credit scoring, fraud detection, and
+    decision management
+position:
+  title: Customer Engineer/AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, evaluation frameworks, agentic
+      workflows, and tool calling for LLM solutions, directly
+      shaping model behavior. LLM/agent components dominate, so it
+      is ai-first.
+  responsibilities:
+  - Analyze customer-impacting engineering issues and identify AI-driven automation
+    opportunities
+  - Build AI-powered tools to help engineers diagnose, troubleshoot, remediate, and
+    prevent customer issues
+  - Develop prompt harnesses and evaluation frameworks for LLM solutions
+  - Design agentic workflows where LLMs reason over context, use tools, validate results,
+    and iterate
+  - Investigate AI failures and improve prompts, context, tools, model selection,
+    and workflows
+  - Measure solutions with metrics like accuracy, resolution time, automation rate,
+    latency, and cost
+  - Partner with internal engineering teams to integrate AI capabilities into existing
+    tools
+  - Document solutions, runbooks, and support procedures for maintainability
+  use_cases:
+  - AI-driven automation for diagnosing, troubleshooting, remediating, and preventing
+    customer issues
+  - Agentic workflows reasoning over code, logs, configurations, tickets, and incident
+    context
+  - Pattern identification across customer issues to surface root causes and recommended
+    actions
+  - Grounded AI solutions for engineering support scenarios
+  skills:
+    genai: [Prompt Engineering, LLMs, Structured Outputs, Function Calling, Agentic
+        Workflows, LangGraph, LangChain, MCP, AI Agents, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10708868'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:00:31.335622'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

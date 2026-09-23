@@ -1,0 +1,118 @@
+job_id: 11232106
+title: Senior Software Engineer - AI/ML (Context Services)
+company: Cognite
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 751 Employees
+description: |
+  What Cognite is: Relentless to achieve
+
+  Cognite operates at the forefront of industrial
+  digitalization, building AI, and data solutions that solve
+  the world’s hardest, highest-impact problems. With unmatched
+  industrial heritage and a comprehensive suite of AI
+  capabilities, including low-code AI agents, Cognite
+  accelerates the digital transformation to drive operational
+  improvements.
+
+  We thrive in challenges. We challenge assumptions. We
+  execute with speed and ownership. If you view obstacles as
+  signals to step forward - not backwards - you’ll feel right
+  at home here.
+
+  Our Moonshot is bold: Unlock $100B in customer value by
+  2035, and redefine how global industry works. Join us in
+  this venture where AI and data meet ingenuity, and together,
+  we will forge the path to a smarter, more connected
+  industrial future.
+
+  About the Role:
+
+  We are looking for a Senior Software Engineer to lead the
+  production systems for our Context Services team. You will
+  serve as the bridge between our Applied Scientists/AI
+  Engineers and the central Platform Engineering team. In this
+  role, you will focus on turning complex analytical
+  solutions—ranging from traditional ML/DL models to modern
+  LLM agents—into highly reliable, production-grade software
+  services.
+
+  The Impact you bring to Cognite
+
+  Key Responsibilities:
+
+  - Architecture & Scale: Design robust system architectures and
+    develop low-latency APIs/services capable of supporting
+    thousands of concurrent users with sub-second response
+    times.
+  - Cross-Functional Problem Solving: Collaborate closely with
+    product, architecture, and AI teams to translate complex
+    industrial data problems into scalable solutions.
+  - AI & LLM Orchestration: Architect frameworks for model
+    serving, vector databases, and agentic workflows (LLM
+    agents), ensuring reliable state management and prompt
+    tracking.
+  - Platform Integration: Act as the technical liaison with the
+    central Platform team, leveraging core infrastructure to
+    build reliable AI pipelines and workflows.
+  - Innovation: Drive technical innovation through research,
+    prototyping, and potential contributions to open-source
+    initiatives.
+
+  Qualifications & Skills:
+
+  - Experience: 6–10 years of industry experience in Software
+    Engineering, Backend Engineering, or Systems Engineering,
+    with exposure to AI, ML, or LLM-based production systems.
+  - Programming: Strong proficiency in Python and experience
+    building high-concurrency applications, asynchronous
+    programming, or REST/gRPC APIs.
+  - Systems: Solid understanding of containerization (Docker)
+    and modern deployment environments (such as Kubernetes or
+    cloud platforms).
+  - AI Knowledge: Familiarity with the broader AI
+    lifecycle—including traditional model registries, vector
+    databases, or LLM evaluation frameworks—is a major plus,
+    but a strong ability to learn new paradigms is essential.
+
+
+
+
+
+
+
+  Learn more about us
+
+
+
+
+
+
+
+  - Impact 2025
+  - Cognite's Industrial AI: Moonshot
+  - We’re globally recognized domain experts with an
+    international presence that spans Phoenix, Houston, Oslo
+    Tokyo, Bengaluru, and Abu Dhabi.
+
+
+
+
+
+  Equal Opportunity
+
+  Cognite is committed to creating a diverse and inclusive
+  environment at work and is proud to be an equal opportunity
+  employer. All qualified applicants will receive the same
+  level of consideration for employment.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Analytics
+  - Industrial
+  - Generative AI
+  - Big Data Analytics
+posted_date: 2026-09-17
+url: "https://builtin.com/job/senior-software-engineer-ai-ml-context-services/11232106"
+source: Built In

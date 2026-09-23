@@ -1,0 +1,161 @@
+job_id: 11050320
+title: Senior AI Automation Engineer
+company: RSM UK Group LLP
+location: London, GBR
+locations:
+  - London, GBR
+  - Birmingham, GBR
+work_type: FULL_TIME
+company_size: 5,420 Employees
+description: |
+  As one of the world's largest networks of audit, tax and
+  consulting firms, RSM delivers big ideas and premium service
+  to help middle-market businesses thrive. We are a fast-
+  growing firm with big ambitions - we have a clear goal to
+  become the premium adviser to the middle market, globally.
+  This vision touches everything we do, motivating and
+  inspiring us to become better every day. If you are looking
+  for a firm where you can build a future and make an impact,
+  then RSM is the place for you.
+
+  Make an Impact at RSM UK
+
+  Our Tax Technology team is dynamic, fast-paced and mission
+  driven. We are building a specialist AI engineering
+  capability within our internal tax technology function to
+  design and deliver AI-powered agents, automated workflows,
+  and scalable integrations across enterprise platforms. The
+  Senior AI Automation Engineer role sits at the intersection
+  of applied AI, software engineering, and automation. You
+  will build production-grade AI systems, orchestrate complex
+  workflows, and help define engineering standards, while
+  supporting the development of early-career engineers.
+
+  This is a hands-on engineering role focused on delivering
+  working systems into production within a governed enterprise
+  environment. You will see your work used quickly in real
+  operations, with AI tools and automation adopted directly by
+  internal tax teams. The focus is on delivering high-impact
+  solutions, measuring outcomes, and iterating based on real-
+  world usage.
+
+  You will make an impact by:
+
+  - Designing and building AI agents and multi-step workflows
+    for internal tax use cases
+  - Developing Python-based services and automation pipelines
+    for production use
+  - Integrating AI systems with internal platforms using APIs
+    and event-driven architectures
+  - Orchestrating workflows across Copilot Studio, Azure AI /
+    Foundry, and internal systems
+  - Building reusable components such as connectors, tools, and
+    agent capabilities
+  - Implementing CI/CD pipelines for reliable deployment and
+    versioning
+  - Ensuring solutions are scalable, observable, and
+    maintainable in enterprise environments
+  - Leading technical design and code reviews
+
+  What we are looking for:
+
+  Are you someone who thrives on variety, loves learning new
+  things, and enjoys connecting with people? If you can spot
+  inefficiencies in everyday life and are passionate about
+  making improvements, this role is perfect for you!
+
+  We value diverse experiences and perspectives. Here’s what
+  we’re looking for in our ideal candidate:
+
+  - Strong systems thinking and problem-solving ability
+  - Comfortable in fast-evolving AI environments
+  - Balances experimentation with engineering discipline
+  - Clear communicator across technical teams
+  - Experience in automation or integration-heavy environments
+  - Experience in workflow orchestration or event-driven systems
+  - Experience with large-scale or high-throughput systems
+  - Experience in financial, tax, or regulated environments
+  - Experience in prompt evaluation, versioning, and AI
+    governance
+  - Experience in internal platform or shared services
+    engineering
+
+  Core Engineering
+
+  - Strong Python engineering skills (APIs, testing, modular
+    design, async processing)
+  - Experience building production-grade applications
+  - Comfortable working across an AI-enabled stack, with depth
+    in some areas and willingness to grow others
+
+  AI & Automation
+
+  - Experience building production AI/LLM applications, agents,
+    or workflows (e.g. Azure OpenAI, Copilot Studio, or
+    equivalent)
+  - Understanding of agent patterns, orchestration, tool use,
+    and LLM limitations
+
+  Integration & APIs
+
+  - Experience with REST/GraphQL APIs, authentication, and
+    system integration
+  - Experience building reusable services and connectors
+  - MCP or similar integration patterns desirable
+
+  Cloud & Platforms
+
+  - Microsoft Azure experience (AI services, Functions,
+    containers)
+  - Exposure to Copilot Studio or similar ecosystems beneficial
+
+  DevOps & Delivery
+
+  - CI/CD pipelines, Git workflows, automated testing
+  - Deployment, monitoring, and production reliability
+  - Containerisation (Docker / Kubernetes / Azure Container
+    Apps)
+
+  What we can offer you:
+
+  We recognise that our people are our most important assets.
+  That’s why we offer a flexible reward and benefits package
+  that will help you have fulfilling experience, both in and
+  out of work.
+
+  - Hybrid and Flexible working
+  - 27 Days Holiday (with the option of purchasing additional
+    days)
+  - Lifestyle, Health, and Wellbeing including financial
+    wellbeing benefits such as financial tools,
+  - Electric car scheme and access to a virtual GP.
+  - Access to a suite of 300+ courses on demand developed by our
+    inhouse Talent Development team.
+
+  #LI-DM1
+
+  Diversity and Inclusion at RSM
+
+  At RSM, we want to create a strong sense of belonging so
+  that people of all identities, backgrounds, and cultures
+  feel they can bring their true self to work. Our clients
+  come from all walks of life. We aim to achieve that same
+  diversity of background, experience and perspective in our
+  own teams, so that we can genuinely understand our client's
+  needs. Diverse teams bring a broader range of ideas and
+  insights to work. That's why we're working together to
+  ensure our firm's principles and processes support a firm
+  culture that embraces difference and strengthens inclusion.
+  At RSM we work hard to create an environment where our
+  people can make a difference - to themselves, their career,
+  their teams, and to the success of our firm and clients. We
+  support all our people to work flexibly, to manage their
+  family and other responsibilities alongside their work
+  commitments; we believe this is key to achieving an
+  inspiring and fulfilling working environment.
+industries:
+  - Professional Services
+  - Consulting
+posted_date: 2026-09-08
+url: "https://builtin.com/job/senior-ai-automation-engineer/11050320"
+source: Built In

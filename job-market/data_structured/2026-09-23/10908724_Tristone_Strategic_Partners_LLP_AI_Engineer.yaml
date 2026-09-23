@@ -1,0 +1,54 @@
+company:
+  name: Tristone Strategic Partners LLP
+  stage: null
+  focus: Financial services, investment and accounting advisory
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agents, MCP servers, prompts,
+      and evaluation loops that shape LLM output quality and
+      reliability, which is squarely shaping model behavior via
+      agent flows and evals. LLM/agent components dominate, so it
+      is ai-first.
+  responsibilities:
+  - Design, build, and deploy AI-powered agents and workflow automations across the
+    firm
+  - Build agents, MCP servers, and evaluation loops for reliable AI-generated code
+  - Work hands-on with the Claude ecosystem (Cowork, Claude Code, Connectors, Skills,
+    Plugins) and other AI platforms
+  - 'Own end-to-end deployment lifecycle: packaging, testing, hosting, and monitoring
+    AI tools in production'
+  - Review and validate AI-generated outputs for accuracy and reliability
+  - Collaborate with teams to identify process automation opportunities
+  - Assess which client and fund data may be sent to which model, using approved endpoints
+    and enterprise tooling
+  - Evaluate new AI tools and platforms for adoption and document technical approaches
+  use_cases:
+  - Agentic AI embedded into financial services workflows and systems
+  - Reliable, auditable AI-generated code for the firm
+  - Automating repetitive manual processes with AI and workflow orchestration
+  - Validated AI-generated outputs for internal and client-facing use in finance
+  - Secure handling of client and fund data with approved model endpoints
+  skills:
+    genai: [Claude Code, MCP, AI Agents, Agentic Workflows, Prompt Engineering, ChatGPT,
+      Gemini, GitHub Copilot, LLM Evaluation, LLMs, Workflow Orchestration, Function
+        Calling]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Monitoring, Codex]
+    languages: [Python, SQL]
+    domains: []
+    other: [Workflow Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10908724'
+  location: Mumbai, IND
+  extracted_at: '2026-09-23T11:06:19.219188'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

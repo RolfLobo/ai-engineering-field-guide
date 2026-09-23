@@ -1,0 +1,50 @@
+company:
+  name: Bristol Myers Squibb
+  stage: null
+  focus: Pharmaceutical company developing innovative medicines
+position:
+  title: AI Engineer - Quality system
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role supports AI-enabled solutions in a Quality
+      organization but only assists with data preparation,
+      validation, and system integration (LIMS); it does not shape
+      model behavior via prompts, retrieval, or training. AI/ML is
+      mentioned as a basic/nice-to-have understanding, and the
+      deliverable is quality process digitization and compliance,
+      not model behavior.
+  responsibilities:
+  - Support development and implementation of AI-enabled solutions to improve Quality
+    processes
+  - Collaborate with Quality stakeholders to translate requirements into technology
+    solutions
+  - Assist in data preparation, analysis, and validation for AI/ML models
+  - Contribute to digital transformation across laboratory and quality systems
+  - Support integration and enhancement of systems such as LIMS
+  - Document processes and workflows in a compliant environment
+  - Participate in testing, validation, and deployment
+  use_cases:
+  - AI-enabled quality process improvement in pharmaceutical manufacturing
+  - Laboratory and quality system digital transformation
+  - Data preparation and validation for AI/ML models in a regulated environment
+  - LIMS integration and enhancement for quality workflows
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: []
+    domains: []
+    other: [LIMS, Workflow Automation, GxP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10995098'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:11:11.101180'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

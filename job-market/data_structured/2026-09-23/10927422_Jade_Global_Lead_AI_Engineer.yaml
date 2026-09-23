@@ -1,0 +1,52 @@
+company:
+  name: Jade Global
+  stage: null
+  focus: IT services and consulting, cloud and AI engineering
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds GenAI integrations and agentic workflows
+      (LangChain, LlamaIndex, RAG) as core responsibilities,
+      shaping LLM-driven components and reusable AI frameworks.
+      This makes it ai-first, though much of the role is
+      conventional application engineering.
+  responsibilities:
+  - Write production-grade code for component features and API integrations
+  - Build backend microservices with unit testing, refactoring, and bug resolution
+  - Implement GenAI integration patterns, agentic workflows, and intelligent automation
+  - Develop AI engineering frameworks, solution accelerators, and reusable assets
+  - Engage with client technical teams on integration requirements and constraints
+  - Support pre-sales activities including technical assessments and proof-of-concept
+    design
+  - Deploy cloud-native services on AWS, Azure, or GCP with containers and serverless
+  - Mentor junior engineers and contribute to internal community of practice
+  use_cases:
+  - GenAI integration for enterprise applications
+  - Agentic workflows and intelligent automation
+  - Cloud migration and application modernization
+  - API integrations across enterprise systems
+  skills:
+    genai: [OpenAI API, LangChain, LlamaIndex, RAG, Agentic Workflows, Generative
+        AI]
+    ml: [Machine Learning]
+    web: [ASP.NET Core, Node.js, Microservices]
+    databases: []
+    data: []
+    cloud: [Azure OpenAI, AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, GitHub Actions, Azure DevOps]
+    languages: [Python, .NET, C#, Java]
+    domains: []
+    other: [RPA, ServiceNow, Salesforce, Oracle, SAP, Code Review]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10927422'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Hyderabad, IND
+  extracted_at: '2026-09-23T11:07:18.662495'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: Zenity
+  stage: Series C
+  focus: AI agent security platform for enterprises
+position:
+  title: GTM AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns AI applications end to end from design through
+      production, including structuring data and context for AI
+      systems to make outputs reliable — that is shaping model
+      behavior, not just consuming an API. It involves LLM/agentic
+      AI workflows, so it is ai-first.
+  responsibilities:
+  - Own AI projects end to end from initial problem conversation through production
+    deployment
+  - Identify automation and AI workflow opportunities across GTM, ops, product, and
+    strategy
+  - Translate messy internal processes into scoped specs and working systems
+  - Deploy AI applications using cloud infrastructure and integrate them into the
+    GTM stack
+  - Prioritize a pipeline of AI projects with GTM leadership
+  - Gather requirements directly from end users via interviews
+  use_cases:
+  - GTM automation and AI workflows to increase business throughput
+  - AI-powered internal tools for Sales, Marketing, Field Engineering, and Partner
+    teams
+  - Operational systems that remove friction from internal business processes
+  skills:
+    genai: [Claude Code]
+    ml: []
+    web: [Vercel]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: []
+    domains: []
+    other: [Workato, HubSpot, Zapier]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11217016'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-09-23T11:27:53.811108'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,59 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Global digital payments technology and services
+position:
+  title: Lead AI platform Engineer (DevOps)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates the AI platform infrastructure
+      (cloud, MLOps, observability, CI/CD) that other teams use to
+      deploy AI solutions. The deliverable is capacity,
+      reliability, and developer enablement — not shaping model
+      behaviour through prompts, retrieval, or training. Model
+      evaluation/guardrails experience is only listed as preferred
+      platform-support work.
+  responsibilities:
+  - Design, build, and operate enterprise AI platforms supporting ML, generative AI,
+    and analytics workloads
+  - Engineer scalable, secure solutions across public and private cloud environments
+  - Build and automate platform capabilities for onboarding, deployment, operations,
+    and lifecycle management of AI solutions
+  - Develop infrastructure and tooling supporting model training, evaluation, deployment,
+    monitoring, and governance
+  - Implement and enhance MLOps capabilities for repeatable, secure AI development
+    workflows
+  - Design observability solutions including telemetry, logging, alerting, and drift
+    detection
+  - Support production AI platforms, incident response, and root cause analysis
+  - Partner with internal engineering, security, and governance teams to enable platform
+    adoption
+  use_cases:
+  - Enterprise AI platform infrastructure for ML and generative AI workloads
+  - Self-service onboarding and deployment for AI application teams
+  - Model lifecycle management including training, evaluation, deployment, and monitoring
+  - AI observability with telemetry, drift detection, and operational analytics
+  - Secure, governed AI operations in regulated environments
+  skills:
+    genai: [LLMs, Generative AI, Guardrails, Fine-Tuning, LLM Evaluation, Agentic
+        Workflows]
+    ml: [Machine Learning, Model Evaluation, Deep Learning, Neural Networks, Hyperparameter
+        Tuning, Reinforcement Learning, Drift Detection]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [Kubernetes, OpenShift]
+    ops: [CI/CD, MLOps, Docker, Helm, GitOps, Infrastructure as Code, Observability,
+      Monitoring, Model Monitoring, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10967373'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:09:44.846675'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

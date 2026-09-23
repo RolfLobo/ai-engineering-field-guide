@@ -1,0 +1,123 @@
+job_id: 10974633
+title: Fullstack Software Engineer, Gen AI Systems
+company: Ayrin Digital
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  This is a remote position.
+
+
+
+
+
+  We are hiring a Fullstack Software Engineer with deep
+  experience building AI-powered products in production. This
+  is a high-ownership role at the intersection of fullstack
+  engineering, AI systems design, and product thinking. You
+  will not simply integrate APIs. You will architect multi-
+  agent systems, design RAG pipelines, and take AI features
+  from concept to production with full accountability for
+  system reliability, performance, and cost.
+
+
+
+
+  You will work across the entire stack (frontend, backend,
+  data, and cloud infrastructure) and operate as a product-
+  minded engineer who drives outcomes, not just ships code.
+  You will collaborate directly with Product Owners, Subject
+  Matter Experts, and cross-functional teams to translate
+  ambiguous requirements into production-ready solutions.
+
+
+
+
+  If you thrive in ambiguity, care deeply about outcomes over
+  output, and want to shape how AI is built into real
+  products, this role is for you.
+
+
+  Responsibilities
+
+
+
+
+  Fullstack Product Development
+
+
+
+  - Own features end-to-end: from UI (React/Next.js) through API
+    design (Node.js/NestJS) to cloud deployment.
+  - Partner with Product Owners and Subject Matter Experts to
+    translate requirements into shipped solutions.
+  - Contribute product ideas that improve usability,
+    performance, and business impact.
+
+
+
+  AI Engineering and Systems Design
+
+
+
+
+  - Design and build multi-agentic systems where autonomous AI
+    agents collaborate to solve complex, real-world task
+  - Architect and implement RAG pipelines using vector databases
+    and LLM orchestration frameworks.
+  - Take AI-powered features from prototype to production,
+    owning model serving, latency optimization, cost
+    management, and system reliability.
+  - Work with AI SDK, LangGraph/LangChain, CrewAI, or equivalent
+    tools to build and orchestrate AI workflows.
+
+
+
+  Cloud Infrastructure and Deployment
+
+
+
+
+  - Design, deploy, and manage scalable systems on cloud
+    platforms (AWS, GCP, or Azure).
+  - Apply cloud-agnostic thinking: understand core concepts
+    regardless of provider.
+
+
+
+
+    Requirements
+
+   Minimum Qualifications:
+
+
+
+
+
+
+  - 3-5+ years of professional experience building production
+    applications with React/Next.js, Node.js/NestJS, and
+    PostgreSQL.
+  - Hands-on experience with at least one of: AI SDK (Vercel),
+    LangGraph/LangChain, or CrewAI.
+  - Proven track record designing, orchestrating, and deploying
+    multi-agent AI systems in production.
+  - Working experience with vector databases (Pinecone,
+    Weaviate, pgvector, or similar) and RAG pipeline design.
+  - Strong understanding of AI deployment and system design:
+    model serving, latency optimization, cost management, and
+    production reliability.
+  - Experience with prompt engineering, model selection, and
+    evaluation.
+  - Solid understanding of cloud concepts and services across
+    AWS, GCP, or Azure.
+  - Experience deploying and managing production workloads in at
+    least one major cloud platform.
+industries:
+  - Artificial Intelligence
+  - Software
+  - App development
+  - Automation
+posted_date: 2026-09-02
+url: "https://www.builtinla.com/job/fullstack-software-engineer-gen-ai-systems/10974633"
+source: Built In

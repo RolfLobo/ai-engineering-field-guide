@@ -1,0 +1,56 @@
+company:
+  name: Version 1
+  stage: null
+  focus: |-
+    Technology and transformation consulting for enterprise
+    clients
+position:
+  title: Senior AI Backend Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds application features using LLMs, RAG,
+      embeddings, prompt engineering and function calling, which
+      is shaping model behaviour and output quality. LLM
+      components are central, so ai-first. Explicitly does not
+      need model-training or agentic-platform architecture
+      experience, but the hands-on prompt/RAG work is sufficient.
+  responsibilities:
+  - Design, build and maintain Python backend services and REST APIs powering Financial
+    Services products
+  - Design data models and work with relational and other data stores
+  - Integrate backend services with an established AI platform using Amazon Bedrock,
+    AgentCore and SageMaker APIs
+  - Build application features using LLMs, RAG, embeddings, prompt engineering and
+    function calling
+  - Write automated tests and maintain CI/CD pipelines for reliable deployments
+  - Diagnose and resolve production issues around latency, reliability, performance
+    and data quality
+  - Implement observability across logs, metrics, tracing and alerts
+  - Partner with US-based product, business, data and AI platform teams
+  use_cases:
+  - AI-enabled services for institutional trading
+  - Risk and portfolio management decision support
+  - Real-time financial market data integrations
+  - AI-powered search and retrieval over financial data
+  skills:
+    genai: [RAG, Embeddings, Prompt Engineering, Function Calling, LLMs, Generative
+        AI]
+    ml: []
+    web: [REST APIs]
+    databases: [PostgreSQL, pgvector, Vector Databases]
+    data: [Databricks, Data Pipelines]
+    cloud: [AWS, AWS Bedrock, SageMaker]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, Monitoring, Observability, Jenkins,
+      Distributed Systems, AgentCore]
+    languages: [Python]
+    domains: []
+    other: [OAuth, SSO, RBAC]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11273845'
+  location: Mumbai, IND
+  extracted_at: '2026-09-23T11:33:58.927432'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,179 @@
+job_id: 10949418
+title: Software Engineering Technical Leader - SRE + Kubernetes + Cloud + Automation + Incident Management + AI-first (10-14 Years)
+company: Cisco
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 77,500 Employees
+description: |
+  Meet the Team
+
+  Cisco’s Collaboration Business Unit empowers people and
+  organizations worldwide to connect, communicate, and
+  innovate seamlessly.
+
+  You will collaborate with a global team of software
+  engineers and SREs responsible for delivering extraordinary
+  collaboration experiences at scale. Our team supports
+  backend services deployed worldwide and works closely with
+  development, product, and operations partners to ensure
+  reliability and performance.
+
+  Webex is powering the shift to the hybrid workforce, helping
+  people stay connected in a rapidly evolving digital world.
+  We cultivate a startup-like culture that values innovation,
+  ownership, and collaboration, while offering the scale and
+  impact of a global technology leader.
+
+  Your impact
+
+  From a reliability standpoint, this role involves evaluating
+  the scalability, resiliency, performance, and security
+  properties and techniques used in production environments.
+  It supports the uptime of production services through an On-
+  Call rotation, which includes monitoring and alerting to
+  meet internal Service Level Objectives (SLOs) and customer-
+  facing Service Level Agreements (SLAs). Ensuring reliable
+  incident processes is achieved by conducting Disaster
+  Recovery drills.
+
+  The role also focuses on improving reliability through
+  incident management by investigating incidents, implementing
+  remediation strategies, and learning from past incidents to
+  make improvements. It involves determining the reliability
+  and security requirements of components and systems to meet
+  the reliability objectives of the company, customers, and
+  any relevant governmental agencies. Additionally, the role
+  aims to reduce operational expenses through automation, by
+  identifying and mitigating failure points, and automating
+  repetitive and resource-intensive tasks. It also involves
+  developing new acceleration techniques and analytical tools
+  to ensure the early identification of potential issues with
+  new products, packaging, processes, and overall product
+  reliability.
+
+  Specifically:
+
+  - Own the deployment and operation of critical collaboration
+    services across cloud and hybrid environments, driving
+    reliability and scalability.
+  - Design, evolve, and optimize CI/CD pipelines and automation,
+    including AI‑first tooling for deployment, monitoring, and
+    incident response.
+  - Lead incident response for complex production issues,
+    perform root cause analysis, and drive systemic
+    reliability and performance improvements.
+  - Use observability data to guide capacity planning, scaling
+    strategies, and resource optimization across services.
+  - Define and champion operational best practices,
+    documentation standards, and a culture of reliability and
+    operational excellence.
+
+  Minimum Qualifications
+
+  - Bachelor’s degree in Computer Science, Engineering, or
+    related field (or equivalent experience) with 7–13 years
+    in Site Reliability Engineering, Cloud Operations, or
+    Systems Engineering.
+  - Strong hands-on experience operating production services
+    using Docker and Kubernetes in cloud or hybrid
+    environments.
+  - Proficiency in one or more programming or scripting
+    languages (e.g., Python, Go, Bash) to build automation and
+    operational tooling.
+  - Experience with monitoring, observability, and incident
+    response in production environments, including on-call
+    participation and post-incident reviews.
+  - Working knowledge of Linux systems, networking, distributed
+    systems, CI/CD pipelines, infrastructure-as-code, and Git-
+    based workflows.
+
+  Preferred Qualifications
+
+  - Experience operating large-scale, globally distributed SaaS
+    platforms.
+  - Familiarity with hybrid cloud environments and multi-region
+    deployments.
+  - Experience applying AI-assisted or automation-first
+    approaches to SRE tooling and workflows.
+  - Strong written communication skills for creating clear
+    operational documentation and runbooks.
+
+  Why Cisco?
+
+  At Cisco, we’re revolutionizing how data and infrastructure
+  connect and protect organizations in the AI era – and
+  beyond. We’ve been innovating fearlessly for 40 years to
+  create solutions that power how humans and technology work
+  together across the physical and digital worlds. These
+  solutions provide customers with unparalleled security,
+  visibility, and insights across the entire digital
+  footprint.
+
+  Fueled by the depth and breadth of our technology, we
+  experiment and create meaningful solutions. Add to that our
+  worldwide network of doers and experts, and you’ll see that
+  the opportunities to grow and build are limitless. We work
+  as a team, collaborating with empathy to make really big
+  things happen on a global scale. Because our solutions are
+  everywhere, our impact is everywhere.
+
+  We are Cisco, and our power starts with you.
+
+  Why Cisco?
+
+  At Cisco, we’re revolutionizing how data and infrastructure
+  connect and protect organizations in the AI era – and
+  beyond. We’ve been innovating fearlessly for 40 years to
+  create solutions that power how humans and technology work
+  together across the physical and digital worlds. These
+  solutions provide customers with unparalleled security,
+  visibility, and insights across the entire digital
+  footprint.
+
+  Fueled by the depth and breadth of our technology, we
+  experiment and create meaningful solutions. Add to that our
+  worldwide network of doers and experts, and you’ll see that
+  the opportunities to grow and build are limitless. We work
+  as a team, collaborating with empathy to make really big
+  things happen on a global scale. Because our solutions are
+  everywhere, our impact is everywhere.
+
+  We are Cisco, and our power starts with you.
+
+  Disclaimer
+
+  To ensure that we hire the best talent in the right way, we
+  follow a strict hiring process and recently, Cisco has been
+  made aware of fraudulent recruiters claiming to be from the
+  company. Please be advised that any communication from Cisco
+  about careers will:
+
+  - be in direct response to an application you have submitted
+    through the company career site
+  - begin with screening or an interview
+  - originate from a Cisco email address, and
+  - be conducted across email, phone, or WebEx
+
+  Cisco will never make a job offer without conducting an
+  interview process or ask you for money in any way. If you
+  have been requested to apply for a role or have received an
+  offer from a site other than https://careers.cisco.com or
+  cisco.wd5.myworkday.com, do not provide any personal
+  identifying information, including your Aadhaar or other
+  personal identifying number, birth certificate, banking
+  information, driver's license, or passport.
+
+  If you are the target of a recruiting scam, consider filing
+  a report with your local law enforcement authorities. Cisco
+  bears no responsibility, and cannot be held liable, for any
+  claims, damages, expenses, or other inconvenience resulting
+  from or in any way connected to recruiting scams.
+industries:
+  - Cloud
+  - Information Technology
+  - Internet of Things
+  - Professional Services
+  - Software
+posted_date: 2026-09-01
+url: "https://builtin.com/job/software-engineering-technical-leader-sre-kubernetes-cloud-automation-incident-management-ai-first-10-14-years/10949418"
+source: Built In

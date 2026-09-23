@@ -1,0 +1,46 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Senior Data Engineer-Data Bricks, Airflow, Snowflake, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a data engineering position building Databricks,
+      Airflow, and Snowflake pipelines. AI appears only as "AI
+      usage to add efficiency" in preferred qualifications—a tool
+      usage mention, not shaping model behavior. No prompts,
+      retrieval, training, or eval work exists in the
+      responsibilities.
+  responsibilities:
+  - Design, develop, and maintain scalable data pipelines using Databricks (Spark
+    / PySpark)
+  - Orchestrate and monitor batch and incremental workflows with Apache Airflow
+  - Build and optimize ELT pipelines in Snowflake for performance and cost efficiency
+  - Develop production-quality Python code for data processing and integrations
+  - Design, build, and host APIs and data services using Azure-native services
+  - Implement data quality checks, logging, alerting, and observability for production
+    pipelines
+  - Collaborate with analytics, product, and platform teams for downstream data consumption
+  - Troubleshoot and resolve production issues across data pipelines and cloud infrastructure
+  use_cases: []
+  skills:
+    databases: [Snowflake]
+    domains: []
+    data: [Databricks, Spark, PySpark, Airflow, Data Modeling, Data Pipelines]
+    web: [REST APIs]
+    ml: []
+    ops: [CI/CD, Git]
+    other: []
+    cloud: [Azure, Azure Functions]
+    languages: [Python, SQL]
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11005037'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:12:10.333721'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

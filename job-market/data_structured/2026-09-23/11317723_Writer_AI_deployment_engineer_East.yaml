@@ -1,0 +1,50 @@
+company:
+  name: Writer
+  stage: null
+  focus: Enterprise generative AI platform and LLMs
+position:
+  title: AI deployment engineer (East)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward deployed/solutions role that architects AI
+      applications using Writer's platform and LLMs, designs
+      sophisticated prompts, and delivers tailored AI agent
+      solutions for enterprise customers. They shape model
+      behaviour through prompt design and solution architecture,
+      so it is ai-first.
+  responsibilities:
+  - Partner with enterprise customers to identify strategic AI use cases and validate
+    technical feasibility
+  - Own end-to-end implementation of tailored AI solutions for customer accounts
+  - Architect and deliver custom applications, templates, and integrations leveraging
+    Writer's platform, APIs, and Knowledge Graph
+  - Translate technical concepts into prescriptive solution recommendations for customers
+  - Collaborate with Product and Engineering teams, providing customer feedback that
+    shapes the roadmap
+  - Develop scalable processes, documentation, and workflows for technical integrations
+    to reduce time-to-value
+  - Champion adoption and expansion of Writer's AI solutions within customer accounts
+  use_cases:
+  - Enterprise AI agent applications grounded in company data
+  - Custom generative AI applications and templates for business challenges
+  - Technical integrations connecting Writer's platform to enterprise systems
+  skills:
+    genai: [Prompt Engineering, LLMs, Generative AI]
+    ml: []
+    web: [APIs]
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11317723'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:36:51.029979'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

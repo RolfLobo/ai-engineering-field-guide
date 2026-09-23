@@ -1,0 +1,58 @@
+company:
+  name: Mirantis
+  stage: null
+  focus: Kubernetes-native AI and cloud infrastructure platform
+position:
+  title: AI Storage Infrastructure Engineer - remote in the US
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys, integrates, and operates storage
+      infrastructure for AI/GPU workloads (NFS, CSI, Kubernetes).
+      It never shapes model behavior — no prompts, retrieval,
+      evals, or training; it moves data to and hosts
+      infrastructure that others' workloads run on. Per the edge
+      cases, hosting/scaling infrastructure supporting AI is ai-
+      support.
+  responsibilities:
+  - Integrate NFS-based high-performance storage (VAST, Dell PowerScale) into Kubernetes
+    clusters via CSI, storage classes, and persistent volumes
+  - Tune the NFS data path (mount options, nconnect/RDMA, Linux client, network settings)
+    for high-throughput, low-latency GPU/AI workloads
+  - Deploy and operate storage services and operators; manage capacity, quotas, snapshots,
+    and lifecycle
+  - Configure and optimize Linux systems for storage workloads including drivers,
+    file system layout, and kernel tuning
+  - Deliver storage integration for k0s-based Kubernetes via Cluster API and K0rdent
+    cluster topologies
+  - Operate storage in air-gapped environments including Harbor mirrors and PKI/TLS
+  - Automate storage provisioning with infrastructure-as-code (Terraform/OpenTofu)
+    and GitOps pipelines (ArgoCD or Flux)
+  - Build monitoring, alerting, and observability for storage performance, capacity,
+    and health
+  use_cases:
+  - High-performance storage for GPU-accelerated compute and AI platforms
+  - Data delivery to AI/ML workloads in Kubernetes at scale
+  - Storage across hybrid, edge, and air-gapped deployments
+  - Kubernetes storage automation and observability
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: []
+    ops: [Kubernetes, Linux, CSI, Terraform, GitOps, ArgoCD, Flux, Cluster API, Monitoring,
+      Infrastructure as Code]
+    other: [NFS, Harbor, VAST, Dell PowerScale, Weka, DDN, RDMA, GPU Orchestration]
+    cloud: []
+    languages: []
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11137878'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:20:58.905393'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,48 @@
+company:
+  name: Mittal Group
+  stage: null
+  focus: IT and business solutions conglomerate
+position:
+  title: AI Developer & Implementer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is building web applications and business
+      automations with AI tools as assistants (ChatGPT, Copilot,
+      Claude Code) — using AI to code, not shaping model
+      behaviour. AI Agents/RAG/LLM development appear only under
+      "Good to Have", which does not make the role ai-first.
+  responsibilities:
+  - Develop and implement AI-based applications and business solutions
+  - Build web applications using JavaScript/TypeScript and React.js
+  - Develop and integrate REST APIs, webhooks, and third-party services
+  - Create business automations using n8n or similar tools
+  - Integrate AI solutions with CRM, ERP, and other business systems
+  - Work with databases, cloud platforms, Git/GitHub, and CI/CD
+  - Test, debug, deploy, and maintain applications
+  - Understand business requirements and independently implement technology solutions
+  use_cases:
+  - Business process automation
+  - AI-powered business applications
+  - CRM and ERP system integration
+  - API and third-party service integrations
+  - Web applications for internal business needs
+  skills:
+    genai: [ChatGPT, Codex, Claude Code, GitHub Copilot, AI Agents, RAG, LLMs]
+    ml: []
+    web: [React, REST APIs, Webhooks, Next.js, Node.js, Django]
+    databases: [SQL, PostgreSQL, MySQL]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Git, GitHub, CI/CD, GitHub Actions, Docker]
+    languages: [JavaScript, TypeScript, Python]
+    domains: []
+    other: [n8n, CRM/ERP Integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11180960'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:23:45.266404'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

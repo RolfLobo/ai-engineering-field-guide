@@ -1,0 +1,66 @@
+company:
+  name: CDW
+  stage: Fortune 500
+  focus: |-
+    Technology solutions provider for business, government,
+    education, healthcare
+position:
+  title: Senior Threat Engineer - AI-Powered Detection, Response & Continuous AI Red
+    Teaming
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM and agent behaviour: it red teams
+      prompts, agents, and detection models for prompt injection
+      and evasion, designs guardrails (confidence thresholds,
+      rollback paths) for autonomous AI response, and applies LLMs
+      and agentic tooling to detection, triage, and response
+      generation. These are LLM/agent components, so ai-first.
+  responsibilities:
+  - Engineer high-fidelity detections across identity, endpoint, network, cloud, and
+    SaaS with paired automated response paths
+  - Apply AI and machine learning to triage, correlate, and enrich alerts, clustering
+    signals into incident narratives
+  - 'Build autonomous and semi-autonomous response playbooks with guardrails: confidence
+    thresholds, blast-radius controls, human-in-the-loop escalation, and rollback'
+  - Operate continuous automated adversary emulation against production controls,
+    using AI to generate and mutate attack behavior
+  - Red team internal AI systems for prompt injection, model evasion, data poisoning,
+    and unsafe autonomous action
+  - Run hypothesis-driven threat hunts across SIEM, XDR, identity, and cloud telemetry
+    and convert findings into automated detections
+  - 'Treat detection content as software: version controlled, unit tested, and promoted
+    through CI/CD with security gates'
+  - Develop Python integrations and tooling against platform APIs and event-driven
+    architectures, and mentor engineers on AI use in defense
+  use_cases:
+  - AI-powered threat detection and autonomous incident response
+  - Alert triage and correlation into single incident narratives
+  - Autonomous containment playbooks (host isolation, token revocation, credential
+    disable)
+  - Continuous automated adversary emulation and breach simulation
+  - 'AI red teaming: prompt injection, model evasion, and agent safety testing'
+  - Threat intelligence extraction and detection logic generation from unstructured
+    reporting
+  skills:
+    genai: [LLMs, AI Agents, Prompt Injection]
+    ml: [Machine Learning]
+    web: []
+    databases: [Splunk]
+    data: []
+    cloud: [Microsoft Sentinel, Microsoft Defender]
+    ops: [CI/CD, Infrastructure as Code]
+    languages: [Python]
+    domains: []
+    other: [SIEM, MITRE ATT&CK, SOAR, Threat Hunting, Incident Response, Adversary
+        Emulation, CrowdStrike, Entra ID, Atomic Red Team, Caldera, Cobalt Strike,
+      Tines]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11081742'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:38.531745'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

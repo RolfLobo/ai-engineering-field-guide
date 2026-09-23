@@ -1,0 +1,51 @@
+company:
+  name: Connolly
+  stage: null
+  focus: Healthcare analytics and payment accuracy solutions
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic solutions and agent
+      frameworks (LangChain, LangGraph, CrewAI, AutoGen), which is
+      shaping LLM/agent behavior — Step 1 yes, Step 2 ai-first.
+      Platform reliability and compliance duties do not change
+      that.
+  responsibilities:
+  - Design and implement scalable agentic solutions for diverse use cases
+  - Build and maintain a centralized AI platform with unified APIs for cross-functional
+    team access
+  - Build various types of agents using open source AI technologies
+  - Work with Product Engineers to integrate AI agents into customer-facing applications
+    and internal tools
+  - Lead technical discussions, mentor junior engineers, and help set technical vision
+    for the AI platform roadmap
+  - Ensure compliance with security, privacy, and regulatory requirements
+  - Optimize performance of AI workloads across compute and storage layers
+  - Conduct performance analysis and capacity planning for platform scalability
+  use_cases:
+  - Centralized AI platform serving organization-wide AI initiatives
+  - Unified API for teams to securely deploy, manage, and access AI agents
+  - AI agents integrated into customer-facing applications and internal tools
+  - Agentic solutions for diverse business use cases
+  skills:
+    genai: [Agentic Workflows, AI Agents, LangChain, LangGraph, CrewAI, AutoGen]
+    ml: []
+    web: [APIs, Microservices]
+    databases: []
+    data: [Databricks]
+    cloud: [SageMaker, Vertex AI, AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, MLflow, Kubeflow, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11103870'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:19:29.617966'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

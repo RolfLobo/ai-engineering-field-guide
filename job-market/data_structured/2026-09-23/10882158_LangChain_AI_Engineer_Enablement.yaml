@@ -1,0 +1,59 @@
+company:
+  name: LangChain
+  stage: Series B ($125M raised)
+  focus: |-
+    Open-source agent frameworks and LangSmith observability
+    platform
+position:
+  title: AI Engineer, Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing agent architectures and
+      evaluation strategies, teaching agent engineering with
+      LangChain/LangGraph, and building internal agents and tools.
+      This is shaping agent systems and LLM evaluation directly,
+      making it ai-first.
+  responsibilities:
+  - Design and deliver live, hands-on workshops building customer fluency with the
+    LangChain ecosystem
+  - Create enablement assets including tutorials, reference implementations, and best-practice
+    guides
+  - Offer technical guidance and office hours to customers
+  - Build internal agents and tools that automate and streamline Enablement team operations
+  - Act as voice of the customer, feeding friction points back to Product and Engineering
+  - Stay current on agent engineering practices and incorporate learnings into teaching
+    materials
+  use_cases:
+  - Customer enablement and training for agent engineering
+  - Production AI agent development and deployment
+  - Agent evaluation, observability, and guardrails
+  - Internal tooling automation via agents
+  skills:
+    genai: [LangChain, LangGraph, LLMs, AI Agents, LLM Evaluation, Guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10882158'
+  location: Tampa, USA
+  locations:
+  - Tampa, USA
+  - Atlanta, USA
+  - New York, USA
+  - Boston, USA
+  - Nashville, USA
+  - Charlotte, USA
+  - Philadelphia, USA
+  - Washington, USA
+  extracted_at: '2026-09-23T11:04:15.194871'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

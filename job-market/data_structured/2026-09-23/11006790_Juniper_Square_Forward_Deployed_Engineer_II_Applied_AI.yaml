@@ -1,0 +1,53 @@
+company:
+  name: Juniper Square
+  stage: null
+  focus: |-
+    Technology and fund administration platform for private
+    markets
+position:
+  title: Forward Deployed Engineer II, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs and builds agentic
+      systems themselves — retrieval and context design, MCP
+      integration, orchestration, evaluation harnesses — shaping
+      LLM agent behaviour at client sites. Customer-facing
+      deployment of AI solutions is ai-first per edge cases.
+  responsibilities:
+  - Work directly with GP clients to identify workflows where custom AI agents create
+    leverage
+  - Support discovery and translate ambiguous business problems into requirements,
+    scope, and acceptance criteria
+  - Design and build agentic systems including retrieval, context design, tool and
+    MCP integration, orchestration, and evaluation harnesses
+  - Carry owned components through full lifecycle from prototype to production rollout
+  - Make engineering trade-offs balancing speed and reliability under client commitments
+  - Operate deployed solutions post-launch, iterating on user feedback
+  - Produce documentation, train users, and support rollouts to drive adoption
+  - Contribute reusable patterns back to the Applied AI component library
+  use_cases:
+  - Custom AI agents for private markets GPs operational workflows
+  - Automation of fund accounting, IR, and deal team workflows
+  - Retrieval and context design for client-specific systems
+  - Evaluation and observability of agentic systems in production
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, MCP, LLM Evaluation]
+    ml: []
+    web: [Full-Stack Development]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Observability, Docker, Infrastructure as Code, CI/CD, Monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11006790'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:12:34.416373'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

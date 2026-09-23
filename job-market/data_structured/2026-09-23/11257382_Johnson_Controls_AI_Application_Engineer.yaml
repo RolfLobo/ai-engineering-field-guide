@@ -1,0 +1,54 @@
+company:
+  name: Johnson Controls
+  stage: null
+  focus: Building products and industrial control systems
+position:
+  title: AI Application Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI-assisted development tools (GitHub Copilot,
+      Azure OpenAI, prompt engineering, RAG) to accelerate legacy
+      code modernization; AI is a productivity tool, not a product
+      being shaped. The deliverable is modernized applications on
+      Microsoft platforms.
+  responsibilities:
+  - Modernize legacy applications built on VB6, Synon, RPG, RPGLE, CLP, and IBM i
+    (AS400) platforms
+  - Use Generative AI, GitHub Copilot, Azure OpenAI, and AI-assisted tools to accelerate
+    code analysis, conversion, testing, and documentation
+  - Design and execute migration strategies from legacy platforms to modern Microsoft
+    technologies
+  - Develop modern business applications with C#, .NET 8+, ASP.NET Core, and .NET
+    MAUI
+  - Design API-first architectures and service-based integrations using Azure services
+  - Lead proof-of-concepts and pilots demonstrating AI-driven modernization capabilities
+  - Establish engineering standards and governance for AI-assisted application development
+  - Mentor development teams on modernization approaches, AI tools, and Microsoft
+    platforms
+  use_cases:
+  - Legacy application modernization from VB6 and AS400 to Microsoft platforms
+  - AI-accelerated code conversion, testing, and documentation
+  - Migration of enterprise mission-critical business applications to cloud-ready
+    solutions
+  - Technical debt reduction and application maintainability improvement
+  skills:
+    databases: [DB2, SQL Server]
+    domains: []
+    data: []
+    web: [.NET, ASP.NET Core, .NET MAUI, WPF, XAML, APIs]
+    ml: []
+    ops: [Azure DevOps, GitHub, CI/CD]
+    other: [Synon, RPG, CLP, IBM i]
+    cloud: [Azure OpenAI, Azure AI Services, Azure, Azure App Services, Azure Functions,
+      Azure API Management, Power Platform]
+    languages: [VB6, C#, HTML5, JavaScript]
+    genai: [Generative AI, GitHub Copilot, Prompt Engineering, RAG, Microsoft Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11257382'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:32:12.500681'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

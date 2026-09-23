@@ -1,0 +1,51 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and credit risk technology
+position:
+  title: Software Engineer III - Java, Kafka, React, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack software engineer building credit
+      risk applications; AI is only mentioned as enterprise-
+      authorized coding assistants the engineer uses to write code
+      faster, which is explicitly ai-support. No shaping of LLM
+      behavior, prompts, or retrieval.
+  responsibilities:
+  - Design and develop secure Java-based applications and services supporting credit
+    risk workflows
+  - Build and maintain responsive front-end features using React for risk analysts
+    and business stakeholders
+  - Write and optimize SQL queries and data models for reporting and analytics across
+    credit risk platforms
+  - Use enterprise-authorized AI coding assist tools to improve code quality and delivery
+    speed, validating outputs through peer review and testing
+  - Produce architecture and design artifacts for complex applications
+  - Identify problems and patterns in data to improve coding hygiene, architecture,
+    and reliability
+  - Collaborate with product, architecture, and business teams on credit risk solutions
+  - Participate in code reviews and support best-practice adoption
+  use_cases:
+  - Credit risk management workflows
+  - Risk reporting and analytics for business stakeholders
+  - Enterprise-scale resilient financial systems
+  skills:
+    genai: []
+    ml: []
+    web: [React, Spring Boot]
+    databases: []
+    data: [Kafka]
+    cloud: [AWS, Azure]
+    ops: [CI/CD, Docker, Kubernetes]
+    languages: [Java, JavaScript, SQL]
+    domains: []
+    other: [Event-Driven Architecture, Agile, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11298492'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:36:36.194990'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

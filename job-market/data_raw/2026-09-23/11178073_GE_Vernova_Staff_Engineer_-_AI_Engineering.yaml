@@ -1,0 +1,109 @@
+job_id: 11178073
+title: Staff Engineer - AI Engineering
+company: GE Vernova
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 75,000 Employees
+description: |
+  Job Description SummaryGE Vernova is seeking a highly
+  skilled AI Engineer to design, develop, and deploy advanced
+  autonomous AI agents leveraging LLMs and advanced AI/ML
+  techniques. The ideal candidate will build intelligent
+  Agents capable of perceiving, reasoning, and acting within
+  complex digital or real-world environments, integrating AI
+  models into scalable applications that solve real-world
+  business challenges autonomously. Responsible for
+  departmental operations planning/execution or is focused on
+  execution of professional activities within a technical
+  discipline. Functions with some autonomy but guided by
+  established policies or review of end results. The job
+  allows modification of procedures and practices covering
+  work as long as the end results meet standards of
+  acceptability (quality, volume, timeliness etc.).
+
+  Job Description
+
+  Key Responsibilities:
+
+  - Design, implement, and optimize AI Agents using LLMs,
+    reinforcement learning, planning algorithms, and decision-
+    making frameworks.
+  - Develop scalable multi AI Agent architectures supporting
+    long horizon reasoning, autonomy, planning, interaction,
+    and complex task completion.
+  - Integrate AI Agents with APIs, backend services, databases,
+    and enterprise applications.
+  - Prototype, deploy, and maintain AI-driven systems ensuring
+    reliability and performance in production environments.
+  - Optimize agent behavior through continuous feedback,
+    reinforcement learning, and user interaction.
+  - Collaborate closely with research, engineering, product, and
+    deployment teams to iterate on agent capabilities and
+    innovate continuously.
+  - Monitor AI Agent performance, conduct rigorous evaluations,
+    implement safety guardrails, and ensure ethical AI
+    practices.
+  - Document AI Agent architectures, design decisions,
+    workflows, and maintain comprehensive technical
+    documentation.
+  - Stay current with emerging AI technologies, contribute to
+    platform and tooling improvements, and share knowledge
+    within the team.
+  - Your mission is to push the boundaries of planning,
+    reasoning, and agentic intelligence. You will design and
+    implement large-scale AI/ML solutions integrating the
+    latest state of the art research in our global products
+
+  Core Technical Skills:
+
+  - Proficiency in Python and/or languages like JavaScript,
+    TypeScript, Node.js, or Java, Go, with strong coding and
+    software engineering practices.
+  - Expertise with AI/ML libraries and frameworks such as
+    LangChain, OpenAI APIs, PyTorch, TensorFlow, commercial or
+    open source LLMs.
+  - Hands-on experience with LLMs, prompt engineering, and
+    natural language processing (NLP).
+  - Knowledge of agent orchestration platforms and multi-agent
+    systems (e.g., AutogenAI, LangGraph, MCP protocol).
+  - Familiarity with data management, vector databases, semantic
+    retrieval, and real-time data pipelines.
+  - Experience deploying AI systems on cloud platforms (AWS,
+    Google Cloud) with container orchestration (Docker,
+    Kubernetes).
+  - Strong understanding of machine learning model training,
+    fine-tuning, and evaluation techniques.
+  - Awareness of AI ethics, data privacy, and secure handling of
+    sensitive information.
+
+  Qualifications:
+
+  - Masters/ PhD degree in Computer Science, AI/ML, Engineering,
+    Mathematics, or related field with 5+ years of relevant
+    experience.
+  - Minimum 3 years of experience in AI, GenAI application
+    development & deployment particularly with autonomous
+    agent systems or related AI software engineering roles.
+  - Demonstrated ability to work independently in fast-paced,
+    experimental environments.
+  - Hands-on experience designing and building GenAI apps that
+    allow users to experience AI use cases supporting features
+    like agent orchestration, multi-step reasoning, prompt
+    engineering, RAG integration, and model selection
+  - Expertise with LLMs and deep learning models, machine
+    learning lifecycle management, data generation methods,
+    model training & validation coupled with strong
+    fundamentals and passion in software engineering and
+    system architecture
+
+  Additional Information
+
+  Relocation Assistance Provided: Yes
+industries:
+  - Energy
+  - Manufacturing
+  - Solar
+  - Renewable Energy
+posted_date: 2026-09-15
+url: "https://builtin.com/job/staff-engineer-ai-engineering/11178073"
+source: Built In

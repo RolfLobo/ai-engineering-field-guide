@@ -1,0 +1,130 @@
+job_id: 11311700
+title: AI/ML Engineer
+company: ICloud Logic
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 62 Employees
+description: |
+  Job Title: Senior ML Engineer  Location: Bangalore
+
+  About the Role:
+
+  We're seeking an experienced Machine Learning Engineer
+  specializing in anomaly detection and correlation analysis
+  to develop sophisticated systems for identifying complex
+  patterns, causal relationships, and anomalies across
+  multiple data streams. This role is crucial for our
+  [predictive maintenance/fraud detection/system monitoring]
+  initiatives.
+
+  Key Responsibilities:
+
+  Anomaly Detection:
+
+  - Design and implement multi-variate anomaly detection systems
+  - Develop real-time monitoring solutions
+  - Create automated alert prioritization systems
+  - Build pattern recognition models for complex time series
+  - Implement adaptive thresholding mechanisms
+
+  Correlation Analysis:
+
+  - Develop correlation detection algorithms across multiple
+    data streams
+  - Implement causality analysis frameworks
+  - Create feature relationship discovery systems
+  - Design correlation-based clustering methods
+  - Build correlation visualization dashboards
+
+  Technical Requirements:
+
+  Anomaly Detection Techniques:
+
+  - Statistical methods (Z-score, IQR)
+
+  Machine learning approaches:
+
+  - Isolation Forest
+  - One-class SVM
+  - LSTM Autoencoders
+  - Prophet/ARIMA models
+  - Density-based algorithms
+
+  Correlation Analysis Methods:
+
+  - Pearson/Spearman correlations
+  - Granger causality tests
+  - Cross-correlation functions
+  - Mutual Information analysis
+  - Canonical correlation analysis
+  - Time-lagged correlation detection
+
+  Technical Stack:
+
+  # Core Technologies
+
+  - - Python (NumPy, Pandas, SciPy)
+  - - Statistical libraries (stats models)
+  - - ML frameworks (scikit-learn, TensorFlow)
+  - - Time series tools (Prophet, stats models)# Data Processing
+  - - Spark for distributed computing
+  - - Elasticsearch for log analysis
+
+  # Visualization
+
+  - - Grafana/Kibana
+
+  Key Projects & Responsibilities:
+
+  1. Anomaly Detection Systems:
+
+  - Build baseline behavior models
+  - Implement dynamic thresholding
+  - Design seasonality-aware detection
+  - Create multi-dimensional anomaly scoring
+
+  2. Correlation Analysis:
+
+  - Develop correlation matrices
+  - Implement lag analysis
+  - Create causality graphs
+  - Design correlation-based alerts3. Integration & Deployment:
+  - Real-time monitoring pipelines
+  - Automated alert systems
+  - Correlation dashboards
+  - Model performance tracking
+
+  Required Experience:
+
+  - 5+ years in ML/AI development
+  - Strong background in statistics
+  - Experience with time series analysis
+  - Proven track record with correlation analysis
+  - Production deployment experience
+
+  Technical Skills Matrix:
+
+  | Skill Area | Required Technologies/Methods |
+
+  |------------------------|----------------------------------
+  -----|
+
+  | Statistical Analysis | Hypothesis testing, A/B testing |
+
+  | Time Series | ARIMA, Prophet, LSTM |
+
+  | Correlation Tools | Pearson, Spearman, DTW |
+
+  | Data Processing | Spark, Kafka, SQL |
+
+  | Visualization | Grafana, Plotly, D3.js |
+
+  | MLOps | Docker, Kubernetes, CI/CD |
+industries:
+  - Cloud
+  - Information Technology
+  - Software
+  - Consulting
+posted_date: 2026-09-22
+url: "https://builtin.com/job/ai-ml-engineer/11311700"
+source: Built In

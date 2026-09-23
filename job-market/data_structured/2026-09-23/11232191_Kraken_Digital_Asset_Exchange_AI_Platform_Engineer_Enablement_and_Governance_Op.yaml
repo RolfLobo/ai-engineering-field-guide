@@ -1,0 +1,56 @@
+company:
+  name: Kraken Digital Asset Exchange
+  stage: null
+  focus: Cryptocurrency and digital asset exchange platform
+position:
+  title: AI Platform Engineer, Enablement and Governance Operations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds internal AI platform capabilities that shape
+      model behavior: agent scaffolding, reusable prompt assets,
+      evaluation harnesses for model changes, and guardrail
+      layers. These are LLM/agent components, making it ai-first
+      despite the platform-operations framing.
+  responsibilities:
+  - Design and build the technical layer of the internal AI platform, evaluating vendors
+    or building internally to close capability gaps
+  - Own the governed integration gateway including connector onboarding, OAuth and
+    federated identity authentication flows, and vendor escalation
+  - Build internal tooling such as agent scaffolding, reusable skills and prompt assets,
+    evaluation harnesses, and provisioning automation
+  - Configure and operate tiered spend controls across the AI estate with caps, alerting
+    rules, exception queues, and monthly reconciliation
+  - Implement technical controls for data handling, retention, and model eligibility
+    via SSO, SCIM, entitlement, and workspace configuration
+  - Work directly with internal teams to unblock their AI tool workflows
+  - Run technical enablement including deep dives, office hours, and knowledge base
+    content
+  - Administer the enterprise AI estate end to end including model turn-ups, deprecation,
+    provisioning, and seat true-ups
+  use_cases:
+  - Internal AI platform for enterprise LLM tooling at Kraken
+  - Governed integration gateway for AI vendor connections
+  - Tiered spend controls and cost governance across the AI estate
+  - Agent scaffolding and reusable skills for internal teams
+  - Model change evaluation and guardrails in a regulated financial context
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, MCP, Prompt Engineering, Guardrails]
+    ml: []
+    web: [OAuth]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Docker, Secrets Management, Git]
+    languages: [Python]
+    domains: []
+    other: [Okta, SCIM, SSO, Jira, Confluence, JSM, FinOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11232191'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:29:50.317011'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

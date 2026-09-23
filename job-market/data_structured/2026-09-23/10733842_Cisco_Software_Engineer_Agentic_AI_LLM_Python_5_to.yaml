@@ -1,0 +1,49 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and infrastructure solutions
+position:
+  title: Software Engineer (Agentic AI, LLM, Python | 5 to 8 Years)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds Agentic AI/LLM systems with
+      LangGraph, defines RAG architecture, manages versioned
+      prompts, runtime safeguards, and LLM
+      evaluation/observability — all direct shaping of model
+      behavior and output quality. It is therefore ai-first.
+  responsibilities:
+  - Design scalable Python backend systems and data pipelines
+  - Drive architecture and development of Agentic AI/LLM systems using LangGraph
+  - Define LLM performance, token, latency, and cost optimization strategies
+  - Establish standards for AI/RAG architecture, APIs, databases, and distributed
+    systems
+  - Drive AWS cloud-native architecture with S3, SQS, SNS, Lambda, Docker, and Kubernetes
+  - Lead complex technical and production issues across teams
+  - Mentor engineers and influence engineering standards
+  - Partner with stakeholders to align technical strategy with business goals
+  use_cases:
+  - Agentic AI/LLM systems for Cisco platform products
+  - RAG-based AI architectures and APIs
+  - LLM token, latency, and cost optimization in production
+  - Multi-agent workloads with runtime safeguards and rollback
+  - Scalable backend and data pipelines supporting AI platforms
+  skills:
+    databases: []
+    domains: []
+    data: [Data Pipelines]
+    web: [APIs]
+    ml: [Machine Learning, Deep Learning, LLM Evaluation]
+    ops: [Docker, Kubernetes, LangSmith, Distributed Systems]
+    other: []
+    cloud: [AWS, AWS Lambda, AWS S3]
+    languages: [Python]
+    genai: [LangGraph, AI Agents, LLMs, RAG, Prompt Engineering, MCP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10733842'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:01:13.730499'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

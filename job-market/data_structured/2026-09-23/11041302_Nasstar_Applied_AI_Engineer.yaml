@@ -1,0 +1,43 @@
+company:
+  name: Nasstar
+  stage: null
+  focus: Consulting delivering AWS and Databricks AI solutions
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and deploys applied GenAI/LLM and RAG
+      solutions for clients, which involves shaping generative
+      model behavior through established patterns. GenAI/LLM
+      components are present, so ai-first.
+  responsibilities:
+  - Contribute to defined build tasks within client deliveries
+  - Complete AI features to engineering standards with team support
+  - Build fundamentals across the tech stack applying established AI patterns
+  - Participate in code reviews and technical discussions
+  - Grow AI capability and contribute to internal knowledge sharing
+  use_cases:
+  - Client AI systems from concept to production
+  - Applied AI and Generative AI adoption across industries
+  - Predictive analytics and machine learning solutions
+  skills:
+    genai: [Generative AI, LLMs, RAG]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: [AWS]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11041302'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:14:20.484485'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

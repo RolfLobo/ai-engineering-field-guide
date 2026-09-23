@@ -1,0 +1,57 @@
+company:
+  name: Motorola Solutions, Inc.
+  stage: null
+  focus: Public safety and security technology solutions
+position:
+  title: Senior AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role trains, fine-tunes, and evaluates foundational
+      models including LLMs and Vision-Language Models for
+      security tasks, which is directly shaping model behavior.
+      Since LLM and vision-language components are explicitly
+      involved, it classifies as ai-first.
+  responsibilities:
+  - Conduct end-to-end research, development, and deployment of AI/ML models from
+    concept to production monitoring
+  - Conduct cutting-edge research in machine learning and computer vision for public
+    safety and video security
+  - Evaluate, fine-tune, and adapt large pre-trained and foundational models (LLMs,
+    large vision models) for security-focused tasks
+  - Develop models for object detection, tracking, re-identification, video search,
+    and scene understanding
+  - Optimize model performance for real-time and edge deployment constraints including
+    latency and throughput
+  - Collaborate with data engineering on large-scale dataset creation, annotation,
+    and quality control
+  - Establish metric-driven evaluation frameworks (Precision, Recall, F1) to benchmark
+    model performance
+  - Partner with software teams to integrate models into cloud and edge AI platforms
+    and generate patents
+  use_cases:
+  - Object detection, tracking, and re-identification for video security
+  - Video search and scene understanding from diverse video sources
+  - Speech recognition, translation, and NLU for noisy public safety environments
+  - Fine-tuning foundational models for domain-specific security tasks
+  - Real-time edge and cloud deployment of mission-critical safety models
+  skills:
+    genai: [LLMs, Vision-Language Models]
+    ml: [PyTorch, Fine-Tuning, Model Training, Deep Learning, Transformers, Model
+        Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: [Python, C++]
+    domains: [Computer Vision, NLP, Voice AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11077438'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:17:38.142155'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

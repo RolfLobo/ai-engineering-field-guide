@@ -1,0 +1,49 @@
+company:
+  name: Nava Benefits
+  stage: null
+  focus: Modern technology-enabled employee benefits brokerage
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, context management for
+      agent sandboxes, model routing, and evaluation/tracing of
+      LLM behavior — directly shaping LLM-based product behavior
+      and platform patterns. It is LLM/agent-focused, so ai-first.
+  responsibilities:
+  - Harden first-version LLM platform capabilities (context management, agent state,
+    sandboxed execution, model routing) for reuse across products
+  - Design state management and deployment patterns so long-running agent tasks survive
+    deploys, restarts and retries and can be resumed and replayed
+  - Build mechanisms for packaging context into zero-trust execution environments
+    and retrieving refreshed context during agent work
+  - Route models to jobs and orchestrate subagents to reduce cost per task as usage
+    scales
+  - Reduce unplanned platform work interrupting AI product teams
+  - Document, test, trace and evaluate shared platform patterns for maintainability
+  use_cases:
+  - AI-powered employee benefits platform (HQ) for HR teams
+  - Benefits renewals and strategy automation
+  - Long-running agent tasks for benefits workflows
+  - Cost-efficient model routing and orchestration across LLM products
+  skills:
+    genai: [LLMs, Function Calling, AI Agents, Agentic Workflows]
+    ml: []
+    web: [React, Node.js]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Langfuse]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11185532'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:24:40.261738'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

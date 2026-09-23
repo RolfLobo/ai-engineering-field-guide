@@ -1,0 +1,310 @@
+job_id: 10946204
+title: Sr Developer- AI
+company: Mattel
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 10,467 Employees
+description: |
+  Company Description
+
+  CREATIVITY IS OUR SUPERPOWER. It’s our heritage and it’s
+  also our future. Because we don’t just make toys. We create
+  innovative products and experiences that inspire fans,
+  entertain audiences and develop children through play.
+  Mattel is at its best when every member of our team feels
+  respected, included, and heard—when everyone can show up as
+  themselves and do their best work every day. We value and
+  share an infinite range of ideas and voices that evolve and
+  broaden our perspectives with a reach that extends into all
+  our brands, partners, and suppliers.
+
+
+
+  Job Description
+
+  The Opportunity:
+
+  We are seeking a highly skilled   with strong expertise in
+  Python and Google Cloud Platform (GCP) to design, build, and
+  scale AI-driven backend systems.
+
+  This role focuses on developing production-grade AI
+  applications, building scalable APIs, integrating LLMs and
+  ML models, and deploying cloud-native solutions on GCP. You
+  will collaborate closely with AI engineers, data scientists,
+  frontend developers, and DevOps teams to deliver
+  intelligent, reliable, and high-performance backend
+  services.
+
+  The ideal candidate has hands-on experience in building AI-
+  enabled systems using modern Python frameworks and cloud
+  infrastructure, with strong knowledge of distributed systems
+  and scalable architecture.
+
+  Key Responsibilities
+
+  🔹 AI Application Development
+
+  - Design and develop backend services to power AI-driven
+    applications.
+
+  - Integrate Large Language Models (LLMs), ML models, or AI
+    services into production systems.
+
+  - Build RESTful APIs and microservices using Python frameworks
+    (FastAPI, Flask, Django).
+
+  - Implement RAG (Retrieval-Augmented Generation) pipelines and
+    AI orchestration workflows where applicable.
+
+  - Optimize AI inference performance, latency, and reliability.
+
+  🔹 Cloud & Infrastructure (GCP)
+
+  - Design and deploy AI backend services on Google Cloud
+    Platform (GCP).
+
+  - Work with GCP services such as:
+
+  - BigQuery
+
+  - Cloud Run
+
+  - Cloud Functions
+
+  - Compute Engine
+
+  - GKE (Kubernetes Engine)
+
+  - Cloud Storage
+
+  - Vertex AI (preferred)
+
+  - Ensure scalability, monitoring, and fault tolerance of cloud
+    applications.
+
+  - Implement IAM policies, security best practices, and
+    environment isolation.
+
+  🔹 Data & Integration
+
+  - Develop data pipelines to support AI models and analytics
+    workflows.
+
+  - Integrate backend systems with third-party APIs and
+    enterprise applications.
+
+  - Work with SQL and NoSQL databases (PostgreSQL, MySQL,
+    MongoDB, BigQuery).
+
+  - Handle data validation, transformation, and preprocessing
+    logic.
+
+  🔹 DevOps & CI/CD
+
+  - Containerize applications using Docker.
+
+  - Deploy and manage services using Kubernetes (GKE preferred).
+
+  - Implement CI/CD pipelines (GitHub Actions, Cloud Build,
+    Jenkins).
+
+  - Monitor application health and performance using logging and
+    observability tools.
+
+  🔹 Collaboration & Engineering Excellence
+
+  - Participate in Agile/Scrum ceremonies.
+
+  - Write clean, maintainable, well-documented code.
+
+  - Conduct peer code reviews.
+
+  - Troubleshoot and debug production issues.
+
+  - Contribute to architectural decisions and continuous
+    improvement.
+
+
+
+  Technical Skill Set
+
+  Programming
+
+  - Python (Advanced)
+
+  - SQL
+
+  Frameworks
+
+  - FastAPI / Flask / Django
+
+  - Async programming (asyncio)
+
+  Cloud
+
+  - Google Cloud Platform (GCP)
+
+  - Vertex AI (preferred)
+
+  - BigQuery
+
+  - Cloud Run / GKE
+
+  DevOps
+
+  - Docker
+
+  - Kubernetes
+
+  - CI/CD pipelines
+
+  - Git
+
+  AI/ML
+
+  - LLM integrations
+
+  - RAG pipelines
+
+  - Prompt engineering basics
+
+  - Embedding & vector databases (Pinecone, FAISS, etc.)
+
+
+
+  Key Competencies
+
+  - Strong backend system design skills
+
+  - Ownership mindset
+
+  - Cross-functional collaboration
+
+  - Clear communication skills
+
+  - Ability to work in fast-paced, AI-driven environments
+
+  Qualifications
+
+  What We’re Looking For:
+
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, or related field.
+
+  - 5.5 to 9 years of backend development experience.
+
+  - Strong proficiency in Python.
+
+  - Hands-on experience with GCP cloud services.
+
+  - Experience building scalable backend systems and APIs.
+
+  - Knowledge of microservices architecture.
+
+  - Strong understanding of REST APIs and asynchronous
+    programming.
+
+  - Experience with SQL-based databases.
+
+  - Familiarity with containerization (Docker) and cloud-native
+    deployment.
+
+  - Strong analytical and problem-solving skills.
+
+
+
+  Preferred Qualifications
+
+  - Experience with AI/ML frameworks (LangChain, Hugging Face,
+    TensorFlow, PyTorch).
+
+  - Experience with Vertex AI or GCP AI services.
+
+  - Experience building LLM-based applications (RAG, Agents,
+    embeddings).
+
+  - Experience with message queues (Pub/Sub, Kafka).
+
+  - Knowledge of MLOps best practices.
+
+  - GCP certification (Professional Cloud Developer / Data
+    Engineer / ML Engineer).
+
+  - Experience in high-scale, enterprise-grade AI systems.
+
+  Additional Information
+
+  Don’t meet every single requirement? At Mattel, we are
+  dedicated to an inclusive workplace and a culture of
+  belonging. If you’re excited about this role but your past
+  experience doesn’t align perfectly with every qualification
+  in the job description, we still encourage you to apply. You
+  may be just the right candidate for this or other roles.
+
+  How We Work: We are a purpose driven company aiming to
+  empower generations to explore the wonder of childhood and
+  reach their full potential. We live up to our purpose
+  employing the following behaviors:
+
+  - We collaborate: Being a part of Mattel means being part of
+    one team with shared values and common goals. Every person
+    counts and working closely together always brings better
+    results. Partnership is our process and our collective
+    capabilities is our superpower.
+  - We innovate: At Mattel we always aim to find new and better
+    ways to create innovative products and experiences. No
+    matter where you work in the organization, you can always
+    make a difference and have real impact. We welcome new
+    ideas and value new initiatives that challenge
+    conventional thinking.
+  - We execute: We are a performance-driven company. We strive
+    for excellence and are focused on pursuing best-in-class
+    outcomes. We believe in accountability and ownership and
+    know that our people are at their best when they are
+    empowered to create and deliver results.
+
+  Our Approach to Flexible Work: We embrace a flexible work
+  model designed to empower a culture of growth, optimism, and
+  wellbeing, where every employee can reach their full
+  potential. Combining purposeful in-person collaboration with
+  flexibility, our focus is to optimize performance and drive
+  connection for moments that matter.
+
+  Who We Are: Mattel is a leading global toy and family
+  entertainment company and owner of one of the most iconic
+  brand portfolios in the world. We engage consumers and fans
+  through our franchise brands, including Barbie, Hot Wheels,
+  Fisher-Price, American Girl, Thomas & Friends, UNO, Masters
+  of the Universe, Matchbox, Monster High, MEGA and Polly
+  Pocket, as well as other popular properties that we own or
+  license in partnership with global entertainment companies.
+  Our offerings include toys, content, consumer products,
+  digital and live experiences. Our products are sold in
+  collaboration with the world’s leading retail and ecommerce
+  companies. Since its founding in 1945, Mattel is proud to be
+  a trusted partner in empowering generations to explore the
+  wonder of childhood and reach their full potential.
+
+  Mattel’s award-winning workplace culture has been recognized
+  by Forbes, Fast Company, Newsweek, Great Place to Work,
+  TIME, and more.
+
+  Visit us at https://jobs.mattel.com/ and
+  www.instagram.com/MattelCareers.
+
+  Mattel is an Equal Opportunity Employer where we want you to
+  bring your authentic self to work every day. We welcome all
+  job seekers, and all applicants will receive consideration
+  for employment.
+
+  Videos to watch: The Culture at Mattel Corporate
+  Philanthropy
+industries:
+  - Digital Media
+  - Kids + Family
+  - Music
+  - News + Entertainment
+posted_date: 2026-09-01
+url: "https://builtin.com/job/sr-developer-ai/10946204"
+source: Built In

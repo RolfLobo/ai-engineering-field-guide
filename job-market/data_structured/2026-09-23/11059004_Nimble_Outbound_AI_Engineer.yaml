@@ -1,0 +1,54 @@
+company:
+  name: Nimble
+  stage: null
+  focus: Real-time web search platform for enterprise data
+position:
+  title: Outbound AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a sales development role where AI agents and
+      automations are the tool, not the product. The person does
+      not shape model behaviour as a deliverable — they use
+      existing AI tools (Claude, no-code automations) to power
+      outbound prospecting, research, and pipeline creation. The
+      measured outcome is pipeline and ARR, not model quality.
+  responsibilities:
+  - Support a pod of 2-3 Enterprise AEs in creating pipeline and ARR
+  - Research target accounts, stakeholders, buying committees, and market signals
+  - Build AI-executed outbound campaigns across email, LinkedIn, phone, and other
+    channels
+  - Book qualified meetings with target accounts
+  - Build AI agents, agentic workflows, and automation for account research, personalization,
+    messaging, and follow-up
+  - Create account-specific and segment-specific GTM assets to help AEs open and progress
+    conversations
+  - Support post-meeting follow-up, stakeholder mapping, and multi-threading
+  - Build lightweight tools, dashboards, and automations to help the pod prioritize
+    and execute faster
+  use_cases:
+  - AI-driven outbound sales prospecting into enterprise accounts
+  - Automated account research and stakeholder mapping
+  - Personalized messaging and sequencing based on account signals
+  - Agentic monitoring of target accounts for triggers and changes
+  - Post-meeting follow-up support and multi-threading for enterprise deals
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs, Anthropic API, Prompt Engineering]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [No-Code / Low-Code Tools, Workflow Automation, Account Research, Outbound
+        Prospecting, Sales Development, CRM]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11059004'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:16:39.995007'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

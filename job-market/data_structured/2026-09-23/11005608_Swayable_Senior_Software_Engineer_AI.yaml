@@ -1,0 +1,50 @@
+company:
+  name: Swayable
+  stage: backed by top technology and social impact investors including Y Combinator
+  focus: AI-powered public opinion and ad impact analytics platform
+position:
+  title: 'Senior Software Engineer: AI'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a senior Python software engineer building the
+      data-intensive analytics platform that hosts Swayable's ML
+      and data science. The description names no concrete model-
+      shaping work (no training, prompts, RAG, or eval design) —
+      the person builds and optimizes tools, architecture, and
+      high-performance computing infrastructure for models others
+      design, which is ai-support per the edge cases.
+  responsibilities:
+  - Build, maintain, and continuously improve tools, techniques, and architecture
+    for high-performance computing
+  - Productize AI, machine learning, and data analysis across Swayable's platform
+  - Advance the analytics engine powering the core product
+  - Build new features across software engineering, data visualization, and science
+  - Design scalable, performant, and maintainable software solutions
+  - Collaborate with engineers, data scientists, and research staff on novel problems
+  use_cases:
+  - Measuring public opinion
+  - Measuring the impact of messages and advertising content on public opinion
+  - Automated data science for campaign and brand analytics
+  - Combating disinformation and protecting democracy
+  - Supporting consumer brand growth and civic advocacy campaigns
+  skills:
+    databases: [MongoDB]
+    domains: []
+    data: [NumPy, SciPy, Pandas]
+    web: [Flask, Vue, GraphQL]
+    ml: [scikit-learn, Machine Learning]
+    ops: [Celery, Linux, Distributed Systems]
+    other: [Data Visualization]
+    cloud: []
+    languages: [Python, JavaScript, Node.js]
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11005608'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-09-23T11:11:59.267636'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

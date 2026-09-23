@@ -1,0 +1,53 @@
+company:
+  name: Groundswell
+  stage: null
+  focus: Technology integrator serving federal government agencies
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: prompt engineering,
+      RAG design, structured outputs, tool/function definitions,
+      agent patterns, and building evals to judge model quality.
+      This is an LLM/agent-heavy applied role.
+  responsibilities:
+  - Lead discovery with business and technical stakeholders to understand workflows
+    and success criteria
+  - Select appropriate AI patterns (extraction, classification, summarization, retrieval,
+    agentic workflows) and recommend against AI when simpler solutions fit
+  - Build complete capabilities including prompt and retrieval design, structured
+    outputs, tool definitions, API integration, and UI
+  - Build evaluation sets from real data and make deployment decisions based on evidence
+  - Operationalize capabilities in client environments with governance, logging, and
+    traceability
+  - Monitor quality, cost, latency, and drift after launch and optimize
+  - Mentor engineers and contribute reusable patterns to the team
+  - Move between client delivery, internal product work, proofs of concept, and enablement
+  use_cases:
+  - Document extraction and classification for federal agency workflows
+  - Summarization and retrieval over client data
+  - Agentic workflow automation with tool and function integration
+  - AI capability pilots and proofs of concept for government clients
+  - Production AI systems with evaluation, monitoring, and governance
+  skills:
+    genai: [Prompt Engineering, RAG, Structured Outputs, Function Calling, Agentic
+        Workflows, LLMs, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, Azure OpenAI]
+    ops: []
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [ServiceNow, Salesforce]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11289976'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:35:56.051169'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

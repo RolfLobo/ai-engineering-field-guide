@@ -1,0 +1,184 @@
+job_id: 10838000
+title: "Lead AI Engineer | Onsite - Delaware"
+company: Photon
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Key Responsibilities
+
+
+
+  - Own delivery of LLM API integration and SDK patterns used
+    across applications.
+
+
+
+  - Set organizational guidance on which LLM to use for what use
+    case and drive delivery of multi-LLM scenarios.
+
+
+
+  - Define standards for advanced prompt engineering and context
+    window management.
+
+
+
+  - Own delivery of RAG systems, including vector database
+    selection/topology and knowledgebase design.
+
+
+
+  - Drive delivery of AI agent and multi-agent systems and tool-
+    use/MCP integration patterns.
+
+
+
+  - Own guardrails delivery (safety, compliance, PII handling in
+    prompts/outputs) — critical in a financial-services
+    context.
+
+
+
+  - Define evaluation frameworks and real-time eval strategy;
+    set standards for AI testing in CI/CD.
+
+
+
+  - Own latency profiling, AI observability, and cost
+    tracking/management for LLM-backed systems.
+
+
+
+  - Run day-to-day delivery of the offshore development team:
+    sprint commitments, code/design review, real-time
+    unblocking, and hands-on work on critical-path AI
+    features.
+
+
+
+  - Report delivery status, risks, and blockers to engineering
+    leadership.
+
+
+
+  Must-Have Qualifications
+
+
+
+  - 6+ years in software engineering, with 2+ years as a tech
+    lead owning end-to-end delivery of LLM/AI-powered systems
+    (not a pure design/review architect role).
+
+
+
+  - Proven track record of shipping AI-powered features on
+    committed timelines, including hands-on troubleshooting
+    under delivery pressure.
+
+
+
+  - Strong, hands-on Python skills at an architectural/systems
+    level.
+
+
+
+  - Proven experience architecting LLM API integrations and SDK-
+    level abstractions across multiple providers.
+
+
+
+  - Demonstrated judgment on model selection (cost, latency,
+    capability trade-offs) across use cases.
+
+
+
+  - Deep expertise in prompt engineering and context window
+    management at scale.
+
+
+
+  - Proven design experience with RAG systems, including vector
+    database architecture and knowledgebase design.
+
+
+
+  - Experience architecting AI agents/multi-agent systems and
+    tool-use patterns (MCP or equivalent).
+
+
+
+  - Strong understanding of guardrails design — content safety,
+    PII protection, compliance controls for AI outputs.
+
+
+
+  - Experience defining evaluation frameworks and integrating AI
+    testing into CI/CD.
+
+
+
+  - Proven ability to design for latency, observability, and
+    cost management of AI systems in production.
+
+
+
+  - Financial-services or regulated-industry experience strongly
+    preferred given compliance/guardrail stakes.
+
+
+
+  - Strong stakeholder communication; able to directly manage
+    day-to-day delivery of an offshore team (standups,
+    unblocking, sprint accountability).
+
+
+
+  Nice-to-Have Qualifications
+
+
+
+  - Direct experience with specific frameworks (LangChain,
+    LlamaIndex, Semantic Kernel, or equivalent).
+
+
+
+  - Experience with AWS Bedrock or comparable managed LLM
+    platforms.
+
+
+
+  - Contributions to or deep familiarity with MCP (Model Context
+    Protocol) implementations.
+
+
+
+  - Experience building internal LLM gateways.
+
+
+
+  - Familiarity with responsible-AI/model-risk-management
+    frameworks used in financial services.
+
+
+
+  Compensation, Benefits and Duration
+
+
+
+  Minimum Compensation: USD 56,000 Maximum Compensation: USD
+  196,000 Compensation is based on actual experience and
+  qualifications of the candidate. The above is a reasonable
+  and a good faith estimate for the role. Medical, vision, and
+  dental benefits, 401k retirement plan, variable
+  pay/incentives, paid time off, and paid holidays are
+  available for full-time employees. This position is not
+  available for independent contractors No applications will
+  be considered if received more than 120 days after the date
+  of this post
+industries:
+  - Agency
+  - Information Technology
+posted_date: 2026-08-25
+url: "https://www.builtinla.com/job/lead-ai-engineer-onsite-delaware/10838000"
+source: Built In

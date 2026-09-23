@@ -1,0 +1,48 @@
+company:
+  name: AlphaSense
+  stage: null
+  focus: AI-driven market intelligence and search platform
+position:
+  title: Staff Engineer, AI Product
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs and operates distributed systems, testing,
+      observability, and CI/CD so that AI agents built by others
+      run reliably; the deliverable is reliability and platform
+      capacity, not model behavior. LLM/prompt/RAG experience is
+      listed only as preferred, indicating the person consumes
+      rather than shapes AI components.
+  responsibilities:
+  - Design and implement distributed systems powering AI agents handling thousands
+    of requests per hour
+  - Establish testing strategies, observability systems, and CI/CD pipelines
+  - Mentor and elevate a team of engineers
+  - Own the technical roadmap and architecture for the AI platform
+  - Collaborate with ML engineers and researchers to productionize AI capabilities
+  - Improve system reliability and reduce production incidents
+  use_cases:
+  - AI agents performing market intelligence search over large content sets
+  - Processing thousands of AI requests per hour for enterprise customers
+  - Market intelligence platform serving S&P 500 clients
+  - Productionizing cutting-edge AI capabilities with reliable infrastructure
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering, RAG, Anthropic API]
+    ml: []
+    web: [Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: [OpenAI API]
+    ops: [Kubernetes, Infrastructure as Code, Distributed Systems, Observability,
+      CI/CD]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11299424'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:36:51.665681'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

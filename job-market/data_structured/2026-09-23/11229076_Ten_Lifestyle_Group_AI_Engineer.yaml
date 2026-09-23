@@ -1,0 +1,52 @@
+company:
+  name: Ten Lifestyle Group
+  stage: null
+  focus: Lifestyle and concierge services for premium clients
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, deploys, and monitors AI systems
+      with LLM-specific work (prompt engineering, evaluation,
+      latency/cost optimization, agents, multi-agent
+      architectures), which shapes model behaviour and output
+      quality. With LLM/agent components central, this is ai-
+      first.
+  responsibilities:
+  - Design, build, deploy, and monitor AI systems that scale across the business and
+    to millions of members globally
+  - Work in a cross-functional team with product, data, and platform teams to ship
+    high-quality software on a frequent cadence
+  - Operate with a 'you build it, you run it' DevOps mindset, hands-on across development
+    and operations
+  - Ensure software quality through rigorous automated testing and metrics
+  - Assess and choose the right solution for each task, considering cost implications
+    and timelines
+  - Optimise systems for performance, scalability, and reliability
+  use_cases:
+  - AI-powered lifestyle, travel, dining, and entertainment concierge services for
+    members
+  - Automated member service delivery at global scale
+  - Agent-based autonomous systems supporting member requests
+  skills:
+    genai: [LangGraph, CrewAI, OpenAI API, Prompt Engineering, LLMs, AI Agents, Multi-Agent
+        Systems]
+    ml: [Hugging Face, Machine Learning]
+    web: []
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Terraform, CI/CD, Docker, Kubernetes, Prometheus, Grafana, Datadog, Distributed
+        Systems]
+    languages: [Python, C#, JavaScript, Kotlin, Java, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11229076'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:29:11.586464'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

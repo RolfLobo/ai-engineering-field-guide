@@ -1,0 +1,168 @@
+job_id: 10765602
+title: Software Engineer, AI Product Security
+company: Notion
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  Who We Are
+
+  Notion is the collaborative AI workspace where teams and
+  agents think together. We're building one place where your
+  knowledge, projects, meetings, and AI tools live side by
+  side, so work is faster, clearer, and less fragmented.
+  Millions of individuals, small teams, and large companies
+  run their work on Notion.
+
+  Notinos (our employees) are customer zero in bringing this
+  future of work to life. We care about craft, building things
+  that last, and the belief that great work is still
+  fundamentally human. Our goal isn’t to ship the next
+  feature. Each and every team of Notinos is working to set
+  the standard for how humans work together in the AI era.
+  From building a business’s system of record to making and
+  managing AI agents to automating away the busy work, we care
+  deeply about giving our customers more time for their life’s
+  work.
+
+  About the Role:
+
+  Notion is looking for an experienced engineer who has
+  designed and built secure software systems to help define
+  the security foundations for our AI products. You’ll work
+  with product and engineering teams on agent runtimes, tool
+  permissions, retrieval, content writes, observability, and
+  abuse-resistant design. You’ll turn product risks into clear
+  architecture, reusable guardrails, automated tests, and
+  production systems that help teams ship new features safely.
+
+  This role is based in San Francisco. We work from our
+  offices on Mondays, Tuesdays and Thursdays (our Anchor Days)
+  because we do our best thinking and building together in
+  person. We’re looking for someone who’s excited to work
+  alongside the team during those days.
+
+  What You'll Achieve:
+
+  - Define and build security architecture for product surfaces
+    that operate across customer workspace content, including
+    tool execution, content writes, retrieval, permission
+    checks, provenance, and auditability.
+  - Make the secure path the easy path for product teams by
+    shipping reusable libraries, review patterns, test
+    fixtures, and guardrails that prevent classes of
+    vulnerabilities.
+  - Build automated red-team and regression testing for risks
+    such as prompt injection, indirect instruction following,
+    data exfiltration, tool misuse, cross-tenant leakage, and
+    unsafe workspace mutations.
+  - Translate threat models for new product surfaces into
+    concrete engineering requirements, production checks, and
+    launch criteria.
+  - Use production signals, incident learnings, and targeted
+    experiments to harden Notion over time, then feed those
+    learnings back into architecture and developer workflows.
+  - Help define the security bar for how engineers use coding
+    agents, MCP-enabled tools, hooks, and internal automation
+    without introducing new risk.
+
+  Skills You'll Need to Bring:
+
+  - Secure software engineering craft: You have 8-10+ years of
+    experience designing, building, or securing complex
+    software systems, and you are comfortable working in
+    production code with product and platform engineers.
+  - Security architecture judgment: You can look at a complex
+    system and reason about where the permissions, data flow,
+    or trust boundaries are likely to get weird, and help re-
+    design it to make them better.
+  - Security product strategy: You can turn a complex security
+    risk you see into a product design or architecture that
+    can be built.
+  - Builder mindset: You’d rather leave behind a useful tool,
+    test, library, or pattern than a task or project for
+    someone else to pick up later.
+
+  Nice to Haves:
+
+  - Experience building or securing products with tool use,
+    retrieval, workflow automation, content writes, or complex
+    permission boundaries.
+  - Hands-on experience with prompt-injection testing, red
+    teaming, model behavior evaluation, or abuse-resistant
+    application design.
+  - Experience with enterprise SaaS security models:
+    permissions, sharing, audit logs, data residency,
+    encryption, compliance, or customer-facing trust
+    guarantees.
+  - Experience building developer tooling, CI checks, coding-
+    agent workflows, MCP integrations, or internal frameworks
+    that shape how engineers build software.
+  - Public security research, vulnerability writeups, conference
+    talks, or open-source work related to product security or
+    secure developer infrastructure.
+
+  Notion is committed to providing highly competitive cash
+  compensation, equity, and benefits. The compensation offered
+  for this role will be based on multiple factors such as
+  location, the role’s scope and complexity, and the
+  candidate’s experience and expertise, and may vary from the
+  range provided below. For roles based in San Francisco, the
+  estimated base salary range for this role is $270,000 -
+  $340,000 per year.
+
+  By clicking “Submit Application”, I understand and agree
+  that Notion and its affiliates and subsidiaries will collect
+  and process my information in accordance with Notion’s
+  Global Recruiting Privacy Policy.
+
+  #LI-Onsite
+
+  A Note on AI
+
+  You don’t need deep AI expertise for every role, but we do
+  expect every Notino to be intellectually curious, drawn to
+  tinkering and discovery, and excited to use AI as a real
+  collaborator in their work. For some roles, AI fluency is a
+  core requirement — when that’s the case, we'll say so
+  explicitly in the qualifications. People who thrive here
+  don’t treat AI as a novelty. They use it to think better,
+  and make their work easier for others to build on.
+
+  Equal Opportunity & Accommodations
+
+  We hire talented people from a wide range of backgrounds. If
+  you’re excited about this role but don’t meet every bullet,
+  we still encourage you to apply. Notion is an equal
+  opportunity employer and does not discriminate on the basis
+  of any legally protected characteristic. Consistent with
+  applicable law, we will consider for employment qualified
+  applicants with arrest and conviction records. Notion
+  provides reasonable accommodations during the application
+  process; if you need one, please let your recruiter know.
+
+  Notion is proud to be an equal opportunity employer. We do
+  not discriminate in hiring or any employment decision based
+  on race, color, religion, national origin, age, sex
+  (including pregnancy, childbirth, or related medical
+  conditions), marital status, ancestry, physical or mental
+  disability, genetic information, veteran status, gender
+  identity or expression, sexual orientation, or other
+  applicable legally protected characteristic. Notion
+  considers qualified applicants with criminal histories,
+  consistent with applicable federal, state and local law.
+  Notion is also committed to providing reasonable
+  accommodations for qualified individuals with disabilities
+  and disabled veterans in our job application procedures. If
+  you need assistance or an accommodation due to a disability,
+  please let your recruiter know.
+industries:
+  - Artificial Intelligence
+  - Productivity
+  - Software
+posted_date: 2026-08-20
+url: "https://builtin.com/job/software-engineer-ai-security/10765602"
+source: Built In

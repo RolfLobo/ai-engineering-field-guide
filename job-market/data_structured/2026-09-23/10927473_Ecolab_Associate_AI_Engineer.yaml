@@ -1,0 +1,43 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene and infection prevention solutions
+position:
+  title: Associate AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds GenAI-powered applications, agentic
+      workflows, and LLM-integrated services hands-on, including
+      prompt engineering, embeddings, and vector databases —
+      directly shaping model behaviour via prompts and retrieval.
+      An LLM/agent component is present, so ai-first.
+  responsibilities:
+  - Develop and deploy GenAI-powered applications
+  - Build agentic workflows and language model-integrated services
+  - Work hands-on with foundational AI APIs
+  - Use vector databases, embedding models, and prompt engineering to build production-aligned
+    intelligent systems
+  use_cases:
+  - GenAI-powered business applications
+  - Agentic workflow automation
+  - Language model-integrated services
+  skills:
+    genai: [LLMs, Agentic Workflows, Prompt Engineering, Embeddings, Generative AI]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10927473'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:07:17.515099'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

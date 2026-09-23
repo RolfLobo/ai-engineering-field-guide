@@ -1,0 +1,54 @@
+company:
+  name: Lutra
+  stage: seed-stage
+  focus: Agentic voice platform for emergency response communications
+position:
+  title: Senior Software Engineer, Voice AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs, selects and potentially fine-tunes
+      models, and monitors their performance in an agentic voice
+      platform, which is directly shaping model behavior and
+      output quality. An LLM/agent component is central to the
+      product (agentic call triage), so it is ai-first despite the
+      heavy audio/speech processing work.
+  responsibilities:
+  - Design and implement event-driven, real-time, highly concurrent systems with low
+    latency and fault tolerance
+  - Collaborate on cloud-native architecture, infrastructure as code, CI/CD pipelines,
+    autoscaling, and observability
+  - Integrate LLMs and emerging AI technologies, select and potentially fine-tune
+    models, orchestrate deployments, and monitor performance
+  - Design, implement, and optimize audio-processing pipelines including speech-to-text,
+    text-to-speech, voice-activity detection, endpointing, noise filtering, and emotion
+    detection
+  - Provide technical leadership through architecture guidance, code reviews, and
+    mentoring team members
+  use_cases:
+  - Voice agent for triaging incoming 911 calls with humans in the loop
+  - Automating routine and non-emergent 911 calls
+  - Handling 311 and government service calls
+  - Integrating with emergency call-center and dispatch workflows
+  - Reducing 911 call wait times and improving public safety outcomes
+  skills:
+    genai: [LLMs, Fine-Tuning, LangChain, OpenAI API, Embeddings]
+    ml: [LiveKit, Speech-to-Text, Text-to-Speech, NLP, Voice Activity Detection, Emotion
+        Detection, Model Deployment]
+    web: [Event-Driven Architecture, WebRTC, Microservices]
+    databases: [PostgreSQL, Vector Databases, Pinecone, Qdrant, Chrom, Vector Search]
+    data: []
+    cloud: [Azure]
+    ops: [Terraform, Docker, CI/CD, Observability, New Relic, Autoscaling]
+    languages: [Python, Go, Elixir, Ruby]
+    domains: []
+    other: [PSTN, SIP, PBX, Telephony, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11257490'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:33:18.475756'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

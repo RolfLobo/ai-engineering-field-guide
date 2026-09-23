@@ -1,0 +1,55 @@
+company:
+  name: Jade Global
+  stage: null
+  focus: |-
+    IT services and consulting, enterprise application
+    modernization
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements GenAI integration patterns, agentic
+      workflows, and RAG-based features directly, which means
+      shaping LLM behaviour through retrieval and agent design.
+      Customer-facing consulting duties do not change this.
+  responsibilities:
+  - Write production-grade code for component-level features and API integrations
+  - Develop backend microservices, drive unit testing, refactoring, and technical
+    debt resolution
+  - Conduct peer code reviews for quality, performance, and maintainability
+  - Implement AI-native features including GenAI integration patterns and agentic
+    workflows
+  - Build and maintain AI engineering frameworks and reusable solution accelerators
+  - Engage with client technical teams and support pre-sales, POC design, and effort
+    estimation
+  - Develop and deploy cloud-native services using containers, serverless, and event-driven
+    patterns
+  - Mentor junior engineers and contribute to the internal community of practice
+  use_cases:
+  - GenAI integration into enterprise applications
+  - Agentic workflow and intelligent automation solutions
+  - Application modernization and cloud migration
+  - AI-driven automation pipelines with workflow orchestration and RPA
+  skills:
+    genai: [OpenAI API, Azure OpenAI, LangChain, LlamaIndex, RAG, Agentic Workflows]
+    ml: []
+    web: [ASP.NET Core, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, GitHub Actions, Azure DevOps]
+    languages: [Python, .NET, C#, Java, Node.js]
+    domains: []
+    other: [RPA, Oracle, SAP, Salesforce, ServiceNow]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10844012'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Hyderabad, IND
+  extracted_at: '2026-09-23T11:01:55.142304'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

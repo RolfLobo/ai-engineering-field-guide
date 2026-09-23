@@ -1,0 +1,155 @@
+job_id: 11150990
+title: Senior Software Engineer - Voice AI
+company: ClickPost
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 153 Employees
+description: |
+  Title: Senior Software Engineer- Voice AI
+
+  Department: AI Engineering
+
+  Location: Bengaluru, KA  [Hybrid]
+
+  Experience: 3 to 5 Years
+
+  About us :
+
+  Since 2017, ClickPost has been the post-purchase
+  intelligence platform that turns logistics complexity into a
+  competitive advantage for the world's leading retailers,
+  including Walmart, Nykaa, Mars, Adidas, Bluestone, GIVA,
+  Kapiva, and 450+ brands across India, Southeast Asia, the
+  Middle East, and North America. Through a single API, our
+  platform manages tracking, exceptions, and returns across
+  600+ pre-integrated carriers, with AI allocating every
+  shipment to the optimal carrier and resolving delivery
+  issues before orders fail.
+
+  And we're not standing still. We're actively building the
+  agentic layer for post-purchase, from AI voice agents like
+  Parth to a growing suite of agents that resolve delivery
+  exceptions, confirm orders, and recover lost sales. This is
+  real, in-production AI, live with customers today.
+
+  We process 50M+ shipments every month, helping brands cut
+  failed deliveries and "where-is-my-order" queries while
+  converting more returns into exchanges.
+
+  We're one of the rare companies operating at the
+  intersection of cutting-edge AI, enormous scale, and a brand
+  respected across the global SaaS and e-commerce world. Our
+  core values of transparency, continuous learning, ownership,
+  and speed, plus a team that includes several ex-startup
+  founders, make this a place that's both fast-moving and rich
+  with opportunities to learn. Our vision is to become the
+  global standard for post-purchase intelligence, where
+  logistics complexity never limits a brand's growth.
+
+  Role Summary:
+
+  We are looking for a Software Development Engineer (SDE) -
+  Voice AI to build and scale ClickPost's centralized Voice AI
+  platform.
+
+  ClickPost currently handles around 1 million outbound
+  invoice calls per day and is expanding Voice AI across
+  multiple use cases, including inbound conversations and
+  additional communication channels. The centralized platform
+  will power these use cases through a common infrastructure,
+  allowing individual product teams to configure their
+  prompts, workflows, and business logic without building the
+  underlying Voice AI stack themselves.
+
+  You will work on the core platform responsible for Voice AI
+  orchestration, quality, analytics, testing, iteration,
+  scalability, and multi-channel support across Telephony,
+  Web, and WhatsApp.
+
+  What You Will Do:
+
+  - Build and scale the centralized Voice AI platform used by
+    multiple ClickPost products and use cases.
+  - Design and develop backend services for real-time voice
+    conversations at scale.
+  - Build Voice AI orchestration layers integrating LLMs,
+    Speech-to-Text (STT), Text-to-Speech (TTS), and telephony
+    systems.
+  - Work extensively with Voice AI frameworks and toolkits such
+    as Pipecat.
+  - Build reusable infrastructure that enables product teams to
+    configure prompts, workflows, tools, and other Voice AI
+    parameters.
+  - Develop systems for conversation quality monitoring,
+    analytics, testing, evaluation, and continuous
+    improvement.
+  - Enable Voice AI experiences across multiple channels
+    including Telephony, Web, and WhatsApp.
+  - Design systems for reliable deployment, monitoring,
+    debugging, and scaling of Voice AI applications.
+  - Optimize latency, reliability, cost, and conversation
+    quality across the Voice AI stack.
+  - Work closely with Product and Engineering teams to
+    understand use cases and build platform capabilities that
+    can support them at scale.
+
+  What You Will Need:
+
+  - Strong hands-on experience in backend development and
+    building production-grade backend systems.
+  - Strong practical experience with Voice AI
+    frameworks/toolkits, particularly Pipecat or similar
+    frameworks.
+  - Hands-on experience building Voice AI orchestration systems
+    integrating LLMs, STT, and TTS.
+  - Experience developing real-time conversational AI or voice-
+    based applications.
+  - Experience deploying and operating Voice AI applications in
+    production environments.
+  - Good understanding of APIs, microservices, event-driven
+    systems, databases, and distributed systems.
+  - Strong understanding of real-time communication, latency,
+    concurrency, and reliability considerations in voice
+    applications.
+  - Strong debugging and problem-solving skills with an ability
+    to take ownership of systems end-to-end.
+
+  Why Join ClickPost's Voice AI Team?
+
+  - Impact at Scale: Work on a platform already powering around
+    1 million outbound invoice calls every day, with
+    significant expansion across use cases and channels.
+  - Build the Core Platform: Your work will form the common
+    Voice AI infrastructure used across multiple ClickPost
+    products.
+  - Solve Real-Time AI Problems: Work at the intersection of
+    backend engineering, LLMs, speech technologies, telephony,
+    and real-time systems.
+  - End-to-End Ownership: Own critical platform capabilities
+    from architecture and development to deployment,
+    monitoring, quality, and scale.
+
+  Perks & Benefits:
+
+  - We are committed to offering competitive benefits programs
+    for all our employees and enhancing our programs when
+    necessary.
+  - Competitive salary package with performance-based bonuses.
+  - Comprehensive health insurance coverage for you and your
+    dependents.
+  - Flexible working hours with Hybrid work arrangement.
+  - Generous leave policy and time off.
+  - Continuous learning and professional development
+    opportunities.
+  - Employee assistance program for mental health and well-being
+    support.
+  - Supportive and inclusive work culture promoting diversity
+    and collaboration.
+industries:
+  - eCommerce
+  - Logistics
+  - Software
+  - Analytics
+posted_date: 2026-09-12
+url: "https://builtin.com/job/senior-software-engineer-voice-ai/11150990"
+source: Built In

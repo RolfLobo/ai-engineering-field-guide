@@ -1,0 +1,213 @@
+job_id: 10997935
+title: AI Engineer
+company: Strada
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 5,645 Employees
+description: |
+  Join us on a journey of endless possibilities
+
+  At Strada, possibility isn’t just a promise – it’s the
+  foundation of everything we do. We believe in unlocking
+  potential for every colleague, creating a journey of growth,
+  discovery, and impact.
+
+  With the support, resources, and opportunities we provide,
+  you’ll build a fulfilling future – working on meaningful
+  projects that span industries and regions, contributing to
+  outcomes that matter.
+
+  Strada is a people, payroll, and technology leader
+  simplifying international workforce management. Operating in
+  180+ countries, we design and deliver people-first solutions
+  powered by cloud-based technology – helping organizations
+  grow and enabling workforces to perform at their best.
+
+  Learn more at www.stradaglobal.com
+
+  Role: AI Engineer & Architect
+
+  Role Summary:
+
+  We are looking for an AI Engineer and Solution Architect.
+  This is a working lead role, not a purely managerial one —
+  it requires someone who can design and build production
+  LLM/RAG and agentic systems personally, while also setting
+  the technical direction, standards, and delivery discipline
+  for the team building them.
+
+  The ideal candidate has a strong core software engineering
+  foundation (full-stack / .NET or equivalent enterprise
+  stack) and has since specialized into applied AI.
+
+  Key Responsibilities
+
+  • Define the team's technical standards, reusable patterns,
+  and reference architecture for GenAI/Agentic AI delivery
+  across engagements.
+
+  • Own and manage the AI budget — tooling and LLM/API spend,
+  infrastructure costs, and licensing — and justify spend
+  against delivery outcomes.
+
+  • Architect and build end-to-end GenAI and Agentic AI
+  solutions — RAG pipelines, LLM orchestration, multi agent
+  workflows — from design through production deployment.
+
+  • Own solution architecture across the full stack: backend
+  services, APIs/microservices, data layer, and cloud
+  infrastructure, ensuring AI components integrate cleanly
+  with existing enterprise systems.
+
+  • Select and justify the technical stack — LLM providers,
+  vector databases, orchestration frameworks — based on the
+  problem, not on default habit, and codify these choices as
+  team guidelines.
+
+  • Produce architecture artifacts (HLD/LLD, sequence
+  diagrams, integration specs) that the team builds against,
+  and review their designs for architectural soundness.
+
+  • Build in evaluation, guardrails, and monitoring for AI
+  systems — hallucination checks, retrieval quality metrics,
+  human-in-the-loop escalation paths — as a standard the team
+  enforces, not a one-off step.
+
+  • Support presales and solutioning — translating client
+  requirements into a credible technical approach and effort
+  estimate, and representing the team in client-facing
+  technical discussions.
+
+  • Mentor and technically lead the team, growing its GenAI
+  capability and setting the bar for what "production ready"
+  means. Required Skills — AI / GenAI
+
+  • Hands-on experience with LLMs (OpenAI, Gemini, or
+  equivalent) and prompt engineering for production use cases.
+
+  • RAG architecture — chunking, embeddings, hybrid retrieval,
+  reranking — and the trade-offs between them.
+
+  • Agentic AI patterns: tool-calling, planner/executor
+  designs, multi-agent orchestration (LangChain / LangGraph or
+  equivalent).
+
+  • Vector databases (FAISS, Pinecone, pgvector, or
+  equivalent) and semantic search implementation.
+
+  • Working ML/DL fundamentals — comfortable evaluating when a
+  classical model or fine-tuning approach is the better answer
+  than an LLM call.
+
+  • Python as the primary language for AI/ML work. Required
+  Skills — Engineering & Architecture
+
+  • Strong core software engineering background, with
+  proficiency in .NET/C# and/or Java (Spring/Spring Boot) at
+  an architecture level, not just scripting.
+
+  • REST API and microservices design; comfortable defining
+  service boundaries and contracts.
+
+  • Cloud platform experience (Azure, AWS, or GCP) —
+  deployment, scaling, and security basics for production
+  services.
+
+  • SQL and NoSQL database design; understands when each is
+  the right fit. • Containerization and CI/CD (Docker and a
+  standard pipeline tool).
+
+  • Demonstrated solution architecture experience — has owned
+  HLD/LLD for at least one non-trivial system, not just
+  contributed to one.
+
+  Experience & Profile
+
+  • 12–17+ years overall in software engineering, with a clear
+  architecture or technical-lead track record.
+
+  • At least 2–3 years of recent, hands-on GenAI/Agentic AI
+  project experience — not certifications alone.
+
+  • Comfortable operating in a client-facing, presales-
+  adjacent capacity when needed
+
+  Education Required: Any Degree
+
+  At Strada, our values guide everything we do:
+
+  - Anticipate Customer Needs – We stay ahead of trends so our
+    customers can grow and succeed.
+  - Own the Outcome – We take responsibility for delivering
+    excellence and ensuring things get done right.
+  - Challenge Ourselves to Work Smarter – We move faster than
+    the world around us to drive change and accomplish more.
+  - Empower Each Other to Solve Problems – We tackle challenges
+    head on, ask tough questions, and collaborate to find the
+    best solutions.
+  - Care About Our Work – We understand that what we do impacts
+    millions, and we have a responsibility to get it right.
+
+  Benefits
+
+  At Strada, we support your whole self—offering a range of
+  benefits for your health, wellbeing, finances, and future.
+  These include health coverage, wellbeing programs, paid
+  leave (vacation, sick, parental), retirement plans, learning
+  opportunities, and more.
+
+  All offers are contingent on successful completion of
+  background checks, where permitted by law and as appropriate
+  for the role. These may include identity, education,
+  employment, and in some cases, criminal history
+  verification, checks against global watchlists, credit
+  reports, and/or drug testing. You’ll be informed of the
+  specific checks applicable to your role and location during
+  the recruitment process.
+
+  Our commitment to Diversity and Inclusion
+
+  Strada is dedicated to fostering a diverse, equitable, and
+  inclusive workplace where everyone feels valued and
+  supported. We believe that embracing differences strengthens
+  our teams and drives innovation and success.
+
+  Diversity Policy Statement
+
+  Strada is an Equal Opportunity Employer and prohibits
+  discrimination based on legally protected characteristics.
+  We provide reasonable accommodations for disabilities and
+  religious practices. Applicants may request reasonable
+  accommodation by contacting their recruiter.
+
+  Authorization to work in the Employing Country
+
+  To be considered, you must have current and future work
+  authorization in the country where you're applying, without
+  the need for visa sponsorship by Strada.
+
+  Please note: This job description does not limit Strada’s
+  right to assign or reassign responsibilities, including to
+  subsidiaries, partners, or future business purchasers.
+
+  We offer you a competitive total rewards package, continuing
+  education & training, and tremendous potential with a
+  growing worldwide organization.
+
+  DISCLAIMER:
+
+  Nothing in this job description restricts management's right
+  to assign or reassign duties and responsibilities of this
+  job to other entities; including but not limited to
+  subsidiaries, partners, or purchasers of Strada business
+  units.
+
+  .
+industries:
+  - Fintech
+  - Information Technology
+  - Software
+  - Financial Services
+posted_date: 2026-09-03
+url: "https://builtin.com/job/ai-engineer/10997935"
+source: Built In

@@ -1,0 +1,49 @@
+company:
+  name: Synechron
+  stage: null
+  focus: Global digital consulting and technology services
+position:
+  title: Full Stack Developer – Node.js, React.js, TypeScript & AI-Assisted Development
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack Node/React developer that uses AI
+      code generation tools (Copilot, Cursor, Claude Code) as
+      developer workflow aids. The deliverable is application
+      software, not model behavior; prompts are for coding tasks
+      only, so this is ai-support per the edge cases.
+  responsibilities:
+  - Design, develop, test, maintain, and support full-stack applications using Node.js,
+    React.js, and TypeScript
+  - Build scalable RESTful APIs and microservices using Express, NestJS, or similar
+    frameworks
+  - Develop responsive, accessible, and performant React.js user interfaces with reusable
+    component architecture
+  - Integrate AI code generation tools responsibly and apply prompt engineering techniques
+    for coding tasks
+  - Validate AI-generated output through code review, testing, security checks, and
+    functional verification
+  - Work with PostgreSQL, MongoDB, Redis, and other SQL or NoSQL data stores
+  - Develop and maintain CI/CD pipelines supporting build, testing, and deployment
+  - Troubleshoot, diagnose, and resolve application, integration, performance, and
+    production issues
+  use_cases: []
+  skills:
+    genai: [GitHub Copilot, Claude Code, Cursor, Prompt Engineering]
+    ml: []
+    web: [Express, NestJS, React, REST APIs, Microservices]
+    databases: [PostgreSQL, MongoDB, Redis]
+    data: []
+    cloud: []
+    ops: [Git, CI/CD]
+    languages: [Node.js, TypeScript, JavaScript]
+    domains: []
+    other: [Code Review, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11045361'
+  location: Bellandur, IND
+  extracted_at: '2026-09-23T11:15:50.532590'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

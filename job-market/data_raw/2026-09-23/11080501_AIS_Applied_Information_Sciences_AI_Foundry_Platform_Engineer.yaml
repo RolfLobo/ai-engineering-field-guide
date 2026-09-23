@@ -1,0 +1,146 @@
+job_id: 11080501
+title: AI Foundry Platform Engineer
+company: AIS (Applied Information Sciences)
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Why AIS?
+
+  When you join AIS, you’re joining a mission-driven team
+  that’s passionate about making a difference. You’ll work on
+  projects that matter, alongside industry-leading experts, in
+  an environment that fosters innovation, driving client
+  success, and empowering our team to make a lasting impact.
+  As an employee-owned company, we value collaboration,
+  inclusivity, continuous growth, and shared success.
+
+  - Employee Ownership: Your contributions directly impact the
+    company’s success, and you share in its achievements.
+  - Continuous Learning: Access to resources, training, and
+    mentorship to support your professional growth.
+  - Inclusive Culture: A workplace where diversity is
+    celebrated, and everyone’s voice is valued.
+  - Mission-Driven Work: Engage in projects that make a
+    meaningful difference for our clients and communities.
+
+
+
+  What are we looking for?
+
+  At AIS, we're looking for more than just skills - we're
+  looking for driven individuals who are passionate about
+  making a difference, eager to grow, and aligned with our
+  core principles.
+
+
+
+  Working@AIS At AIS, we are dedicated to providing our
+  employees with diverse opportunities to grow their careers
+  while supporting a variety of impactful projects. For this
+  position, we are seeking a talented individual to join AIS
+  as a Lead Software Engineer.
+
+  - Core Knowledge & Skills: Operates independently or as a team
+    lead, selects appropriate persistence technologies (e.g.,
+    EF, Dapper), defines source control strategies, and
+    designs subsystem infrastructure.
+  - Work & Complexity: Tackles complex problems with thorough
+    analysis, manages cross-functional delivery, and improves
+    system reliability and scalability.
+  - Quality & Independence: Consistently meets deadlines even
+    under challenging conditions, enforces standards through
+    detailed reviews, and establishes productivity benchmarks
+    for the team.
+  - Teamwork & Communication: Provides functional leadership by
+    setting objectives, organizing resources, resolving
+    conflicts, and engaging confidently with both internal and
+    external stakeholders.
+  - Consulting & Engagement: Troubleshoots advanced client
+    issues, supports requirements gathering, and contributes
+    to vendor presentations or proposal activities.
+
+  As your initial project assignment, you will support the
+  unique needs of our client as a AI Foundry Platform
+  Engineer.
+
+  Project Summary
+
+  AIS is seeking an AI Foundry Platform Engineer to build,
+  secure, and operate the Azure Government AI platform that
+  enables governed use of Azure AI Foundry and approved
+  generative AI models. This engineer converts architecture
+  into repeatable platform capabilities and reliable developer
+  experiences.
+
+  Key Responsibilities
+
+  - Configure and support Azure AI Foundry projects, model
+    deployments, quotas, access controls, and telemetry.
+  - Implement private networking, private endpoints, DNS,
+    managed identities, Key Vault integration, and role-based
+    access.
+  - Build monitoring and reporting for usage, token consumption,
+    capacity, cost allocation, safety events, and service
+    health.
+  - Support secure integration between AI services, developer
+    tools, AVD/Codex access patterns, and approved enterprise
+    systems.
+  - Automate environment configuration and promote repeatable
+    deployment patterns using approved infrastructure and
+    release practices.
+  - Create operational runbooks, troubleshooting guides, and
+    knowledge-transfer materials for platform support teams.
+
+  Required For This Opportunity
+
+  - 5+ years of Azure engineering experience, including
+    networking, identity, monitoring, and secure PaaS
+    delivery.
+  - Hands-on experience with Azure AI Foundry, Azure OpenAI,
+    Azure Machine Learning, or similar AI application
+    platforms.
+  - Experience with Entra ID, managed identities, private
+    endpoints, Key Vault, Log Analytics, and Azure Cost
+    Management.
+  - Ability to troubleshoot across application, network,
+    identity, and cloud-platform layers.
+  - Strong scripting or automation capability using PowerShell,
+    Azure CLI, Python, or equivalent.
+
+  Nice to Have Skills
+
+  - Azure Government or regulated-environment delivery
+    experience.
+  - Experience with LLM observability, AI safety controls,
+    prompt management, or token governance.
+  - Azure Administrator or Azure Developer certification.
+
+  At AIS, we are committed to offering competitive and fair
+  compensation that reflects the skills, experience, and
+  contributions of each team member.
+
+  The targeted base salary range for this role is
+  $117,000-$177,000 per year. Please note that this range is
+  provided as a guideline and the final offer will be based on
+  several factors, including but not limited to, skillset and
+  competencies, level of experience, education,
+  certifications, and location.
+
+  We value transparency in our hiring process and are happy to
+  discuss how your unique qualifications align with our
+  compensation structure during the interview process.
+
+  Applied Information Sciences does not discriminate on the
+  basis of race, national origin, religion, color, gender,
+  sexual orientation, age, disability, protected veteran
+  status, or any other basis. Employment decisions are based
+  solely on qualifications, merit, and business needs.
+industries:
+  - Cloud
+  - Information Technology
+  - Software
+  - Business Intelligence
+posted_date: 2026-09-09
+url: "https://www.builtinla.com/job/ai-foundry-platform-engineer/11080501"
+source: Built In

@@ -1,0 +1,51 @@
+company:
+  name: World Wide Technology
+  stage: null
+  focus: Global technology solutions and integration services
+position:
+  title: Lead Developer – AI Native Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role researches, evaluates, and operationalizes AI
+      developer tooling and delivers AI training/enablement across
+      the enterprise. It does not shape any model's behavior — no
+      prompt design, RAG, agent flows, or fine-tuning are
+      mentioned; it rolls out AI coding tools and workflows for
+      other engineers, which is developer workflow work (ai-
+      support).
+  responsibilities:
+  - Research, evaluate, and prototype emerging AI native engineering tools and platforms
+  - Define and optimize AI-augmented engineering workflows and automation strategies
+  - Own and personally deliver AI training initiatives across the IT organization
+  - Develop documentation, tutorials, and reference architectures codifying best practices
+  - Design and build proofs of concept demonstrating AI native engineering applications
+  - Partner with engineering teams to integrate tools and scale patterns across the
+    enterprise
+  - Monitor AI tooling ecosystems and communicate updates and impact assessments
+  - Host office hours and gather feedback to inform tooling strategy and standards
+  use_cases:
+  - Enterprise AI developer tooling evaluation and adoption
+  - AI-enabled software delivery workflows
+  - Engineering enablement and AI training
+  - Reference architectures for AI native engineering
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud-Native Architectures]
+    ops: [DevOps, CI/CD]
+    languages: []
+    domains: []
+    other: [Automated Testing, Technical Documentation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10966206'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:09:38.927723'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

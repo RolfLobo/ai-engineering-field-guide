@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Senior Software Engineer (Python, AI ML Engineer)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG, vector search, agents, and
+      orchestration workflows, and performs AI model evaluation
+      and tuning—directly shaping LLM behavior. LLM/agent
+      components are central, so it is ai-first.
+  responsibilities:
+  - Design, develop, test, and deploy AI-powered solutions including Generative AI,
+    LLM, NLP, and intelligent automation
+  - Build AI applications, APIs, prompts, agents, and orchestration workflows
+  - Develop and optimize prompt engineering, RAG, vector search, and knowledge retrieval
+    capabilities
+  - Create scalable data pipelines for AI model training, inference, monitoring, and
+    continuous improvement
+  - Integrate AI services with enterprise applications, web services, databases, and
+    cloud platforms
+  - Perform AI model evaluation, testing, validation, and tuning
+  - Implement responsible AI practices covering security, privacy, fairness, explainability,
+    and governance
+  - Monitor production AI solutions and implement corrective actions
+  use_cases:
+  - Intelligent automation for healthcare workflows
+  - LLM-powered enterprise AI applications
+  - Knowledge retrieval and semantic search over enterprise data
+  - NLP capabilities applied to health-related business problems
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, AI Agents, Agentic Workflows,
+      RAG, Embeddings, LangChain, Semantic Kernel, LangGraph, CrewAI, OpenAI API,
+      Anthropic API, Gemini]
+    ml: [Machine Learning]
+    web: [REST APIs, Microservices]
+    databases: [Vector Search, Vector Databases]
+    data: []
+    cloud: [Azure OpenAI]
+    ops: [CI/CD, Git, GitHub, DevOps]
+    languages: [Python, Java, JavaScript, TypeScript]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10692844'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:00:45.976501'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

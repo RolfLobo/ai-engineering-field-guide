@@ -1,0 +1,48 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: Enterprise AI solutions and consulting
+position:
+  title: AI Engineer | Agentic AI & GenAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI and GenAI solutions with
+      LangChain/LangGraph, prompts, and LLM agents, which is
+      shaping LLM behavior. This makes it ai-first.
+  responsibilities:
+  - Build scalable enterprise AI solutions using GenAI, LLMs, and Agentic AI
+  - Design and implement AI agents and multi-agent systems
+  - Develop prompts and fine-tune LLMs for enterprise use cases
+  - Integrate OpenAI GPT models into Python applications
+  - Build backend services with FastAPI and Flask
+  - Deploy and serve models on cloud platforms with Docker and Kubernetes
+  - Process documents using python-pptx and PyMuPDF
+  - Profile and optimize Python memory usage
+  use_cases:
+  - Enterprise AI agent solutions
+  - Document processing and automation
+  - LLM-powered enterprise applications
+  - NLP-based text processing
+  skills:
+    genai: [Generative AI, LLMs, Multi-Agent Systems, AI Agents, LangChain, LangGraph,
+      AutoGen, Semantic Kernel, Prompt Engineering, OpenAI API]
+    ml: [Fine-Tuning, Transfer Learning, Transformers, BERT, NLTK, spaCy, Word2Vec,
+      GloVe]
+    web: [FastAPI, Flask]
+    databases: [SQL, NoSQL, Vector Databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, MLOps, CI/CD, Model Deployment]
+    languages: [Python]
+    domains: [NLP]
+    other: [Scalene, Filprofiler, python-pptx, PyMuPDF, Statistical Methods, Experimental
+        Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234987'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:30:07.621002'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

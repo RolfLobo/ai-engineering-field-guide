@@ -1,0 +1,55 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: Data and cloud analytics consulting services
+position:
+  title: Sr. Engineer II - App Engg & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack web engineer on a metrics/reporting
+      platform. No responsibilities involve shaping model
+      behavior, prompts, retrieval, or training; "AI" appears only
+      in the title.
+  responsibilities:
+  - Own the customer-facing React/TypeScript application - dashboards, tables, filters,
+    charts, and saved views
+  - Integrate the app as a module-federated micro-frontend remote within the platform
+    shell
+  - Manage server state with TanStack Query - cache keys, invalidation, pagination,
+    optimistic updates
+  - Build data-dense interfaces with TanStack Table including sorting, filtering,
+    and virtualization
+  - Design data visualizations with Recharts
+  - Validate API contracts on the client with Zod schemas
+  - Extend FastAPI endpoints, write database migrations, and review backend pull requests
+  - Own quality, performance, accessibility, and production support across the stack
+  use_cases:
+  - Customer-facing metrics and reporting dashboards
+  - Interactive data tables with sorting, filtering, and virtualization
+  - Data visualization layer answering analytics questions
+  - Shareable saved views with URL-addressable state
+  skills:
+    genai: []
+    ml: []
+    web: [React, FastAPI, Next.js, Tailwind CSS, Micro Frontends]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python, SQL]
+    domains: []
+    other: [Vite, TanStack Query, TanStack Table, TanStack Router, Zustand, Zod, Recharts,
+      D3, shadcn/ui, Radix, Vitest, React Testing Library, Module Federation, Accessibility,
+      Database Migrations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10946666'
+  location: Ahmedabad, IND
+  locations:
+  - Ahmedabad, IND
+  - Hyderabad, IND
+  extracted_at: '2026-09-23T11:08:00.005751'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

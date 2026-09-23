@@ -1,0 +1,50 @@
+company:
+  name: Infios
+  stage: null
+  focus: Supply chain software solutions, warehouse management
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds generative AI and agentic systems, including
+      RAG, embeddings, and prompt engineering, directly shaping
+      LLM behavior. This is clearly ai-first.
+  responsibilities:
+  - Design, develop and maintain AI-driven solutions using Python, LLM frameworks,
+    APIs and modern AI tooling
+  - Build and evolve generative AI and agentic systems, including architecture design,
+    technical specs and design reviews
+  - Collaborate cross-functionally with product, data and engineering teams to deliver
+    scalable AI solutions
+  - Deliver high-quality, unit- and integration-tested components following Agile
+    methodologies
+  - Contribute to feature estimation, system enhancements and continuous optimisation
+    of algorithms and AI performance
+  - Take ownership beyond core scope and support broader team initiatives
+  use_cases:
+  - Improving user experience in a warehouse management product using LLMs
+  - Generative AI and agentic systems for supply chain software
+  - RAG-based AI solutions over product data
+  - Scalable AI-powered features for logistics operations
+  skills:
+    databases: [PostgreSQL, Vector Databases]
+    domains: []
+    data: []
+    web: [APIs, Microservices]
+    ml: []
+    ops: [CI/CD, Azure DevOps, Git, Docker, Kubernetes, DevOps]
+    other: [Agile, Responsible AI]
+    cloud: [Google ADK]
+    languages: [Python]
+    genai: [LangChain, LLMs, Agentic Workflows, RAG, Embeddings, Fine-Tuning, AI Agents,
+      Prompt Engineering, Generative AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11126952'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:20:06.785568'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: Hanwha Energy USA
+  stage: null
+  focus: Utility-scale energy projects and data center solutions
+position:
+  title: Cloud & AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role provisions, operates, and secures Azure
+      infrastructure and pipelines supporting AI agents and
+      copilots built by others; it never shapes model behavior via
+      prompts, retrieval, or training. Hosting and scaling AI
+      workloads the person does not shape is ai-support.
+  responsibilities:
+  - Design and provision Azure and AI resources using infrastructure-as-code
+  - Establish standards for networking, identity, security, tagging, and cloud governance
+  - Build and maintain CI/CD pipelines for AI-enabled applications, agents, and automations
+  - Implement logging, telemetry, monitoring, and observability for AI and cloud workloads
+  - Manage Azure and AI platform environments across development, testing, and production
+  - Monitor and optimize Azure and Azure OpenAI usage and spend including cost reporting
+  - Support identity, access, secrets, and security practices for cloud and AI workloads
+  - Troubleshoot deployment, performance, and infrastructure issues for applications
+    and agents
+  use_cases:
+  - Cloud platform supporting internal AI agents and copilots
+  - Infrastructure for enterprise data workloads
+  - Automations and internal application hosting on Azure
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, Azure OpenAI, IAM]
+    ops: [Infrastructure as Code, Terraform, CI/CD, Monitoring, Observability, Docker,
+      Kubernetes, FinOps, Distributed Systems]
+    languages: []
+    domains: []
+    other: [FinOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9120101'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:38:47.038124'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

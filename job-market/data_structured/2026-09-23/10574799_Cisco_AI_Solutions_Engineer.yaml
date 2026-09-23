@@ -1,0 +1,49 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and AI infrastructure solutions
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a pre-sales/solutions engineer selling and
+      architecting Cisco's AI Factory infrastructure (networking,
+      compute, observability). There is no shaping of model
+      behaviour—no prompts, RAG, fine-tuning, or evals—only
+      infrastructure solution design, so it is ai-support.
+  responsibilities:
+  - Lead customers from AI use case ideation through full-scale implementation as
+    technical authority for AI Factory infrastructure
+  - Align Cisco's AI stack with ISV and industry partners for end-to-end solutions
+  - Architect scalable, secure environments using Cisco's AI-optimized networking,
+    compute, and observability solutions
+  - Design and execute Proof of Value projects validating solution performance in
+    customer environments
+  - Collaborate with product engineering to influence roadmap based on field insights
+  - Represent Cisco at industry events as a thought leader in AI infrastructure
+  use_cases:
+  - Enterprise AI infrastructure and AI Factory deployment
+  - AI-optimized networking and compute for AI workloads
+  - Secure and observable AI environments for enterprise customers
+  - Proof of Value validation of AI infrastructure solutions
+  skills:
+    genai: [Agentic Development]
+    ml: [AI/ML Infrastructure Architecture]
+    web: [Microservices, API-Driven Automation]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, Infrastructure as Code, Service Orchestration, Cybersecurity,
+      Observability]
+    languages: []
+    domains: []
+    other: [Networking Protocols]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10574799'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:00:14.983744'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Baringa
+  stage: null
+  focus: Global business and technology consulting firm
+position:
+  title: Senior Consultant/Manager, AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production-grade agentic systems
+      using LLM SDKs, RAG, MCP, and prompt engineering, which is
+      direct shaping of LLM behavior. It also covers classical ML
+      engineering, but an LLM/agent component is involved, so ai-
+      first applies.
+  responsibilities:
+  - Lead client consultancy engagements end-to-end, from opportunity shaping to delivery
+    governance and team leadership
+  - Design and build production-grade agentic AI systems using LLM SDKs and agent
+    frameworks, with RAG and MCP servers
+  - Deliver enterprise ML solutions covering the full lifecycle from feature engineering
+    to production deployment, monitoring and drift detection
+  - Build production-grade Python services and front-ends (React/Next.js) with cloud
+    architecture design
+  - Embed AI and ML solutions into clients' business processes across regulated industries
+  - Represent Baringa's expertise with credibility to technical and non-technical
+    client audiences
+  use_cases:
+  - Agentic AI systems deployed securely and resiliently in enterprise environments
+  - Data and ML solutions embedded directly into client business processes
+  - Production ML with monitoring and drift detection for regulated industries
+  - Cloud-native AI-enabled software services across energy, financial services and
+    public sector clients
+  skills:
+    genai: [Agentic Workflows, LLMs, RAG, MCP, Prompt Engineering]
+    ml: [Feature Engineering, Model Training, Model Evaluation, scikit-learn, PyTorch,
+      XGBoost]
+    web: [FastAPI, React, Next.js, Material UI, SWR, Jest, Cypress, React Testing
+        Library]
+    databases: [NoSQL, Graph Databases]
+    data: []
+    cloud: [AWS Lambda, SageMaker, Azure ML, Vertex AI, AWS]
+    ops: [MLOps, Model Monitoring, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11267831'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:32:34.483012'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

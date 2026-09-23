@@ -1,0 +1,42 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT staffing and AI project hiring services
+position:
+  title: MD - AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role centers on Generative AI and LLM projects with
+      prompt engineering, RAG, and LangChain/LlamaIndex, meaning
+      the person shapes LLM behavior, so it is ai-first.
+  responsibilities:
+  - Work on AI and Generative AI projects across PAN India
+  - Build LLM-based applications using LangChain/LlamaIndex
+  - Design and implement RAG pipelines
+  - Write and tune prompts for LLM systems
+  - Integrate AI capabilities with external APIs
+  - Deploy solutions on cloud platforms (AWS, Azure, or GCP)
+  use_cases:
+  - Enterprise Generative AI applications
+  - LLM-based systems with retrieval-augmented generation
+  - Conversational and prompt-driven AI solutions
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [APIs]
+    ml: [Machine Learning, Deep Learning]
+    ops: []
+    other: []
+    cloud: [AWS, Azure, GCP]
+    languages: [Python]
+    genai: [Generative AI, LLMs, Prompt Engineering, LangChain, LlamaIndex, RAG]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234970'
+  location: Renapur, IND
+  extracted_at: '2026-09-23T11:29:26.657278'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

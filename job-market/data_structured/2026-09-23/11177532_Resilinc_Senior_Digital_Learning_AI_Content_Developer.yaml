@@ -1,0 +1,47 @@
+company:
+  name: Resilinc
+  stage: null
+  focus: Supply chain risk management with agentic AI
+position:
+  title: Senior Digital Learning & AI Content Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a digital learning content development role that
+      uses AI and multimedia tools to produce training content;
+      the person does not shape model behavior, prompts,
+      retrieval, or evals as a deliverable. AI is mentioned as an
+      enabler ("AI-enabled builder", "AI-forward Academy"), not
+      the product being engineered.
+  responsibilities:
+  - Build and scale a modern, AI-forward Academy learning experience for customers,
+    partners, and internal teams
+  - Turn complex product and supply chain domain knowledge into clear digital learning
+    content
+  - Research, script, produce, edit, publish, and improve digital learning assets
+  - Use modern AI and multimedia tools across the content lifecycle
+  - Own the full content lifecycle independently from idea to published experience
+  use_cases:
+  - Customer, partner, and internal enablement for a supply chain risk management
+    platform
+  - Digital learning content for an agentic AI supply chain product
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11177532'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:23:15.797903'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: GitLab
+  stage: null
+  focus: DevSecOps platform for software development lifecycle
+position:
+  title: Forward Deployed Engineer, AI and Agentic SDLC
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic systems, agent
+      workflows, retrieval/context systems, and evaluation suites
+      for GitLab Duo Agent Platform - directly shaping LLM/agent
+      behavior. Forward Deployed Engineers adapting AI solutions
+      at customer sites are ai-first per the edge cases.
+  responsibilities:
+  - Design and build agentic systems with models, tools, orchestration, context, retrieval,
+    state, memory, evaluation, tracing, and human oversight
+  - Develop context and knowledge systems using RAG, cache-augmented generation, graph-based
+    retrieval, repository understanding, and context optimization
+  - Work directly in strategic customer environments to resolve technical friction
+    and turn ambiguous needs into working solutions
+  - Build agent workflows, integrations, evaluation suites, reference architectures,
+    and product capabilities
+  - Contribute production-quality changes to GitLab Duo Agent Platform and the broader
+    GitLab product
+  - Evaluate and improve system quality, reliability, latency, cost, safety, authorization,
+    and governance
+  - Diagnose failures across models, context, retrieval, tool use, control flow, and
+    permissions
+  - Provide Staff-level technical leadership through architecture, implementation,
+    review, and mentorship
+  use_cases:
+  - Agentic software development via GitLab Duo Agent Platform
+  - Coding agents, IDE integrations, and code understanding for developers
+  - Repository understanding and context/retrieval systems for AI development tools
+  - AI-assisted code review, testing, security, and incident response
+  - Enterprise AI governance, authorization, and customer-controlled inference
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, LangChain, LangGraph, LLM Evaluation,
+      Context Engineering]
+    ml: []
+    web: [Ruby on Rails]
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Git, Kubernetes, Terraform, Ansible, Infrastructure as Code, Tracing]
+    languages: [Python, TypeScript, Go, Rust, Java, Kotlin, Ruby, C#]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9274477'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:38:55.345232'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: WebMD
+  stage: null
+  focus: |-
+    Online media and software services across health, legal,
+    automotive, and home/travel verticals
+position:
+  title: AI Engineer (Application Design & Rapid Deployment)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM applications end-to-end:
+      multi-agent workflows with LangGraph, prompt engineering,
+      and building LLM evaluation frameworks (LLM-as-a-judge).
+      This is directly shaping model behaviour and output quality,
+      so it is ai-first.
+  responsibilities:
+  - Design and build user-facing AI applications end to end, from UI to backend logic
+    to AI agent interaction
+  - Build complex, stateful, multi-agent systems and cyclic workflows using LangGraph
+  - Rapidly prototype high-fidelity MVPs using full-stack skills and AI-assisted development
+    tools like Claude Code
+  - Design, build, and maintain automated LLM evaluation frameworks (Ragas, TruLens,
+    LLM-as-a-judge) measuring accuracy, latency, hallucinations, and regression
+  - Serve as power-user of the internal AI Development Framework and provide feedback
+    to the core architecture team
+  - Integrate AI capabilities into business workflows safely and effectively
+  use_cases:
+  - Enterprise multi-agent AI applications for complex business use cases
+  - User-facing AI applications across health media and other verticals
+  - Automated quality evaluation of LLM applications including accuracy, latency,
+    hallucination, and regression detection
+  - Safe integration of AI capabilities into business workflows
+  skills:
+    genai: [LangGraph, Multi-Agent Systems, Agentic Workflows, Claude Code, LLMs,
+      LLM Evaluation, Prompt Engineering, Ragas, TruLens, LangSmith]
+    ml: []
+    web: [React, Next.js]
+    databases: [Vector Databases, Pinecone, Qdrant, Milvus, Relational Databases]
+    data: [Data Pipelines]
+    cloud: []
+    ops: [MLOps]
+    languages: [Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11072501'
+  location: El Segundo, USA
+  extracted_at: '2026-09-23T11:17:23.942808'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

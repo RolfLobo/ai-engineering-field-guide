@@ -1,0 +1,54 @@
+company:
+  name: Egon Zehnder
+  stage: null
+  focus: Executive search and leadership advisory firm
+position:
+  title: Senior Engineer - Quality Assurance (AI-Enabled Test Automation)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA/test automation role that uses AI tools to
+      accelerate testing and validates AI-powered solutions built
+      by others (prompt testing, AI response validation, AI
+      regression testing). The person does not shape model
+      behavior through prompts, retrieval, or training — they
+      verify and test systems, which is validation/QA oversight of
+      models, not shaping.
+  responsibilities:
+  - Champion AI-assisted testing practices across the SDLC
+  - Use AI tools for test case generation, test data creation, automation development,
+    risk identification and regression optimization
+  - Design, develop and maintain automation frameworks for functional, regression,
+    integration and end-to-end testing
+  - Automate testing of React applications and REST APIs
+  - Validate Azure Event Hubs, Azure Functions, Azure SignalR, Azure ADI and Azure
+    OpenAI based solutions
+  - Perform prompt testing, AI response validation and AI regression testing
+  - Integrate automated testing into Azure DevOps build and release pipelines with
+    quality gates
+  - Execute performance, reliability and security testing
+  use_cases:
+  - AI-assisted test automation for cloud-native platforms
+  - Test automation for React applications and REST APIs
+  - Validation of Azure event-driven and serverless integrations
+  - Quality assurance of Azure OpenAI powered solutions
+  - Automated quality gates in CI/CD release pipelines
+  skills:
+    genai: []
+    ml: [Selenium]
+    web: [React Testing Library, REST APIs, Postman, Swagger/OpenAPI, React]
+    databases: []
+    data: []
+    cloud: [Azure Functions, Azure, Azure OpenAI]
+    ops: [Playwright, Cypress, Jest, Azure DevOps, CI/CD, Git, Prompt Testing]
+    languages: [JavaScript, TypeScript]
+    domains: []
+    other: [AI-Driven Testing, Contract Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10949834'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:08:35.102723'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

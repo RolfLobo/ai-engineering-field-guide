@@ -1,0 +1,52 @@
+company:
+  name: Garrett
+  stage: null
+  focus: Turbocharging and electric motor technology manufacturer
+position:
+  title: Sr. AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role enhances an LLM engine module leveraging Azure
+      OpenAI and builds data pipelines to Azure AI Search, which
+      is designing LLM-driven functionality and retrieval. While
+      much is general full-stack work, the person directly builds
+      LLM engine and search/retrieval components, making it ai-
+      first.
+  responsibilities:
+  - Develop responsive user interfaces using React and collaborate with UX/UI designers
+  - Enhance the LLM engine module using Python or .NET Core
+  - Leverage Azure OpenAI services to enable AI-driven functionalities
+  - Build and maintain pipelines to synchronize data with Azure AI Search
+  - Utilize Kafka as a message queue for event processing with high availability and
+    low latency
+  - Collaborate with backend and frontend teams to build robust APIs and seamless
+    integration
+  - Mentor junior developers and provide technical guidance
+  use_cases:
+  - AI-enabled enterprise solutions addressing strategic business challenges
+  - LLM-powered functionalities integrated into software solutions
+  - Search and data synchronization with Azure AI Search
+  - Event-driven data processing at scale via Kafka
+  skills:
+    genai: [Azure OpenAI, LLMs]
+    ml: [Machine Learning]
+    web: [React, Vue, APIs]
+    databases: []
+    data: [Kafka]
+    cloud: [Azure AI Search, AWS, Azure]
+    ops: [Model Deployment, Git, CI/CD, Docker, Kubernetes]
+    languages: [Python, .NET]
+    domains: []
+    other: [Agile, Microsoft Teams Bot Framework, Office 365 APIs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10908666'
+  location: Madurai, IND
+  locations:
+  - Madurai, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:05:52.581310'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

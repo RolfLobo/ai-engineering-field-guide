@@ -1,0 +1,48 @@
+company:
+  name: Coditude
+  stage: null
+  focus: Software development and technology services
+position:
+  title: AI-Accelerated Full-Stack Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack product engineer that uses Claude,
+      LLMs, and AI coding assistants as tools to accelerate
+      coding; the person does not shape model behaviour through
+      prompts, retrieval, or agent design, nor trains models. Per
+      the rules, AI named as a tool the engineer uses to write
+      code is ai-support.
+  responsibilities:
+  - Own features end-to-end from conception to deployment across frontend and backend
+  - Leverage AI development workflows and AI coding assistants to accelerate delivery
+    and automate repetitive tasks
+  - Design, query, and optimize database schemas and integrate cloud storage for application
+    assets
+  - Containerize applications with Docker and manage deployments from local setup
+    to the cloud
+  - Deploy, host, and manage applications on AWS including EC2/ECS and S3
+  - Research and resolve complex technical challenges independently
+  use_cases:
+  - Full-stack web application development
+  - Feature delivery accelerated by AI-assisted coding workflows
+  - Cloud-hosted application deployment and storage management
+  skills:
+    genai: [LLMs, Anthropic API, Prompt Engineering]
+    ml: []
+    web: [Next.js, React, APIs]
+    databases: [PostgreSQL, MySQL, MongoDB]
+    data: []
+    cloud: [AWS, EC2, ECS, AWS S3]
+    ops: [Docker]
+    languages: [Node.js, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10957025'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:08:56.869357'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Mercury Insurance
+  stage: null
+  focus: Property and casualty insurance carrier
+position:
+  title: Staff Software Engineer AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role evaluates and selects GenAI models, works with
+      Agentic AI, RAG, prompts, and human-in-the-loop evaluation
+      for conversational AI in production, which is directly
+      shaping LLM behavior and quality. It is a Staff IC role
+      providing technical leadership, not people management.
+  responsibilities:
+  - Identify and integrate Generative AI solutions to solve complex business problems
+    and enhance existing software systems
+  - Evaluate and select Generative AI models, tools, and techniques for specific use
+    cases considering performance, cost, and maintainability
+  - Build production-grade conversational AI features integrating GenAI models into
+    production applications
+  - Lead design and code reviews for AI-enhanced applications and lead multiple sprint
+    teams delivering AI-powered features
+  - Partner with SMEs to incorporate domain expertise into evaluation frameworks,
+    metrics, and continuous model improvement
+  - Collaborate with product managers, data scientists, and engineers to translate
+    AI opportunities into practical software solutions
+  - Mentor engineers on practical AI adoption within existing software systems
+  use_cases:
+  - Production conversational AI for insurance business processes
+  - AI-enhanced features embedded in existing insurance software systems
+  - Intelligent features that augment insurance operations and customer capabilities
+  - Continuous model improvement via SME-driven evaluation and metrics
+  skills:
+    databases: [Relational Databases, NoSQL, Caching]
+    domains: []
+    data: [Kafka, Apache NiFi, Amazon SQS, Message Queuing, Data Streaming, Integration
+        Frameworks, Apache Camel, Product Data Analytics]
+    web: [REST APIs, gRPC, Microservices]
+    ml: [NLP, Data Science]
+    ops: [Docker, Kubernetes, DevSecOps, Observability, Distributed Systems]
+    other: [Design Patterns]
+    cloud: [AWS, GCP, Azure]
+    languages: [Java, Python, Go, C++, JavaScript, Data Structures and Algorithms]
+    genai: [AI Agents, RAG, Prompt Engineering, Conversational AI, Human in the Loop
+        Evaluation, Generative AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11126576'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:20:48.289862'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

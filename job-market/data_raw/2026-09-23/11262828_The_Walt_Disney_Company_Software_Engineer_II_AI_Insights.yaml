@@ -1,0 +1,220 @@
+job_id: 11262828
+title: Software Engineer II, AI Insights
+company: The Walt Disney Company
+location: New York, USA
+work_type: FULL_TIME
+company_size: 219,548 Employees
+description: |
+  Job Posting Title:
+
+  Software Engineer II, AI Insights
+
+  Req ID:
+
+  10148557
+
+  Job Description:
+
+  Disney Entertainment and ESPN Product & Technology
+
+  Technology is at the heart of Disney’s past, present, and
+  future. Disney Entertainment and ESPN Product & Technology
+  is a global organization of engineers, product developers,
+  designers, technologists, data scientists, and more – all
+  working to build and advance the technological backbone for
+  Disney’s media business globally.
+
+  The team marries technology with creativity to build world-
+  class products, enhance storytelling, and drive velocity,
+  innovation, and scalability for our businesses. We are
+  Storytellers and Innovators. Creators and Builders.
+  Entertainers and Engineers. We work with every part of The
+  Walt Disney Company’s media portfolio to advance the
+  technological foundation and consumer media touch points
+  serving millions of people around the world.
+
+  Here are a few reasons why we think you’d love working here:
+
+  - Building the future of Disney’s media: Our Technologists are
+    designing and building the products and platforms that
+    will power our media, advertising, and distribution
+    businesses for years to come.
+  - Reach, Scale & Impact: More than ever, Disney’s technology
+    and products serve as a signature doorway for fans'
+    connections with the company’s brands and stories.
+    Disney+. Hulu. ESPN. ABC. ABC News…and many more. These
+    products and brands – and the unmatched stories,
+    storytellers, and events they carry – matter to millions
+    of people globally.
+  - Innovation: We develop and implement groundbreaking products
+    and techniques that shape industry norms and solve complex
+    and distinctive technical problems.
+
+  Product Engineering is a unified team responsible for the
+  engineering of Disney Entertainment & ESPN digital and
+  streaming products and platforms. This includes product
+  engineering, media engineering, quality assurance,
+  engineering behind personalization, commerce, lifecycle, and
+  identity.
+
+  The Observability & Insights group ensures that Disney
+  Streaming’s distributed systems are reliable, performant,
+  and transparent. We build the telemetry, dashboards,
+  alerting, insights pipelines, and developer experience
+  tooling that enable engineers across the organization to
+  understand system health and take action quickly.
+
+  Job Summary
+
+  As a Software Engineer II, you will design and build
+  intelligent, AI driven systems that enhance the reliability
+  and compliance posture of Disney's large-scale streaming
+  infrastructure. You will develop agentic systems, machine
+  learning models, and real-time automation that transform
+  telemetry, logs, and infrastructure signals into automated
+  detection, root cause analysis, and proactive policy
+  enforcement and insights.
+
+  In this role, you will contribute to the development of
+  autonomous agents capable of reasoning over complex system
+  behavior, identifying issues in real time, and driving
+  faster detection and resolution across Disney+, Hulu, and
+  ESPN. You will also contribute to systems that provide
+  infrastructure visibility across a variety of Disney
+  products, enforce compliance through preventative
+  guardrails, correlate services to incidents for faster
+  resolution, and quantify the impact of AI-driven
+  observability tools on operational outcomes. You will
+  partner closely with engineering, product, and platform
+  teams to embed intelligence directly into operational
+  workflows, improving system resilience and compliance
+  posture at scale.
+
+  As a Software Engineer II, you will deliver high quality
+  features end-to-end, contribute to system design and
+  architecture reviews, and begin owning components of
+  production systems within a fast-paced, AI-native SRE
+  engineering environment.
+
+  Responsibilities
+
+  - Design and operate intelligent, production-grade systems
+    that leverage real-time signals and AI-driven detection to
+    improve the health of streaming platforms, critical
+    services, and customer experience
+  - Build and scale AI-driven capabilities including agentic AI
+    systems powered by modern foundation models (e.g. Claude
+    Opus/Sonnet, GPT-4) enabling automated reasoning and
+    decisioning, as well as predictive modeling and anomaly
+    detection for real-time system health and reliability
+  - Develop end-to-end data and decisioning pipelines that
+    transform telemetry, logs, and user signals into
+    actionable insights, automated detection, and root cause
+    analysis
+  - Create and deploy scalable APIs and services that deliver
+    predictive signals, explainability, and insights to
+    engineering teams, operational tools, and product
+    stakeholders
+  - Contribute to infrastructure visibility and compliance
+    enforcement systems that aggregate resource data across
+    Disney products, enable ownership-scoped querying, and
+    prevent non-compliant deployments
+  - Partner cross-functionally to embed intelligence into
+    workflows (incident response, release validation, customer
+    insights), improving speed and reducing operational
+    overhead
+  - Drive innovation in observability, reliability, and
+    developer productivity through applied AI and new
+    approaches
+
+  Basic Qualifications
+
+  - 3+ years of applicable experience in backend development,
+    including building AI-powered or data driven applications
+    and scalable APIs (e.g. FastAPI, Flask)
+  - Knowledge of AWS services and cloud architecture to inform
+    what infrastructure characteristics should be measured and
+    evaluated for reliability and compliance
+  - Practical experience in AI/ML engineering, with knowledge in
+    at least one of the following areas:
+    - Agentic Workflows: Orchestrating foundation models (GPT-4,
+      Claude) using frameworks like LangChain or LangGraph.
+    - Traditional ML: Developing, training, or fine-tuning models
+      using frameworks like PyTorch or TensorFlow.
+  - Proficiency with AI-assisted development tools (e.g.,
+    Cursor, Claude Code) to accelerate engineering velocity.
+  - Experience with modern development practices, including
+    version control (GitHub), containerization (Docker), and
+    cloud-native deployments (AWS/EKS).
+  - Strong understanding of API design, microservices
+    architecture, and standard SDLC workflows.
+  - Strong analytical and technical skills to troubleshoot
+    issues, perform rapid iteration and quickly come-up with
+    the possible solutions,
+  - Strong collaboration and communication skills, with the
+    ability to work cross-functionally and clearly explain
+    complex technical concepts
+
+  Preferred Qualifications
+
+  - Experience with observability platforms (e.g., Datadog,
+    Grafana, Conviva) and handling high-volume telemetry data.
+  - Familiarity with large-scale data platforms and distributed
+    data processing tools (e.g., PySpark, Pandas, Databricks,
+    Snowflake).
+  - Knowledge of prompt design, model evaluation, and fine-
+    tuning foundation models (GPT-4, Claude).
+  - Experience implementing production-grade systems at scale
+    within a fast-paced, distributed environment.
+
+  Education
+
+  - Bachelor’s degree in Computer Science, Engineering, or
+    equivalent experience
+
+  #TECHATDISNEY
+
+  The hiring range for this position in New York, NY is
+  $123,000 to $165,000 per year. The base pay actually offered
+  will take into account internal equity and also may vary
+  depending on the candidate’s geographic region, job-related
+  knowledge, skills, and experience among other factors. A
+  bonus and/or long-term incentive units may be provided as
+  part of the compensation package, in addition to the full
+  range of medical, financial, and/or other benefits,
+  dependent on the level and position offered.
+
+  Job Posting Segment:
+
+  PE - Sports, News & Entertainment, Tech Enablement
+
+  Job Posting Primary Business:
+
+  PE - Sports, News & Entertainment, Enablement - News &
+  Entertainment Engineering
+
+  Primary Job Posting Category:
+
+  Software Engineer
+
+  Employment Type:
+
+  Full time
+
+  Primary City, State, Region, Postal Code:
+
+  New York, NY, USA
+
+  Alternate City, State, Region, Postal Code:
+
+  Date Posted:
+
+  2026-09-18
+industries:
+  - Digital Media
+  - Gaming
+  - News + Entertainment
+  - Sports
+posted_date: 2026-09-18
+url: "https://builtin.com/job/software-engineer-ii-ai-insights/11262828"
+source: Built In

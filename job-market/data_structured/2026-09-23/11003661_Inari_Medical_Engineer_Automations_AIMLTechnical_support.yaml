@@ -1,0 +1,51 @@
+company:
+  name: Inari Medical
+  stage: null
+  focus: Medical devices and healthcare communication technology
+position:
+  title: Engineer, Automations (AI/ML),Technical support
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds internal support tools and automation
+      scripts for log analysis; AI is mentioned only as coding
+      assistants (Cursor, Copilot) and a vague "AI/ML solutions"
+      label with no shaping of model behavior. The person does not
+      design prompts, retrieval, training, or evals, so it is ai-
+      support.
+  responsibilities:
+  - Scope, design, and build internal tools and automation with Support, Quality,
+    and Engineering stakeholders
+  - Support tools (CAFI, ASL, CI/CD data pipelines) used to gather and analyze customer
+    log files for troubleshooting Vocera products
+  - Develop automation scripts to eliminate manual processes and drive operational
+    efficiency
+  - Deliver features and innovative solutions within project timelines
+  - Collaborate with other development teams on features and enablers
+  - Follow software engineering best practices and document designs
+  use_cases:
+  - Automating troubleshooting workflows for Vocera medical device products
+  - Gathering and analyzing customer log files to support Technical Support, Quality,
+    and Engineering
+  - Internal support tools to improve operational efficiency
+  - Process automation to eliminate manual work
+  skills:
+    genai: []
+    ml: []
+    web: [Flask, FastAPI, React, Angular]
+    databases: [NoSQL, Elasticsearch]
+    data: [Data Modeling, NumPy, Pandas, Airflow, PySpark]
+    cloud: []
+    ops: [Git, Jenkins, Ansible, Terraform]
+    languages: [Java, Python, JavaScript, HTML, CSS, PowerShell, Bash, SQL]
+    domains: []
+    other: [Cursor, GitHub Copilot, Jira, BitBucket, VMware, Tableau, Apache Superset,
+      Power BI, Agile, Code Review, ETL]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11003661'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:12:18.601762'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

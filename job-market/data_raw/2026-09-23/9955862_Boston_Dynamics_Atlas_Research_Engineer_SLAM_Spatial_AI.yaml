@@ -1,0 +1,105 @@
+job_id: 9955862
+title: "Atlas Research Engineer, SLAM & Spatial AI"
+company: Boston Dynamics
+location: Fatepura, IND
+work_type: FULL_TIME
+company_size: 642 Employees
+description: |
+  As a SLAM & Spatial AI Research Engineer on the Atlas VLA
+  Research team, you will build the perception and geometric
+  reasoning systems that give Atlas a grounded 3D
+  understanding of the world. Your work spans the full
+  spectrum from real-time SLAM and state estimation on
+  humanoid hardware to offline reconstruction pipelines that
+  produce the geometric scene structure used to train and
+  condition large VLM/VLA models.
+
+  You will design real-time SLAM and perception-based state
+  estimation that runs on Atlas, develop offline 3D
+  reconstruction pipelines that turn teleop and robot logs
+  into high-fidelity geometric data, and pursue research in
+  spatial AI, grounding language and vision into 3D geometry
+  so that learned policies can reason about space, not just
+  pixels. You'll collaborate closely with perception,
+  robotics, ML & system software specialists and rapidly test
+  your work on state-of-the-art  hardware.
+
+  How You Will Make an Impact:
+
+  - Design and implement real-time SLAM and perception-based
+    state estimation for a mobile humanoid or specialized data
+    collection devices operating in unstructured, dynamic
+    environments
+  - Build offline 3D reconstruction pipelines (multi-view
+    geometry, SfM/MVS, neural reconstruction, depth/pose
+    fusion) that generate geometric scene structure to inform
+    and supervise large VLM/VLA training
+  - Pioneer research integrating large VLA and VLM models with
+    3D spatial perception to enable semantic, language-
+    grounded scene reasoning.
+  - Bridge classical geometric methods and learned approaches -
+    knowing when to use optimization-based estimation versus
+    learned representations, and how to combine them.
+  - Write high-quality, maintainable C++ and Python code that
+    fits into a large production codebase.
+
+  We’re Looking For:
+
+  - PhD in Robotics, Computer Vision, Machine Learning, Computer
+    Science, or related fields (or equivalent experience).
+  - Prior experience building, and deploying SLAM, visual
+    odometry, or 3D reconstruction systems for robots or
+    autonomous vehicles.
+  - Strong background in one or more of the following:
+    - Real-time SLAM, visual-inertial odometry, and state
+      estimation
+    - 3D reconstruction (SfM, MVS, multi-view geometry,
+      neural/implicit reconstruction)
+    - Probabilistic state estimation and sensor fusion (factor
+      graphs, filtering, optimization on manifolds)
+    - Spatial representations, grounding language/vision into 3D
+      geometry, geometric foundation models
+  - Solid foundation in the math underlying geometric perception
+    (Lie groups, nonlinear optimization, multi-view geometry).
+  - Strong analytical and debugging skills; ability to write
+    reliable, well-structured research code in C++ and Python.
+
+  Nice to Have:
+
+  - Experience with modern ML frameworks (PyTorch, JAX) and an
+    understanding of how perception outputs feed large-scale
+    model training.
+  - Experience building reconstruction or data pipelines that
+    produce training data for large vision or VLA models.
+  - Familiarity with VLA / large behavior models and how spatial
+    grounding improves manipulation and long-horizon behavior.
+  - Publications in top-tier computer vision, ML, or robotics
+    conferences (e.g., CVPR, ICCV, ECCV, RSS, ICRA, CoRL).
+
+  Why Join Us:
+
+  - Direct access to the world’s most advanced humanoid robot:
+    test your models on hardware quickly and often.
+  - A collaborative, inclusive team that values diverse
+    perspectives and identities.
+  - The opportunity to do applied spatial perception and VLA
+    research with real-world impact.
+  - A mission-focused environment where your work will define
+    the future of general-purpose humanoids.
+
+  The base pay range for this position is between $177,000 to
+  $225,000 annually. Base pay will depend on multiple
+  individualized factors including, but not limited to
+  internal equity, job related knowledge, skills and
+  experience.  This range represents a good faith estimate of
+  compensation at the time of posting. Boston Dynamics offers
+  a generous Benefits package including medical, dental
+  vision, 401(k), paid time off and a annual bonus structure.
+  Additional details regarding these benefit plans will be
+  provided if an employee receives an offer for employment.
+industries:
+  - Robotics
+  - Software
+posted_date: 2026-08-16
+url: "https://builtin.com/job/research-scientist-spatial-ai-perception/9955862"
+source: Built In

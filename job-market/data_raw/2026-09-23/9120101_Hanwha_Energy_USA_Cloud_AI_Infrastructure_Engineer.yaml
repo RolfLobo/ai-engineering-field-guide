@@ -1,0 +1,203 @@
+job_id: 9120101
+title: "Cloud & AI Infrastructure Engineer"
+company: Hanwha Energy USA
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  COMPANY OVERVIEW
+
+  Hanwha Energy USA, headquartered in Houston, Texas, is part
+  of the Hanwha Group—a FORTUNE Global 300 company and one of
+  South Korea’s most respected business enterprises. With over
+  a decade of experience delivering high-quality, utility-
+  scale energy projects across North America, Hanwha Energy
+  USA has evolved into a comprehensive energy solutions
+  provider. Our portfolio now spans utility-scale renewables,
+  natural gas generation, retail electricity, and strategic
+  partnerships that power America’s growing data center
+  industry.
+
+  Our expertise covers the entire energy value chain—from
+  project development and engineering to construction,
+  operations, and maintenance. By integrating advanced
+  technologies, proven processes, and strong partnerships, we
+  deliver reliable, customized solutions that meet the dynamic
+  needs of local energy markets.
+
+  Hanwha Energy USA is actively advancing strategic
+  initiatives in natural gas generation and data center
+  development, including hyperscaler solutions on both sides
+  of the meter. We are proud to serve as the parent company
+  of:
+
+  - Hanwha Renewables – specializing in utility-scale solar and
+    battery energy storage systems (BESS)
+  - Chariot Energy – providing retail electricity services for
+    residential, commercial, and industrial customers in
+    deregulated markets
+
+
+
+  POSITION OVERVIEW
+
+   We are seeking a Cloud & AI Infrastructure Engineer to
+  design, build, operate, and optimize the Azure and AI
+  platform that supports our internal applications, AI agents,
+  copilots, automations, and enterprise data workloads.
+
+  This role is responsible for providing a secure, reliable,
+  and cost-effective cloud foundation as our AI and
+  application landscape scales. The ideal candidate will bring
+  strong hands-on experience with Azure infrastructure,
+  infrastructure-as-code, CI/CD, monitoring, observability,
+  and cloud cost optimization. This person will work closely
+  with Application Development and Data Management to ensure
+  AI-enabled solutions are production-ready, well-governed,
+  and operationally supportable.
+
+  This is not a general infrastructure support role. We are
+  looking for an engineer who can help establish modern cloud
+  engineering discipline around provisioning, deployment,
+  logging, monitoring, security, and cost control for AI-
+  enabled systems.
+
+  The employee may be required to perform other job-related
+  duties as requested by management.  All duties will be
+  assigned in accordance with applicable laws and company
+  policies.
+
+  RESPONSIBILITIES
+
+  - Design and provision Azure and AI resources using
+    infrastructure-as-code, ensuring consistency, scalability,
+    and maintainability.
+  - Establish and enforce standards for networking, identity,
+    monitoring, security, tagging, and cloud resource
+    governance.
+  - Build and maintain CI/CD pipelines for AI-enabled
+    applications, internal platforms, agents, and automations.
+  - Implement and support logging, telemetry, monitoring, and
+    observability practices for AI and cloud-based workloads.
+  - Partner with Application Development and Data Management to
+    ensure solutions are deployed and operated in a secure,
+    reliable, and supportable manner.
+  - Manage Azure and AI platform environments across
+    development, testing, and production.
+  - Monitor and optimize Azure and Azure OpenAI usage and spend,
+    right-size resources, and help improve cloud cost
+    visibility and efficiency.
+  - Partner with Finance and IT leadership on cloud cost
+    reporting, chargeback visibility, and optimization
+    opportunities.
+  - Support identity, access, secrets, and security practices
+    required for enterprise cloud and AI workloads.
+  - Help define and maintain operational standards for backup,
+    resiliency, recovery, alerting, and support readiness.
+  - Troubleshoot deployment, performance, connectivity, and
+    infrastructure issues affecting applications, agents, and
+    cloud services.
+  - Contribute to architecture discussions related to hosting,
+    integration, scaling, environment design, and operational
+    controls.
+  - Document cloud patterns, standards, deployment approaches,
+    and support procedures in a clear and practical way.
+  - Evaluate and introduce appropriate tools and patterns that
+    improve reliability, delivery speed, visibility, and cost
+    management.
+
+  REQUIRED QUALIFICATIONS
+
+  - Bachelor’s degree in Information Systems, Computer Science,
+    Engineering, or a related field. Equivalent experience may
+    be considered.
+  - 4+ years of experience in cloud engineering, platform
+    engineering, DevOps, or infrastructure engineering.
+  - Strong hands-on experience with Microsoft Azure services and
+    cloud architecture.
+  - Experience with infrastructure-as-code such as Terraform,
+    Bicep, ARM templates, or similar tools.
+  - Experience building and maintaining CI/CD pipelines for
+    application and platform deployment.
+  - Experience implementing monitoring, logging, alerting, and
+    observability for production systems.
+  - Understanding of identity, access control, security, and
+    networking concepts in cloud environments.
+  - Experience supporting production applications and cloud
+    platforms with a focus on reliability and operational
+    excellence.
+  - Strong troubleshooting and problem-solving skills.
+  - Ability to work effectively with software developers, data
+    engineers, and technical leadership.
+
+  Preferred Qualifications
+
+  - Experience supporting AI or machine learning workloads in
+    Azure.
+  - Familiarity with Azure OpenAI and the infrastructure
+    patterns needed to support AI-enabled applications.
+  - Experience with containerization, orchestration, or modern
+    hosting models.
+  - Experience with FinOps, cloud cost optimization, tagging
+    governance, or cost reporting.
+  - Experience with secrets management, policy enforcement, and
+    secure deployment patterns.
+  - Experience in environments with custom internal
+    applications, integrations, and growing cloud platforms.
+  - Familiarity with observability and telemetry practices for
+    distributed systems and AI applications.
+
+  Key Skills
+
+  - Azure architecture and provisioning
+  - Infrastructure-as-code
+  - CI/CD pipeline engineering
+  - Logging and observability
+  - Monitoring and alerting
+  - Identity and access controls
+  - Cloud networking and security
+  - Azure OpenAI platform support
+  - Cloud cost optimization
+  - Production support and reliability engineering
+  - Cross-functional technical collaboration
+
+  What Success Looks Like
+
+  In this role, success means:
+
+  - Azure environments are provisioned consistently and governed
+    effectively
+  - AI-enabled applications and agents are deployed through
+    repeatable and reliable pipelines
+  - Logging, observability, and alerting are strong enough to
+    support production operations
+  - Azure and Azure OpenAI usage is monitored and optimized for
+    both performance and cost
+  - Cloud standards for identity, networking, security, and
+    tagging are followed consistently
+  - Application Development and Data Management teams can move
+    faster because the platform foundation is stable and well
+    run
+  - IT leadership and Finance have clearer visibility into cloud
+    consumption and optimization opportunities
+
+  COMPENSATION: $160,000 - $190,000 salary
+
+  Attention external recruitment firms, we will not accept any
+  unsolicited resumes at this time. Please do not contact any
+  internal member of our company to discuss the position or to
+  solicit candidates.
+
+   Hanwha Energy USA provides equal employment opportunities
+  (EEO) to all employees and applicants for employment without
+  regard to race, color, religion, sex, national origin, age,
+  disability or genetics.
+
+  www.hanwhaenergyusa.com
+industries:
+  - Energy
+  - Solar
+  - Renewable Energy
+posted_date: 2026-08-02
+url: "https://www.builtinla.com/job/cloud-ai-infrastructure-engineer/9120101"
+source: Built In

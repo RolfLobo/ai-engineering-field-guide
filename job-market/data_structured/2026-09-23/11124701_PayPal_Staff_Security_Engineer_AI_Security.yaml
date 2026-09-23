@@ -1,0 +1,60 @@
+company:
+  name: PayPal
+  stage: publicly traded
+  focus: Global digital payments and money transfer platform
+position:
+  title: Staff Security Engineer, AI Security
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements security controls and
+      guardrails for LLM-based systems themselves: security
+      context and constraints for coding agents, controls for
+      agent tool access and execution isolation, runtime
+      monitoring of agent actions and tool calls, and evaluation
+      of AI security risk. Building guardrails and output-behavior
+      enforcement for agents and coding assistants is shaping
+      model behavior, and an LLM/agent component is clearly
+      involved.
+  responsibilities:
+  - Lead the technical roadmap for AI security controls and assurance across product
+    security
+  - Design and operate controls for AI-assisted software development including security
+    review of AI-generated code and risk-based enforcement
+  - Conduct security reviews of AI-enabled applications, models, agents, retrieval
+    systems, data flows, and tool integrations
+  - Create controls for agent identity, least privilege, tool access, execution isolation,
+    and interruption of unsafe behavior
+  - Develop runtime monitoring, detection, containment, and incident-response requirements
+    for AI systems
+  - Build AI-driven capabilities for vulnerability discovery, validation, prioritization,
+    and remediation
+  - Establish security criteria for evaluating and onboarding third-party models,
+    AI services, APIs, and developer tools
+  - Serve as technical escalation point for complex AI security issues and mentor
+    security and engineering professionals
+  use_cases:
+  - Securing AI-assisted software development including AI-generated code review
+  - Protecting AI-enabled products and agentic systems at a payments platform
+  - AI-driven vulnerability discovery, validation, and remediation
+  - Runtime monitoring and containment of unsafe agent behavior and tool calls
+  - Third-party model and AI service security assessment
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [OAuth]
+    ml: []
+    ops: [CI/CD, Kubernetes, Terraform, Git, Monitoring]
+    other: [SAML, SAST, DAST, SCA, WAF, Burp Suite, Application Security, Threat Modeling]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python, Java, JavaScript, Ruby, Swift]
+    genai: [AI Agents, Agentic Workflows, Guardrails, Prompt Injection]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11124701'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:20:38.901192'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

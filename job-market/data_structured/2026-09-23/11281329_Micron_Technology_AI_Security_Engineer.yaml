@@ -1,0 +1,47 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions (DRAM, NAND, NOR)
+position:
+  title: AI Security Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and deploys AI agents and RAG/LLM-
+      based automation for security workflows, meaning the
+      engineer shapes agent flows and retrieval themselves.
+      LLM/agent components are central, so it is ai-first.
+  responsibilities:
+  - Design, build, and deploy AI agents and automation for CDR Sub-Towers and AI Security
+    initiatives
+  - Participate in peer review of other embedded engineers' designs and receive review
+    on your own
+  - Coordinate with sub-tower leaders on roadmap priorities
+  - Contribute learnings, patterns, and reusable components back to the CDR AI Security
+    team
+  - Follow threat modeling and secure development practices set by the AI Security
+    Program Lead
+  - Deploy production AI Security capabilities used by various sub-towers
+  use_cases:
+  - AI agents and automation for cybersecurity workflows
+  - AI security capabilities for CDR sub-towers
+  - Security automation within an enterprise platform
+  skills:
+    genai: [LLMs, AI Agents, RAG]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Automation Frameworks, Secure Coding, Threat Modeling]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11281329'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:34:07.608647'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

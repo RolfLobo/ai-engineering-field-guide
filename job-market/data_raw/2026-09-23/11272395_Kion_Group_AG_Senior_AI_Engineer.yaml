@@ -1,0 +1,107 @@
+job_id: 11272395
+title: Senior AI Engineer
+company: Kion Group AG
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 2,544 Employees
+description: |
+  Accountabilities Design, develop and operate in-house GenAI
+  applications aligned with KION’s AI Strategy and AI
+  Governance Engineer advanced LLM-powered solutions using
+  techniques such as Prompt Engineering, Context Architecture,
+  and Retrieval-Augmented Generation (RAG) Implement build-
+  test-deploy pipelines for AI and agent solutions, ensuring
+  reproducibility and quality Ensure security, scalability,
+  performance, observability, and user-facing transparency
+  across all AI services and agents, by integrating
+  hallucination-mitigation, explainability, and traceability
+  mechanisms Integrate AI safety mechanisms and guardrails to
+  minimize hallucinations, prevent misuse, and enforce
+  compliance standards Research emerging AI technologies and
+  assess their potential for adoption Collaborate with cross-
+  functional teams to deliver AI-driven automation and
+  reusable solution components across OUs Implement cross-
+  organization requirements with a focus on reusability and
+  efficiency Take ownership of specific GenAI platform modules
+  and associated use cases Monitor and evaluate system and
+  model performance with observability tools, troubleshoot
+  issues and drive continuous improvements Manage incidents,
+  changes, and user support requests for AI services and
+  platforms Create and maintain clear technical documentation
+  and foster knowledge sharing across the organizationWe
+  offer:
+
+  Experience
+
+  - At least 4-5 years of professional experience as an
+    application developer, ideally in AI/ML or backend service
+    development
+  - Strong hands-on experience with LLMs (Azure OpenAI,
+    Anthropic, Gemini) and modern AI-assisted development
+    workflows
+  - Expertise in AI application development (e.g., Prompt
+    Engineering, Context Management, and AI search/RAG
+    pipeline design) for enterprise applications
+  - Proficient in Python, SQL, and JavaScript/TypeScript; strong
+    experience in client-server communication development (API
+    and MCP)
+  - Working knowledge of Infrastructure as Code (Terraform) for
+    managing cloud resources (GCP/Azure)
+  - Familiarity with LLMOps/AgentOps tooling, orchestration
+    engines (LangChain/LangGraph, ADK), and vector databases
+    (pgvector)
+  - Experience building trustworthy AI systems by implementing
+    evaluation frameworks, hallucination mitigation,
+    explainability (traceability, source attribution,
+    reasoning transparency), and AI guardrails
+  - Experience deploying reliable and scalable AI applications
+    to production environments
+  - Experience translating business requirements into technical
+    solutions, working closely with stakeholders and cross-
+    functional teams, with a strong usability and user-
+    friendly mindset
+  - Experience monitoring, troubleshooting and continuously
+    improving production AI services
+  - Strong problem-solving skills and the ability to
+    troubleshoot complex data issues
+  - Creative, hands-on mindset with willingness to experiment
+    and innovate
+  - Excellent communication skills, experience in an enterprise
+    context is a plus
+
+  Tasks and Qualifications:
+
+  Main purpose of the position
+
+  - The Senior AI Engineer is part of KION’s central Big Data &
+    AI team within IT. The position is responsible for
+    designing, developing, and operating secure, scalable, and
+    trustworthy Generative AI applications and reusable
+    platform components in alignment with KION’s AI Strategy
+    and AI Governance
+  - The role supports the adoption of AI across KION by
+    translating business requirements into production-ready AI
+    solutions, including LLM-powered applications, Retrieval-
+    Augmented Generation solutions, AI agents and related APIs
+    and platform services
+  - The Senior AI Engineer contributes to safe, transparent, and
+    business-value-driven implementation of GenAI use cases
+    across KION
+
+  Qualifications/Specialization
+
+  - Bachelor’s degree in computer science, engineering, or a
+    related field
+  - Specialisation or demonstrable expertise in AI/ML,
+    Generative AI, software engineering, data engineering, and
+    development
+  - Certification such as GitHub Certified: Agentic AI Developer
+    or Claude Certified Architect - Foundations (CCA-F) is an
+    advantage
+  - Very good knowledge of English
+industries:
+  - Industrial
+  - Manufacturing
+posted_date: 2026-09-21
+url: "https://builtin.com/job/senior-ai-engineer/11272395"
+source: Built In

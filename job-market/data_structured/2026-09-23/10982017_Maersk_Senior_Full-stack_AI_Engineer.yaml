@@ -1,0 +1,54 @@
+company:
+  name: Maersk
+  stage: null
+  focus: Global logistics and container shipping
+position:
+  title: Senior Full-stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs, designs multi-agent workflows,
+      builds RAG pipelines, and sets up model evaluations
+      (accuracy, token usage, cost) that shape model behavior and
+      output quality. This is LLM/agent shaping work, so it is ai-
+      first.
+  responsibilities:
+  - Design and build scalable full-stack web applications with React/Next.js frontends
+    and Python/FastAPI/Node.js backends
+  - Integrate LLMs, SLMs, and multi-agent workflows via APIs or custom orchestration
+    frameworks
+  - Manage relational databases alongside vector stores to support RAG and real-time
+    context retrieval
+  - Design AI-first user experiences including streaming responses and error handling
+    for non-deterministic AI behavior
+  - Implement CI/CD, containerization, and monitoring for model performance, latency,
+    and costs
+  - Lead discussions with business users and turn requirements into solution designs
+  - Set up evaluations measuring accuracy, cost per request, token usage, and response
+    time
+  use_cases:
+  - AI-powered enterprise applications for logistics operations
+  - Retrieval-augmented generation and real-time context retrieval
+  - Multi-agent autonomous workflows in production
+  - AI-first conversational interfaces with streaming responses
+  - Production AI application performance and cost optimization
+  skills:
+    genai: [LLMs, Agentic Workflows, Multi-Agent Systems, RAG, OpenAI API, Anthropic
+        API, Prompt Engineering, LangChain, LangGraph, LlamaIndex, Fine-Tuning]
+    ml: []
+    web: [React, Next.js, FastAPI, Flask]
+    databases: [Vector Databases, Pinecone, pgvector, Milvus, Relational Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Docker, Kubernetes, MLOps, LangSmith, Arize, Prometheus]
+    languages: [Python, Node.js, JavaScript, TypeScript]
+    domains: []
+    other: [SAP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10982017'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:11:09.084138'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

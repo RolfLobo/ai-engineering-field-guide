@@ -1,0 +1,56 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: |-
+    Energy technology and electrification/zero-carbon power
+    solutions
+position:
+  title: Lead Engineer - AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, implements, and optimizes AI agents and
+      multi-agent architectures using LLMs, prompt engineering,
+      RAG, and orchestration tools like LangGraph and MCP —
+      directly shaping LLM/agent behavior. This is clearly ai-
+      first.
+  responsibilities:
+  - Design, implement, and optimize AI Agents using LLMs, reinforcement learning,
+    planning algorithms, and decision-making frameworks
+  - Develop scalable multi-agent architectures supporting long-horizon reasoning,
+    autonomy, and complex task completion
+  - Integrate AI Agents with APIs, backend services, databases, and enterprise applications
+  - Prototype, deploy, and maintain AI-driven systems in production environments
+  - Optimize agent behavior through continuous feedback, reinforcement learning, and
+    user interaction
+  - Monitor agent performance, run evaluations, and implement safety guardrails
+  - Collaborate with research, engineering, product, and deployment teams to iterate
+    on agent capabilities
+  - Document agent architectures, workflows, and design decisions
+  use_cases:
+  - Autonomous AI agents for complex task completion and long-horizon reasoning
+  - Prompt automation and reusable prompting frameworks across business use cases
+  - RAG-based semantic retrieval integrated into agent systems
+  - Enterprise workflow automation for internal and external business needs
+  - AI-driven solutions supporting energy transition and decarbonization products
+  skills:
+    genai: [LangChain, OpenAI API, LLMs, Prompt Engineering, Agentic Workflows, Multi-Agent
+        Systems, LangGraph, MCP, Semantic Search, RAG, Generative AI]
+    ml: [PyTorch, TensorFlow, Model Training, Fine-Tuning, Model Evaluation, Machine
+        Learning, Reinforcement Learning, Deep Learning]
+    web: []
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes]
+    languages: [Python, JavaScript, TypeScript, Node.js, Java, Go]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10965607'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:09:51.246303'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

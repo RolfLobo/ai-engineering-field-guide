@@ -1,0 +1,322 @@
+job_id: 11250422
+title: Software Engineer - AI/ML
+company: Mattel
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 10,467 Employees
+description: |
+  Company Description
+
+  CREATIVITY IS OUR SUPERPOWER. It’s our heritage and it’s
+  also our future. Because we don’t just make toys. We create
+  innovative products and experiences that inspire fans,
+  entertain audiences and develop children through play.
+  Mattel is at its best when every member of our team feels
+  respected, included, and heard—when everyone can show up as
+  themselves and do their best work every day. We value and
+  share an infinite range of ideas and voices that evolve and
+  broaden our perspectives with a reach that extends into all
+  our brands, partners, and suppliers.
+
+  Job Description
+
+  We are looking for a Data Scientist – ML & Generative AI
+  with strong hands-on experience across traditional Machine
+  Learning, Deep Learning, Generative AI, and Computer Vision.
+  The ideal candidate will be able to translate business
+  problems into scalable AI/ML solutions and take models from
+  experimentation through production deployment.
+
+  The role will have a particular focus on building AI
+  solutions for Supply Chain, Operations, Forecasting,
+  Optimization, and Vision-based use cases. The candidate
+  should be comfortable working with structured, unstructured,
+  image, and text data and collaborating with business,
+  engineering, product, and data teams.
+
+  Key Responsibilities
+
+  Machine Learning & Predictive Analytics
+
+  - Design, develop, and evaluate machine learning models for
+    classification, regression, forecasting, clustering,
+    recommendation, anomaly detection, and optimization
+    problems.
+  - Apply statistical and machine learning techniques such as
+    Linear/Logistic Regression, Decision Trees, Random Forest,
+    Gradient Boosting, XGBoost/LightGBM, clustering, and time-
+    series modeling.
+  - Perform feature engineering, feature selection, model
+    tuning, validation, and performance analysis.
+  - Build reusable and scalable ML pipelines for real-world
+    business applications.
+
+  Deep Learning
+
+  - Develop deep learning solutions using frameworks such as
+    PyTorch and/or TensorFlow.
+  - Work with neural network architectures including CNNs,
+    RNN/LSTMs, Transformers, and other modern deep learning
+    architectures.
+  - Evaluate and optimize deep learning models for accuracy,
+    latency, and scalability.
+
+  Generative AI & LLMs
+
+  - Design and develop GenAI applications leveraging Large
+    Language Models (LLMs).
+  - Build solutions using techniques such as:
+    - Prompt engineering
+    - Retrieval-Augmented Generation (RAG)
+    - Embeddings and vector search
+    - LLM orchestration
+    - Function/tool calling
+    - AI agents and multi-step workflows
+    - Fine-tuning / parameter-efficient fine-tuning where
+      appropriate
+  - Work with structured and unstructured enterprise data to
+    create domain-specific GenAI applications.
+  - Develop evaluation frameworks for LLM applications covering
+    response quality, hallucination, groundedness, relevance,
+    latency, and cost.
+  - Implement appropriate guardrails and responsible AI
+    practices for production GenAI solutions.
+
+  Computer Vision
+
+  - Develop and deploy computer vision solutions for use cases
+    such as:
+    - Image classification
+    - Object detection
+    - Image segmentation
+    - OCR and document/image understanding
+    - Visual inspection and defect detection
+    - Product/image recognition
+  - Work with modern computer vision architectures and
+    pretrained/foundation models.
+  - Experience with OpenCV, YOLO, CNNs, Vision Transformers, or
+    multimodal models is desirable.
+
+  Supply Chain & Operations Analytics
+
+  Develop AI/ML solutions addressing supply-chain and
+  operational problems such as:
+
+  - Demand forecasting
+  - Sales forecasting
+  - Inventory optimization
+  - Stock-out / overstock prediction
+  - Replenishment recommendations
+  - Lead-time prediction
+  - Supply and demand imbalance detection
+  - Logistics and transportation analytics
+  - ETA prediction
+  - Warehouse analytics
+  - Supplier performance and risk analytics
+  - Product allocation and assortment optimization
+  - Anomaly detection
+  - Scenario planning and decision-support solutions
+
+  The candidate should be able to work closely with supply-
+  chain stakeholders to convert business requirements into
+  analytical and AI/ML solutions.
+
+  Model Deployment & MLOps
+
+  - Collaborate with engineering teams to deploy ML and GenAI
+    solutions into production.
+  - Develop APIs, batch pipelines, or real-time inference
+    services for model consumption.
+  - Apply good software engineering practices including modular
+    development, version control, testing, documentation, and
+    code reviews.
+  - Understand concepts such as model monitoring, drift
+    detection, model versioning, experimentation, and
+    retraining.
+  - Experience with Docker, CI/CD, MLflow, Kubernetes, or
+    similar MLOps technologies is desirable.
+
+  Required Technical Skills
+
+  Programming
+
+  - Strong Python programming skills
+  - SQL and data manipulation
+  - Pandas, NumPy, Scikit-learn
+
+  Machine Learning
+
+  - Scikit-learn
+  - XGBoost / LightGBM or equivalent
+  - Statistical modeling
+  - Time-series forecasting
+  - Feature engineering and model evaluation
+
+  Deep Learning
+
+  - PyTorch and/or TensorFlow
+  - Transformers
+  - CNNs and modern neural-network architectures
+
+  Generative AI
+
+  - LLMs and foundation models
+  - RAG
+  - Prompt engineering
+  - Embeddings
+  - Vector databases
+  - LLM evaluation
+  - Agentic AI concepts
+  - Frameworks such as LangChain, LlamaIndex, Semantic Kernel,
+    or equivalent
+
+  Computer Vision
+
+  - OpenCV
+  - Object detection / segmentation models
+  - CNNs / Vision Transformers
+  - OCR and image-processing techniques
+
+  Data & Cloud
+
+  - Experience working with large datasets and cloud-based data
+    platforms.
+  - Exposure to AWS, Azure, or GCP.
+  - Familiarity with Databricks, Spark, Snowflake, or similar
+    platforms is an advantage.
+
+
+
+  Qualifications
+
+  Qualifications & Experience
+
+  - Bachelor’s or Master’s degree in Computer Science, Data
+    Science, Machine Learning, Artificial Intelligence,
+    Statistics, Mathematics, Engineering, or a related
+    quantitative discipline.
+  - Approximately 4–7 years of relevant industry experience in
+    Data Science, Machine Learning, or AI.
+  - Strong hands-on experience developing end-to-end ML
+    solutions.
+  - Practical experience with at least one of Generative AI,
+    Computer Vision, or advanced Deep Learning, with
+    willingness and ability to work across all areas.
+  - Experience solving supply-chain, retail, manufacturing,
+    logistics, or operations-related problems is strongly
+    preferred.
+  - Experience taking ML models beyond proof-of-concept into
+    production or business adoption.
+
+  What We Are Looking For
+
+  The successful candidate will demonstrate:
+
+  - Strong problem-solving and analytical thinking.
+  - Solid understanding of ML fundamentals rather than reliance
+    solely on pre-built GenAI APIs.
+  - Ability to select the right approach across statistical
+    methods, traditional ML, deep learning, computer vision,
+    and GenAI based on the business problem.
+  - Ability to communicate complex analytical concepts to both
+    technical and non-technical stakeholders.
+  - Strong experimentation mindset with an ability to measure
+    business and model impact.
+  - Curiosity to continuously learn and apply emerging AI
+    technologies.
+  - Ability to independently own moderately complex projects
+    while collaborating effectively with senior data
+    scientists, engineers, product teams, and business
+    stakeholders.
+
+  Preferred / Good-to-Have Experience
+
+  - Experience with retail, consumer products, manufacturing, or
+    supply-chain domains.
+  - Experience building production-grade RAG or enterprise GenAI
+    applications.
+  - Exposure to multimodal AI combining text, image, and
+    structured data.
+  - Experience with optimization / operations research
+    techniques.
+  - Experience with forecasting at scale across products,
+    locations, or customers.
+  - Knowledge of responsible AI, explainability, privacy, and AI
+    governance.
+  - Experience working in Agile product or AI development teams.
+
+  Additional Information
+
+  Don’t meet every single requirement? At Mattel, we are
+  dedicated to an inclusive workplace and a culture of
+  belonging. If you’re excited about this role but your past
+  experience doesn’t align perfectly with every qualification
+  in the job description, we still encourage you to apply. You
+  may be just the right candidate for this or other roles.
+
+  How We Work: We are a purpose driven company aiming to
+  empower generations to explore the wonder of childhood and
+  reach their full potential. We live up to our purpose
+  employing the following behaviors:
+
+  - We collaborate: Being a part of Mattel means being part of
+    one team with shared values and common goals. Every person
+    counts and working closely together always brings better
+    results. Partnership is our process and our collective
+    capabilities is our superpower.
+  - We innovate: At Mattel we always aim to find new and better
+    ways to create innovative products and experiences. No
+    matter where you work in the organization, you can always
+    make a difference and have real impact. We welcome new
+    ideas and value new initiatives that challenge
+    conventional thinking.
+  - We execute: We are a performance-driven company. We strive
+    for excellence and are focused on pursuing best-in-class
+    outcomes. We believe in accountability and ownership and
+    know that our people are at their best when they are
+    empowered to create and deliver results.
+
+  Our Approach to Flexible Work: We embrace a flexible work
+  model designed to empower a culture of growth, optimism, and
+  wellbeing, where every employee can reach their full
+  potential. Combining purposeful in-person collaboration with
+  flexibility, our focus is to optimize performance and drive
+  connection for moments that matter.
+
+  Who We Are: Mattel is a leading global toy and family
+  entertainment company and owner of one of the most iconic
+  brand portfolios in the world. We engage consumers and fans
+  through our franchise brands, including Barbie, Hot Wheels,
+  Fisher-Price, American Girl, Thomas & Friends, UNO, Masters
+  of the Universe, Matchbox, Monster High, MEGA and Polly
+  Pocket, as well as other popular properties that we own or
+  license in partnership with global entertainment companies.
+  Our offerings include toys, content, consumer products,
+  digital and live experiences. Our products are sold in
+  collaboration with the world’s leading retail and ecommerce
+  companies. Since its founding in 1945, Mattel is proud to be
+  a trusted partner in empowering generations to explore the
+  wonder of childhood and reach their full potential.
+
+  Mattel’s award-winning workplace culture has been recognized
+  by Forbes, Fast Company, Newsweek, Great Place to Work,
+  TIME, and more.
+
+  Visit us at https://jobs.mattel.com/ and
+  www.instagram.com/MattelCareers.
+
+  Mattel is an Equal Opportunity Employer where we want you to
+  bring your authentic self to work every day. We welcome all
+  job seekers, and all applicants will receive consideration
+  for employment.
+
+  Videos to watch: The Culture at Mattel Corporate
+  Philanthropy
+industries:
+  - Digital Media
+  - Kids + Family
+  - Music
+  - News + Entertainment
+posted_date: 2026-09-18
+url: "https://builtin.com/job/software-engineer-ai-ml/11250422"
+source: Built In

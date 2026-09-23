@@ -1,0 +1,53 @@
+company:
+  name: LawPro.ai
+  stage: null
+  focus: AI-powered legal document and medical record review platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role evaluates, selects, and optimizes LLMs, designs
+      evaluation frameworks for output quality and hallucination
+      reduction, and builds RAG and agentic orchestration
+      pipelines — all direct shaping of LLM behaviour.
+  responsibilities:
+  - Design and operate a systematic process to evaluate new and emerging LLMs across
+    accuracy, relevancy, speed, and cost
+  - Build and maintain LLM evaluation frameworks and an internal EvalOps culture,
+    focusing on reducing hallucinations
+  - Own end-to-end model transitions, integrating new models into production and decommissioning
+    stale prompts and endpoints
+  - Optimize LLM-based orchestration pipelines for document understanding, medical
+    record summarization, and case chronology generation
+  - Implement monitoring and observability for model performance, cost, and drift
+    detection
+  - Communicate evaluation findings to product and GTM stakeholders and lead technical
+    implementation
+  - Maintain documentation of evaluation methodologies, model comparisons, and runbooks
+  use_cases:
+  - Medical record review and summarization for personal injury law firms
+  - Generating treatment chronologies and case timelines
+  - Identifying red flags and anomalies in legal/medical documents
+  - Accelerating demand letter drafting
+  - Legal document analysis and case value optimization
+  skills:
+    genai: [LLMs, RAG, Embeddings, Agentic Workflows, LLM Evaluation, Prompt Engineering]
+    ml: [Fine-Tuning, Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Monitoring, Model Deployment]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11190703'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:25:25.888140'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,48 @@
+company:
+  name: Ciklum
+  stage: null
+  focus: Custom product engineering for enterprises and startups
+position:
+  title: Lead Artificial Intelligence/Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role leads teams shipping AI/ML and LLM systems and is
+      hands-on in reviewing agent architectures, prompts, and eval
+      suites, which shapes LLM/agent output quality directly.
+      LLM/agent components are explicitly central, making it ai-
+      first.
+  responsibilities:
+  - Manage engineers across the central platform team and delivery pods, mixing contractors
+    and internal staff
+  - Own engineering standards including code and agent quality, review practices,
+    definition of done, and production readiness
+  - Own contractor performance and the conversion pipeline with the sourcing partner
+  - 'Partner with the platform lead on the paved path: templates, pipelines, and evals,
+    driving adoption across pods'
+  - Unblock daily delivery and keep pods shipping without becoming a gatekeeper
+  - Review agent architectures, prompts, and eval suites hands-on
+  use_cases:
+  - AI/ML and LLM systems delivered to client enterprises
+  - Agent-based products for multinational organizations and scaling startups
+  - AI delivery in healthcare and regulated industries
+  skills:
+    genai: [AI Agents, Prompt Engineering, LLM Evaluation, LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [Healthcare]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10975816'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:10:25.278343'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

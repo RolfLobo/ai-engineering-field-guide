@@ -1,0 +1,172 @@
+job_id: 11016712
+title: Lead Gen AI Engineer - Vice President
+company: Citi
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 223,850 Employees
+description: |
+  Job Overview
+
+  We are seeking an experienced Senior Generative AI Developer
+  to help drive the design, development, and integration of
+  state-of-the-art Generative AI and agentic AI solutions
+  across our enterprise Controls Technology platform. You will
+  collaborate with cross-functional teams, contribute deep
+  technical expertise in context engineering, retrieval
+  systems, knowledge graphs, and multi-agent orchestration,
+  and play a key role in delivering scalable, grounded AI
+  solutions to enhance automation and operational efficiency.
+  This role centers on architecting robust applications and
+  agent systems on top of pre-trained and hosted foundation
+  models — not on training or fine-tuning models.
+
+  Key Responsibilities
+
+  - Collaborate with AI architects, leads, and stakeholders to
+    design and implement generative and agentic AI solutions
+    that address business challenges.
+  - Architect advanced context engineering strategies — context
+    layering, chaining, compression, pruning/offloading, and
+    memory management — to maximize reliability, provenance,
+    and token efficiency in production.
+  - Design and implement advanced generative AI methods,
+    including sophisticated prompt engineering and Retrieval-
+    Augmented Generation (RAG).
+  - Build and optimize RAG systems, including hybrid search,
+    multi-vector retrieval, and re-ranking pipelines.
+  - Design and implement knowledge graphs and Graph RAG
+    architectures to enable multi-hop reasoning,
+    explainability, and traceable, grounded responses for
+    high-value business domains.
+  - Architect agentic workflows and multi-agent systems using
+    Google Agent Development Kit (ADK) and comparable
+    frameworks (LangGraph, Microsoft Agent Framework, CrewAI),
+    applying orchestration patterns such as supervisor/worker,
+    hierarchical, and peer-to-peer.
+  - Design robust agent harnesses — governance, constraints,
+    feedback loops, state/session management, and execution
+    controls that make long-running agent systems reliable and
+    safe.
+  - Integrate agents with tools and data via the Model Context
+    Protocol (MCP) and orchestrate inter-agent collaboration
+    and task delegation via the Agent2Agent (A2A) protocol.
+  - Support the integration of GenAI and agentic applications
+    into production environments, ensuring robust deployment,
+    scalability, observability, and maintainability.
+  - Contribute to the development and optimization of real-time
+    and streaming AI solutions.
+  - Stay current with the latest advances in generative and
+    agentic AI and actively share knowledge with the team.
+  - Ensure adherence to ethical AI guidelines, guardrails, agent
+    isolation/sandboxing, data privacy, and compliance
+    standards.
+  - Mentor junior team members, provide code reviews, and foster
+    a culture of technical excellence.
+
+  Required Technical Skills
+
+  - Deep, hands-on expertise in core generative AI concepts —
+    foundation models, LLMs, embeddings, tokenization, and
+    context-window management.
+  - Advanced skills in prompt engineering and context
+    engineering, including familiarity with prompt design
+    tools/frameworks and dynamic context orchestration.
+  - Strong experience building RAG systems, including chunking
+    strategies, hybrid search, and multi-vector retrieval.
+  - Practical experience designing knowledge graphs and Graph
+    RAG pipelines (e.g., using graph databases such as Neo4j
+    or ArangoDB) for relationship-aware, multi-hop retrieval.
+  - Proven experience building agentic AI systems with Google
+    ADK and/or comparable frameworks (LangGraph, Microsoft
+    Agent Framework, CrewAI, OpenAI Agents SDK), including
+    tool/function calling, planning, and memory.
+  - Strong grasp of multi-agent orchestration patterns
+    (supervisor/worker, hierarchical, peer-to-peer) and
+    harness engineering (governance, feedback loops, execution
+    controls, agent isolation/sandboxing).
+  - Hands-on experience with agent interoperability protocols —
+    the Model Context Protocol (MCP) for tool/data access and
+    the Agent2Agent (A2A) protocol for inter-agent
+    collaboration.
+  - Experience with agent observability and evaluation (e.g.,
+    tracing, OpenTelemetry-based tooling) for production agent
+    systems.
+  - Proficiency with major GenAI APIs (OpenAI, Gemini, Claude,
+    etc.) and orchestration frameworks such as LangChain and
+    LlamaIndex.
+  - Strong skills in NLP (NER, dependency parsing, text
+    classification, topic modeling).
+  - Proficiency with vector databases and embedding models for
+    large-scale retrieval.
+  - Experience with containerization (Docker), orchestration
+    (Kubernetes), and CI/CD pipelines for AI/agentic
+    applications.
+  - Solid understanding of AI compliance, guardrails, and
+    responsible AI practices.
+  - Strong skills in Python and experience with data
+    preprocessing, document ingestion, and API development.
+
+  Required Soft Skills
+
+  - Strong collaboration skills to work effectively in cross-
+    functional teams.
+  - Analytical and proactive approach to problem-solving.
+  - Clear communication skills for both technical and non-
+    technical audiences.
+  - Eagerness to learn, innovate, and mentor less experienced
+    developers.
+
+  Qualifications
+
+  - Bachelor's or master's degree in Computer Science, Data
+    Science, AI, or a related field.
+  - 5–7 years of experience in AI/software development,
+    including significant experience in Generative AI and
+    agentic AI.
+  - Demonstrated portfolio of successful AI-driven projects in a
+    business environment.
+  - Experience working with AWS (or equivalent) cloud
+    infrastructure for AI/GenAI.
+
+  ------------------------------------------------------
+
+  Job Family Group: Technology
+
+  ------------------------------------------------------
+
+  Job Family:Applications Development
+
+  ------------------------------------------------------
+
+  Time Type:Full time
+
+  ------------------------------------------------------
+
+  Most Relevant Skills Please see the requirements listed
+  above.
+
+  ------------------------------------------------------
+
+  Other Relevant Skills For complementary skills, please see
+  above and/or contact the recruiter.
+
+  ------------------------------------------------------
+
+  Citi is an equal opportunity employer, and qualified
+  candidates will receive consideration without regard to
+  their race, color, religion, sex, sexual orientation, gender
+  identity, national origin, disability, status as a protected
+  veteran, or any other characteristic protected by law.
+
+
+
+  If you are a person with a disability and need a reasonable
+  accommodation to use our search tools and/or apply for a
+  career opportunity review Accessibility at Citi. View Citi’s
+  EEO Policy Statement and the Know Your Rights poster.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-09-04
+url: "https://builtin.com/job/lead-gen-ai-engineer-vice-president/11016712"
+source: Built In

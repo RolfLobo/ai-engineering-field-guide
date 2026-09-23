@@ -1,0 +1,57 @@
+company:
+  name: Wells Fargo
+  stage: null
+  focus: |-
+    Banking and financial services, financial crimes and risk
+    management
+position:
+  title: Principal Engineer - Java Full Stack-Generative AI, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires hands-on delivery of Generative
+      AI solutions using LLMs, RAG, embeddings, vector databases,
+      prompt engineering, evaluation approaches, and agent
+      orchestration — all shaping of LLM behaviour, so ai-first.
+  responsibilities:
+  - Provide enterprise-level technical leadership for architecture, design, engineering,
+    and modernization of Financial Crimes and Risk Management platforms
+  - Deliver Generative AI and agentic AI solutions using LLMs, RAG, embeddings, vector
+    databases, prompt engineering, and evaluation approaches
+  - Integrate AI capabilities into enterprise platforms, backend services, and digital
+    workflows in a secure and governed manner
+  - Define architecture and integration patterns for ML-enabled systems, model services,
+    data pipelines, and scalable deployment
+  - Design and operate large-scale distributed Java-based systems with cloud-native,
+    DevSecOps, and reliability practices
+  - Advise leadership on technical strategy and drive consolidation, reuse, and standardization
+    across platforms
+  - Mentor engineers and contribute to recruiting, engineering standards, and technical
+    communities
+  use_cases:
+  - Financial crimes detection and risk management platforms
+  - Integration of generative and agentic AI into enterprise banking platforms and
+    workflows
+  - ML-enabled enterprise systems with model services and data pipelines
+  - Large-scale distributed Java-based banking applications
+  skills:
+    genai: [LLMs, RAG, Embeddings, Prompt Engineering, Agentic Workflows, Generative
+        AI]
+    ml: [Machine Learning]
+    web: [Spring Boot, REST APIs, Microservices, React, Angular, HTML, CSS, Event-Driven
+        Architecture]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [Cloud-Native Architecture]
+    ops: [CI/CD, DevSecOps, Observability, Site Reliability Engineering]
+    languages: [Java, JavaScript, TypeScript]
+    domains: []
+    other: [Domain-Driven Design, API Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11124522'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:20:19.235554'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

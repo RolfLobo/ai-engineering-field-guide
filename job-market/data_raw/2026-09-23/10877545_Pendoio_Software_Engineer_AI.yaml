@@ -1,0 +1,174 @@
+job_id: 10877545
+title: Software Engineer (AI)
+company: Pendo.io
+location: New York, USA
+work_type: FULL_TIME
+company_size: 961 Employees
+description: |
+  Software Engineer (AI)The Team + The Role
+
+  Pendo spent a decade helping companies understand how people
+  use their software. Agents are the next surface, and this
+  team builds the product for it: customers install Pendo on
+  their own agentic systems, including MCP servers, agent
+  frameworks, and copilots, and Pendo shows them what those
+  agents are actually doing. The team helps customers
+  understand which tools get called, where calls fail, where a
+  contract confuses the model, and what to fix next.
+
+  As an AI Software Engineer, you will own features end to end
+  across the service, interface, and the seam between them.
+  You will work across Go services, Vue interfaces, install
+  experiences, instrumentation, telemetry, and LLM-backed
+  product capabilities. You will start with well-shaped
+  problems and take on progressively more ambiguous work as
+  you build context, writing code others can operate and
+  raising issues early when a spec does not match reality.
+
+  This role is based in our New York City office.
+
+  What this looks like day-to-day
+
+  - Full-stack feature delivery: Ship full-stack features end to
+    end across Go services and Vue interfaces. You will work
+    across backend and frontend boundaries to build product
+    experiences that are reliable, usable, and ready for
+    production.
+  - Customer install and instrumentation: Build the install and
+    instrumentation experience customers drop into their own
+    agentic systems. Your work should be quick to adopt, hard
+    to get wrong, and light enough to run in production.
+  - Agent behavior visibility: Capture agent behavior and make
+    it legible for customers. You will help expose tool calls,
+    failures, latency, and the places where a model and a tool
+    contract talk past each other.
+  - LLM-backed product development: Work on LLM-backed features
+    including prompt and context design, tool calling,
+    evaluation, and related failure modes. You will use hands-
+    on judgment from building with models to improve how
+    customers debug and understand agent behavior.
+  - Safe, incremental shipping: Ship in small increments behind
+    feature flags and test to the level of product and
+    technical risk. You will use tools such as Jest and
+    Cypress while accounting for non-deterministic model
+    output.
+  - Production ownership: Own what you ship in production
+    through logging, monitoring, fast resolution, and follow-
+    up work that reduces recurrence. You will write code
+    others can operate and support.
+  - AI-enabled workflow: Use AI tools as a normal part of your
+    development workflow while staying accountable for what
+    ships. You will bring curiosity and discipline to how AI
+    improves your speed, quality, and judgment.
+  - Team collaboration: Give useful code reviews, write
+    documentation that survives your absence, and provide
+    reasonable estimates for well-scoped work. You will
+    communicate clearly when work affects other systems or
+    people.
+
+  Who You Are
+
+  Beyond the qualifications, we hire through a specific lens.
+  These aren't buzzwords; they're the things we'll actually
+  look for in how you talk about your work.
+
+  You're a builder, not a maintainer.
+
+  You're most energized when there isn't a clear path yet, and
+  you get to define it. You don't wait for direction; you
+  identify gaps, shape solutions, and drive them forward. At
+  Pendo, great Software Engineers don't just follow
+  instructions; they operate as strategic advisors,
+  influencing decisions, guiding stakeholders, and elevating
+  how we work.
+
+  You're AI-curious - genuinely.
+
+  You're not using AI tools occasionally. You're rewiring how
+  you work around them. You're faster, sharper, and more
+  prolific because of it, and you bring that energy to
+  everything — how you approach your work, how you prep, how
+  you communicate, how you think. We want someone who sees AI
+  as a multiplier, not a shortcut.
+
+  Must-haves
+
+  - 3+ years of experience shipping full-stack features to
+    production in a SaaS environment.
+  - Strong proficiency in at least one backend language such as
+    Go, Java, Python, or C++, and one modern frontend
+    framework such as Vue, React, or Angular.
+  - Experience designing APIs and building services on AWS or
+    GCP against SQL databases.
+  - Hands-on experience building with LLMs, including API
+    integration, prompt and context design, or tool calling.
+    Professional or substantial personal work is acceptable,
+    with evidence that you have built something and learned
+    where it breaks.
+  - Experience with Agent frameworks (LangChain, LangGraph), LLM
+    evaluation tooling
+  - Ability to write unit, integration, and end-to-end tests
+    based on risk, with comfort using safe rollout patterns
+    such as feature flags and canary releases.
+  - Demonstrated ability to take a well-scoped problem to
+    production independently.
+  - Active use of AI tools in your development workflow.
+  - Strong written communication skills and a BS in Computer
+    Science or equivalent experience.
+
+  Nice-to-haves
+
+  - Experience building or operating an MCP server or comparable
+    agent tooling.
+  - Experience shipping SDKs or instrumentation libraries that
+    customers install into their own systems, including the
+    versioning and overhead discipline that work requires.
+  - Experience with analytics or observability products that
+    turn a high volume of events into something a person can
+    act on.
+  - Vue or data visualization tools such as Highcharts or D3.
+
+  About Pendo
+
+  Pendo was founded in 2013 by former product managers, who
+  combined their heads and hearts to build something they
+  wanted but never had as product managers: a simple way to
+  understand and attack what truly drives product success. Our
+  mission is to improve society's experience with software.
+  Come join one of the fastest-growing startups, supported by
+  best-in-class institutions like Battery Ventures, Salesforce
+  Ventures, Spark Capital and Meritech.
+
+  Pendo Core Values: Bias to Act, Hone Your Craft, The Team is
+  Pendo, and Maniacal Focus.
+
+  Location: Pendo is a hybrid culture. In-office 3 days per
+  week unless designated remote.
+
+  Compensation: The expected base salary range for this role
+  to be performed in New York, NY is $148,000 - $178,000.
+
+  Benefits: United States benefits include highly competitive,
+  employer-heavy coverage including $0 premium options, strong
+  401(k) match, equity, and flexible time off.
+
+  EEOC: We are an equal opportunity employer and believe
+  having diverse teams where everyone brings their whole self
+  to Pendo is key to our success. We welcome all people of
+  different backgrounds, experiences, abilities and
+  perspectives.
+
+  Accessibility: Pendo is committed to working with, and
+  providing access and reasonable accommodation to, applicants
+  with mental and/or physical disabilities. If you think you
+  may require an accommodation for any part of the recruitment
+  process, please send a request to: accommodation@pendo.io.
+  All requests for accommodations are treated discreetly and
+  confidentially, as practical and permitted by law.
+industries:
+  - Big Data
+  - Software
+  - Analytics
+posted_date: 2026-09-04
+url: "https://builtin.com/job/software-engineer-full-stack/10877545"
+source: Built In

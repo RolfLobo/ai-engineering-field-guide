@@ -1,0 +1,54 @@
+company:
+  name: SpaceX
+  stage: null
+  focus: Space launch and satellite systems for government missions
+position:
+  title: Sr. Site Reliability Engineer, AI Infrastructure (Starshield)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SRE/infrastructure role that deploys and scales
+      GPU clusters and on-premise Kubernetes for AI workloads. The
+      role hosts and serves infrastructure that other AI engineers
+      use; it does not shape model behavior, prompts, retrieval,
+      or training. Per the edge case rules, serving and scaling
+      models others build is ai-support.
+  responsibilities:
+  - Manage GPU/CPU infrastructure deployments to Top Secret data centers
+  - Manage and support GPU-as-a-service on bare metal and virtualized platforms for
+    external customers
+  - Design, validate, and productize solutions for AI clusters at 100k+ GPU scale
+  - Develop automation to deploy and manage on-premise Kubernetes and AI clusters
+    and operating systems
+  - Deploy and manage core infrastructure including databases, monitoring, and distributed
+    storage
+  - Collaborate with AI engineers to create scalable and maintainable products
+  - Improve the full service lifecycle from design through operation and refinement
+  - Mentor and train junior engineers and lead the team to technical excellence
+  use_cases:
+  - GPU-as-a-service platform for external customers on bare metal and virtualized
+    hardware
+  - National security satellite intelligence data access infrastructure
+  - AI cluster infrastructure at 100k+ GPU scale
+  - On-premise Kubernetes and core infrastructure (databases, storage, monitoring)
+    for mission-critical services
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Distributed Databases]
+    data: [Data Modeling]
+    cloud: []
+    ops: [Kubernetes, Terraform, Ansible, Linux, Docker, CI/CD, Monitoring, DevOps,
+      Distributed Systems, Bazel, Makefiles, NVIDIA GPU Deployment Stacks]
+    languages: [Python, C++, Go, Bash]
+    domains: []
+    other: [TCP/IP, Cloud Virtualization]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11175491'
+  location: Hawthorne, USA
+  extracted_at: '2026-09-23T11:22:58.647481'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

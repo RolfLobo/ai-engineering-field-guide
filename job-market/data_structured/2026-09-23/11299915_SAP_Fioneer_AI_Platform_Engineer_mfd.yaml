@@ -1,0 +1,57 @@
+company:
+  name: SAP Fioneer
+  stage: null
+  focus: Financial services software (SAP banking solutions)
+position:
+  title: AI Platform Engineer (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs and operates the cloud platform,
+      infrastructure, and operational tooling that hosts AI
+      solutions others build. No prompt design, retrieval,
+      training, or model evaluation is done by this role; LLM/RAG
+      knowledge is merely beneficial. Serving/hosting models
+      others shape is ai-support.
+  responsibilities:
+  - Design, build, and operate infrastructure and platform capabilities for enterprise-grade
+    AI solutions
+  - Develop containerized applications and deployment environments with Docker and
+    Kubernetes
+  - Drive production readiness across security, scalability, reliability, and observability
+  - Design multi-tenant architectures with isolation and governance
+  - Establish monitoring, logging, tracing, alerting, and dashboards
+  - Build CI/CD pipelines, release processes, and Infrastructure-as-Code
+  - Define security controls, secrets management, and identity integration
+  - Collaborate with AI Engineers and Developers to move AI solutions from prototype
+    to production
+  use_cases:
+  - Cloud platform and infrastructure powering enterprise Generative AI banking solutions
+  - Secure, scalable deployment of AI applications into production
+  - Multi-tenant AI platform with isolation and governance
+  skills:
+    genai: [LLMs, RAG]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure Monitor]
+    ops: [Docker, Kubernetes, CI/CD, Infrastructure as Code, Monitoring, Langfuse,
+      OpenTelemetry, Grafana, Prometheus]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11299915'
+  location: SRB
+  locations:
+  - SRB
+  - AUT
+  - DEU
+  - ROU
+  remote: true
+  extracted_at: '2026-09-23T11:35:45.974218'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

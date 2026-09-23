@@ -1,0 +1,58 @@
+company:
+  name: Lightning AI
+  stage: null
+  focus: End-to-end AI development, training, and deployment platform
+position:
+  title: AI Platform Support Engineer (US)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role supports and troubleshoots ML infrastructure
+      (Kubernetes, GPUs, distributed training, inference serving)
+      that customers run; the person runs and diagnoses workloads
+      but does not shape model behaviour, outputs, prompts,
+      retrieval, or training. Per the edge case rules,
+      hosting/scaling/debugging models others build is ai-support.
+  responsibilities:
+  - Partner directly with customer engineering teams running training and inference
+    workloads in production
+  - Diagnose and resolve complex distributed systems and ML infrastructure issues
+  - Troubleshoot PyTorch, CUDA, NCCL, and inference serving problems
+  - Investigate failures involving Kubernetes orchestration, GPU allocation, networking,
+    and storage
+  - Analyze logs, metrics, and traces to isolate root causes and diagnose performance
+    bottlenecks
+  - Drive long-term reliability improvements and contribute to post-incident reviews
+  - Build internal tooling, automation, documentation, and runbooks
+  - Act as technical advisor during high-impact incidents and platform degradation
+    events
+  use_cases:
+  - Large-scale model training workloads on GPU clusters
+  - Production inference serving and latency troubleshooting
+  - Distributed training and multi-node GPU orchestration
+  - Kubernetes scheduling and GPU infrastructure reliability
+  - ML platform observability and incident response
+  skills:
+    databases: []
+    domains: []
+    data: [Ray]
+    web: []
+    ml: [PyTorch, CUDA, NCCL, Machine Learning]
+    ops: [Kubernetes, Linux, Prometheus, Grafana, OpenTelemetry, Docker, Observability,
+      MLOps, Distributed Systems, Model Deployment, Kubeflow]
+    other: [Slurm, InfiniBand, RDMA]
+    cloud: []
+    languages: [Python]
+    genai: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11248582'
+  location: Seattle, USA
+  locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:31:42.077900'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

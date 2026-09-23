@@ -1,0 +1,62 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services
+position:
+  title: 'AI Engineer 5 (SDK''s: Gen AI Evaluation and MCP)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-based components: agents and
+      multi-agent workflows, guardrails, model evaluation,
+      similarity search, and multi-model orchestration pipelines
+      integrating LLMs and vector search — all direct shaping of
+      LLM behavior, making it ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, and support AI components including agents, multi-agent workflows,
+    similarity search, guardrails, and model evaluation
+  - Design, implement and optimize multi-model orchestration pipelines integrating
+    LLMs, vector search, and domain-specific models
+  - Invent foundation model optimization techniques to improve performance, scalability,
+    cost, latency, and throughput of production AI systems
+  - Establish and lead cost-performance governance reviews across AI systems tracking
+    GPU utilization and inference cost efficiency
+  - Lead team design councils and design review boards for AI engineering standards
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  - Mentor Principal and Manager-level AI engineers
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - AI-powered products changing how associates work and customers interact with the
+    bank
+  - Agent and multi-agent workflow systems for enterprise banking
+  - Foundation model training and LLM inference at production scale
+  - Model evaluation, guardrails, and governance for responsible AI
+  skills:
+    databases: [Vector Databases, Vector Search]
+    domains: []
+    data: []
+    web: []
+    ml: [PyTorch, Hugging Face, Machine Learning, Model Training, Foundation Model
+        Training, Model Evaluation, Quantization, Model Deployment, Similarity Search,
+      CUDA, LLM Inference, Model Compression]
+    ops: []
+    other: [Generative AI, Responsible AI, Observability]
+    cloud: [AWS, GCP, Azure, AWS Ultraclusters]
+    languages: [Python, Go, Scala, Java, C++, C#, CUDA]
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails, MCP, LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268213'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:33:16.528358'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

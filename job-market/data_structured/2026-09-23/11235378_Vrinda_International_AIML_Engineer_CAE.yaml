@@ -1,0 +1,49 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: Recruiting AI/ML engineering talent for automotive
+position:
+  title: AI/ML Engineer – CAE
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops deep learning architectures including
+      Transformers and GNNs for engineering/CAE applications, plus
+      physics-informed ML and surrogate models. Transformers
+      involvement in model shaping makes it ai-first; classical
+      CV/forecasting-only criteria don't apply since
+      Transformers/LLM-family architectures are named.
+  responsibilities:
+  - Develop and implement Machine Learning and Deep Learning models for engineering
+    and automotive applications
+  - Build predictive and surrogate models for CAE simulation
+  - Apply physics-informed machine learning (PINNs) and physics-guided ML models
+  - Design deep learning architectures including CNNs, RNNs/LSTMs, Transformers, and
+    GNNs
+  - Perform AI-driven optimization and Design of Experiments (DoE)
+  use_cases:
+  - Predictive and surrogate modeling for automotive CAE simulation
+  - Physics-informed ML for engineering problems
+  - AI-driven engineering optimization and design of experiments
+  - Automotive crash/simulation analysis acceleration
+  skills:
+    genai: []
+    ml: [Machine Learning, Deep Learning, Data Science, PyTorch, TensorFlow, scikit-learn,
+      Neural Networks, CNNs, Transformers, Graph Neural Networks, PhysicsNeMo]
+    web: []
+    databases: []
+    data: [NumPy, Pandas]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Physics-Informed Machine Learning, Design of Experiments, CAE Simulation,
+      LS-DYNA, ANSA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235378'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:30:22.008335'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

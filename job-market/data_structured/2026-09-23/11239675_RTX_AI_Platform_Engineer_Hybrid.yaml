@@ -1,0 +1,60 @@
+company:
+  name: RTX
+  stage: null
+  focus: Aerospace and defense technology and systems
+position:
+  title: AI Platform Engineer (Hybrid)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates reusable platform
+      infrastructure — AI gateways, model serving, agent runtimes,
+      observability, MLOps — that other teams use to deliver AI
+      solutions. It does not itself shape model behaviour: no
+      prompt engineering, no retrieval design for a specific
+      model, no training or output-quality evaluation; the
+      deliverable is platform capacity and developer experience,
+      which is ai-support.
+  responsibilities:
+  - Design, develop, and operate scalable backend services, APIs, and distributed
+    platform capabilities supporting enterprise AI applications, models, and agents
+  - Build and integrate AI platform capabilities including model access and routing,
+    AI gateways, agent runtimes, model serving, and retrieval services
+  - Develop secure capabilities for agent and application identity, authentication,
+    authorization, secrets management, and tool access
+  - Design and automate deployment across environments using containers, Kubernetes,
+    CI/CD, and infrastructure-as-code
+  - Build observability capabilities including logging, metrics, tracing, monitoring,
+    alerting, and cost visibility for AI workloads
+  - Develop platform capabilities for AI evaluation, model lifecycle management, MLOps,
+    and production operations
+  - Partner with AI architecture, applied AI, cybersecurity, and data teams to deliver
+    reusable enterprise platform capabilities
+  use_cases:
+  - Enterprise AI platform enabling secure development and deployment of AI applications
+    across the company
+  - Agentic workload support with agent runtimes, tool execution, identity, and observability
+  - Model access, routing, and serving for enterprise AI applications
+  - Retrieval and knowledge services for enterprise search
+  - AI evaluation and model lifecycle management infrastructure
+  - Production observability and cost visibility for AI workloads
+  skills:
+    genai: [MCP, AI Agents, Model Serving]
+    ml: []
+    web: [APIs, Microservices, Event-Driven Architecture]
+    databases: [Vector Databases, Enterprise Search]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, Infrastructure as Code, Monitoring, Observability,
+      MLOps, Model Deployment, Model Monitoring]
+    languages: [Python, Java, C#]
+    domains: []
+    other: [Responsible AI, FinOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11239675'
+  location: El Segundo, USA
+  extracted_at: '2026-09-23T11:30:59.748146'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

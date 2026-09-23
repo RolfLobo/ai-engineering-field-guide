@@ -1,0 +1,51 @@
+company:
+  name: Mitratech
+  stage: null
+  focus: Legal, risk, compliance, and HR software
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects AI agents, MCPs, prompt strategies, and
+      RAG/Agentic systems, directly shaping LLM behavior.
+      Agent/prompt design makes it ai-first.
+  responsibilities:
+  - Provide technical leadership and architectural oversight for AI-integrated software
+    solutions
+  - Architect and build MCPs, APIs, and AI Agents to embed AI capabilities in existing
+    platforms
+  - Develop and refine prompt strategies guiding AI agents in code, documentation,
+    and test generation
+  - Translate product goals into modular engineering tasks optimized for human and
+    AI execution
+  - Review human- and AI-generated code for performance, security, and correctness
+  - Mentor globally distributed developers on AI tool adoption and modern design
+  - Optimize build and deployment pipelines with AI-enhanced review and testing
+  use_cases:
+  - AI agents writing code, documentation, and tests
+  - Automating repetitive development tasks with LLM tools
+  - Embedding agentic AI capabilities into legal, risk, compliance, and HR platforms
+  - RAG-based systems for enterprise software
+  - AI-enhanced code review and testing in delivery pipelines
+  skills:
+    genai: [Claude Code, GitHub Copilot, OpenAI API, LangChain, LangGraph, CrewAI,
+      MCP, AI Agents, Agentic Workflows, Prompt Engineering, RAG, Embeddings, LLMs]
+    ml: [Machine Learning]
+    web: [Microservices]
+    databases: [Vector Databases, Graph Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, DevOps]
+    languages: [Python]
+    domains: []
+    other: [Domain-Driven Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10899674'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:05:34.782746'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

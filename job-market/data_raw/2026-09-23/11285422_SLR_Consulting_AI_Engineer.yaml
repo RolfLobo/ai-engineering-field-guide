@@ -1,0 +1,223 @@
+job_id: 11285422
+title: AI Engineer
+company: SLR Consulting
+location: London, GBR
+work_type: FULL_TIME
+company_size: 289097 Employees
+description: |
+  SLR is seeking an AI Development Engineer who enjoys
+  building AI systems that operate reliably in the real world.
+  This role sits at the intersection of AI engineering,
+  software development, and infrastructure, focusing on
+  designing and implementing production-grade systems powered
+  by large language models (LLMs).
+
+  You will work hands-on across the full delivery
+  lifecycle—moving quickly from concept to prototype to
+  production. Working closely with product, engineering, and
+  data teams, you will help deliver intelligent applications
+  built on modern AI infrastructure.
+
+  We value practical builders over academic theory. Success in
+  this role is defined by your ability to design, implement,
+  deploy, and operate real systems that deliver business
+  value.
+
+  What You Will Build
+
+  You will design and implement systems across the AI stack,
+  including:
+
+  - LLM-powered applications and intelligent agents
+
+  - Model orchestration and tool-use frameworks
+
+  - Retrieval systems and knowledge layers (RAG)
+
+  - MCP-style integration layers connecting models to tools,
+    APIs, and data sources
+
+  - Scalable infrastructure supporting AI workloads
+
+  Your work will progress rapidly from prototype to
+  production, with real users and real constraints.
+
+  Key Responsibilities
+
+  Build AI Systems
+
+  - Design and implement production-grade systems powered by
+    LLMs and modern AI frameworks
+
+  - Develop applications using technologies such as:
+
+  - OpenAI, Anthropic and other LLM APIs
+
+  - LLM gateway
+
+  - Vector databases
+
+  - Agent orchestration frameworks
+
+  Implement AI Infrastructure
+
+  - Build and operate the infrastructure required to run
+    reliable AI services, including:
+
+  - API services supporting AI applications
+
+  - Orchestration layers between models and tools
+
+  - Retrieval pipelines and knowledge indexing
+
+  - Observability and monitoring for AI systems
+
+  - Scalable backend services
+
+  Develop MCP and Tool Integration Layers
+
+  - Design integration layers that enable models to interact
+    with external systems, including:
+
+  - API integrations
+
+  - Tool-use systems for agents
+
+  - Connectors to databases, SaaS tools, or internal platforms
+
+  - Structured prompting and function-calling architectures
+
+  Ship Production Code
+
+  - Move quickly from concept to working product
+
+  - Write clean, maintainable backend code
+
+  - Build testable services
+
+  - Deploy systems in production environments
+
+  - Iterate based on real user feedback
+
+  Collaborate Across Teams
+
+  - Work closely with product managers, engineers, and designers
+    to turn ideas into working solutions
+
+  Required Skills
+
+  Software Engineering Foundations
+
+  - Strong backend engineering experience
+
+  - Proficiency in Python (preferred) or TypeScript
+
+  - Experience building REST APIs and backend services
+
+  - Solid system design fundamentals
+
+  - Debugging and production troubleshooting skills
+
+  - Understand software development lifecycle
+
+  LLM Application Development
+
+  - Experience building applications using large language models
+
+  - Prompt engineering and structured prompting
+
+  - Tool use and function calling
+
+  - Retrieval-Augmented Generation (RAG) architectures
+
+  - LLM evaluation and iterative improvement
+
+  Infrastructure and Deployment
+
+  - Hands-on experience deploying production systems
+
+  - Docker and containerization
+
+  - Cloud platforms (AWS, GCP, or Azure)
+
+  - CI/CD pipelines
+
+  - Scalable service architecture
+
+  Data and Retrieval Systems
+
+  - Experience building and operating knowledge layers
+
+  - Vector databases (e.g. Pinecone, Weaviate, pgvector)
+
+  - Document ingestion pipelines
+
+  - Embedding workflows
+
+  - Search and retrieval optimization
+
+  Nice to Have Experience with:
+
+  - MCP architectures or tool-connected AI systems
+
+  - Agent frameworks
+
+  - Knowledge graph systems
+
+  - Streaming or event-driven systems
+
+  - Distributed systems design
+
+  - Evaluation frameworks for AI systems
+
+  What we look for, we are looking for engineers who:
+
+  - Prefer building working systems over discussing them
+
+  - Move quickly while maintaining quality
+
+  - Enjoy solving messy, real-world problems
+
+  - Take ownership from prototype through to production
+
+  - Stay curious about emerging AI capabilities
+
+  You do not need to know everything—but you should be
+  comfortable learning quickly and shipping continuously.
+
+  Experience
+
+  - 2–5 years of experience in software engineering, AI
+    engineering, or ML systems
+
+  We value evidence of building, including:
+
+  - Shipped products
+
+  - Real systems running in production
+
+  - Open-source contributions
+
+  - Side projects and experimentation
+
+  Demonstrated delivery matters more than credentials.
+
+  Why Join SLR
+
+  You will help build real AI systems at a time when the AI
+  stack is still rapidly evolving. This role offers:
+
+  - Meaningful ownership and autonomy
+
+  - Real engineering challenges
+
+  - The opportunity to shape how intelligent software is
+    designed, built, and deployed across SLR
+industries:
+  - Professional Services
+  - Consulting
+  - Energy
+  - Industrial
+posted_date: 2026-09-21
+url: "https://builtin.com/job/ai-engineer/11285422"
+source: Built In

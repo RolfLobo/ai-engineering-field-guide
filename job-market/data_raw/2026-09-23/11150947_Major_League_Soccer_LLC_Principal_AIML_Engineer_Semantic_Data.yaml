@@ -1,0 +1,175 @@
+job_id: 11150947
+title: Principal AI/ML Engineer, Semantic Data
+company: Major League Soccer, L.L.C.
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,509 Employees
+description: |
+  Overview
+
+  Major League Soccer is building advanced AI and data
+  platforms to power fan intelligence, personalization, and
+  data-driven decisioning across the organization.
+
+  The Principal AI/ML Engineer, Semantic Data will design and
+  build the semantic intelligence layer that enables
+  consistent understanding of fan data, business concepts, and
+  operational workflows across MLS systems.
+
+  This role combines semantic data systems with applied LLM
+  engineering to build grounded, production-grade AI
+  capabilities.
+
+  This is a systems engineering role responsible for building
+  and scaling real-world AI infrastructure, including
+  knowledge graphs, retrieval systems, and LLM-powered
+  applications.
+
+  ResponsibilitiesAI & Knowledge Systems Development
+
+  - Design and implement embedding pipelines across fan data,
+    content, metadata, and behavioral signals
+  - Build metadata and enrichment systems that normalize and
+    structure enterprise data for AI use
+  - Develop knowledge bases and retrieval systems using vector
+    databases and hybrid search architectures
+  - Create context assembly pipelines combining structured data,
+    documents, APIs, and historical outputs
+  - Enable AI systems to operate on unified semantic
+    representations rather than raw data
+
+  Semantic Layer & Knowledge Graphs
+
+  - Architect and manage knowledge graphs representing fan,
+    content, and business entity relationships
+  - Define and maintain a semantic layer standardizing metrics,
+    features, and business concepts
+  - Design ontologies, taxonomies, and entity models for fan
+    behavior and identity
+  - Implement graph-based reasoning and enrichment workflows
+  - Ensure semantic consistency across analytics, ML, and
+    operational systems
+
+  LLM & Applied AI Systems
+
+  - Design and build retrieval-augmented generation (RAG)
+    systems grounded in semantic data
+  - Integrate LLMs for reasoning over structured and
+    unstructured data
+  - Develop pipelines translating natural language into
+    structured outputs such as queries and analytical tasks
+  - Build and optimize context pipelines improving LLM grounding
+    and factual accuracy
+  - Evaluate and integrate open-weight models for domain-
+    specific reasoning
+  - Fine-tune or adapt models using parameter-efficient
+    techniques
+  - Support deployment of LLM systems in private or on-prem GPU
+    environments
+  - Optimize inference workflows for latency, cost, and
+    scalability
+  - Enable LLM-driven workflows that reason over semantic data
+    and retrieval systems
+
+  Platform & Infrastructure
+
+  - Build scalable, production-grade services and APIs for
+    semantic and AI systems
+  - Work with vector and graph databases to support retrieval
+    and reasoning
+  - Integrate structured data, documents, APIs, and model
+    outputs
+  - Partner with data engineering on batch and real-time
+    pipelines
+  - Ensure systems meet performance and reliability requirements
+
+  Governance, Evaluation & Reliability
+
+  - Design evaluation frameworks for retrieval quality and LLM
+    output correctness
+  - Monitor system performance, relevance, and model behavior
+  - Establish guardrails for explainability, traceability, and
+    data attribution
+  - Ensure safe and reliable generation of structured outputs
+  - Mitigate risks related to bias, data leakage, and
+    inconsistencies
+
+  Cross-Functional Collaboration
+
+  - Collaborate with product, analytics, and engineering teams
+    on AI use cases
+  - Translate business problems into systems combining semantic
+    data and LLM reasoning
+  - Partner with ML teams to improve model performance through
+    better grounding
+  - Mentor engineers and establish best practices
+
+  Qualifications
+
+  - Master’s degree or higher in computer science, engineering,
+    or related field
+  - 8–10+ years of experience in ML engineering, data systems,
+    or applied AI
+  - Strong expertise in Python, SQL, and production software
+    engineering
+  - Deep experience with semantic data modeling, ontologies, and
+    entity resolution
+  - Hands-on experience with embeddings, vector search, and
+    retrieval systems
+  - Experience building and deploying LLM-powered systems
+    including RAG
+  - Experience building production-grade AI systems at scale
+  - Strong understanding of distributed systems and data
+    architecture
+
+  Preferred Qualifications
+
+  - Experience with knowledge graphs and graph databases
+  - Experience designing semantic layers or feature stores
+  - Experience with open-weight LLMs and model adaptation
+  - Familiarity with on-prem or private GPU deployments
+  - Experience with modern data platforms (AWS, Snowflake,
+    Databricks)
+  - Background in marketing analytics, personalization, or
+    customer data platforms
+
+  Total Rewards
+
+  Major League Soccer offers a competitive starting base
+  salary of $200,000-$235,000, based on individual
+  qualifications, market financials, and operational business
+  needs. We are committed to providing a Total Rewards package
+  that attracts, supports, engages, and retains talent. Our
+  benefits package includes comprehensive medical, dental, and
+  vision coverage, a $500 wellness reimbursement, and generous
+  Holiday and PTO schedule to promote work-life balance. We
+  also prioritize career and professional development,
+  offering on-the-job training, feedback, and ongoing
+  educational opportunities.
+
+  Major League Soccer believes in the value of in-person
+  collaboration to support teamwork, creativity, and
+  connection. Employees in this role are expected to work a
+  four (4) day in-office schedule, with the flexibility to
+  work remotely one (1) day each week, based on business and
+  department needs.
+
+  Major League Soccer is an equal opportunity employer.
+  Employment decisions are made without regard to race, color,
+  religion, sex, sexual orientation, gender identity or
+  expression, pregnancy, age, national origin, disability,
+  genetic information, protected veteran status, or any other
+  characteristic protected by applicable federal, state, or
+  local law.
+
+  Major League Soccer is committed to providing reasonable
+  accommodations to individuals with disabilities throughout
+  the application and hiring process, as well as during
+  employment. Applicants who require an accommodation may
+  contact Human Resources to request assistance.
+
+  Join our team and help support the growth and success of
+  Major League Soccer.
+posted_date: 2026-09-12
+url: "https://builtin.com/job/principal-ai-ml-engineer-semantic-data/11150947"
+source: Built In

@@ -1,0 +1,46 @@
+company:
+  name: Bristol Myers Squibb
+  stage: null
+  focus: |-
+    Pharmaceutical company developing and delivering innovative
+    medicines
+position:
+  title: Software Development Engineer III, AI Data Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires developing generative AI solutions, prompt
+      engineering, vector databases, RAG pipelines, and LLM-based
+      solutions — directly shaping LLM behavior and retrieval,
+      making it ai-first.
+  responsibilities:
+  - Develop and deliver AI-powered solutions to bring medicines to patients faster
+  - Develop ML pipelines that can rapidly incorporate new modeling approaches
+  - Partner with business and IT groups to scale and operationalize AI solutions
+  - Educate the business on practical applications of AI to drive adoption
+  - Serve as knowledge expert in foundation models and communicate insights to stakeholders
+  - Stay current with emerging data science and machine learning trends
+  use_cases:
+  - AI-powered solutions to accelerate drug access and delivery
+  - Data-driven insights for Global Market Access and HEOR
+  - RAG pipelines and chat applications with AI agents
+  - ML pipelines evolving with new modeling approaches
+  skills:
+    genai: [Generative AI, Prompt Engineering, RAG, AI Agents, LlamaIndex, LangChain]
+    ml: [Fine-Tuning, PyTorch, TensorFlow, Deep Learning, Hugging Face, Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: [Data Mining]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, MLflow, Git]
+    languages: [Python, R]
+    domains: []
+    other: [Data Visualization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11035910'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:13:34.388064'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Sia Partners
+  stage: null
+  focus: Global management consulting with data science services
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG pipelines, agents, and
+      evaluates/benchmarks LLMs and fine-tuning strategies —
+      clearly shaping LLM behavior. All model targets are
+      LLMs/generative, so it is ai-first.
+  responsibilities:
+  - Build LLM-powered applications using GenAI frameworks like LangChain and LlamaIndex
+  - Implement RAG pipelines with vector databases to ground LLM responses in internal
+    knowledge
+  - Design reusable prompt templates using CoT, ReAct, Graph-of-Thought, and agent
+    flows
+  - Develop multimodal AI solutions and build autonomous agents
+  - Deploy GenAI models on AWS/GCP/Azure using SageMaker, Bedrock, and Vertex AI
+  - Drive MLOps excellence including CI/CD for ML pipelines, drift detection, and
+    retraining schedules
+  - Benchmark open-source and commercial LLMs for use-case fit and cost-performance
+    tradeoffs
+  - Evaluate fine-tuning strategies (PEFT, LoRA, RLHF) for proprietary use cases
+  use_cases:
+  - GenAI-powered enterprise applications for consulting clients
+  - Retrieval-augmented generation grounded in internal client knowledge
+  - Multimodal AI solutions (text, audio, image)
+  - Autonomous agents for business workflows
+  - Semantic search and knowledge retrieval solutions
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, Mistral, LangChain, LlamaIndex, RAG,
+      Prompt Engineering, Agentic Workflows, Embeddings, Fine-Tuning, LoRA, RLHF,
+      Guardrails]
+    ml: [PyTorch, Hugging Face, Transformers, Model Evaluation]
+    web: [FastAPI, Flask, Microservices]
+    databases: [Pinecone, FAISS, pgvector, Chroma, Qdrant, Milvus, Weaviate, Vector
+        Databases]
+    data: []
+    cloud: [AWS, GCP, Azure, SageMaker, AWS Bedrock, Vertex AI]
+    ops: [MLOps, CI/CD, Model Monitoring]
+    languages: [Python]
+    domains: [NLP, Machine Learning]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11044533'
+  location: Mumbai, IND
+  extracted_at: '2026-09-23T11:14:35.552966'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

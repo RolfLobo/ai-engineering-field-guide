@@ -1,0 +1,51 @@
+company:
+  name: New York Life Insurance Company
+  stage: null
+  focus: Life insurance and financial services
+position:
+  title: Associate - Full-Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic workflows, RAG/semantic search with
+      embeddings, and agent lifecycle/orchestration on an
+      enterprise AI platform - directly shaping LLM/agent
+      behavior, so ai-first.
+  responsibilities:
+  - Contribute to enterprise AI platform capabilities including agent lifecycle services,
+    developer tooling, runtime orchestration, and governance
+  - Build production-ready AI applications and agentic workflows with retrieval, tool
+    integration, memory, and human-in-the-loop processes
+  - Implement enterprise knowledge systems using semantic search, vector databases,
+    embeddings, and RAG
+  - Develop cloud-native services on GCP with Kubernetes, CI/CD, and Infrastructure
+    as Code
+  - Support deployment, monitoring, testing, and operational management of AI models
+    and agent systems
+  - Incorporate responsible AI, security, governance, and compliance controls with
+    senior engineers
+  use_cases:
+  - Enterprise AI platform for agent lifecycle and orchestration
+  - Agentic AI solutions with retrieval, tool integration, and human-in-the-loop review
+  - Enterprise knowledge search over company data
+  - AI-assisted developer tooling for insurance business units
+  skills:
+    genai: [Agentic Workflows, RAG, Embeddings, LLMs]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases, Semantic Search]
+    data: []
+    cloud: [GCP]
+    ops: [CI/CD, Infrastructure as Code, Kubernetes, Distributed Systems, GitHub Copilot,
+      Cursor, Claude Code, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10902831'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:05:39.994341'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

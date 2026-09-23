@@ -1,0 +1,58 @@
+company:
+  name: ujet.cx
+  stage: null
+  focus: AI-powered cloud contact center and CX platform
+position:
+  title: Full Stack Engineer, AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds platform capabilities for agent
+      orchestration, prompt/context management, tool use,
+      guardrails, and evaluation systems for AI agents, directly
+      shaping LLM/agent behavior. LLMs and agents are explicitly
+      involved, so ai-first.
+  responsibilities:
+  - Build and maintain internal full-stack products for designing, developing, testing,
+    evaluating, deploying, and operating AI agents
+  - Develop backend services, APIs, SDKs, workflows, and integrations connecting models,
+    tools, enterprise data, and product systems
+  - Build reusable platform capabilities for agent orchestration, prompt and context
+    management, tool use, human review, and workflow automation
+  - Develop evaluation, observability, debugging, and quality-control systems for
+    AI behavior
+  - Design secure patterns for data access, tool invocation, permissions, and AI safety
+    guardrails
+  - Partner with infrastructure and application engineering teams to translate needs
+    into platform capabilities
+  - Improve developer experience through abstractions, documentation, examples, and
+    templates
+  - Participate in design reviews, code reviews, debugging, releases, and production
+    support
+  use_cases:
+  - AI-powered virtual agents for contact centers
+  - Agent assist experiences for human agents
+  - Conversation intelligence and analytics
+  - Internal platform for building and evaluating agentic applications
+  - Workflow automation across customer journey and contact center operations
+  skills:
+    genai: [AI Agents, Agentic Workflows, Prompt Engineering, LLMs, RAG, Guardrails,
+      LLM Evaluation, Function Calling]
+    ml: []
+    web: [APIs, SDKs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Cloud Platforms]
+    ops: [Observability]
+    languages: [Python]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10074179'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T10:57:49.519701'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

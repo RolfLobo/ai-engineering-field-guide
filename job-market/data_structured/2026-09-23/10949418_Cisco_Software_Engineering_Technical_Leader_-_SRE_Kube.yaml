@@ -1,0 +1,58 @@
+company:
+  name: Cisco
+  stage: null
+  focus: |-
+    Networking, collaboration, and Webex communication
+    technology
+position:
+  title: Software Engineering Technical Leader - SRE + Kubernetes + Cloud + Automation
+    + Incident Management + AI-first (10-14 Years)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SRE/DevOps role: operating services, incident
+      management, CI/CD, and automation. AI is mentioned only as
+      "AI-first tooling" for deployment/monitoring/incident
+      response and "AI-assisted approaches" to SRE workflows —
+      tools the engineer uses, not model behaviour they shape. No
+      prompts, RAG, training, or evals work is described.
+  responsibilities:
+  - Own deployment and operation of critical collaboration services across cloud and
+    hybrid environments
+  - Design, evolve, and optimize CI/CD pipelines and automation, including AI-first
+    tooling for deployment, monitoring, and incident response
+  - Lead incident response for complex production issues, perform root cause analysis,
+    and drive reliability improvements
+  - Participate in on-call rotation to meet SLOs and customer-facing SLAs, including
+    monitoring and alerting
+  - Use observability data for capacity planning, scaling strategies, and resource
+    optimization
+  - Conduct Disaster Recovery drills and improve incident processes
+  - Reduce operational expenses by identifying failure points and automating repetitive
+    tasks
+  - Define and champion operational best practices and documentation standards
+  use_cases:
+  - Reliable operation of Webex collaboration SaaS services
+  - Production incident response and remediation
+  - Automated deployment and monitoring of backend services
+  - Capacity planning and scaling of globally distributed services
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud]
+    ops: [Docker, Kubernetes, Monitoring, Incident Response, Linux, Distributed Systems,
+      CI/CD, Infrastructure as Code, Git]
+    languages: [Python, Go, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10949418'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:08:26.146511'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

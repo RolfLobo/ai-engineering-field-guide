@@ -1,0 +1,52 @@
+company:
+  name: Atlassian
+  stage: null
+  focus: Team collaboration and productivity software
+position:
+  title: Principal Forward Deployed Engineer, AI (Remote UK)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineers who adapt and deploy AI solutions
+      at customer sites are ai-first per the edge cases. The role
+      requires designing, developing, and deploying AI/ML
+      solutions with LLMs and agent-based frameworks, shaping
+      applied AI for customer environments.
+  responsibilities:
+  - Lead the design, development, and deployment of AI/ML-powered solutions tailored
+    to customer needs
+  - Architect and implement application integrations using Python, JavaScript, APIs,
+    microservices, and enterprise-scale systems
+  - Analyze complex datasets to extract insights and inform product direction
+  - Champion adoption of AI-augmented workflow automation in customer environments
+  - Oversee end-to-end deployment of AI solutions into production with continuous
+    evaluation, monitoring, and improvement
+  - Navigate risk and compliance requirements including AI risk assessment, data privacy
+    (GDPR), and regulatory frameworks
+  - Mentor and guide junior engineers
+  - Communicate technical concepts to technical and non-technical stakeholders
+  use_cases:
+  - AI-powered teamwork and collaboration solutions for enterprise customers
+  - AI-augmented workflow automation in customer environments
+  - Enterprise application integrations with AI capabilities
+  - Data-driven insights to inform product direction
+  skills:
+    genai: [Generative AI, LLMs, AI Agents]
+    ml: [Machine Learning]
+    web: [APIs, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [GDPR, Atlassian Intelligence, Rovo AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11147178'
+  location: London, GBR
+  remote: true
+  extracted_at: '2026-09-23T11:21:41.625419'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

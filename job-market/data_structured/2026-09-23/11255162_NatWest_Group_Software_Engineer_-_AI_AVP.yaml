@@ -1,0 +1,48 @@
+company:
+  name: NatWest Group
+  stage: null
+  focus: Banking and financial services
+position:
+  title: Software Engineer - AI, AVP
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The role requires Python and LLMs experience and prefers
+      agentic architecture, but the responsibilities are entirely
+      generic software engineering (design, code, test, deploy,
+      maintain) with no evidence the person shapes model behaviour
+      via prompts, retrieval, agent design, or training. The AI
+      content is too thin to decide between ai-first and ai-
+      support, so it is unknown.
+  responsibilities:
+  - Engineer and maintain innovative, customer-centric, high performance, secure and
+    robust software solutions
+  - Produce complex and critical software rapidly and to high quality
+  - Own the full software lifecycle from development through enhancement and maintenance
+    to decommissioning
+  - Design, produce, test and implement working code
+  - Collaborate with engineers, architects and business analysts across the platform
+  - Work across the lifecycle from requirements analysis and design through coding,
+    testing, deployment and operations
+  use_cases:
+  - Complex analytical and numerical problem solving for banking customers
+  - Customer-centric secure software solutions within the bank's platform
+  skills:
+    genai: [LLMs, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Science]
+    cloud: []
+    ops: [DevOps]
+    languages: [Python]
+    domains: []
+    other: [Agile, Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11255162'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:32:59.027148'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

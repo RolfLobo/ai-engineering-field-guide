@@ -1,0 +1,44 @@
+company:
+  name: Almetra
+  stage: null
+  focus: AI edge systems for manufacturing
+position:
+  title: AI Edge Deployment Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role installs and configures edge hardware (cameras,
+      compute nodes, networking) at customer sites and verifies
+      data flow; it never shapes model behavior, prompts,
+      retrieval, or training. Serving/deploying AI systems someone
+      else builds is ai-support.
+  responsibilities:
+  - Prepare and install full edge setups including cameras, compute nodes, and networking
+    components
+  - Configure devices, test connectivity, and verify data flow from edge to cloud
+  - Develop and use automation scripts for installation, calibration, and verification
+  - Troubleshoot on-site issues across hardware, network, and software layers
+  - Coordinate component sourcing and logistics with the operations team
+  - Ensure installations meet reliability, safety, and performance standards
+  use_cases:
+  - Deployment of AI edge vision systems in industrial manufacturing environments
+  - Edge-to-cloud data flow for on-site AI monitoring
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux]
+    languages: [Bash, Python]
+    domains: []
+    other: [Networking, IoT, Edge Computing, Camera Systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11248713'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:31:07.490565'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Voya Financial
+  stage: null
+  focus: Financial services and retirement solutions
+position:
+  title: AI Principal Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and delivers LLM-based applications,
+      retrieval pipelines, model-driven services, and drives model
+      evaluation and selection - directly shaping model behaviour.
+      LLM involvement makes it ai-first.
+  responsibilities:
+  - Lead design, development, and deployment of complex AI solutions including LLM-based
+    applications, retrieval pipelines, and model-driven services
+  - Own technical direction for major components or domains within AI platforms or
+    products
+  - Drive engineering best practices for model evaluation, testing, monitoring, and
+    operationalization
+  - Partner with product, data, and business stakeholders to translate requirements
+    into scalable AI solutions
+  - Contribute to architecture decisions including model selection, system integration,
+    and API design
+  - Ensure solutions meet enterprise standards for security, privacy, and responsible
+    AI
+  - Mentor and guide engineers, contributing to team capability and engineering quality
+  - Identify technical risks and implement mitigation strategies
+  use_cases: []
+  skills:
+    genai: [LLMs, RAG]
+    ml: [Model Deployment]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [MLOps]
+    languages: [Python, TypeScript, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11003321'
+  location: Saint Johns, USA
+  locations:
+  - Saint Johns, USA
+  - New York, USA
+  - Minneapolis, USA
+  - Windsor Crest, USA
+  - Powers Ferry Vantage, USA
+  extracted_at: '2026-09-23T11:12:04.127219'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

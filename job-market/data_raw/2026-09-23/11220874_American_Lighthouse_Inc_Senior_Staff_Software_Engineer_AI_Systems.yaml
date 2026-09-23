@@ -1,0 +1,107 @@
+job_id: 11220874
+title: Senior / Staff Software Engineer, AI Systems
+company: American Lighthouse, Inc.
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 55000 Employees
+description: |
+  We're looking for a senior or staff-level software engineer
+  to build the AI systems that help the world's best and
+  brightest build in the U.S.
+
+  You'll own the agents and infrastructure that power complex
+  legal workflows: drafting documents, reviewing evidence, and
+  moving cases toward filing. This includes workflow
+  orchestration, backend services, and evaluations that
+  measure quality and catch regressions. You'll work directly
+  with our legal team to understand their processes and turn
+  early experiments into reliable production systems.
+
+  What you'll do:
+
+  - Build agentic systems that automate complex, multi-step
+    legal workflows, with human review and intervention at the
+    right points.
+  - Redesign our task and workflow orchestration to support
+    long-running work, dependencies, retries, and recovery.
+  - Build evaluation systems to measure output quality, catch
+    regressions, and guide improvements to agents, prompts,
+    and models.
+  - Improve the architecture of our backend services, event
+    pipelines, and scheduled job infrastructure.
+  - Make agent execution observable, so we can understand what
+    happened, debug failures, and manage quality, latency, and
+    cost.
+  - Connect these systems to our internal tools and applicant-
+    facing portal, including the APIs and interfaces people
+    need to supervise their work.
+
+  You might be a good fit if:
+
+  - You have 4+ years shipping production software, with deep
+    experience in backend systems and experience building
+    AI/ML powered applications.
+  - You've built with LLMs beyond a basic chat interface and
+    thought carefully about tool use, context, evaluation, and
+    handling unreliable outputs.
+  - You can work with domain experts to turn nuanced processes
+    and quality judgments into software behavior and
+    meaningful evaluations.
+  - You're comfortable working in Python and TypeScript, or
+    similar languages.
+  - You've led projects end to end, from ambiguous requirements
+    through deployment and ongoing operation.
+  - You have a solid understanding of workflow orchestration and
+    asynchronous systems, including queues, events, retries,
+    idempotency, and failure recovery.
+  - You have high agency: you can independently research
+    unfamiliar problems, test approaches, and drive them to a
+    working solution.
+
+  Experience operating agents in production, building eval
+  infrastructure, or working on complex document workflows is
+  especially relevant. Strong engineering judgment matters
+  more to us than experience with a particular framework.
+
+  Culture
+
+  - Engineering is woven into the company. You'll work directly
+    with our legal ops team, product, and customers every
+    week.
+  - We value independent judgment. When something is unclear, we
+    expect you to dig in, research, prototype, and validate
+    with users before looking for sign-off.
+  - We protect focused time. Most coordination happens async so
+    people get long stretches of focused work.
+  - We care about craft. Clean APIs, fast UIs, and well-
+    structured data models matter to us.
+  - We're bicoastal but tight-knit. The team is split between
+    San Francisco and New York, and we still operate like one
+    small, close team.
+
+  Pay and Benefits
+
+  - We sponsor visas, obviously.
+  - Competitive base and equity, scaled with experience.
+  - Competitive medical, dental, and vision benefits.
+  - 401k with a 3% company match.
+  - Equipment/office stipend.
+  - Annual team off-site in cool places.
+  - In person in San Francisco or New York.
+
+  Lighthouse is an equal opportunity workplace; we welcome
+  people from all backgrounds, communities, and experiences.
+  Apply through our Careers page. If selected, we'll schedule
+  a call to get to know you better and do a deep technical
+  dive into the work you've chosen to highlight.
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Professional Services
+  - Software
+posted_date: 2026-09-17
+url: "https://builtin.com/job/senior-staff-software-engineer-ai-systems/11220874"
+source: Built In

@@ -1,0 +1,48 @@
+company:
+  name: BJAK
+  stage: null
+  focus: Consumer fintech and insurance platform in Southeast Asia
+position:
+  title: Product Engineer - AI Finance
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a product owner/engineer for financial products;
+      the description contains no evidence of shaping model
+      behaviour (no prompts, RAG, agent design, training, or
+      evals). AI is only mentioned in the company's mission, so it
+      qualifies at most as an incidental theme.
+  responsibilities:
+  - Own product areas across insurance, payments, savings, investing, travel or other
+    financial services
+  - Define user problems, product scope, success metrics, roadmap and launch plans
+  - Work with engineering, design, data, operations, compliance and business teams
+  - Turn complex financial products into simple, usable customer journeys
+  - Use data, feedback, research and production issues to improve product decisions
+  - Launch features, monitor performance and drive iterations
+  - Make trade-offs between speed, user experience, business impact, compliance and
+    operational complexity
+  use_cases:
+  - Consumer insurance platform
+  - Payments and savings products
+  - Investing and travel financial services
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10905946'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:06:01.519223'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

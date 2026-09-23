@@ -1,0 +1,189 @@
+job_id: 11162835
+title: AI Engineer
+company: Itineris
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 550 Employees
+description: |
+  Hyderabad, India
+
+  There’s a saying at Itineris: Together goes a long way. And
+  we live by that. Whether your job is translating our
+  customers’ needs into the best software, selling, coding, or
+  keeping our business running smoothly, we’re united by the
+  same mission: growing our company and delivering innovative
+  software that empowers energy and water utilities to engage
+  better with their customers. UMAX is the brand name of our
+  software solution for water and energy utilities. It
+  automates their business processes and enables them to
+  better engage with their customers. UMAX is a cloud-based
+  solution, built on the powerful Microsoft Dynamics 365
+  platform. As an AI Engineer, you will… join our growing AI
+  Practice team in Hyderabad. In this role, you will design,
+  build, and operate AI-powered applications — from initial
+  architecture through to production deployment on Azure — and
+  you will also own a meaningful part of how we experiment on
+  and evaluate the LLM agents and systems we ship, including
+  UMAX's agent harness, the orchestration layer that powers
+  UMAX's agentic capabilities. This is fundamentally a hands-
+  on engineering role: you write production-grade code, own
+  deployments, and care about what happens after the merge. At
+  the same time, your instinct for rigorous evaluation and
+  systematic experimentation - forming hypotheses, running
+  structured tests on prompt strategies and orchestration
+  patterns, and measuring whether a change is actually an
+  improvement - is just as central to the job. As you grow
+  with the team, you may naturally lean more into one side of
+  this or the other, but on day one this role expects range
+  across both. Key Responsibilities
+
+  - AI Application & Agent Development: Design and build AI-
+    powered applications with agentic orchestration, RAG
+    pipelines, and LLM integrations at their core. Own prompt
+    and system prompt architecture, tool/function definitions,
+    context management, and orchestration flow design,
+    translating requirements into well-architected,
+    maintainable solutions that work reliably in production.
+  - Evaluation & Experimentation: Design evaluation frameworks
+    for agent output quality — scoring rubrics, automated test
+    suites, regression tracking — and run structured
+    experiments across prompt strategies, tool configurations,
+    and orchestration patterns. Form clear hypotheses, measure
+    outcomes, and translate results into concrete
+    improvements.
+  - Azure Engineering & Deployment: Own the Azure infrastructure
+    and deployment pipelines for AI workloads. This includes
+    containerized and serverless deployments, IaC with Bicep,
+    and keeping environments consistent across dev, staging,
+    and production.
+  - CI/CD: Build and maintain robust CI/CD pipelines for AI
+    applications using Azure DevOps. Integrate security
+    scanning, dependency management, and automated testing
+    into the delivery pipeline as first-class concerns, not
+    afterthoughts.
+  - Platform Operations: Monitor, debug, and improve AI
+    applications in production. Take ownership when things go
+    wrong and drive incidents to resolution.
+  - LLM & Agentic Landscape Research: Stay close to developments
+    in the LLM and agentic AI space — new models,
+    orchestration frameworks, evaluation techniques — and
+    evaluate their relevance to UMAX's architecture, bringing
+    in what matters.
+  - Engineering Standards & Collaboration: Write clean, well-
+    tested, reviewable code and participate actively in code
+    reviews. Document experiment findings and design decisions
+    clearly, and collaborate with peers across the AI Practice
+    team to help raise the engineering bar. Leverage AI for
+    engineering through GitHub Copilot, Claude Code, or
+    similar, and actively expand our AI-first development
+    workflow.
+
+  What you bring...
+
+  Software Engineering
+
+  - Strong proficiency in Python or C#
+  - Solid understanding of software design principles:
+    modularity, testability, observability
+  - Experience building and consuming RESTful APIs and
+    microservices architectures
+  - Comfortable working across the full development lifecycle
+
+  AI & LLM Engineering
+
+  - Deep practical understanding of LLM behavior: prompting,
+    context windows, tool/function calling, retrieval-
+    augmented generation, multi-step reasoning
+  - Hands-on experience with agentic orchestration frameworks
+    (LangChain, Semantic Kernel, AutoGen, or similar)
+  - Familiarity with Azure AI Foundry and Cognitive Services
+    ecosystem
+  - Experience with agentic development workflows using tools
+    like GitHub Copilot, Claude Code, or similar
+
+  Evaluation & Experimentation
+
+  - Experience designing or running structured experiments on
+    LLM or agentic systems
+  - Ability to define evaluation criteria, build scoring
+    rubrics, and reason systematically about output quality
+  - Familiarity with eval approaches (LLM-as-judge, human
+    evaluation, automated regression testing)
+
+  DevOps & Cloud Engineering
+
+  - Hands-on experience with Azure (ACA/AKS, Azure Storage,
+    Azure Monitoring, App Insights, …)
+  - Infrastructure as Code with Bicep (or Terraform, with
+    willingness to learn)
+  - Containerization with Docker; experience with Kubernetes is
+    a plus
+  - Building and maintaining CI/CD pipelines for containerized
+    workloads through Azure DevOps
+
+  Analytical Thinking
+
+  - Rigorous and curious: you form clear hypotheses before
+    drawing conclusions
+  - Comfortable with ambiguity and able to communicate findings
+    clearly to both technical and non-technical stakeholders
+
+  Education & Experience
+
+  - 3-5 years of demonstrable experience as a backend/full-stack
+    software engineer, AI engineer, or data scientist
+  - Degree in Computer Science, Software Engineering, AI/ML, or
+    a related discipline
+
+  Preferred Qualifications
+
+  - Experience with MCP, A2A, or other agent integration
+    patterns
+  - Familiarity with Copilot Studio or similar low-code agent
+    orchestration platforms
+  - Exposure to the Microsoft Dynamics 365 / Power Platform
+    ecosystem
+  - Experience with monitoring and observability tools
+  - Microsoft Certified: Azure Developer Associate or DevOps
+    Engineer Expert
+  - Experience contributing to or evaluating open-source LLM
+    tooling
+  - Publications, conference talks, or public writing on applied
+    AI topics are a plus
+
+  What we offer
+
+  - A fast-growing and international environment with offices in
+    Hyderabad (India), Ghent (Belgium), Atlanta (USA), London
+    (UK).
+  - Working with future-ready water and energy companies and
+    building valuable utility expertise.
+  - Internal mobility, developing your career through various
+    educational programs and growth paths.
+  - An entrepreneurial mindset where you have a direct impact on
+    our growth journey.
+  - An open environment where we understand the importance of
+    taking a break to recharge and achieve the best results.
+    We make it a priority to celebrate milestones, both big
+    and small.
+  - Onboarding, learning and buddy programs to get ready for a
+    smooth start in your new job.
+  - A flexible and inclusive working environment – where people
+    can just be who they are, and where we offer flexible
+    options for hybrid working so you can work in a way that
+    suits you best.
+  - Competitive perks & benefits, because we want to help you
+    reach your full potential, both at work and in your
+    personal life.
+  - A lot of fun moments with an eye for sports, celebration and
+    wellbeing, important for maintaining a healthy work-life
+    balance.
+industries:
+  - Cloud
+  - Information Technology
+  - Software
+  - Automation
+posted_date: 2026-09-14
+url: "https://builtin.com/job/ai-engineer/11162835"
+source: Built In

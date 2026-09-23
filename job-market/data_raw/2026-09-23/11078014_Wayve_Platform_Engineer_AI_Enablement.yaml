@@ -1,0 +1,171 @@
+job_id: 11078014
+title: Platform Engineer, AI Enablement
+company: Wayve
+location: London, GBR
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  About us
+
+  Founded in 2017, Wayve is the leading developer of Embodied
+  AI technology.  Our advanced AI software and foundation
+  models enable vehicles to perceive, understand, and navigate
+  any complex environment, enhancing the usability and safety
+  of automated driving systems.
+
+  Our vision is to create autonomy that propels the world
+  forward.  Our intelligent, mapless, and hardware-agnostic AI
+  products are designed for automakers, accelerating the
+  transition from assisted to automated driving.   In our
+  fast-paced environment big problems ignite us—we embrace
+  uncertainty, leaning into complex challenges to unlock
+  groundbreaking solutions. We aim high and stay humble in our
+  pursuit of excellence, constantly learning and evolving as
+  we pave the way for a smarter, safer future.
+
+  At Wayve, your contributions matter.  We value diversity,
+  embrace new perspectives, and foster an inclusive work
+  environment; we back each other to deliver impact.
+
+  Make Wayve the experience that defines your career!
+
+  The role
+
+  As a Platform Engineer on Wayve’s AI Enablement team, you’ll
+  build the infrastructure that gives people across the
+  company safe, reliable, and cost-effective access to
+  language models and AI agents.
+
+  You’ll help create a governed model-access layer and a
+  secure production environment for agentic workflows, with
+  safety, observability, and operational excellence built in
+  from the start. Your work will span the full lifecycle—from
+  defining problems and designing systems to implementation,
+  deployment, and ongoing operation.
+
+  Working closely with Security, IT, and engineering teams,
+  you’ll deliver platform capabilities that scale with the
+  pace of AI adoption at Wayve. You’ll also support teams
+  building agentic workflows, turning successful approaches
+  into reusable patterns and helping colleagues understand
+  what’s possible with the platform.
+
+  This is an opportunity to join an early platform team and
+  shape how an AI company puts AI tools to work responsibly.
+  Your technical decisions will influence infrastructure used
+  across Wayve, giving you ownership, visibility, and impact
+  beyond a typical infrastructure role.
+
+  Key responsibilities
+
+  - Design, build, and operate infrastructure that enables safe
+    and cost-effective access to AI models and tools.
+  - Build the runtime, services, and developer tooling used to
+    run agentic workflows in production.
+  - Create observability across cost, performance, reliability,
+    and usage through metrics, tracing, and logging.
+  - Implement governance and safety controls that make AI use
+    secure, compliant, and auditable.
+  - Develop reusable platform primitives, integrations, and
+    guardrails that reduce one-off solutions.
+  - Contribute to standards and best practices for designing,
+    building, and deploying agents.
+  - Automate infrastructure and deployment processes to keep the
+    platform reliable and scalable.
+  - Partner with Security, IT, and engineering teams on platform
+    integration, policy, and rollout.
+  - Help teams adopt the platform by troubleshooting issues,
+    documenting patterns, and sharing what works.
+  - Educate colleagues on the AI platforms and tools available
+    to them and how to use them effectively.
+  - Own projects end to end and improve the platform based on
+    real-world usage and feedback.
+  - Participate in the team’s on-call rotation, providing out-
+    of-hours support for critical systems when required.
+
+  About you
+
+  You’re a hands-on engineer who enjoys building reliable
+  platforms for other teams. You’re comfortable navigating
+  ambiguity, taking ownership across the full delivery
+  lifecycle, and collaborating with technical and non-
+  technical partners. You combine strong engineering
+  fundamentals with curiosity about the fast-evolving AI
+  tooling ecosystem.
+
+  Essential skills and experience
+
+  - 3+ years of software engineering experience building APIs,
+    services, and developer tooling.
+  - Strong system-design fundamentals and experience making
+    infrastructure decisions that affect multiple teams.
+  - Experience building and operating platforms or
+    infrastructure used by other engineering teams.
+  - Hands-on experience with cloud infrastructure, Kubernetes,
+    and infrastructure as code.
+  - Familiarity with LLM APIs and the surrounding ecosystem,
+    including model providers, gateways, MCP, agent
+    frameworks, and retrieval-augmented generation.
+  - Experience building observability into distributed systems
+    using metrics, tracing, and logging.
+  - A security-conscious approach, including experience with
+    authentication, authorization, and auditability.
+  - A strong sense of ownership and comfort working in an
+    ambiguous, fast-moving environment.
+  - Clear communication and documentation skills that enable
+    other teams to self-serve.
+
+  Desirable skills and experience
+
+  - Experience operating an LLM gateway or model-routing layer
+    in production, including cost controls and budget
+    enforcement.
+  - Experience with agent orchestration frameworks or tool-
+    calling protocols such as MCP.
+  - Exposure to AI governance, model risk management, or
+    responsible AI practices.
+  - Experience working in an organisation with a strong safety
+    culture, ideally in autonomy, robotics, or another safety-
+    critical field.
+
+  Wayve is committed to creating an inclusive interview
+  experience. If you require any accommodations or adjustments
+  to participate fully in our interview process, please let us
+  know.
+
+  We understand that everyone has a unique set of skills and
+  experiences and that not everyone will meet all of the
+  requirements listed above. If you’re passionate about self-
+  driving cars and think you have what it takes to make a
+  positive impact on the world, we encourage you to apply. At
+  Wayve we're committed to creating a diverse, fair and
+  respectful culture that is inclusive of everyone based on
+  their unique skills and perspectives, and regardless of sex,
+  race, religion or belief, ethnic or national origin,
+  disability, age, citizenship, marital, domestic or civil
+  partnership status, sexual orientation, gender identity,
+  veteran status, pregnancy or related condition  (including
+  breastfeeding) or any other basis as protected by applicable
+  law.
+
+  For more information visit Careers at Wayve.
+
+  To learn more about what drives us, visit Values at Wayve
+
+  For US candidates only, please visit E-Verify Notice and
+  Participation and Right to Work
+
+  DISCLAIMER: We will not ask about marriage or pregnancy,
+  care responsibilities or disabilities in any of our job
+  adverts or interviews. However, we do look to capture
+  information about care responsibilities, and disabilities
+  among other diversity information as part of an optional DEI
+  Monitoring form to help us identify areas of improvement in
+  our hiring process and ensure that the process is inclusive
+  and non-discriminatory.
+industries:
+  - Artificial Intelligence
+  - Transportation
+posted_date: 2026-09-09
+url: "https://builtin.com/job/platform-engineer-ai-enablement/11078014"
+source: Built In

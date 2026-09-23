@@ -1,0 +1,50 @@
+company:
+  name: GoDaddy
+  stage: null
+  focus: Web hosting and online tools for entrepreneurs
+position:
+  title: Software Development Engineer - AI Services
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with prompt
+      engineering, agentic workflows, and building AI agents and
+      LLM-based applications, meaning the engineer directly shapes
+      model behaviour and output quality. This makes it ai-first
+      per Step 2.
+  responsibilities:
+  - Build and deploy AI agents and intelligent applications that solve customer and
+    business challenges
+  - Design, develop, and maintain scalable backend services and APIs powering AI-driven
+    experiences
+  - Develop full-stack solutions across user-facing experiences and backend systems
+  - Integrate LLMs, AI services, data platforms, and external APIs into end-to-end
+    solutions
+  - Collaborate with engineers, product managers, and cross-functional partners to
+    deliver features
+  - Explore emerging technologies to advance GoDaddy's AI capabilities
+  use_cases:
+  - Customer insights from data for millions of GoDaddy customers
+  - AI-powered products uncovering growth opportunities
+  - Improving customer experiences via LLM-powered features
+  - Supporting GoDaddy products including Airo, Domains, Email, and SSL
+  skills:
+    genai: [LLMs, Prompt Engineering, Agentic Workflows]
+    ml: [Machine Learning]
+    web: [REST APIs]
+    databases: [Databases]
+    data: [Airflow, Data Pipelines]
+    cloud: [AWS, AWS S3, IAM]
+    ops: [CI/CD, Distributed Systems]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10982712'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:10:46.826330'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

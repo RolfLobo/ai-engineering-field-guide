@@ -1,0 +1,58 @@
+company:
+  name: Parser
+  stage: null
+  focus: |-
+    Technology services and consulting for digital
+    transformation and AI enablement
+position:
+  title: Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships production AI features directly -
+      RAG, agentic workflows, document intelligence, evaluation
+      frameworks, and guardrails - so the person shapes LLM
+      behaviour themselves. Forward Deployed Engineers adapting AI
+      solutions at customer sites are ai-first.
+  responsibilities:
+  - Embed with investment, portfolio, risk, and corporate teams to translate ambiguous
+    business problems into working software
+  - Lead rapid discovery and prototyping cycles with hands-on coding and AI-assisted
+    development
+  - Own end-to-end production vertical slices from data ingestion and backend services
+    to frontend, deployment, and operations
+  - Design and build production-grade AI features including RAG, agentic workflows,
+    document intelligence, and AI-generated analytics
+  - Build information-dense interfaces for investment professionals including analytical
+    grids and human-in-the-loop review flows
+  - Deploy and operate workloads on Kubernetes (AKS) and Azure PaaS with IaC, CI/CD,
+    and observability
+  - Apply enterprise security, entitlement, data governance, and audit standards for
+    a regulated investment environment
+  - Champion engineering excellence and mentor other engineers
+  use_cases:
+  - RAG across structured and unstructured investment data
+  - Document intelligence for financial documents
+  - AI-generated analytics for investment professionals
+  - Human-in-the-loop review workflows for high-stakes financial decisions
+  - AI orchestration embedded in enterprise investment platforms
+  skills:
+    genai: [RAG, Agentic Workflows, Embeddings, LLM Evaluation, Guardrails, LLMs]
+    ml: []
+    web: [React]
+    databases: [Vector Search, Snowflake, Oracle]
+    data: [Kafka]
+    cloud: [Azure, AKS]
+    ops: [Kubernetes, CI/CD, Infrastructure as Code, Observability]
+    languages: [Python, C#, TypeScript, SQL]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10928593'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:07:27.624185'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

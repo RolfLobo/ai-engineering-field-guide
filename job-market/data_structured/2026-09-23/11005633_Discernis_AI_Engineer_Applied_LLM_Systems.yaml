@@ -1,0 +1,48 @@
+company:
+  name: Discernis
+  stage: null
+  focus: AI document intelligence for legal work
+position:
+  title: AI Engineer (Applied LLM Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: prompt engineering,
+      agentic orchestration, retrieval, post-training/fine-tuning,
+      and building evals for LLM output quality. LLM components
+      are central, making it ai-first.
+  responsibilities:
+  - Design and build AI powered workflows for legal teams using agentic orchestration,
+    prompt engineering, retrieval, and post-training
+  - Improve quality, reliability, latency, and cost of existing workflows
+  - Own and develop evaluation and benchmarking frameworks
+  - Design agentic patterns and structured outputs for legal and investigative use
+    cases
+  - Own self hosted model serving and inference optimization across customer deployments
+  - Post-train and adapt models including fine-tuning, preference optimization, and
+    domain adaptation
+  use_cases:
+  - Document intelligence for high stakes legal work
+  - Understanding massive document sets for legal teams
+  - Legal and investigative analysis workflows
+  - Domain adaptation of models for legal use cases in on-premises environments
+  skills:
+    genai: [Prompt Engineering, Agentic Workflows, RAG, Fine-Tuning, DPO, RLHF, LLMs,
+      Structured Outputs, Function Calling, LLM Evaluation, Embeddings]
+    ml: [Machine Learning]
+    web: []
+    databases: [Vector Search]
+    data: []
+    cloud: []
+    ops: [vLLM, TGI, Inference Optimization]
+    languages: [Python]
+    domains: [Information Retrieval]
+    other: [Document Intelligence, Legal Tech, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11005633'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:12:22.892907'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

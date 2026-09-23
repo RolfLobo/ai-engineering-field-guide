@@ -1,0 +1,50 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and banking
+position:
+  title: Software Engineer III – AI/ML Data Platforms (Python, Cloud Native)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role centers on software engineering on AI/ML data
+      platforms, with the AI-related work being adoption of AI-
+      assisted coding tools and setting validation standards —
+      explicitly the developer-workflow edge case (ai-support).
+      GenAI engineering tooling is only a preferred nice-to-have,
+      so it does not make the role ai-first.
+  responsibilities:
+  - Design, develop, and troubleshoot software solutions across multiple technical
+    areas on AI/ML data platforms
+  - Collaborate with product managers and data strategy professionals to advance the
+    firm's AI for Data agenda
+  - Develop secure, high-quality production code and review/debug code written by
+    others
+  - Drive team adoption of enterprise-authorized AI-assisted engineering practices
+    with validation standards for correctness, performance, and security
+  - Identify opportunities to eliminate or automate remediation of recurring issues
+    to improve operational stability
+  use_cases:
+  - AI/ML data platforms supporting the firm's AI for Data agenda
+  - AI-assisted code review, refactoring, and test acceleration for engineering teams
+  - Incident and root-cause analysis support for operational stability
+  - Graph/RDF-based data solutions (preferred)
+  skills:
+    genai: [Generative AI]
+    ml: []
+    web: [APIs]
+    databases: [Graph Databases]
+    data: []
+    cloud: [AWS Neptune]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11250585'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:32:34.260835'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

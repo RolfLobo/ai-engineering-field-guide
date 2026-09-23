@@ -1,0 +1,207 @@
+job_id: 11243825
+title: "Senior Analytics Engineer, AI & DX Analytics"
+company: Block
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Block builds simple, powerful tools that make progress
+  towards an economy that's truly open to all.  Each of our
+  brands unlocks different aspects of the economy for more
+  people. Square makes commerce and financial services
+  accessible to sellers. Cash App is the easy way to spend,
+  send, and store money. Afterpay is transforming the way
+  customers manage their spending over time. TIDAL is a music
+  platform that empowers artists to thrive as entrepreneurs.
+  Bitkey is a simple self-custody wallet built for bitcoin.
+  Proto is a suite of bitcoin mining products and services.
+  Together, we're helping build a financial system that is
+  open to everyone. Join us. The Role The AI & DX Analytics
+  team exists to measure and improve Block's developer
+  experience and investment in AI. We turn raw engineering
+  signals (agent session data, pull request and CI activity,
+  and AI spend) into reporting and analysis that shape
+  leadership's AI investment decisions, and drive improvement
+  in AI ROI and developer experience. We're hiring a Senior
+  Analytics Engineer to own parts of that pipeline end to end.
+  This role drives two key parts: You will instrument new
+  telemetry at the source and build production pipelines that
+  turn it into governed data. You will then turn that governed
+  data into executive-facing reporting that leadership will
+  use to decide where AI investment is working and where to
+  redirect it, and into the analysis that surfaces concrete
+  opportunities to improve AI ROI and developer experience.
+  You'll define new metrics and craft the visual narrative -
+  the charts, dashboards, and presentation materials - that
+  make them land with an executive audience. AI-first
+  workflows are central to how this team operates and critical
+  to succeeding in this role: using AI coding agents is a
+  default part of how you build and maintain pipelines and
+  dashboards. You'll excel in this role if you're as
+  comfortable defining and visualizing a brand new executive-
+  facing metric from a messy signal as you are debugging why a
+  pipeline silently stalled overnight. You will
+  Instrumentation & Telemetry:
+
+  - Instrument and extend the raw telemetry captured about AI
+    usage, code changes, CI/CD activity, and spend - building
+    new data capture, not only transforming what already
+    exists. This is core to the role, as evolving AI tools and
+    increased AI adoption constantly creates new signals that
+    need to be captured.
+  - Partner with data engineers on production ETL pipelines that
+    land that telemetry into governed tables, with the
+    freshness monitoring, backfills, and alerting that keep it
+    trustworthy, rather than a one-off script.
+  - Define new metrics out of ambiguous or evolving signals, and
+    earn stakeholder trust in a new number by validating and
+    reconciling it until it holds up.
+
+
+  Dashboards & analysis:
+
+  - Build and ship the executive-facing dashboards and
+    visualizations that turn governed metrics into decision-
+    ready reporting - with the polish and precision a room of
+    executives will scrutinize.
+  - Run the analysis that a new chart or metric needs and
+    anticipate questions that an executive audience will ask,
+    then bring senior stakeholders a recommendation, not just
+    a number, and defend the methodology behind both.
+  - Translate complex, technical findings into a clear
+    narrative: the headline chart and the one sentence that
+    makes an executive act on it.
+
+
+  Across both:
+
+  - Use AI coding agents as a default part of how you write,
+    test, and maintain data pipelines, dashboards, and
+    analyses.
+  - Partner across data engineering, applied AI, and data
+    science teams to keep telemetry connected end to end - the
+    raw signal you capture directly feeds the session
+    classifiers, not just the dashboards you build.
+  - Turn what the data shows into action: flag where AI spend
+    isn't paying off or where developer friction is most
+    costly, and push the tooling, process, or investment
+    changes that address it.
+
+
+   Qualifications  You have:
+
+  - 8+ years in analytics engineering, data engineering, or
+    business intelligence, with a track record of owning
+    production data pipelines and insights end to end, not
+    just writing ad hoc queries.
+  - Background in developer experience, engineering
+    productivity, measuring AI effectiveness, or platform
+    analytics.
+  - Strong SQL and Python, with hands-on experience building and
+    operating data pipelines against a cloud data warehouse
+    such as Snowflake.
+  - Experience partnering with engineering teams to define and
+    instrument new event or telemetry data, not only
+    transforming data that is already captured.
+  - Experience building dashboards or internal tools that non-
+    technical stakeholders rely on to make decisions, and the
+    judgment to know when something is decision-ready versus
+    still an analysis.
+  - Comfortable owning a dashboard's performance and data layer,
+    not just its charts - able to profile a slow query, rework
+    a caching or prequery layer, and ship the frontend changes
+    yourself in a framework like React; we'll help you ramp up
+    if this is new.
+  - Comfort with git, CI/CD systems, and debugging production
+    pipeline failures such as retries and backfills.
+  - Workflows built around AI coding agents as a primary tool
+    for writing and maintaining code.
+  - Strong written and verbal communication, with experience
+    presenting technical findings and methodology directly to
+    senior stakeholders.
+  - A track record of producing polished charts and materials
+    for executive audiences - comfortable sweating details
+    like labeling, framing, and precision
+  - Demonstrated ability to lead cross-team collaboration.
+
+
+  Even better:
+
+  - Experience with a metrics-governance or semantic-layer
+    system, such as a metrics store, dbt semantic layer, or
+    LookML.
+
+
+  Technologies we use and teach: SQL (Snowflake), Python,
+  TypeScript and React, Git, CI/CD pipelines, a governed
+  metrics store, AI coding agents, and LLM-based
+  classification tooling.  We're working to build a more
+  inclusive economy where our customers have equal access to
+  opportunity, and we strive to live by these same values in
+  building our workplace. Block is an equal opportunity
+  employer evaluating all employees and job applicants without
+  regard to identity or any legally protected class. We will
+  consider qualified applicants with arrest or conviction
+  records for employment in accordance with state and local
+  laws and "fair chance" ordinances. We believe in being fair,
+  and are committed to an inclusive interview experience,
+  including providing reasonable accommodations to disabled
+  applicants throughout the recruitment process. We encourage
+  applicants to share any needed accommodations with their
+  recruiter, who will treat these requests as confidentially
+  as possible. Want to learn more about what we're doing to
+  build a workplace that is fair and square? Check out our I+D
+  page . While there is no specific deadline to apply for this
+  role, U.S. roles are typically open for an average of 55
+  days before being filled by a successful candidate. Please
+  refer to the date listed at the top of this job page for
+  when this role was first posted. Block takes a market-based
+  approach to pay, and pay may vary depending on your
+  location. U.S. locations are categorized into one of four
+  zones based on a cost of labor index for that geographic
+  area. The successful candidate's starting pay will be
+  determined based on job-related skills, experience,
+  qualifications, work location, and market conditions. These
+  ranges may be modified in the future. To find a location's
+  zone designation, please refer to this resource . If a
+  location of interest is not listed, please speak with a
+  recruiter for additional information. Zone A: $163,600 -
+  $245,400 USD Zone B: $155,400 - $233,200 USD Zone C:
+  $146,900 - $220,300 USD Zone D: $139,000 - $208,600 USD
+  Application Guidelines Candidates may submit up to 9 active
+  applications within a 60-day period. Reapplications to the
+  same role are accepted 90 days after a previous application
+  has been reviewed. Use of AI in Our Hiring Process We may
+  use automated AI tools to evaluate job applications for
+  efficiency and consistency. These tools comply with local
+  regulations, including bias audits, and we handle all
+  personal data in accordance with state and local privacy
+  laws. Contact us here with hiring practice or data usage
+  questions. Every benefit we offer is designed with one goal:
+  empowering you to do the best work of your career while
+  building the life you want. Remote work, medical insurance,
+  flexible time off, retirement savings plans, and modern
+  family planning are just some of our offering. Check out our
+  other benefits at Block. Block, Inc. (NYSE: XYZ) builds
+  technology to increase access to the global economy. Each of
+  our brands unlocks different aspects of the economy for more
+  people. Square makes commerce and financial services
+  accessible to sellers. Cash App is the easy way to spend,
+  send, and store money. Afterpay is transforming the way
+  customers manage their spending over time. TIDAL is a music
+  platform that empowers artists to thrive as entrepreneurs.
+  Bitkey is a simple self-custody wallet built for bitcoin.
+  Proto is a suite of bitcoin mining products and services.
+  Together, we're helping build a financial system that is
+  open to everyone.
+industries:
+  - Blockchain
+  - eCommerce
+  - Fintech
+  - Payments
+  - Software
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-09-18
+url: "https://www.builtinla.com/job/senior-analytics-engineer-ai-dx-analytics/11243825"
+source: Built In

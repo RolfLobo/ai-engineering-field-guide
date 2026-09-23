@@ -1,0 +1,50 @@
+company:
+  name: SHI International Corp.
+  stage: null
+  focus: Global IT solutions and services provider
+position:
+  title: Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates AI capabilities into production software
+      using prompt orchestration, RAG, tool use, and agent-based
+      workflows — directly shaping LLM behavior — making it ai-
+      first despite the software engineer title.
+  responsibilities:
+  - Design and develop Python-based services, APIs, and AI-enabled applications
+  - Build applications that process and present data from enterprise systems, databases,
+    and external services
+  - Integrate AI capabilities using prompt orchestration, RAG, tool use, and agent-based
+    workflows
+  - Design application architectures balancing scalability, maintainability, security,
+    and performance
+  - Implement modern authentication and authorization across application and API layers
+  - Contribute across the full stack including React-based user interfaces and data
+    integration
+  - Work with technologies across Microsoft, Google, NVIDIA, and broader AI ecosystems
+  use_cases:
+  - AI-powered business applications
+  - Data processing and presentation from enterprise systems and databases
+  - Production AI software with RAG and agent-based workflows
+  - Cloud and on-premises AI services
+  skills:
+    genai: [RAG, Prompt Engineering, AI Agents, MCP, LLMs]
+    ml: [CUDA, NVIDIA NIMs]
+    web: [APIs, React, Microservices]
+    databases: [SQL, Relational Databases]
+    data: []
+    cloud: [Azure, GCP]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10851604'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:00.974305'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

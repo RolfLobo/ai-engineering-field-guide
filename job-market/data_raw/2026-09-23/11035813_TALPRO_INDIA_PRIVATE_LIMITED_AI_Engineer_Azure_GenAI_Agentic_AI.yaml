@@ -1,0 +1,150 @@
+job_id: 11035813
+title: AI Engineer – Azure GenAI / Agentic AI
+company: TALPRO INDIA PRIVATE LIMITED
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 76 Employees
+description: |
+  AI Engineer – Azure GenAI / Agentic AI Role Details
+
+  - Role: AI Engineer
+  - Minimum Relevant Experience: 7+ years
+  - Primary Skills: Python, C#, Azure OpenAI, Azure AI Foundry,
+    Azure AI Search, RAG, Agentic AI, REST / GraphQL APIs
+  - Cloud Platform: Azure
+  - Deployment: AKS, App Service, Azure Functions
+  - Location/ Mode/ Budget: Bengalru/ Hybrid/ Open (As per
+    Market Standards)
+  - Contract Duration: 12 months
+
+  Role Overview
+
+  We are looking for an experienced AI Engineer to design,
+  build, deploy, and support enterprise-grade AI solutions and
+  products. The role requires strong hands-on experience in
+  LLM-powered application development, Azure AI services, RAG
+  architectures, Agentic AI, APIs, cloud deployments, and
+  production support.
+
+  The candidate will work in an agile environment with cross-
+  functional teams and will be responsible for delivering
+  secure, scalable, maintainable, and production-ready AI
+  solutions aligned with enterprise quality standards.
+
+  Key Responsibilities
+
+  - Build full-stack LLM-powered AI applications using Azure
+    technologies.
+  - Implement prompt engineering, grounding, RAG patterns,
+    embeddings, and vector search.
+  - Develop APIs and microservices using Python, .NET / C#, or
+    Node.js.
+  - Integrate AI solutions with user interfaces and enterprise
+    systems.
+  - Develop Agentic AI solutions using Azure AI Foundry and
+    Copilot Studio.
+  - Implement CI/CD pipelines using GitHub Actions or Azure
+    DevOps.
+  - Deploy AI solutions on AKS, Azure App Service, and Azure
+    Functions.
+  - Build data and feature pipelines using Azure Data Factory,
+    Synapse, or Databricks.
+  - Manage prompt versioning, embeddings, model deployments, and
+    production monitoring.
+  - Conduct code reviews, audits, health checks, and quality
+    reviews.
+  - Ensure clean, secure, maintainable, production-level code is
+    delivered.
+  - Follow responsible AI, privacy, and enterprise data security
+    standards.
+
+  Must-Have Skills AI / GenAI
+
+  - Strong hands-on experience with:
+    - Azure OpenAI
+    - Azure AI Foundry
+    - Azure Cognitive Services
+    - Azure AI Search
+    - Azure ML
+    - NLP concepts
+    - Vector databases / vector indexes
+  - Experience building RAG-based applications.
+  - Experience with Agentic AI development using Azure AI stack.
+  - Strong understanding of prompt design, embeddings,
+    retrieval, grounding, and AI application patterns.
+
+  Engineering
+
+  - Strong coding experience in:
+    - Python
+    - C#
+  - Experience building REST / GraphQL APIs.
+  - Strong understanding of testing, code reviews, clean code,
+    and coding standards.
+  - Experience with GitHub, branching strategies,
+    linters/formatters, and PEP8.
+
+  DevOps / Cloud Deployment
+
+  - Experience with GitHub Actions and/or Azure DevOps
+    pipelines.
+  - Hands-on experience with:
+    - Docker
+    - AKS
+    - Azure App Service
+    - Azure Functions
+  - Knowledge of:
+    - Azure Key Vault
+    - Managed Identity
+    - RBAC
+    - Network security basics
+
+  Data / Pipelines
+
+  - Experience building data or feature pipelines using:
+    - Azure Data Factory
+    - Synapse
+    - Databricks
+  - Understanding of embeddings, prompt/version management, and
+    production model operations.
+
+  Nice to Have
+
+  - GitHub Copilot experience.
+  - Microsoft Copilot Studio / Power Platform experience.
+  - PromptFlow, MLflow, Databricks.
+  - Streamlit or React exposure.
+  - Practical MLOps / LLMOps experience.
+  - Azure certifications such as AI-102 or AZ-204.
+  - Experience with tool/function calling, retrieval caching,
+    and advanced RAG patterns.
+  - Prior experience in asset-heavy enterprise projects will be
+    an advantage.
+
+  Soft Skills
+
+  - Strong written and verbal communication.
+  - Ability to explain complex AI and cloud concepts in simple
+    terms.
+  - Experience working in small, empowered, cross-functional
+    virtual teams.
+  - Proactive ownership and strong problem-solving mindset.
+  - Good stakeholder management skills.
+  - Independent analytical thinker with the ability to challenge
+    assumptions and bring creative solutions.
+
+  Preferred Candidate Profile
+
+  The ideal candidate will be a hands-on Azure AI Engineer
+  with 7+ years of relevant experience, strong coding skills
+  in Python and C#, and proven experience building enterprise
+  GenAI applications using Azure OpenAI, Azure AI Foundry,
+  Azure AI Search, RAG, Agentic AI, APIs, CI/CD, Docker, and
+  AKS/App Service/Functions.
+industries:
+  - HR Tech
+  - Information Technology
+  - Professional Services
+posted_date: 2026-09-07
+url: "https://builtin.com/job/ai-engineer-azure-genai-agentic-ai/11035813"
+source: Built In

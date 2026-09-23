@@ -1,0 +1,248 @@
+job_id: 11186249
+title: VP – Distinguished Engineer of Generative AI Engineering
+company: Slate (slate.auto)
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  ABOUT SLATE
+
+  At Slate, we’re building safe, reliable vehicles that people
+  can afford, personalize and love—and doing it here in the
+  USA as part of our commitment to reindustrialization. The
+  spirit of DIY and customization runs throughout every
+  element of a Slate, because people should have control over
+  how their trucks look, feel, and represent them.
+
+  WHO ARE WE LOOKING FOR
+
+  As Distinguished Engineer of Generative AI, you are the
+  founding technical authority for AI at Slate. You will help
+  envision, design and ship the GenAI platform for Slate.Auto,
+  write code, and make architectural decisions that carry
+  long-term consequence.
+
+  The scope covers GenAI platforms, agentic systems, robot-to-
+  model feedback loops, and embedded AI across the factory
+  floor. You will partner with Vehicle Engineering,
+  Manufacturing, and Quality to deploy AI where it produces
+  measurable output.
+
+  The role reports directly to the Chief Digital and
+  Operations Officer and carries a seat on the senior
+  technology leadership team.
+
+  WHAT YOU WILL DO
+
+  - Design and own the end-to-end GenAI platform: context layer,
+    data layer, model serving, agent frameworks, and
+    evaluation pipelines. Architecture decisions here must
+    hold at enterprise scale, across multiple product lines,
+    manufacturing sites, and a growing engineering
+    organization. This means designing for reliability, cost
+    efficiency, and extensibility from day one, not
+    retrofitting those properties after the fact.
+  - Build Industry-Leading AI Systems. Design systems that
+    practitioners at frontier AI labs would recognize as
+    technically sound, applied to physical manufacturing:
+    novel approaches to context management, agentic
+    coordination across physical and digital systems, and
+    model personalization on proprietary manufacturing data.
+  - Drive Physical AI Across the Vehicle Program. Take AI beyond
+    the laptop. Slate's vehicles are built in the real world,
+    by real robots, on a factory floor that generates sensor
+    data, failure modes, and edge cases that no benchmark
+    captures. You will embed AI directly into manufacturing:
+    robotic process control, computer vision for quality
+    assurance, predictive maintenance systems, and closed-loop
+    feedback between physical production and model behavior.
+    The goal is to dramatically improve to design and build a
+    new vehicle.
+  - Build Slate's Proprietary Data and Context Layer. Construct
+    a knowledge base of agentic, human, robotic, and
+    enterprise decisions that compounds over time. Build the
+    unified Data Layer that trains purpose-built models on
+    real Slate decisions across the vehicle lifecycle. You are
+    responsible for the architecture of both.
+  - Ship Agentic Systems Across the Company. Deploy production-
+    grade AI agents across vehicle engineering, manufacturing,
+    supply chain, software development, and GTM. These are not
+    prototypes or proof-of-concepts: they are systems that run
+    workflows that previously required humans, at a quality
+    level that earns trust. You will establish evaluation
+    frameworks, guardrail standards, and observability
+    practices that make these systems auditable.
+  - Lead by Building. Recruit and grow a lean team of GenAI
+    engineers, MLOps engineers, and applied scientists. Stay
+    in the code: review PRs, make architecture calls, and ship
+    alongside the team. Your technical judgment sets the
+    quality bar.
+  - Set the Engineering Standard. Establish the technical
+    standards, practices, and hiring bar for the GenAI
+    organization. Contribute externally where appropriate:
+    open-source, publications, or conference talks.
+  - Hands-on. You have built GenAI systems from scratch in
+    production and you still write code. You can point to
+    specific systems you personally designed that are running
+    at scale today. You are not afraid to directly interact
+    with stakeholders to understand and develop requirements.
+  - An architect at scale. You have designed enterprise-level
+    platforms that serve thousands of internal users,
+    integrate with dozens of upstream and downstream systems,
+    and hold up under operational stress. You know what breaks
+    at scale before it breaks, because you have seen it break
+    before.
+  - A Physical AI practitioner (preferred). You have applied AI
+    to physical systems: robotics, manufacturing, IoT,
+    autonomous vehicles, or another domain where data is
+    messy, latency constraints are real, and failure modes
+    have physical consequences.
+  - GenAI native. Deep hands-on experience with LLMs, agent
+    frameworks, RAG, and fine-tuning. Strong opinions about
+    what works in production, grounded in having shipped it.
+  - Technically credible at the architecture level. You can
+    translate a product requirement into a concrete system
+    design with defensible tradeoffs, and operate effectively
+    at the frontier of what is currently buildable.
+  - Comfortable in a resource-constrained environment. You build
+    systems that perform above their weight, make pragmatic
+    calls under uncertainty, and move fast without
+    accumulating architectural debt that stalls the team
+    later.
+
+  WHAT YOU BRING
+
+  - 15+ years of engineering experience, including 5+ years
+    shipping production GenAI systems and 7+ years in a senior
+    technical leadership role. Candidates are expected to have
+    work that is recognized outside their own organization.
+  - BS required. MS or PhD in Computer Science, Machine
+    Learning, Robotics, Electrical Engineering, Mechanical
+    Engineering or a related field preferred. Exceptional
+    track record beats pedigree. Candidates without advanced
+    degrees who have published, built widely-adopted systems,
+    or otherwise demonstrated research-level thinking through
+    their work will be evaluated accordingly.
+  - Deep hands-on experience with LLM APIs (OpenAI, Anthropic,
+    Gemini) and open-source model deployment at production
+    scale.Vector databases, agent orchestration frameworks
+    (LangChain, LlamaIndex, or equivalent), and prompt
+    engineering for reliability, not just capability.
+  - Fine-tuning and training purpose-built models for domain-
+    specific tasks, including the tradeoff analysis between
+    hosted APIs, open-source models, and custom training
+    across cost, latency, and IP dimensions.
+  - Evaluation frameworks, guardrails, and observability
+    pipelines for GenAI in production: the ability to know
+    whether a system is working, not just whether it is
+    running.
+  - Experience designing and deploying multi-agent systems in
+    production, including coordination protocols, failure
+    isolation, and human-in-the-loop escalation paths.
+  - Candidates with this background will move faster in the
+    role; those without it should expect to develop it on the
+    job. Deploying AI systems that operate on physical
+    hardware: robots, CNC machines, quality inspection
+    systems, assembly line sensors, or equivalent industrial
+    environments.
+  - Computer vision systems for manufacturing quality assurance:
+    defect detection, dimensional inspection, or process
+    monitoring at production-line throughput.
+  - Closed-loop learning systems where model behavior is updated
+    based on physical world outcomes, including approaches to
+    safe online learning in environments where errors have
+    physical consequences.
+  - Robot-to-model feedback architectures: designing systems
+    where robotic process data improves model performance and
+    model outputs improve robotic process control.
+  - Familiarity with physical simulation environments (Isaac
+    Sim, MuJoCo, or similar) for model development and
+    validation before factory deployment.
+  - Sensor fusion and multimodal data handling for environments
+    with structured sensor data, unstructured imaging, and
+    natural language interfaces operating simultaneously.
+  - Designing real-time inference pipelines with hard latency
+    constraints and failure consequences, including edge
+    deployment architectures that operate under intermittent
+    connectivity.
+  - Data architecture for AI at scale: modern data stacks
+    (Snowflake, Databricks, dbt), vector stores, and streaming
+    data pipelines that handle both batch and real-time model
+    consumption. Cloud infrastructure across AWS, GCP, or
+    Azure at the architecture level, including cost modeling,
+    capacity planning, and the tradeoffs between managed AI
+    services and self-hosted infrastructure.
+  - Designing and owning AI platforms that serve enterprise-
+    scale internal usage: thousands of concurrent users,
+    dozens of integrated systems, and SLA requirements that
+    real operations depend on. Multi-tenant model serving
+    architectures with cost isolation, quota management, and
+    workload prioritization across competing internal
+    consumers. Cloud infrastructure across AWS, GCP, or Azure
+    at the architecture level, including cost modeling,
+    capacity planning, and the tradeoffs between managed AI
+    services and self-hosted infrastructure. Security and
+    compliance architecture for AI systems handling
+    proprietary manufacturing IP, including data residency,
+    access controls, and audit trails. Platform engineering
+    practices that make GenAI accessible and reliable for
+    internal teams who are not AI practitioners: SDKs,
+    abstraction layers, and self-service tooling.
+
+  SALARY RANGE
+
+  The compensation  for this position is the range Slate
+  reasonably and in good faith expects to pay for the position
+  taking into account the wide variety of factors that are
+  considered in making compensation decisions, including job-
+  related knowledge; skillset; experience, education and
+  training; certifications; work location; and other relevant
+  business and organizational factors.
+
+  Total Base Pay Range- $222,431.00 - $370,719.00
+
+  Additional Compensation and Benefits: Slate offers a wide
+  range of competitive benefits, including medical, dental,
+  vision, life insurance, disability insurance, vacation, and
+  401k. The successful candidate may also be eligible to
+  participate in the equity program and/or a discretionary
+  annual incentive program, subject to the rules governing
+  such programs.
+
+  WHY JOIN TEAM SLATE?
+
+  At Slate, we’re fueled by grit, determination, and attention
+  to detail. The start-up spirit of ingenuity and
+  resourcefulness move our business forward. Team Slate
+  fosters a culture of excellence, innovation, and mutual
+  respect, and is motivated by shared principles.
+
+  - Safety First
+  - Delight Customers
+  - One Team
+  - Relentless Improvement
+  - Fast, Frugal, and Scrappy
+  - Respectful Collaboration
+  - Positive Legacy
+
+  WE WANT TO WORK WITH PEOPLE THAT REFLECT THE COMMUNITIES IN
+  WHICH WE OPERATE.
+
+  Slate is proud to be an Equal Employment Opportunity and
+  Affirmative Action employer. We do not discriminate based
+  upon race, color, religion, gender, gender identity or
+  expression, sexual orientation, national origin, genetics,
+  disability, age, veteran status, marital status, parental
+  status, cultural background, organizational level, work
+  styles, tenure and life experiences. Or for any other
+  reason.
+
+  Slate is committed to providing reasonable accommodation for
+  qualified individuals with disabilities in our job
+  application procedures. If you need assistance or an
+  accommodation due to a disability, you may contact us at
+
+  slate-talent_acquisition@slate.auto.
+posted_date: 2026-09-15
+url: "https://www.builtinla.com/job/vp-distinguished-engineer-generative-ai-engineering/11186249"
+source: Built In

@@ -1,0 +1,43 @@
+company:
+  name: Clirnet
+  stage: null
+  focus: Knowledge platform for healthcare professionals
+position:
+  title: Senior Data Engineer (AI & API Development)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds APIs and pipelines that serve and integrate
+      models designed by others; there's no evidence of shaping
+      model behavior through prompts, retrieval, training, or
+      evals. Deploying and integrating ML models without shaping
+      them makes this ai-support.
+  responsibilities:
+  - Design, develop, and maintain Python-based APIs for AI/ML models and services
+  - Build and maintain data pipelines interfacing with the data warehouse
+  - Collaborate with AI researchers to implement and optimize machine learning models
+  - Build RESTful and GraphQL APIs using FastAPI, Flask, or Django REST Framework
+  - Integrate AI models with backend systems and frontend applications
+  - Conduct research into new AI/ML techniques and evaluate applicability to business
+    problems
+  - Participate in code reviews and mentor junior developers
+  use_cases: []
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, scikit-learn]
+    web: [FastAPI, Flask, Django, REST APIs, GraphQL]
+    databases: []
+    data: [Data Warehousing, Data Pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [Model Deployment, Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Agile, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151169'
+  location: Kolkata, IND
+  extracted_at: '2026-09-23T11:22:15.088763'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

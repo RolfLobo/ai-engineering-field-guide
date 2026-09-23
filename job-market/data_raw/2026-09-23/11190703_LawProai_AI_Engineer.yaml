@@ -1,0 +1,140 @@
+job_id: 11190703
+title: AI Engineer
+company: LawPro.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About LawPro.ai
+
+  LawPro.ai is a pioneering legal technology company
+  transforming the personal injury law sector with its AI-
+  powered platform. Our solution automates the tedious process
+  of medical record review, generating detailed treatment
+  chronologies, identifying red flags, and even accelerating
+  demand letter creation. With new features like Case
+  Assistant, we're helping firms increase case value while
+  reducing manual review time.
+
+  At the heart of LawPro.ai is a Large Language Model tailored
+  to the legal industry, designed to enhance efficiency,
+  improve case outcomes, and enable firms to scale. The
+  platform is fully HIPAA-compliant and made by practitioners
+  for practitioners. Backed by The LegalTech Fund and Scopus
+  Ventures, we're building at speed and scale. Join us at an
+  exciting stage of growth where your work will directly
+  impact how justice is delivered.
+
+  About the Role
+
+  We are looking for an experienced AI Engineer to own the
+  evaluation, selection, and continuous optimization of the
+  large language models and AI processes that power
+  LawPro.ai's data insights and analytics platform. You will
+  ensure our AI systems remain accurate, cost-effective, and
+  resilient as the LLM landscape evolves, proactively managing
+  transitions to new models and technologies. You will build
+  the solutions and processes needed to raise our bar for
+  cost, quality, and resilience.
+
+  This role blends AI research and production engineering:
+  staying ahead of a fast-moving model landscape, benchmarking
+  new LLMs, techniques, and frameworks against our use cases,
+  and owning both the recommendation and the implementation.
+  We value engineers who bring deep AI and engineering
+  intuition alongside a systematic, process-driven mindset,
+  people who can design evaluation frameworks, interpret model
+  behavior, and carry changes into production without relying
+  on others to finish the work.
+
+  You'll be a key contributor to a fast-moving team building
+  production-grade AI systems that materially impact how law
+  firms optimize outcomes for their clients.
+
+  What You'll Do
+
+  - Continuous LLM Evaluation: Design and operate a systematic
+    process to evaluate new and emerging LLMs across accuracy,
+    relevancy, speed, and cost, benchmarking continuously
+    against tasks in our orchestration pipeline.
+  - Eval Framework Development: Build and maintain evaluation
+    frameworks and pioneer our internal EvalOps culture,
+    measuring output accuracy, relevance, and faithfulness,
+    with a focus on reducing hallucinations in medical record
+    summarization and legal document analysis.
+  - Model Transition Ownership: Monitor the LLM landscape for
+    deprecation timelines and replacement models, then own
+    execution end to end, integrating new models into
+    production, adjusting for model behavior, and
+    decommissioning stale or underperforming prompts and
+    endpoints.
+  - AI Pipeline Optimization: Implement optimizations to LLM-
+    based orchestration pipelines for document understanding,
+    medical record summarization, case chronology generation,
+    and drafting support, owning code changes, deployments,
+    and validation with a bias toward surgical execution over
+    wholesale refactors.
+  - Cross-Functional Collaboration: Communicate model evaluation
+    findings to product and GTM stakeholders and lead the
+    technical implementation yourself, ensuring clean handoffs
+    from discovery through staging to production.
+  - Operational Monitoring: Implement monitoring and
+    observability for model performance, benchmarking output
+    and cost, detecting drift, and reporting to management on
+    an ongoing basis.
+  - Documentation: Maintain documentation of evaluation
+    methodologies, model comparisons, transition decisions,
+    and runbooks for systems you own.
+
+  Who You Are
+
+  - 5+ years of AI/ML engineering experience evaluating, fine-
+    tuning, and deploying LLMs in production environments,
+    including cloud infrastructure (AWS or GCP) at scale and
+    writing production-deployed LLM orchestration frameworks
+    and multi-model pipelines.
+  - Hands-on development of multiple RAG solutions.
+  - Hands-on experience with embedding models and vector
+    databases.
+  - Hands-on experience building agentic workflows and
+    implementing EvalOps or Evals-as-a-Service architecture.
+  - Deep familiarity with the LLM ecosystem, able to critically
+    assess model capabilities, limitations, and fit, including
+    heuristic-gated model routing and cost, quality, speed,
+    and capability tradeoffs.
+  - Proven experience designing evaluation frameworks for LLM
+    output quality in high-stakes domains (legal, medical, or
+    similar), including hallucination detection.
+  - Comfort in a fast-paced, high-ambiguity environment, with
+    strong ownership and a bias for systematic process-
+    building over one-off fixes.
+  - Excellent communication skills; able to translate complex
+    model evaluation findings into clear recommendations for
+    technical and non-technical stakeholders.
+  - Bonus: experience with unstructured medical or legal
+    document processing, or a background in classical ML
+    (statistics, embeddings, RAG).
+
+  What We Offer & Perks
+
+  - Competitive compensation, $150,000 - $170,000 base salary
+  - Equity stakes with opportunity to share in the company
+    upside
+  - 100% remote within the US, with flexible arrangements
+  - Unlimited paid time off
+  - Comprehensive health, dental, and vision benefits
+  - Strong growth potential and advancement opportunities as
+    LawPro.ai scales
+
+  LawPro.ai is an Equal Opportunity Employer. We hire based on
+  merit and qualifications alone, without regard to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, age, disability, veteran status, or any
+  other characteristic protected by applicable law.
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Software
+posted_date: 2026-09-15
+url: "https://www.builtinla.com/job/ai-engineer/11190703"
+source: Built In

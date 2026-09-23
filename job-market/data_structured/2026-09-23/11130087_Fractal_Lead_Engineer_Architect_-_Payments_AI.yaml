@@ -1,0 +1,58 @@
+company:
+  name: Fractal
+  stage: null
+  focus: AI consulting and analytics solutions
+position:
+  title: Lead Engineer / Architect - Payments & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, tool/function calling,
+      guardrails, and agent workflows that execute payment
+      transactions — directly shaping LLM agent behavior. Lead/IC
+      architect role, not management.
+  responsibilities:
+  - Design and build AI agents that initiate, process, and complete end-to-end payment
+    transactions
+  - Translate payment requirements into agent workflows, business rules, APIs, and
+    integrations
+  - Define architecture for agent orchestration, transaction state management, tool
+    invocation, exception handling, retries, and recovery
+  - Integrate agents with payment platforms, gateways, and transaction processing
+    systems
+  - Define boundaries between AI-driven decisioning and deterministic payment logic
+  - Implement security, auditability, observability, and guardrails around agent-driven
+    payment actions
+  - Lead end-to-end testing and demonstrate successful transactions per market
+  - Provide hands-on technical leadership, design/code reviews, and mentorship
+  use_cases:
+  - End-to-end payment transaction execution via AI agents
+  - Cross-market payment processing with market-specific variations
+  - Agent orchestration with transaction state management, retries, and recovery
+  - Payment gateway and enterprise system integration
+  - Guardrails and human-in-the-loop controls for agent-driven payment actions
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, Agentic Workflows, LangGraph, LangChain,
+      CrewAI, Function Calling, Structured Outputs, Guardrails, LLM Evaluation]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: []
+    data: [Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [Distributed Systems, Observability]
+    languages: [Python]
+    domains: []
+    other: [Payments, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11130087'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Mumbai, IND
+  - Gurugram, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:21:13.173508'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

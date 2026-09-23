@@ -1,0 +1,303 @@
+job_id: 9966739
+title: AI Engineer, Customer Success
+company: Samsara
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Who we are
+
+  Samsara (NYSE: IOT) is the pioneer of the Connected
+  Operations™ Cloud, which is a platform that enables
+  organizations that depend on physical operations to harness
+  Internet of Things (IoT) data to develop actionable insights
+  and improve their operations. At Samsara, we are helping
+  improve the safety, efficiency and sustainability of the
+  physical operations that power our global economy.
+  Representing more than 40% of global GDP, these industries
+  are the infrastructure of our planet, including agriculture,
+  construction, field services, transportation, and
+  manufacturing — and we are excited to help digitally
+  transform their operations at scale.
+
+  Working at Samsara means you’ll help define the future of
+  physical operations and be on a team that’s shaping an
+  exciting array of product solutions, including Video-Based
+  Safety, Vehicle Telematics, Apps and Driver Workflows, and
+  Equipment Monitoring. As part of a recently public company,
+  you’ll have the autonomy and support to make an impact as we
+  build for the long term.
+
+  About the role:
+
+  Samsara's Commercial Customer Success team supports hundreds
+  of customers who depend on our platform every day to manage
+  their fleets, equipment, and operations. These customers
+  don't just need software — they need a partner who helps
+  them get to value fast, identifies and mitigates risk, and
+  keeps finding new ways to put Samsara to work for their
+  business.
+
+  We're building the AI infrastructure to make that possible
+  at scale. And we need an applied AI specialist to build it —
+  and own it.
+
+  As an embedded AI Engineer in Customer Success, you'll
+  design, build, test, deploy, and continuously maintain
+  agentic solutions that power this next chapter. You'll own
+  the full lifecycle: from the first prompt through
+  production, from launch through every iteration as our
+  Customer Success playbooks evolve, and as our product ships
+  new features and real-world performance data surfaces what
+  needs to change next. The agents you build will only be as
+  good as the care you put into keeping them relevant and
+  reliable over time.
+
+  This is a remote position open to candidates residing in the
+  US except the San Francisco Bay Metro Area, NYC Metro Area,
+  and Washington, D.C. Metro Area.
+
+
+
+  You should apply if:
+
+  - You want to impact the industries that run our world: Every
+    phone call you answer and every email you send can affect
+    whether truck drivers deliver goods on time and without
+    accidents, whether students get dropped off safely from
+    school, or whether power gets restored quickly after a
+    natural disaster.
+  - You thrive the most when solving problems: Our constantly
+    expanding technology and the complexities faced by our
+    customers provide an exciting range of challenges for our
+    Customer Success teams. With a growth mindset and a desire
+    to learn, you will strategically partner with our
+    customers to find unique solutions to help keep their
+    operations safe, efficient, and sustainable.
+  - You are a natural relationship builder: Whether the
+    relationship is with our customers or with cross-
+    functional teams in Samsara, you are in constant
+    communication and collaboration with key stakeholders to
+    win as a team.
+  - You are the architect of your own career: If you put in the
+    work, this role won’t be your last at Samsara. This
+    Customer Success team is still shaping its future and you
+    will have plenty of autonomy and opportunities to master
+    your craft in a hyper growth environment.
+  - You want to be with the best: At Samsara, we win together,
+    celebrate together and support each other. You will be
+    surrounded by the best and brightest professionals out
+    there.
+
+  Your core responsibility is the full lifecycle of Samsara's
+  customer-facing AI agents In this role, you will:
+
+  - Build: Design agent architectures, write prompts, integrate
+    with external systems (Salesforce, Samsara platform,
+    Customer Success tools), and write clean Python code that
+    the team can maintain.
+  - Test: Define success criteria and evaluation frameworks
+    before you write the first line of code. Build automated
+    test suites that cover real-world scenarios, edge cases,
+    and known failure modes.
+  - Deploy: Own the deployment, versioning, and rollback plan
+    for every agent. Ensure agents are production-ready before
+    they reach CSMs or customers.
+  - Monitor: Track agent performance in production — monitor
+    accuracy, latency, failure rates, and customer outcomes.
+    Detect drift before anyone has to tell you something's
+    wrong.
+  - Maintain & Iterate: Update agents continuously as Samsara's
+    product evolves, Customer Success playbooks change, and
+    real-world data indicates what needs improvement.
+  - Champion, role model, and embed Samsara’s cultural
+    principles (Focus on Customer Success, Build for the Long
+    Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team)
+    as we scale globally and across new offices
+
+  WHAT YOU'LL ACCOMPLISH In your first 30 days
+
+  - Embed with the Commercial Customer Success team to
+    understand what Customer Success Managers actually do —
+    their workflows, their friction points, and the customer
+    moments that move the needle
+  - Get fluent in Samsara's platform, data model, and existing
+    Customer Success tooling stack
+  - Define success metrics and an evaluation framework for the
+    first agent on the roadmap — before you write a single
+    line of code
+
+  In your first 90 days
+
+  - Ship the first production agentic solution that meaningfully
+    improves customer outcomes that lead to revenue retention
+    and/or growth
+  - Build the monitoring and iteration loop from day one — so
+    you have a clear signal on what's working, what's
+    drifting, and what needs to change
+  - Spec the second agentic solution to detect and mitigate risk
+    within accounts and start building, applying lessons from
+    the first
+  - Provide an estimated start date for the value gap detection
+    and product consultation — identifies underutilization and
+    leads product consultations via text or call.
+
+  By the end of your first year
+
+  - Own a portfolio of three or more production agentic
+    solutions running reliably in the Commercial Customer
+    Success motion — and a clear maintenance cadence that
+    keeps them current as the product and playbooks evolve
+  - Demonstrate the impact of agentic solutions on reduced
+    customer time to value, reduced time spent detecting and
+    resolving risks, and increased retention
+  - Have a track record of improving solutions after launch:
+    performance improvements measured in real customer
+    outcomes, not just benchmark scores
+  - Be the go-to expert at Samsara for customer-facing agentic
+    AI development — advising Customer Success leadership on
+    what to build next, what to retire, and how to evaluate
+    ideas before committing to them
+  - Help define what great looks like for ing at Samsara,
+    setting a standard others can build on towards using AI to
+    expand the pipeline
+
+  Minimum requirements for the role:
+
+  - Hands-on experience building and maintaining production LLM-
+    based agents or automations
+  - Python proficiency and a track record of connecting AI to
+    external systems: CRMs, APIs, customer data, and
+    operational tools
+  - The discipline to define what success looks like before you
+    start building — and an eval framework that catches
+    problems before your users do
+  - A genuine curiosity about Customer Success workflows and
+    customer problems, not just the technical challenge
+  - Intellectual honesty about what AI can and can't do well —
+    and the judgment to design guardrails and fallback paths
+    accordingly
+  - 3+ years of software engineering or technical experience,
+    with at least 1 year working hands-on with LLMs or AI
+    agents in a production environment
+  - Experience in a B2B SaaS environment
+
+  An ideal candidate also has:
+
+  - Direct experience with Anthropic Claude or similar LLM APIs
+  - A background working with or alongside a Customer Success or
+    Revenue Operations team
+  - Experience building regression test suites or eval
+    frameworks for non-deterministic AI systems
+  - Familiarity with Salesforce, Gainsight, or similar CRM and
+    Customer Success platforms
+
+  WHY THIS ROLE, WHY NOW
+
+  - You'll be first: This function doesn't exist yet. You'll
+    define the role, the standard, and the playbook for ing in
+    Customer Success
+  - The problem is real: A Customer Success Manager managing
+    350+ accounts can't do everything manually. AI agents
+    aren't a nice-to-have — they're what makes this motion
+    sustainable at Samsara's scale.
+  - The timing is right: The models have caught up to the use
+    cases. Samsara has the customer data, the platform
+    context, and the Customer Success team to make these
+    agents genuinely powerful.
+
+  The range of annual base salary for full-time employees for
+  this position is below. Please note that base pay offered
+  may vary depending on factors including your city of
+  residence, job-related knowledge, skills, and experience.
+  Learn more about our total rewards and benefits below.
+
+  Annual Base Salary
+
+  $105,910—$160,200 USD
+
+  Total Rewards
+
+  At Samsara, we build for the people who keep the global
+  economy moving. We want owners, not passengers, which is why
+  our rewards are designed to fuel high-impact builders. Our
+  compensation program delivers above-market total
+  compensation through a combination of base salary,
+  performance-based bonus/variable pay, and equity (for
+  eligible roles) in a high-growth public company. We
+  meaningfully differentiate pay for our top performers, who
+  have the opportunity to earn above-market compensation that
+  can outpace the broader market over time.
+
+  Beyond compensation, we provide the foundations that enable
+  long-term success: a flexible, employee-led remote model, a
+  professional development stipend, comprehensive health and
+  parental leave plans, and more. If you’re ready to build for
+  the long term and own the outcome, your journey starts here.
+
+  Flexible Working
+
+  At Samsara, we embrace a flexible working model that caters
+  to the diverse needs of our teams. Our offices are open for
+  those who prefer to work in-person and we also support
+  remote work where it aligns with our operational
+  requirements. For certain positions, being close to one of
+  our offices or within a specific geographic area is
+  important to facilitate collaboration, access to resources,
+  or alignment with our service regions. In these cases, the
+  job description will clearly indicate any working location
+  requirements. Our goal is to ensure that all members of our
+  team can contribute effectively, whether they are working
+  on-site, in a hybrid model, or fully remotely. All offers of
+  employment are contingent upon an individual’s ability to
+  secure and maintain the legal right to work at the company
+  and in the specified work location, if applicable.
+
+  Belonging at Samsara
+
+  At Samsara, we welcome everyone regardless of their
+  background. All qualified applicants will receive
+  consideration for employment without regard to race, color,
+  religion, national origin, sex, gender, gender identity,
+  sexual orientation, protected veteran status, disability,
+  age, and other characteristics protected by law. We depend
+  on the unique approaches of our team members to help us
+  solve complex problems and want to ensure that Samsara is a
+  place where people from all backgrounds can make an impact.
+
+  Accommodations
+
+  Samsara is an inclusive work environment, and we are
+  committed to ensuring equal opportunity in employment for
+  qualified persons with disabilities. Please email
+  accessibleinterviewing@samsara.com or click here if you
+  require any reasonable accommodations throughout the
+  recruiting process.
+
+  Our Commitment to Authenticity
+
+  We use Tofu, a fraud detection tool, to validate the
+  authenticity of applications and protect against identity
+  fraud. This ensures we are connecting with real people and
+  allows us to prioritize genuine candidates. Please see
+  Samsara’s Candidate Privacy Notice for more information.
+
+  Fraudulent Employment Offers
+
+  Samsara is aware of scams involving fake job interviews and
+  offers. Please know we do not charge fees to applicants at
+  any stage of the hiring process. Official communication
+  about your application will only come from emails ending in
+  @samsara.com, @us-greenhouse-mail.io or @mail3.guide.co. For
+  more information regarding fraudulent employment offers,
+  please visit our blog post here.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Computer Vision
+  - Hardware
+  - Internet of Things
+  - Software
+posted_date: 2026-08-22
+url: "https://www.builtinla.com/job/applied-ai-specialist-commercial-customer-success/9966739"
+source: Built In

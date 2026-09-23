@@ -1,0 +1,54 @@
+company:
+  name: Perficient
+  stage: null
+  focus: Digital and AI technology consulting for enterprises
+position:
+  title: Sr. Full Stack Engineer - NextJS, AWS, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer builds LLM-powered experiences, chat
+      interfaces, and RAG solutions with LangChain/LangGraph and
+      vector databases, directly shaping model behavior and
+      retrieval design for generative AI applications. This makes
+      it ai-first.
+  responsibilities:
+  - Design, develop, and maintain full-stack applications using Next.js, TypeScript,
+    .NET, and Python
+  - Build and integrate AI-enabled capabilities including Generative AI, LLM-powered
+    experiences, intelligent assistants, chat interfaces, and workflow automation
+  - Design and implement backend services, APIs, integrations, and microservices
+  - Architect and deploy cloud-native solutions using AWS and Kubernetes
+  - Build RAG solutions with vector databases and semantic search
+  - Collaborate with architects, product owners, and client stakeholders to translate
+    business requirements into technical solutions
+  - Troubleshoot production issues and establish monitoring and observability best
+    practices
+  - Perform code reviews and mentor junior engineers
+  use_cases:
+  - LLM-powered chat interfaces and intelligent assistants
+  - Workflow automation with generative AI
+  - RAG-based enterprise search and knowledge retrieval
+  - AI-powered full-stack business applications
+  - Enterprise application integration with AI platforms
+  skills:
+    genai: [Generative AI, LLMs, RAG, OpenAI API, Azure OpenAI, Anthropic API, LangChain,
+      LangGraph, Semantic Search]
+    ml: []
+    web: [Next.js, React, REST APIs, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: [Kubernetes, Distributed Systems, CI/CD, DevOps]
+    languages: [TypeScript, .NET, C#, Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11215265'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:27:17.288135'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

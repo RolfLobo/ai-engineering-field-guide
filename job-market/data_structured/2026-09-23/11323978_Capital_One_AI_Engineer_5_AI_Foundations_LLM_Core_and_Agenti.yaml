@@ -1,0 +1,58 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML
+position:
+  title: AI Engineer 5 (AI Foundations, LLM Core and Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agents, multi-agent workflows, guardrails,
+      model evaluation, and LLM inference optimization — all
+      directly shaping LLM behavior and output quality, so it is
+      ai-first. LLMs and agentic components are central.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, test, deploy, and support AI components including foundation
+    model training, LLM inference, agents, multi-agent workflows, guardrails, and
+    model evaluation
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Design and optimize multi-model orchestration pipelines integrating LLMs, vector
+    search, and domain-specific models
+  - Establish cost-performance governance reviews tracking GPU utilization, model
+    throughput, and inference cost efficiency
+  - Lead design councils and design review boards for AI engineering standards
+  - Mentor Principal and Manager-level AI engineers
+  use_cases:
+  - Real-time personalized customer banking experiences
+  - Fraud detection by informing customers about unusual charges
+  - AI-powered assistants answering customer questions in real time
+  - Agentic AI systems enhancing associate workflows
+  - Platform capabilities empowering internal teams to add AI to their products
+  skills:
+    databases: [Vector Databases]
+    domains: []
+    data: []
+    web: []
+    ml: [Foundation Model Training, PyTorch, Hugging Face, Fine-Tuning, Similarity
+        Search, Model Evaluation]
+    ops: [Model Deployment]
+    other: [Responsible AI]
+    cloud: [AWS, GCP, Azure]
+    languages: [Python, Go, Scala, CUDA, Java, C++, C#]
+    genai: [LLMs, Agentic Workflows, Guardrails, LLM Evaluation, RAG]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11323978'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-09-23T11:38:19.544467'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Almetra
+  stage: null
+  focus: AI-powered computer vision for manufacturing operations
+position:
+  title: Manufacturing Solution Engineer (AI Startup)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role translates factory workflows into use cases and
+      supports deployments of an AI computer vision product; it
+      never shapes model behaviour, prompts, retrieval, or
+      training. It is a pre-sales/operations solution role at an
+      AI company, judged on the role not the employer, so ai-
+      support.
+  responsibilities:
+  - Partner with Sales to win deals by bringing credibility in operations, CI, and
+    Lean
+  - Lead discovery sessions to understand customer processes, bottlenecks, and improvement
+    opportunities
+  - Translate factory workflows into clear use cases and value stories for prospects
+  - Support pilots and deployments with the Improvement team to demonstrate measurable
+    ROI
+  - Build playbooks for value quantification, before-after analysis, and operational
+    storytelling
+  - Work with customer stakeholders across ops, quality, engineering, production,
+    CI, and plant management
+  - Help expand existing customers by identifying new use cases and improvement pathways
+  - Feed field insights back into Product to shape the roadmap
+  use_cases:
+  - AI-powered computer vision for production line visibility in factories
+  - Identifying process bottlenecks and improvement opportunities on the shop floor
+  - Improving manufacturing efficiency, safety, and quality
+  - Measuring operational ROI through before-after analysis of deployments
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [Computer Vision]
+    other: [Continuous Improvement, Lean, Operational Excellence, Digital Transformation,
+      Industrial Engineering, Time Studies, MTM, Value Stream Mapping, OEE Programs,
+      Kaizen Events, German]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11248700'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:31:03.272970'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: PhoenixTeam
+  stage: null
+  focus: AI consulting services for mortgage industry
+position:
+  title: AI Value Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly: building prompts,
+      running prompt engineering labs, prototyping LLM-based
+      solutions, and packaging prompt libraries for client GenAI
+      workflows. LLM/GenAI is central, so ai-first.
+  responsibilities:
+  - Lead client engagements to scope, prototype, and deliver GenAI-powered workflows
+  - Translate business and operational pain points into LLM-based solutions
+  - Run discovery sessions, use case sprints, and prompt engineering labs with stakeholders
+  - Stand up fast-cycle experiments and proofs of concept using LLM tools
+  - Package successful experiments into reusable prompt libraries, workflows, and
+    playbooks
+  - Facilitate live GenAI learning experiences and build enablement materials
+  - Act as trusted advisor to teams navigating AI adoption and workflow redesign
+  - Launch and operate GenAI Labs to drive adoption
+  use_cases:
+  - GenAI-powered workflows in the mortgage industry
+  - LLM-based solutions for business and operational pain points in regulated environments
+  - Prompt libraries and reusable GenAI solution playbooks
+  - GenAI learning labs and enablement for enterprise AI adoption
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: []
+    ops: []
+    other: [Notion, Airtable, Zapier]
+    cloud: []
+    languages: []
+    genai: [Prompt Engineering, Generative AI, LLMs, ChatGPT, Anthropic API, Gemini,
+      LangChain]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11215492'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:27:21.799996'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

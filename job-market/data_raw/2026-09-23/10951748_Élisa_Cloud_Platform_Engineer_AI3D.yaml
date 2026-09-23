@@ -1,0 +1,64 @@
+job_id: 10951748
+title: Cloud Platform Engineer — AI/3D
+company: Élisa
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Location: Hybrid or remote (within ±3 hours of Montreal
+  timezone) Type: Full-time Start Date: September 2025
+
+  About Élisa
+
+  Élisa is the first AI assistant that instantly assembles
+  fully editable 3D scenes through natural conversation. It
+  transforms any asset library into a real-time scene builder
+  for games, advertising, and film—already live in Unreal and
+  Unity and ready to plug into any 3D platform. Élisa lets
+  designers, directors, and creatives spin up virtual worlds
+  in seconds.
+
+  See it live at https://elisainteractive.com/youtube and
+  learn more at https://elisainteractive.com.
+
+  What You’ll Do
+
+  Design, harden, and scale our GCP cloud platform—supporting
+  event-driven services, AI models, and automated releases.
+  You’ll own monitoring, alerting, and incident response,
+  working directly with our co-founders. We value efficiency
+  over long hours.
+
+  Responsibilities
+
+  - Build and secure cloud environments (network rules, access
+    controls, encryption)
+  - Maintain infrastructure-as-code for repeatable, automated
+    deployments
+  - Prepare for and remediate external penetration tests and
+    vulnerability scans
+  - Create dashboards, lead on-call, and drive post-incident
+    improvements
+
+  Qualifications
+
+  - Hands-on experience running production workloads in a major
+    public cloud
+  - Fluency with infrastructure-as-code and CI/CD automation
+  - Track record addressing security assessments and closing
+    vulnerabilities fast
+  - Strong grasp of observability, incident management, and
+    performance tuning
+
+  Nice-to-Haves
+
+  - Background in real-time 3D or AI-driven products
+  - Security certifications or experience with compliance audits
+industries:
+  - Artificial Intelligence
+  - Gaming
+  - Software
+  - Design
+posted_date: 2026-09-01
+url: "https://www.builtinla.com/job/cloud-platform-engineer-ai-3d/10951748"
+source: Built In

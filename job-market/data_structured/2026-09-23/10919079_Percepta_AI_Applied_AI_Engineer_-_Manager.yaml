@@ -1,0 +1,52 @@
+company:
+  name: Percepta AI
+  stage: null
+  focus: Applied AI transformation for critical industries
+position:
+  title: Applied AI Engineer - Manager
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role leads engineers shipping production AI systems with
+      LLMs as the core engineering surface (agents, tools,
+      context, evals) via the Mosaic agentic toolkit, and the
+      manager makes the architecture and design calls shaping
+      those agentic systems. Shaping LLM behavior through agent
+      design, evals, and tooling makes this ai-first.
+  responsibilities:
+  - Manage and grow a small team of Applied AI Engineers embedded on customer engagements
+  - Own the technical outcome of every workstream on the team and make hard, expensive-to-reverse
+    technical decisions
+  - 'Stay hands-on in the codebase: reviewing designs, pairing on hard problems, and
+    shipping code during rollouts'
+  - Set team standards for code quality, testing, review rigor, and documentation
+  - Own the technical relationship with customers, building trust through delivery
+  - Feed field patterns back into the Mosaic agentic toolkit to improve future deployments
+  - Hire engineers, calibrate interview loops, and shape team growth
+  - Partner with Engagement and Growth Leads on customer strategy and engineer development
+  use_cases:
+  - Production AI systems deployed inside enterprise customer environments
+  - Agentic workflows for critical industries like healthcare, manufacturing, and
+    energy
+  - Enterprise integrations with EHRs, ERPs, RCM, supply chain, and workforce systems
+  - Forward-deployed AI transformation for industry-leading customers
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, LLM Evaluation,
+      Context Engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '10919079'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:06:52.026715'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

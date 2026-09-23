@@ -1,0 +1,85 @@
+job_id: 10853758
+title: Founding AI Engineer/CTO - MyRico
+company: Meraki Labs
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  About us
+
+  MyRico builds personal AI agents for enterprise, the
+  copilots and digital employees that make humans more
+  productive. The MyRico agents sit at the intersection of
+  enterprise memory, high-end security, and an ever-expanding
+  set of capabilities. We're a small team shipping fast, and
+  the product is live with real customers today.
+
+  The role
+
+  You'll own the systems that make an autonomous agent
+  trustworthy in production. This is not just prompt
+  engineering, and it's not model training - it's that and all
+  the engineering layers in between: model steering, memory
+  architecture, orchestration design, latency optimization,
+  deterministic vs non-deterministic systems tradeoff,
+  deployment, and operator tooling.
+
+  Concretely, the kind of work you'd have done here last week
+  would include enhancing agent memory systems, runtime and
+  scheduling reliability and predictability, adding new
+  capability and tools to deployed agents, operator tools,
+  live system debugging and benchmarking various models for
+  price, latency and quality. And that is just last week. We
+  are a small nimble startup rapidly working to address
+  customer needs in this growing space, so things change
+  rapidly.
+
+  What we're looking for
+
+  - 8+ years of software engineering, with real production
+    ownership of distributed or stateful systems - you've been
+    paged for something you built and made it not happen
+    again.
+  - Strong understanding of LLM based native app building,
+    combining classic and model driven applications to get the
+    best of both. You've built on LLMs beyond demos: agent
+    frameworks, tool use, context management, eval fixtures,
+    and you know why "it worked in the transcript" isn't
+    evidence.
+  - Python and shell in production settings; comfortable in
+    TypeScript/Node. You write boring, testable code and
+    prefer the standard library to a new dependency.
+  - Systems taste: append-only logs, idempotent reconciliation,
+    fold-the-events state machines, and read-only debugging
+    surfaces feel like home.
+  - Evidence discipline: tests before features, claims backed by
+    quoted observations, decisions written down.
+
+  Nice to have
+
+  - Experience running the combination of multi-tenant and
+    single-tenant / on-prem-style fleets with ability to
+    handle per-customer isolation, upgrade paths, migration
+    compatibility in both setups.
+  - Security instincts for products that touch highly sensitive
+    data and systems, including things like executives' email,
+    calendars, and messages: least privilege, loopback-only
+    services, secrets that never hit a log.
+  - You already orchestrate AI coding agents in your own
+    workflow and have opinions about where they break.
+
+  How we work
+
+  Small team, high trust, written decisions. Designs get
+  adversarial review before code; PRs get automated review
+  driven to zero open findings; features aren't done until
+  verified on a live system. AI agents do a large share of the
+  implementation, your leverage is judgment: framing the
+  problem, freezing the right design, and knowing when the
+  machine is wrong.
+industries:
+  - Angel or VC Firm
+  - Co-Working Space or Incubator
+posted_date: 2026-08-26
+url: "https://builtin.com/job/founding-engineer-myrico/10853758"
+source: Built In

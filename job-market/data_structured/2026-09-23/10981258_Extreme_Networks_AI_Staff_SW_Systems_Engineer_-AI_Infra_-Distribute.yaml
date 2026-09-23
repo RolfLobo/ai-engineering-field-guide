@@ -1,0 +1,55 @@
+company:
+  name: Extreme Networks
+  stage: null
+  focus: Cloud-driven enterprise networking solutions
+position:
+  title: AI Staff SW Systems Engineer -AI Infra -Distributed Systems,Microservice,
+    AI Infrastructure,Agentic systems-10355
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly includes designing and building agentic
+      AI solutions with tool use, planning, memory, retrieval,
+      orchestration, and evaluation, which is shaping LLM/agent
+      behavior. It also spans distributed systems and
+      microservices, but agent design is core to the
+      responsibilities.
+  responsibilities:
+  - Define and drive technical vision across intelligent networking, distributed systems,
+    real-time data processing, agentic AI, and machine learning
+  - Lead end-to-end software development lifecycle including architecture, design,
+    implementation, testing, deployment, and operations
+  - Design and build high-performance production services for real-time data and AI
+    platforms, including data pipelines, distributed microservices, and agentic solutions
+  - Integrate AI platforms with networking systems for intelligent experiences
+  - Mentor engineers and establish technical direction for the team
+  - Build resilient, secure, observable, and scalable systems
+  use_cases:
+  - Intelligent network management and automation
+  - AI agents that reason, plan, remember, and act on behalf of network users
+  - Real-time processing of high-volume network telemetry data
+  - Automated insights and actions for enterprise wired and wireless networks
+  skills:
+    genai: [Agentic Workflows, Generative AI, Function Calling]
+    ml: []
+    web: [Microservices]
+    databases: []
+    data: [Kafka, Spark, Flink, PySpark, MapReduce]
+    cloud: [AWS, Azure, GCP]
+    ops: [Observability]
+    languages: [Python, Java, Go, C++]
+    domains: []
+    other: [Distributed Systems, Network Telemetry]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10981258'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:10:28.127354'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

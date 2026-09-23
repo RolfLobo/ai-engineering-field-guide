@@ -1,0 +1,137 @@
+job_id: 11147210
+title: "AI Research Engineer, Computer Vision & VLMs"
+company: Palona AI
+location: Toronto, CAN
+locations:
+  - Toronto, CAN
+  - New York, USA
+  - Los Altos, USA
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  Palona is building AI for the physical world, starting with
+  restaurants. Understanding a busy restaurant means making
+  sense of people, objects, activities, and events as they
+  change over time, despite occlusion, changing lighting,
+  varied camera views, and incomplete information.
+
+  We are looking for an AI Research Engineer with a strong
+  research background in computer vision and vision-language
+  models (VLMs) to develop the visual intelligence behind
+  Palona’s products. You will work on image and video
+  understanding, spatiotemporal reasoning, and multimodal
+  models that connect visual observations to useful insights
+  and actions in real restaurant environments.
+
+  This role combines research depth with ownership of working
+  systems. You will formulate research questions, build
+  datasets, train and evaluate models, and partner with
+  product and engineering to bring successful approaches into
+  production. Researchers and engineers from autonomous
+  driving, robotics, embodied AI, and related perception
+  fields are especially encouraged to apply.
+
+  What you’ll own
+
+  - Develop computer vision and VLM approaches for scene
+    understanding, object detection and tracking, activity
+    recognition, and understanding events across video.
+  - Adapt, fine-tune, and evaluate vision and vision-language
+    models for visual grounding, temporal reasoning, and
+    structured prediction grounded in observable evidence.
+  - Design training and adaptation strategies, including
+    supervised fine-tuning, representation learning,
+    distillation, and domain adaptation, based on measurable
+    product needs.
+  - Build representative image and video datasets, annotation
+    workflows, and evaluation sets that capture difficult edge
+    cases while protecting sensitive data.
+  - Create rigorous experiments and benchmarks that measure
+    perception quality, temporal consistency, hallucinations,
+    robustness, latency, and cost across locations and
+    operating conditions.
+  - Diagnose failures caused by occlusion, lighting changes,
+    camera placement, rare events, and domain shift; use those
+    findings to improve data and models.
+  - Partner with infrastructure and product engineers to deploy
+    efficient inference pipelines, with monitoring, quality
+    gates, staged rollouts, and rollback paths.
+  - Translate advances in computer vision, VLMs, and embodied AI
+    into practical product capabilities, and communicate the
+    evidence and tradeoffs behind your decisions.
+  - Raise research and engineering standards through
+    reproducible experiments, thoughtful reviews, and clear
+    documentation.
+
+  Requirements
+
+  - 3+ years of research or applied development experience in
+    computer vision, multimodal learning, or a closely related
+    field; relevant graduate research counts toward this
+    experience.
+  - A demonstrated research track record in computer vision or
+    vision-language modeling, through publications,
+    substantial research projects, open-source contributions,
+    or research delivered in industry.
+  - Strong foundations in deep learning, visual representation
+    learning, and experimental design, with depth in areas
+    such as video understanding, detection and tracking,
+    visual grounding, or multimodal reasoning.
+  - Hands-on experience training, fine-tuning, or adapting
+    computer vision models, and developing or evaluating VLMs
+    beyond basic API integration.
+  - Strong Python skills and experience with PyTorch or an
+    equivalent deep learning framework, along with modern
+    training and evaluation tooling.
+  - Experience building datasets, designing reliable
+    evaluations, analyzing model failures, and using ablations
+    to understand what drives improvements.
+  - Strong software engineering judgment and the ability to turn
+    research code into reproducible, tested systems that other
+    engineers can use.
+  - Ability to connect modeling choices to product constraints
+    including latency, cost, privacy, reliability, and user
+    experience.
+  - Comfort working through ambiguity and collaborating across
+    research, engineering, and product.
+
+  Especially relevant experience
+
+  - A PhD or research-focused master’s degree in computer
+    vision, machine learning, robotics, or a related field, or
+    equivalent research experience.
+  - Industry research or engineering experience in autonomous
+    driving, robotics, embodied AI, or other applications of
+    perception in the physical world.
+  - Publications at venues such as CVPR, ICCV, ECCV, NeurIPS,
+    ICLR, ICML, CoRL, ICRA, or RSS.
+  - Experience with monocular video perception, spatial
+    understanding, long-video reasoning, or learning from
+    limited and noisy labels.
+  - Experience shipping vision models under real-time
+    constraints, including model compression, distillation,
+    quantization, or inference optimization.
+
+  When applying, please include links to relevant
+  publications, research projects, or code, and briefly
+  describe your own contribution.
+
+  Benefits
+
+  - Competitive salary and stock option plan.
+  - Company-sponsored green card applications for strong
+    candidates hired into U.S.-based roles, subject to
+    eligibility.
+  - Medical, dental, vision, and retirement benefits as
+    applicable.
+  - Family leave and short-term and long-term disability
+    benefits as applicable.
+  - Paid time off and company holidays.
+  - Learning and development support.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-09-12
+url: "https://builtin.com/job/ai-research-engineer-computer-vision-vlms/11147210"
+source: Built In

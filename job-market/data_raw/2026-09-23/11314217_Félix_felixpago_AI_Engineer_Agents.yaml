@@ -1,0 +1,165 @@
+job_id: 11314217
+title: AI Engineer (Agents)
+company: Félix (felixpago)
+location: Miami, USA
+locations:
+  - Miami, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 343 Employees
+description: |
+  About Us
+
+  At Félix, we're building the financial ecosystem for Latin
+  immigrants in the U.S., starting with a revolution in
+  remittances. Our core product is an AI-powered chatbot built
+  on WhatsApp, allowing our users to send money home as easily
+  as sending a text message. We leverage cutting-edge
+  technology like AI, blockchain, and stablecoins to make
+  cross-border payments faster, more affordable, and more
+  accessible than ever before.
+
+  We are a hyper-growth Series C company, backed by over $200
+  million in funding from top-tier global investors, including
+  QED, Castle Island, Switch Ventures, HTwenty, Monashees, and
+  Andreessen Horowitz with support from General Catalyst
+  Customer Value Fund. This isn't just about the numbers; it's
+  a testament to the trust our investors have in our vision
+  and our team. Additionally, Félix was selected as an
+  “Endeavour Entrepreneur” and was a recipient of the
+  CrossTech Fintech Startups Award. We are a group of
+  extremely talented and dedicated high-performers, united by
+  our shared obsession with a single goal: empowering our
+  customers. We are all owners of Félix, driven by a bias for
+  action and a true experimentation spirit to get things done
+  with urgency and focus.
+
+  Joining Félix means you will be part of a team building a
+  legacy, a company that will outlive us all. This is a rare
+  opportunity to apply your skills to a deeply meaningful
+  mission—serving a community that has been underserved for
+  too long. We are a team that is fiercely loyal to each
+  other, where radical transparency and constructive feedback
+  are how we grow and push for excellence. We are bold, we
+  care less about what others are doing, and more about
+  creating sustainable value and a product that truly makes
+  our users' lives better. We are building the future, today.
+
+  About the Role
+
+  We are seeking a proactive and highly skilled AI Engineer to
+  join our core AI team. This role is central to Félix's next
+  phase of growth, focusing on designing, building, and
+  scaling autonomous AI Agents that will integrate directly
+  into our product and internal operations. We are building a
+  world-class AI team and believe great talent comes in
+  various shapes. We are open to hiring at the Semi-Senior,
+  Senior, or Staff level. We will calibrate your role, title,
+  and compensation package based on your technical depth,
+  architectural ownership, and the scope of impact you’ve
+  historically delivered.
+
+  You will be instrumental in evolving our WhatsApp-based AI
+  platform beyond simple Q&A into a sophisticated, multi-agent
+  system capable of reasoning, planning, and executing
+  complex, multi-step tasks across our critical functions
+  (e.g., loans, payments, fraud). You will partner closely
+  with different engineering teams and PMs to translate our AI
+  strategy into a tangible roadmap and bring it to life. This
+  is a unique opportunity to apply a bias toward action and an
+  experimentation spirit to solve deeply meaningful, real-
+  world problems for Latin immigrants in the U.S. If you
+  thrive in a rapid-iteration environment and want to build
+  the infrastructure that powers a hyper-growth fintech, this
+  is your mission.
+
+  Responsibilities
+
+  - Production-Grade Agent Architecture: Architect, develop, and
+    maintain scalable, stateful AI agents. You won't just
+    build "demos"; you will ship hardened systems using Python
+    and modern frameworks (Google ADK, LangGraph, CrewAI,
+    etc.) that handle real-world edge cases.
+  - LLMOps & Observability: Establish production monitoring for
+    agentic workflows. Implement tracing and observability
+    (e.g., LangSmith, Arize Phoenix, or Weights & Biases) to
+    track reasoning paths, tool-calling success rates, and
+    latency bottlenecks.
+  - End-to-End Production Integration: Lead the integration of
+    AI agents into core product infrastructure (Payments,
+    Fraud, etc.). Own the full lifecycle, from
+    containerization (Docker/Kubernetes) to CI/CD deployment
+    and post-launch stability.
+  - Advanced Evaluation Pipelines: Move beyond basic metrics.
+    Design automated "evals-as-code" using LLM-as-a-judge,
+    semantic similarity testing, and adversarial benchmarking
+    to ensure agent safety and groundedness before every
+    release.
+  - Performance & Cost Engineering: Optimize RAG pipelines and
+    agent loops for production constraints. Implement caching
+    strategies, prompt compression, and model routing to
+    balance inference costs with high-performance
+    requirements.
+  - Technical Leadership: Mentor junior engineers on software
+    craft. Drive best practices in asynchronous programming,
+    error handling for non-deterministic outputs, and
+    structured data validation (Pydantic, etc.).
+
+  Requirements
+
+  - Experience: 7+ years of hands-on experience in software
+    engineering, with at least 2 years dedicated to building
+    and deploying production-grade AI/ML applications,
+    specifically focused on Large Language Models (LLMs) or
+    generative AI.
+  - Technical Mastery: Mandatory expertise in Python and deep
+    familiarity with 1 core LLM APIs and frameworks (OpenAI
+    SDK, Google AI SDK, CrewAI, LangChain, etc.).
+  - Agentic System Knowledge: Proven experience implementing
+    agentic systems, including knowledge of RAG, vector
+    databases, and memory/state management.
+  - Engineering Fundamentals: Strong understanding of software
+    development best practices, version control (Git/GitHub),
+    and CI/CD pipelines. Experience with personal projects or
+    demonstrable contributions on GitHub is a strong plus.
+  - Execution & Communication: Proven ability to translate high-
+    level business needs into concrete, maintainable, and
+    well-tested code.
+  - These are the applicable requisites, although equivalent
+    competencies in any of the above will also be considered.
+
+  What We Offer
+
+  - Base Salary (by level) Flexible depending on location and
+    interview performance
+    - Mid-level: $90,000–$140,000
+    - Senior: $140,000–$209,000
+    - Staff (L4): $195,000–$270,000
+  - Initial stock options grant
+  - Annual performance bonus
+  - Health, dental, and vision plans
+  - Continuous learning opportunities
+  - Unlimited PTO
+  - Paid parental leave
+  - Empowering opportunities for growth in a dynamic
+    entrepreneurial environment
+
+  Equal Opportunity Employer
+
+  At Félix, we are committed to providing equal employment
+  opportunities to all qualified employees and applicants
+  without regard to race, religion, nationality, sex, sexual
+  orientation, gender identity, age, or disability. This
+  policy applies to all terms and conditions of employment,
+  including recruitment, hiring, placement, promotion,
+  training, compensation, benefits, and termination.
+
+  Want to learn more about our privacy practices? Check out
+  our Privacy Policy.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-09-22
+url: "https://builtin.com/job/ai-engineer-agents/11314217"
+source: Built In

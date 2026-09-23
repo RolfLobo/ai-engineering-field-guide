@@ -1,0 +1,57 @@
+company:
+  name: Nacre Capital
+  stage: null
+  focus: Data platform for the secondary luxury watch market
+position:
+  title: Senior AI Engineer, Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent systems end-to-end: agent
+      loops, tool calling, memory, state, evals, RAG, and fine-
+      tuning (SFT/LoRA) — all shaping LLM behavior. LLMs and
+      agents are central, so ai-first.
+  responsibilities:
+  - Identify and rank agent opportunities across sales, data, product, and operations
+  - 'Design and build agents hands-on: tools, loops, sub-agents, memory, state, evaluation'
+  - 'Build and own the shared agent platform: tool layer, MCP surface, memory, tracing,
+    eval harness'
+  - 'Harden WatchChat: multi-turn state, latency, cost, tool-call reliability, regression
+    gates'
+  - 'Build evaluation infrastructure: golden datasets, programmatic verifiers, LLM-as-judge'
+  - 'Optimize cost and latency: model routing, caching, fine-tuning where it pays
+    off'
+  use_cases:
+  - 'WatchChat: conversational assistant over watch market data'
+  - Agents supporting collectors, dealers, sales teams, and data operations
+  - Automation of repetitive expert workflows across the business
+  - Text-to-SQL and structured report/document generation
+  - Voice agents and vision-language applications (nice to have)
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, LangGraph, MCP,
+      RAG, Prompt Engineering, Fine-Tuning, LoRA, RLHF, Guardrails, LLM Evaluation,
+      Multi-Agent Systems, OpenAI API, Embeddings, Conversational AI]
+    ml: [Hugging Face, Quantization]
+    web: [FastAPI]
+    databases: [SQL]
+    data: []
+    cloud: [AWS, AWS Bedrock, AWS S3, SageMaker]
+    ops: [LangSmith, Langfuse, Observability, Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11017332'
+  location: GRC
+  locations:
+  - GRC
+  - ESP
+  - IND
+  - UKR
+  - PRT
+  remote: true
+  extracted_at: '2026-09-23T11:13:01.557460'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

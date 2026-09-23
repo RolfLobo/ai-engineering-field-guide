@@ -1,0 +1,144 @@
+job_id: 11212087
+title: Associate AI/ML Engineer
+company: Optum
+location: Noida, IND
+work_type: FULL_TIME
+company_size: 160,000 Employees
+description: |
+  Requisition Number: 2372606 Optum is a global organization
+  that delivers care, aided by technology to help millions of
+  people live healthier lives. The work you do with our team
+  will directly improve health outcomes by connecting people
+  with the care, pharmacy benefits, data and resources they
+  need to feel their best. Here, you will find a culture
+  guided by inclusion, talented peers, comprehensive benefits
+  and career development opportunities. Come make an impact on
+  the communities we serve as you help us advance health
+  optimization on a global scale. Join us to start Caring.
+  Connecting. Growing together. Primary Responsibilities:
+
+  - Engage in the full software development lifecycle, with a
+    solid focus on coding, testing, and debugging
+  - Write clean, efficient, and maintainable code following best
+    practices
+  - Collaborate closely with team members to design, develop,
+    and deploy new features
+  - Optimize and enhance the performance of existing software
+    applications
+  - Communicate effectively and regularly with management and
+    technical support teams
+  - Participate in Scrum meeting, design reviews, test case
+    reviews, and production support readiness reviews for new
+    releases
+  - Comply with the terms and conditions of the employment
+    contract, company policies and procedures, and any and all
+    directives (such as, but not limited to, transfer and/or
+    re-assignment to different work locations, change in teams
+    and/or work shifts, policies in regard to flexibility of
+    work benefits and/or work environment, alternative work
+    arrangements, and other decisions that may arise due to
+    the changing business environment). The Company may adopt,
+    vary or rescind these policies and directives in its
+    absolute discretion and without any limitation (implied or
+    otherwise) on its ability to do so
+
+  Builder Responsibilities:
+
+  - Design, develop, and deploy AI-powered solutions using no-
+    code, low-code, and advanced platforms, translating
+    business needs into scalable applications that enhance
+    products, workflows, and decision-making
+
+  Required Qualifications:
+
+  - B.Tech./MCA (Minimum 16 years of formal education)
+  - 3+ years of proven experience as a AI Builder or in a
+    similar technical role
+  - Hands-on experience as a AI/ML/Full Stack Engineer (FSE)
+    with a solid understanding of micro-services
+  - AI/ML Engineering Tech Stack
+    - Python (backend AI systems, async, microservices)
+    - LLM APIs (OpenAI, Azure OpenAI, Anthropic, Gemini)
+    - Prompt Engineering (CoT, ReAct, system prompts)
+    - Agent Development (plan-reason-act-reflect loops)
+  - Agent Frameworks (LangChain, LangGraph, CrewAI, AutoGen)
+    - Multi-agent Orchestration (task routing, planner-executor
+      patterns)
+    - Agent-to-Agent Communication (A2A)
+    - Model Context Protocol (MCP) / tool integration standards
+    - Function Calling / API Orchestration
+    - RAG Pipelines (retrieval + ranking)
+    - Vector Databases (Pinecone, FAISS, Pgvector, Weaviate,
+      Qdrant)
+    - Agent memory (short-term, long-term, contextual)
+    - Workflow orchestration (Temporal, Prefect, Airflow)
+    - Cloud (AWS Bedrock, Azure AI, Vertex AI)
+  - Observability
+    - Telemetry, logging, tracing (OpenTelemetry, LangSmith)
+    - Monitoring KPIs (containment, success rate, latency,
+      escalation)
+  - Responsible AI & Guardrails
+    - AIRB (Bias, Fairness, Complexity, Confusion)
+    - Guardrails implementation (safety, compliance, fallback)
+    - Prompt injection protection
+    - Tool access control & data governance
+  - Architecture & Design
+    - End-to-end agentic architecture design
+    - Multi-agent system design
+    - Reusable frameworks for speed-to-delivery
+    - Risk identification & mitigation
+    - Assumptions & design trade-offs
+  - Integration & Ecosystem
+    - Enterprise integrations (CRM, backend systems, APIs)
+    - Conversational AI platforms (CE, chat systems)
+    - IVR / voice systems (audio codecs, speech flows)
+    - Agent transfer logic (IVR → human escalation)
+    - Unification across channels (chat, voice reuse)
+    - Voice-to-Voice (V2V) future readiness
+    - Open questions tracking
+  - Full Stack Engineer (FSE) Tech Stack
+    - Java
+    - SpringBoot
+    - RestAPI
+    - MySQL
+    - Docker
+    - Kubernettes/NoMad
+    - Angular
+  - Solid grasp of core design principles for building scalable
+    and maintainable applications
+  - Demonstrate solid analytical thinking and problem-solving
+    capabilities
+  - Support QA, UAT and release phases of the project via defect
+    analysis, change maintenance
+  - Effective team player with excellent communication and
+    interpersonal skills
+  - Fast learner with a passion for exploring new programming
+    languages and emerging technologies
+
+  Builder Responsibilities:  Design, develop, and deploy AI-
+  powered solutions using no-code, low-code, and advanced
+  platforms, translating business needs into scalable
+  applications that enhance products, workflows, and decision-
+  making. At UnitedHealth Group, our mission is to help people
+  live healthier lives and make the health system work better
+  for everyone. We believe everyone - of every race, gender,
+  sexuality, age, location and income - deserves the
+  opportunity to live their healthiest life. Today, however,
+  there are still far too many barriers to good health which
+  are disproportionately experienced by people of color,
+  historically marginalized groups and those with lower
+  incomes. We are committed to mitigating our impact on the
+  environment and enabling and delivering equitable care that
+  addresses health disparities and improves health outcomes -
+  an enterprise priority reflected in our mission.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Healthtech
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-09-16
+url: "https://builtin.com/job/associate-ai-ml-engineer/11212087"
+source: Built In

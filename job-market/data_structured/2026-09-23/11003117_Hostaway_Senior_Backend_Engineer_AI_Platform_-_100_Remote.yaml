@@ -1,0 +1,67 @@
+company:
+  name: Hostaway
+  stage: null
+  focus: AI-powered vacation rental property management platform
+position:
+  title: Senior Backend Engineer, AI Platform - 100% Remote - EMEA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds the AI integration stack itself — Python
+      SDKs, MCP servers, and LLM orchestration — and designs
+      services that shape how LLM outputs reach customers, not
+      just consuming an API someone else designed. This is
+      LLM/agent work, so ai-first.
+  responsibilities:
+  - Design and build services that integrate AI into customer-facing features
+  - Develop performant and scalable APIs and backend services connecting AI outputs
+    to SaaS functionality
+  - Collaborate with product and design teams to create intuitive AI-driven user experiences
+  - Partner with platform and integration teams to embed AI into existing systems
+    and workflows
+  - Implement observability, monitoring, and error handling for AI services in production
+  - Contribute to evolving the AI integration stack including Python SDKs, MCP servers,
+    and LLM orchestration
+  use_cases:
+  - AI-powered features for vacation rental property managers
+  - Automation workflows for short-term rental operations
+  - Customer insights dashboards
+  - Personalized customer workflows in a property management SaaS
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [REST APIs]
+    ml: []
+    ops: [Monitoring, Observability]
+    other: [Vercel AI SDK, SaaS]
+    cloud: []
+    languages: [Python, PHP, Go]
+    genai: [LangChain, MCP, LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11003117'
+  location: HRV
+  locations:
+  - HRV
+  - Wien, AUT
+  - Rome, ITA
+  - Lisboa, PRT
+  - Athens, GRC
+  - Rīga, LVA
+  - Berlin, DEU
+  - Helsinki, FIN
+  - Dublin, IRL
+  - București, ROU
+  - EST
+  - Amsterdam, NLD
+  - Barcelona, ESP
+  - Paris, FRA
+  - London, GBR
+  - Warsaw, POL
+  - Vilniaus miesto, LTU
+  remote: true
+  extracted_at: '2026-09-23T11:11:38.018890'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

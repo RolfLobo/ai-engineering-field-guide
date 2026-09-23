@@ -1,0 +1,61 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML
+position:
+  title: AI Engineer 5 (FM Hosting, LLM Inference)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agents and multi-agent workflows,
+      guardrails, model evaluation, and multi-model orchestration
+      integrating LLMs and vector search - clear shaping of LLM
+      behavior. Foundation model training and LLM inference
+      optimization also involve shaping model internals.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI software components including LLM
+    inference, agents, multi-agent workflows, guardrails, and model evaluation
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of large-scale production AI systems
+  - Design, implement, and optimize multi-model orchestration pipelines integrating
+    LLMs, vector search, and domain-specific models
+  - Establish cost-performance governance across AI systems, tracking GPU utilization,
+    throughput, and inference cost efficiency
+  - Lead design councils and design review boards to ensure technical consistency
+    and compliance with AI engineering standards
+  - Mentor Principal and Manager-level AI engineers
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  - Define and enforce standards for ethical AI deployment including explainability
+    and human-in-the-loop review
+  use_cases:
+  - Foundation model hosting and LLM inference at scale
+  - Agentic AI workflows for banking products and internal associate tools
+  - Similarity search and retrieval-augmented systems
+  - Real-time personalized customer experiences in banking
+  - Fraud alerts and real-time customer question answering
+  skills:
+    databases: [Vector Databases]
+    domains: []
+    data: []
+    web: []
+    ml: [PyTorch, Hugging Face, Fine-Tuning, Model Training, Machine Learning, CUDA,
+      Quantization, Model Compression]
+    ops: []
+    other: [Responsible AI, Model Deployment, Explainability]
+    cloud: [AWS, GCP, Azure, AWS Ultraclusters]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails, LLM Evaluation, Model
+        Evaluation, Semantic Search, Vector Search]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268165'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-09-23T11:34:01.773699'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

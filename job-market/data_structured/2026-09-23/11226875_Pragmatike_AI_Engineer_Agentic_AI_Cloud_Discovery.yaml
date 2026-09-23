@@ -1,0 +1,56 @@
+company:
+  name: Pragmatike
+  stage: null
+  focus: |-
+    Enterprise cybersecurity products securing AI agents and LLM
+    applications
+position:
+  title: AI Engineer – Agentic AI & Cloud Discovery
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG, structured extraction, and
+      evaluation pipelines directly shaping LLM output quality,
+      then productionizes them. Clear ai-first.
+  responsibilities:
+  - Design and build LLM-powered analysis and classification pipelines and productionize
+    them as Go services
+  - Prototype approaches in Python including prompting strategies, RAG, structured
+    extraction, and ML classifiers
+  - Define ground-truth datasets, evaluation metrics, and regression suites to measure
+    model quality
+  - Monitor model quality and drift in production and build processes to address degradation
+  - Collaborate with security researchers to translate attack patterns into detection
+    and summarization logic
+  - Integrate AI-powered capabilities with event, storage, and UI layers to surface
+    results to security teams
+  - Use AI-assisted development workflows to accelerate implementation and experimentation
+  use_cases:
+  - Agentic AI forensics turning agent traces, prompts, tool calls, and security events
+    into explainable findings for analysts
+  - Cloud resource and workload classification to discover AI agents, model endpoints,
+    and AI-enabled applications
+  - Inference of purpose and security risk of discovered cloud assets using LLM/ML
+    classification at scale
+  - Detection and summarization of attack patterns for enterprise security teams
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Structured Outputs, Function Calling, MCP,
+      Fine-Tuning, Embeddings, LLM Evaluation]
+    ml: [Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure, IAM]
+    ops: [Docker, Kubernetes, Claude Code, Cursor, GitHub Copilot, Codex, OpenTelemetry]
+    languages: [Go, Python]
+    domains: []
+    other: [Cybersecurity, SIEM, SOAR, Digital Forensics, GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11226875'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:28:25.466795'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,59 @@
+company:
+  name: PwC
+  stage: null
+  focus: 'Professional services: cyber, data and tech risk consulting'
+position:
+  title: SRE - Enterprise & Cloud Security - AI Driven Security - Senior Manager
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role leads development and deployment of ML models for
+      security use cases with named ML libraries (TensorFlow,
+      Scikit-Learn), which is shaping classical ML systems with no
+      LLM, prompt, or agent component. No generative/LLM work is
+      described, so it is ml-first rather than ai-first.
+  responsibilities:
+  - Design and implement AI-driven security solutions for enterprise and cloud security
+  - Lead teams in developing and deploying scalable AI systems and machine learning
+    models
+  - Transform raw data into actionable insights using advanced data analysis techniques
+  - Integrate data infrastructure and pipelines supporting AI and ML initiatives
+  - Develop AI applications in Python, Java, and C++
+  - Conduct data modeling and analysis to identify patterns and optimize security
+    measures
+  - Validate outcomes with clients and incorporate feedback into security strategies
+  - Coach and motivate teams through complex projects and change
+  use_cases:
+  - AI-driven enterprise security
+  - AI-driven cloud security
+  - Security analytics and threat pattern detection
+  - Data-driven decision support for clients
+  skills:
+    genai: []
+    ml: [TensorFlow, scikit-learn, Machine Learning, Data Modeling]
+    web: []
+    databases: [Snowflake]
+    data: [Databricks, Data Engineering]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Java, C++]
+    domains: []
+    other: [Cybersecurity, Open-Source Software]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '10922227'
+  location: Dallas, USA
+  locations:
+  - Dallas, USA
+  - Houston, USA
+  - Atlanta, USA
+  - Chicago, USA
+  - New York, USA
+  - Seattle, USA
+  - Boston, USA
+  - San Francisco, USA
+  - Washington, USA
+  extracted_at: '2026-09-23T11:06:59.978586'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

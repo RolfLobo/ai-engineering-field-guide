@@ -1,0 +1,53 @@
+company:
+  name: Kadel Labs
+  stage: null
+  focus: |-
+    Deep-tech IT services: data analytics, cloud, software,
+    Generative AI
+position:
+  title: SSE.Net Developer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs generator-critic pipelines, iterates AI-
+      generated outputs against acceptance criteria, and applies
+      prompt construction and context engineering - directly
+      shaping LLM output quality. GenAI integration is core to the
+      role, not just a tool.
+  responsibilities:
+  - Author precise feature specifications covering requirements, edge cases, constraints,
+    and acceptance criteria
+  - Own features end-to-end, translating user outcomes into clear acceptance criteria
+  - Drive development through AI-assisted workflows and validate outputs against specifications
+  - Design and run generator-critic pipelines with structured critique against the
+    specification
+  - Iterate on AI-generated outputs until acceptance criteria are met
+  - Evaluate and adopt AI tools using structured reasoning and defined criteria
+  - Build and maintain APIs, data layers, services, and integrations
+  - Develop and maintain the engineering foundation supporting AI-native workflows
+  use_cases:
+  - AI-native feature development with generator-critic pipelines
+  - Spec-driven code generation and output validation
+  - RAG pipelines with vector databases (nice-to-have)
+  - LLM API integration into production systems
+  - Multi-agent orchestration for software workflows
+  skills:
+    genai: [Prompt Engineering, Context Engineering, RAG, LLMs, LangChain, LangGraph,
+      CrewAI, AutoGen]
+    ml: []
+    web: [APIs]
+    databases: [SQL Server, MongoDB, Vector Databases]
+    data: []
+    cloud: []
+    ops: [LangSmith, Langfuse]
+    languages: [.NET]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11067705'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:15:53.967301'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

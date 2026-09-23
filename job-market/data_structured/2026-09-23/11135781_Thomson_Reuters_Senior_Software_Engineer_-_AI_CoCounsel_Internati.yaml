@@ -1,0 +1,55 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: |-
+    Legal information, software, and AI products for
+    professionals
+position:
+  title: Senior Software Engineer - AI, CoCounsel International
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM/agent behaviour: building
+      agentic workflows, LLM orchestration, routing, guardrails,
+      and LLM-as-judge eval gates, integrating OpenAI/Anthropic
+      providers. This is shaping LLM output quality, so ai-first.
+  responsibilities:
+  - Build AI-powered backend services in Python, FastAPI, and PostgreSQL supporting
+    real-time AI interactions
+  - Design and build agentic workflows, LLM orchestration, and content pipelines
+  - Define service boundaries, interfaces, and scalable architecture for the AI platform
+  - Integrate LLM providers (OpenAI, Anthropic) with orchestration, guardrails, telemetry,
+    and observability
+  - Take early Labs AI agent concepts to production-ready international product features
+  - Mentor engineers through pairing, code reviews, and technical guidance
+  use_cases:
+  - AI assistant (CoCounsel) for legal professionals
+  - Agentic workflows for international legal products
+  - Multi-step reasoning and tool/API orchestration for legal tasks
+  - RAG and content pipelines over legal content
+  - LLM-powered features with eval-driven quality gates
+  skills:
+    genai: [Agentic Workflows, LLMs, OpenAI API, Anthropic API, Guardrails, AI Agents,
+      Function Calling, LLM Evaluation, RAG]
+    ml: []
+    web: [FastAPI, APIs, Microservices]
+    databases: [PostgreSQL, Vector Databases]
+    data: [Data Modeling]
+    cloud: [AWS]
+    ops: [Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11135781'
+  location: Frisco, USA
+  locations:
+  - Frisco, USA
+  - Eagan, USA
+  - New York, USA
+  - Ann Arbor, USA
+  extracted_at: '2026-09-23T11:20:49.037306'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: MARLOWE COMPANIES INC.
+  stage: null
+  focus: Tech-enabled CX, BPO, and cloud business services
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds generative AI applications with LLMs,
+      optimizes prompts and model configurations, evaluates output
+      quality, and supports AI workflow orchestration - direct
+      shaping of LLM behavior, so ai-first.
+  responsibilities:
+  - Design, build, and deploy Generative AI applications using LLMs and Generative
+    AI frameworks
+  - Build scalable services and APIs that integrate AI capabilities into products
+    and business processes
+  - Integrate foundation models and third-party AI platforms into enterprise systems
+  - Optimize prompts, workflows, and model configurations to improve performance
+  - Evaluate output quality and implement enhancements for accuracy and reliability
+  - Develop intelligent AI-driven workflows to automate business processes
+  - Implement monitoring, QA, governance, and security processes for AI solutions
+  - Evaluate emerging AI technologies and support proof-of-concept initiatives
+  use_cases:
+  - Customer experience enhancement through AI-powered applications
+  - Automation of complex business workflows
+  - AI-driven contact center and BPO operations
+  - Integration of AI capabilities into enterprise products and processes
+  skills:
+    genai: [LLMs, Generative AI, Prompt Engineering]
+    ml: [TensorFlow, PyTorch, Model Deployment]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [DevOps, Docker, Kubernetes, Terraform, Ansible, Jenkins, Monitoring, Linux]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11080236'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:25.385049'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

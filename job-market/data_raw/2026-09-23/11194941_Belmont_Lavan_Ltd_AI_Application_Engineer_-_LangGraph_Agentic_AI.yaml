@@ -1,0 +1,147 @@
+job_id: 11194941
+title: "AI Application Engineer - LangGraph & Agentic AI"
+company: Belmont Lavan Ltd
+location: Amsterdam, NLD
+locations:
+  - Amsterdam, NLD
+  - London, GBR
+  - Stuttgart, DEU
+  - Nérac, FRA
+remote: true
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  We are looking for an experienced AI Application Engineer to
+  design and build intelligent applications powered by LLMs,
+  LangGraph, and modern agentic AI technologies.
+
+  You will focus on transforming business requirements into AI
+  applications capable of reasoning through tasks, retrieving
+  information, interacting with tools and enterprise systems,
+  requesting human approval when required, and completing
+  business processes.
+
+  This role sits at the intersection of AI engineering,
+  software development, workflow automation, and business
+  process transformation.
+
+  RequirementsAgentic AI Application Development
+
+  - Design and develop AI applications using LangGraph and LLM
+    technologies.
+  - Build agents capable of executing complex, multi-step
+    business processes.
+  - Design stateful workflows incorporating reasoning, tool
+    usage, validation, approvals, and exception handling.
+  - Develop single-agent and multi-agent solutions where
+    appropriate.
+  - Translate business requirements into practical agentic AI
+    architectures.
+
+  LLM Application Engineering
+
+  - Integrate LLMs into production applications.
+  - Develop prompt strategies, structured outputs, tool calling,
+    and context-management approaches.
+  - Select appropriate models based on accuracy, capability,
+    latency, security, and cost.
+  - Develop mechanisms to improve reliability and reduce
+    hallucinations.
+  - Implement appropriate guardrails around AI-generated
+    decisions and actions.
+
+  RAG and Enterprise Knowledge
+
+  - Design and implement Retrieval-Augmented Generation (RAG)
+    solutions.
+  - Connect AI applications to enterprise documents, databases,
+    APIs, and knowledge repositories.
+  - Develop retrieval and ranking strategies to provide agents
+    with relevant context.
+  - Work with embeddings and vector databases.
+  - Implement data and context pipelines supporting AI agents.
+
+  Business Process Automation
+
+  - Analyse business processes and identify opportunities for
+    agentic automation.
+  - Design AI workflows that combine LLM reasoning with
+    deterministic business logic.
+  - Build agents capable of retrieving information, making
+    decisions, invoking tools, and completing actions.
+  - Implement human-in-the-loop approval and escalation
+    processes.
+  - Ensure automated actions are controlled, auditable, and
+    reversible where appropriate.
+
+  Evaluation and Quality
+
+  - Develop evaluation frameworks for AI applications and agent
+    workflows.
+  - Define metrics covering accuracy, task completion,
+    reliability, latency, and cost.
+  - Build automated tests for prompts, agents, tools, and end-
+    to-end workflows.
+  - Analyse failures and continuously improve agent behaviour.
+  - Use observability and evaluation data to optimise production
+    systems.
+
+  Production Deployment
+
+  - Deploy and operate AI applications in cloud and enterprise
+    environments.
+  - Implement monitoring, logging, tracing, and performance
+    management.
+  - Design resilient workflows with retries, timeouts,
+    fallbacks, and recovery mechanisms.
+  - Work with DevOps and platform teams to establish appropriate
+    deployment and CI/CD practices.
+
+  Cross-Functional Collaboration
+
+  - Work closely with product managers, business analysts,
+    software engineers, data scientists, architects, and
+    business stakeholders.
+  - Communicate AI capabilities, limitations, risks, and
+    implementation options.
+  - Help organisations identify realistic and valuable use cases
+    for agentic AI.
+
+  Required Experience
+
+  - Commercial experience developing AI/LLM applications.
+  - Hands-on experience with LangGraph and agentic workflow
+    development.
+  - Strong Python development experience.
+  - Experience deploying AI applications into production.
+  - Strong understanding of LLMs, RAG, tool calling, structured
+    outputs, and prompt engineering.
+  - Experience integrating AI applications with APIs, databases,
+    enterprise systems, or SaaS platforms.
+  - Experience with cloud platforms such as AWS, Azure, or GCP.
+  - Experience with AI evaluation, monitoring, and
+    observability.
+
+  Desirable Skills
+
+  - LangChain / LangSmith
+  - Multi-agent systems
+  - AI workflow orchestration
+  - Vector databases
+  - Kubernetes
+  - Docker
+  - FastAPI
+  - Data pipelines
+  - MLOps
+  - AI security and governance
+  - Enterprise process automation
+  - Experience with financial services, healthcare, retail,
+    manufacturing, or other complex enterprise environments
+industries:
+  - Information Technology
+  - Software
+  - Consulting
+  - Cybersecurity
+posted_date: 2026-09-15
+url: "https://builtin.com/job/ai-application-engineer-langgraph-agentic-ai/11194941"
+source: Built In

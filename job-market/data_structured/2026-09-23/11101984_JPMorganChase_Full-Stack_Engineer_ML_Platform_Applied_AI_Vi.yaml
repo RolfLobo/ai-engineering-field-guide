@@ -1,0 +1,52 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and commercial/investment banking
+position:
+  title: Full-Stack Engineer – ML Platform, Applied AI – Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI systems for document processing
+      (LangGraph, Pydantic AI named as preferred), designing
+      agent-based architectures and ML systems that shape AI
+      behavior, so it is ai-first. The deliverable is AI product
+      architecture, not just serving someone else's model.
+  responsibilities:
+  - Design and deliver enterprise-grade machine learning systems
+  - Implement distributed, multi-threaded, and scalable applications
+  - Build, test, and deploy secure automated pipelines for cloud systems, desktop
+    applications, and ML solutions
+  - Develop and deploy business-critical, data-intensive applications
+  - Leverage foundational libraries and services for reuse across teams
+  - Utilize MLOps tools for versioning, reproducibility, and observability
+  - Collaborate with cloud and site reliability engineering teams on robust production
+    architectures
+  use_cases:
+  - Automating document-centric workflows at enterprise scale
+  - Document processing platform supporting colleagues across the firm
+  - Autonomous agents processing hundreds of documents per second
+  - Secure AI automation in a highly regulated banking environment
+  skills:
+    genai: [LangGraph, Pydantic AI, Agentic Workflows]
+    ml: []
+    web: []
+    databases: [Databases]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, MLOps]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11101984'
+  location: GBR
+  locations:
+  - GBR
+  - London, GBR
+  remote: true
+  extracted_at: '2026-09-23T11:19:03.362120'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

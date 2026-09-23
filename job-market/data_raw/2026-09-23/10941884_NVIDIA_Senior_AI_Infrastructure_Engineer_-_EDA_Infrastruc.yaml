@@ -1,0 +1,131 @@
+job_id: 10941884
+title: Senior AI Infrastructure Engineer - EDA Infrastructure
+company: NVIDIA
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  AI Infrastructure Engineers at NVIDIA build the systems,
+  tooling, and data infrastructure that enable operation of
+  our GPU cloud services. We are enabling engineering teams to
+  innovate while proactively identifying, tracking, and
+  mitigating risks across the entire technical task.
+
+  This role is ideal for engineers who thrive at the
+  intersection of product, infrastructure, and software
+  engineering and who want to build automated, intelligence-
+  driven systems that protect NVIDIA’s most critical AI
+  platforms.
+
+  What you’ll be doing:
+
+  Telemetry
+
+  - Build and operate scalable telemetry pipelines for metrics,
+    logs, traces, and events across on-premise, CSP, and NCP
+    clusters.
+  - Establish common instrumentation, collection, storage, and
+    access patterns so teams can generate and consume
+    telemetry consistently.
+  - Deliver dashboards, alerting, and analysis capabilities that
+    improve service visibility, detection, and
+    troubleshooting.
+
+  Operational Excellence
+
+  - Standardize and automate incident, maintenance, service on-
+    call, and support on-call workflows across HWInf.
+  - Integrate operational data and lifecycle signals to improve
+    ownership, escalation, communication, and post-incident
+    learning.
+  - Build reporting and AI-assisted tooling that reduces manual
+    toil and improves operational responsiveness.
+
+  Cataloging and Inventory
+
+  - Build and maintain physical hardware and software catalogs
+    as trusted sources of truth for infrastructure inventory,
+    service ownership, dependencies, and documentation.
+  - Create consistent data models and integration pipelines that
+    connect clusters, hardware, services, teams, and
+    operational workflows.
+  - Provide self-service discovery capabilities so engineers can
+    quickly identify what they operate, who owns it, and how
+    to support it.
+
+  What we need to see:
+
+  - BS degree in Computer Science, Computer Engineering, or a
+    related technical field, or equivalent experience.
+  - 8+ years of experience in infrastructure platform
+    engineering, or tooling.
+  - Proficiency in one or more programming languages such as
+    Python, Go, Typescript, or Java.
+  - Strong understanding of software and infrastructure
+    principles, with experience applying them in production
+    environments.
+  - Ability to lead cross-functional initiatives that span
+    internal teams and external partners in varying
+    disciplines across engineering, product, finance, and
+    security.
+
+  Ways to stand out from the crowd:
+
+  - Experience building and operating incident-management
+    processes with internally built and/or externally vended
+    SaaS tools
+  - Experience working with building, deploying, and maintaining
+    ML models in production systems along with familiarity
+    with AI agent frameworks or orchestration tools
+  - Experience building and operating modern observability
+    platforms to deliver scalable metrics, logs, traces, and
+    profiling Experience working with service catalog and
+    configuration management databases (CMDB)
+
+  NVIDIA is widely considered to be one of the technology
+  world’s most desirable employers. We have some of the most
+  forward-thinking and hard-working people in the world
+  working for us. Are you creative and autonomous? Do you love
+  a challenge? If so, we want to hear from you. NVIDIA is
+  leading the way in groundbreaking developments in Artificial
+  Intelligence, High-Performance Computing and Visualization.
+  The GPU, our invention, serves as the visual cortex of
+  modern computers and is at the heart of our products and
+  services. If you're creative and self-motivated, we want to
+  hear from you! NVIDIA is leading the way in groundbreaking
+  developments in Artificial Intelligence, High-Performance
+  Computing and Visualization. The GPU, our invention, serves
+  as the visual cortex of modern computers and is at the heart
+  of our products and services.
+
+  Your base salary will be determined based on your location,
+  experience, and the pay of employees in similar positions.
+  The base salary range is 184,000 USD - 287,500 USD for Level
+  4, and 224,000 USD - 356,500 USD for Level 5.
+
+  You will also be eligible for equity and benefits.
+
+  Applications for this job will be accepted at least until
+  September 25, 2026.
+
+  This posting is for an existing vacancy.
+
+  NVIDIA uses AI tools in its recruiting processes.
+
+  NVIDIA is committed to fostering an inclusive work
+  environment and proud to be an equal opportunity employer.
+  As we highly value diversity in our current and future
+  employees, we do not discriminate (including in our hiring
+  and promotion practices) on the basis of race, religion,
+  color, national origin, gender, gender expression, sexual
+  orientation, age, marital status, veteran status, disability
+  status or any other characteristic protected by law.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-08-31
+url: "https://www.builtinla.com/job/senior-ai-infrastructure-engineer-eda-infrastructure/10941884"
+source: Built In

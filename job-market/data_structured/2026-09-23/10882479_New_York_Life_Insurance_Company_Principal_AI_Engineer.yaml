@@ -1,0 +1,56 @@
+company:
+  name: New York Life Insurance Company
+  stage: null
+  focus: Life insurance and financial services
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and delivers LLM-based solutions including
+      RAG, agentic systems, multi-agent orchestration, prompt
+      engineering, and evaluation/guardrails — directly shaping
+      model behavior and output quality, so ai-first.
+  responsibilities:
+  - Lead end-to-end delivery of AI and Generative AI solutions with business, product,
+    technology, and data teams
+  - Design, develop, deploy, and operate production AI applications on the enterprise
+    AI platform
+  - Architect agentic AI systems, multi-agent orchestration, RAG, hybrid retrieval,
+    and human-in-the-loop workflows
+  - Evaluate and integrate AI technologies including foundation models, orchestration
+    frameworks, and cloud AI services
+  - Establish AI engineering best practices including evaluation frameworks, safety
+    validation, and production monitoring
+  - Prototype AI-enabled applications to validate concepts and inform product direction
+  - Develop internal engineering agents automating testing, code review, and deployment
+    validation
+  - Mentor engineers and provide technical leadership and architectural guidance across
+    the AI&D organization
+  use_cases:
+  - Enterprise AI solutions for insurance and financial services business problems
+  - Agentic AI and multi-agent systems for complex business workflows
+  - RAG and hybrid retrieval for enterprise knowledge access
+  - Human-in-the-loop AI workflows
+  - Internal engineering agents automating software delivery workflows
+  skills:
+    genai: [Prompt Engineering, RAG, LLMs, Agentic Workflows, Multi-Agent Systems,
+      LangGraph, Google ADK, CrewAI, MCP, Generative AI, Knowledge Graphs, LLM Evaluation,
+      Codex, Claude Code]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: [Vertex AI, AWS Bedrock, SageMaker]
+    ops: [CI/CD, Docker, Kubernetes, Code Review]
+    languages: [Python, SQL, JavaScript, TypeScript]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10882479'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:04:42.456758'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

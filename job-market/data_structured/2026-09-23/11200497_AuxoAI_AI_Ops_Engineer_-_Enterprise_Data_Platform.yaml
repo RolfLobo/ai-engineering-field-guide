@@ -1,0 +1,55 @@
+company:
+  name: AuxoAI
+  stage: null
+  focus: Platform-based services firm for digital and AI solutions
+position:
+  title: AI Ops Engineer - Enterprise Data Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core role is data-operations ownership of an enterprise
+      data estate: SLAs, incident triage, problem management, and
+      governance. AIOps/GenAI are named as tools to automate
+      triage and predict failures, but there is no evidence the
+      person shapes LLM behavior (no prompts, retrieval, agents,
+      or training), so it falls to ai-support.
+  responsibilities:
+  - Act as primary point of accountability for critical data objects and business
+    domains on the estate
+  - 'Drive service scorecards: SLA attainment, MTTR, data freshness, repeat-failure
+    rate, connector stability and FinOps'
+  - Own client communications during major incidents and lead post-incident reviews
+  - Drive triage of P1/P2 incidents, assign resolver domains, and run cross-party
+    bridges
+  - Run problem management to convert recurring incidents into permanent fixes and
+    burn down the backlog
+  - Maintain SOPs covering monitoring frameworks, severity matrices, RACI and escalation
+    paths
+  - 'Govern the data model: dimensional design, conformed dimensions, SCD treatment,
+    semantic consistency'
+  - Drive initiatives to establish AIOps and intelligent observability for the platform
+  use_cases:
+  - End-to-end health monitoring of a hybrid enterprise data estate
+  - Automated incident detection, correlation, and self-resolution for data platform
+    faults
+  - Predicting failures on the critical path of data pipelines and connectors
+  - Service governance and SLA management for data operations
+  skills:
+    genai: [AIOps]
+    ml: []
+    web: []
+    databases: [Snowflake, Relational Databases, Data Modeling]
+    data: [dbt, Data Pipelines, Informatica PowerCenter, PySpark]
+    cloud: []
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: [ServiceNow, MicroStrategy, FinOps, ITIL, Job Scheduling]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11200497'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:25:46.704629'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

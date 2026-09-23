@@ -1,0 +1,51 @@
+company:
+  name: True Anomaly
+  stage: null
+  focus: Autonomous spacecraft and space security technology
+position:
+  title: Perception Engineer, AI
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes classical perception and tracking models
+      (neural networks, tracking filters, pose estimation)
+      deployed on spacecraft hardware. There is no LLM, agent, or
+      text-generation component, so per Step 2 this is ml-first.
+  responsibilities:
+  - Architect image processing, object tracking, and pose estimation pipelines for
+    the Jackal spacecraft
+  - Design and implement robust perception, object detection, and tracking algorithms
+    in C++
+  - Optimize neural networks to run on space-qualified processors with strict power
+    budgets
+  - Design tracking filters that maintain custody through occlusions, tumbles, and
+    adversarial maneuvers
+  - Perform statistical analysis for algorithm characterization and verification
+  - Test and verify algorithms via software and hardware-in-the-loop simulation
+  - Integrate perception algorithms into flight software with the software team
+  - Own the perception stack end-to-end from algorithm design to on-orbit operation
+  use_cases:
+  - Autonomous spacecraft operations in contested environments
+  - Tracking satellites during close-proximity rendezvous
+  - 3D geometry reconstruction for on-orbit inspection missions
+  - Real-time threat detection from on-orbit sensors
+  - Space domain awareness and space security
+  skills:
+    genai: []
+    ml: [Neural Networks, Model Evaluation, Object Tracking]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C++, Python]
+    domains: [Computer Vision]
+    other: [SLAM, Object Detection, Pose Estimation, Image Processing, Nonlinear Filtering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7916902'
+  location: Long Beach, USA
+  extracted_at: '2026-09-23T11:37:29.969754'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

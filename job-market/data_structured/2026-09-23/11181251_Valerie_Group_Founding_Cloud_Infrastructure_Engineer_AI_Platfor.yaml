@@ -1,0 +1,50 @@
+company:
+  name: Valerie Group
+  stage: null
+  focus: AI-native platform for next-generation AI products
+position:
+  title: Founding Cloud Infrastructure Engineer (AI Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a cloud infrastructure role: designing, hosting, and
+      scaling AWS infrastructure, IaC, CI/CD, and observability.
+      The role supports AI/LLM workloads and vector databases but
+      does not shape model behaviour via prompts, retrieval
+      design, or training. Deliverable is capacity and
+      reliability, so ai-support.
+  responsibilities:
+  - Design, build, and scale cloud infrastructure on AWS from scratch (0 to 1)
+  - Own Infrastructure as Code with Terraform or CloudFormation
+  - Build and maintain CI/CD pipelines and containerized environments
+  - Design secure cloud environments, IAM policies, and secrets management
+  - Build scalable distributed systems and event-driven architectures
+  - Implement observability, monitoring, and production incident management
+  - Support AI/ML infrastructure including LLM workloads and vector databases
+  use_cases:
+  - Cloud infrastructure powering an AI-native platform
+  - Scalable, secure AWS environments for AI-powered products
+  - Infrastructure supporting LLM workloads and retrieval-based systems
+  - Event-driven distributed systems for production workloads
+  skills:
+    genai: [LLMs, LangChain, LangGraph, LlamaIndex]
+    ml: []
+    web: []
+    databases: [Vector Databases, Pinecone, Weaviate, Qdrant, pgvector, Redis, RDS]
+    data: [Kafka]
+    cloud: [AWS, IAM, ECS, AWS Lambda, AWS S3]
+    ops: [Terraform, CloudFormation, Docker, CI/CD, Linux, Monitoring, Kubernetes,
+      DevSecOps, Infrastructure as Code, Observability, MLOps, Distributed Systems,
+      CloudWatch]
+    languages: []
+    domains: []
+    other: [Event-Driven Architecture, GPU Infrastructure]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11181251'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:24:38.927725'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

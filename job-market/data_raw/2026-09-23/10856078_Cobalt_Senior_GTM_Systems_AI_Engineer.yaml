@@ -1,0 +1,279 @@
+job_id: 10856078
+title: "Senior GTM Systems & AI Engineer"
+company: Cobalt
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Who We Are
+
+  Cobalt was founded on the belief of a fundamental human
+  aspiration: the desire to live better and safer. It all
+  started in 2013, when our founders realized that pentesting
+  can be better. Today our diverse, fully remote team is
+  committed to helping organizations of all sizes with
+  seamless, effective and collaborative Offensive Security
+  Testing that empower organizations to OPERATE FEARLESSLY and
+  INNOVATE SECURELY.
+
+  Our customers can start a pentest in as little as 24 hours
+  and integrate with advanced development cycles thanks to the
+  powerful combination of our SaaS platform coupled with an
+  exclusive community of testers known as the Cobalt Core.
+  Accepting just 5% of applicants, the Cobalt Core boasts over
+  500 closely vetted and highly skilled testers who jointly
+  conduct thousands of tests each year and are at the
+  forefront of identifying and helping remediate risk across a
+  dynamically changing attack surface.
+
+  Cobalt is an Equal Opportunity Employer and we strive to
+  build a diverse and inclusive workforce at our company. At
+  Cobalt we aspire to engage with diverse individuals,
+  communities, and organizations in order to continue to
+  nurture our unique rich diverse culture. Join our team, and
+  be your true self to do your best work.
+
+  Description
+
+  We are looking for a Senior GTM Systems & AI Engineer to own
+  and scale the technology infrastructure that powers Cobalt’s
+  go-to-market organization.
+
+  Reporting to the Sr. Director of Revenue Operations, this
+  role will serve as the technical owner of our GTM technology
+  ecosystem, with deep hands-on responsibility for Salesforce,
+  HubSpot, integrations, enrichment, automation, and the
+  systems supporting our customer lifecycle.
+
+  This is a highly cross-functional individual contributor
+  role for someone who combines deep GTM systems expertise
+  with a strong understanding of how modern B2B SaaS revenue
+  organizations operate. You won’t just administer tools —
+  you’ll partner with Revenue Operations, Marketing, Sales,
+  Customer Success, and Analytics to translate business needs
+  into scalable technical solutions and identify opportunities
+  to leverage automation and AI to improve how our GTM teams
+  operate.
+
+  Success in this role means our GTM teams have reliable
+  systems, connected and trustworthy data, scalable
+  automation, and an increasingly AI-enabled technology
+  ecosystem that helps the business operate more efficiently.
+
+  What You'll OwnGTM Systems & Architecture
+
+  - Serve as the primary technical owner and administrator of
+    Salesforce, including architecture, objects, Flows,
+    automation, permissions, integrations, data model, release
+    management, reporting infrastructure, and system
+    governance.
+  - Own the broader GTM technology ecosystem, including
+    integrations and data flows between Salesforce, HubSpot,
+    Customer Success platforms, enrichment providers,
+    prospecting and sequencing tools, and other GTM
+    applications.
+  - Partner closely with Revenue Operations to translate GTM
+    strategy and business requirements into scalable technical
+    solutions across Marketing, Sales, and Customer Success.
+  - Evaluate, implement, and optimize GTM technologies with a
+    focus on business impact, scalability, usability, and
+    reducing operational complexity.
+
+  HubSpot & Marketing Technology
+
+  - Serve as the primary technical owner and administrator of
+    HubSpot, including workflows, lifecycle stages, lead
+    scoring and routing, forms, campaign infrastructure,
+    attribution configuration, integrations, automation, and
+    data synchronization with Salesforce.
+  - Partner with Marketing and Revenue Operations to ensure our
+    marketing technology infrastructure supports lead
+    management, campaign execution, attribution, intent
+    signals, funnel measurement, and Marketing-to-Sales
+    handoffs.
+  - Maintain alignment between Salesforce and HubSpot data
+    models, lifecycle definitions, routing logic, campaign
+    data, and reporting requirements.
+
+  Data, Enrichment & GTM Signals
+
+  - Own the technical infrastructure supporting GTM data quality
+    and enrichment, including enrichment providers, field
+    mapping, matching logic, deduplication, normalization,
+    data governance, and ongoing monitoring.
+  - Design and maintain reliable enrichment and data
+    orchestration workflows that ensure GTM teams have
+    accurate, complete, and actionable account and contact
+    data.
+  - Build scalable processes for activating intent signals,
+    engagement data, enrichment signals, and buying triggers
+    across GTM systems.
+  - Proactively monitor data and integration health, identify
+    gaps or failures, and implement solutions that improve
+    data accuracy, coverage, reliability, and usability.
+
+  Customer Success Technology
+
+  - Support the administration and integration of Customer
+    Success platforms and the data infrastructure supporting
+    the post-sale customer lifecycle.
+  - Partner with Revenue Operations and Customer Success to
+    enable processes such as customer health scoring,
+    segmentation, account planning, renewals, expansion, churn
+    risk, and lifecycle management.
+  - Ensure customer and commercial data flows reliably across
+    Salesforce, Customer Success platforms, and the broader
+    GTM ecosystem.
+
+  Automation, AI & Innovation
+
+  - Identify, design, and implement opportunities to automate
+    repetitive GTM workflows across Marketing, Sales, Customer
+    Success, and Revenue Operations.
+  - Build scalable workflow automation using native platform
+    capabilities, APIs, webhooks, and tools such as n8n,
+    Zapier, or similar technologies.
+  - Evaluate and implement practical AI-powered solutions that
+    improve GTM productivity, research, data quality,
+    prioritization, customer insights, or operational
+    efficiency.
+  - Build and experiment with AI-enabled workflows and agents
+    where they can deliver measurable business value.
+  - Stay current on emerging GTM and AI technologies and
+    proactively recommend opportunities to improve how our
+    revenue organization operates.
+
+  Systems Governance & Operational Excellence
+
+  - Own system health, integrations, permissions, release
+    management, documentation, and technical governance across
+    the GTM technology ecosystem.
+  - Establish monitoring and controls to proactively identify
+    integration failures, data issues, workflow errors, and
+    system risks.
+  - Maintain clear documentation of architecture, integrations,
+    workflows, business rules, and system dependencies to
+    support scalability and business continuity.
+  - Own technical initiatives end-to-end, from discovery and
+    solution design through implementation, testing,
+    deployment, and ongoing optimization.
+
+  You Must Have
+
+  - 7+ years of experience in GTM Systems, Revenue Operations,
+    Marketing Operations, Salesforce Administration, GTM
+    Engineering, or a related field within B2B SaaS.
+  - Advanced hands-on Salesforce administration expertise,
+    including Flows, automation, permissions, integrations,
+    data architecture, reporting, dashboards, and governance.
+  - Advanced hands-on HubSpot administration expertise,
+    including workflows, lifecycle management, lead scoring
+    and routing, forms, campaigns, attribution, automation,
+    integrations, and reporting.
+  - Experience serving as a primary technical owner of
+    Salesforce and HubSpot, including managing the integration
+    and data flow between the two platforms.
+  - Strong understanding of the end-to-end B2B SaaS GTM
+    lifecycle across Marketing, Sales, and Customer Success,
+    with the ability to understand business requirements and
+    translate them into scalable technical solutions.
+  - Strong experience with GTM data enrichment and governance,
+    including enrichment providers, matching and mapping
+    logic, deduplication, normalization, data quality
+    monitoring, and CRM data management.
+  - Experience designing and maintaining cross-platform
+    integrations using APIs, webhooks, middleware, or workflow
+    automation platforms.
+  - Experience building scalable workflow automation using
+    native GTM platforms and tools such as n8n, Zapier, Make,
+    or similar technologies.
+  - Experience administering or integrating Customer Success
+    platforms and supporting post-sale customer data and
+    workflows.
+  - Experience applying AI and automation to GTM workflows, with
+    an understanding of where AI can create meaningful
+    business value and where traditional automation is the
+    better solution.
+  - Demonstrated ability to independently own business-critical
+    GTM systems, troubleshoot complex issues, and drive
+    technical initiatives from requirements through
+    deployment.
+  - Strong communication and partnership skills, with the
+    ability to work effectively with Revenue Operations,
+    Marketing, Sales, Customer Success, Analytics, and
+    technical and non-technical stakeholders.
+
+  Nice to Have
+
+  - Experience with GTM technologies such as Apollo, Clay,
+    LeanData, ZoomInfo, 6sense, Gong, Outreach, Qualified,
+    Clari, UserGems, Planhat, or similar platforms.
+  - Experience designing signal-based GTM workflows using
+    intent, engagement, enrichment, product, or customer data.
+  - Experience building or deploying AI-powered workflows or
+    agents within GTM systems.
+  - Working knowledge of SQL, Python, JavaScript, TypeScript, or
+    similar technologies used to extend and automate GTM
+    systems.
+  - Experience supporting a scaling SaaS organization through
+    systems transformation, technology consolidation, or
+    process redesign.
+
+  Why You Should Join Us
+
+  - Grow in a passionate, rapidly expanding industry operating
+    at the forefront of the Pentesting industry
+  - Work directly with experienced senior leaders with ongoing
+    mentorship opportunities
+  - Earn competitive compensation and an attractive equity plan
+  - Save for the future with a 401(k) program (US) or pension
+    (EU)
+  - Benefit from medical, dental, vision and life insurance (US)
+    or statutory healthcare (EU)
+  - Leverage stipends for:
+  - Make the most of our flexible, generous paid time off and
+    paid parental leave
+
+  Pay Range Disclosure (For US openings only)
+
+  Cobalt is committed to fair and equitable compensation
+  practices. The salary range for this role is ($135,000 -
+  $160,000) + equity + benefits. A candidate’s salary is
+  determined by various factors including, but not limited to,
+  relevant work experience, skills, and certifications.  The
+  salary range may differ in other states and may be impacted
+  by proximity to major metropolitan cities.
+
+  Cobalt (the "Company") is an equal opportunity employer, and
+  we want the best available persons for every job. The
+  Company makes employment decisions only based on merit. It
+  is the Company's policy to prohibit discrimination in any
+  employment opportunity (including but not limited to
+  recruitment, employment, promotion, salary increases,
+  benefits, termination and all other terms and conditions of
+  employment) based on race, color, sex, sexual orientation,
+  gender, gender identity, gender expression, genetic
+  information, pregnancy, religious creed, national origin,
+  ancestry, age, physical/mental disability, medical
+  condition, marital/domestic partner status, military and
+  veteran status, height, weight or any other such
+  characteristic protected by federal, state or local law. The
+  Company is committed to complying with all applicable laws
+  and providing equal employment opportunities. This
+  commitment applies to all persons involved in the operations
+  of the Company regardless of where the employee is located
+  and prohibits unlawful discrimination by any employee of the
+  Company.
+
+  Cobalt is an E-Verify employer. E-Verify is an Internet-
+  based system operated by the Department of Homeland Security
+  (DHS) in partnership with the Social Security Administration
+  (SSA). It allows participating employers to electronically
+  verify the employment eligibility of their newly hired
+  employees in the United States.
+industries:
+  - Security
+  - Software
+posted_date: 2026-08-26
+url: "https://www.builtinla.com/job/senior-gtm-systems-ai-engineer/10856078"
+source: Built In

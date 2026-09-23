@@ -1,0 +1,45 @@
+company:
+  name: Élisa
+  stage: null
+  focus: AI assistant building editable 3D scenes from conversation
+position:
+  title: Generative AI Engineer – 3D Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and owns LLM agent workflows, agent
+      development, and monitoring/refinement of agent behaviour,
+      which is directly shaping model behaviour through agentic
+      pipelines. LLM/agent components are central, so ai-first.
+  responsibilities:
+  - Design and own end-to-end AI/LLM workflows from data collection through deployment
+  - Design production-ready LLM pipelines for agentic workflows and agent development
+  - Automate multimodal dataset pipelines at scale
+  - Monitor agent usage and performance and refine based on insights
+  - Integrate agents with 3D scene composition in partnership with the engine team
+  - Document processes and contribute to incident response and continuous improvement
+  use_cases:
+  - Conversational assembly of fully editable 3D scenes
+  - Real-time scene building for games, advertising, and film
+  - Agents integrated with Unreal and Unity 3D engines
+  - Multimodal text + 3D dataset curation for model pipelines
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring]
+    languages: []
+    domains: []
+    other: [3D Data Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10951739'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:09:03.001516'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

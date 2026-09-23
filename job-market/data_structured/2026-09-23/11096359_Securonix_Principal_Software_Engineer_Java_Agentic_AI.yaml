@@ -1,0 +1,45 @@
+company:
+  name: Securonix
+  stage: null
+  focus: AI-powered SIEM and cybersecurity threat detection platform
+position:
+  title: Principal Software Engineer (Java & Agentic AI)
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The title mentions "Agentic AI" but the responsibilities are
+      generic cybersecurity software development with no evidence
+      of the person shaping model behaviour, prompts, retrieval,
+      or agent flows. The only AI mention is "Good Knowledge on AI
+      Tools & Agent Integration Experience" in requirements - too
+      vague to apply Step 1.
+  responsibilities:
+  - Lead design and development of complex software solutions for cybersecurity applications
+  - Oversee and mentor a team of software developers with technical guidance
+  - Collaborate with product managers, security analysts, and stakeholders on requirements
+  - Develop and maintain high-quality Java code following best practices
+  - Conduct code reviews and provide constructive feedback
+  - Troubleshoot and resolve software defects with timely fixes
+  - Participate in architecture and design of scalable, secure software systems
+  - Contribute to technical documentation including design specs and API docs
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: [Microservices, REST APIs, JSON]
+    databases: []
+    data: [Queue-Based Architecture]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, DevOps, Git, Infrastructure as Code]
+    languages: [Java, PHP]
+    domains: []
+    other: [Agile, Maven, Gradle, JUnit, Mockito, TestNG, AI Agent Integration, Laravel,
+      SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11096359'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:18:04.487558'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

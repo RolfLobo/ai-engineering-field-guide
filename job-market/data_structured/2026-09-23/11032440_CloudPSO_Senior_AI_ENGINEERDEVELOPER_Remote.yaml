@@ -1,0 +1,52 @@
+company:
+  name: CloudPSO
+  stage: null
+  focus: |-
+    Enterprise AI voice assistant platform for customer support
+    and operations
+position:
+  title: Senior AI ENGINEER/DEVELOPER (Remote)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, trains, and fine-tunes STT, NLU, and TTS
+      models themselves, which is shaping model behavior. The
+      models are speech/audio and intent-recognition systems with
+      no LLM, prompt, or agent component named, so the work is
+      classical speech/NLP ML -> ml-first.
+  responsibilities:
+  - Design, train, and fine-tune models and pipelines for STT, NLU, and TTS use cases
+  - Build and maintain MLOps pipelines for model deployment, monitoring, and retraining
+  - Develop APIs and services exposing AI capabilities to backend and frontend systems
+  - Optimize inference performance and end-to-end latency with backend engineers
+  - Create frontend prototypes, dashboards, and internal demos
+  - Conduct research and controlled experiments to improve model accuracy and quality
+  - Evaluate external models and providers against product requirements and benchmarks
+  - Document model architectures, experiments, and deployment processes
+  use_cases:
+  - Real-time voice transcription (speech-to-text) for voice agents
+  - Intent recognition and conversation control for natural language understanding
+  - Natural human-like voice responses (text-to-speech)
+  - Intelligent voice assistants for customer support, sales, and internal operations
+  - Low-latency, scalable cloud-native enterprise voice platform
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Hugging Face, Fine-Tuning, Model Training, Quantization,
+      NLP]
+    web: [React, Vue, Angular, WebSockets, WebRTC]
+    databases: []
+    data: []
+    cloud: [SageMaker, Vertex AI, Azure ML]
+    ops: [Docker, Kubernetes, TensorRT, Triton, ONNX, Git, CI/CD, MLOps, Model Deployment]
+    languages: [Python]
+    domains: [NLP]
+    other: [SIP, PSTN]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11032440'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:13:24.300404'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

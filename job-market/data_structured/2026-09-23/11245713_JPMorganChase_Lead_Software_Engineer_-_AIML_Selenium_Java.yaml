@@ -1,0 +1,57 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Commercial and Investment Bank technology
+position:
+  title: Lead Software Engineer - AI/ML, Selenium, Java
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role consumes AI-assisted tooling (enterprise-authorized
+      AI for requirements analysis, test optimization, code
+      review) but does not itself shape model behavior through
+      prompts, RAG, fine-tuning, or eval design; AI is used as an
+      accelerant within QA delivery governance, which the edge
+      cases classify as ai-support.
+  responsibilities:
+  - Own end-to-end QA delivery for assigned programs and releases, including scope,
+    plans, milestones, RAID management, and executive status reporting
+  - Define and maintain test strategy and test architecture across functional, regression,
+    integration, API, UI, performance, and data validation testing
+  - Lead automation roadmap and framework architecture decisions, including tooling
+    selection and CI/CD integration with Jenkins
+  - Promote AI-assisted quality engineering practices such as LLM-supported requirements
+    analysis, AI-assisted test planning, and intelligent failure analytics
+  - Establish and govern quality engineering standards across teams, including automation
+    coding standards, test data, and environment strategy
+  - Own the quality metrics framework (defect leakage, automation coverage, flakiness,
+    cycle time) and drive improvements with engineering partners
+  - Govern defect management and triage with severity standards, root cause analysis,
+    and stakeholder communication
+  - Build and mentor high-performing QA teams through coaching and capability development
+  use_cases:
+  - AI-assisted requirements analysis and acceptance criteria readiness
+  - AI-assisted test planning and coverage optimization
+  - Intelligent failure analytics and defect triage
+  - Test automation and CI/CD pipeline quality engineering
+  - Quality metrics and release governance for banking applications
+  skills:
+    genai: []
+    ml: [Machine Learning, NLP]
+    web: [Playwright]
+    databases: [Databases]
+    data: [Data Science]
+    cloud: [Cloud Computing]
+    ops: [CI/CD, Jenkins]
+    languages: [Java, Python, TypeScript]
+    domains: []
+    other: [Selenium, Jira, ALM Tools, QTEST, Object Repositories, XPATH, Agile, Waterfall,
+      Responsible AI, UFT, TOSCA, UiPath, Banking Domain]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11245713'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:31:56.048224'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

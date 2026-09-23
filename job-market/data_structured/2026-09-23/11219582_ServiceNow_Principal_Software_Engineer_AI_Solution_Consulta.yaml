@@ -1,0 +1,52 @@
+company:
+  name: ServiceNow
+  stage: null
+  focus: AI agents, assistants, and workflow automation platform
+position:
+  title: Principal Software Engineer / AI Solution Consultant (Armis)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and evaluates AI agents,
+      assistants, and agentic workflows with prompt engineering,
+      retrieval, guardrails, and rigorous evaluation of model
+      output quality — clear shaping of LLM/agent behavior.
+  responsibilities:
+  - Design, build, and productionize AI agents, assistants, and reusable skills for
+    Armis and its customers
+  - Turn ideas into working MVPs quickly and partner with engineering to harden them
+    into production systems
+  - Build evaluation into every shipped solution, defining and measuring quality,
+    safety, and reliability
+  - Compose secure-by-construction agentic workflows with isolation, guardrails, and
+    controls
+  - Select and integrate appropriate frameworks, tools, and models, and codify reusable
+    patterns for the COE
+  - Serve on the COE Consult team supporting teams across the organization
+  - Document solutions and how they should be used, operated, and evaluated
+  use_cases:
+  - Security-oriented AI agents and assistants for Armis and its customers
+  - Reusable AI skills and copilots deployed across company teams
+  - Production-grade agentic workflows with security guardrails
+  - Rapid MVP prototyping hardened into production AI systems
+  skills:
+    genai: [AI Agents, Agentic Workflows, Prompt Engineering, RAG, LLM Evaluation,
+      Guardrails, Anthropic API, OpenAI API, Gemini, Function Calling, Fine-Tuning]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11219582'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-09-23T11:27:36.474476'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

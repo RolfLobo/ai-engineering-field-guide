@@ -1,0 +1,51 @@
+company:
+  name: BJAK
+  stage: null
+  focus: Building AI-native proactive productivity apps like email
+position:
+  title: Staff Software Engineer, AI Email App
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs AI-powered workflow orchestration, tool
+      use, and state management for an LLM-based email product,
+      directly shaping agent behavior and reliability. LLM/agent
+      components are central, so it is ai-first.
+  responsibilities:
+  - Own application engineering strategy and execution across backend, mobile, and
+    desktop
+  - Design reliable systems for AI-powered workflows including state, orchestration,
+    tool use, retries, and failure handling
+  - Build APIs and abstractions connecting AI systems to real-world product experiences
+  - Lead a small senior engineering team and raise the technical bar through reviews
+    and mentorship
+  - Make high-impact trade-offs across latency, reliability, cost, security, and user
+    experience
+  - 'Establish production foundations: observability, monitoring, testing, and operational
+    excellence'
+  - Partner with ML leadership to turn model capabilities into shippable product experiences
+  use_cases:
+  - AI-native proactive email application
+  - Long-running automated workflows with retries and failure handling
+  - Organising conversations, errands, tasks and calendar with minimal prompting
+  - Real-world task completion with reduced hallucinations
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10887790'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:05:05.027767'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

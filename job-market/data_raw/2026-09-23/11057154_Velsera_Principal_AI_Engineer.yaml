@@ -1,0 +1,270 @@
+job_id: 11057154
+title: Principal AI Engineer
+company: Velsera
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Principal AI Engineer — Velsera
+
+  AI Platform & Enablement · Reports to the CTO · Senior
+  individual contributor
+
+  About the role
+
+  Velsera builds software and infrastructure for precision
+  medicine — research platforms, clinical and diagnostic
+  applications, and the systems that keep them running in
+  regulated environments. We are adding AI capability across
+  that portfolio and inside our own operations: governed model
+  access, self-hosted and managed LLM serving, evaluation and
+  audit, and integration into the products and business
+  processes people already depend on.
+
+  This is a deliberately broad role. You will be deployed
+  where the highest-value AI work is at the time — a customer-
+  facing product capability in one quarter, an internal
+  enterprise workflow in the next, a strategic account or
+  funded program after that. The mandate stays the same
+  wherever you land: design and ship production AI systems
+  that hold up under real compliance requirements, work across
+  AWS, Azure, and GCP, and leave behind reusable patterns
+  rather than one-off builds.
+
+  You will set technical direction for what is expected to
+  grow into an AI platform and enablement team.
+
+  What you'll work on
+
+  - Build a governed model access layer — self-hosted open-
+    weight models, cloud-managed models (Bedrock, Vertex AI,
+    Azure OpenAI), and customer- or partner-supplied models —
+    designed to be consumed by more than one product or
+    business function.
+
+  - Integrate AI capabilities into product experiences and
+    enterprise workflows across batch, interactive, and
+    agentic patterns.
+
+  - Establish the patterns everyone else reuses: evaluation,
+    versioning, approvals, audit trails, cost control,
+    guardrails, and safe rollout and rollback.
+
+  - Partner with product, engineering, security,
+    QARA/compliance, IT, and scientific and commercial teams
+    to introduce AI-native architectures that people can
+    actually adopt.
+
+  - Move between assignments as business priorities shift, and
+    make what you build in one part of the business usable in
+    the next.
+
+  What you'll deliver (first 6–12 months)
+
+  - A production-ready, compliant AI/LLM serving and invocation
+    layer that at least two products or business functions
+    adopt — multi-tenant, auditable, and secure.
+
+  - A model governance workflow (intake, evaluation, approval,
+    versioning, deprecation) that satisfies both regulated
+    customers and our own quality system.
+
+  - Two or three AI capabilities shipped end to end in different
+    parts of the business — for example a customer-facing
+    product feature, an internal process automation, and
+    assisted validation or compliance tooling.
+
+  - Integration patterns that preserve reproducibility,
+    traceability, and standards alignment wherever the work
+    lands.
+
+  - Operational readiness: monitoring, evaluation harnesses,
+    incident playbooks, cost visibility, and measurable SLOs
+    for key AI services.
+
+  - A defensible internal point of view on where we should
+    build, buy, or not use AI at all — backed by what you
+    shipped.
+
+  How we build (and what we'll expect you to optimize for)
+
+  You will make trade-offs in an environment that is multi-
+  product, multi-cloud, standards-driven, and compliance-
+  heavy. A few things matter a lot here:
+
+  - Reusability over one-offs. Design the second and third use
+    case into the first one. A solution that only works for
+    one product or one team is a partial solution.
+
+  - Standards and clean interfaces. Prefer open standards and
+    well-defined boundaries over bespoke integrations.
+
+  - Multi-cloud, multi-deployment reality. AWS, Azure, and GCP
+    are all in play, alongside customer-managed and self-
+    hosted environments. Avoid hard dependencies on a single
+    provider's AI stack.
+
+  - Security and auditability by default. Access control,
+    logging, traceability, and data governance are part of the
+    design, not add-ons.
+
+  - Reproducibility. AI features have to fit into workflows and
+    processes that need to be repeatable and explainable,
+    sometimes years later.
+
+  - Proportion. Ship the smallest thing that genuinely works,
+    then harden it. Governance that makes a workflow unusable
+    has failed.
+
+  Requirements
+
+  What we're looking for
+
+  Must-haves
+
+  - 7+ years in software engineering, including 3+ years
+    shipping AI/ML systems to production.
+
+  - Strong Python, plus one of Java, Go, or TypeScript;
+    comfortable in a polyglot codebase and in production code
+    review.
+
+  - Hands-on experience with secure cloud architecture on at
+    least one major cloud — network isolation, IAM boundaries,
+    private connectivity, audit logging — and readiness to
+    work in the others.
+
+  - Experience operating or integrating model serving across
+    delivery modes: self-hosted open-weight models, managed
+    model APIs, and customer-provided models.
+
+  - MLOps/LLMOps experience with tooling such as AWS Bedrock,
+    Google Vertex AI, Azure AI Foundry, or equivalent.
+
+  - Built governance for ML/LLM systems: evaluation, versioning,
+    approvals, rollout and rollback, deprecation.
+
+  - Comfortable designing for regulated or audited environments
+    (HIPAA, 21 CFR Part 11, GxP, FedRAMP, SOC 2, GDPR, or
+    similar).
+
+  - Experience with RAG and LLM tool-use/agentic patterns beyond
+    prototypes, including how you evaluated them.
+
+  - Track record integrating with systems you don't own —
+    existing products, third-party SaaS, enterprise data
+    sources — without breaking them.
+
+  - Clear written communication for mixed audiences:
+    engineering, product, security and compliance, business
+    stakeholders, and scientists.
+
+  - Comfort switching context across problem domains and
+    starting from ambiguous requirements.
+
+  Nice-to-haves
+
+  - Experience in genomics, biomedical data, or life sciences
+    platforms.
+
+  - Software built under a quality management system (ISO 13485,
+    IEC 62304, IVDR) or in clinical/diagnostic contexts.
+
+  - Integrating AI capabilities into workflow or orchestration
+    engines (CWL/WDL/Nextflow or similar).
+
+  - Familiarity with GA4GH standards (WES/DRS/TRS) and/or
+    clinical data models (FHIR, OMOP).
+
+  - Enterprise systems integration: CRM, ERP, ITSM, document and
+    quality management, collaboration suites.
+
+  - Production experience on more than one cloud, with pragmatic
+    multi-cloud trade-off judgment.
+
+  - Experience on customer-funded or grant-funded engagements
+    alongside product and services teams.
+
+  This role is a fit if…
+
+  - You want to build the platform layer and the capabilities on
+    top of it — not model research or prompt engineering
+    alone.
+
+  - You would rather solve four different problems well across a
+    business than the same problem for three years.
+
+  - You are energized rather than frustrated by environments
+    where auditability, access control, and traceability are
+    hard requirements.
+
+  - You like improving live production systems without breaking
+    what customers and colleagues rely on.
+
+  - You are willing to say no to AI when it is not the right
+    tool, and to say so in writing.
+
+  Why join
+
+  You'll shape how AI gets built across Velsera — in the
+  products our customers run sensitive biomedical data
+  through, and in the way we operate as a company. The
+  constraints are real, the users are close, and the scope of
+  ownership is unusually broad for a single role.
+
+  Benefits
+
+  Our core values
+
+  People first. We create collaborative and supportive
+  environments by operating with respect and flexibility to
+  promote mental, emotional and physical health. We practice
+  empathy by treating others the way they want to be treated
+  and assuming positive intent. We are proud of our inclusive
+  diverse team and humble ourselves to learn about and build
+  our connection with each other.
+
+  Patient focused. We act with swift determination without
+  sacrificing our expectations of quality. We are driven by
+  providing exceptional solutions for our customers to
+  positively impact patient lives. Considering what is at
+  stake, we challenge ourselves to develop the best solution,
+  not just the easy one.
+
+  Integrity. We hold ourselves accountable and strive for
+  transparent communication to build trust amongst ourselves
+  and our customers. We take ownership of our results as we
+  know what we do matters and collectively we will change the
+  healthcare industry. We are thoughtful and intentional with
+  every customer interaction understanding the overall impact
+  on human health.
+
+  Curious. We ask questions and actively listen in order to
+  learn and continuously improve. We embrace change and the
+  opportunities it presents to make each other better. We
+  strive to be on the cutting edge of science and technology
+  innovation by encouraging creativity.
+
+  Impactful. We take our social responsibility with the
+  seriousness it deserves and hold ourselves to a high
+  standard. We improve our sustainability by encouraging
+  discussion and taking action as it relates to our natural,
+  social and economic resource footprint. We are devoted to
+  our humanitarian mission and look for new ways to make the
+  world a better place.
+
+  Velsera is an Equal Opportunity Employer:
+
+  Velsera is proud to be an equal opportunity employer
+  committed to providing employment opportunity regardless of
+  sex, race, creed, color, gender, religion, marital status,
+  domestic partner status, age, national origin or ancestry,
+  physical or mental disability, medical condition, sexual
+  orientation, pregnancy, military or veteran status,
+  citizenship status, and genetic information
+industries:
+  - Healthtech
+  - Biotech
+posted_date: 2026-09-08
+url: "https://www.builtinla.com/job/principal-ai-engineer/11057154"
+source: Built In

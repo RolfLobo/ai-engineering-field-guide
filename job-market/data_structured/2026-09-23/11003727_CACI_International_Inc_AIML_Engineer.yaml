@@ -1,0 +1,55 @@
+company:
+  name: CACI International Inc
+  stage: null
+  focus: Defense and intelligence technology services
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG frameworks, manages multi-agent
+      workflows, fine-tunes LLMs, and builds evals/guardrails -
+      directly shaping model behavior. LLM/agent components are
+      central, so ai-first.
+  responsibilities:
+  - Architect, build, and deploy ML and Generative AI models on Kubernetes, GCP Vertex
+    AI, and TPUs
+  - Design RAG frameworks, manage multi-agent workflows, and fine-tune LLMs for defense
+    problems
+  - Transition ML prototypes from notebooks into highly available production environments
+  - Design and deploy secure model endpoints with error handling, retries, and fallbacks
+  - Establish end-to-end CI/CD pipelines for real-time inference and model updates
+  - Implement evaluation frameworks and guardrails to eliminate hallucinations and
+    bias
+  - Implement model governance with version control, auditability, and Explainable
+    AI standards
+  - Act as technical advisor to HTAP mission owners and coach teams on cloud ML integration
+  use_cases:
+  - Object detection for defense applications
+  - Natural language processing for operational defense problems
+  - Time-series prediction
+  - Automated operational decision-making with guardrails against hallucinations
+  - Defense and intelligence analysis supporting SOCEUR missions
+  skills:
+    databases: [Vector Databases, Vertex AI Vector Search]
+    domains: [NLP, Speech/Audio Processing]
+    data: [Pandas, NumPy]
+    web: [Jupyter Notebooks]
+    ml: [Machine Learning, TPUs, PyTorch, TensorFlow, Keras, scikit-learn, OpenCV,
+      Hugging Face, JAX, XLA, CUDA, CuPy, Numba, BERT, Reinforcement Learning]
+    ops: [Kubernetes, CI/CD, Git, GitLab CI, Bitbucket, Docker, Podman, Rancher]
+    other: [Explainable AI, HPC, Edge AI]
+    cloud: [GCP, Vertex AI, BigQuery, Dataflow, Cloud Storage, AWS, AWS Lambda, AWS
+        S3]
+    languages: [Python, C++]
+    genai: [Generative AI, LLMs, RAG, Agentic Workflows, Fine-Tuning, Guardrails,
+      Prompt Engineering, Embeddings, LangChain, MCP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11003727'
+  location: DEU
+  remote: true
+  extracted_at: '2026-09-23T11:12:02.102481'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

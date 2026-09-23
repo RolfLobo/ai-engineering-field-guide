@@ -1,0 +1,50 @@
+company:
+  name: Aleph
+  stage: Backed by Khosla Ventures, Bain Capital Ventures, YC, Picus Capital
+  focus: AI-native FP&A financial planning and analysis platform
+position:
+  title: Staff+ Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns model selection/routing, context management,
+      prompt/context engineering, tool design, and eval
+      infrastructure for LLM-based agentic features - directly
+      shaping model behavior. LLM/agent components dominate, so
+      ai-first.
+  responsibilities:
+  - 'Own the AI foundation: model selection and routing, model proxy layer, context
+    management, and tool design'
+  - Own eval infrastructure, working with customers and finance domain experts to
+    define and encode quality standards
+  - Ship agentic features end to end including prompt and context engineering, caching,
+    parallel tool calls, and subagent patterns
+  - Build observability into agent behavior to profile and identify bottlenecks
+  - Track developments in agentic systems and adopt proven practices
+  - Build and ship production LLM systems, not research
+  use_cases:
+  - Asking questions of your financials in natural language
+  - Agents that execute full FP&A workflows
+  - Model routing and proxying for AI features across product teams
+  - Quality evaluation of AI-generated financial answers
+  skills:
+    genai: [LLMs, LLM Evaluation, Prompt Engineering, Context Engineering, Function
+        Calling, AI Agents, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10883791'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:04:27.861197'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Aaru
+  stage: null
+  focus: AI simulations of human behavior for decision testing
+position:
+  title: Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes agent behavior directly: interaction design,
+      tool use, context handling, orchestration, and model
+      behavior within Aaru's LLM agent simulations, plus building
+      evaluation harnesses for agent/simulation quality. That is
+      agent and LLM shaping work, so ai-first.
+  responsibilities:
+  - Improve agent functionality including interaction design, tool use, context handling,
+    orchestration, reliability, and model behavior
+  - Optimize simulation pipelines for throughput and efficiency in large or repeated
+    runs
+  - Build evaluation harnesses and supporting architecture to make agent and simulation
+    capabilities testable and reproducible
+  - Prototype and evaluate promising company bets through focused experiments, then
+    build out ideas that merit investment
+  - Work cross-functionally with engineering and GTM teams to make new capabilities
+    usable and dependable
+  - Write clear technical designs and documentation surfacing assumptions, tradeoffs,
+    and risks
+  use_cases:
+  - Human behavior simulations with AI agent populations for decision testing
+  - Testing product launches, pricing decisions, and strategic communications before
+    committing
+  - Policy change simulation for companies and institutions
+  - Agent-based simulation infrastructure and evaluation
+  skills:
+    genai: [AI Agents, LLMs, Function Calling, Agentic Workflows, LLM Evaluation]
+    ml: []
+    web: [React, APIs]
+    databases: [Relational Databases]
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11293893'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:36:11.487850'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

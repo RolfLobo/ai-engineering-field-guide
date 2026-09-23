@@ -1,0 +1,52 @@
+company:
+  name: Fusion Practices
+  stage: null
+  focus: Oracle Fusion Cloud ERP integration and extension platform
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG-based applications and
+      integrates LLMs directly, which shapes model behavior
+      through retrieval and prompting. LLMs are central, so it is
+      ai-first.
+  responsibilities:
+  - Build AI-powered applications and backend services using Python and FastAPI
+  - Develop RAG-based applications using LLMs and enterprise data
+  - Integrate LLMs such as OpenAI, Claude/Anthropic, Llama and Gemini
+  - Build AI applications using LangChain and LlamaIndex
+  - Work with vector databases such as Pinecone, ChromaDB, Supabase or Oracle Vector
+    Database
+  - Design and develop REST APIs and backend services
+  - Use AI coding tools such as Cursor, Claude Code, GitHub Copilot or ChatGPT to
+    accelerate development
+  - Contribute to testing, debugging, deployment and continuous improvement of AI
+    products
+  use_cases:
+  - AI applications and agents reasoning over enterprise ERP data
+  - RAG over enterprise data for custom Oracle Fusion Cloud modules
+  - Integration of LLMs into an API-exposed extension platform
+  - AI-assisted development of integration modules
+  skills:
+    genai: [RAG, LLMs, Generative AI, OpenAI API, Anthropic API, Llama, Gemini, LangChain,
+      LlamaIndex, Claude Code, ChatGPT, AI Agents, Agentic Workflows, Function Calling,
+      MCP]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: [Vector Databases, Pinecone, Chroma, Supabase, Oracle Vector DB, Oracle
+        Fusion, OIC, Relational Databases]
+    data: []
+    cloud: [AWS, Azure, OCI]
+    ops: [Cursor, GitHub Copilot, Git, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11139534'
+  location: New Delhi, IND
+  extracted_at: '2026-09-23T11:21:29.797546'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

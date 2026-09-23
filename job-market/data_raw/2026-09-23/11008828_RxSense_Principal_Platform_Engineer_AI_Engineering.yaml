@@ -1,0 +1,207 @@
+job_id: 11008828
+title: Principal Platform Engineer, AI Engineering
+company: RxSense
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  We are a healthcare technology company that provides
+  platforms and solutions to improve the management and access
+  of cost-effective pharmacy benefits. Our technology helps
+  enterprise and partnership clients simplify their businesses
+  and helps consumers save on prescriptions.
+
+  As a leader in SaaS technology for healthcare, we offer
+  innovative solutions with integrated intelligence on a
+  single enterprise platform that connects the pharmacy
+  ecosystem.  With our expertise and modern, modular platform,
+  our partners use real-time data to transform their business
+  performance and optimize their innovative models in the
+  marketplace.
+
+  About RxSense
+
+  RxSense is a privately held health technology company that
+  is re-envisioning the platforms and data solutions used to
+  manage pharmacy benefits in order to make prescription drugs
+  more affordable for everyone.  RxSense also provides
+  prescription benefit solutions directly to millions of
+  people through its consumer brand, SingleCare. We have saved
+  our customers over $4B on prescription medications since
+  2015.
+
+  We are a team of forward thinking, experienced health and
+  technology professionals working together to solve big
+  problems and create value in an industry that is personal
+  for everyone - healthcare.
+
+  About the role
+
+  RxSense sits at the intersection of pharmacy benefits and
+  technology. We are building a new cloud platform that we own
+  end to end, and it will carry the next generation of RxSense
+  products, from established pharmacy benefit services to AI-
+  native applications.
+
+  We are hiring a Principal Platform Engineer to lead the
+  technical build. You will set the direction for how services
+  across engineering are built, deployed, secured, observed,
+  and paid for. This is a greenfield platform with real
+  production stakes: the decisions you make in the first year
+  become the defaults every engineer works inside of for years
+  after.
+
+  This is a hands-on principal role, not an architecture-
+  diagram role. You will write Terraform and Helm, shape
+  CI/CD, harden clusters, and set the standards the rest of
+  engineering codes against.You will be embedded with AI
+  Engineering, the team pushing hardest on the platform today,
+  and you will partner closely with data engineering so
+  analytics and pipeline workloads are first-class from the
+  start.
+
+  What you will do
+
+  - Build the infrastructure as code foundation. Design and
+    maintain a Terraform monorepo across dev, QA, staging, and
+    production, covering Kubernetes clusters, networking, IAM,
+    and per-application platform stacks. Keep state layout,
+    module boundaries, and provider baselines clean and
+    current.
+  - Run Kubernetes at production quality. Operate EKS clusters
+    end to end: node lifecycle, autoscaling, ingress, workload
+    identity, secrets delivery, and cluster security. Keep
+    clusters hardened and appropriately isolated.
+  - Build and defend the deploy pipeline. Build push-based CI/CD
+    on self-hosted GitHub Actions runners, with build-once,
+    promote-everywhere artifact immutability across
+    environments. Enforce a promotion flow so no environment
+    is ever skipped and production always mirrors a released
+    artifact.
+  - Make the platform the fastest path to production. Maintain a
+    shared Helm chart library and per-service charts (backend,
+    frontend, scheduled jobs) that every service deploys
+    through. Build golden paths so a new service reaches
+    production on day one with logging, metrics, secrets,
+    identity, and a pipeline already wired in. Push per-
+    application behavior into configuration rather than chart
+    branching.
+  - Harden the security and compliance posture. Set least-
+    privilege IAM, secrets management, network boundaries,
+    image provenance, and production guardrails. Make controls
+    automatic where you can and auditable where you cannot, so
+    evidence for security reviews falls out of the platform
+    instead of getting assembled by hand.
+  - Keep cloud spend predictable. Treat cost as a platform
+    property. Establish tagging and allocation that answer
+    what each service and environment actually costs, right-
+    size compute, and keep spend predictable as traffic, data,
+    and model inference grow.
+  - Build observability in, not on. Establish structured
+    logging, metrics, tracing, and correlation across service
+    hops as a default property of the platform. Treat
+    telemetry contracts as published, versioned schemas rather
+    than debug output.
+  - Set standards. Define the platform conventions (tagging,
+    naming, DNS, versioning, security posture) and document
+    the reasoning behind them. Review infrastructure and
+    deploy changes, mentor engineers, and make the platform
+    something the team can extend.
+  - Partner across engineering. Work with application, data, and
+    AI teams so the platform fits how services actually run,
+    including the contracts they deploy against and the
+    environments they promote through.
+
+  Education/Experience/Competencies
+
+  - 8 + years building and operating production platform
+    infrastructure. Not a hard cutoff: strong candidates with
+    less experience can still be considered.
+  - Proven, hands-on experience operating production Kubernetes
+    end to end, including cluster lifecycle, autoscaling,
+    ingress, workload identity, secrets delivery, and
+    hardening (EKS preferred).
+  - Proven, hands-on experience owning infrastructure as code in
+    Terraform at scale, including module design, state layout
+    across multiple environments, and provider upgrades.
+  - A track record of building or substantially rebuilding a
+    CI/CD system yourself (e.g., GitHub Actions, GitLab CI,
+    Argo, Jenkins), with clear positions on artifact
+    immutability, build-once and promote-everywhere delivery,
+    and keeping application pipelines thin.
+  - Experience running self-hosted GitHub Actions runners at
+    scale.
+  - Hands-on depth in AWS: IAM, VPC networking and DNS, secrets
+    management (e.g., Secrets Manager, External Secrets),
+    container registries, and managed compute.
+  - Hands-on experience with Helm at scale, including shared
+    chart libraries, templating boundaries, and per
+    environment configuration, alongside GitOps or push-based
+    deployment workflows.
+  - Proven experience building the developer-facing side of a
+    platform: service templates, golden paths, self-service
+    tooling, and documentation.
+  - Hands-on experience implementing observability, including
+    structured logging, metrics, and distributed tracing
+    (e.g., OpenTelemetry, Prometheus and Grafana, Datadog),
+    with correlation that holds across service boundaries.
+  - Practical security experience in a regulated or security-
+    sensitive environment: least privilege IAM, secrets
+    hygiene, network isolation, image provenance and scanning,
+    and rigorous PHI/PII handling, built so audit evidence
+    comes out of the platform rather than getting assembled by
+    hand.
+  - Experience supporting data workloads on Kubernetes (e.g.,
+    Spark, Kafka, or orchestration tools such as Airflow or
+    Dagster).
+  - Demonstrated cloud cost ownership, including tagging and
+    allocation, right sizing, and measurable spend reduction
+    that did not degrade reliability.
+  - A track record of writing and shipping production code
+    yourself, not just producing diagrams and design
+    documents. Working fluency in at least one backend
+    language (e.g., Python, Go, C# / .NET) and comfort in the
+    shell.
+  - Excellent communication and collaboration skills. You
+    translate infrastructure and deployment decisions into
+    terms engineers, architects, and non-technical leadership
+    can act on, and you write things down so decisions outlive
+    the conversation.
+  - Experience mentoring engineers on infrastructure,
+    deployment, and platform thinking, and setting standards a
+    team can extend safely without you in the room.
+  - Comfort working in a small, fast moving team where you will
+    wear multiple hats, and a bias toward directness over
+    ceremony: minimal dependency sprawl, skepticism of
+    abstractions that do not earn their cost, and a preference
+    for clear, traceable systems over fashionable patterns.
+
+  Bonus Qualifications
+
+  - Experience in healthcare, pharmacy benefits, or another
+    regulated data environment.
+  - Direct experience preparing infrastructure evidence for
+    HIPAA, SOC 2, or comparable audits.
+  - Experience standing up platforms from scratch (greenfield),
+    not just extending or migrating existing systems.
+  - Experience supporting latency-sensitive or high-throughput
+    services, including workloads that call large language
+    models, with attention to cost and latency.
+
+  Salary Range: 190,000 - 235,000
+
+  RxSense believes that a diverse workforce is a more talented
+  and productive workforce. As such, we are an Equal
+  Opportunity and Affirmative Action employer. Our recruitment
+  process is free from discriminatory hiring practices and all
+  qualified applicants are considered for employment without
+  regard to race, color, religion, sex, gender, sexual
+  orientation, gender identity, ancestry, age, or national
+  origin.  Neither will qualified applicants be discriminated
+  against on the basis of disability or protected veteran
+  status.  We believe in the strength of the collaboration,
+  creativity and sense of community a diverse workforce
+  brings.
+posted_date: 2026-09-03
+url: "https://www.builtinla.com/job/principal-platform-engineer-ai-engineering/11008828"
+source: Built In

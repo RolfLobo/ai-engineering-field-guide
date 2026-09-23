@@ -1,0 +1,51 @@
+company:
+  name: Eli Lilly and Company
+  stage: null
+  focus: Pharmaceutical company discovering and delivering medicines
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG solutions, and agentic
+      workflows with LLMs themselves, which is directly shaping
+      model behavior. LLM/agent components are central, so it's
+      ai-first.
+  responsibilities:
+  - Design and build AI-powered applications using LLMs, agentic workflows, and RAG
+    on enterprise knowledge sources
+  - Integrate AI services with business applications and external systems; evaluate
+    and monitor AI application performance
+  - Build responsive frontend applications and scalable backend services and APIs
+  - Deploy and manage cloud-native applications on AWS with CI/CD, Docker, and Kubernetes
+  - Design and manage SQL and NoSQL databases; integrate enterprise and third-party
+    systems
+  - Implement monitoring, logging, and observability best practices and collaborate
+    with product teams
+  use_cases:
+  - Enterprise AI copilots and intelligent assistants
+  - Agentic AI workflows with tools, reasoning, memory, and orchestration
+  - RAG solutions grounded in enterprise knowledge sources
+  - AI service integration with business applications and collaboration platforms
+  - Full-stack cloud-native applications for business teams
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Agentic Workflows, LangGraph, LangChain,
+      LlamaIndex, OpenAI API, Anthropic API, AWS Bedrock, Azure OpenAI, Semantic Search,
+      MCP, Generative AI]
+    ml: []
+    web: [FastAPI, Flask, Microservices, React]
+    databases: [Vector Databases, PostgreSQL, MySQL, SQL Server, NoSQL, SQL]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, GitLab CI]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Microsoft Teams, Jira, ServiceNow]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11199408'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:26:14.567584'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

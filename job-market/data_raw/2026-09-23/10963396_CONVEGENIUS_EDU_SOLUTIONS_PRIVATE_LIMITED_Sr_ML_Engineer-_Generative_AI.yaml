@@ -1,0 +1,176 @@
+job_id: 10963396
+title: Sr. ML Engineer- Generative AI
+company: CONVEGENIUS EDU SOLUTIONS PRIVATE LIMITED
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 576 Employees
+description: |
+  Does working for 150+ million children of Bharat excite you?
+
+  Then this opportunity is for you!
+
+  About us:
+
+  ConveGenius is an AI-native education infrastructure company
+  transforming how governments, enterprises, and social
+  institutions deliver learning and governance outcomes at
+  population scale. Operating across B2G and B2B segments, the
+  company partners with state governments, CSR funders,
+  philanthropies, and social enterprises to build intelligent
+  education ecosystems that are both impactful and
+  commercially sustainable.
+
+  At its core, ConveGenius runs two synergistic business
+  lines:
+
+  - SwiftAI – the intelligence and automation layer that powers
+    citizen engagement, governance efficiency, and real-time
+    decision-making for governments and institutions.
+  - SwiftSchool – the learning infrastructure layer that
+    integrates adaptive learning, digital classrooms, and
+    analytics to drive measurable student and system outcomes.
+
+  This dual-engine model enables ConveGenius to serve as the
+  technology backbone for education reform — connecting
+  classrooms, communities, and command centres through a
+  unified AI-powered framework. Unlike traditional edtech
+  companies that deliver content, ConveGenius builds
+  infrastructure — platforms that integrate deeply into public
+  delivery systems while enabling private and philanthropic
+  partners to scale their missions with measurable results.
+
+  With operations across 22+ Indian states and partnerships
+  with multilaterals, CSR alliances, and government
+  departments, ConveGenius has established itself as a
+  partner-friendly enterprise trusted for aligning policy
+  priorities with social and financial returns. Supported by
+  institutional investors and guided by a double bottom line
+  philosophy, the company consistently delivers impact at
+  scale and profitability with purpose.
+
+  As ConveGenius enters its next phase of growth, it is
+  shaping the future of AI-led public education infrastructure
+  — where technology, partnerships, and governance
+  intelligence converge to redefine how nations learn and
+  thrive.
+
+  Learn more about us: https://linktr.ee/convegenius11
+
+  As the Sr. ML Engineer - Generative AI  at ConveGenius, you
+  will design, build, and ship production LLM-powered systems
+  that power personalised learning in Indian languages and
+  educational contexts. You own applications end-to-end: RAG
+  and agentic pipelines, evaluation harnesses, and the
+  services that serve them in production — with a strong bar
+  for software engineering, not just model or prompt work.
+  Fine-tuning experience is a plus for this role, not a
+  requirement.
+
+  This role is part of a 0-to-1 vertical build. The person
+  joining should be comfortable with ambiguity, high
+  ownership, rapid iteration, hands-on execution, team
+  building, and periods of high-intensity work during the
+  early setup phase.
+
+  Key Responsibilities
+
+  - Design, build, and ship production-grade LLM applications:
+    RAG pipelines, agentic workflows, and tool-calling systems
+    for education-specific use cases such as question
+    answering, content generation, adaptive feedback, and
+    curriculum alignment.
+  - Own full system architecture: data pipelines, retrieval
+    layers, orchestration, APIs, and service infrastructure —
+    written as maintainable, tested production code, not
+    notebooks or scripts.
+  - Build rigorous LLM evaluation frameworks: task-specific
+    benchmarks, regression testing, human eval loops, and
+    automated quality gates to catch degradation before it
+    ships.
+  - Own latency and cost at the application layer: caching
+    strategies, request batching, model/route selection, and
+    prompt-context optimisation to keep production systems
+    fast and affordable at scale.
+  - Build data pipelines for grounding and instruction data,
+    including multilingual and Indic language sources.
+  - Assess new open-source and closed model releases for domain
+    applicability, cost, and production readiness.
+  - Define and track system performance metrics, evaluation
+    benchmarks, and reliability targets across all shipped
+    features.
+  - Work with open-source and sovereign LLMs, integrating them
+    into production-proven serving and orchestration
+    frameworks.
+  - Where warranted, fine-tune or adapt foundation models
+    (LoRA/QLoRA/SFT) — a strong plus, not a gating requirement
+    for this role.
+
+  Must-Have Skills
+
+  - Strong production Python engineering: clean, tested,
+    maintainable code — not scripts or notebooks. Comfortable
+    owning services in production.
+  - Hands-on experience building and shipping RAG or agentic
+    systems in production: retrieval design, orchestration
+    (e.g. LangChain/LangGraph or equivalent), tool calling,
+    and multi-step reasoning pipelines.
+  - Demonstrated experience building LLM evaluation systems:
+    benchmarks, regression tests, human-eval workflows, and
+    quality monitoring — not just anecdotal "it works."
+  - Experience building and operating backend systems/services:
+    APIs, data pipelines, deployment, and monitoring in a real
+    production environment.
+  - Working knowledge of AI/ML pipelines, data preparation, and
+    model deployment.
+  - Experience working with open-source and sovereign LLMs,
+    using standard, production-proven frameworks.
+  - Understanding of cloud platforms and infrastructure for
+    serving ML/LLM systems at scale.
+
+  Good to Have
+
+  - Hands-on fine-tuning experience with LoRA, QLoRA, SFT, DPO,
+    or similar preference-optimisation techniques.
+  - Familiarity with DeepSpeed, FSDP, or large-scale distributed
+    training frameworks.
+  - Experience with inference optimisation (quantisation, ONNX,
+    efficient serving) at the model layer
+
+  What We Offer and Why You Should Join ConveGenius
+
+  At ConveGenius, we create an environment where purpose meets
+  growth. You will be part of a mission driven organization
+  that is transforming how learning reaches children across
+  India, especially at scale and where it matters most.
+
+  - Work with a diverse and passionate team spread across India,
+    bringing together people from different backgrounds,
+    perspectives, and expertise.
+  - Be part of an organization with a strong on ground presence
+    across more than two thirds of India, giving you exposure
+    to large scale, real world impact.
+  - Play a meaningful role in strengthening the education
+    ecosystem and contributing directly to learning outcomes
+    for millions of children.
+  - Gain experience working at the intersection of education,
+    technology, and public systems, building skills that are
+    highly relevant and future focused.
+  - Work in a culture that values ownership, learning, and
+    collaboration, with space to take initiative and grow
+    professionally.
+  - Enjoy stability and peace of mind with employee friendly
+    benefits, including health insurance coverage and other
+    supportive policies.
+  - If you are driven by purpose, enjoy solving complex
+    problems, and want your work to create visible impact,
+    ConveGenius offers a place to grow while making a
+    difference.
+industries:
+  - Artificial Intelligence
+  - Edtech
+  - Social Impact
+  - Software
+posted_date: 2026-09-01
+url: "https://builtin.com/job/sr-ml-engineer-generative-ai/10963396"
+source: Built In

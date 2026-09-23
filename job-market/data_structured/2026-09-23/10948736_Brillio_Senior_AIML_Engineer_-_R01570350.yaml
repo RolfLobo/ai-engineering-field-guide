@@ -1,0 +1,49 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and data science services
+position:
+  title: Senior AI/ML Engineer - R01570350
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role centers on classical ML/statistical modeling:
+      statistical modeling, feature engineering, ML algorithms,
+      deep learning frameworks, with no LLM prompting, RAG, or
+      agent design responsibilities. 'Exposure to agentic AI' is a
+      passing nice-to-have, not core work, so the shaping work
+      here is classical ML.
+  responsibilities:
+  - Translate business challenges into structured data science problems aligned with
+    organizational objectives
+  - Develop, monitor, and validate OKRs using advanced statistical techniques
+  - Perform advanced data wrangling, cleansing, and transformation on large datasets
+  - Deliver data-driven insights through data storytelling and visualization
+  - Lead technical decision-making for modeling iterations and performance optimization
+  - Collaborate with cross-functional teams to implement scalable data science solutions
+  - Promote data literacy and data-driven decision-making across the organization
+  use_cases:
+  - Business analytics and OKR tracking through statistical modeling
+  - Data-driven insights and decision support for stakeholders
+  - Predictive modeling on large complex datasets
+  - Scalable data science solutions driving business value
+  skills:
+    databases: []
+    domains: []
+    data: [Data Mining, Spark, Hadoop]
+    web: []
+    ml: [Statistical Modeling, Machine Learning, Feature Engineering, Deep Learning,
+      TensorFlow, PyTorch]
+    ops: [MLOps]
+    other: [Tableau, Power BI, Matplotlib]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python, R]
+    genai: [AI Agents]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10948736'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:08:33.277516'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

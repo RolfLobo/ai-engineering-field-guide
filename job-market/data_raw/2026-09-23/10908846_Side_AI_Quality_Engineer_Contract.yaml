@@ -1,0 +1,66 @@
+job_id: 10908846
+title: AI Quality Engineer (Contract)
+company: Side
+location: Hyderabad, IND
+work_type: CONTRACTOR
+company_size: 488 Employees
+description: |
+  AI Quality Engineer Location:- Hyderabad Work Mode:- WFO (5
+  days a week) Role Type:- Contractual (3 months and extension
+  would depend on project requirement and performance) Key
+  Responsibilities
+
+  - Test and validate AI-generated insights, recommendations,
+    and decision-making workflows.
+  - Evaluate LLM and RAG systems for accuracy, relevance,
+    consistency, factuality, and hallucinations.
+  - Validate retrieval quality, context relevance, grounding,
+    and response quality in RAG systems.
+  - Test AI agents and autonomous workflows across functional,
+    negative, and edge-case scenarios.
+  - Define AI evaluation criteria, test datasets, quality
+    metrics, and validation processes.
+  - Perform regression testing for models, prompts, RAG
+    configurations, and AI workflows.
+  - Collaborate with AI/ML engineers to identify issues and
+    improve AI system quality.
+
+  Requirements
+
+  Required Skills
+
+  - Strong understanding of AI/ML and Generative AI testing.
+  - Hands-on experience testing LLM and RAG-based applications.
+  - Knowledge of LLM evaluation, hallucination detection,
+    relevance, and response quality.
+  - Understanding of AI agents and recommendation systems.
+  - Strong analytical and problem-solving skills.
+
+  Good to Have
+
+  - Experience with PyTest and automated testing frameworks.
+  - Experience building automated AI evaluation and regression
+    frameworks.
+  - Familiarity with tools such as RAGAS, DeepEval, LangSmith,
+    or equivalent.
+  - Experience with CI/CD-based test automation, performance
+    testing, or AI guardrails.
+  - Familiarity with cloud platforms (AWS/Azure/GCP) and
+    observability tools.
+
+  Success Metrics
+
+  - High accuracy, relevance, and reliability of AI outputs.
+  - Strong evaluation coverage across critical AI workflows.
+  - Early detection and reduction of hallucinations and AI
+    regressions.
+  - Reduced production AI quality issues.
+  - Increased confidence and trust in AI-generated insights and
+    recommendations.
+industries:
+  - Real Estate
+  - Software
+  - PropTech
+posted_date: 2026-08-28
+url: "https://builtin.com/job/ai-quality-engineer-contract/10908846"
+source: Built In

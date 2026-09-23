@@ -1,0 +1,59 @@
+company:
+  name: Enable Data Incorporated
+  stage: null
+  focus: Data engineering and AI consulting services
+position:
+  title: Lead AI Engineer || Immediate Joiner
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: writing system/user
+      prompts, building RAG (chunking, AI Search indexes),
+      implementing guardrails, and using Claude APIs and Claude
+      Vision. Although heavy on data engineering, the LLM-shaping
+      responsibilities make it ai-first.
+  responsibilities:
+  - Change source code for architectural considerations such as migrating MSAL authentication
+    to JWT-based authentication with Databricks X-forwarded headers
+  - Prepare technical and network architecture documentation and obtain cloud/security
+    team approvals
+  - Design and build data ingestion pipelines into Databricks from sources like SAP
+    and web scraping using PySpark and PySQL
+  - Build and deploy Databricks Apps and configure Unity Catalog permissions, OBO
+    tokens, and Service Principals for Databricks Agents, Genie Spaces, ML, and Foundation
+    Models
+  - Build minimal single-page applications with Chat UIs using FastAPI/React and Claude
+    Models/APIs
+  - Develop prompt engineering skills including system/user prompts, rule enforcement,
+    and token economics
+  - Develop RAG solutions on Databricks with AI Search indexes and hierarchical chunking,
+    plus basic AI safety guardrails
+  - Automate CI/CD deployment pipelines via ADO for Teams bots, web applications,
+    and Databricks bundles/notebooks
+  use_cases:
+  - Chat applications built on Claude models with FastAPI/React SPAs
+  - RAG on Databricks using AI Search indexes and hierarchical chunking
+  - Automated rule checking with graph-based dependency and circular reference detection
+  - Document processing using Claude Vision API alongside text processing
+  - Data ingestion pipelines from SAP and web sources into Databricks
+  - Teams bot with custom notifications from Databricks
+  skills:
+    genai: [Anthropic API, Prompt Engineering, RAG, Guardrails, Claude Code]
+    ml: [PySpark]
+    web: [FastAPI, React, Webhooks, JWT, MSAL]
+    databases: [Databricks]
+    data: [Data Pipelines]
+    cloud: [Azure]
+    ops: [CI/CD, Snyk]
+    languages: [PySQL, Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11222507'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:28:21.333562'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

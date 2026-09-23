@@ -1,0 +1,51 @@
+company:
+  name: Foodsmart
+  stage: null
+  focus: Digital foodcare and nutrition-driven healthcare platform
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves fine-tuning and deploying LLMs and
+      transformer-based models, and leading technical design for
+      AI integration with LLMs, which is shaping model behavior.
+      LLM components are central, so ai-first.
+  responsibilities:
+  - Own architecture and implementation of distributed backend systems and APIs serving
+    ML models in production
+  - Lead technical design for AI integration across product lines, enabling real-time
+    and batch inference with LLMs, transformers, and classification models
+  - Drive fine-tuning and deployment of pre-trained models (Hugging Face, OpenAI)
+    for mission-critical business use cases
+  - Integrate external AI services and evaluate build vs. buy trade-offs
+  - Define platform-wide standards for backend engineering, MLOps, model governance,
+    and observability
+  - Mentor senior and mid-level engineers across teams
+  - Collaborate with product, ML research, data engineering, and DevOps leaders
+  - Lead root-cause analyses and performance tuning for system reliability and scalability
+  use_cases:
+  - AI-powered nutrition and foodcare platform features
+  - Real-time and batch inference for healthcare, finance, and operations domains
+  - Fine-tuned LLM and transformer models for mission-critical business use cases
+  - Personalized dietary assessment and meal planning for members
+  skills:
+    genai: [LLMs, OpenAI API]
+    ml: [Transformers, Fine-Tuning, Hugging Face, Machine Learning]
+    web: [APIs]
+    databases: [PostgreSQL, MySQL]
+    data: [dbt, Dagster]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, MLOps, Model Deployment]
+    languages: [TypeScript, Node.js, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11122905'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:19:52.272069'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: Vanta
+  stage: null
+  focus: Trust management platform for security and compliance
+position:
+  title: Staff Software Engineer, AI and Data Risk
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a generic staff software engineer role on a
+      privacy/security product team. AI is mentioned only as a
+      tool the engineer is "open to using" to improve their own
+      efficiency — no responsibilities involve shaping model
+      behavior, prompts, retrieval, or agent design.
+  responsibilities:
+  - Identify, scope, and lead large technical projects to evolve and scale core products
+  - Design, develop, and own new product functionality and infrastructure with TypeScript,
+    React, and Node.js
+  - Make tradeoffs balancing business priorities, user experience, and technical foundation
+  - Drive discovery and development of privacy features with product management and
+    design
+  - Assist in interviewing, hiring, and onboarding engineering teammates in the UK
+    and Ireland
+  - Mentor junior engineers and set a high bar for engineering culture
+  use_cases:
+  - Security and compliance monitoring and verification
+  - Privacy risk management features
+  - Trust management for businesses (e.g., SOC 2, HIPAA, ISO 27001)
+  skills:
+    genai: []
+    ml: []
+    web: [React, Node.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11256330'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:32:00.352714'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

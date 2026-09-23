@@ -1,0 +1,58 @@
+company:
+  name: IFM Investors
+  stage: null
+  focus: Global asset management owned by pension funds
+position:
+  title: Manager, AI Growth Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds AI-enabled workflows using low-code
+      Microsoft platforms (Copilot, Copilot Studio, Power
+      Platform) for marketing and business process improvement. It
+      configures agents/workflows but primarily drives adoption
+      and workflow change using pre-built enterprise AI tools
+      rather than shaping model behavior through prompt design,
+      retrieval, or fine-tuning; it consumes approved enterprise
+      platforms. Title says Manager but the role is hands-on IC
+      builder; management unclear. Given it does build agents and
+      refine AI outputs with prompt engineering, this borders ai-
+      first, but the emphasis is business workflow automation with
+      approved tools — ai-support.
+  responsibilities:
+  - Identify, build and scale AI-enabled solutions across Clients & Strategy teams
+  - Convert business problems into AI-enabled workflows using approved enterprise
+    platforms
+  - Design use cases, build prototypes and minimum viable solutions, and support adoption
+  - Support the C&S AI Innovation Forum and build AI fluency across teams
+  - Maintain a pipeline of AI opportunities
+  - Ensure AI solutions are developed responsibly, securely and in line with governance,
+    privacy, compliance and risk settings
+  - Partner with senior stakeholders to define problems, design solutions and measure
+    outcomes
+  use_cases:
+  - Marketing, communications and client workflow automation
+  - Knowledge management and reporting for client teams
+  - Client insight and decision support
+  - Content workflow productivity improvements
+  - Business process redesign with AI-enabled automation
+  skills:
+    genai: [Microsoft Copilot, Copilot Studio, Prompt Engineering, Agentic Workflows,
+      RAG, Vector Search, LLMs, Responsible AI]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Power Automate, Microsoft Fabric]
+    cloud: [Power Platform]
+    ops: [Workflow Automation]
+    languages: [Python, SQL]
+    domains: []
+    other: [Power BI, Low-Code Development, Data Governance, CRM]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11275730'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:34:49.773904'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

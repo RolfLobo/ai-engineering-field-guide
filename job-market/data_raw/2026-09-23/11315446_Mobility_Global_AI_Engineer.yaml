@@ -1,0 +1,175 @@
+job_id: 11315446
+title: AI Engineer
+company: Mobility Global
+location: Gurugram, IND
+locations:
+  - Gurugram, IND
+  - Bengaluru, IND
+work_type: FULL_TIME
+company_size: 3,500 Employees
+description: |
+  Why Mobility Global?
+
+  At Mobility Global, our mission is to provide the trusted
+  information that helps billions of people build, sell, and
+  own vehicles with confidence. As we shape the next
+  generation of automotive intelligence through innovation,
+  AI, and industry-leading data, we're creating new
+  opportunities for our customers, our business, and our
+  people.
+
+  Join a team singularly focused on transforming the
+  automotive industry. S&P Global Mobility is Mobility Global
+  — the company behind CARFAX, automotiveMastermind, Market
+  Scan, and Polk Automotive Solutions. Our strength comes from
+  our people, and here, the progress you make helps the entire
+  automotive ecosystem move faster and with greater
+  confidence.
+
+  The Team:
+
+  You will join the AI Engineering team at Mobility Global. We
+  build the conversational analytics products, shared AI
+  services, and agent platforms that sit on top of the
+  industry’s deepest automotive dataset, and we build the
+  internal tooling that drives AI adoption across the
+  PDLC/SDLC, from requirements and design through code,
+  testing, and release. We are a small, senior, product-minded
+  team that owns its work end to end, from the React front end
+  a customer touches through the FastAPI services and data
+  layer behind it to the evaluation harnesses that tell us
+  whether the answer was right.
+
+  We work AI-natively by default: coding agents, agentic
+  workflows, and LLM-assisted review are part of how the team
+  ships every day, not a side experiment, and we care as much
+  about engineering judgement as we do about raw output. This
+  role is a deliberate early-career seat on that team, with
+  senior engineers close by and real production ownership from
+  the first quarter.
+
+  Responsibilities and Impact:
+
+  - Build LLM-powered features in Python — agentic workflows in
+    LangGraph, retrieval and RAG pipelines, text-to-SQL, and
+    tool/MCP integrations that reach real users rather than
+    staying in a notebook.
+  - Ship the services behind them — write clean, typed, tested
+    Python and FastAPI endpoints, including streaming
+    responses, async I/O, and sensible error handling.
+  - Own evaluation and quality for what you build — assemble
+    golden datasets, write eval and guardrail test suites,
+    instrument traces, and use the results to decide whether a
+    change actually helped.
+  - Do prompt and context engineering as an engineering
+    discipline — iterate on prompts, tool schemas, and
+    retrieval strategy, and measure the difference instead of
+    guessing at it.
+  - Debug agent behaviour end to end — read traces, isolate
+    failures across retrieval, tool calls, parsing, and
+    entitlements, and turn each one into a regression test.
+  - Work daily with AI coding agents and with the people around
+    you — use agents to move faster while reviewing their
+    output carefully, and pair with senior engineers, data
+    scientists, and product partners to learn the domain
+    quickly.
+
+  What We’re Looking For:
+
+  Basic Required Qualifications:
+
+  - 3-6 years of professional software engineering experience,
+    with a Bachelor’s degree in Computer Science, Engineering,
+    or a related field, or equivalent practical experience.
+  - Strong Python fundamentals — comfortable with async, type
+    hints, testing, and packaging, and able to write code that
+    another engineer can read and maintain.
+  - Hands-on experience building LLM applications — LangGraph or
+    a comparable orchestration framework (LangChain,
+    LlamaIndex, or an agent SDK), plus prompt engineering and
+    retrieval/RAG patterns, demonstrated through professional
+    work, internships, or substantial personal projects.
+  - Working knowledge of SQL and the data layer behind AI
+    systems — relational databases and at least one vector
+    store, including embeddings, chunking, and basic query
+    tuning — together with REST API development, ideally in
+    FastAPI.
+  - Fluent daily use of AI coding agents (Claude Code, Cursor,
+    GitHub Copilot or similar) as part of how you actually
+    build, not as an occasional experiment.
+  - Clear written and verbal communication — can explain what
+    you built, what you tried, and what did not work, to both
+    technical and non-technical colleagues.
+  - Genuine curiosity and speed of learning — keeps up with a
+    field that changes monthly and brings what you find back
+    to the team.
+  - Ownership and healthy scepticism — follows a problem through
+    to a verified fix, and checks AI-generated output rather
+    than trusting it by default.
+  - Collaborative and coachable — asks for help early, takes
+    review feedback well, and works comfortably across time
+    zones in a distributed team.
+
+  Additional Preferred Qualifications:
+
+  - Experience with LLM evaluation and observability tooling —
+    LangFuse, OpenTelemetry, Ragas, DeepEval, or an in-house
+    equivalent.
+  - Exposure to agent protocols and multi-agent patterns — MCP
+    servers and tooling, agent SDKs, orchestration and hand-
+    off design, or human-in-the-loop workflows.
+  - Cloud and delivery basics on AWS — containerised deployment,
+    serverless, CI/CD, and an eye on latency and token cost.
+  - Front-end familiarity — React or Angular with TypeScript,
+    enough to build a usable demo or internal tool without
+    waiting on someone else.
+  - Interest in the data foundations — data governance, semantic
+    or ontology modelling, entitlements, or large-scale
+    analytics products; automotive or mobility domain exposure
+    is a plus.
+  - Evidence of building things for their own sake — open-source
+    contributions, side projects, technical writing, or
+    community involvement.
+
+  This is a hybrid role with in-office expectations determined
+  by location and subject to change based on evolving business
+  needs.
+
+
+
+  What’s In It for You
+
+  - Competitive compensation package, including base salary and
+    incentive opportunities where applicable.
+  - Comprehensive health and wellness benefits for employees and
+    eligible dependents.
+  - Retirement savings programs, including company matching
+    contributions where available.
+
+
+
+  Equal Opportunity Employer
+
+  Mobility Global is proud to be an Equal Opportunity
+  Employer. We value diverse perspectives and are committed to
+  fostering an inclusive workplace where everyone is
+  respected, supported, and empowered to succeed. We provide
+  reasonable accommodations throughout the hiring process and
+  employment for qualified individuals with disabilities.
+
+  Recruitment Fraud Alert
+
+  Mobility Global will never ask candidates to pay money at
+  any stage of the hiring process, including for applications,
+  interviews, background checks, training, or equipment. If
+  you receive a suspicious communication or request for
+  payment or personal financial information, please exercise
+  caution and report it immediately.
+industries:
+  - Automotive
+  - Big Data
+  - Information Technology
+  - Analytics
+posted_date: 2026-09-22
+url: "https://builtin.com/job/ai-engineer/11315446"
+source: Built In

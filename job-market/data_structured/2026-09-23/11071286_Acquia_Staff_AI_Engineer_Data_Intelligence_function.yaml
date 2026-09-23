@@ -1,0 +1,56 @@
+company:
+  name: Acquia
+  stage: null
+  focus: |-
+    Digital experience platform and Drupal hosting with agentic
+    AI
+position:
+  title: Staff AI Engineer (Data & Intelligence function)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM/agent behavior: designing
+      retrieval, knowledge graphs, agentic workflows with tool
+      calling, choosing/fine-tuning models, and owning AI
+      evaluation and observability. This is hands-on shaping of
+      LLM-driven systems, so it is ai-first.
+  responsibilities:
+  - Write and ship production AI code daily as an active individual contributor
+  - Lead semantic retrieval, indexing, and knowledge graph work to make customer context
+    retrievable at speed
+  - Build the inference and signal layer over the Iceberg lakehouse, exposing signals
+    through shared contracts
+  - Turn detected signals into action workflows with human-in-the-loop review where
+    appropriate
+  - Choose the right model or deterministic code per workload while managing inference
+    cost
+  - Own evaluation and observability for AI systems
+  - Set engineering patterns that other teams build against
+  use_cases:
+  - Agentic retrieval of full customer context in a single request
+  - Churn risk, entitlement mismatch, and expansion opportunity detection turned into
+    action workflows
+  - Scored inference and signal layer over an Iceberg lakehouse for internal and customer-facing
+    teams
+  - Knowledge graph and hybrid retrieval over operational, product, and customer data
+  skills:
+    genai: [Embeddings, RAG, Agentic Workflows, Function Calling, LangGraph, Fine-Tuning,
+      LLM Evaluation, MCP]
+    ml: [Machine Learning]
+    web: []
+    databases: [Vector Search, Knowledge Graphs, Distributed Query Engines]
+    data: [dbt, Data Pipelines, Data Governance, Apache Iceberg]
+    cloud: [AWS, AWS S3]
+    ops: [OpenTelemetry, Observability]
+    languages: [Python, SQL]
+    domains: []
+    other: [Temporal]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11071286'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:16:18.531468'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

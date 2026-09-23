@@ -1,0 +1,55 @@
+company:
+  name: Planet (weareplanet.com)
+  stage: null
+  focus: |-
+    Integrated payments and software technology for retail and
+    hospitality
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agents, prompts, and retrieval
+      pipelines, and owns model behaviour and evaluation with
+      feedback loops — clearly shaping LLM/agent output quality,
+      so ai-first.
+  responsibilities:
+  - Design and build production-grade AI workflows integrated across internal systems
+    (HR, Finance, Operations, CRM)
+  - Implement orchestration logic with triggers, retries, fallbacks, and human-in-the-loop
+    patterns
+  - Develop and maintain AI agents, prompts, retrieval pipelines, and decision logic
+  - Own model behaviour in production including accuracy, failure modes, and edge-case
+    handling
+  - Iterate on model performance using evaluation frameworks and feedback loops
+  - Define and track success metrics such as accuracy, resolution rate, and time saved
+  - Diagnose systems producing poor outcomes and close the gap
+  - Partner with Data Engineering on shared platforms and AI standards
+  use_cases:
+  - Automating internal HR processes
+  - Automating finance and operations workflows
+  - CRM automation and augmentation
+  - Auditable AI-assisted business decision-making
+  skills:
+    genai: [AI Agents, Prompt Engineering, RAG, LLMs]
+    ml: [Machine Learning, Model Evaluation, Model Monitoring, LLM Evaluation]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11231534'
+  location: Porto, PRT
+  locations:
+  - Porto, PRT
+  - London, GBR
+  - Warsaw, POL
+  extracted_at: '2026-09-23T11:29:17.766233'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

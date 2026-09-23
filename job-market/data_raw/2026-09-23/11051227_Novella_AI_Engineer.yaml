@@ -1,0 +1,89 @@
+job_id: 11051227
+title: AI Engineer
+company: Novella
+location: New York, USA
+work_type: FULL_TIME
+company_size: 29 Employees
+description: |
+  Novella is the first AI native insurance brokerage
+  protecting some of the largest, most complicated physical
+  assets in the world. Whether it’s sky scrapers on the Miami
+  coast exposed to hurricanes, or rockets going to Mars -
+  Novella’s specialty AI agents are trained to help insurance
+  brokers find coverage for their highest-risk customers.
+
+  These high-risk customers are part of a $150 Billion per
+  year market segment called Excess and Surplus (E&S)
+  Insurance. Today, all $150B of E&S premium is sold manually
+  by humans working with humans. Novella is the first
+  brokerage building AI agents that can augment humans and
+  superpower them.
+
+  We're building a world class team with backgrounds in AI and
+  insurance, who are excited about making insurance brokers
+  100X better at their jobs.
+
+  The Role
+
+  We're building Novella on the belief that AI should touch
+  every part of how E&S insurance is designed, sold, and
+  serviced. We need an AI Engineer who doesn't just build
+  models, but builds products. You'll own the development of
+  agentic workflows and LLM-powered systems that sit at the
+  core of what we deliver to brokers and carriers every day.
+
+  This isn't a research role. You'll ship autonomous agents
+  and LLM applications into production, design evaluation
+  frameworks to make sure they actually work, and push the
+  boundaries of what's possible with AI in an industry that
+  barely understands technology. You'll also be our internal
+  AI evangelist — the person who makes sure every team at
+  Novella, technical or not, is leveraging the latest AI tools
+  to move faster and do better work.
+
+  The Day to Day
+
+  - Lead the development of autonomous agents and LLM-based
+    applications, covering the entire development lifecycle
+    from initial design through production deployment and
+    optimization.
+  - Design and develop comprehensive evaluation frameworks,
+    including datasets and benchmarks, to ensure our LLM
+    applications meet quality standards and perform reliably
+    over time.
+  - Provide mentorship to team members, sharing your expertise
+    in LLM development and helping build a strong AI first
+    technical culture
+
+  What We're Looking For
+
+  - Proven track record as a software engineer with 3+ years of
+    experience developing production systems.
+  - Deep understanding of LLM application development, including
+    practical experience with:
+    - LLM evaluation and monitoring systems
+    - AI agent architectures and frameworks
+    - Retrieval-Augmented Generation (RAG)
+  - Strong background in dataset development and benchmark
+    creation for LLM applications.
+  - Experience taking ownership of projects from conception to
+    completion, with strong initiative and iterative
+    development skills.
+  - Ability/Desire to work with TypeScript
+
+  The Ideal Candidate Also Has
+
+  - Hybrid skill set combining data driven mindset with
+    engineering capabilities.
+  - Track record of successfully deploying and maintaining
+    ML/LLM systems in production environments.
+  - Experience with performance optimization and scaling of LLM
+    applications.
+  - Experience working on AI agents.
+industries:
+  - Artificial Intelligence
+  - Insurance
+  - Automation
+posted_date: 2026-09-08
+url: "https://builtin.com/job/ai-engineer/11051227"
+source: Built In

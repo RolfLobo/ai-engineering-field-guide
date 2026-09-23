@@ -1,0 +1,79 @@
+company:
+  name: DoiT
+  stage: null
+  focus: Multicloud consulting and cloud cost intelligence platform
+position:
+  title: Senior Full-Stack Engineer - AI Cost Visibility- Poland(Remote)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds a full-stack AI cost visibility product (Go
+      services, APIs, React UI). AI appears only as engineering
+      tools used to build software, not as a shaped model output;
+      the person never writes prompts/RAG/agents as product. Per
+      edge cases, AI as a workflow tool is ai-support.
+  responsibilities:
+  - Own features end-to-end from customer pain through design, implementation, release,
+    monitoring and iteration
+  - Build and scale backend services in Go and product experiences in TypeScript and
+    React
+  - Build API-first capabilities so both humans and agents can drive the platform
+  - Understand AI spend economics including token and model pricing, inference and
+    GPU economics, and how usage rolls up to teams
+  - Use AI tools daily across the engineering workflow including exploration, prototyping,
+    code review, debugging and testing
+  - Set engineering standards through design reviews, guardrails and mentoring
+  - Turn large volumes of cost and usage data into clear, trustworthy decision interfaces
+  use_cases:
+  - AI cost visibility and spend tracking across model APIs, managed inference, and
+    GPUs
+  - FinOps cost allocation by workload, team, and initiative
+  - Multi-cloud cost intelligence and optimization
+  - Decision interfaces for FinOps practitioners and platform engineers
+  skills:
+    genai: []
+    ml: []
+    web: [React, APIs]
+    databases: [BigQuery]
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: []
+    languages: [Go, TypeScript, SQL]
+    domains: []
+    other: [FinOps, Multi-Tenant SaaS, Agentic Coding Tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11127686'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-09-23T11:21:06.340555'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

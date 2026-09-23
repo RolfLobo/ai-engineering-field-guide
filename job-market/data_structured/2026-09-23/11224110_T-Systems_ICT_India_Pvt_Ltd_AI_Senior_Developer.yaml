@@ -1,0 +1,51 @@
+company:
+  name: T-Systems ICT India Pvt. Ltd.
+  stage: null
+  focus: Enterprise IT services and digital transformation solutions
+position:
+  title: AI Senior Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM applications, designs RAG pipelines,
+      develops AI agents and agentic workflows, and optimizes
+      prompts and embeddings — directly shaping LLM behaviour, so
+      it is ai-first.
+  responsibilities:
+  - Develop and deploy LLM-based applications and GenAI solutions
+  - Build scalable RAG pipelines and AI-powered knowledge systems
+  - Develop AI Agents and Agentic workflows for business process automation
+  - Integrate AI services with enterprise applications through APIs and microservices
+  - Optimize prompts, embeddings, and model performance
+  - Collaborate with architects and cross-functional teams to deliver production-ready
+    AI solutions
+  - Stay current with advancements in AI, GenAI, and Agentic AI technologies
+  use_cases:
+  - Enterprise knowledge systems powered by RAG
+  - Business process automation via AI agents
+  - LLM-powered enterprise applications
+  - Workflow automation solutions
+  - Enterprise application integration with AI services
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, Agentic Workflows, LangChain, LlamaIndex,
+      Semantic Kernel, LangGraph, CrewAI, AutoGen, Prompt Engineering, Embeddings,
+      Function Calling, MCP, OpenAI API, Anthropic API, Gemini, Llama, Mistral, GraphRAG,
+      Semantic Search]
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: [APIs, Microservices]
+    databases: [Vector Databases, Pinecone, Chroma, Weaviate, Qdrant, FAISS, Azure
+        AI Search, SQL, NoSQL, Knowledge Graphs]
+    data: []
+    cloud: [Azure OpenAI, Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, LLMOps]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11224110'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:28:33.647903'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

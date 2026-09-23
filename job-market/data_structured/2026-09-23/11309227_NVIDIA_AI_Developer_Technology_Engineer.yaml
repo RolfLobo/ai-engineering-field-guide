@@ -1,0 +1,57 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU hardware and parallel computing platforms
+position:
+  title: AI Developer Technology Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role researches GPU-acceleration and low-level
+      performance optimization of deep learning and parallel
+      computing algorithms (CUDA, kernels, architecture tuning),
+      which is shaping model internals. The targets are classical
+      ML/DL workloads (NLP, CV, recommenders, HPC) with no LLM
+      prompting, retrieval, or agent component, so it is ml-first.
+  responsibilities:
+  - Research and develop techniques to GPU-accelerate workloads in deep learning,
+    machine learning, and other AI domains
+  - Perform in-depth analysis and optimization of complex AI and HPC algorithms on
+    modern CPU and GPU architectures
+  - Identify and eliminate system bottlenecks to achieve optimal performance on advanced
+    hardware
+  - Partner with external technical experts in industry and academia on optimization
+    work
+  - Publish and present optimization techniques in developer blogs and at conferences
+  - Influence next-generation hardware architectures, software, and programming models
+    with internal NVIDIA teams
+  use_cases:
+  - Accelerating deep learning and machine learning workloads on GPUs
+  - Performance optimization of AI and HPC algorithms on CPU and GPU architectures
+  - Parallelization of deep learning models from NLP, computer vision, and recommender
+    systems
+  - Advancing hardware and programming model design for AI compute platforms
+  skills:
+    genai: []
+    ml: [CUDA, Deep Learning, Machine Learning, Neural Networks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C++]
+    domains: [NLP, Computer Vision]
+    other: [OpenACC, OpenMP, MPI, pthreads, Parallel Programming, Low-Level Performance
+        Optimization, GPU Architecture, Linear Algebra, Recommender Systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11309227'
+  location: DEU
+  locations:
+  - DEU
+  - CHE
+  remote: true
+  extracted_at: '2026-09-23T11:36:01.786847'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

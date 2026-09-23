@@ -1,0 +1,56 @@
+company:
+  name: General Mills
+  stage: null
+  focus: Consumer-packaged food company enterprise data capabilities
+position:
+  title: D&T Machine Learning Engineer II (Agentic Ai/MLOps)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operationalizes ML models via MLOps pipelines
+      (deployment, monitoring, retraining) but does not shape
+      model behavior itself - no prompt engineering, RAG design,
+      or model training by this person. Despite "Agentic AI" in
+      the title, responsibilities focus on infrastructure and
+      lifecycle management of models built by others, so ai-
+      support.
+  responsibilities:
+  - Implement and support end-to-end MLOps pipelines using GCP, Vertex AI, Airflow/Kubeflow,
+    and related tools
+  - Build and maintain feature engineering, deployment, monitoring, retraining, and
+    CI/CD/CT pipelines for production ML solutions
+  - Ensure ML model lifecycle management including monitoring, performance optimization,
+    and operational support
+  - Recommend MLOps best practices, coding standards, version control, and technical
+    documentation
+  - Collaborate with Data Science, Data Engineering, Cloud Platform, and MLOps teams
+    to deliver scalable ML solutions
+  - Communicate project progress, risks, and outcomes and contribute to knowledge
+    sharing
+  - Adopt emerging MLOps technologies, tools, and best practices
+  use_cases:
+  - Operationalizing enterprise ML and AI models for business analytics
+  - Automated MLOps pipelines for production ML lifecycle management
+  - Model monitoring and retraining for production solutions
+  skills:
+    genai: []
+    ml: [Feature Engineering, Machine Learning]
+    web: []
+    databases: [BigQuery]
+    data: [Airflow]
+    cloud: [GCP, Vertex AI, Cloud Composer]
+    ops: [Kubeflow, CI/CD, MLOps, Model Monitoring, Model Deployment, Docker]
+    languages: [SQL, Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11069344'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Powai, IND
+  extracted_at: '2026-09-23T11:17:10.893701'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

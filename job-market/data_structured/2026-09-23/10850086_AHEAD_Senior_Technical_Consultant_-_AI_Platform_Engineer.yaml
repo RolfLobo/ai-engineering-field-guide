@@ -1,0 +1,46 @@
+company:
+  name: AHEAD
+  stage: null
+  focus: Enterprise cloud and digital transformation consulting
+position:
+  title: Senior Technical Consultant - AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a platform engineering consultant for cloud
+      migration and modernization; AI appears only as coding
+      assistants ("AI coding tools and vibe coding") used to
+      accelerate the engineer's own delivery. No shaping of model
+      behavior, so it is ai-support.
+  responsibilities:
+  - Design and implement enterprise platform solutions across cloud, application,
+    data, infrastructure, and AI workloads
+  - Lead cloud migration and cloud platform modernization initiatives
+  - Work directly with customers and lead technical workstreams
+  - Build reusable platform capabilities
+  - Use AI coding tools and vibe coding techniques to accelerate solution delivery
+  - Maintain high standards for security, quality, reliability, and governance
+  use_cases: []
+  skills:
+    genai: [AI Coding Tools]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Migration]
+    ops: []
+    languages: []
+    domains: []
+    other: [Platform Engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10850086'
+  location: IND
+  locations:
+  - IND
+  - Gurugram, IND
+  remote: true
+  extracted_at: '2026-09-23T11:02:24.054035'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

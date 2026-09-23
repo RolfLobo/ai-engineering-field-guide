@@ -1,0 +1,51 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Senior AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys generative AI solutions, RAG
+      pipelines, and agentic workflows, plus model evaluation and
+      monitoring — directly shaping LLM-based model behavior and
+      output quality, so it is ai-first.
+  responsibilities:
+  - Design and deliver AI-enabled solutions supporting Sales and Distribution modernization
+    across employer, broker, and enrollment ecosystems
+  - Build scalable components for sales workflows, distribution platforms, API integrations,
+    and automation pipelines with agentic capabilities
+  - Develop and deploy machine learning models, generative AI solutions, and RAG-based
+    systems for sales intelligence and decision-making
+  - Translate business requirements into technical solutions and integrate with existing
+    enterprise systems
+  - Contribute to model evaluation, monitoring, and Responsible AI governance, security,
+    and compliance standards
+  - Collaborate with offshore teams and participate in design and code reviews
+  - Support system performance, reliability, and scalability of delivered solutions
+  use_cases:
+  - Sales intelligence for health insurance sales and distribution
+  - Sales workflow and distribution platform modernization
+  - Automated decision-making and operational efficiency
+  - Integration across employer, broker, and enrollment ecosystems
+  - RAG-based systems supporting enterprise decision support
+  skills:
+    genai: [Generative AI, LLMs, RAG, Agentic Workflows, Fine-Tuning]
+    ml: [Machine Learning]
+    web: [APIs, Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Evaluation, Model Monitoring, MLOps]
+    languages: []
+    domains: []
+    other: [Workflow Automation, CRM, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10375772'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T10:59:26.010070'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

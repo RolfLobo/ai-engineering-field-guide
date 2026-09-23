@@ -1,0 +1,49 @@
+company:
+  name: Precisely
+  stage: null
+  focus: Data quality, enrichment, and location intelligence software
+position:
+  title: Associate software Engineer (Python AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a junior Python application developer role. The
+      responsibilities are general software development (building
+      Python apps, writing clean code, testing, CI/CD); AI appears
+      only as required knowledge of LLMs and AI coding assistants
+      like Claude Code or GitHub Copilot, which the engineer uses
+      as tools rather than shapes. No prompt design, retrieval
+      work, or model training is involved, so the role is ai-
+      support.
+  responsibilities:
+  - Assist in designing, developing, and maintaining Python-based AI applications
+  - Collaborate with team members to understand requirements and implement features
+  - Use Pydantic to define and validate data models
+  - Write clean, well-documented code with guidance
+  - Participate in code reviews and incorporate feedback
+  - Troubleshoot and resolve basic technical issues
+  - Support testing and CI/CD processes
+  use_cases:
+  - Python-based AI applications for data integrity products
+  - Data quality and data enrichment services
+  - Location intelligence solutions
+  skills:
+    genai: [LLMs, Claude Code, GitHub Copilot]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Git, CI/CD]
+    languages: [Python, TypeScript, JavaScript, Node.js, Pydantic]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10931484'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:07:35.279203'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,127 @@
+job_id: 10967527
+title: Staff Software Engineer - AI Runtime
+company: Apollo GraphQL
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Are you excited by the challenge of building genuinely new
+  infrastructure — where the problems aren't fully defined yet
+  and the roadmap changes as fast as the field itself? Do you
+  want to help figure out how AI agents discover, understand,
+  and safely interact with real-world APIs? If so, we'd love
+  to talk to you about joining Apollo's AI Systems team.
+
+  This team owns Constellation — Apollo's control plane for AI
+  agents. Where GraphOS gives developers a unified way to
+  query their data, Constellation gives AI agents a way to
+  safely discover, understand, and coordinate across APIs at
+  the enterprise level. This is genuinely early-stage R&D:
+  we're piloting with select enterprise customers, iterating
+  quickly, and figuring out the right architecture as we go
+  rather than executing against a fixed multi-quarter plan.
+
+  What you'll do
+
+  - Design and build systems for API discovery, schema
+    understanding, and safe agent-to-API orchestration at
+    enterprise scale.
+  - Own search, ranking, relevance, or query-planning problems
+    central to how agents find and use the right APIs and data
+    — this is core to the role, not a peripheral concern.
+  - Prototype quickly, evaluate multiple algorithmic approaches,
+    and iterate based on what you learn — priorities and
+    direction can shift week to week as we learn from customer
+    pilots.
+  - Build and evaluate agentic systems: tool-calling frameworks,
+    agent orchestration, and the observability/evaluation
+    tooling needed to trust what agents are doing.
+  - Collaborate closely with a small, high-context team where
+    everyone influences architecture and direction — this is
+    not a role with heavy process or deep management layers.
+  - Engage with select enterprise customers piloting
+    Constellation to understand real usage patterns and bring
+    that insight back into the system design.
+  - Communicate technical tradeoffs clearly to a small,
+    technical leadership team and contribute to shaping the
+    roadmap itself, not just executing against one.
+
+  Who you are — Minimum requirements
+
+  - You have hands-on, production experience owning a search,
+    ranking, relevance, or query-planning system at real scale
+    — not just integrating a third-party search tool, but
+    designing and iterating on the underlying logic.
+  - You've tried multiple algorithmic approaches to a hard
+    retrieval or ranking problem and can talk concretely about
+    the tradeoffs.
+  - You're genuinely energized by ambiguity — you'd rather
+    define the right problem than execute a well-specified
+    one, and you're comfortable when priorities shift quickly.
+  - You communicate clearly and enjoy working in a small, fast-
+    moving team with minimal process overhead.
+  - You have a growth mindset and want to be at the center of
+    how AI agents and enterprise infrastructure intersect.
+
+  Nice to have
+
+  - Production experience with Rust — a strong plus, but not
+    required.
+  - Experience building agent orchestration, tool-calling
+    frameworks, or agent evaluation/observability systems
+    (LLM-as-judge, tracing, etc.).
+  - Experience with RAG systems where you owned retrieval
+    quality, not just integration.
+  - Background in distributed query engines, federated query
+    planning, or database query optimization.
+
+  About Apollo
+
+  Whether you binge-watch a series on Netflix, plan faraway
+  vacations from your phone, or read international news
+  online, you've likely used Apollo's technology this week.
+  Apollo supports some of the largest GraphQL platforms in the
+  world.
+
+  We're not looking to rest on our laurels though — we're
+  aiming to change how software is built. Having built the
+  foundation that powers GraphQL at enterprise scale, we're
+  now building the control plane for the next wave of
+  software: AI agents that need to safely discover,
+  understand, and act on real systems.
+
+  Apollo is intent on becoming the company where you can see
+  your career grow through challenging work, collaborating
+  with incredible teammates, and accomplishing the
+  unattainable.
+
+  Compensation & Benefits: At Apollo, we strive to provide
+  competitive, market-informed compensation whilst ensuring
+  consistency within the team in each country. We make hiring
+  decisions based on your skills, experience, and our overall
+  assessment of what we learned during the hiring process. In
+  addition to the U.S. base salary range, we also provide
+  equity and benefits. Apollo offers all U.S. employees a
+  choice of 3 Anthem Blue Cross medical plans and California
+  residents can also choose from an additional 2 Kaiser
+  medical plans. Dental and Vision benefits are provided by
+  Sun Life Financial. Location: This is a remote position that
+  can be done from anywhere in the US or Canada (Canada has a
+  different compensation range). Equal Opportunity: Apollo is
+  proud to be an equal opportunity workplace dedicated to
+  pursuing and hiring a talented and diverse workforce.
+  Privacy: California residents applying for positions at
+  Apollo can see our privacy policy here. E-Verify: Apollo is
+  an E-Verify employer and will provide the federal government
+  with your Form I-9 information to confirm that you are
+  authorized to work in the U.S. For more information please
+  visit E-Verify.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Information Technology
+  - Professional Services
+  - Software
+posted_date: 2026-09-01
+url: "https://www.builtinla.com/job/staff-software-engineer-ai-runtime/10967527"
+source: Built In

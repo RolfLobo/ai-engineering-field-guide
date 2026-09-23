@@ -1,0 +1,52 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: |-
+    Open-source frameworks and platform for building and
+    evaluating AI agents
+position:
+  title: Senior Fullstack Engineer,  AI Observability & Evals Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a fullstack engineer building the LangSmith
+      observability/evals platform itself. Responsibilities are
+      general platform engineering (architecture, APIs, frontend)
+      with no prompt writing, RAG design, agent orchestration, or
+      model training. AI/LLM experience is listed only as a bonus,
+      so this is ai-support.
+  responsibilities:
+  - Lead technical architecture and implementation of key LangSmith product features
+    across the Go, Python, and TypeScript stack
+  - Collaborate with product and design teams to iterate on new features
+  - Drive aggressive project timelines while maintaining high engineering standards
+  - Write clean, maintainable, well-tested code
+  - Work with enterprise customers and developer end-users
+  - Collaborate with cross-functional internal stakeholders
+  use_cases:
+  - AI observability and tracing at production scale
+  - Evaluation of AI systems and agents
+  - Annotation, run rules, and production reliability for AI systems
+  - Platform for building, evaluating, deploying, and operating AI agents
+  skills:
+    genai: []
+    ml: []
+    web: [React, APIs]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Go, Python, TypeScript]
+    domains: []
+    other: [Observability Platforms]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11148199'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Boston, USA
+  extracted_at: '2026-09-23T11:21:11.568489'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

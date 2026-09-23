@@ -1,0 +1,55 @@
+company:
+  name: Veracity Insurance Solutions, LLC
+  stage: null
+  focus: Independent insurance provider for small businesses
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and sets standards for production LLM/GenAI
+      and agentic systems, including agent orchestration, tool
+      calling, RAG, structured outputs, evals, and guardrails.
+      This is direct shaping of LLM behavior and output quality,
+      making it ai-first. It is explicitly an IC systems-
+      leadership role, not people management.
+  responsibilities:
+  - Define the AI engineering roadmap and architecture standards across the organization
+  - Lead build vs. buy vs. integrate decisions for AI systems and platforms
+  - Architect AI solutions for the enterprise insurance platform, working across process
+    layer and platform architecture
+  - Establish LLMOps practices including evaluation/regression suites, observability,
+    versioned prompts, staged rollouts, and guardrails
+  - Partner with Product and Engineering leadership to align AI capabilities with
+    business outcomes
+  - Champion AI-assisted coding practices and developer tooling across engineering
+  - Define standards for responsible AI development including guardrails, evals, and
+    security
+  - Serve as technical escalation point for complex AI/ML system design challenges
+  use_cases:
+  - Coverage recommendation surfacing on a customer-facing digital insurance platform
+  - Preparing for AI agents researching and purchasing insurance on behalf of customers
+  - AI-assisted coding and developer tooling across the engineering organization
+  - Rebuilding legacy business processes with AI at the core
+  - Cost and quality observability for LLM-powered features in production
+  skills:
+    genai: [LLMs, Generative AI, Agentic Workflows, Function Calling, RAG, Structured
+        Outputs, Guardrails, LLM Evaluation, Prompt Engineering]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [LLMOps, Observability]
+    languages: [Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11060138'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:16:32.942153'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

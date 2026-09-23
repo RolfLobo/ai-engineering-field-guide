@@ -1,0 +1,177 @@
+job_id: 10498007
+title: Applied AI Engineer
+company: OpenAI
+location: Mumbai, IND
+locations:
+  - Mumbai, IND
+  - New Delhi, IND
+work_type: FULL_TIME
+company_size: 4,500 Employees
+description: |
+  About the Team
+
+  OpenAI’s Applied AI Engineering team helps organizations
+  turn frontier AI capabilities into safe, reliable, and high-
+  impact production systems. We work with customer executives,
+  product and engineering teams, security leaders, and
+  transformation teams to identify valuable opportunities,
+  accelerate technical implementation, and scale what works.
+  Enterprise deployments are defined by complexity rather than
+  any one industry: existing architectures, diverse data
+  environments, security and governance requirements, multiple
+  stakeholder groups, and organization-wide change. We turn
+  lessons from these deployments into better products and
+  reusable patterns for customers everywhere.
+
+
+
+  About the Role
+
+  As an Applied AI Engineer you will partner directly with
+  leading organizations to design, build, and deploy AI
+  systems that deliver measurable business outcomes. You will
+  combine deep technical judgment, hands-on engineering, and
+  customer leadership to take ambitious ideas from use-case
+  selection and architecture through prototyping, evaluation,
+  production launch, and scale. You will write and debug code,
+  build evaluation systems, resolve complex integrations, and
+  guide decisions involving model behavior, reliability,
+  latency, cost, safety, security, governance, and operational
+  readiness. Success is measured by production systems,
+  sustained adoption, and meaningful customer impact—not
+  simply activity or successful demonstrations. This is a rare
+  opportunity to work on consequential real-world deployments
+  at the frontier of AI while directly influencing how
+  OpenAI’s products evolve.
+
+  This role can be based in Delhi, Mumbai or Bangalore. We use
+  a hybrid work model of 3 days in the office per week and
+  offer relocation assistance to new employees
+
+  In this role, you will:
+
+  - Partner directly with enterprise customers to identify high-
+    value opportunities and translate them into technical
+    architectures, implementation plans, evaluation
+    strategies, and measurable success criteria.
+  - Design, build, and deploy AI systems that solve important
+    customer problems and produce measurable business
+    outcomes.
+  - Work hands-on in code to build prototypes, evaluation
+    harnesses, reference implementations, integrations, and
+    production accelerators.
+  - Make sound technical decisions across models, agents,
+    retrieval, tools, data, reliability, observability,
+    latency, cost, safety, security, and governance.
+  - Diagnose complex implementation challenges, reproduce
+    failures, test hypotheses, and drive blockers toward
+    resolution.
+  - Help customers progress from promising prototypes to
+    reliable production systems, sustained adoption, and
+    scaled impact.
+  - Partner closely with customer engineering teams and OpenAI
+    Product, Research, Engineering, Security, and go-to-market
+    teams, translating deployment experience into high-signal
+    product feedback.
+  - Create reusable architectures, tooling, playbooks, and
+    technical guidance that accelerate future enterprise
+    deployments.
+
+
+
+  You’ll thrive in this role if you:
+
+  - Have a demonstrated track record of designing, building, and
+    delivering AI or machine-learning systems in enterprise
+    environments, including taking systems from prototype to
+    production. Relevant backgrounds may include applied AI or
+    ML engineering, forward-deployed engineering, software
+    engineering, customer engineering, solutions architecture,
+    or technical consulting.
+  - Can point to substantial personal contributions in code,
+    architecture, evaluation, debugging, or production
+    engineering—not only program or stakeholder management.
+  - Are highly proficient in Python and comfortable working
+    across an AI application stack; experience with
+    JavaScript, TypeScript, or another relevant language is
+    valuable.
+  - Understand how to evaluate AI systems systematically using
+    representative data, graders, production signals, and
+    human judgment.
+  - Have navigated enterprise production requirements such as
+    integrations, reliability, observability, security,
+    privacy, data governance, performance, and cost.
+  - Can connect technical decisions to customer workflows,
+    adoption, and measurable business outcomes.
+  - Communicate with clarity and credibility across hands-on
+    engineers, technical leaders, security teams, product
+    leaders, and executives.
+  - Bring high agency, strong technical judgment, and end-to-end
+    ownership in ambiguous environments.
+  - Learn quickly, challenge assumptions constructively, and
+    collaborate with humility; experience in a particular
+    industry or with OpenAI products is not required.
+
+  About OpenAI
+
+  OpenAI is an AI research and deployment company dedicated to
+  ensuring that general-purpose artificial intelligence
+  benefits all of humanity. We push the boundaries of the
+  capabilities of AI systems and seek to safely deploy them to
+  the world through our products. AI is an extremely powerful
+  tool that must be created with safety and human needs at its
+  core, and to achieve our mission, we must encompass and
+  value the many different perspectives, voices, and
+  experiences that form the full spectrum of humanity.
+
+  We are an equal opportunity employer, and we do not
+  discriminate on the basis of race, religion, color, national
+  origin, sex, sexual orientation, age, veteran status,
+  disability, genetic information, or other applicable legally
+  protected characteristic.
+
+  For additional information, please see OpenAI’s Affirmative
+  Action and Equal Employment Opportunity Policy Statement.
+
+  Background checks for applicants will be administered in
+  accordance with applicable law, and qualified applicants
+  with arrest or conviction records will be considered for
+  employment consistent with those laws, including the San
+  Francisco Fair Chance Ordinance, the Los Angeles County Fair
+  Chance Ordinance for Employers, and the California Fair
+  Chance Act, for US-based candidates. For unincorporated Los
+  Angeles County workers: we reasonably believe that criminal
+  history may have a direct, adverse and negative relationship
+  with the following job duties, potentially resulting in the
+  withdrawal of a conditional offer of employment: protect
+  computer hardware entrusted to you from theft, loss or
+  damage; return all computer hardware in your possession
+  (including the data contained therein) upon termination of
+  employment or end of assignment; and maintain the
+  confidentiality of proprietary, confidential, and non-public
+  information. In addition, job duties require access to
+  secure and protected information technology systems and
+  related data security obligations.
+
+  To notify OpenAI that you believe this job posting is non-
+  compliant, please submit a report through this form. No
+  response will be provided to inquiries unrelated to job
+  posting compliance.
+
+  We are committed to providing reasonable accommodations to
+  applicants with disabilities, and requests can be made via
+  this link.
+
+  OpenAI Global Applicant Privacy Policy
+
+  At OpenAI, we believe artificial intelligence has the
+  potential to help people solve immense global challenges,
+  and we want the upside of AI to be widely shared. Join us in
+  shaping the future of technology.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+posted_date: 2026-08-03
+url: "https://builtin.com/job/ai-deployment-engineer/10498007"
+source: Built In

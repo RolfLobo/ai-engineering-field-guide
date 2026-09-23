@@ -1,0 +1,47 @@
+company:
+  name: Five9
+  stage: null
+  focus: Cloud contact center software
+position:
+  title: Senior AI Software Engineer - Backend
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on LLM integration including prompt
+      design, structured output, and evaluation, which is directly
+      shaping model behaviour/output quality in an LLM-powered
+      product. Hence ai-first.
+  responsibilities:
+  - Develop scalable, highly available application platform on GCP PaaS
+  - Build microservices with Java Spring Framework and Spring Boot
+  - Build and scale backend services and data pipelines turning customer conversations
+    into insights
+  - Integrate AI and LLM services into pipelines ensuring accurate, traceable insights
+  - Leverage PaaS components like message buses, cloud functions, and NoSQL databases
+  - Own code in production including on-call and troubleshooting
+  - Contribute to requirements analysis and architecture documentation
+  use_cases:
+  - AI-powered customer insights from contact center conversations
+  - Surfacing why customers reach out and how reasons cluster and shift over time
+  - Analytics for CX and operations leaders with traceability to source conversations
+  - Processing large volumes of voice and chat conversations at scale
+  skills:
+    genai: [LLMs, Prompt Engineering, Structured Outputs, LLM Evaluation, Claude Code,
+      Azure OpenAI, OpenAI API]
+    ml: []
+    web: [Spring Boot, REST APIs, Microservices, Event-Driven Architecture]
+    databases: [NoSQL, MySQL, BigQuery, Redis]
+    data: [Data Pipelines, Databricks]
+    cloud: [GCP]
+    ops: [Kubernetes]
+    languages: [Java]
+    domains: []
+    other: [JUnit, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10995360'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:11:47.658719'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

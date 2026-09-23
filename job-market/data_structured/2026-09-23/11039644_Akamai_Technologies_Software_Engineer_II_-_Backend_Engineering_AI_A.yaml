@@ -1,0 +1,56 @@
+company:
+  name: Akamai Technologies
+  stage: null
+  focus: Cloud security and content delivery network services
+position:
+  title: Software Engineer II - Backend Engineering (AI & Agentic Platforms)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds MCP servers, agent orchestration
+      platforms, and multi-agent system infrastructure, directly
+      shaping agent tool calling and context flows. This is
+      agent/LLM work the engineer develops themselves, making it
+      ai-first.
+  responsibilities:
+  - Design, build, and maintain backend services and APIs supporting enterprise agentic
+    AI initiatives
+  - Develop and enhance MCP servers integrating internal and external tools and data
+    sources into the agent ecosystem
+  - Implement AuthN/AuthZ frameworks (OAuth2/OIDC, token exchange, mTLS) to secure
+    MCP servers, agents, and LLM traffic
+  - Develop Python-based services and integrate with agentic or LLM orchestration
+    frameworks
+  - Govern enterprise API gateway platforms, managing MCP servers, agents, LLM usage,
+    and orchestration workflows
+  - Collaborate with architects, security, and platform teams to turn AI governance
+    requirements into infrastructure solutions
+  use_cases:
+  - Enterprise AI agent enablement platform
+  - Secure and governed MCP tool integration for agents
+  - Authentication and authorization for agent and LLM traffic
+  - API gateway governance for enterprise AI usage
+  - Agentic AI orchestration workflows
+  skills:
+    genai: [MCP, Agentic Workflows, Multi-Agent Systems, AI Agents, LLMs]
+    ml: []
+    web: [REST APIs, GraphQL, OAuth, APIs, Microservices]
+    databases: [Redis, JWT, mTLS]
+    data: [Kafka, Spark, Flink]
+    cloud: []
+    ops: [Distributed Systems, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11039644'
+  location: IND
+  locations:
+  - IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:14:07.196734'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Health Note
+  stage: null
+  focus: |-
+    AI-powered digital assistants for healthcare patient access
+    workflows
+position:
+  title: Senior AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns improvements to an LLM-based Access Agent:
+      connecting prompts, configurations, and agent behavior to
+      outcomes, building evals and regression checks for
+      prompt/model changes. This is shaping LLM/agent behavior, so
+      ai-first.
+  responsibilities:
+  - Own improvements to the Access Agent from investigation through production rollout
+    and measurement
+  - Build evals, dashboards, review workflows, logs, and production metrics to measure
+    agent performance
+  - Analyze transfer patterns, containment rates, and task success to identify improvement
+    opportunities
+  - Build tooling connecting prompts, configurations, interventions, customer workflows,
+    and outcomes
+  - Create regression checks before and after changes go live
+  - Design lightweight experiments for model, STT, prompt, workflow, and configuration
+    changes
+  - Partner with Product, Operations, and Engineering to prioritize and validate improvements
+  - Use AI-assisted development tools and agentic workflows to accelerate delivery
+  use_cases:
+  - Patient access agent handling scheduling, reschedules, and intake
+  - Referrals, medication refills, and patient access workflow automation
+  - Measuring and improving reliability of customer-facing AI agent in production
+  - Regression detection and safe rollout of prompt and model changes
+  skills:
+    databases: []
+    domains: [Speech Recognition]
+    data: []
+    web: []
+    ml: []
+    ops: [Monitoring, Langfuse, Observability]
+    other: [Experimentation Tooling, Claude Code, Cursor, Codex]
+    cloud: []
+    languages: []
+    genai: [AI Agents, Agentic Workflows, Prompt Engineering, LLM Evaluation, RAG]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11058705'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:15:47.054798'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

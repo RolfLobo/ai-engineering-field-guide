@@ -1,0 +1,56 @@
+company:
+  name: CloudPSO
+  stage: null
+  focus: AI voice agent platform for enterprise support and sales
+position:
+  title: AI FRONTEND ENGINEER / LEAD (Remote)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds frontend UIs that consume AI services (STT,
+      NLU, TTS) via APIs and WebSockets that other teams designed.
+      There is no prompt engineering, retrieval design, model
+      training, or output-quality evaluation; AI familiarity is
+      only "basic understanding" for collaboration. Per the rules,
+      consuming an AI API another team designed is ai-support.
+  responsibilities:
+  - Own the frontend architecture, technology stack, and development roadmap for the
+    Voice Agent platform
+  - Mentor frontend developers, conduct code reviews, and establish coding standards
+  - Build reusable component libraries and translate UI/UX mockups into responsive,
+    accessible interfaces
+  - Implement real-time voice streaming interfaces using WebSocket and WebRTC
+  - Integrate with backend AI services (STT, NLU, TTS) via REST APIs and WebSocket
+    connections
+  - Build administrative dashboards for monitoring agent performance, analytics, and
+    system health
+  - Create rapid prototypes and proofs of concept for new AI features and client demos
+  - Implement frontend testing strategies and optimize performance for low-latency
+    experiences
+  use_cases:
+  - Enterprise voice assistants for customer support, sales, and internal operations
+  - Real-time voice transcription (STT) with natural voice responses (TTS)
+  - Admin dashboards for monitoring AI voice agent performance and system health
+  - Configuration interfaces for enterprises to set up and interact with AI voice
+    agents
+  skills:
+    genai: []
+    ml: [Speech-to-Text, Text-to-Speech, NLU]
+    web: [React, Vue, Angular, WebSockets, WebRTC, REST APIs, Redux, Zustand, State
+        Management, Webpack, Vite, Figma, Responsive Design, Accessibility]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Git, Jest, React Testing Library, Cypress, Docker, Kubernetes]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [SIP, PSTN, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11032441'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:13:58.574784'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

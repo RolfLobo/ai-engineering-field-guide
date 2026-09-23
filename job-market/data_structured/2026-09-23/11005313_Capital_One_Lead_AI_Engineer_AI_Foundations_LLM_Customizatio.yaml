@@ -1,0 +1,59 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI/ML-powered customer
+    experiences
+position:
+  title: 'Lead AI Engineer (AI Foundations: LLM Customization, Finetuning, Reinforcement
+    Learning)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves foundation model training, LLM inference,
+      guardrails, and model evaluation—directly shaping LLM
+      behavior and output quality. LLMs are the primary target,
+      making it ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, and model evaluation
+  - Leverage open source and SaaS AI technologies such as AWS Ultraclusters, Hugging
+    Face, VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and apply state-of-the-art LLM optimization techniques for scalability,
+    cost, latency, and throughput
+  - Contribute to the technical vision and roadmap of foundational AI systems
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Fraud detection and informing customers about unusual charges
+  - Real-time customer question answering
+  - AI-powered products changing how associates work
+  - Proprietary AI platforms empowering teams across Capital One to enhance products
+    with AI
+  skills:
+    genai: [LLMs, Guardrails]
+    ml: [Foundation Model Training, Nemo Guardrails, Model Evaluation, PyTorch, Hugging
+        Face, Model Training, Machine Learning, Reinforcement Learning, Fine-Tuning]
+    web: []
+    databases: [Vector Search, Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11005313'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:12:10.376349'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

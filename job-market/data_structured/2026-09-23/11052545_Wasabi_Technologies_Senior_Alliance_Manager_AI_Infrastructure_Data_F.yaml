@@ -1,0 +1,49 @@
+company:
+  name: Wasabi Technologies
+  stage: null
+  focus: Low-cost, high-speed cloud storage services
+position:
+  title: Senior Alliance Manager, AI Infrastructure, Data Factory & Developer Partnerships
+    (Bay Area Based)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a partner/alliance management role for storage
+      partnerships in the AI infrastructure space. The person
+      shapes business partnerships and go-to-market strategy, not
+      model behaviour, prompts, retrieval, or training. AI is the
+      domain of the partnerships, not the work itself.
+  responsibilities:
+  - Build the partner strategy for AI infrastructure from the ground up
+  - Identify and pursue prospective AI infrastructure, data factory, and developer
+    ecosystem partners
+  - Manage existing partner relationships
+  - Structure partnership revenue models and own go-to-market end to end
+  - Represent Wasabi commercially and technically with AI infrastructure stack companies
+  - Collaborate cross-functionally with product and Business Development to pursue
+    neocloud and AI-native companies
+  use_cases:
+  - Storage and data layer powering AI training and inference
+  - AI data factory partnerships
+  - AI infrastructure ecosystem partnerships
+  - Emerging AI developer ecosystem
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Alliance Management, Business Development, Go-to-Market Strategy, Partnerships]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11052545'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:16:14.455810'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Motive
+  stage: null
+  focus: Fleet management and physical operations platform
+position:
+  title: GTM AI Engineer -Deal Desk
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agents, prompts, and workflows (Agentforce,
+      Glean, n8n, MCP) and creates prompts/workflows for LLMs,
+      evaluating model performance vs token cost — this is shaping
+      LLM behavior directly, so ai-first.
+  responsibilities:
+  - Identify Deal Desk bottlenecks and automate them with AI-powered workflows and
+    agents
+  - Design human-in-the-loop validation, audit trails, and fallback rules for Deal
+    Desk agents to ensure compliance with revenue recognition and pricing policies
+  - Own the full development lifecycle of internal AI tools from prototyping through
+    production scaling, beta testing, and maintenance
+  - Build agents and workflows using Glean, Salesforce (Agentforce, ClaudeForce),
+    and n8n; develop front-ends with Retool, Cursor, or React
+  - Integrate enterprise data and APIs securely
+  - Create prompts and workflows for models such as Gemini, ChatGPT, Claude, and Perplexity
+  - Manage a cost envelope for production use cases, testing LLM models to balance
+    performance with token cost
+  - Create documentation and train end-users on launched tools
+  use_cases:
+  - Automating Deal Desk and GTM sales operations workflows with AI agents
+  - Quote, pricing, and deal approval automation compliant with revenue recognition
+    policies
+  - Internal AI tools for Sales and Deal Desk teams from prototype to production
+  - Cost-optimized LLM usage balancing performance and token consumption
+  skills:
+    genai: [Prompt Engineering, AI Agents, Agentic Workflows, MCP, OpenAI API, Gemini,
+      Anthropic API, ChatGPT, Perplexity, Claude Code, ClaudeForce, Agentforce, LLMs]
+    ml: []
+    web: [React, APIs]
+    databases: [SQL, SOQL]
+    data: []
+    cloud: []
+    ops: [n8n]
+    languages: [Python]
+    domains: []
+    other: [Glean, Retool, Salesforce, Cursor, CPQ, CLM, RevOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11265300'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:33:35.691675'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

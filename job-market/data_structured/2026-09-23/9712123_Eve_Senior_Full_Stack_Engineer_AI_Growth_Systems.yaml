@@ -1,0 +1,60 @@
+company:
+  name: Eve
+  stage: Backed by $160M+ from Spark Capital, a16z, Menlo Ventures, Lightspeed
+  focus: AI legal technology for plaintiff law firms
+position:
+  title: Senior Full Stack Engineer, AI & Growth Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      While the role is primarily full-stack GTM engineering, the
+      description requires applied LLM/agent systems taken past
+      prototype with attention to evals, observability, and
+      failure modes, and building generation and evaluation
+      primitives — that is shaping LLM/agent output quality,
+      making it ai-first rather than ai-support. The AI-assisted
+      development with Claude Code/Cursor/Codex alone would be ai-
+      support, but the ownership of agent systems and evals tips
+      it.
+  responsibilities:
+  - Own workstreams end-to-end across frontend, backend, APIs, and data, from ambiguous
+    business problem to shipped, monitored software
+  - Build internal tools, integrations, and GTM systems connecting CRMs, marketing
+    automation, data warehouses, and third-party APIs
+  - Build reusable ingestion, storage, generation, evaluation, and observability primitives
+    for repeatable GTM workflows
+  - Own and evolve the content-driven web platform so non-engineers can publish safely
+  - Add monitoring, validation, and runbooks for webhooks, data syncs, and production
+    reliability
+  - Partner directly with growth, sales, and RevOps on discovery and measuring impact
+  - Raise the bar through code review, reusable patterns, and build-vs-don't-build
+    judgment
+  - Use AI-assisted development with task decomposition, review, and guardrails to
+    maintain quality
+  use_cases:
+  - GTM automation replacing manual growth, sales, and RevOps workflows
+  - Content-driven web publishing platform for marketers without engineers
+  - Lead routing, enrichment, scoring, and identity resolution pipelines
+  - Internal tools for sales and RevOps teams
+  - Integrations across CRMs, marketing automation, and data warehouses
+  - AI-assisted workflows for legal-domain GTM operations
+  skills:
+    genai: [Claude Code, Cursor, Codex, LLMs, AI Agents, LLM Evaluation]
+    ml: []
+    web: [React, Webhooks, APIs, Astro, Next.js, SvelteKit]
+    databases: [Snowflake]
+    data: [Segment]
+    cloud: []
+    ops: []
+    languages: [TypeScript, SQL]
+    domains: []
+    other: [HubSpot, Salesforce, Clay, Apollo, Sanity, Contentful, SEO, CMS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9712123'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:37:54.942830'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

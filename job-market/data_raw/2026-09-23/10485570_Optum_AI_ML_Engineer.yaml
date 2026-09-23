@@ -1,0 +1,144 @@
+job_id: 10485570
+title: AI ML Engineer
+company: Optum
+location: Noida, IND
+work_type: FULL_TIME
+company_size: 160,000 Employees
+description: |
+  Requisition Number: 2376771 Optum is a global organization
+  that delivers care, aided by technology to help millions of
+  people live healthier lives. The work you do with our team
+  will directly improve health outcomes by connecting people
+  with the care, pharmacy benefits, data and resources they
+  need to feel their best. Here, you will find a culture
+  guided by inclusion, talented peers, comprehensive benefits
+  and career development opportunities. Come make an impact on
+  the communities we serve as you help us advance health
+  optimization on a global scale. Join us to start Caring.
+  Connecting. Growing together. We are seeking a visionary AI
+  Engineering Lead who excels at the intersection of advanced
+  AI expertise, strategic thinking, and impactful leadership.
+  This role is ideal for someone who can architect and deliver
+  enterprise-grade AI solutions, mentor AI engineering talent,
+  and drive innovation in Generative AI. You will be
+  instrumental in shaping our AI engineering culture,
+  technology strategy, and customer-centric solutions, with a
+  solid focus on accuracy, scalability, performance, and
+  robust design. Builder Responsibilities: Design, develop,
+  and deploy AI-powered solutions using no-code, low-code, and
+  advanced platforms, translating business needs into scalable
+  applications that enhance products, workflows, and decision-
+  making. Primary Responsibilities:
+
+  - Lead the design, development, and implementation of scalable
+    AI/ML solutions, leveraging Python, SQL, pandas, numpy,
+    and modern ML frameworks (TensorFlow, PyTorch, Scikit
+    Learn)
+  - Oversee end to end ML workflows-from data preparation,
+    feature engineering, EDA, and model development to
+    evaluation, deployment, and continuous monitoring
+  - Guide model selection, optimization, and tuning, ensuring
+    solutions balance performance, explainability, cost, and
+    Responsible AI principles
+  - Build and maintain production grade ML pipelines with
+    orchestration and experiment tracking tools such as
+    MLflow, Feature Stores, ONNX, and vector databases
+  - Lead drift analysis, observability, and model health
+    monitoring to ensure ongoing accuracy, reliability, and
+    robustness in production environments
+  - Design and support scalable, multi cloud ML infrastructure
+    (Azure/GCP primary, AWS optional), incorporating best
+    practices for compute, storage, networking, and
+    distributed data processing
+  - Collaborate with data engineering teams to integrate real
+    time and batch pipelines built on Synapse/Big Query,
+    Dataflow/Databricks, and Kafka/EventHub/Pub Sub
+  - Work closely with engineering, product, data science, and UX
+    to translate business requirements into actionable
+    technical solutions and architecture patterns
+  - Review and guide the creation of architecture diagrams, C4
+    models, ADRs, and technical specifications as part of
+    engineering governance
+  - Mentor and coach data scientists and ML engineers on best
+    practices in model development, experimentation, coding
+    standards, optimization, and cloud native ML deployment
+  - Ensure ML systems meet high standards of scalability,
+    security, reliability, automation, observability, and
+    operational excellence
+  - Collaborate with front end teams where needed to ensure ML
+    components integrate seamlessly with product workflows and
+    user-facing experiences
+  - Stay current with emerging AI/ML tools, frameworks, and
+    research; evaluate applicability to current and future
+    projects
+  - Communicate technical concepts, design trade-offs, and
+    recommendations clearly to both technical and non
+    technical stakeholders, including leadership
+  - Document methodologies, experiments, findings, and
+    implementation details to ensure maintainability and
+    knowledge sharing across teams
+  - Comply with company policies, employment terms, and
+    organizational directives related to work arrangements and
+    project assignments
+  - Comply with the terms and conditions of the employment
+    contract, company policies and procedures, and any and all
+    directives (such as, but not limited to, transfer and/or
+    re-assignment to different work locations, change in teams
+    and/or work shifts, policies in regards to flexibility of
+    work benefits and/or work environment, alternative work
+    arrangements, and other decisions that may arise due to
+    the changing business environment). The Company may adopt,
+    vary or rescind these policies and directives in its
+    absolute discretion and without any limitation (implied or
+    otherwise) on its ability to do so
+
+  Required Qualifications:
+
+  - Bachelor's or Master's degree in Computer Science, Data
+    Science, Statistics, or a related field
+  - 6+ years of experience in Data Science, AI/ML, or a similar
+    role
+  - Experience with the full life cycle of AI/ML projects,
+    including EDA, model development, tuning, and drift
+    analysis
+  - Hands-on experience in delivering production-grade AI/ML
+    projects
+  - Solid programming skills in Python, with experience in
+    pandas, numpy, and SQL
+  - Solid understanding of mathematical and statistical concepts
+  - Proficiency in frameworks such as Scikit Learn, TensorFlow,
+    and PyTorch
+  - Proven excellent problem-solving and analytical thinking
+    skills
+  - Proven solid communication and collaboration skills to work
+    effectively in a team environment
+
+  Preferred Qualifications:
+
+  - Familiarity with the US Healthcare domain
+  - Knowledge of Big Data technologies (PySpark, Hadoop) and
+    data streaming tools (Kafka, etc.)
+
+  At UnitedHealth Group, our mission is to help people live
+  healthier lives and make the health system work better for
+  everyone. We believe everyone-of every race, gender,
+  sexuality, age, location and income-deserves the opportunity
+  to live their healthiest life. Today, however, there are
+  still far too many barriers to good health which are
+  disproportionately experienced by people of color,
+  historically marginalized groups and those with lower
+  incomes. We are committed to mitigating our impact on the
+  environment and enabling and delivering equitable care that
+  addresses health disparities and improves health outcomes -
+  an enterprise priority reflected in our mission.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Healthtech
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-09-22
+url: "https://builtin.com/job/ai-ml-engineer/10485570"
+source: Built In

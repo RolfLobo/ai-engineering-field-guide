@@ -1,0 +1,50 @@
+company:
+  name: Cyncly
+  stage: null
+  focus: |-
+    End-to-end software for designing and manufacturing
+    customizable spaces
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds and trains computer vision models (OpenCV,
+      YOLO, Faster R-CNN, image classification, diffusion models)
+      directly, which is shaping classical/generative non-LLM
+      models with no LLM or agent component mentioned. Hence ml-
+      first.
+  responsibilities:
+  - Interpret data and analyze results using statistical techniques, providing ongoing
+    reports
+  - Develop and implement databases, data collection systems, and data analytics strategies
+  - Acquire data from primary and secondary sources and maintain databases/data systems
+  - Identify, analyze, and interpret trends or patterns in complex data sets
+  - Filter and clean data, locating and correcting code problems
+  - Work with Data Engineer to build the data science infrastructure
+  - Troubleshoot and debug data defects for faster resolution
+  use_cases:
+  - Object detection and image classification for customizable products and spaces
+  - Image processing pipelines for design and manufacturing industries
+  - Data analytics and reporting solutions for business needs
+  - Exploratory data analysis to identify trends and patterns
+  skills:
+    genai: [Chatbots]
+    ml: [OpenCV, Object Detection, Image Processing, Image Classification, YOLO, Faster
+        R-CNN, Machine Learning, Deep Learning, TensorFlow, Diffusion Models]
+    web: [REST APIs]
+    databases: [NoSQL, Relational Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Computer Vision, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11298148'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:35:32.483407'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

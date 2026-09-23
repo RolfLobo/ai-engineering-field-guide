@@ -1,0 +1,68 @@
+company:
+  name: Elfonze Technologies Pvt Ltd
+  stage: null
+  focus: IT services and technology solutions
+position:
+  title: AI Site Reliability Engineer (AI SRE)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is about operating and ensuring reliability of AI
+      platforms others build: SLIs/SLOs, incident response,
+      monitoring, CI/CD, infrastructure. Prompt/model evaluation
+      and regression testing are mentioned, but the framing is
+      operational readiness and release governance, not shaping
+      model behaviour as the core deliverable; capacity, not
+      output quality.
+  responsibilities:
+  - Own reliability, availability, performance, and operational readiness of AI/ML,
+    GenAI, RAG, and agentic AI services in production
+  - Define and manage SLIs, SLOs, error budgets, capacity plans, and reliability scorecards
+  - Lead incident response, root-cause analysis, and corrective/preventive actions
+    for production issues
+  - Implement observability across infrastructure and AI stacks including model drift,
+    retrieval quality, hallucination risk, and agent execution failures
+  - Build automated evaluation and regression testing for prompts, models, RAG pipelines,
+    tools, and agents
+  - Build CI/CD and GitOps pipelines and automate provisioning, deployment patterns,
+    and routine operations
+  - Partner with security and governance teams on access controls, secrets management,
+    and responsible AI controls
+  - Conduct production readiness reviews, mentor junior engineers, and communicate
+    risks to stakeholders
+  use_cases:
+  - Reliable production operation of GenAI, RAG, and agentic AI workloads at enterprise
+    scale
+  - End-to-end observability of AI services including model drift, retrieval quality,
+    and hallucination risk
+  - Automated evaluation and regression testing of prompts, models, and agents
+  - Safe deployment and rollback of model and prompt configurations
+  - Cost and GPU capacity management for AI inference
+  skills:
+    genai: [RAG, LLMs, Generative AI, AI Agents, Prompt Engineering, Guardrails, LangChain,
+      LangGraph, Semantic Kernel, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases, Azure AI Search, OpenSearch, Elasticsearch, Pinecone,
+      Weaviate, Qdrant, pgvector]
+    data: [Data Pipelines]
+    cloud: [Azure, AWS, GCP, Azure AI Foundry, Azure OpenAI, AWS Bedrock, SageMaker,
+      Vertex AI, IAM]
+    ops: [Site Reliability Engineering, MLOps, LLMOps, DevOps, Kubernetes, Docker,
+      Linux, OpenTelemetry, Prometheus, Grafana, Azure Monitor, CloudWatch, Datadog,
+      Splunk, CI/CD, GitOps, GitHub Actions, Azure DevOps, Jenkins, Terraform, Bicep,
+      CloudFormation, Infrastructure as Code, Model Monitoring, Monitoring, Model
+        Deployment, MLflow, Kubeflow, API Gateways, Load Balancing, Secrets Management,
+      Distributed Systems]
+    languages: [Python, Go, Bash, PowerShell]
+    domains: []
+    other: [Responsible AI, Chaos Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11294766'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:35:12.159425'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,63 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI-powered experiences
+position:
+  title: AI Engineer 5 (Gen AI Platform Services)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops AI components including LLM
+      inference, agents and multi-agent workflows, guardrails,
+      model evaluation, and orchestration pipelines that shape LLM
+      behavior, making it ai-first. Foundation model optimization
+      and multi-model orchestration further confirm shaping
+      LLM/generative systems.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, agents, multi-agent workflows, similarity search,
+    guardrails, model evaluation, and observability
+  - Design, implement, and optimize multi-model orchestration pipelines integrating
+    LLMs, vector search, and domain-specific models
+  - Invent and introduce foundation model optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Lead cost-performance governance reviews tracking GPU utilization, model throughput,
+    and inference cost efficiency
+  - Lead design councils and design review boards for technical consistency and AI
+    engineering standards compliance
+  - Mentor Principal and Manager-level AI engineers
+  - Contribute to technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - AI-powered banking products changing how customers interact with Capital One
+  - Real-time personalized customer experiences and real-time question answering
+  - Fraud and unusual-charge detection informing customers
+  - Enterprise Gen AI platform services enabling teams across Capital One to add AI
+    to their products
+  - Scalable, high-performance AI infrastructure for production LLM systems
+  skills:
+    databases: [Vector Databases]
+    domains: []
+    data: []
+    web: []
+    ml: [Foundation Model Training, Model Evaluation, Hugging Face, PyTorch, CUDA,
+      Fine-Tuning, Model Training, Machine Learning]
+    ops: [Model Deployment]
+    other: []
+    cloud: [AWS, GCP, Azure]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    genai: [AI Agents, Agentic Workflows, Multi-Agent Systems, Similarity Search,
+      Guardrails, RAG]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268186'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:33:06.632195'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

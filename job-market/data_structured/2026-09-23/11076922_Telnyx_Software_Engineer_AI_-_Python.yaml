@@ -1,0 +1,54 @@
+company:
+  name: Telnyx
+  stage: null
+  focus: Global connectivity and communications APIs
+position:
+  title: Software Engineer, AI - Python
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs multi-agent LLM systems, tool-use patterns,
+      prompt/model experiments, and evaluation infrastructure —
+      clearly shaping model behavior, with LLM/agent components
+      central, so ai-first.
+  responsibilities:
+  - Design and build multi-agent AI systems in Python handling complex business workflows
+    (qualification, email generation, routing, enrichment, outbound orchestration)
+  - Architect model-agnostic abstraction layers decoupling business logic from LLM
+    providers (Claude, GPT, open-source models)
+  - Build and operate backend services (FastAPI/Flask) on Kubernetes with CI/CD, from
+    deployment to production reliability
+  - 'Design tool-use patterns for AI agents: structured function calling, multi-step
+    reasoning, state management, graceful model failure handling'
+  - Build integrations across external systems (CRM, enrichment APIs, outreach platforms,
+    Slack) with error handling, retries, and rate limiting
+  - 'Instrument and monitor AI systems in production: observability into agent behavior,
+    success rates, regression detection'
+  - Design and run experiments (A/B tests, prompt variations, model comparisons) with
+    evaluation infrastructure
+  use_cases:
+  - Lead qualification and enrichment automation
+  - AI-generated email and outbound campaign orchestration
+  - Meeting routing and scheduling automation
+  - GTM (go-to-market) workflow automation via LLM agents
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [FastAPI, Flask]
+    ml: []
+    ops: [Kubernetes, Docker, CI/CD, Monitoring, Observability, ArgoCD]
+    other: [A/B Testing, Salesforce, Slack]
+    cloud: []
+    languages: [Python, SQL]
+    genai: [AI Agents, Agentic Workflows, LLMs, Function Calling, Structured Outputs,
+      Prompt Engineering, LLM Evaluation, Anthropic API, GPT, Conversational AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11076922'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:17:30.933438'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

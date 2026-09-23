@@ -1,0 +1,64 @@
+company:
+  name: Absentia Labs
+  stage: null
+  focus: AI for biomedical and scientific discovery
+position:
+  title: 'Contract-to-hire: Senior AI/ML Engineer'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, trains, and evaluates large models
+      including LLMs, directly shaping model behavior through
+      architecture, training, and fine-tuning decisions. Since LLM
+      training is central (alongside diffusion and GNNs), this is
+      ai-first per Step 2.
+  responsibilities:
+  - Design, train, and evaluate large-scale models including LLMs, diffusion models,
+    and GNNs
+  - Own end-to-end training pipelines from dataset interfaces and batching to distributed
+    training and checkpointing
+  - Make principled decisions about model architecture, objective functions, optimization,
+    and scaling laws
+  - Build and optimize distributed training systems including parallelism, sharding,
+    and mixed precision
+  - Collaborate with data engineers to define ML-ready datasets and streaming interfaces
+  - Drive model evaluation, ablation, and iteration focused on generalization and
+    reproducibility
+  - Contribute to decisions on model serving, inference efficiency, and lifecycle
+    management
+  - Provide technical leadership through design reviews, mentorship, and cross-team
+    collaboration
+  use_cases:
+  - Translating biomedical and scientific data into machine intelligence for discovery
+  - Training LLMs, diffusion models, and GNNs on fragmented biomedical data
+  - Large-scale model training systems spanning architecture, objectives, and scaling
+    laws
+  - Model serving and inference efficiency for production scientific applications
+  skills:
+    genai: [LLMs]
+    ml: [PyTorch, Model Training, Distributed Training, Reinforcement Learning, Fine-Tuning,
+      RLHF, Distillation, Quantization, Deep Learning, Foundation Models, Multi-Agent
+        Systems, GNNs, Diffusion Models]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Model Deployment]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11193796'
+  location: Austin, USA
+  locations:
+  - Austin, USA
+  - Seattle, USA
+  - San Jose, USA
+  - Boston, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:25:09.525164'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

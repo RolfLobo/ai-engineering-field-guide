@@ -1,0 +1,50 @@
+company:
+  name: Syngenta Group
+  stage: null
+  focus: Agricultural seeds and crop protection technology
+position:
+  title: Staff Engineer - AI Technology
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role architects an AI innovation platform for other
+      teams and evaluates AI technologies, but the description
+      does not state that the person writes prompts, designs
+      RAG/agents, or shapes model behaviour themselves; the
+      deliverable is platform infrastructure and guidance. AI is
+      framed as awareness and evaluation, so ai-support.
+  responsibilities:
+  - Lead design and architecture of the AI Innovation Platform ensuring scalability,
+    maintainability, and performance
+  - Collaborate with development teams to understand requirements and provide architectural
+    guidance
+  - Define and promote best practices for software development utilizing AI and upskill
+    engineering teams
+  - Evaluate emerging AI technologies and recommend adoption based on potential impact
+  - Work with Product and Business stakeholders to ensure the platform meets user
+    needs
+  - Define implementation approaches, algorithms, and code structures; prototype and
+    detail integration designs
+  - Derive architecturally significant functional and quality-attribute requirements
+  - Engage in technical discussions with globally distributed project partners
+  use_cases: []
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [Microservices, REST APIs, GraphQL]
+    databases: [SQL, NoSQL, PostgreSQL, MySQL, Redis, MongoDB, DynamoDB]
+    data: []
+    cloud: [Serverless Architectures, AWS]
+    ops: [Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, CircleCI]
+    languages: []
+    domains: []
+    other: [Domain-Driven Design, Spec-Driven Design, Static Analysis, Performance
+        Optimization, Automated Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10927001'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:07:06.070557'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

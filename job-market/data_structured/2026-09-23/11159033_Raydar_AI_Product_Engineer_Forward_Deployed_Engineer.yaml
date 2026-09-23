@@ -1,0 +1,53 @@
+company:
+  name: Raydar
+  stage: null
+  focus: Trust and evaluation platform for voice AI agents
+position:
+  title: AI Product Engineer / Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward-deployed engineer role at a voice-AI trust
+      platform (simulation, red-teaming, observability). FDEs who
+      adapt and deploy AI solutions directly at customer sites are
+      ai-first, and the work supports evaluating and hardening AI
+      agent behaviour. The daily use of Cursor/Claude Code alone
+      would be ai-support, but the customer-facing deployment of
+      an AI evaluation product makes it ai-first.
+  responsibilities:
+  - Work directly with enterprise engineers to understand product gaps, debug live
+    issues, and define solutions
+  - Own features end to end from discovery through prototype, implementation, launch,
+    and iteration
+  - Support proofs of concept and post-sales customer success as a technical partner
+  - Turn one-off customer requests into reusable platform capabilities
+  - Build across TypeScript, Python, React, Next.js, Node.js, APIs, data systems,
+    and UIs
+  - Use AI coding tools such as Cursor, Claude Code, and Codex as a core part of daily
+    development
+  - Travel for customer visits, conferences, and team offsites (~10-20%)
+  use_cases:
+  - Pre-deployment simulation of voice AI agents
+  - Adversarial red-teaming of voice agents
+  - Production observability for voice agent calls
+  - Trust and compliance for voice AI in regulated industries
+  skills:
+    genai: []
+    ml: []
+    web: [React, Next.js, APIs]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS]
+    ops: [Cursor, Claude Code, Codex, Temporal, Kubernetes, Terraform, OpenTelemetry]
+    languages: [TypeScript, Python, Node.js]
+    domains: []
+    other: [Voice AI, LiveKit, Pipecat, Vapi, Retell AI, ElevenLabs, Figma]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11159033'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:22:13.469390'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

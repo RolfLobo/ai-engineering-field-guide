@@ -1,0 +1,42 @@
+company:
+  name: Novella
+  stage: null
+  focus: AI-native insurance brokerage for E&S insurance
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships autonomous agents and LLM
+      applications, plus eval frameworks and RAG — directly
+      shaping model behavior and output quality. Clear ai-first.
+  responsibilities:
+  - Lead development of autonomous agents and LLM-based applications across the full
+    lifecycle
+  - Design evaluation frameworks with datasets and benchmarks for LLM applications
+  - Deploy and optimize LLM applications in production
+  - Mentor team members on LLM development and build an AI-first technical culture
+  - Act as internal AI evangelist across technical and non-technical teams
+  use_cases:
+  - AI agents that help insurance brokers find coverage for high-risk E&S customers
+  - Autonomous agents augmenting insurance brokers in the $150B E&S market
+  - LLM applications for designing, selling, and servicing E&S insurance
+  skills:
+    genai: [LLMs, AI Agents, RAG, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11051227'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:15:07.021402'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

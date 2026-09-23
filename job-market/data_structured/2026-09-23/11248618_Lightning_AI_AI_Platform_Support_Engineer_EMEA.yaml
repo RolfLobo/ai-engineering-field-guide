@@ -1,0 +1,55 @@
+company:
+  name: Lightning AI
+  stage: null
+  focus: End-to-end AI development, training, and compute platform
+position:
+  title: AI Platform Support Engineer (EMEA)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role supports and troubleshoots ML
+      infrastructure—Kubernetes, GPU orchestration, distributed
+      PyTorch, networking, storage—that other teams run. The
+      person runs, diagnoses, and scales models/workloads but does
+      not shape model behaviour via prompts, retrieval, fine-
+      tuning, or evals, so it is ai-support.
+  responsibilities:
+  - Partner directly with customer engineering teams running production training and
+    inference workloads
+  - Diagnose and resolve complex distributed systems and ML infrastructure issues
+  - Act as technical advisor during high-impact incidents and platform degradation
+    events
+  - Troubleshoot distributed training, Kubernetes orchestration, GPU allocation, networking,
+    and storage failures
+  - Debug PyTorch, CUDA, NCCL, and inference serving issues across containerized and
+    bare metal GPU environments
+  - Identify recurring issue patterns and drive long-term reliability improvements
+  - Build internal tooling, automation, documentation, and runbooks
+  - Collaborate with infrastructure, networking, and platform engineering teams to
+    improve observability
+  use_cases:
+  - Large-scale model training on multi-node GPU clusters
+  - Production inference serving and latency troubleshooting
+  - GPU orchestration and allocation across Kubernetes and bare metal
+  - Distributed ML workload reliability and scaling
+  - ML platform observability and incident response
+  skills:
+    genai: []
+    ml: [PyTorch, CUDA, Machine Learning]
+    web: []
+    databases: []
+    data: [Ray]
+    cloud: [Cloud Infrastructure]
+    ops: [Kubernetes, Docker, Linux, Prometheus, Grafana, OpenTelemetry, Observability,
+      Distributed Systems, Kubeflow, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [NCCL, Slurm, InfiniBand, RDMA]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11248618'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:31:02.694334'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,132 @@
+job_id: 11210484
+title: Quality Engineer, AI-Native
+company: Libra Solutions
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Us
+
+  When life gets hard, we make it easier! Libra Solutions
+  helps overcome the burdens created by slow-moving legal
+  processes. Combining technical innovation and financial
+  strength, we help speed up cumbersome workflows and ease
+  financial barriers for our customers.
+
+  Through the MoveDocs personal injury solutions platform,
+  Libra integrates and streamlines medical, financial, and
+  professional services for personal injury cases.  Our
+  mission is to help personal injury victims receive the
+  medical care and personal funding needs they require, and to
+  help streamline the process for the attorneys and medical
+  providers that serve these victims.  Libra operates under
+  the MoveDocs, Oasis Financial and Probate Advance brands. We
+  are proud of our mission and passionate about applying
+  technology to the challenge of making healthcare more
+  accessible.
+
+  Together, under the Libra Solutions banner, we have
+  relationships with over 50,000 attorneys and over 12,000
+  healthcare providers nationwide, which gives us an amazing
+  platform to service our customers.
+
+  The Quality Engineer, AI-Native is a core contributor on the
+  quality engineering team, responsible for designing and
+  owning automated test coverage across API, UI, and
+  integration layers within Libra Solutions’ AI-native
+  delivery model. This role requires hands-on automation
+  expertise and the ability to operate effectively as the
+  quality safeguard in an agentic engineering environment
+  where AI agents contribute to code and test generation at
+  scale and engineers own the judgment, coverage depth, and
+  quality standards that define what ships.
+
+  This position reports to the Manager, Quality Engineering
+  and can be based in any of our office locations in Denver,
+  CO, Huntersville, NC, Rosemont, IL, or Las Vegas, NV. We
+  welcome strong remote candidates, with occasional travel to
+  Las Vegas as needed.
+
+  Position Responsibilities:
+
+  - Design, implement, and maintain automated UI and end-to-end
+    test suites using Playwright / TypeScript, covering
+    critical user workflows across React and Angular front-end
+    applications
+  - Write automated API tests against C# / ASP.NET Core REST
+    endpoints using TypeScript HTTP client libraries or C# /
+    xUnit / NUnit test projects; validating request contracts,
+    response schemas, business logic, and error handling
+  - Build and maintain integration tests that validate service-
+    to-service interactions and data flows across the
+    application stack, including SQL Server / Azure SQL data
+    validation
+  - Contribute to test data strategy for the pod’s automated
+    suites: design repeatable, isolated data setup and
+    teardown that enables reliable parallel test execution
+  - Use AI-assisted tools (GitHub Copilot, Claude) with
+    structured prompts to accelerate test scaffolding and test
+    generation across API, UI, and integration layers
+  - Critically evaluate all AI-generated tests before committing
+    — review for coverage completeness, assertion quality, and
+    absence of false confidence
+  - Work within Libra’s agentic engineering model: AI agents
+    accelerate code generation at scale; QEs own the quality
+    judgment that determines what ships
+  - Contribute to Azure DevOps CI/CD pipelines, ensuring
+    automated suites run as mandatory quality gates on every
+    build with actionable pass/fail signal
+  - Identify, document, and track bugs/defects in Jira with
+    clear reproduction steps and test evidence; partner with
+    engineers to drive timely resolution
+  - Participate in sprint ceremonies and contribute to test
+    planning, risk assessment, and acceptance criteria
+    definition alongside the Technical Product Owner
+  - Partner with offshore QE engineers on the pod to scope test
+    cases clearly, provide review feedback, and maintain
+    shared quality standards
+
+  Requirements
+
+  - Bachelor’s degree in Computer Science, Information
+    Technology, or related field, or equivalent professional
+    experience
+  - 2+ years of hands-on test automation experience writing
+    code-based test suites
+  - Proficiency in Playwright and TypeScript for UI and end-to-
+    end test automation
+  - Experience writing automated API tests in code (TypeScript
+    HTTP clients, C# / xUnit / NUnit, or equivalent), not just
+    exploratory API testing with Postman
+  - Working knowledge of C# / .NET applications as the system
+    under test; ability to read C# code to understand expected
+    behavior
+  - Familiarity with SQL Server or Azure SQL for data validation
+    within automated tests
+  - Experience integrating automated tests into Azure DevOps
+    CI/CD pipelines as quality gates
+  - Hands-on experience with AI tools (GitHub Copilot, Claude,
+    ChatGPT) for test scaffolding, test data generation, and
+    defect analysis
+  - Understanding of the QE role in an agentic delivery model:
+    able to adapt test strategy and coverage to environments
+    where AI agents contribute significantly to code
+    generation, with heightened focus on validation depth,
+    assertion quality, and critical evaluation of AI-generated
+    test output
+  - Creative problem-solving and troubleshooting skills
+  - Self-motivated, collaborative, and ownership-oriented with
+    strong verbal and written communication skills
+  - Must be authorized to work in the U.S.
+
+  Benefits
+
+  Libra Solutions offers competitive compensation and benefits
+  that include medical, dental, vision and life insurance
+  plans, plus a 401k match and paid time off.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-09-16
+url: "https://www.builtinla.com/job/quality-engineer-ai-native/11210484"
+source: Built In

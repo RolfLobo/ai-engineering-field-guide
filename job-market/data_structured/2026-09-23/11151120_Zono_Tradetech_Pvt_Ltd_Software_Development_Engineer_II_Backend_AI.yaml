@@ -1,0 +1,44 @@
+company:
+  name: Zono Tradetech Pvt Ltd
+  stage: null
+  focus: Fintech products and solutions
+position:
+  title: Software Development Engineer II, Backend & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend developer role focused on APIs,
+      microservices, and AWS infrastructure. AI/ML is mentioned
+      only as a preferred exposure, not a responsibility, and
+      there is no shaping of model behaviour. Per the rules, AI as
+      a nice-to-have yields ai-support.
+  responsibilities:
+  - Design and develop backend solutions powering fintech products
+  - Build scalable, efficient APIs and services for application-database communication
+  - Contribute fresh ideas and creative solutions to advance technology
+  - Troubleshoot complex technical challenges, optimize performance, and ensure reliability
+  - Collaborate with cross-functional teams to deliver results
+  - Explore emerging technologies and best practices
+  use_cases:
+  - Backend services for fintech products
+  - Scalable APIs connecting applications and databases
+  - Microservices-based fintech application architecture
+  skills:
+    genai: []
+    ml: []
+    web: [Loopback, NestJS, Microservices, REST APIs]
+    databases: [MySQL]
+    data: []
+    cloud: [AWS, AWS Lambda, ECS]
+    ops: [Docker]
+    languages: [Node.js]
+    domains: []
+    other: [AI/ML]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151120'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:21:36.506077'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,210 @@
+job_id: 11114138
+title: "Senior Ecommerce Backend Engineer: AI - Native"
+company: Edmund Optics
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Overview
+
+  Edmund Optics is seeking a Senior Ecommerce Backend
+  Engineer: AI-Native to build, integrate, and expand the
+  backend services that power the company's evolving modular
+  ecommerce platform. This is a hands-on software engineering
+  role focused on connecting core ecommerce capabilities
+  including personalization, semantic and LLM-driven search
+  and discovery, Digital Asset Management (DAM), Product
+  Information Management (PIM), and internal SAP/HANA systems.
+  The role will design and develop APIs, services, data flows,
+  and integrations that allow these platforms to work together
+  reliably at scale. A defining requirement for this position
+  is an AI-native development mindset: the successful
+  candidate will use AI coding agents as a normal part of the
+  software development lifecycle to generate, refactor, test,
+  debug, document, and improve code while applying strong
+  engineering judgment, security practices, and human review.
+  The ideal candidate combines strong backend engineering
+  fundamentals, systems integration experience, curiosity, and
+  the ability to move quickly in a modern AI-assisted
+  development environment.
+
+  Responsibilities
+
+  - Backend Platform Development: Design, build, maintain, and
+    extend backend services, APIs, and integration layers that
+    support Edmund Optics' modular ecommerce architecture and
+    customer-facing web experiences.
+  - AI-Native Software Development: Use AI coding agents and
+    agentic development workflows as a core part of day-to-day
+    engineering to generate, refactor, test, debug, document,
+    and accelerate production code. Validate AI-generated
+    output for correctness, security, maintainability, and
+    performance rather than treating generated code as
+    automatically production-ready.
+  - Ecommerce Systems Integration: Integrate key ecommerce
+    capabilities including personalization platforms,
+    semantic/LLM search and discovery, DAM, PIM, analytics and
+    data services, and other modular components as the
+    ecommerce ecosystem evolves.
+  - Enterprise Data & ERP Integration: Build and maintain
+    reliable integrations between the ecommerce platform and
+    internal enterprise systems, including SAP/HANA, product,
+    pricing, inventory, customer, order, and other business
+    data required to support ecommerce experiences and
+    transactions.
+  - API & Service Architecture: Develop scalable, secure, well-
+    documented APIs and services that allow internal
+    applications, third-party platforms, and customer-facing
+    experiences to exchange data efficiently and consistently.
+  - LLM & Semantic Capabilities: Partner with ecommerce, search,
+    data, and AI teams to integrate LLM-enabled and semantic
+    capabilities into the site, including retrieval, product
+    discovery, conversational experiences, and supporting data
+    pipelines or service layers.
+  - Quality, Testing & Debugging: Build automated testing and
+    validation into development workflows. Use AI-assisted
+    debugging where appropriate while maintaining strong
+    standards for code review, observability, performance,
+    regression prevention, and production reliability.
+  - Modular Architecture & Reusability: Develop services and
+    components with clear boundaries, reusable interfaces, and
+    maintainable integration patterns that support continued
+    movement toward a more modular and composable ecommerce
+    architecture.
+  - Vendor & Partner Collaboration: Work directly with
+    technology vendors, implementation partners, and internal
+    teams to understand technical requirements, review
+    integration approaches, troubleshoot issues, and translate
+    platform capabilities into production solutions.
+  - Continuous Improvement & Emerging Tools: Stay current with
+    AI-assisted software development, agentic coding
+    workflows, backend architecture, integration patterns, and
+    emerging ecommerce technologies. Evaluate new approaches
+    pragmatically and adopt those that measurably improve
+    engineering speed, quality, or maintainability.
+
+  Qualifications
+
+  To perform this position successfully, an individual must be
+  able to perform each essential function satisfactorily. The
+  requirements listed below are representative of the
+  knowledge, skill and/or ability required. Reasonable
+  Accommodations may be made to enable individuals with
+  disabilities to perform the essential functions.
+
+  Requirements:
+
+  - Strong hands-on backend software engineering experience
+    building production web applications, services, APIs, and
+    integrations.
+  - Demonstrated ability to use AI coding agents and AI-assisted
+    development tools to write, refactor, test, debug, and
+    document code as part of a professional software
+    development workflow.
+  - Strong engineering judgment and the ability to review,
+    validate, and improve AI-generated code for correctness,
+    security, performance, maintainability, and architectural
+    fit.
+  - Experience designing and consuming RESTful APIs, service
+    integrations, data interfaces, and modern backend
+    application patterns.
+  - Experience integrating multiple enterprise or SaaS platforms
+    within a production web or ecommerce environment.
+  - Strong understanding of databases, data modeling, SQL,
+    system-to-system data flows, error handling, and
+    integration reliability.
+  - Experience with source control, automated testing, code
+    review, CI/CD practices, logging, monitoring, and
+    production troubleshooting.
+  - Ability to work effectively with frontend developers,
+    architects, product and ecommerce teams, data teams,
+    enterprise application owners, and external implementation
+    partners.
+  - Strong problem-solving skills, curiosity, and comfort
+    working in an evolving environment where architecture and
+    tools will continue to change.
+  - Ability to communicate technical concepts, tradeoffs, risks,
+    and dependencies clearly to both technical and non-
+    technical stakeholders.
+  - Comply with federal, state, and company policies,
+    procedures, and regulations.
+
+  Education/Experience:
+
+  - Bachelor's degree in Computer Science, Software Engineering,
+    Information Systems, Engineering, or a related technical
+    field; equivalent relevant experience will be considered.
+  - 7+ years of professional software development experience,
+    including substantial hands-on backend, API, or systems
+    integration work.
+  - Demonstrated recent experience using AI-assisted or agentic
+    coding workflows in real software development, not solely
+    experimentation or prompt-based prototyping.
+
+  The following qualifications are preferred:
+
+  - Experience with B2B ecommerce, technical products,
+    manufacturing, or another complex product and transaction
+    environment.
+  - Experience integrating ecommerce platforms with PIM, DAM,
+    personalization, semantic search, LLM/RAG capabilities,
+    ERP, analytics, or related enterprise systems.
+  - Experience working with SAP and/or SAP HANA data and
+    integration patterns.
+  - Experience with modern cloud services, message/event-based
+    integration patterns, caching, search platforms, or
+    distributed service architectures.
+
+  Physical Requirements:
+
+  Ability to operate office equipment such as a copier;
+  ability to see details at a close range; ability to sit at a
+  desk or PC for long periods of time; work in an office
+  setting.
+
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity, national origin,
+  disability, or status as a protected veteran.
+
+  Think you meet some of the requirements but not all? Studies
+  have shown that women and people of color are less likely to
+  apply to jobs for which they do not meet every
+  qualification. If you see a role that interests you, we
+  encourage you to apply, regardless of whether or not your
+  experience is completely aligned with the job description.
+  Edmund Optics is committed to becoming the most diverse,
+  equitable, and inclusive workplace within the Optics and
+  Photonics Industry and beyond. You may be a great candidate
+  for this role or others within Edmund Optics.
+
+  Compensation Range Transparency:
+
+  At Edmund Optics, we are committed to transparency and
+  equity in our hiring practices. The posted salary range for
+  this role reflects the expected base pay. The actual offer
+  will be based on multiple factors, including but not limited
+  to relevant skills, education, work experience, business
+  needs, and geographic location.
+
+  Salary Range:$120,000 – $135,000 per year
+
+  Benefits:
+
+  - Medical, Dental, and Vision Insurance
+  - Life, AD&D, Short and Long-Term Disability Insurance
+  - Generous Paid Time Off (PTO)
+  - Tuition Reimbursement
+  - 401(k) Retirement Plan with Company Match up to 3%
+  - Daycare and Gym Reimbursement
+  - Paid Parental Leave and New Mother Benefits
+  - Training and Development Opportunities
+
+  Availability of these benefits may depend on the country and
+  employment type.
+industries:
+  - Industrial
+  - Manufacturing
+posted_date: 2026-09-10
+url: "https://www.builtinla.com/job/senior-ecommerce-backend-engineer-ai-native/11114138"
+source: Built In

@@ -1,0 +1,49 @@
+company:
+  name: CUBE (cube.global)
+  stage: null
+  focus: |-
+    RegTech SaaS for regulatory intelligence in financial
+    services
+position:
+  title: Senior Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements agentic AI systems with LLMs
+      as autonomous collaborators, orchestrating workflows and
+      reasoning over data. Prompt engineering, RAG, and agent
+      frameworks directly shape model behavior, so it is ai-first.
+  responsibilities:
+  - Design and implement agentic AI systems where LLMs reason over data, orchestrate
+    workflows, and drive decisions
+  - Build scalable, production-grade LLM-based applications combining backend engineering
+    with AI
+  - Translate cutting-edge AI research into real-world enterprise solutions
+  - Collaborate with data and backend teams, and with the Head of Agentic AI Engineering
+  - Use agentic coding tools like Claude Code as an integral part of the development
+    workflow
+  - Take end-to-end ownership of AI features from design to production
+  use_cases:
+  - Automated regulatory intelligence for financial services compliance
+  - Agentic LLM systems that reason over data and orchestrate compliance workflows
+  - Enterprise SaaS tools that simplify regulatory compliance for financial institutions
+  skills:
+    genai: [LangChain, Claude Code, LlamaIndex, Prompt Engineering, RAG, Agentic Workflows,
+      LLMs]
+    ml: []
+    web: [FastAPI, React]
+    databases: [MySQL, Pinecone]
+    data: []
+    cloud: [GCP, AWS, Azure, Firebase]
+    ops: [Docker, GitHub]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [B2B SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10867506'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:03:49.413056'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

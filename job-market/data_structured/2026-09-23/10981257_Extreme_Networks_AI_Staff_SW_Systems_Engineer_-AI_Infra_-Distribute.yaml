@@ -1,0 +1,56 @@
+company:
+  name: Extreme Networks
+  stage: null
+  focus: Cloud-driven enterprise networking solutions
+position:
+  title: AI Staff SW Systems Engineer -AI Infra -Distributed Systems,Microservice,
+    AI Infrastructure,Agentic systems-10354
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly includes building agentic AI systems
+      with tool use, planning, memory, retrieval, orchestration,
+      and evaluation, which is directly shaping LLM/agent
+      behavior, making it ai-first despite the heavy distributed-
+      systems focus.
+  responsibilities:
+  - Define and drive technical vision across intelligent networking, distributed systems,
+    real-time data processing, agentic AI, and machine learning
+  - Lead end-to-end software development lifecycle including architecture, design,
+    implementation, testing, deployment, and operations
+  - Design and build high-performance production services for real-time data and AI
+    platforms including scalable data pipelines and distributed microservices
+  - Build agentic solutions and integrations with networking systems
+  - Mentor engineers and establish technical direction for the team
+  - Champion resilient, secure, observable, and scalable systems and engineering process
+    improvements
+  use_cases:
+  - Intelligent networking and autonomous network management
+  - Agentic AI assistants that reason, plan, use tools, and act on users' behalf
+  - Real-time processing of large volumes of network telemetry data
+  - Real-time analytics and intelligent automation for enterprise wired and wireless
+    networks
+  skills:
+    genai: [Agentic Workflows, Generative AI]
+    ml: [Machine Learning]
+    web: [Microservices]
+    databases: []
+    data: [Kafka, Spark, Flink, PySpark, Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Distributed Systems]
+    languages: [Python, Java, Go, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10981257'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:10:34.369586'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

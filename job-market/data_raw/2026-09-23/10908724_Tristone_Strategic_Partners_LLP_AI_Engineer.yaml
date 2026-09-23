@@ -1,0 +1,112 @@
+job_id: 10908724
+title: AI Engineer
+company: Tristone Strategic Partners LLP
+location: Mumbai, IND
+work_type: FULL_TIME
+company_size: 120 Employees
+description: |
+  About Tristone Strategic Partners LLP- Tristone Strategic
+  Partners is a financial services firm based in  Mumbai that
+  provides investments and accounting-related support services
+  and advisory services to international clients such as
+  various investment funds, hedge funds, wealth management
+  firms, start-ups & corporates located across different
+  geographies.
+
+  About the role-  Tristone is embedding agentic AI directly
+  into its workflows and systems. As a member of the Agentic
+  AI engineering team, you'll help build agents, MCP servers,
+  and evaluation loops that make AI generated code reliable,
+  auditable, and fast to ship. You'll work closely with senior
+  members of Tristone to deliver pragmatic, high-impact AI
+  integrations at scale.
+
+  Key Responsibilities-
+
+  - Designing, building, and deploying AI-powered tools, agents,
+    and workflow automations for
+  use across the firm.
+  - Working hands-on with the Claude ecosystem - Cowork, Claude
+    Code, Connectors, Skills, and
+  Plugins - alongside other AI platforms (ChatGPT, Gemini, and
+  others).
+  - Owning the end-to-end deployment lifecycle for AI tools and
+    agents, including packaging,
+  testing, hosting, and monitoring in production.
+  - Collaborating with teams across the firm to identify
+    opportunities to automate repetitive or
+  manual processes using AI and workflow orchestration tools.
+  - Reviewing and validating AI-generated outputs to ensure
+    accuracy, completeness, and
+  reliability before they reach internal or client-facing use.
+  - Staying current on evolving AI capabilities and evaluating
+    new tools and platforms for potential
+  adoption.
+  - Documenting technical approaches clearly and communicating
+    outcomes to both technical
+  and non-technical stakeholders.
+  - Exercising sound judgement across AI workflows: assessing
+    which client and fund data may be
+  sent to which model, working exclusively through approved
+  endpoints and enterprise tooling,  and upholding the
+  confidentiality obligations expected in a financial services
+  environment.
+  - Complying with IT policies and procedures.
+  - Maintaining the security of information at all times.
+
+  Requirements
+
+  - AI Tools & LLMs - Hands-on experience using platforms such
+    as Claude, ChatGPT, Gemini, or
+  Copilot, with the prompt-engineering skill to get
+  consistent, high-quality outputs across  models.
+  - Agents and MCP - Hands-on experience building agentic
+    workflows and integrating external
+  tools through MCP servers or equivalent tool-use frameworks.
+  Alongside this, a systematic  approach to validating model
+  output: maintained eval sets, regression checks before
+  release, and structured human review loops, rather than ad-
+  hoc spot checking.
+  - Demonstrated Projects - Self-built AI projects or agents you
+    can showcase, covering both
+  standard and custom workflow-specific use cases. Projects
+  built with Claude (Cowork, Claude  Code, Connectors, Skills,
+  Plugins) are particularly valued.
+  - Prompt Engineering - Ability to structure prompts
+    effectively - framing tasks clearly, refining
+  outputs, and adapting instructions to get consistent, high-
+  quality results across different AI  models.
+  - Build & Deploy - Experience taking an AI tool or agent from
+    build to production; packaging
+  (Docker), hosting, and monitoring in a real environment.
+  - Technical Skills - Python for scripting, API calls, and data
+    pre-processing; SQL for querying
+  structured data; React for simple internal dashboards; AI
+  coding tools such as Claude Code or  ChatGPT Codex.
+  - Communication & Collaboration - Good communication skills,
+    with the ability to work
+  effectively across teams and explain technical work clearly
+  to non-technical stakeholders
+
+  Qualification-
+
+  - Bachelor’s or Master’s degree in computer engineering,
+    Computer Science, or any other
+  relevant specialization (e.g., AI/ML, Data Science, IT).
+
+  Experience-
+
+  - 1+ years of relevant experience in AI/ML engineering,
+    software development, or applied AI
+  projects.
+  - You should be able to clearly demonstrate how you have used
+    AI tools - including Claude - to
+  build, deploy, and improve efficiency, quality, or speed in
+  a professional context.
+industries:
+  - Professional Services
+  - Consulting
+  - Financial Services
+posted_date: 2026-08-28
+url: "https://builtin.com/job/ai-engineer/10908724"
+source: Built In

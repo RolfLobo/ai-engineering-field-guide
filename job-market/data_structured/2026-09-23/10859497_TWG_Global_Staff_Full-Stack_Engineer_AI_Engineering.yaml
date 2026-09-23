@@ -1,0 +1,57 @@
+company:
+  name: TWG Global
+  stage: null
+  focus: |-
+    Financial services, insurance, media, and sports
+    conglomerate leveraging data and AI
+position:
+  title: Staff Full-Stack Engineer, AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration (LangGraph, tool
+      interfaces, multi-step workflows) and builds LLM/agent
+      evaluation pipelines, which is directly shaping model
+      behavior and output quality. LLM/agent components dominate,
+      so ai-first.
+  responsibilities:
+  - Design, build, and operate agent-based software with tools, memory, and stateful
+    workflows using LangGraph or equivalent frameworks
+  - Build and maintain evaluation pipelines for LLM and agent quality, including offline
+    eval suites, regression tests, tool-call and trajectory scoring
+  - Lead development of React frontends with clean component architecture and performance
+    work
+  - Design and maintain backend services, REST APIs, and data models in Java (Spring
+    Boot) and Python
+  - Contribute to system design across multi-tenant infrastructure, auth, and async
+    messaging
+  - Support iOS app features including UI, networking, push notifications, and release
+    management
+  - Drive code quality, testing discipline, and engineering standards
+  - Mentor junior engineers through code review and design feedback
+  use_cases:
+  - Agentic AI products for clients executing multi-step tasks
+  - Agent quality evaluation and regression prevention
+  - Multi-tenant SaaS platform with RBAC and auth
+  - iOS apps with push notifications and on-device ML
+  - Real-time business intelligence and interactive applications
+  skills:
+    genai: [LangGraph, Agentic Workflows, LLMs, Anthropic API, OpenAI API, MCP, Prompt
+        Engineering, LLM Evaluation]
+    ml: [CoreML, Whisper, TTS]
+    web: [React, Spring Boot, REST APIs, SwiftUI]
+    databases: [PostgreSQL, Redis, Relational Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, LangSmith, Distributed Systems]
+    languages: [Java, Python, Swift]
+    domains: []
+    other: [Braintrust, Inspect, Palantir Foundry, iOS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10859497'
+  location: Santa Monica, USA
+  extracted_at: '2026-09-23T11:03:02.527050'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

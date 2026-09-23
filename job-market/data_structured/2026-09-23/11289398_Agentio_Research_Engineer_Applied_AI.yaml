@@ -1,0 +1,53 @@
+company:
+  name: Agentio
+  stage: null
+  focus: AI-native infrastructure for creator advertising marketplace
+position:
+  title: Research Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes both LLM/multimodal foundation models
+      (prompting, retrieval, fine-tuning, post-training, agents)
+      and classical ML (ranking, prediction, RL), with a mixed
+      LLM+classical role classified as ai-first.
+  responsibilities:
+  - Own research problems from definition and experimentation through production
+  - Evaluate AI and ML methods against proprietary data with rigorous experiments
+    and production measurement
+  - Develop new models, algorithms, training approaches, or datasets when existing
+    techniques are insufficient
+  - Build multimodal intelligence systems across video, audio, image, and text
+  - Develop ranking, recommendation, and prediction models for creator-brand fit and
+    campaign outcomes
+  - Apply LLMs and multimodal models via prompting, retrieval, fine-tuning, post-training,
+    and specialized training
+  - Turn campaign data into training signals, evals, and learning loops
+  - Help set the research agenda and technical standards for applied ML
+  use_cases:
+  - Creator-brand matching and recommendation
+  - Campaign outcome and performance prediction
+  - Sponsorship price recommendation
+  - Video review against brand requirements
+  - Multimodal understanding of creators, brands, briefs, and content
+  - Campaign planning, discovery, execution, and optimization with agents
+  skills:
+    genai: [Prompt Engineering, RAG, Fine-Tuning, LLMs, Post-Training]
+    ml: [Machine Learning, Multimodal Learning, Recommendation Systems, Ranking, Representation
+        Learning, Reinforcement Learning, Model Training, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [Causal Inference]
+    other: [Optimization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11289398'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:36:01.856954'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

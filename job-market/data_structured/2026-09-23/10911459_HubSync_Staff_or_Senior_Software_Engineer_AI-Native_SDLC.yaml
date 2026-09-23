@@ -1,0 +1,59 @@
+company:
+  name: HubSync
+  stage: null
+  focus: Platform for CPA accounting firms with AI agents
+position:
+  title: Staff or Senior Software Engineer, AI-Native SDLC
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The person builds the internal agents themselves as
+      products: tuned AI code reviewers with codified review
+      rules, QA agents, a shared harness layer of skills, context,
+      MCP servers, and prompt/context engineering. This is
+      designing agent behaviour and output quality, not merely
+      rolling out third-party tools, so it is ai-first.
+  responsibilities:
+  - 'Build internal agents as products across the SDLC: spec-sharpening agents, tuned
+    AI code reviewers, PR-triggered QA agents, exploratory bug hunters, generated
+    Playwright suites, incident triage and RCA drafting'
+  - Build and maintain the shared harness layer (skills, context, MCP servers, per-repo
+    configuration) that improves every engineer's agent
+  - Embed with each squad, ship their backlog the AI-native way, and remove adoption
+    friction (permissions, infra, environments, harness config)
+  - Own measurement of cycle time, review latency, escaped defects, cost per feature,
+    and developer experience
+  - Wire CI/CD gates so no PR ships unreviewed or untested; maintain harnesses and
+    playbooks as the shared standard
+  - Codify review rules mined from PR history and build the measurement that lets
+    AI reviewers earn merge authority
+  - Drive team-by-team adoption across the org, winning over skeptics with working
+    software
+  use_cases:
+  - AI code review gate tuned to each repo's failure patterns
+  - Automated QA of pull requests against ticket acceptance criteria
+  - Spec and ticket sharpening agents before engineering work
+  - AI-native software development lifecycle across planning, coding, review, testing,
+    shipping, and operations
+  - Production monitoring and automated incident RCA drafting
+  skills:
+    genai: [MCP, Prompt Engineering, Context Engineering, AI Agents, Claude Code,
+      Cursor, GitHub Copilot]
+    ml: []
+    web: [Playwright]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, GitHub Actions, Testing, GitHub]
+    languages: []
+    domains: []
+    other: [GitHub Apps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10911459'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:06:34.656075'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

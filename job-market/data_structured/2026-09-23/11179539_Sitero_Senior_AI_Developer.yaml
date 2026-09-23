@@ -1,0 +1,48 @@
+company:
+  name: Sitero
+  stage: null
+  focus: |-
+    Clinical research organization and eClinical technology
+    solutions
+position:
+  title: Senior AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role orchestrates prompt workflows, designs RAG
+      pipelines, builds AI agents, and evaluates foundation models
+      on AWS Bedrock — directly shaping model behaviour and output
+      quality of LLM-based systems.
+  responsibilities:
+  - Design robust, scalable cloud-native architectures for AI-powered applications
+  - Deploy and manage foundation models on AWS Bedrock and orchestrate prompt workflows
+  - Build and maintain secure, high-performance APIs and microservices in Python,
+    Java, or Node.js
+  - Implement RAG pipelines connecting internal corporate data with language models
+  - Optimize application latency, token throughput, and compute costs for AI inference
+  - Partner with product teams to build AI agents and mentor junior engineers
+  use_cases:
+  - AI agents for clinical research workflows
+  - RAG connecting internal corporate data with language models
+  - Enterprise AI-powered applications on cloud platforms
+  - Production AI inference with optimized latency and cost
+  skills:
+    genai: [Prompt Engineering, RAG, AI Agents, LangChain, LlamaIndex, Guardrails,
+      Fine-Tuning]
+    ml: [Hugging Face]
+    web: [Microservices]
+    databases: [Vector Databases, Pinecone, OpenSearch, Milvus, SQL, NoSQL]
+    data: []
+    cloud: [AWS Bedrock]
+    ops: [CI/CD, Docker, Kubernetes, Git]
+    languages: [Python, Java, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11179539'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:24:24.608188'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

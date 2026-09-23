@@ -1,0 +1,250 @@
+job_id: 11226765
+title: Forward Deployed Engineer - Physical AI
+company: Nebius
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 473 Employees
+description: |
+  About Nebius:
+
+  Nebius is leading a new era in cloud infrastructure for the
+  global AI economy. We are building a full-stack AI cloud
+  platform that supports developers and enterprises from data
+  and model training through to production deployment, without
+  the cost and complexity of building large in-house AI/ML
+  infrastructure.
+
+  Built by engineers, for engineers. From large-scale GPU
+  orchestration to inference optimization, we own the hard
+  problems across compute, storage, networking and applied AI.
+
+  Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we
+  have a global footprint with R&D hubs across Europe, the UK,
+  North America and Israel. Our team of 1,500+ includes
+  hundreds of engineers with deep expertise across hardware,
+  software and AI R&D.
+
+  The role
+
+  The Forward Deployed Engineer, Cloud Platform is a senior,
+  high-autonomy individual contributor role that owns the
+  infrastructure foundation making the physical AI platform
+  fast, reliable, scalable, secure, and cost-effective. This
+  role sits with strategic customers and ISV partners,
+  embedded directly inside their engineering teams, and ships
+  production infrastructure that lets customers run real
+  physical AI workloads, not just demos. Your job is to make
+  the platform feel like a product, not a collection of cloud
+  scripts.
+
+  You will work alongside the Field CTO and the Head of
+  Physical AI, and partner closely with the Physical AI
+  Systems and Platform & Product FDEs. Inside each account,
+  you own end-to-end technical execution: discovery, scoping,
+  infrastructure design, build, and production rollout. Across
+  accounts, you turn repeated infrastructure pain into
+  reusable platform capabilities and partner with Product and
+  Engineering to fold them into the core platform. Your field
+  work is the primary input to the Nebius Physical AI roadmap.
+
+  You are welcome to work remotely from the United States (SF
+  Bay Area, CA or Austin, TX preferred).
+
+  Your responsibilities will include:
+
+  - End-to-End Ownership Inside Strategic Accounts: Own
+    discovery, technical scoping, infrastructure design,
+    build, and production rollout for each design partner and
+    ISV engagement, translating ambiguous infrastructure
+    problems into deployable production systems.
+
+  - Cloud Infrastructure & Compute Orchestration: Build and
+    operate the cloud infrastructure that powers customer
+    physical AI workflows. Own compute orchestration for
+    simulation, training, evaluation, inference, and batch
+    workloads, not just what runs, but how it runs at scale.
+
+  - Platform Services: Build platform services for job
+    execution, scheduling, retries, observability, logging,
+    secrets, access control, and cost tracking. Integrate
+    Nebius cloud services into the product experience so
+    infrastructure complexity is abstracted away from
+    customers.
+
+  - Customer Onboarding Infrastructure: Build onboarding
+    infrastructure for pilots, including sandbox environments,
+    dataset storage, workflow execution, and deployment, and
+    make sure early customer workloads run for real: secure,
+    isolated, observable, and reliable.
+
+  - Reliability, Security & Cost: Optimize cloud cost,
+    utilization, performance, and reliability across
+    workloads, and debug infrastructure issues across
+    application, network, storage, compute, and orchestration
+    layers, wherever the failure actually lives.
+
+  - Cross-FDE Partnership: Partner with the Physical AI Systems
+    FDE to support GPU-heavy simulation, training, and
+    evaluation pipelines, and with the Platform & Product FDE
+    to expose infrastructure capabilities through clean APIs,
+    SDKs, and product workflows.
+
+  - Long-Term Architecture: Help define the long-term
+    infrastructure architecture for multi-tenant SaaS,
+    enterprise deployments, and high-throughput physical AI
+    workloads.
+
+  - Pattern Codification & Productization: Turn repeated
+    customer infrastructure pain into reusable platform
+    capabilities. Partner with the Field CTO, Product, and
+    Engineering teams to fold these into the core platform.
+    Treat every engagement as a forcing function for the next
+    ten.
+
+  - Rapid Engineering Velocity: Use modern AI coding tools
+    (Claude Code, Codex, Cursor) as primary leverage. Compress
+    build timelines from weeks to days. Treat engineering
+    velocity as a primary success metric.
+
+  - Field Enablement & Feedback Loops: Co-author reference
+    architectures, solution templates, and technical blogs for
+    the broader Nebius field, and maintain structured channels
+    to ensure customer learnings flow back to the Field CTO,
+    Product, and Engineering teams.
+
+  We expect you to have:
+
+  - 6+ Years of Hands-On Engineering: Strong backend, cloud
+    infrastructure, platform engineering, or SRE experience,
+    with at least two years in a customer-facing or
+    deployment-oriented technical role (Forward Deployed
+    Engineer, founding engineer, technical co-founder, tech
+    lead embedded with strategic customers, or equivalent).
+
+  - Distributed Systems & Compute Platforms: Experience building
+    distributed systems, job orchestration, compute platforms,
+    internal developer platforms, or ML infrastructure.
+
+  - Strong Systems Programming: Strong Python, Go, or similar
+    systems and backend programming skills.
+
+  - AI-Native Development Workflow: Fluency in modern AI coding
+    tools (Claude Code, Codex, Cursor) as primary leverage to
+    rapidly design, implement, test, debug, and refactor
+    production-quality software.
+
+  - Cloud-Native Toolchain: Experience with Kubernetes,
+    containers, CI/CD, observability, cloud networking,
+    storage, IAM/RBAC, and infrastructure as code.
+
+  - GPU & HPC Workloads: Familiarity with GPU workloads, batch
+    jobs, training pipelines, inference workloads, or HPC-
+    style compute environments.
+
+  - Cross-Layer Debugging: Proven ability to debug
+    infrastructure issues across application, network,
+    storage, compute, and orchestration layers.
+
+  - Security & Reliability Instincts: Strong instincts for
+    isolation, RBAC, uptime, and traceability on workloads
+    that touch customers.
+
+  - High Agency: You navigate ambiguity without waiting for
+    permission, with a bias toward simple, composable
+    infrastructure that serves real customer workflows over
+    scheduling another meeting.
+
+  - Communication: Strong written and verbal communication. You
+    can hold your own in a technical conversation with a
+    customer CTO and debrief a design partner engagement to
+    the Head of Physical AI.
+
+  It would be an added bonus if you have:
+
+  - Prior experience as a Forward Deployed Engineer or an
+    equivalent customer-embedded engineering function at a
+    frontier company.
+
+  - Experience with Nebius, AWS, GCP, Azure, Lambda Labs, or
+    other AI cloud infrastructure.
+
+  - Experience with Slurm, Soperator, Kubernetes GPU scheduling,
+    Ray, Argo, Airflow, Metaflow, or similar orchestration
+    tools.
+
+  - Experience with ML training infrastructure, model serving,
+    simulation workloads, or large-scale data pipelines.
+
+  - Experience supporting enterprise customers, design partners,
+    or production pilots.
+  - Familiarity with NVIDIA GPU infrastructure, CUDA workloads,
+    Isaac Sim, Omniverse, or simulation-at-scale.
+
+  Benefits & Perks:
+
+  - Competitive compensation
+  - Career growth and learning opportunities
+  - Flexibility and ownership
+  - Collaborative and innovative culture
+  - Opportunity to work on impactful AI projects
+  - International environment and talented teams
+
+  What's it like to work at Nebius:
+
+  Fast moving - Bold thinking - Constant growth - Meaningful
+  impact - Trust and real ownership - Opportunity to shape the
+  future of AI
+
+  Equal Opportunity Statement:
+
+  Nebius is an equal opportunity employer. We are committed to
+  fostering an inclusive and diverse workplace and to
+  providing equal employment opportunities in all aspects of
+  employment. We do not discriminate on the basis of race,
+  color, religion, sex (including pregnancy), national origin,
+  ancestry, age, disability, genetic information, marital
+  status, veteran status, sexual orientation, gender identity
+  or expression, or any other characteristic protected by
+  applicable law.
+
+  Applicants must be authorized to work in the country in
+  which they apply and will be required to provide proof of
+  employment eligibility as a condition of hire.
+
+  If you need accommodations during the application process,
+  please let us know.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-17
+url: "https://builtin.com/job/forward-deployed-engineer-physical-ai/11226765"
+source: Built In

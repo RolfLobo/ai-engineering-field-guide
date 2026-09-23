@@ -1,0 +1,52 @@
+company:
+  name: DigitalOcean
+  stage: null
+  focus: Cloud infrastructure and AI inference services
+position:
+  title: Senior Software Engineer II-Agentic AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds backend orchestration, isolation
+      environments, and APIs that support the evaluation of AI
+      agents; it does not itself shape model behavior via prompts,
+      retrieval, or agent design, nor does it judge model outputs
+      directly. Awareness of LLM APIs and prompt constraints is
+      background knowledge, not shaping work.
+  responsibilities:
+  - Design, build, and maintain robust backend services and highly concurrent asynchronous
+    workflows in Python and Go
+  - Integrate backend control planes with isolated, secure execution environments
+    to safely run agents and capture artifacts
+  - Build and operate scalable APIs (gRPC, REST) connecting data pipelines, evaluation
+    engines, and internal platforms
+  - Collaborate with cross-functional teams to support complex evaluation scenarios
+    and outcome metrics
+  - Drive engineering best practices including code reviews, testing, and technical
+    design documentation
+  - Monitor system performance, investigate bottlenecks, and ensure high reliability
+    of orchestration systems
+  use_cases:
+  - Safe and reliable testing and evaluation of AI agents
+  - High-throughput agent execution orchestration with isolated secure environments
+  - Evaluation signal processing for AI inference at scale
+  - Capture of agent execution artifacts for feedback systems
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [gRPC, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, Monitoring, Distributed Systems, Code Review]
+    languages: [Python, Go, C++, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11018322'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:13:16.111958'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

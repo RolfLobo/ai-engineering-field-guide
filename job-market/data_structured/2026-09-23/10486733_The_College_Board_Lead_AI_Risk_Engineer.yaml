@@ -1,0 +1,59 @@
+company:
+  name: The College Board
+  stage: null
+  focus: Nonprofit education testing and college readiness
+position:
+  title: Lead AI Risk Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role reviews and governs risk of AI systems (including
+      GenAI/agentic AI) but does not shape model behaviour,
+      prompts, retrieval, or training itself. Per the edge case,
+      safety/governance oversight of models is ai-support unless
+      the person builds evals or guardrails themselves, which is
+      not described here.
+  responsibilities:
+  - Lead risk-based security reviews of technology implementations across cloud, application
+    security, vendor integrations, identity and access, and emerging GenAI/agentic
+    AI systems
+  - Evolve the risk review practice into a documented, repeatable methodology with
+    risk tiering, templates, decision records, and findings tracking
+  - Define secure-by-default standards, patterns, and reference guidance for delivery
+    teams
+  - Assess ownership, credential scope, and control requirements for AI agents, service
+    accounts, and machine identities
+  - Serve as security/risk partner to governance bodies including GenAI Studio and
+    the GenAI Governance Committee
+  - Embed risk requirements into tool onboarding, procurement, and vendor contract
+    processes
+  - Define risk acceptance criteria, control requirements, and escalation thresholds
+  - Mentor engineers on risk review practices and contribute to program strategy and
+    leadership reporting
+  use_cases:
+  - Security risk review of GenAI and agentic AI systems
+  - Identity and access controls for AI agents and non-human identities
+  - Cloud and vendor/third-party risk assessment
+  - Secure delivery of digital offerings like the Digital SAT and AP exams
+  - AI governance and responsible AI use across the organization
+  skills:
+    genai: [Generative AI, AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure]
+    ops: []
+    languages: []
+    domains: []
+    other: [Security Engineering, Identity and Access Management, Threat Modeling,
+      Application Security, Vendor Risk Management, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10486733'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T10:59:54.369430'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

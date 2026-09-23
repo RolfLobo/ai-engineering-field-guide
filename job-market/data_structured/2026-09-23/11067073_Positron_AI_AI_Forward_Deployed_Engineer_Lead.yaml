@@ -1,0 +1,56 @@
+company:
+  name: Positron AI
+  stage: null
+  focus: AI inference accelerator hardware and platform software
+position:
+  title: AI Forward Deployed Engineer, Lead
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role rolls out agentic coding tools, internal agent
+      tooling, and AI-native developer workflows so other
+      engineers ship faster. Per the edge case rules, deploying AI
+      coding agents as developer productivity is ai-support even
+      though the person builds evaluations for workflow quality;
+      the deliverable is developer workflow, not model behaviour
+      in a product.
+  responsibilities:
+  - Embed with APS sub-teams across firmware, runtime, performance, and simulation
+    to build agentic workflows into coding, debugging, triage, test generation, and
+    documentation
+  - Pair directly with senior engineers on real work and drive adoption of AI-assisted
+    development
+  - Own the shared skills repository and internal agent tooling that turn team knowledge
+    into reusable automation
+  - Wire agents into CI and engineering surfaces including code review, log/trace
+    triage, and silicon-debug assistance
+  - Build and maintain evaluations that measure workflow quality and regression-test
+    the automation
+  - Define own roadmap based on observed friction across sub-teams
+  - Champion AI-native engineering culture and identify where AI leverage pays off
+  use_cases:
+  - Developer productivity automation for systems engineering teams
+  - Agentic coding, debugging, and test generation workflows for accelerator platform
+    software
+  - Code review, log and trace triage, and silicon-debug assistance via agents
+  - Evaluation and regression testing of AI-assisted workflow tooling
+  skills:
+    genai: [Codex, Claude Code, OpenAI API, LLM Evaluation, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Code Review]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11067073'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:16:53.993098'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

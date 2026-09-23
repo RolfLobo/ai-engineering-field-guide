@@ -1,0 +1,60 @@
+company:
+  name: Movado Group
+  stage: null
+  focus: |-
+    Luxury watch design and distribution (SAP-centric
+    enterprise)
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds Generative AI solutions (Amazon
+      Bedrock, custom GPTs, Amazon Lex) that interact with APIs
+      and databases for automation, and uses GenAI for AI-assisted
+      code generation. The person shapes how LLM-based agents and
+      bots behave, which makes it ai-first.
+  responsibilities:
+  - Design and architect AI-enhanced solutions integrating SAP data, cloud data sources,
+    and local file inputs
+  - Lead development of automation tools and bots using Generative AI (Amazon Bedrock,
+    custom GPTs, Amazon Lex) to interact with APIs, databases, and back-end systems
+  - Collaborate with functional and business teams to gather requirements and modularize
+    business processes for AI-assisted code generation
+  - Develop intelligent frontend tools using Python, VBA, and Excel to automate business
+    workflows
+  - Build, test, and deploy predictive and statistical models (forecasting, regression,
+    simulation)
+  - Define and maintain coding standards, Git repositories, and CI/CD pipelines for
+    AI and automation development
+  - Monitor and troubleshoot solution performance across SAP and non-SAP environments
+  - Apply AI and cloud services to modernize business processes such as Order-to-Cash
+    and Procure-to-Pay
+  - Oversee development of reusable AI frameworks and mentor junior Python developers
+  use_cases:
+  - Business process automation with Generative AI bots for Order-to-Cash and Procure-to-Pay
+  - Real-time data processing and response via AI agents interacting with APIs, databases,
+    and SAP systems
+  - Predictive forecasting, regression, and simulation models for business analytics
+  - Excel/VBA/Python workflow automation and intelligent frontend tools
+  - Chatbot development and AI-based API interaction
+  - Bi-directional data flow between SAP (SAC, BW) and external cloud systems
+  skills:
+    databases: [BigQuery, Redshift]
+    domains: []
+    data: [Pandas, NumPy]
+    web: [APIs, Microservices]
+    ml: [Machine Learning, scikit-learn, Forecasting, Regression, Simulation]
+    ops: [Git, CI/CD, GitHub, GitLab CI, DevOps]
+    other: [SAP, Excel, Agile]
+    cloud: [AWS Bedrock, AWS Lambda, GCP, Azure]
+    languages: [Python, VBA, SQL]
+    genai: [Generative AI, Amazon Lex, OpenAI API, LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10946585'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:08:28.253879'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

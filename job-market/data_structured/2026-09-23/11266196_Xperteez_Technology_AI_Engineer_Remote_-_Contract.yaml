@@ -1,0 +1,50 @@
+company:
+  name: Xperteez Technology
+  stage: null
+  focus: AI training data and RL environments for coding agents
+position:
+  title: AI Engineer | Remote - Contract
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role creates RL environments and verification tasks that
+      directly shape how an LLM-based coding agent learns,
+      reasons, and uses MCP tools — designing golden reference
+      solutions and deterministic evaluation is shaping model
+      output quality. The target is an agentic/LLM system, so ai-
+      first.
+  responsibilities:
+  - Create Reinforcement Learning environments testing AI models on software engineering
+    problems
+  - Design tasks involving bug fixing, feature implementation, refactoring, and performance
+    optimization
+  - Build tasks requiring agents to discover and reason over information from real
+    MCP servers
+  - Design reproducible environments with deterministic verification
+  - Author golden reference solutions that measure MCP tool use and software engineering
+    ability
+  use_cases:
+  - Reinforcement learning environments for AI coding agents
+  - Evaluating agent MCP tool use in software engineering tasks
+  - Automated bug fixing and feature implementation by AI agents
+  - Deterministic verification of agent-generated code
+  skills:
+    genai: [MCP]
+    ml: [Reinforcement Learning, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Java, Rust, C++, TypeScript, Go, SQL]
+    domains: []
+    other: [Algorithms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11266196'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:33:15.884941'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

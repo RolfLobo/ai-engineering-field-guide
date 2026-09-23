@@ -1,0 +1,57 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Digital payments and financial technology
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates MLOps infrastructure -
+      deployment pipelines, Databricks administration, monitoring,
+      and CI/CD - rather than shaping model behaviour itself;
+      GenAI/LLM/RAG is only a preferred qualification. Per the
+      edge rules, serving and scaling models others shape is ai-
+      support.
+  responsibilities:
+  - Design, develop, and maintain MLOps capabilities and AI/ML systems for business
+    challenges
+  - Implement models into production with scalable training pipelines and deployment
+    frameworks
+  - Administer and maintain Databricks workspaces including provisioning, compute
+    policies, orchestration, and cost optimization
+  - Deploy and maintain AI/ML infrastructure via infrastructure as code and automated
+    release pipelines
+  - Build and optimize data ingestion, preprocessing, and feature engineering workflows
+  - Automate model training, testing, deployment, and update workflows with CI/CD
+    practices
+  - Build and maintain domain-specific feature and model monitoring, tracking drift
+    and performance
+  - Mentor junior engineers and partner with data science, platform, and product teams
+  use_cases:
+  - Enterprise-scale production ML model deployment and operations
+  - Domain-specific feature and model monitoring with drift detection
+  - Large-scale data processing and feature engineering for training and inference
+  - Databricks platform administration and cost optimization
+  - Automated ML lifecycle pipelines (training, testing, deployment, updates)
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents]
+    ml: [Feature Engineering, Machine Learning, Deep Learning]
+    web: [REST APIs]
+    databases: []
+    data: [Databricks, Spark, PySpark, Data Governance]
+    cloud: []
+    ops: [MLOps, CI/CD, Model Monitoring, Model Deployment, Infrastructure as Code,
+      Git, Jenkins, MLflow, Weights & Biases, Terraform, Ansible, Docker, Kubernetes,
+      GitHub Copilot, Claude Code]
+    languages: [Python, SQL]
+    domains: []
+    other: [Maven, Artifactory, Comet]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11240045'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:31:29.912643'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

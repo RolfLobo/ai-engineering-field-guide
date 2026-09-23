@@ -1,0 +1,188 @@
+job_id: 11101569
+title: "Senior Product Engineer (DevTools & AI reliability, remote)"
+company: Checkly
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - BGR
+  - Tercer, MEX
+  - Madrid, ESP
+remote: true
+work_type: FULL_TIME
+company_size: 47 Employees
+description: |
+  (Fully remote, async-first, DevTools SaaS, 32-40h/week, time
+  zones: UTC-3 to UTC+3)
+
+  The best developers don't wait for a customer to tell them
+  something's broken.
+
+  They catch it first, in the pull request, in staging, or in
+  the checkout flow at 3am, before a single user notices. That
+  instinct is Checkly's whole reason to exist. We give
+  developers and their agents the tools to own reliability the
+  way they own their code: end-to-end tests and synthetic
+  monitoring defined as code, powered by OpenTelemetry and
+  Playwright, versioned and reviewed like everything else they
+  ship. From pull request to post-mortem, in one place.
+
+  Thousands of them, from modern AI companies like Mistral and
+  resolve.ai to large engineering orgs like LinkedIn, Citi,
+  and 1Password, build with us. In 2024 we raised $20M in
+  Series B funding from Balderton, CRV and Accel.
+
+  Here's the thing about 2026: AI agents and coding assistants
+  are shipping more software, faster, than any team could
+  review by hand, and more of it is breaking in ways nobody
+  has seen before. LLM-backed features fail probabilistically.
+  Agents take actions no runbook anticipated. "Is my app
+  healthy?" is becoming an unanswerable question for a whole
+  generation of AI-native software. You will build reliability
+  for this kind of software.
+
+  Our stack is AI (Codex, Claude, use what you like best),
+  Vue.js, TypeScript, Node.js, Golang, Postgres, ClickHouse
+  and AWS. We ship to prod all day, every day. We practice
+  Agile (not scrum) and take pride in good documentation and
+  good looking products.
+
+  We’re a remote-first startup that keeps things simple—low on
+  meetings, high on productivity, and always shipping. If you
+  love building cool things, working async, actually listening
+  to and working with customers, and keeping it lean, you’ll
+  fit right in!
+
+  What you'll do
+
+  Build and ship with AI
+
+  You will actively use coding agents for full stack
+  development, from exploring solutions and generating
+  scaffolding to refactoring, test generation and debugging.
+  At Checkly we push the limits of AI tools every day.
+
+  Talk to our users
+
+  You will talk directly to the developers, DevOps and Site
+  Reliability Engineering (SRE) teams who are on-call,
+  debugging incidents, or wiring Checkly into production
+  pipelines. You will understand their workflows, pain points,
+  and feedback. You use those conversations to validate ideas,
+  course-correct early, and iterate on what you build.
+  Customer calls and the weekly support rotation are part of
+  the job, not a distraction from it.
+
+  Find the right problems to solve
+
+  In a world where the cost of building software trends to
+  zero, the hard part is picking what to build. You will focus
+  on real developer pain: flaky tests and flaky checks,
+  unclear failures, noisy alerts. You will favour pragmatic
+  solutions that ship quickly, validate assumptions in
+  production, and compound into long-term reliability
+  improvements.
+
+  Own your work end to end
+
+  From shaping the initial idea, through implementation and
+  rollout, to watching how it behaves in production. You will
+  take part in on-call and help support customers when things
+  don’t work as expected.
+
+  What you should have
+
+  - You have shipped features with AI, not just experimented
+    with them. You have taken work from zero to shipped with a
+    comparable stack, made implementation decisions that held
+    up, and put things in front of real users.
+  - You have built and run production software. You know the
+    realities of operating software that people depend on:
+    edge cases, incidents, regressions, and the need for
+    observability and follow-up. You are not surprised when
+    things break. You help fix them.
+  - You can hold a product conversation, not just a technical
+    one. You can look at a customer problem and reason about
+    whether the thing we are about to build actually solves
+    it.
+  - You work well without an office around you. You are
+    autonomous and self-motivated in a remote setup, and you
+    still enjoy getting to know your colleagues and helping
+    other people get unstuck.
+  - FULLY remote role, within the UTC-3 to UTC+3 time zones. You
+    need to be able to travel to (other) European countries
+    without having to wait for a visa appointment, for our
+    annual kickoff, a team meetup or a conference.
+
+  What you will hate about us
+
+  We would rather tell you now than have you find out in month
+  two.
+
+  - We use AI for everything, and we mean everything. AI
+    skepticism is not a thing here. If you have the slightest
+    hesitation about working with AI every day, this is not
+    the place for you, and that is completely fine.
+  - We write more than we talk. We are async-first, so a lot of
+    decisions happen in documents and threads, not meetings.
+    If you do your best thinking out loud in a room full of
+    people, you will miss it here.
+  - We are lean, so you own the unglamorous parts too. There is
+    no separate QA team, no ops layer to hand things off to,
+    and you are on the support rotation and the on-call
+    rotation like everyone else.
+  - We ship constantly and change our minds. Priorities move as
+    we learn from customers. If you need long, stable planning
+    cycles, this will feel chaotic.
+  - Customer signals come first, and most of the time they
+    matter more than your instinct. We build what customers
+    actually want, not the clever thing we dreamed up.
+
+  Benefits
+
+  - Transparent salary because your salary shouldn't be dictated
+    by how good a negotiator you are. (more info below)
+  - Remote-first, flexible work hours, async-first (low meeting,
+    high productivity) and transparent culture
+  - Become part of a fast-growing, international, and remote
+    team where your work matters, and your impact won't get
+    lost in layers of bureaucracy.
+  - Stock options
+  - 27 days of paid vacation + your local public holidays
+  - Paid sick leave & up to 14 weeks of paid parental leave
+  - Co-working budget or home office setup
+  - Annual company kickoffs
+
+  Find out more here.
+
+  What we pay
+
+  Fair, competitive, and transparent pay is very important for
+  us. Therefore we work with a standardized salary calculator
+  that includes several factors such as seniority level as
+  well as location.
+
+  For this role, the range is
+
+  - €88k - €105k for someone in a similar cost of market as UK,
+    Germany etc, + stock options
+  - €79k - €97k for someone in a similar cost of market as
+    Spain, Poland, Ukraine etc, + stock options
+
+  Apply
+
+  If this sounds interesting, please apply! Studies by several
+  different sources have shown that on average men will apply
+  for a job if they meet 60% of the application requirements.
+  Women, non-binary people and POC will seek to match a much
+  higher percentage of requirements before applying. If you're
+  not sure you're the right fit, apply anyway and let us know
+  what you bring to the table. We'd love to hear from you!
+
+  We're all about being transparent and setting clear
+  expectations. That's why we've put together our hiring
+  playbook and open-sourced our employee handbook. There
+  you'll find a sneak peek of who we are, how we work and what
+  you can expect in our hiring process.
+posted_date: 2026-09-10
+url: "https://builtin.com/job/senior-product-engineer-devtools-ai-reliability-remote/11101569"
+source: Built In

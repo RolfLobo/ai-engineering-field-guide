@@ -1,0 +1,111 @@
+job_id: 11249065
+title: "Senior AI Engineer (Generative AI & Agentic Systems)"
+company: WonderBotz
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 265 Employees
+description: |
+  Developer Role and Responsibilities : In this role, you will
+  design, build, and deploy production-grade Generative AI and
+  Agentic AI solutions that automate complex business
+  processes and augment enterprise workflows. You will work
+  across the full delivery lifecycle, from solution design and
+  prompt/agent architecture through development, evaluation,
+  and deployment, partnering closely with automation, data,
+  and platform teams. Responsibilities will include hands-on
+  development of LLM-powered applications, technical
+  solutioning with stakeholders, and mentoring of junior
+  developers on GenAI best practices. You will work closely
+  with our team of award-winning business and technical
+  specialists and leaders. Key Responsibilities :
+
+  - Design and develop LLM-powered applications, including RAG
+    (Retrieval-Augmented Generation) pipelines, agentic
+    workflows, and multi-step autonomous agents using
+    frameworks such as LangChain and LangGraph
+  - Build and optimize retrieval architectures using vector
+    databases (e.g., ChromaDB) and semantic search to ground
+    LLM responses in enterprise data.
+  - Apply prompt engineering techniques to improve accuracy,
+    reliability, and cost-efficiency of LLM-based solutions
+    across both hosted (OpenAI API, Claude Code, Claude) and
+    offline/self-hosted models.
+  - Serve as a technical point of contact for clients and
+    internal stakeholders on AI solution design, feasibility,
+    and delivery timelines.
+  - Integrate GenAI solutions with existing enterprise systems
+    via REST APIs, webhooks, and cloud services (AWS Lambda,
+    Azure) to ensure secure, scalable deployment.
+  - Extend or modernize existing RPA/automation assets (e.g.,
+    Blue Prism, code-based automation frameworks) by
+    incorporating AI-driven decisioning and self-healing
+    capabilities.
+  - Coordinate the development, review, and documentation of AI
+    solution deliverables (solution design documents,
+    evaluation reports, deployment runbooks).
+  - Establish CI/CD and monitoring practices for AI applications
+    using tools such as Git, GitHub Actions, Jenkins, and
+    Splunk.
+  - Identify risks related to model performance, data quality,
+    and security; mitigate roadblocks during development,
+    testing, or deployment.
+
+  Qualifications and Skills
+
+  - Bachelor's degree in Computer Science, Information
+    Technology, Engineering, or equivalent education and
+    experience.
+  - Minimum 5–8 years of software development experience,
+    including at least 2 years building Generative AI or
+    Agentic AI applications in production.
+  - Hands-on experience with LLM application frameworks
+    (LangChain, LangGraph) and LLM APIs (OpenAI API or
+    equivalent).
+  - Strong understanding of RAG architectures, prompt
+    engineering, and vector databases (e.g., ChromaDB or
+    similar).
+  - Proficiency in Python; working knowledge of C#, JavaScript,
+    and SQL.
+  - Experience with cloud platforms and services (AWS Lambda,
+    Amazon DynamoDB, Azure) and REST API integration.
+  - Experience with DevOps tooling (Git/GitHub, GitHub Actions,
+    Jenkins) and application monitoring (e.g., Splunk).
+  - Background in RPA or process automation (e.g., Blue Prism,
+    UiPath, or Automation Anywhere) is a strong plus.
+  - Understanding of IT delivery methodologies (Agile, Lean,
+    ITIL).
+  - Excellent planning, problem-solving, and technical
+    leadership skills.
+
+  Desired characteristics in candidates :
+
+  - Self-motivated and able to take initiative with minimal
+    supervision.Senior AI Developer (Generative AI & Agentic
+    Systems)
+  - Effective communicator, able to translate technical AI
+    concepts for non-technical stakeholders.
+  - Highly organized and methodical, while comfortable adapting
+    to changing requirements.
+  - Strong analytical and problem-solving skills, with a bias
+    toward experimentation and iteration.
+  - High emotional intelligence and cross-functional
+    collaboration skills.
+  - Demonstrated willingness to dive into implementation details
+    to guide projects to completion.
+  - Team-oriented, with an interest in mentoring and knowledge-
+    sharing.
+  - Curious and committed to staying current with the fast-
+    evolving GenAI/Agentic AI landscape.
+
+  Compensation and start dates
+
+  - Hiring now for immediate start
+  - Salary: Competitive base and bonus determined by level and
+    experience
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-ai-engineer-generative-ai-agentic-systems/11249065"
+source: Built In

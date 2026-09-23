@@ -1,0 +1,55 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: null
+  focus: Integrated container shipping and logistics services
+position:
+  title: Senior AI/ML Engineer - Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates an AI/ML platform: scalable
+      infrastructure, ML pipelines, model deployment, and
+      monitoring that enable other AI/ML teams. There is no
+      evidence the person shapes model behavior through prompts,
+      RAG, fine-tuning, or evals themselves; Generative AI/LLM
+      capabilities are mentioned as platform services provided to
+      others.
+  responsibilities:
+  - Design and implement scalable machine learning solutions and data systems with
+    end-to-end workflows and reliability
+  - Collaborate with stakeholders to translate business needs into data engineering
+    solutions
+  - Implement feature engineering, monitoring, ML pipelines, and deploy models to
+    production
+  - Investigate and resolve complex challenges in data models and deployment
+  - Mentor team members through code reviews, pairing, and knowledge-sharing sessions
+  - Communicate infrastructure and deployment decisions to technical and non-technical
+    stakeholders with detailed documentation
+  - Ensure production release readiness with focus on testing, observability, and
+    scalability
+  - Drive cross-team initiatives to optimize workflows and share best practices
+  use_cases:
+  - Enterprise platform enabling AI/ML teams to develop, deploy, and operate ML solutions
+  - Model lifecycle management and MLOps automation
+  - Model serving, monitoring, and observability infrastructure
+  - Generative AI and LLM application enablement for internal teams
+  - Large-scale data analytics and predictive analytics for logistics operations
+  skills:
+    genai: []
+    ml: [Machine Learning, Model Deployment, Deep Learning, Feature Engineering]
+    web: []
+    databases: []
+    data: [Data Pipelines, Hadoop, Spark, Data Engineering, Data Modeling]
+    cloud: []
+    ops: [CI/CD, Kubernetes, MLOps]
+    languages: [Python, R, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11295505'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:36:37.276583'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

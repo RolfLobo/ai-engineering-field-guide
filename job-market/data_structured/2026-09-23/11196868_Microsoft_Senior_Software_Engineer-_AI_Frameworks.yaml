@@ -1,0 +1,51 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud-scale AI frameworks and performance systems
+position:
+  title: Senior Software Engineer- AI Frameworks
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role optimizes model internals - CUDA/Triton kernel
+      optimization, LLM training and inference workload
+      performance, KV-cache and scheduling mechanisms. Optimizing
+      a model's own internals is shaping, and the targets are
+      LLMs, so it is ai-first.
+  responsibilities:
+  - Design, implement, test, and operate production-quality components across AI frameworks,
+    runtimes, benchmarking systems, performance tooling, and service integrations
+  - Benchmark, profile, debug, and optimize large language model training and inference
+    workloads across GPUs and Microsoft hardware
+  - Build automation and observability to detect regressions, improve reproducibility,
+    and accelerate model and hardware onboarding
+  - Drive scoped projects from problem definition through deployment balancing delivery
+    speed, reliability, and measurable impact
+  - Partner with researchers, model teams, infrastructure owners, and hardware vendors
+    to diagnose cross-stack issues
+  - Contribute to design reviews, engineering standards, and mentoring of other engineers
+  use_cases:
+  - Accelerating model onboarding to cloud-scale platforms
+  - Improving performance and reliability of LLM training and inference
+  - Reducing deployment time and hardware footprint for AI workloads
+  - Detecting performance regressions via automation and observability
+  skills:
+    genai: [LLMs]
+    ml: [CUDA]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Triton, vLLM, Benchmarking]
+    languages: [C++, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11196868'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:25:31.821947'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

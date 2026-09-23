@@ -1,0 +1,111 @@
+job_id: 11030202
+title: Applied AI Engineer
+company: MaintainX
+location: Austin, USA
+locations:
+  - Austin, USA
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 300 Employees
+description: |
+  MaintainX is a leading mobile-first work execution platform
+  for industrial and frontline teams. More than 13,000
+  customers, including Duracell, McDonald's, Shell, DHL and
+  Volvo, use MaintainX to cut unplanned downtime and run
+  better operations, across 13.9 million managed assets and
+  79.5 million completed work orders.
+
+  In August 2026 MaintainX became part of Autodesk, joining
+  Autodesk Operations Solutions, the organization unifying
+  Autodesk's operations platform alongside Tandem, FlexSim and
+  Fusion Operations. Autodesk's strategy is to converge
+  design, make and operate into one continuous lifecycle:
+  design an asset, build it, run it, then feed what you learn
+  running it back into the next design. Autodesk had design
+  and make. Operate is the phase that tells you what actually
+  happened, and it is ours.
+
+  Frontier models are getting commoditized. The operating data
+  underneath them isn't — and that's what we own. 13.9M+
+  managed assets, 79.5M+ completed work orders, and 150,000+
+  technicians generating trustworthy operating data every
+  week, at the point of work.
+
+  Document Intelligence is the horizontal engine that turns
+  that raw material — any file a customer hands us — into
+  structured, trustworthy maintenance knowledge, and into the
+  AI-native entities and answers built on top of it.
+
+  The Role
+
+  You'll own the Generation half of Document Intelligence:
+  turning multimodal primitives (keyframes, transcripts, OCR)
+  into schema-valid entities like SOPs, and holding the line
+  on quality so "fast" never becomes "fast and wrong."
+
+  - Design and iterate recipe prompts — system, few-shot, and
+    context assembly — for each generation recipe
+  - Define per-entity target schemas and domain validators
+    (procedure step-type rules, field caps) that generated
+    output has to pass
+  - Build generation-quality eval datasets and rubrics, offline
+    and online, running on LLMX's eval pipeline, and close the
+    loop when quality regresses
+  - Assemble multimodal context windows from keyframes,
+    transcript, and OCR so each model call has exactly what it
+    needs
+  - Choose the model and token budget per recipe based on
+    quality, cost, and latency tradeoffs
+
+  You'll ride on LLMX for model access and on Attachments for
+  ingestion, and hand off validated entities to the domains
+  that own them. You'll report to our Engineering Lead and
+  work closely with the Processing side of Document
+  Intelligence.
+
+  Minimum Requirements:
+
+  - Strong applied GenAI craft - prompt engineering, structured
+    output / tool-use, RAG and retrieval-context patterns
+  - Real eval discipline: you've built datasets and rubrics,
+    measured factuality/relevance/quality, and closed the loop
+    on regressions yourself
+  - Shipped LLM features into production services, not
+    notebooks, and can connect model performance to product
+    impact
+  - Comfort working with multimodal inputs - video, PDF, audio,
+    image - converted to text or structured output
+
+  Nice to have:
+
+  - LLM observability / cost awareness, or experience with an
+    eval platform
+  - Document, PDF, or video understanding; OCR; retrieval
+    systems
+  - Light fine-tuning experience, or familiarity with the
+    industrial/maintenance domain
+
+  Our mission is to keep the physical world running.
+  Factories, fleets, hospitals and campuses stay up because
+  the people who maintain them have tools worth using. That is
+  what we build.
+
+  Compensation and benefits. Base pay is one part of the
+  package. Depending on the role, compensation may also
+  include commission, an annual bonus and equity. Benefits
+  differ by country. For roles in the United States,
+  Autodesk’s benefits are described at benefits.autodesk.com.
+  For roles in Canada and other countries, the plan differs on
+  health coverage, retirement and leave, and your recruiter
+  will walk you through it.
+
+  Belonging. We take pride in a culture where everyone can
+  thrive. More at autodesk.com/company/global-belonging. More
+  on where this is going: Autodesk CEO Andrew Anagnost on
+  building the future of connected operations, and AOS SVP
+  Stephen Hooper on welcoming MaintainX to Autodesk.
+posted_date: 2026-09-04
+url: "https://builtin.com/job/applied-ai-engineer/11030202"
+source: Built In

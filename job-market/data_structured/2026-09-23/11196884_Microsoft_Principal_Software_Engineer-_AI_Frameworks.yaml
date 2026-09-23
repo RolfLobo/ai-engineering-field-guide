@@ -1,0 +1,56 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud-scale AI frameworks, performance, and tooling platform
+position:
+  title: Principal Software Engineer- AI Frameworks
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimizes the internals of LLM
+      training/inference systems: compilers, parallelism
+      strategies, KV-cache transfer, and serving architectures
+      like vLLM/SGLang. Optimizing a model's own internals for LLM
+      targets is shaping, so it is ai-first rather than mere
+      serving/infra support.
+  responsibilities:
+  - Define technical vision, architecture, and multi-release strategy for AI framework,
+    performance, benchmarking, and developer-productivity capabilities
+  - Lead ambiguous cross-stack investigations spanning models, frameworks, compilers,
+    runtimes, systems, services, and silicon
+  - Establish shared measurement, automation, and observability mechanisms that scale
+    into platform capabilities
+  - Drive measurable improvements in model onboarding velocity, runtime performance,
+    reliability, hardware utilization, and Azure capacity efficiency
+  - Influence architecture and priorities across researchers, product groups, infrastructure
+    owners, and hardware partners
+  - Provide hands-on technical leadership through prototypes, critical-path implementation,
+    code reviews, and debugging
+  - Mentor engineers and raise standards for quality and maintainability
+  use_cases:
+  - Cloud-scale LLM training and inference acceleration
+  - Model onboarding and deployment velocity at production scale
+  - GPU/accelerator performance engineering across NVIDIA, AMD, and Microsoft silicon
+  - Distributed inference serving with prefill/decode disaggregation and KV-cache
+    transfer
+  - Benchmarking and observability for AI platform reliability
+  skills:
+    genai: []
+    ml: [CUDA, LLMs, Fine-Tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [vLLM, Observability, Benchmarking]
+    languages: [C++, Python]
+    domains: []
+    other: [GPU Programming, Compilers]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11196884'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:25:06.649164'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,321 @@
+job_id: 10774695
+title: Artificial Intelligence Developer
+company: Kaufman Rossin
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 700 Employees
+description: |
+  Why We Stand Out
+
+  Seeking a new challenge where your professional and personal
+  aspirations are not only possible but supported? Kaufman
+  Rossin might be just the place for you!
+
+  Kaufman Rossin Professional Services Private Limited’s (the
+  “Company”) offices are located in the World Trade Center
+  (WTC) in Bangalore, Karnataka, India, and at Udyog Vihar, in
+  Gurgaon, Haryana, India.
+
+  The Bangalore office provides a range of services, including
+  risk management, corporate governance, tax, assurance, and
+  family office services. Out of the Gurgaon office, we render
+  highly specialized back-office alternative investment
+  services for global hedge funds and related fund types. As
+  one of the top accounting firms in the US, our foundation is
+  “people first”. In the words of James Kaufman, one of our
+  founders, “We prioritize our people, their development, and
+  their well-being. Our values are translated into action
+  every day."
+
+  Kaufman Rossin, headquartered in Miami, Florida has been
+  celebrated as the Best Place to Work in South Florida more
+  than a dozen times. The firm has grown to over 700
+  employees, with offices spanning the tri-county area and
+  sister entities, Kaufman Rossin Wealth and Kaufman Rossin
+  Alternative Investment Services.
+
+  The Firm is ranked 49th among the top 100 firms in the US by
+  Inside Public Accounting 2023. Internationally, the Firm has
+  offices in Bangalore and Haryana in India and the Ivory
+  Coast in Africa.
+
+  Think you have what it takes?
+
+  Kaufman Rossin is seeking an experienced AI Developer based
+  in Bengaluru to play a central role in building KR's AI
+  application capability on Azure. This is a full-stack AI
+  engineering role — spanning LLM integration, RAG
+  architecture, API development, Azure-native deployment,
+  local/self-hosted model operations, and responsible AI
+  implementation — with a focus on delivering real,
+  production-grade solutions that create measurable value for
+  KR's advisory practice and its clients.
+
+  The ideal candidate is deeply technical, intellectually
+  curious, pragmatic about shipping working software, and
+  acutely aware of the cost and security implications of every
+  architectural decision. You will work directly from well-
+  defined user stories, collaborate with the Azure Architect
+  on model and infrastructure decisions, and leverage Claude
+  Code and AI-assisted development tools as a standard part of
+  your engineering workflow.
+
+  Requirements
+
+  AI Application Development
+
+  - Design, build, and deploy scalable AI-powered applications
+    on Azure infrastructure — including internal productivity
+    tools for KR staff and client-facing solutions for RAS and
+    advisory engagements.
+  - Develop and implement Retrieval-Augmented Generation (RAG)
+    pipelines using Azure OpenAI Service, Azure AI Search, and
+    Azure AI Foundry — handling document ingestion, chunking
+    strategies, embedding generation, vector indexing, and
+    query-time retrieval.
+  - Build and maintain LLM-powered features: document
+    intelligence, contract analysis, automated summarization,
+    regulatory content extraction, conversational agents, and
+    structured data extraction from unstructured sources.
+  - Integrate a broad range of AI models into application
+    workflows — including Azure OpenAI (GPT-4o, o1, o3),
+    Anthropic Claude (via Azure or API), Meta Llama, Mistral,
+    and other open-source models — selecting the right model
+    for each use case based on capability, cost, latency, and
+    data sensitivity requirements.
+  - Stand up, configure, and maintain local/internal AI model
+    deployments using Ollama, vLLM, or Azure AI Foundry local
+    compute — for use cases requiring on-premises processing,
+    data residency compliance, or cost-controlled inference at
+    scale.
+  - Leverage Claude Code and other AI-assisted development tools
+    throughout the engineering workflow — using agentic coding
+    capabilities to accelerate development, improve code
+    quality, generate tests, and explore solution options
+    faster.
+
+  - Architect multi-turn conversational interfaces and agentic
+    workflows using Azure AI Foundry Agent Service, Semantic
+    Kernel, or LangChain — for use cases requiring reasoning,
+    tool use, or multi-step orchestration.
+
+  Security & Responsible AI
+
+  - Apply KR's AI governance framework in every build — content
+    filtering via Azure AI Content Safety, DLP controls, usage
+    audit logging, data sensitivity classification, and
+    Conditional Access enforcement for AI-powered tools.
+  - Implement security best practices across all AI application
+    components — Entra ID authentication, RBAC, Managed
+    Identity for service-to-service access, secret management
+    via Azure Key Vault, and Private Endpoint connectivity —
+    treating security as a first-class design requirement, not
+    an afterthought.
+  - Implement responsible AI practices in every deliverable —
+    input/output validation, PII detection, content filtering,
+    audit logging, and explainability documentation for
+    regulated advisory contexts.
+  - Document model behavior, known limitations, bias
+    considerations, and risk mitigations for each AI feature
+    delivered — producing responsible AI summaries that
+    satisfy KR's governance requirements for client-facing
+    deployments.
+  - Implement secure, multi-tenant data isolation patterns in AI
+    applications — ensuring client data, internal data, and
+    model context are correctly scoped and never cross tenant
+    boundaries.
+
+  Cost-Conscious Architecture & FinOps
+
+  - Design AI application architectures with cost efficiency as
+    a first-class concern — selecting models, deployment
+    tiers, and inference patterns that deliver the required
+    capability at the lowest sustainable cost.
+  - Configure and manage Azure AI Foundry deployments — model
+    selection, deployment slots, token quotas, rate limiting,
+    and cost monitoring — ensuring efficient and cost-
+    controlled model consumption.
+  - Evaluate build vs. buy vs. local model decisions for each AI
+    use case — weighing commercial API costs against self-
+    hosted model operational costs, latency trade-offs, and
+    data sensitivity requirements.
+  - Integrate Azure Monitor and Application Insights into AI
+    applications — instrumenting latency, token usage, error
+    rates, and custom AI quality metrics to support ongoing
+    cost and performance monitoring.
+  - Produce regular AI cost reports — token consumption by
+    application, model cost per query, and cost-per-outcome
+    metrics — giving IT leadership visibility into AI spend
+    and ROI.
+
+  Azure Infrastructure & Deployment
+
+  - Deploy AI applications and services on Azure using
+    containerized architectures — Azure Container Apps, AKS,
+    or Azure App Services — depending on workload requirements
+    and scale.
+  - Build and maintain CI/CD pipelines in Azure DevOps for AI
+    application workloads — automating build, test, security
+    scan, and deployment stages through to production.
+  - Implement API layers for AI capabilities using Azure API
+    Management, Azure Functions, or FastAPI — exposing AI
+    features to front-end applications and internal
+    integrations in a secure, versioned, and observable way.
+  - Apply infrastructure-as-code practices (Bicep or Terraform)
+    for AI service provisioning — ensuring environments are
+    reproducible, auditable, and aligned with KR's Azure
+    landing zone governance.
+
+  Data & Integration
+
+  - Build data ingestion and preprocessing pipelines that
+    prepare structured and unstructured data for AI
+    consumption — document parsing (PDF, Word, Excel), OCR via
+    Azure AI Document Intelligence, and schema normalization.
+  - Integrate AI features with KR's enterprise data sources and
+    application ecosystem — Azure Data Lake Storage, APIs, and
+    internal platforms — through well-designed, maintainable
+    integration layers.
+  - Partner with KR's Architecture team on data flow design,
+    storage tier selection, and retrieval performance
+    optimization for knowledge bases and document stores.
+
+  Collaboration & Delivery
+
+  - Work directly from user stories, acceptance criteria, and BA
+    specifications — asking clarifying questions proactively
+    and flagging technical constraints or cost implications
+    early rather than late.
+  - Participate actively in sprint ceremonies — planning,
+    standups, reviews, and retrospectives — contributing
+    estimates, surfacing blockers, and demoing completed AI
+    features to business stakeholders with clear, non-
+    technical explanations.
+  - Collaborate with KR's Architecture team on architectural
+    decisions, design reviews, model selection, and
+    cost/security trade-offs.
+  - Produce and maintain clear technical documentation: API
+    references, architecture decision records (ADRs),
+    deployment runbooks, and model integration guides — so
+    every feature is maintainable beyond the original
+    developer.
+  - Mentor junior developers on AI development patterns, Azure
+    service usage, cost optimization, and responsible AI
+    practices.
+
+  What Skills You’ll Bring:
+
+  Required
+
+  - 3+ years of hands-on software development, with at least 2
+    years focused on AI/ML application development in a
+    production environment.
+  - Demonstrated experience building production applications
+    with LLMs across multiple model families — OpenAI,
+    Anthropic Claude, Meta Llama, Mistral, or similar.
+  - Hands-on experience building RAG pipelines — document
+    ingestion, embeddings, vector search, chunking strategies,
+    and retrieval optimisation.
+  - Experience standing up and operating local or self-hosted AI
+    model deployments (Ollama, vLLM, LocalAI, or equivalent).
+  - Experience using Claude Code or equivalent AI-assisted
+    development tooling as part of everyday engineering
+    workflow.
+  - Python proficiency — FastAPI or Flask, async patterns, and
+    data processing libraries.
+  - Hands-on experience with Azure AI services — Azure OpenAI
+    Service, Azure AI Search, Azure AI Document Intelligence,
+    and/or Azure AI Foundry.
+  - Familiarity with orchestration frameworks — Semantic Kernel,
+    LangChain, or LlamaIndex.
+  - Security-first mindset — Managed Identity, Key Vault, RBAC,
+    Private Endpoints, and authentication/authorisation
+    patterns in cloud applications.
+  - Cost-conscious approach to AI architecture — model
+    selection, token optimisation, deployment tier decisions,
+    and cost monitoring.
+  - Excellent written and spoken English — able to communicate
+    technical concepts and architectural decisions clearly to
+    US-based stakeholders, produce accurate documentation, and
+    participate confidently in cross-regional meetings.
+
+  Preferred
+
+  - Azure AI certifications: AI-102 (Azure AI Engineer
+    Associate) or AZ-204 (Azure Developer Associate)
+  - Experience with multi-tenant SaaS application architecture
+    and data isolation patterns.
+  - Experience with front-end frameworks (React or similar) for
+    building AI-powered user interfaces.
+  - Knowledge of Azure Data Lake Storage, Azure Synapse, or
+    Azure Data Factory for AI data pipeline integration.
+  - Exposure to responsible AI frameworks, content safety
+    tooling, or compliance requirements in regulated
+    industries.
+  - Experience with infrastructure-as-code: Bicep or Terraform
+
+  Tech Stack at KR
+
+  - AI Models: Azure OpenAI (GPT-4o, o1, o3, embeddings),
+    Anthropic Claude (claude-sonnet-4-6, claude-opus-4-6),
+    Meta Llama, Mistral via Ollama / vLLM
+  - AI Services: Azure OpenAI Service, Azure AI Foundry, Azure
+    AI Search, Azure AI Document Intelligence, Azure AI
+    Content Safety
+  - Local/Self-Hosted AI: Ollama, vLLM, LocalAI — model
+    quantisation, GGUF/GGML formats, hardware inference
+    optimisation
+  - Developer Tooling: Claude Code, GitHub Copilot, Azure DevOps
+    — AI-assisted development as a standard part of the
+    engineering workflow
+  - Orchestration: Semantic Kernel, LangChain, LlamaIndex
+  - Languages: Python (primary), JavaScript/TypeScript (front-
+    end)
+  - Infrastructure: Azure Container Apps, AKS, App Services,
+    Azure Functions
+  - DevOps: Azure DevOps (CI/CD, Boards), Bicep / Terraform
+  - Security: Microsoft Entra ID, Azure Key Vault, Azure API
+    Management, Defender for Cloud, Private Endpoints
+  - Monitoring & Cost: Azure Monitor, Application Insights, Log
+    Analytics, Azure Cost Management
+
+  What we offer
+
+  - A hands-on AI engineering role with real production scope —
+    building applications that matter to practitioners and
+    clients, not just proofs of concept.
+  - Direct collaboration with US-based advisory and IT teams —
+    your work will be visible and valued across the firm from
+    day one.
+  - Access to cutting-edge Azure AI services, early preview
+    features, and Microsoft partner resources.
+  - A Bengaluru team culture that treats every engineer as a
+    first-class member of one global team.
+  - Clear growth path toward Senior AI Developer and AI
+    Architect as KR's AI capabilities expand.
+  - Competitive compensation, comprehensive benefits, and
+    support for Azure certifications and continuous learning.
+
+  Benefits
+
+  - Work-Life Balance
+  - People First Company
+  - Hybrid work policy
+  - Working directly with peers in the US
+
+  We embrace authenticity. Kaufman Rossin is an equal
+  opportunity employer. We are committed to creating a culture
+  that reflects the diversity of our firm and clients. We
+  encourage understanding, acceptance, and celebration among
+  all people. That includes lifestyle, education, experience,
+  race, ethnicity, age, religion, physical ability, sexual
+  orientation, and gender identity. Differences make unique
+  varieties.
+industries:
+  - Insurance
+  - Professional Services
+  - Consulting
+  - Financial Services
+posted_date: 2026-08-20
+url: "https://builtin.com/job/artificial-intelligence-developer/10774695"
+source: Built In

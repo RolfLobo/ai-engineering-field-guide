@@ -1,0 +1,275 @@
+job_id: 10889492
+title: Senior Staff Developer - AI
+company: Arctic Wolf
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 810 Employees
+description: |
+  At Arctic Wolf, you will not just watch the cybersecurity
+  industry evolve – you will help lead the change. Our global
+  team is made up of people who thrive on solving complex
+  problems, moving quickly, and building technology that
+  protects organizations around the world. We are proud to be
+  recognized by Forbes, CNBC, Fortune, CRN, Gartner Peer
+  Insights, and International Data Corporation MarketScape.
+  What matters most is the work behind these recognitions:
+  delivering real outcomes for customers through award-winning
+  innovation such as our Aurora Platform.
+
+  If you are looking for meaningful work, smart teammates, and
+  the opportunity to make a real impact in a high-growth
+  company that is redefining security operations, Arctic Wolf
+  is the right place for you.
+
+  Our mission is simple: End Cyber Risk.
+
+  We are looking for a Senior Staff Developer – AI to help
+  achieve this mission.
+
+  The Senior Staff Developer will contribute to our
+  Engineering organization by designing, developing, and
+  optimizing next-generation artificial intelligence agent
+  frameworks that power security operations automation. This
+  role is focused on building sophisticated agentic systems
+  capable of reasoning, planning, orchestration, tool usage,
+  decision-making, and autonomous task execution.
+
+  As a senior technical leader, you will play a hands-on role
+  in defining and evolving the architecture of agentic
+  artificial intelligence frameworks, improving agent
+  performance and reliability, and developing reusable
+  patterns that enable intelligent automation at scale. You
+  will work closely with artificial intelligence and machine
+  learning engineers, data scientists, security researchers,
+  detection engineers, and security operations teams to
+  transform complex operational requirements into intelligent,
+  production-ready agentic solutions.
+
+  About Arctic Wolf Labs
+
+  Arctic Wolf Labs is the research-focused division of Arctic
+  Wolf dedicated to advancing innovation in security
+  operations. Our mission is to develop cutting-edge
+  technologies and tools that strengthen Arctic Wolf’s core
+  goal of ending cyber risk while bringing intelligence and
+  automation to both our customers and the broader security
+  community.
+
+  You will collaborate with threat researchers, data
+  scientists, detection engineers, platform developers, and
+  security operations experts to build real-world solutions
+  for complex cybersecurity challenges.
+
+  In This Role, You Will
+
+  - Design, develop, and optimize agentic artificial
+    intelligence frameworks that enable intelligent reasoning,
+    planning, orchestration, and autonomous task execution.
+  - Build reusable agent architectures and framework components
+    using technologies such as LangChain, LangGraph,
+    LangSmith, or similar agentic frameworks.
+  - Develop multi-agent workflows that enable agents to
+    collaborate, delegate tasks, invoke tools, reason over
+    context, and make decisions based on available
+    information.
+  - Design and implement agent orchestration patterns, including
+    state management, memory, tool calling, planning, routing,
+    human-in-the-loop workflows, and autonomous execution.
+  - Optimize agent performance, reliability, accuracy, latency,
+    and cost through systematic evaluation, experimentation,
+    and framework improvements.
+  - Develop evaluation frameworks and observability capabilities
+    to measure agent behavior, reasoning quality, tool usage,
+    task completion, and overall system effectiveness.
+  - Design and implement artificial intelligence powered
+    automation workflows that transform complex Security
+    Operations Center processes into scalable and intelligent
+    agentic solutions.
+  - Integrate large language models, machine learning models,
+    retrieval systems, tools, application programming
+    interfaces, and enterprise services into agentic
+    workflows.
+  - Research and prototype emerging agentic artificial
+    intelligence techniques and translate successful
+    approaches into production-ready framework capabilities.
+  - Establish engineering patterns and best practices for prompt
+    orchestration, agent evaluation, context management,
+    guardrails, error handling, and autonomous decision-
+    making.
+  - Collaborate with artificial intelligence and machine
+    learning, data science, security research, detection
+    engineering, and security operations teams to identify
+    opportunities for agentic automation.
+  - Drive technical leadership through architecture discussions,
+    code reviews, technical design, mentoring, and development
+    of engineering standards for agentic systems.
+  - Solve complex technical challenges related to agent
+    behavior, orchestration, reasoning, evaluation,
+    reliability, and production performance.
+
+  You Will Be Successful In This Role If
+
+  - You have 14 or more years of experience in software
+    engineering, artificial intelligence engineering, machine
+    learning engineering, or related technical development
+    roles.
+  - You have deep hands-on experience designing and developing
+    artificial intelligence agents, agentic workflows, or
+    intelligent automation systems.
+  - You have strong experience with agentic frameworks such as
+    LangChain, LangGraph, LangSmith, Semantic Kernel, or
+    similar technologies.
+  - You have strong programming experience in Python, Go, or
+    similar programming languages and can independently
+    design, develop, debug, and optimize production-quality
+    software.
+  - You have experience working with large language models,
+    prompt engineering, tool calling, retrieval-augmented
+    generation, agent orchestration, context management, and
+    autonomous task execution.
+  - You have experience developing evaluation strategies and
+    frameworks for artificial intelligence applications,
+    including measuring accuracy, reliability, latency, cost,
+    and agent task completion.
+  - You have strong understanding of distributed systems,
+    application programming interfaces, event-driven
+    workflows, data processing, and software design patterns.
+  - You have demonstrated experience taking artificial
+    intelligence prototypes from experimentation through
+    production deployment and continuous optimization.
+  - You have demonstrated success leading complex technical
+    initiatives, influencing architectural decisions, and
+    establishing engineering best practices.
+  - You can independently drive large-scale technical
+    initiatives from concept and architecture through
+    implementation, evaluation, and production adoption.
+  - You have strong communication, collaboration, and problem-
+    solving skills and can mentor engineers and influence
+    technical direction across teams.
+
+  Nice To Have
+
+  - Experience building multi-agent systems or Mixture of
+    Experts architectures.
+  - Experience with LangGraph, LangChain, LangSmith, Model
+    Context Protocol, or similar agentic artificial
+    intelligence technologies.
+  - Experience building agent evaluation, tracing,
+    observability, and experimentation frameworks.
+  - Experience with artificial intelligence and machine learning
+    operations, including model evaluation, deployment,
+    monitoring, and continuous improvement.
+  - Experience building intelligent automation systems for
+    Security Operations Center, threat detection, incident
+    response, or other complex operational environments.
+  - Familiarity with threat intelligence, detection engineering,
+    security analytics, or cybersecurity workflows.
+  - Experience developing guardrails, validation mechanisms, and
+    human-in-the-loop controls for autonomous artificial
+    intelligence systems.
+  - Experience contributing to technical strategy, architecture
+    reviews, or engineering leadership initiatives.
+
+  What Success Looks Like
+
+  - Development and adoption of scalable agentic artificial
+    intelligence frameworks that enable intelligent automation
+    across security operations.
+  - Measurable improvements in agent accuracy, reliability, task
+    completion, latency, and cost.
+  - Successful development of reusable agent architectures,
+    orchestration patterns, tools, and framework components.
+  - Production adoption of large language model powered agents
+    capable of reasoning, planning, tool usage, and autonomous
+    task execution.
+  - Strong evaluation and observability capabilities that enable
+    continuous optimization of agent performance.
+  - Increased automation of complex operational workflows
+    through intelligent agentic systems.
+  - Strong technical mentorship and contribution to the growth
+    and maturity of artificial intelligence engineering
+    capabilities across the organization.
+
+  Do not meet all the requirements? That is okay. We still
+  encourage you to apply. We have many opportunities and are
+  always looking for strong talent.
+
+  On-Camera Policy
+
+  To support a fair, transparent, and engaging interview
+  experience, candidates interviewing remotely are expected to
+  be on camera during all video interviews. Being on camera
+  fosters authentic connection, improves communication, and
+  allows for full engagement from both candidates and
+  interviewers. We understand that technical, bandwidth, or
+  location-related challenges may occasionally prevent video
+  use. If this applies, candidates are required to notify us
+  in advance so we can explore appropriate accommodations.
+
+  At Arctic Wolf, we foster a collaborative and inclusive work
+  environment that thrives on diversity of thought,
+  background, and culture. This is reflected in our multiple
+  awards, including Top Workplace United States, Best Places
+  to Work United States, Great Place to Work Canada, Great
+  Place to Work United Kingdom, and Kununu Top Company
+  Germany. Our commitment to bold growth and shaping the
+  future of security operations is matched by our dedication
+  to customer satisfaction, with over 10,000 customers
+  worldwide and more than 2,000 channel partners globally. As
+  we continue to expand and enhance our technology, Arctic
+  Wolf remains a trusted name in the industry.
+
+  Our Values
+
+  Arctic Wolf recognizes that success comes from delighting
+  our customers, so we work together to ensure that happens
+  every day. We believe in diversity and inclusion and value
+  the unique perspectives all employees bring to the
+  organization. By protecting sensitive data and working to
+  end cyber risk, we contribute to an industry that serves the
+  greater good.
+
+  We celebrate diverse perspectives through our Pack Unity
+  program and encourage employees to participate in or create
+  new alliances.
+
+  We also believe in corporate responsibility and have joined
+  the Pledge One Percent movement to give back to our
+  communities.
+
+  All Employees Receive Compelling Compensation And Benefits
+  Packages, Including
+
+  - Equity for all employees
+  - Flexible annual leave, paid holidays, and volunteer days
+  - Training and career development programs
+  - Comprehensive private benefits plan including medical
+    insurance for you and your family, life insurance equal to
+    three times compensation, and personal accident insurance
+  - Fertility support and paid parental leave
+
+  Arctic Wolf is an equal opportunity employer and considers
+  applicants for employment without regard to race, color,
+  religion, sex, orientation, national origin, age,
+  disability, genetics, or any other basis forbidden under
+  applicable law. We are committed to fostering a welcoming,
+  accessible, and inclusive environment.
+
+  Security Requirements
+
+  - Conduct duties in accordance with Arctic Wolf information
+    security policies, standards, and controls.
+  - Background checks are required for this position.
+  - This role may require access to information protected under
+    United States export control laws and regulations,
+    including the Export Administration Regulations. If
+    applicable, an offer of employment will be conditioned
+    upon authorization to receive software or technology
+    controlled under these regulations.
+industries:
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-08-27
+url: "https://builtin.com/job/senior-staff-developer-ai/10889492"
+source: Built In

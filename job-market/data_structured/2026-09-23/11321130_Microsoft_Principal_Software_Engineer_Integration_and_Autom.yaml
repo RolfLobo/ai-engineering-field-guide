@@ -1,0 +1,54 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud software, developer tools, AI infrastructure
+position:
+  title: Principal Software Engineer, Integration and Automation - AI Infrastructure
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs AI workflow automation, code
+      intelligence/retrieval, exposes capabilities via MCP, and
+      builds evaluation and validation systems for AI-assisted
+      changes — directly shaping agent and retrieval behavior, so
+      ai-first.
+  responsibilities:
+  - Own significant systems from design through production operation across AI automation,
+    CI/CD, distributed services, and code intelligence
+  - Lead architecture, design documentation, implementation, and operational health
+    for a core platform capability
+  - Build evaluation and validation systems for AI-assisted changes, builds, tests,
+    and deployments, using measurable results to improve accuracy and reliability
+  - Scale automation and delivery platforms supporting large repositories, high-volume
+    builds, and parallel validation
+  - Operate reliable production services with SLOs, alerts, runbooks, and on-call
+    ownership
+  - Expose automation and code-intelligence capabilities via MCP and APIs and integrate
+    with developer and CI/CD workflows
+  - Raise engineering standards through code/design reviews and mentoring
+  use_cases:
+  - AI-powered engineering workflow automation
+  - Continuous integration and delivery orchestration at scale
+  - Code intelligence and retrieval giving engineers and agents context for changes
+  - Evaluation and validation of AI-assisted code changes and deployments
+  - Developer self-service platforms and build/test infrastructure
+  skills:
+    genai: [Agentic Workflows, RAG, Embeddings, MCP, LLM Evaluation]
+    ml: []
+    web: [gRPC, FastAPI, React]
+    databases: [Qdrant, FAISS, Neo4j, PostgreSQL]
+    data: [Data Pipelines]
+    cloud: []
+    ops: [CI/CD, Distributed Systems, Kubernetes, Infrastructure as Code, Monitoring]
+    languages: [C, C++, C#, Java, JavaScript, Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11321130'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:36:52.006725'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

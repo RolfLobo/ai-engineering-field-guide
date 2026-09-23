@@ -1,0 +1,58 @@
+company:
+  name: Workday
+  stage: Fortune 500
+  focus: Enterprise SaaS for HR, finance, and AI agent management
+position:
+  title: Sr Associate Support Engineer (AI/ML & Platform Operations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly evaluates LLM outputs, conversation
+      logs, and execution traces to spot hallucinations and
+      failure modes, and translates those findings into prompt and
+      workflow improvements. Judging model output quality and
+      feeding back prompt changes is shaping, and the target is an
+      LLM orchestration layer, so it is ai-first rather than ai-
+      support.
+  responsibilities:
+  - Validate AI responses and troubleshoot functional processing errors using enterprise
+    SaaS domain knowledge
+  - Review LLM outputs, conversation logs, and execution traces to identify edge cases,
+    hallucinations, and failure modes, performing structured data labeling
+  - Assist in root-cause analysis for software defects and pipeline failures using
+    Kibana and Grafana
+  - Inspect AI workflows hosted on AWS and GCP to isolate breakdowns across model
+    hosting services and API gateways
+  - Monitor and triage support queues, enforce SLAs, and support high-severity incident
+    response including weekend on-call
+  - Communicate technical updates and workarounds to customer IT teams and assist
+    with escalations
+  - Write SQL queries to validate backend data integrity, inspect API payloads, and
+    run Python or Bash diagnostic scripts
+  - Maintain investigation logs in Jira, ServiceNow, or Salesforce and maintain team
+    runbooks
+  use_cases:
+  - Autonomous AI agents executing HR and Finance workflows (expense processing, hiring,
+    workforce scheduling)
+  - Operational support and reliability of an enterprise AI/ML platform
+  - LLM output quality evaluation and failure-mode detection
+  - Enterprise SaaS platform incident resolution and customer support
+  skills:
+    genai: [LLMs, AI Agents]
+    ml: [Machine Learning]
+    web: [REST APIs, JSON, XML]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Grafana, Kibana, Datadog, Linux]
+    languages: [SQL, Python, Bash]
+    domains: []
+    other: [Jira, ServiceNow, Salesforce]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11202398'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:26:00.108529'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

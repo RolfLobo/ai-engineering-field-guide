@@ -1,0 +1,46 @@
+company:
+  name: N Human Resources & Management Systems
+  stage: null
+  focus: HR and management systems services
+position:
+  title: Full Stack AI Engineer( 5+ years)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds Generative AI/LLM applications and works
+      with agentic AI frameworks (LangChain, LangGraph, Semantic
+      Kernel), integrating and shipping LLM-powered agent
+      applications to production. This is directly shaping LLM
+      behavior through agentic workflows, so it is ai-first.
+  responsibilities:
+  - Design, develop and maintain full-stack Generative AI applications
+  - Build robust backend systems and APIs for AI-driven products and agent-based applications
+  - Integrate LLMs and GenAI models into production-ready applications
+  - Develop user-facing frontend applications
+  - Work with agentic AI frameworks such as LangChain, LangGraph and Semantic Kernel
+  - Develop REST/GraphQL APIs and work with SQL/NoSQL databases
+  - Containerise applications with Docker and deploy to cloud platforms
+  - Implement logging, monitoring, tracing and validation for AI applications
+  use_cases:
+  - Production LLM-powered full-stack applications
+  - Agent-based AI applications
+  - AI-driven product backends and APIs
+  skills:
+    genai: [Generative AI, LLMs, LangChain, LangGraph, Semantic Kernel]
+    ml: [Machine Learning]
+    web: [Django, REST APIs, GraphQL, React, APIs]
+    databases: [NoSQL, SQL]
+    data: []
+    cloud: [GCP, Azure]
+    ops: [Docker, Monitoring, Guardrails]
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11067577'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:16:50.450453'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

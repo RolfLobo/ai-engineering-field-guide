@@ -1,0 +1,55 @@
+company:
+  name: Arctic Wolf
+  stage: null
+  focus: Cybersecurity and security operations (Aurora platform)
+position:
+  title: Senior Staff Developer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent frameworks, orchestration, tool
+      calling, prompt orchestration, guardrails, and evaluation of
+      LLM agents — clearly shaping LLM behavior. AI-first per Step
+      2.
+  responsibilities:
+  - Design, develop, and optimize agentic AI frameworks enabling reasoning, planning,
+    orchestration, and autonomous task execution
+  - Build reusable agent architectures and framework components using LangChain, LangGraph,
+    and LangSmith
+  - Develop multi-agent workflows with collaboration, task delegation, tool invocation,
+    and decision-making
+  - Design agent orchestration patterns including state management, memory, planning,
+    routing, and human-in-the-loop workflows
+  - Optimize agent performance, reliability, latency, and cost through evaluation
+    and experimentation
+  - Develop evaluation frameworks and observability for agent behavior and reasoning
+    quality
+  - Build AI-powered automation workflows transforming Security Operations Center
+    processes
+  - Provide technical leadership through architecture discussions, code reviews, and
+    mentoring
+  use_cases:
+  - Security operations automation via agentic AI
+  - Autonomous threat detection and incident response workflows
+  - SOC process automation with multi-agent systems
+  - Intelligent automation of cybersecurity operational tasks
+  skills:
+    genai: [LangChain, LangGraph, Semantic Kernel, MCP, AI Agents, Agentic Workflows,
+      Multi-Agent Systems, LLMs, Prompt Engineering, Function Calling, RAG, Guardrails]
+    ml: [Machine Learning, Mixture of Experts, LLM Evaluation]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [LangSmith, Distributed Systems, Model Evaluation]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10889492'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:05:11.357174'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

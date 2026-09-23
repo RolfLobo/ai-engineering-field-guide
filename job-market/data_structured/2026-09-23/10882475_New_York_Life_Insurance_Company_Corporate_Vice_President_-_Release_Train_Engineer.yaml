@@ -1,0 +1,61 @@
+company:
+  name: New York Life Insurance Company
+  stage: Fortune 100
+  focus: |-
+    Insurance and financial services (Fortune 100 mutual
+    insurer)
+position:
+  title: Corporate Vice President - Release Train Engineer (RTE) - Agentic AI Web
+    Application
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The RTE coordinates delivery across agile teams building an
+      agentic AI product, facilitating planning, dependencies, and
+      release readiness. They do not themselves shape model
+      behavior through prompts, retrieval design, training, or
+      evals - they facilitate discussions about those topics. Per
+      Step 1 and the AI-named-as-coordination-edge cases, this is
+      delivery/process leadership, so ai-support.
+  responsibilities:
+  - Lead and facilitate the Agile Release Train across product, engineering, AI/ML,
+    platform, architecture, security, QA, and DevOps teams
+  - Facilitate PI Planning, ART Syncs, Scrum of Scrums, system demos, Inspect & Adapt
+    sessions, and dependency/risk reviews
+  - Coordinate delivery of capabilities involving LLMs, AI agents, function calling,
+    RAG, orchestration, memory/context management, and human-in-the-loop workflows
+  - Manage dependencies between AI capabilities and traditional application components
+    (frontend, backend, APIs, identity, databases, integrations)
+  - Coordinate end-to-end release planning, release readiness criteria, and production
+    deployment across development, testing, security, infrastructure, and operations
+  - Ensure releases account for AI-specific operational considerations such as model
+    availability, token cost, latency, hallucination risk, and agent failures
+  - Develop and maintain ART-level delivery metrics (predictability, flow, cycle time,
+    defects, AI quality, model usage and cost) and drive systemic improvements
+  - Coach teams and leaders on Agile/SAFe practices and continuously improve ART effectiveness
+  use_cases:
+  - Agentic AI web application with autonomous workflows and AI-powered user experiences
+  - Human-in-the-loop agentic workflows with memory/context management and orchestration
+  - Enterprise integration of AI capabilities with traditional web application components
+  - Production operation of AI features including quality, accuracy, latency, reliability,
+    safety, and cost management
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [APIs, Microservices]
+    ml: []
+    ops: [CI/CD, DevOps]
+    other: [SAFe, Agile, Kanban, Responsible AI, Event-Driven Architecture]
+    cloud: [Azure, AWS, GCP]
+    languages: []
+    genai: [LLMs, AI Agents, Multi-Agent Systems, Prompt Engineering, Function Calling,
+      RAG, Vector Search, Generative AI, Guardrails, LLM Evaluation]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10882475'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:04:42.042891'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

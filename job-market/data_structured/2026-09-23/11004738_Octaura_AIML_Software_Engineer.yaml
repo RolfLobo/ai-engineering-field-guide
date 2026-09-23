@@ -1,0 +1,55 @@
+company:
+  name: Octaura
+  stage: null
+  focus: Technology infrastructure for loans and CLO markets
+position:
+  title: AI/ML Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architecturally designs Agentic AI systems, multi-
+      agent workflows, tool-use pipelines, and MCP integration,
+      and evaluates/selects LLM orchestration frameworks — clearly
+      shaping LLM/agent behavior. It also trains and evaluates
+      classical ML models, but the LLM/agent component makes it
+      ai-first.
+  responsibilities:
+  - Design, build, and maintain production-grade backend services powering AI/ML capabilities
+    using Java, Spring Boot, Kafka, Redis, PostgreSQL, and Redshift
+  - Develop, train, evaluate, and deploy machine learning models using Python-based
+    ML frameworks
+  - Architect and implement Agentic AI systems including multi-agent workflows, tool-use
+    pipelines, and MCP integration
+  - Build and maintain data pipelines and feature engineering workflows for ML training
+    and inference
+  - Implement MLOps practices including model versioning, monitoring, A/B testing,
+    and automated retraining pipelines
+  - Collaborate with data scientists, platform engineers, and product teams to translate
+    business problems into AI/ML solutions
+  - Contribute to evaluation and selection of the team's AI/ML technology stack including
+    Agentic AI, LLM orchestration, and model serving frameworks
+  use_cases:
+  - AI-powered applications for loans and CLO markets
+  - Automating manual workflows in financial markets
+  - Turning fragmented market information into intelligence
+  - Real-time data processing for mission-critical financial systems
+  skills:
+    genai: [Agentic Workflows, MCP, Multi-Agent Systems, LLMs, Generative AI, Prompt
+        Engineering, Fine-Tuning, RAG, Function Calling, LangChain, LangGraph, CrewAI]
+    ml: [scikit-learn, PyTorch, TensorFlow, XGBoost, Model Evaluation, Feature Engineering]
+    web: [Spring Boot, REST APIs]
+    databases: [Redis, PostgreSQL, Redshift]
+    data: [Kafka, Data Pipelines]
+    cloud: []
+    ops: [MLOps, Model Monitoring]
+    languages: [Java, Python]
+    domains: []
+    other: [Microservices, Distributed Systems, A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11004738'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:11:51.006244'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Coursera + Udemy
+  stage: null
+  focus: |-
+    Online learning and upskilling platform for learners and
+    enterprises
+position:
+  title: Senior Software Engineer, Applied AI and Customer Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires building production-grade agentic AI
+      solutions with tooling like LangChain, LangGraph, RAG, and
+      MCP at customer sites, which is designing agent flows and
+      retrieval directly - shaping model behavior. This is a
+      forward-deployed engineer-style role, which is ai-first.
+  responsibilities:
+  - Scope customer environments with executive sponsors and IT/data owners, mapping
+    systems, data models, and workflows
+  - Rapidly prototype and demo AI-powered solutions in front of customers, iterating
+    in real time
+  - Harden validated prototypes into production-grade, secure, compliant deployments
+  - Design multi-tenant, hybrid, or customer-controlled deployment architectures for
+    data residency and privacy needs
+  - Build and own IAM, encryption, and secure cross-network connectivity (mTLS, VPC
+    peering, API gateways) for customer-embedded deployments
+  - Own CI/CD, observability, and production support for systems inside customer environments
+  - Feed field evidence and repeatable patterns back to Product to inform standardization
+    decisions
+  - Travel to customer sites for discovery, prototyping, and go-live phases of engagements
+  use_cases:
+  - AI-powered solutions for enterprise and campus customers
+  - Customer workflow automation using agentic AI and RAG
+  - Secure customer-embedded AI deployments in regulated environments
+  - Data ingestion and normalization of messy customer data
+  skills:
+    genai: [Agentic Workflows, LangChain, LangGraph, FastMCP, MCP, RAG]
+    ml: []
+    web: [API Gateways]
+    databases: [PostgreSQL, DuckDB, pgvector]
+    data: [Kafka, Data Engineering]
+    cloud: [AWS, IAM]
+    ops: [Docker, Kubernetes, CI/CD, Observability]
+    languages: [Python, Java, TypeScript]
+    domains: []
+    other: [mTLS, VPC Peering, PrivateLink, GDPR, FERPA, HIPAA Compliance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10859494'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:03:11.023429'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Quantiphi
+  stage: null
+  focus: AI-first digital engineering and consulting services
+position:
+  title: Data & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures,
+      chunking/embedding/grounding strategies, semantic layers for
+      LLM platforms, and synthetic data for agent evaluation - all
+      shaping LLM/agentic model behavior and output quality. LLM
+      components are central, so ai-first.
+  responsibilities:
+  - Architect and deploy scalable real-time streaming pipelines using Kafka, Kinesis,
+    and Spark Streaming
+  - Implement data and AI pipelines combining structured, semi-structured, and unstructured
+    data with extraction, chunking, embedding, and grounding strategies
+  - Design and implement RAG architectures integrated with enterprise data infrastructure
+  - Model domain entities in knowledge graphs (Neo4j, Neptune, RDF) and develop graph
+    queries for AI agent reasoning
+  - Develop and validate synthetic data for agent evaluation with automated testing
+    frameworks
+  - Design scalable semantic layers with dynamic query translation for real-time conversational
+    analytics integrated with AI/LLM platforms
+  - Champion AI-driven data engineering productivity improvements including self-healing
+    pipelines and automated data quality frameworks
+  - Mentor junior team members and lead communities of practice
+  use_cases:
+  - Real-time streaming data pipelines for enterprise data ecosystems
+  - RAG and LLM/agentic data infrastructure for AI solutions
+  - Knowledge graphs enabling reasoning and contextual enrichment for AI agents
+  - Semantic layers for conversational real-time analytics
+  - GenAI solutions for insurance-specific data use cases
+  - Synthetic data generation for agent evaluation and edge cases
+  skills:
+    databases: [Vector Search, Knowledge Graphs, Neo4j, Amazon Neptune]
+    domains: []
+    data: [Kafka, Spark Streaming, Data Pipelines, Data Modeling]
+    web: []
+    ml: []
+    ops: [DataOps, CI/CD]
+    other: []
+    cloud: [AWS Kinesis, AWS, Azure, GCP]
+    languages: [Cypher, SPARQL, Gremlin, Python, Scala, Java, SQL]
+    genai: [RAG, Embeddings, LLMs, Agentic Workflows, Generative AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11242582'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:30:28.686494'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

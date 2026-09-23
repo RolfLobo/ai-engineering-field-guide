@@ -1,0 +1,51 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage semiconductor manufacturing solutions
+position:
+  title: Senior AI Engineer - SMAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and integrates Generative AI, LLM, Agentic
+      AI, and MCP capabilities into enterprise solutions, so the
+      engineer shapes LLM/agent behavior rather than just
+      consuming an API. No evidence they only call an endpoint
+      designed by another team.
+  responsibilities:
+  - Design and develop AI-powered, cloud-enabled, full-stack enterprise applications
+  - Integrate Generative AI, machine learning, and intelligent automation into business
+    solutions
+  - Build responsive user interfaces with Angular, JavaScript, HTML5, and CSS
+  - Develop secure and scalable backend services, APIs, and microservices using .NET
+  - Implement DevOps practices including CI/CD, automated testing, monitoring, and
+    deployment automation
+  - Collaborate with business stakeholders on automation and process improvement opportunities
+  - Contribute to enterprise architecture, application modernization, and technology
+    roadmap
+  - Mentor team members and promote engineering excellence
+  use_cases:
+  - AI-enabled manufacturing efficiency and quality improvement
+  - Intelligent automation of business processes
+  - Enterprise digital transformation applications
+  - Smart manufacturing solutions for semiconductor operations
+  skills:
+    databases: [SQL, NoSQL, SQL Server, Cosmos DB, MongoDB]
+    domains: []
+    data: [Data Pipelines, NiFi, SSIS]
+    web: [.NET, C#, Angular, TypeScript, JavaScript, HTML5, CSS, Bootstrap, Material
+        Design, APIs, Microservices]
+    ml: [Machine Learning]
+    ops: [DevOps, CI/CD, Docker, Kubernetes]
+    other: []
+    cloud: [Azure, Google AI Services]
+    languages: []
+    genai: [Generative AI, LLMs, AI Agents, MCP, OpenAI API]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11041103'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:15:23.325583'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

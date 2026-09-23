@@ -1,0 +1,50 @@
+company:
+  name: Forward Financing
+  stage: null
+  focus: Fintech providing working capital to small businesses
+position:
+  title: Staff Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds end-to-end AI solutions with agents,
+      orchestration frameworks, and integrations of foundational
+      LLM models (OpenAI, Claude, LangChain, AWS Bedrock),
+      designing AI workflows and tooling - shaping LLM-based
+      system behavior, so ai-first.
+  responsibilities:
+  - Translate business problems into end-to-end AI-powered solutions
+  - Design, build, and maintain backend services and APIs deploying features on foundational
+    models (OpenAI, Claude, Hugging Face)
+  - Implement scalable backend architecture supporting AI workflows, automation, and
+    data processing pipelines
+  - Integrate AI services with microservices, AWS platform, and Snowflake data systems
+  - Build experimentation frameworks enabling rapid test-and-learn cycles for AI features
+  - Evaluate and guide adoption of new AI frameworks, tools, and capabilities
+  - Document backend designs, APIs, and integration patterns for team knowledge sharing
+  use_cases:
+  - AI-powered automation of fintech business processes
+  - Rapid prototyping and proof-of-concept AI solutions for business opportunities
+  - AI-driven data processing and workflow automation
+  - Integrating AI features into backend microservices on AWS and Snowflake
+  - Real-time or near-real-time AI applications
+  skills:
+    genai: [OpenAI API, Anthropic API, LangChain]
+    ml: [Hugging Face]
+    web: [APIs, Microservices]
+    databases: [Vector Databases, Snowflake]
+    data: [Data Pipelines]
+    cloud: [AWS Bedrock, AWS]
+    ops: [Distributed Systems]
+    languages: [Python, Ruby, Go]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11091622'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:17:50.257368'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

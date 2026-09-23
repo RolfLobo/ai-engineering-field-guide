@@ -1,0 +1,53 @@
+company:
+  name: Together AI
+  stage: null
+  focus: AI cloud platform for inference and training
+position:
+  title: Staff Engineer, Distributed Storage and HPC & AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operates and scales storage infrastructure for AI
+      workloads, but never shapes model behavior — no prompting,
+      RAG, training, or evals. It builds/serves storage systems
+      others' models run on, so it is ai-support.
+  responsibilities:
+  - Architect and implement storage strategy and roadmap for scaling the GPU fleet
+  - Engineer and scale multi-petabyte AI/ML storage systems integrating Vast, Weka,
+    and Ceph with cost optimization via tiering and lifecycle policies
+  - Develop intelligent caching and tiered storage architectures for extreme throughput
+    at GPU scale
+  - Tune storage isolation at L2/L3 network layers for secure multi-tenancy
+  - Build Kubernetes storage operators and controllers for automated provisioning,
+    self-service, and quota enforcement
+  - Optimize end-to-end data paths (10+ GB/s per node) via benchmarking, profiling,
+    and prefetching/model-weight distribution
+  - Contribute to open-source storage projects and internal tooling
+  use_cases:
+  - High-throughput storage for AI training and inference workloads
+  - Model weight and checkpoint distribution at cluster scale
+  - Multi-tenant self-service storage provisioning on Kubernetes
+  - Cost-optimized multi-petabyte tiered storage for GPU clusters
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Ceph]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, Terraform, Ansible, Helm, GitOps, ArgoCD, Linux, Prometheus,
+      Grafana, Observability]
+    languages: [Go, Python]
+    domains: []
+    other: [Vast, WekaFS, Lustre, GPFS, S3, MinIO, R2, CSI Drivers, StatefulSets,
+      PersistentVolumes, RDMA, InfiniBand, NVMe, LVM, RAID, ext4, XFS, Thanos, GPU
+        Direct Storage, NVMe-oF, fio, iperf3]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11125708'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:19:24.838459'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

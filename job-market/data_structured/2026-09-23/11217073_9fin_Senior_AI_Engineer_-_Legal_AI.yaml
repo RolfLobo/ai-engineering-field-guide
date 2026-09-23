@@ -1,0 +1,53 @@
+company:
+  name: 9fin
+  stage: null
+  focus: AI platform for global debt markets data
+position:
+  title: Senior AI Engineer - Legal AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM-based structured extraction from legal
+      documents, including schema-driven extraction, citation
+      grounding, retrieval/chunking, context engineering, and
+      building evals — clearly shaping LLM behaviour, so ai-first.
+      Classical NLP/CV elements exist but LLM components dominate.
+  responsibilities:
+  - Design and build generative AI applications for complex financial and legal workflows
+  - Drive the end-to-end model development lifecycle including reproducible research
+    and deployment
+  - Build systems that convert legal and financial documents into structured, reliable
+    data
+  - Design extraction pipelines with schema-driven extraction, citation grounding,
+    validation, and confidence scoring
+  - Build labelled datasets, annotation frameworks, synthetic data generation, and
+    evaluation sets
+  - Design review, verification, and reconciliation workflows to ensure data quality
+  - Collaborate cross-functionally and mentor teammates
+  - Promote adoption of AI throughout the organisation
+  use_cases:
+  - Structured extraction of financial and legal data from complex documents like
+    credit agreements and bond offering memoranda
+  - Extracting covenant provisions, definitions, parties, dates, thresholds, and transaction
+    mechanics
+  - Financial analysis enablement and workflow automation for debt markets
+  - Long-document reasoning and question answering over legal documentation
+  skills:
+    databases: []
+    domains: [Computer Vision, NLP]
+    data: []
+    web: []
+    ml: [Machine Learning, Fine-Tuning, Model Evaluation, Model Training, Model Deployment]
+    ops: [Model Monitoring, MLOps]
+    other: []
+    cloud: [AWS]
+    languages: [Python]
+    genai: [LLMs, Generative AI, Structured Outputs, RAG, Context Engineering, Embeddings]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11217073'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:27:24.824300'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

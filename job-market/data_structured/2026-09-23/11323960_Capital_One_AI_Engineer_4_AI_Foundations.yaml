@@ -1,0 +1,62 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services
+position:
+  title: AI Engineer 4 (AI Foundations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM components directly:
+      foundation model training, LLM inference, agents and multi-
+      agent workflows, guardrails, model evaluation, and
+      similarity search. Shaping model behaviour and output
+      quality across LLM/agent systems makes this ai-first.
+  responsibilities:
+  - Design, develop, deploy, and support AI software components including foundation
+    model training, LLM inference, agents and multi-agent workflows, guardrails, and
+    model evaluation
+  - Invent and apply foundation model optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Own end-to-end architecture for complex AI systems with focus on maintainability,
+    observability, and ethical alignment
+  - Define and maintain service-level objectives for AI reliability including latency,
+    uptime, and model performance drift
+  - Collaborate with infrastructure engineering to optimize GPU/TPU utilization and
+    accelerate model inference pipelines
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Lead cross-functional technical reviews for AI system deployments covering security,
+    governance, and compliance
+  - Mentor senior associates on scalable design, performance tuning, and research-to-production
+    translation
+  use_cases:
+  - AI-powered products for banking customer experiences
+  - Real-time personalized customer experiences and question answering
+  - Fraud detection via informing customers about unusual charges
+  - Foundation model and LLM infrastructure serving millions of customers
+  - Internal AI platforms empowering teams across Capital One
+  skills:
+    genai: [Multi-Agent Systems, Agentic Workflows, Guardrails, LLM Evaluation]
+    ml: [Foundation Model Training, Model Training, PyTorch, Hugging Face, CUDA, Model
+        Evaluation, Machine Learning]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Model Deployment, Observability]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11323960'
+  location: San Jose, USA
+  locations:
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-09-23T11:37:11.996834'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

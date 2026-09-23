@@ -1,0 +1,52 @@
+company:
+  name: Winfo Solutions
+  stage: null
+  focus: Enterprise IT solutions and applied AI research lab
+position:
+  title: Lead Applied AI Research Engineer - Principal Consultant
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and evaluates AI solutions including LLMs,
+      RAG, and agentic AI, building PoCs and defining evaluation
+      criteria — this is shaping model behavior and output quality
+      with a clear LLM component. Hence ai-first.
+  responsibilities:
+  - Translate ambiguous business problems into structured AI research and experimentation
+    programs
+  - Break complex problems into decision and capability components and identify what
+    needs research vs established methods
+  - Formulate hypotheses, compare alternative approaches, and build and evaluate proof-of-concepts
+  - Define evaluation criteria and compare models, architectures, and workflows
+  - Produce engineering handoffs covering solution architecture, evidence, risks,
+    and implementation path
+  - Establish a repeatable applied research and PoC methodology
+  - Create reusable knowledge, benchmarks, and reference patterns
+  - Mentor junior team members while staying hands-on
+  use_cases:
+  - Feasibility and value assessment of AI solutions for business problems
+  - Enterprise AI use cases and enterprise application environments
+  - Multimodal AI and optimization applications
+  - Reusable AI components, accelerators, and reference architectures
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents]
+    ml: [Machine Learning, Deep Learning, Fine-Tuning, Model Evaluation]
+    web: [APIs]
+    databases: [Knowledge Graphs]
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11181745'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Andersonpet, IND
+  extracted_at: '2026-09-23T11:23:50.954931'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

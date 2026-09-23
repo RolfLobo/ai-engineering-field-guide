@@ -1,0 +1,180 @@
+job_id: 10833431
+title: Sr. Engineer, AI Application Development
+company: "Weil, Gotshal & Manges LLP"
+location: New York, USA
+work_type: FULL_TIME
+company_size: 2,750 Employees
+description: |
+  Weil seeks the best and brightest talent to join our
+  Administrative Staff team. Our employees are the future of
+  Weil so we invest in their training and development. Our
+  environment embraces and encourages positive-minded
+  professionals who seek to be challenged and acquire
+  knowledge and skills in an atmosphere built on teamwork.
+  Highly skilled and knowledgeable Administrative Staff assist
+  our attorneys in successfully meeting and exceeding client
+  needs and are vital to the overall success of the Firm.
+
+  Job Description
+
+  The Sr. Engineer, AI Application Development is a hands-on
+  technical role responsible for the design, development, and
+  deployment of AI-integrated enterprise applications across
+  the Firm. This position bridges traditional software
+  engineering and modern AI capabilities, delivering
+  intelligent, production-ready solutions within our Microsoft
+  and Azure ecosystem. The Sr. Engineer will work closely with
+  the Manager of AI Application Development and other team
+  members to build, evaluate, and maintain AI-powered tools
+  that support attorneys and legal professionals — translating
+  complex AI capabilities into reliable, secure, and scalable
+  applications that align with the Firm’s governance and
+  compliance requirements.Primary Responsibilities and/or
+  Essential Functions:AI Application Development
+
+  - Design, develop, and maintain AI-integrated applications
+    using modern development frameworks, primarily C#/.NET and
+    Python, and including ASP.NET Core Web APIs, background
+    services, and lightweight Flask/FastAPI services as
+    appropriate.
+  - Integrate large language model APIs (Anthropic, OpenAI,
+    Google) leveraging structured outputs, tool/function
+    calling, streaming responses, retry and fallback logic,
+    and token/cost management.
+  - Build clean, functional front-end interfaces for internal
+    tools using React or Vue, ensuring usability for non-
+    technical users such as attorneys and legal professionals.
+  - Implement telemetry, usage tracking, and user feedback
+    instrumentation to support monitoring, adoption
+    measurement, and iterative improvement of AI features.
+
+  Azure & Cloud Infrastructure
+
+  - Maintain and enhance CI/CD pipelines using Azure DevOps,
+    following source control best practices with Git.
+  - Configure and manage Azure SQL and SQL Server databases to
+    support application data needs, including schema design
+    and query optimization.
+
+  Security, Governance & Handoff Discipline
+
+  - Implement authentication and authorization patterns aligned
+    with firm standards, including Windows Authentication and
+    Azure Active Directory / Entra ID integration.
+  - Apply secure secrets management practices, audit logging,
+    and appropriate handling of sensitive firm and client data
+    throughout the development lifecycle.
+  - Produce clear API specifications, data schemas, and
+    deployment guides to support smooth handoffs and long-term
+    maintainability.
+  - Evaluate AI prototypes built by others for security,
+    scalability, and supportability prior to
+    productionalization into enterprise environments.
+
+  Collaboration & Communication
+
+  - Partner with the AI Development Manager to align technical
+    work with team priorities and firm objectives.
+  - Work directly with other internal AI teams team to
+    understand workflow needs, gather requirements, and
+    communicate technical concepts accessibly/clearly.
+  - Participate in architecture reviews, code reviews, and
+    sprint planning as an active and constructive contributor.
+  - Maintain documentation of AI integrations, system behaviors,
+    and configuration decisions to support team knowledge
+    sharing.
+
+  Knowledge, Skills and Ability:
+
+  - 5+ years of software development experience, with
+    demonstrated proficiency in C#/.NET (ASP.NET Core, Web
+    API, background services) and comfort working in Python
+    (Flask or FastAPI).
+  - Hands-on experience integrating LLM APIs from providers such
+    as Anthropic, OpenAI, Google, et. al., including
+    structured outputs, function/tool calling, streaming, and
+    cost management.
+  - Experience building functional front-end interfaces using
+    React or Vue for internal tooling or business
+    applications.
+  - Solid working knowledge of SQL Server and/or Azure SQL,
+    including data modeling, query writing, and integration
+    with .NET applications.
+  - Working knowledge of authentication and security patterns in
+    Azure environments, including managed identity and secrets
+    management.
+  - Experience deploying and managing AI applications on Azure,
+    leveraging App Service, etc., as appropriate to the
+    workload.
+  - Familiarity with Azure AI Services (e.g., Cognitive
+    Services, Azure AI Foundry) to accelerate development of
+    intelligent features.
+  - Strong written and verbal communication skills; ability to
+    work effectively alongside non-technical stakeholders,
+    including attorneys and other legal professionals.
+  - A pragmatic, security-conscious mindset with experience
+    handling sensitive or regulated data.
+  - Ability to take ownership of a feature from design through
+    deployment and ongoing support.
+  - Comfort working in an enterprise environment with
+    governance, compliance, and change management
+    requirements.
+
+  Preferred Qualifications:
+
+  Advanced AI Capabilities
+
+  - Experience building a multi-model abstraction or routing
+    layer that spans providers such as Anthropic, OpenAI, and
+    Google, including fallback logic, model selection
+    criteria, and cost controls.
+  - Practical experience with an agent orchestration framework
+    such as Anthropic Agent SDK, LangGraph, Semantic Kernel,
+    or LangChain, including designing multi-step agentic
+    workflows.
+  - Hands-on experience with retrieval-augmented generation
+    (RAG), including document parsing and chunking strategies,
+    embedding pipelines, hybrid keyword/vector search, and
+    integration with Azure AI Search or comparable
+    infrastructure.
+  - Experience developing or consuming Model Context Protocol
+    (MCP) servers and clients, enabling internal tools and
+    data sources to be exposed as standard, reusable
+    capabilities for agent frameworks and model platforms.
+
+  Legal & Enterprise Context
+
+  - Familiarity with legal industry workflows, document
+    management systems, or information governance practices in
+    a law firm or similarly regulated environment.
+  - Experience with Microsoft 365 ecosystem integrations,
+    including Microsoft Graph API, Exchange, SharePoint, or
+    Office Add-ins.
+
+  Education/Certifications:
+
+  - Bachelor's degree preferred.
+
+  Estimated salary range is $170,000 - $190,000. This position
+  is bonus eligible. Compensation decisions within the range
+  are dependent on the facts and circumstances of each case
+  including but not limited to the individual's skills,
+  experience, and qualifications.
+
+  Weil, Gotshal & Manges LLP offers a competitive compensation
+  package comprised of base pay and discretionary year-end
+  bonus for eligible employees.  Benefits include, but are not
+  limited to medical, dental, vision, disability coverage,
+  life insurance, flexible spending plan and a 401K plan.
+  Weil also offers generous paid time off and holidays.  All
+  decisions affecting employment at Weil, Gotshal & Manges LLP
+  are made on the basis of qualification, performance and
+  other pertinent work-related factors, and without
+  discrimination against any person on the basis of race,
+  color, sex, age, religion, national origin, disability,
+  marital status, sexual orientation, gender identity or
+  expression, pregnancy, veteran’s status, genetic information
+  or any other legally protected status.
+posted_date: 2026-08-25
+url: "https://builtin.com/job/sr-engineer-ai-application-development/10833431"
+source: Built In

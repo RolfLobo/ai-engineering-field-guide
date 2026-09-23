@@ -1,0 +1,54 @@
+company:
+  name: Modo Energy
+  stage: $30M Series B
+  focus: |-
+    Energy market data, benchmarking, forecasting and valuation
+    platform
+position:
+  title: Frontend Engineer (AI/Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a frontend engineer building
+      TypeScript/React/Next.js interfaces for a data platform; AI
+      appears only as AI-assisted coding tools (Cursor, Claude
+      Code, Copilot) used to write code, and as the product's
+      broader agentic platform that this role doesn't shape. No
+      prompt, retrieval, or model-behaviour work is done by the
+      engineer.
+  responsibilities:
+  - Shape the technical direction of the frontend monorepo as the team and product
+    scale
+  - Design and build components in the internal MUI-based UI library
+  - Build high-performance, low-latency interfaces for live market data
+  - Write well-tested code with Jest, Cypress, and Playwright
+  - Handle maintenance, performance work, and production issues alongside feature
+    delivery
+  - Collaborate with design and domain experts (energy analysts, data scientists)
+  - Cross into backend and infrastructure basics behind own features (API changes,
+    deployments, data pipelines)
+  use_cases:
+  - Energy market data terminal for investors, developers, and operators
+  - Agentic layer letting users query domain knowledge via natural language (Ko AI
+    Analyst)
+  - Benchmarking, forecasting, and valuation of grid-scale batteries
+  - Live market data interfaces and research tooling
+  skills:
+    genai: []
+    ml: []
+    web: [React, Next.js, MUI, Cypress, Playwright]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Jest, Git, Docker, CI/CD, Turborepo, Yarn Workspaces]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Cursor, Claude Code, GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10731086'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:00:52.616059'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

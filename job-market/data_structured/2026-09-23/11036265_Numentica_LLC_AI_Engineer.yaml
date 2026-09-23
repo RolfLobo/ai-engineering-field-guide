@@ -1,0 +1,45 @@
+company:
+  name: Numentica LLC
+  stage: null
+  focus: Intelligent automation and analytics services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes prompt design, tool calling, RAG, and
+      agentic patterns with LLM APIs, which is directly shaping
+      model behavior, making it ai-first. Data engineering duties
+      exist but the LLM component dominates the classification.
+  responsibilities:
+  - Build AI-powered workflow automation replacing manual operational work
+  - Develop data pipelines and analytics logic surfacing actionable insights
+  - Ship AI features into production and integrate with internal tools
+  - Build alerting and anomaly detection
+  - Document work and share knowledge across the team
+  - Work with business stakeholders to map and automate manual processes
+  use_cases:
+  - AI-powered workflow automation replacing manual operations
+  - Data pipelines delivering actionable insights
+  - Production AI features integrated with internal tools
+  - Alerting and anomaly detection
+  skills:
+    genai: [LLMs, Anthropic API, OpenAI API, Gemini, Prompt Engineering, Function
+        Calling, RAG, AI Agents]
+    ml: [Anomaly Detection]
+    web: [APIs]
+    databases: [Snowflake, BigQuery]
+    data: [Databricks, Spark, Airflow, dbt, Data Pipelines, Data Modeling]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11036265'
+  location: Saidapet, IND
+  extracted_at: '2026-09-23T11:13:40.307654'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

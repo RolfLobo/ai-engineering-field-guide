@@ -1,0 +1,137 @@
+job_id: 10910620
+title: Applied AI Engineer
+company: Avoca
+location: New York, USA
+work_type: FULL_TIME
+company_size: 110 Employees
+description: |
+  About Avoca
+
+  Avoca is transforming how home service companies engage with
+  their customers. Our AI-powered conversational agents handle
+  every high-value inbound call, from booking jobs, qualifying
+  leads, and driving higher revenue, all at a speed and
+  consistency unmatched by human call centers.
+
+  We're a Series B startup backed by Kleiner Perkins, Meritech
+  Capital, General Catalyst, and other top-tier investors,
+  with $125M raised and a $1B valuation. We grew 10x in 2025
+  and have scaled to 170+ employees in under two years across
+  our NYC headquarters and Santa Barbara office.
+
+  In a $1T+ market where 85% of missed calls go to
+  competitors, we're building the category-defining platform
+  for AI-driven customer engagement, serving the largest
+  brands in home services. With high-energy, in-office teams
+  in both locations, every hire here has an immediate and
+  visible impact.
+
+  About the Role
+
+  As an Applied AI Engineer, you'll embed directly with the
+  largest brands in home services — learning how their
+  businesses actually run, then designing and shipping the AI
+  systems that run their front lines. This isn't a solutions
+  role where you hand off specs and stop coding: you own the
+  build end-to-end, from the first customer conversation to a
+  live deployment handling real call volume. And because you
+  have the deepest view of what customers actually encounter,
+  what you learn in the field feeds directly into our core
+  product roadmap.
+
+  Recent recognition:
+
+  - How a chance encounter in Texas sparked a $1 billion Kleiner
+    Perkins-backed AI startup | Fortune (2026)
+  - Should you join: Avoca | Next Play (2026)
+  - Brody Pennell Partners with Avoca to Take On the Full
+    Customer Experience | Yahoo Finance (2026)
+
+
+
+  What You’ll Do
+
+  - Embed with customers to deeply understand how their business
+    runs, then design and deploy AI voice agents that work
+    from day one.
+  - Build production integrations into customer CRM/FSM systems
+    (APIs, webhooks, and data flows) plus the monitoring and
+    feedback loops that keep them healthy.
+  - Translate messy, real-world business requirements into clean
+    technical architecture and shipped code.
+  - Spot patterns across deployments and turn them into reusable
+    tooling and product improvements that scale beyond a
+    single customer.
+  - Operate with high autonomy in high-stakes, ambiguous
+    environments.
+  - Serve as the on-site technical presence for strategic
+    accounts.
+
+  What You’ll Bring
+
+  - 3+ | 5+ years in software engineering with strong full-stack
+    or backend fundamentals; Computer Science, Computer
+    Engineering, Electrical Engineering degree or equivalent
+    experience.
+  - Proficient | Advanced in TypeScript/JavaScript (Next.js,
+    React, Node/Fastify); comfortable with PostgreSQL and AWS;
+    ships production-grade code.
+  - Excel at communicating complex technical concepts to non-
+    technical stakeholders.
+  - Thrives in fast-paced, ambiguous settings — has delivered
+    systems in dynamic environments with shifting priorities.
+  - Eagerness to work in person with us in NYC full time, with
+    travel to customer sites for key deployments.
+  - Bonus: LLMs, prompt engineering, AI agent frameworks, vector
+    databases, or voice/telephony infrastructure — and an eye
+    for how LLM systems shape user experience.
+  - Bonus: direct customer-facing experience — working with
+    clients to scope, implement, or roll out features.
+
+  Your first 6 months
+
+  - Month 1: Onboard into our TypeScript/voice-AI stack, shadow
+    a live deployment, and ship your first production changes
+    to a customer integration.
+  - Month 3: Own the technical build on a strategic account end-
+    to-end — scoping the integration, standing up the agent,
+    and validating it against customer-agreed success
+    criteria.
+  - Month 6: Be the technical owner at go-live for a flagship
+    account, on-site when it counts, with reusable tools or
+    product improvements you've built now running across other
+    deployments.
+
+
+
+  Benefits
+
+  - Comprehensive medical, dental, and vision insurance
+  - Company-sponsored 401(k) through Vestwell
+  - Flexible PTO plus U.S. federal holidays
+  - Monthly wellness stipend
+  - Daily in-office lunch through Parkday
+  - Dinner covered when working late
+  - Commuter benefits
+  - Standing desks and workspace accommodations available on
+    request
+  - All core tools and software provided
+
+  Why Avoca
+
+  At Avoca, you’ll be part of a team that’s building a
+  category-defining company at the center of a massive market
+  opportunity. We’re a fast-moving, collaborative team with a
+  culture designed for builders who thrive on speed,
+  iteration, and impact.
+
+  Avoca provides equal employment opportunities to applicants
+  and employees without regard to race, color, religion, sex,
+  sexual orientation, gender identity, national origin,
+  protected veteran status, or disability.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-08-28
+url: "https://builtin.com/job/forward-deployed-engineer/10910620"
+source: Built In

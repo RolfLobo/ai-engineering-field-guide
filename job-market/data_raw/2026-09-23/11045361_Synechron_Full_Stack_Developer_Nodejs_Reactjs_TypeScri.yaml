@@ -1,0 +1,405 @@
+job_id: 11045361
+title: "Full Stack Developer – Node.js, React.js, TypeScript & AI-Assisted Development"
+company: Synechron
+location: Bellandur, IND
+work_type: FULL_TIME
+company_size: 12,827 Employees
+description: |
+  Job Summary
+
+  Synechron is seeking a Full Stack Developer (Node + React)
+  with strong practical experience in Node.js and React.js.
+  The role is responsible for designing, developing, testing,
+  maintaining, and supporting full-stack applications,
+  scalable RESTful APIs, microservices, and responsive user
+  interfaces.The position contributes to Synechron’s
+  technology objectives by delivering maintainable, reliable,
+  and well-tested software while using AI code generation
+  tools responsibly to improve development efficiency. The
+  successful candidate will collaborate with cross-functional
+  teams, contribute to engineering standards, and support
+  timely resolution of application and production issues.
+
+  Software Requirements
+
+  Required
+
+  - Node.js: 3+ years of professional full-stack development
+    experience, with strong proficiency in Express, NestJS, or
+    a similar framework.
+  - React.js: Strong proficiency with React Hooks, state
+    management, component architecture, responsive design, and
+    performant user interface development.
+  - TypeScript: Practical experience developing maintainable
+    frontend and backend applications.
+  - JavaScript: Working knowledge for full-stack application
+    development.
+  - AI code generation tools: Hands-on experience using tools
+    such as GitHub Copilot, Claude Code, Cursor, or similar
+    solutions.
+  - Prompt engineering: Understanding of prompt engineering
+    techniques for coding tasks.
+  - SQL databases: Proficiency with PostgreSQL or comparable SQL
+    technologies.
+  - NoSQL databases: Proficiency with MongoDB or comparable
+    NoSQL technologies.
+  - Redis: Experience using Redis for caching, session
+    management, data access, or related application
+    requirements.
+  - RESTful APIs: Understanding of API design principles and
+    best practices.
+  - Microservices: Experience building or integrating scalable
+    RESTful APIs and microservices.
+  - Git: Experience with version control and branching
+    strategies.
+  - CI/CD: Experience working with automated build, testing, and
+    deployment pipelines.
+  - Testing and code quality: Ability to write clean,
+    maintainable, reusable, and well-tested code.
+  - Production support: Experience troubleshooting, debugging,
+    and resolving application issues.
+
+  Preferred
+
+  - Experience with advanced Node.js and React.js application
+    architecture.
+  - Experience integrating AI-assisted development into testing,
+    documentation, refactoring, debugging, or code-generation
+    workflows.
+  - Familiarity with automated testing, static analysis,
+    dependency checks, and performance testing.
+  - Exposure to cloud-based application deployment and
+    monitoring.
+  - Experience with containerized applications and automated
+    deployment environments.
+  - Familiarity with responsible AI-assisted development
+    practices, including reviewing generated code for
+    correctness, security, privacy, and maintainability.
+  - Experience improving development workflows through
+    automation and reusable components.
+  - Familiarity with API documentation, asynchronous processing,
+    messaging, or distributed application tools.
+  - Exposure to reusable design systems and accessibility-
+    focused frontend development.
+
+  Overall Responsibilities
+
+  - Design, develop, test, maintain, and support full-stack
+    applications using Node.js, React.js, TypeScript, and
+    related technologies.
+  - Build scalable RESTful APIs and microservices using Express,
+    NestJS, or similar Node.js frameworks.
+  - Develop responsive, accessible, and performant user
+    interfaces using React.js, React Hooks, state management,
+    and reusable component architecture.
+  - Integrate and effectively use AI code generation tools to
+    support development workflows and improve delivery
+    efficiency.
+  - Apply prompt engineering techniques for coding tasks and
+    validate AI-generated output through code review, testing,
+    security checks, and functional verification.
+  - Write clean, maintainable, reusable, and well-tested code
+    that supports long-term application quality.
+  - Work with PostgreSQL, MongoDB, Redis, and other SQL or NoSQL
+    data stores as required.
+  - Collaborate with cross-functional teams to define, refine,
+    implement, and validate software features.
+  - Participate in code reviews and contribute to coding
+    standards, engineering best practices, technical
+    documentation, and knowledge sharing.
+  - Develop and maintain CI/CD pipelines that support consistent
+    build, testing, and deployment activities.
+  - Troubleshoot, diagnose, and resolve application,
+    integration, performance, and production issues.
+  - Contribute to improved software quality, application
+    performance, development efficiency, operational
+    reliability, and reduced rework.
+  - Support sustainable engineering practices through reusable
+    components, efficient processing, and appropriate
+    technology use.
+  - Deliver software solutions that meet agreed requirements for
+    functionality, maintainability, performance, security, and
+    quality.
+
+  The strategic objectives of the role are to:
+
+  - Deliver scalable, reliable, and maintainable full-stack
+    applications using Node.js and React.js.
+  - Improve development efficiency through effective and
+    responsible use of AI code generation tools.
+  - Build APIs, microservices, and user interfaces that support
+    evolving business requirements.
+  - Strengthen engineering quality through testing, code
+    reviews, CI/CD, documentation, and consistent development
+    practices.
+  - Improve application stability, performance, usability, and
+    production support outcomes.
+
+  Performance is measured through:
+
+  - Delivery of features and enhancements within agreed
+    timelines and quality expectations.
+  - APIs, microservices, and frontend applications that meet
+    defined performance, scalability, and maintainability
+    requirements.
+  - AI-assisted code that is reviewed, tested, secured, and
+    integrated according to engineering standards.
+  - Timely investigation and resolution of production defects
+    and performance issues.
+  - Reliable and repeatable CI/CD build, testing, and deployment
+    processes.
+  - Clear and maintained technical decisions, code, tests,
+    documentation, and operational procedures.
+
+  Technical Skills (By Category)
+
+  Programming Languages
+
+  Essential
+
+  - Strong Node.js development experience.
+  - Strong proficiency in TypeScript.
+  - Working knowledge of JavaScript for full-stack application
+    development.
+  - Ability to write modular, readable, maintainable, and
+    testable code.
+  - Understanding of asynchronous programming, error handling,
+    API integration, and application performance.
+
+  Preferred
+
+  - Experience with modern JavaScript language features and
+    application development patterns.
+  - Familiarity with scripting for automation, testing, or
+    development-support activities.
+
+  Databases/Data Management
+
+  Essential
+
+  - Proficiency with SQL databases, particularly PostgreSQL.
+  - Proficiency with NoSQL databases, particularly MongoDB.
+  - Experience using Redis for caching, session management, data
+    access, or related application needs.
+  - Understanding of data modeling, querying, indexing,
+    transactions, validation, and data integrity.
+  - Ability to design and maintain data-access patterns that
+    support performance and scalability.
+
+  Preferred
+
+  - Experience working with multiple database technologies in
+    distributed applications.
+  - Familiarity with database performance monitoring, migration,
+    backup, recovery, and optimization.
+  - Exposure to caching strategies and data-consistency
+    considerations in microservices environments.
+
+  Cloud Technologies
+
+  Essential
+
+  - Understanding of deploying and operating full-stack
+    applications in cloud or enterprise environments.
+  - Awareness of application scalability, availability,
+    monitoring, access control, and resource management.
+
+  Preferred
+
+  - Experience with cloud-based application deployment and
+    managed database services.
+  - Familiarity with containers, orchestration, cloud
+    networking, storage, and application monitoring.
+  - Experience optimizing application and cloud resource usage
+    to support efficient and sustainable technology delivery.
+
+  Frameworks and Libraries
+
+  Essential
+
+  - Node.js with Express, NestJS, or a similar framework.
+  - React.js with Hooks, state management, and component
+    architecture.
+  - TypeScript-based frontend and backend development.
+  - Experience building scalable RESTful APIs.
+  - Understanding of microservices architecture and service
+    integration.
+  - Ability to develop responsive and performant user
+    interfaces.
+
+  Preferred
+
+  - Experience with frontend component libraries, routing, form
+    handling, validation, and performance optimization.
+  - Familiarity with API documentation, asynchronous processing,
+    messaging, or distributed application tools.
+  - Exposure to reusable design systems and accessibility-
+    focused frontend development.
+
+  Development Tools and Methodologies
+
+  Essential
+
+  - Git version control and branching strategies.
+  - Experience with CI/CD pipelines for automated build,
+    testing, and deployment.
+  - Experience with code reviews, defect resolution, technical
+    documentation, and collaborative development.
+  - Understanding of software development lifecycle practices.
+  - Ability to work with cross-functional teams to define and
+    deliver features.
+  - Experience troubleshooting and debugging production issues.
+  - Hands-on experience using AI code generation tools and
+    prompt engineering for coding tasks.
+
+  Preferred
+
+  - Experience integrating AI-assisted development into testing,
+    documentation, refactoring, debugging, or code-generation
+    workflows.
+  - Familiarity with automated testing, static analysis,
+    dependency scanning, and performance testing.
+  - Exposure to Agile or iterative software development
+    practices.
+  - Experience with containerization and automated deployment
+    environments.
+
+  Security Protocols
+
+  Essential
+
+  - Understanding of secure coding practices for Node.js,
+    React.js, TypeScript, RESTful APIs, and microservices.
+  - Knowledge of authentication, authorization, access controls,
+    input validation, secure API design, and protection of
+    sensitive data.
+  - Ability to review AI-generated code for security, privacy,
+    quality, correctness, and maintainability.
+  - Awareness of dependency management, secrets protection,
+    secure configuration, and vulnerability remediation.
+
+  Preferred
+
+  - Experience integrating security checks into CI/CD pipelines.
+  - Familiarity with application security testing, threat
+    modeling, secure headers, encryption, and API security
+    controls.
+  - Experience applying responsible AI-assisted development
+    practices to protect source code and sensitive
+    information.
+
+  Experience Requirements
+
+  - Minimum of 3 years of professional experience in full-stack
+    development.
+  - Strong practical experience developing applications using
+    Node.js, React.js, TypeScript, RESTful APIs, and SQL or
+    NoSQL databases.
+  - Demonstrable experience building scalable RESTful APIs and
+    microservices.
+  - Experience developing responsive, performant, and
+    maintainable React.js user interfaces.
+  - Hands-on experience with AI code generation tools and prompt
+    engineering for coding tasks.
+  - Experience working with PostgreSQL, MongoDB, Redis, or
+    comparable SQL and NoSQL databases.
+  - Experience with Git, version control, CI/CD pipelines, code
+    reviews, testing, and production troubleshooting.
+  - Experience collaborating with cross-functional teams to
+    define and implement software features.
+  - Experience in financial services, technology, or other
+    relevant industries is preferred but not required.
+  - Candidates may qualify through equivalent hands-on full-
+    stack development experience, significant project
+    delivery, or a portfolio demonstrating the required
+    Node.js, React.js, TypeScript, database, API, and AI-
+    assisted development skills.
+
+  Day-to-Day Activities
+
+  - Design, develop, test, and maintain Node.js services,
+    RESTful APIs, microservices, React.js interfaces,
+    TypeScript components, and database integrations.
+  - Participate in requirements discussions, planning sessions,
+    technical design reviews, code reviews, delivery
+    coordination, and cross-functional collaboration.
+  - Deliver tested application features, API changes, reusable
+    components, CI/CD updates, technical documentation, defect
+    fixes, and production support outcomes.
+  - Make technical decisions within the assigned scope, use AI
+    code generation tools responsibly, validate implementation
+    quality, troubleshoot issues, and escalate risks or
+    dependencies appropriately.
+
+  Qualifications
+
+  - A bachelor’s degree in Computer Science, Information
+    Technology, Software Engineering, or a related field is
+    preferred; equivalent relevant professional experience may
+    also be considered.
+  - At least 3 years of full-stack development experience with
+    demonstrated delivery using Node.js, React.js, TypeScript,
+    RESTful APIs, and SQL or NoSQL databases.
+  - Relevant training in Node.js, React.js, TypeScript,
+    databases, RESTful APIs, microservices, CI/CD, software
+    testing, or AI-assisted development is preferred.
+  - Certifications in cloud, software development, databases,
+    DevOps, or related technologies are preferred but are not
+    mandatory unless required for a specific assignment.
+  - Maintain continuous professional development in full-stack
+    engineering, AI code generation, prompt engineering,
+    application security, testing, cloud technologies, and
+    modern development practices.
+
+  Professional Competencies
+
+  - Apply critical thinking, structured analysis, and practical
+    problem-solving to resolve application, API, database,
+    performance, and production issues.
+  - Collaborate effectively with cross-functional teams and
+    contribute to code reviews, engineering standards,
+    knowledge sharing, and delivery outcomes.
+  - Communicate technical requirements, implementation
+    decisions, risks, progress, and recommendations clearly to
+    technical and non-technical stakeholders.
+  - Adapt to changing requirements, technologies, development
+    practices, and delivery priorities while maintaining code
+    quality and reliability.
+  - Identify opportunities to improve application architecture,
+    user experience, development efficiency, automation,
+    reusability, security, and sustainable technology use.
+  - Prioritize and manage development, testing, troubleshooting,
+    documentation, and deployment activities while meeting
+    agreed timelines.
+
+  SYNECHRON’S DIVERSITY & INCLUSION STATEMENT
+
+
+  Diversity & Inclusion are fundamental to our culture, and
+  Synechron is proud to be an equal opportunity workplace and
+  is an affirmative action employer. Our Diversity, Equity,
+  and Inclusion (DEI) initiative ‘Same Difference’ is
+  committed to fostering an inclusive culture – promoting
+  equality, diversity and an environment that is respectful to
+  all. We strongly believe that a diverse workforce helps
+  build stronger, successful businesses as a global company.
+  We encourage applicants from across diverse backgrounds,
+  race, ethnicities, religion, age, marital status, gender,
+  sexual orientations, or disabilities to apply. We empower
+  our global workforce by offering flexible workplace
+  arrangements, mentoring, internal mobility, learning and
+  development programs, and more.
+
+  All employment decisions at Synechron are based on business
+  needs, job requirements and individual qualifications,
+  without regard to the applicant’s gender, gender identity,
+  sexual orientation, race, ethnicity, disabled or veteran
+  status, or any other characteristic protected by law.
+
+  Candidate Application Notice
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-09-08
+url: "https://builtin.com/job/full-stack-developer-node-js-react-js-typescript-ai-assisted-development/11045361"
+source: Built In

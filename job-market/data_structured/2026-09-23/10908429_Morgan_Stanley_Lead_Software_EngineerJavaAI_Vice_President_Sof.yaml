@@ -1,0 +1,54 @@
+company:
+  name: Morgan Stanley
+  stage: null
+  focus: Global financial services and wealth management
+position:
+  title: Lead Software Engineer(Java/AI)_Vice President_Software Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role leads enterprise platform engineering; AI appears
+      as developer-productivity tooling (Copilot, prompting,
+      Agentic AI, spec-driven development) rather than shaping
+      model behavior or building RAG/agents as the product. The
+      person consumes AI-assisted workflows rather than designing
+      prompts, retrieval, or agent systems for a product.
+  responsibilities:
+  - Lead architecture, design, and modernization of MS at Work enterprise platforms
+  - Build and scale highly available, secure, performant applications supporting millions
+    of transactions
+  - Drive modernization initiatives involving microservices, event-driven architecture,
+    observability, and automation
+  - Champion AI-first development practices including Copilot, Agentic AI, and Spec-Driven
+    Development
+  - Lead, mentor, and grow teams of software engineers across multiple initiatives
+  - Partner with product owners and senior leadership to define technology roadmaps
+  - Establish engineering standards, design principles, and operational excellence
+    practices
+  - Ensure compliance with security, risk, regulatory, and governance requirements
+  use_cases:
+  - Stock plan administration platforms
+  - Participant experience for workplace financial products
+  - Workplace intelligence solutions
+  - Enterprise fintech platforms at high scale
+  skills:
+    genai: [Generative AI, Agentic Workflows, LLMs, GitHub Copilot, Prompt Engineering]
+    ml: []
+    web: [Spring Boot, Spring Framework, Microservices, REST APIs]
+    databases: [Oracle, PostgreSQL, SQL Server, Snowflake]
+    data: [Kafka, JMS, Data Governance]
+    cloud: []
+    ops: [Distributed Systems, Grafana, OpenTelemetry, Observability]
+    languages: [Java, Scala]
+    domains: []
+    other: [Domain-Driven Design, Object-Oriented Design, Design Patterns, SOLID Principles,
+      Clean Architecture, Dynatrace, Splunk, JUnit, Mockito, BDD/TDD, Spec-Driven
+        Development, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10908429'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:06:18.776115'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

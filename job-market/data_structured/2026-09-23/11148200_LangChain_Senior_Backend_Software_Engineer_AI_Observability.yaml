@@ -1,0 +1,57 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: |-
+    Open-source frameworks and platform for building and
+    operating AI agents
+position:
+  title: Senior Backend Software Engineer, AI Observability & Evals Platform (LangSmith)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineering role on an AI observability
+      platform: the person builds APIs, storage, and query
+      services for tracing/monitoring data, but does not shape any
+      model's behavior via prompts, retrieval, fine-tuning, or by
+      judging model output quality. The deliverables are backend
+      capacity and reliability for the LangSmith platform, making
+      this a generic software role at an AI company (ai-support).
+  responsibilities:
+  - Design, develop, and maintain backend services and APIs supporting LangSmith's
+    tracing, monitoring, and evaluation workflows
+  - Collaborate on architectural decisions to keep systems performant and maintainable
+  - Optimize storage and query performance for high-volume observability and evaluation
+    data
+  - Ensure system reliability through strong testing, monitoring, and alerting practices
+  - Troubleshoot production issues, perform root-cause analysis, and implement long-term
+    fixes
+  - Create and maintain technical documentation including system design and API references
+  - Work closely with full-stack engineers, product managers, and designers on feature
+    rollouts
+  use_cases:
+  - AI observability platform for tracing and monitoring LLM applications
+  - Evaluation of AI applications at production scale
+  - Run rules, annotation, and production reliability tooling for AI agents
+  - High-volume storage and querying of observability and evaluation data
+  skills:
+    genai: [LangChain, LangGraph]
+    ml: []
+    web: [APIs]
+    databases: [PostgreSQL, Redis, ClickHouse]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [LangSmith]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11148200'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Boston, USA
+  extracted_at: '2026-09-23T11:21:51.701968'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

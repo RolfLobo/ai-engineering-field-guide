@@ -1,0 +1,231 @@
+job_id: 10973186
+title: Senior AI Applications Engineer
+company: GE Healthcare
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 50,282 Employees
+description: |
+  Job Description SummaryWe are looking for a full-stack
+  engineer who has built production applications, and who has
+  also helped build software that other engineers then built
+  on top of — a shared library, an internal tool, a reusable
+  component set or a software development kit — establishing
+  engineering standards through automation rather than
+  documentation. The role combines application development
+  with internal platform and developer-tooling engineering,
+  and the two feed each other: building a real application end
+  to end is how we discover which capabilities the platform
+  should own. On the platform side you will build GE
+  HealthCare's internal AI engineering framework — the shared
+  libraries, code generation tools, standardised interfaces
+  and automated verification our data scientists and engineers
+  use to take their own AI solutions into production. It
+  exists to deliver four outcomes for the company: • reduce
+  time from working prototype to production from months to
+  days; • allow data scientists to ship production-grade AI
+  without expertise in cloud infrastructure, deployment,
+  application security or front-end development; • make
+  security, compliance and consistency automatically enforced
+  properties of every solution, rather than outcomes dependent
+  on scarce expert review; • allow underlying technologies to
+  be replaced — model provider, agent framework, user
+  interface approach — without rewriting the solutions built
+  on them. On the application side you will develop selected
+  AI applications end to end — front end, back end and agents
+  — for priority business use cases, and for the reference
+  implementations that prove each platform capability before
+  it is offered to others. Expect the balance to sit somewhat
+  more on the platform side than the application side, and to
+  shift as the platform matures. It is not an infrastructure
+  operations role.
+
+  tex
+
+  Job Description
+
+  GE HealthCare's Chief Data and Analytics Office delivers
+  data, insight and AI products across Finance, Commercial,
+  Supply Chain, Quality, Manufacturing and Operational
+  Excellence.
+
+  Most people creating AI solutions here are data scientists
+  and analysts rather than career software engineers. Their
+  modelling, evaluation and domain expertise is what these
+  programmes need; deep infrastructure and front-end expertise
+  is not reasonable to require of them. Every solution must
+  nonetheless reach production as a secure, reliable,
+  supportable enterprise system. A defining characteristic of
+  our approach is that correctness is established by automated
+  tooling — type systems, generated code, schema validation,
+  pipeline checks — rather than by expert human review, which
+  does not scale to the pace required. Your users are
+  colleagues, and your work is measured by how much they
+  accomplish correctly and independently.
+
+  Core Responsibilities
+
+  Build shared platform capabilities
+
+  - Reusable libraries used across AI applications:
+    configuration, structured logging and tracing, error
+    handling, resilience, messaging, data access, API
+    scaffolding, authentication, and access to cloud and AI
+    services.
+  - The shared execution layer for AI agents — the runtime that
+    takes an agent's declared configuration, instructions and
+    business logic functions and supplies everything else
+    needed in production: lifecycle, messaging, retries,
+    tracing, permission enforcement, output evaluation and
+    deployment.
+  - The configuration-driven user interface capability, in which
+    a business or data science user describes a dashboard in a
+    structured data file and the platform renders it, so no
+    application code is written per view — including the
+    typed, validated visual components it draws from and the
+    design token system that keeps every view consistent and
+    accessible.
+  - The data access layer that resolves a declared dataset into
+    a validated result, applying security filtering, parameter
+    validation, resource limits, caching and observability
+    centrally rather than in each solution.
+
+  Build applications, where that is the fastest way to prove
+  the platform
+
+  - Develop selected AI applications end to end — user
+    interface, API, data access and agents — as reference
+    implementations and early pilot use cases, and harvest
+    from them the capabilities the platform should own. Shared
+    capability here is derived from working code with real
+    consumers, not designed speculatively.
+
+  Build the tooling that makes standards real
+
+  - Code generation tools and project templates (for example
+    copier or cookiecutter) producing complete, standards-
+    compliant starting points needing no manual correction —
+    including the mechanism by which existing projects adopt
+    later improvements instead of diverging.
+  - Automated verification in the delivery pipeline —
+    formatting, strict static type checking, architectural
+    boundary rules, interface and schema compatibility,
+    migration checks, security and dependency scanning,
+    automated quality evaluation of AI output — built once as
+    shared components used by every project.
+  - The machine-readable interfaces between components and roles
+    (for example OpenAPI, JSON Schema, Zod), and the checks
+    that detect when either side has drifted.
+
+  Maintain and evolve the platform — a core responsibility; it
+  will be in continuous use and change for years, and its
+  value depends on staying dependable while it changes
+
+  - Manage published interfaces: semantic versioning, change
+    logs, migration paths, deprecation, and compatibility
+    tests that catch a breaking change before it reaches a
+    consuming application.
+  - Assess, validate and complete automated dependency upgrade
+    proposals (for example from Renovate or Dependabot).
+  - Improve error messages, documentation and reference examples
+    continuously. Where a colleague had to ask a question,
+    treat the question as a defect and remove the need for it.
+  - Contain scope: add shared capability only where repeated
+    need is demonstrated by more than one real consumer,
+    keeping what a solution author must write as small as
+    possible.
+
+  Collaborate and support
+
+  - Support colleagues using the platform, converting recurring
+    difficulties into tooling, checks, clearer messages or
+    documentation; review code substantively and document
+    design decisions and rationale.
+  - Express each service's infrastructure, permission and
+    operational requirements as version-controlled
+    declarations that satisfy automated validation, working
+    with infrastructure specialists on anything not yet
+    available.
+  - Use AI coding assistants (for example Claude Code, Copilot,
+    Cursor) effectively and responsibly — scoping work,
+    supplying context, remaining accountable for the output.
+
+  Experience & Qualifications
+
+  - Bachelor's degree in Computer Science, Software Engineering,
+    IT or a related field, or equivalent demonstrable
+    practical experience. An advanced degree is welcome but
+    not required.
+
+  Software engineering
+
+  - Strong Python, with static type checking (mypy, Pyright) and
+    runtime validation (Pydantic) as a normal part of
+    development rather than an added burden; working
+    TypeScript and a modern component-based front-end
+    framework (React, Vue, Angular) with an understanding of
+    strict type safety.
+  - Well-structured HTTP API design — specification (OpenAPI),
+    versioning, backward compatibility — and relational
+    databases and SQL: schema design, migrations, query
+    behaviour, parameterised queries as an ingrained habit.
+  - Version control, code review and CI/CD, including authoring
+    and debugging pipeline configuration (GitHub Actions,
+    GitLab CI, Jenkins); automated testing at unit,
+    integration and interface-contract level, with judgement
+    about which suits a given risk.
+
+  AI and Generative AI engineering
+
+  - Practical experience integrating large language models into
+    production software: instruction design, tool and function
+    calling, structured output, and management of cost,
+    latency and failure modes. Retrieval-augmented generation
+    in practice — embeddings, vector search (pgvector, FAISS,
+    OpenSearch, Pinecone), retrieval quality.
+  - Experience with at least one AI agent framework (for example
+    LangGraph, LangChain, AWS Bedrock AgentCore or CrewAI),
+    and the ability to build software that uses it without
+    becoming dependent on its specific types.
+  - Evaluation of non-deterministic systems. You have defined
+    test cases and quality measures for a system whose output
+    varies — with a framework (Ragas, DeepEval, LangFuse) or a
+    purpose-built harness — and used the results to make a
+    release decision. Automated evaluation is a mandatory gate
+    before deployment here.
+
+  Cloud and delivery engineering Infrastructure and production
+  operations are specialist disciplines owned elsewhere in the
+  organisation; our applications request what they need
+  through version-controlled declarations validated
+  automatically, rather than by authoring infrastructure or
+  access policies directly. You are not expected to author
+  infrastructure modules, access policies or network
+  components, nor to own cloud estate design, release
+  execution or infrastructure on-call. Required at this depth:
+
+  - Containerisation (Docker), and working knowledge of a major
+    public cloud, ideally AWS, at service level — serverless
+    compute (Lambda), object storage (S3), messaging (SQS),
+    secret management, managed databases (Aurora, RDS),
+    managed AI model services (Bedrock) — sufficient to design
+    against them and reason about behaviour, cost, quota and
+    failure.
+  - Read and review infrastructure-as-code fluently (Terraform,
+    Pulumi, CloudFormation), and understand access permissions
+    at the level of consequence: what a grant allows, and when
+    a request is broader than the task requires.
+
+  Operational literacy — interpreting distributed traces and
+  structured logs (OpenTelemetry, Datadog, Grafana), defining
+  service level objectives and runbooks — and awareness of
+  delivery security practice: immutable artefacts, build
+  provenance, secret scanning, dependency vulnerability
+  management, short-lived federated credentials
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Analytics
+  - Biotech
+posted_date: 2026-09-02
+url: "https://builtin.com/job/senior-ai-applications-engineer/10973186"
+source: Built In

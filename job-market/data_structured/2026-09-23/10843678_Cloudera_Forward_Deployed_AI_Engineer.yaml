@@ -1,0 +1,50 @@
+company:
+  name: Cloudera
+  stage: null
+  focus: Enterprise data management and analytics platform
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds full-stack AI/ML applications including
+      agentic systems, RAG architectures, and LLM orchestration
+      directly for customers, which is shaping LLM behavior and
+      design. Forward Deployed Engineers adapting AI solutions are
+      explicitly ai-first.
+  responsibilities:
+  - Develop full-stack AI/ML applications on Cloudera to demonstrate AI and agentic
+    systems solving enterprise use cases
+  - Embed with customer teams to drive AI and agentic use cases from prototype to
+    production readiness
+  - Advise customer leaders on AI roadmaps, solution design, deployment, and use cases
+  - Standardize successful patterns into reference architectures, productized solutions,
+    starter kits, and playbooks
+  - Act as a thought leader and mentor Cloudera teams to grow overall AI capability
+  - Channel field and customer feedback back to Product teams to improve the AI platform
+  use_cases:
+  - Enterprise AI adoption and acceleration
+  - Agentic systems for enterprise business problems
+  - RAG-based enterprise applications
+  - Operationalizing advanced AI capabilities in enterprise environments
+  - Repeatable AI solution patterns and reference architectures
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, Agentic Workflows, LLMs, Vector Databases]
+    ml: [Machine Learning, Generative AI]
+    web: []
+    databases: []
+    data: [Ray, Spark, Data Engineering]
+    cloud: []
+    ops: [MLOps, vLLM, MLflow, Kubernetes]
+    languages: []
+    domains: []
+    other: [Iceberg]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '10843678'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:01:43.959003'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

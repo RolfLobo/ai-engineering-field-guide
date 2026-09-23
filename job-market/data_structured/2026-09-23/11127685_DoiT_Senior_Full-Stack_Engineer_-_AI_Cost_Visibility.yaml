@@ -1,0 +1,52 @@
+company:
+  name: DoiT
+  stage: null
+  focus: Multicloud consulting and cloud cost intelligence platform
+position:
+  title: Senior Full-Stack Engineer - AI Cost Visibility
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds full-stack software (Go backend, React
+      frontend) for an AI cost visibility/FinOps product. It
+      consumes and aggregates AI spend data but does not shape any
+      model's behaviour - no prompts, RAG, fine-tuning, or evals.
+      AI appears only as coding-assistant tooling in the
+      engineer's workflow, which is ai-support.
+  responsibilities:
+  - Own features end-to-end from customer pain through design, implementation, release,
+    monitoring and iteration
+  - Understand AI spend domain - token and model pricing, inference and GPU economics,
+    and how usage rolls up to teams
+  - Work AI-augmented across the full engineering workflow - prototyping, code generation,
+    review, debugging, testing and documentation
+  - Design, build and scale backend services in Go and product experiences in TypeScript
+    and React
+  - Build capabilities API-first so both humans and agents can drive the platform
+  - Set engineering standards through design reviews, guardrails and mentoring peers
+  use_cases:
+  - AI cost visibility and spend tracking across model APIs, managed inference, GPUs
+    and agentic tools
+  - Cloud cost intelligence for FinOps practitioners and platform engineers
+  - Allocation of AI usage and spend to teams and initiatives
+  - Decision-support interfaces for financial decisions on AI workloads
+  skills:
+    genai: []
+    ml: []
+    web: [React, APIs]
+    databases: [BigQuery]
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: []
+    languages: [Go, TypeScript, SQL]
+    domains: []
+    other: [FinOps, SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11127685'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:20:49.042500'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

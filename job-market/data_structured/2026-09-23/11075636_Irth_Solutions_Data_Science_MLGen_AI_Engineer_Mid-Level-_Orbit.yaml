@@ -1,0 +1,59 @@
+company:
+  name: Irth Solutions
+  stage: null
+  focus: |-
+    Cloud-based SaaS for damage prevention and infrastructure
+    asset management
+position:
+  title: Data Science ML/Gen AI Engineer (Mid-Level)- Orbit
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly prototypes, evaluates, and
+      productionizes GenAI/LLM solutions alongside classical ML,
+      taking models from idea to production. Shaping LLM-based
+      solutions and evaluating model output makes it ai-first.
+  responsibilities:
+  - Build medallion architecture pipelines (Bronze to Gold) on Databricks with data
+    quality checks and data contracts
+  - Prototype, evaluate, and productionize ML and GenAI solutions addressing customer
+    problems across industry verticals
+  - Manage models using Unity Catalog model registries and design batch and streaming
+    inference architectures
+  - Build production workflows as infrastructure-as-code using Databricks Asset Bundles
+    with CI/CD via GitHub Actions
+  - Contribute semantic models and business metrics to Unity Catalog and support BI
+    consumption via Power BI
+  - Implement security, RBAC/ABAC, PII masking, lineage, and compliance practices
+    by default
+  - Define success metrics, KPIs, and A/B testing strategies with Product stakeholders
+  - Apply FinOps principles and proactive monitoring, alerting, and SLO management
+  use_cases:
+  - Damage prevention for utility and infrastructure networks
+  - Asset integrity risk scoring and failure prediction
+  - Land management and stakeholder engagement insights
+  - Geospatial feature engineering for pipeline and infrastructure assets
+  - Anomaly detection and forecasting on sensor and maintenance data
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [Machine Learning, Model Evaluation, Model Training, Feature Engineering,
+      Anomaly Detection, Unity Catalog Model Serving]
+    web: []
+    databases: [Power BI, PostGIS]
+    data: [Spark, PySpark, Databricks, Data Pipelines, Structured Streaming, Change
+        Data Capture]
+    cloud: [Azure, Azure Key Vault, AWS]
+    ops: [CI/CD, GitHub Actions, MLflow, Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: [Geospatial Analytics, GIS, FinOps, A/B Testing, Jira, Data Contracts,
+      RBAC, Time-Series Forecasting, Databricks Asset Bundles, Medallion Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11075636'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:16:48.233814'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

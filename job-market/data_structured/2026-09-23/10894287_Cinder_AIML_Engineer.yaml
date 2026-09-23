@@ -1,0 +1,54 @@
+company:
+  name: Cinder
+  stage: backed by Accel and Y Combinator
+  focus: Trust and safety infrastructure for internet platforms
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns model decisions end to end, including choosing
+      between classical classifiers and fine-tuned LLMs, shaping
+      agent evaluation architecture, and building
+      evaluation/metrics infrastructure for model outputs. Since
+      LLMs and agent fleets are central targets of shaping work,
+      this is ai-first.
+  responsibilities:
+  - Turn real-world customer data into training-ready form and choose the model approach
+    (classical classifier, fine-tuned LLM, or third-party API)
+  - Improve classification pipeline, confidence cascading, and detection strategies
+    balancing cost, latency, and accuracy
+  - Develop intelligent features that help moderators make decisions and reveal patterns
+    across data
+  - Build out in-house model training, hosting, and inference platform with Engineering
+  - Design evaluation and metrics infrastructure for classifier scores and model outputs
+  - Shape agent evaluation architecture for the agent fleet
+  - Shape data infrastructure powering ML systems with the Data Engineer
+  - Mentor teammates and raise the ML bar across the company
+  use_cases:
+  - Harmful content and abuse detection at scale
+  - Real-time AI agents enforcing platform policy against abuse
+  - Content moderation decision support for moderators
+  - Fraud, abuse, and manipulation investigation for internet platforms
+  - Agent fleet evaluation for correctness, tool use, and cost
+  skills:
+    genai: [LangChain]
+    ml: [PyTorch, scikit-learn, XGBoost, Fine-Tuning, Embeddings, Feature Engineering,
+      Model Evaluation, Model Training, Classifiers, Gradient Boosting]
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: [AWS]
+    ops: [MLOps, CI/CD, Model Versioning, Experiment Tracking, Drift Detection, Model
+        Monitoring, Model Deployment, Terraform]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10894287'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:05:27.259918'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

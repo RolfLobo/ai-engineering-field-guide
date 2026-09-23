@@ -1,0 +1,57 @@
+company:
+  name: Esko
+  stage: null
+  focus: Packaging graphics and artwork automation software
+position:
+  title: Senior AI Platform Engineer - Knowledge & Reasoning
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds knowledge representation,
+      semantic retrieval (RAG), and evaluation of retrieval
+      quality and applicability for AI agents, directly shaping
+      agent behaviour and output quality. LLM/agent components are
+      central, so ai-first.
+  responsibilities:
+  - Design knowledge representation for constraints, transformations, procedures,
+    and guidelines usable by agents, validators, and humans
+  - Build and operate platform services for ingesting, curating, retrieving, and versioning
+    knowledge scoped to customer and workflow context
+  - Define how semantic retrieval, deterministic validation, and human review interoperate,
+    including handling conflicts and escalation
+  - Design and implement reusable APIs and tools for applying, validating, and explaining
+    contextual knowledge
+  - Build evaluation suites covering retrieval quality, applicability, conflict handling,
+    and explanation quality
+  - Own security, tenant isolation, reliability, observability, and performance of
+    platform components
+  - Work with domain experts and product teams to turn informal expertise into structured,
+    testable knowledge with provenance
+  use_cases:
+  - Grounding AI agents in packaging-domain knowledge for automated workflows
+  - Applying regulatory requirements (FDA, EMA, QRD) and brand guidelines to packaging
+    design validation
+  - Distinguishing mandatory requirements from advisory guidance across customer-
+    and tenant-specific knowledge
+  - Explaining which knowledge items influenced an AI recommendation or validation
+    result
+  - Escalating to human review when knowledge is ambiguous, conflicting, or absent
+  skills:
+    genai: [RAG, Agentic Workflows, Function Calling, Semantic Search]
+    ml: [Information Extraction]
+    web: [APIs]
+    databases: [Knowledge Graphs, RDF/OWL, SHACL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript, Java]
+    domains: []
+    other: [JSON Schema, Pydantic, Datalog, DMN, Rules Engines, Multi-Tenant SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11005921'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:12:24.035271'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

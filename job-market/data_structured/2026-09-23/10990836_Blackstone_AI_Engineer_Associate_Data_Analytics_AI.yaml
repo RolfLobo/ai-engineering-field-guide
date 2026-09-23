@@ -1,0 +1,51 @@
+company:
+  name: Blackstone
+  stage: null
+  focus: Alternative asset management technology and data analytics
+position:
+  title: AI Engineer, Associate – Data Analytics & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds applied AI solutions themselves — agentic
+      workflows, retrieval pipelines, prompt libraries, and
+      evaluation tooling — directly shaping LLM behavior. This is
+      clearly ai-first.
+  responsibilities:
+  - Embed with business units, shadowing live workflows and engaging AI power users
+    to develop functional fluency
+  - Translate workflow friction into a prioritized pipeline of quick wins and platform
+    initiatives
+  - Develop and maintain production software solutions using Python and SQL
+  - Use deployment best practices including Git change control, CI/CD, Docker containerization,
+    and Terraform cloud deployment
+  - Build applied AI solutions including agentic workflows, retrieval pipelines, and
+    evaluation tooling, and scale adoption through runbooks and prompt libraries
+  - Promote a culture of data analytics and AI through talks and training sessions
+  - Lead multiple concurrent projects and transition proofs of concept into production
+    deployments
+  use_cases:
+  - AI adoption across alternative asset management workflows (BXMA, Private Equity,
+    Real Estate, Private Wealth)
+  - Automating capital raising, servicing, and reporting workflows
+  - Self-service AI tools for business users via runbooks and prompt libraries
+  - Retrieval and agentic solutions for enterprise workflows
+  skills:
+    genai: [LLMs, Fine-Tuning, Prompt Engineering, Agentic Workflows, RAG, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Terraform]
+    ops: [Git, CI/CD, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10990836'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:11:03.480117'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

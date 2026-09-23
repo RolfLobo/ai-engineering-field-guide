@@ -1,0 +1,136 @@
+job_id: 9972977
+title: Analyst or Associate, AI Engineer
+company: DESRI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 227 Employees
+description: |
+  About DESRI
+
+  DESRI (formerly D. E. Shaw Renewable Investments) is a
+  market-leading owner and operator of renewable energy
+  projects throughout the United States. We have acquired or
+  developed approximately 13 gigawatts of contracted capacity
+  across a portfolio of over 85 renewable energy projects in
+  24 states.
+
+  At DESRI, our culture is grounded in rigorous analytics and
+  thoughtful risk-taking, with a strong emphasis on
+  creativity, intellectual curiosity, and continuous
+  improvement. We operate with lean teams that prioritize
+  efficiency and minimize unnecessary bureaucracy, enabling
+  individuals to take ownership and move quickly. We value
+  open, constructive dialogue and believe it leads to better
+  outcomes. Above all, we are driven to go the extra mile and
+  support one another, fostering a collaborative environment
+  built on accountability, integrity, and care.
+
+  About the role
+
+  DESRI is seeking a talented and highly motivated individual
+  to join its team as an Analyst or Associate, AI Engineer
+  (title commensurate with experience). This is a hands-on
+  engineering role focused on applying AI across DESRI’s
+  renewable energy business. The position is based in DESRI’s
+  New York office.
+
+  The AI Engineer works closely with commercial and technical
+  teams to identify high-value problems and build the tools
+  that solve them.
+
+  This is an ownership role. The AI Engineer takes
+  applications from zero to one — scoping with stakeholders,
+  resolving data issues, building the front end and back end,
+  deploying to production, and driving adoption. Expect to
+  hold three to four projects at once and to keep live
+  applications healthy while building new ones.
+
+  Data science and machine learning experience is highly
+  valued. Forecasting, predictive modeling, and quantitative
+  modeling will be a significant part of the role, alongside
+  core AI engineering. Our users are accustomed to best-in-
+  class commercial AI tools, and internal applications are
+  held to the same standard of quality and reliability.
+
+  What you'll do
+
+  - Design, build, and deploy AI applications from prototype
+    through production for commercial and technical teams
+    across the business
+  - Work closely with a business team, learn its workflow in
+    depth, and exercise judgment on what to build, what to
+    defer, and what is better solved with existing tools than
+    with new code
+  - Drive adoption of each tool through change management,
+    training, documentation, and iteration until it is part of
+    the team’s daily work
+  - Clean, structure, and manage data across databases, data
+    warehouses, and internal systems, and integrate with
+    vendor platforms and APIs
+  - Build and maintain data pipelines and deployment
+    infrastructure on Azure, including databases, storage, and
+    application hosting
+  - Build and maintain rigorous testing and evaluation for every
+    application, and diagnose where multi-step workflows fail
+  - Design prompts, tools, and retrieval so that language-model
+    applications produce accurate and reliable results
+  - Build well-controlled, reliable automated workflows,
+    starting with rule-based logic and moving to models as the
+    data supports it
+  - Develop forecasting and predictive models, favoring
+    approaches whose results can be explained to the business
+  - Help teams document institutional knowledge so it can be
+    reused across the business
+  - Contribute to build-versus-buy decisions and to the
+    evaluation of new AI tools
+  - This is not a data engineering, IT, or enterprise platform
+    administration role
+
+  Qualifications
+
+  - Undergraduate or graduate degree in computer science,
+    engineering, data science, statistics, mathematics,
+    economics, or a related quantitative field.
+  - Two or more years of software development experience,
+    including experience building an AI-enabled application
+    from prototype through production.
+  - Experience deploying a machine learning model to production,
+    including the data cleaning and pipeline work surrounding
+    it.
+  - Experience owning a product across both front end and back
+    end; this is a full-stack role.
+  - Strong proficiency in Python and SQL, and hands-on
+    experience building with large language models, including
+    model APIs, retrieval, and evaluation.
+  - Experience with cloud platforms, preferably Azure, including
+    databases, data warehouses, data pipelines, and production
+    deployment.
+  - Strong commercial judgment, including the ability to learn
+    an unfamiliar domain quickly, engage credibly with
+    business stakeholders, and prioritize by business value.
+  - Experience and commercial context in renewable energy,
+    utilities, energy markets, or EPC construction is highly
+    preferred.
+  - Excellent written and verbal communication skills, and
+    comfort driving change with non-technical users.
+  - Comfort with ambiguity, shifting priorities, and a fast
+    pace.
+  - At DESRI, we consider a wide range of factors to determine
+    your compensation. We rely on market indicators and
+    consider your specific job family, background, location,
+    skills, and experience. The expected annual base salary
+    for this position is $100,000 to $130,000 (depending on
+    title and experience).
+
+  - Our compensation and benefits package includes variable
+    compensation in the form of a year-end bonus, guaranteed
+    in the first year of hire, and benefits including medical
+    and prescription drug coverage, 401(k) contribution
+    matching, paid time off, wellness reimbursement, family
+    building benefits, and a charitable gift match program.
+industries:
+  - Energy
+  - Renewable Energy
+posted_date: 2026-08-20
+url: "https://builtin.com/job/associate-or-manager-data-science/9972977"
+source: Built In

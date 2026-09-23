@@ -1,0 +1,56 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions for data economy
+position:
+  title: Principal AI Engineer, SMAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs and agentic AI into workflows,
+      applies prompt engineering, RAG, and model evaluation —
+      shaping LLM behavior directly. It also builds classical ML
+      models, so ai-first takes precedence.
+  responsibilities:
+  - Design and build end-to-end AI solutions including data pipelines, model training,
+    inference, APIs, and observability
+  - Develop front-end applications in React, Angular, or Streamlit backed by Python/FastAPI
+    services
+  - Integrate LLMs and agentic AI capabilities into manufacturing and engineering
+    workflows
+  - Integrate robotics platforms, AMRs, tool automation, and MES ecosystems
+  - Build, train, and deploy predictive machine learning models
+  - Deploy containerized applications via Docker and Kubernetes/OpenShift
+  - Contribute to CI/CD pipelines, model monitoring, drift detection, and feedback
+    loops
+  - Apply Responsible AI practices including input validation, PII/IP protection,
+    and governance
+  use_cases:
+  - AI-powered applications improving manufacturing operations across fabs and assembly/test
+    sites
+  - Data-driven decision-making and autonomous operations in smart manufacturing
+  - LLM and agentic AI integration into manufacturing and engineering workflows
+  - Robotics, AMR, and MES ecosystem automation
+  - Predictive machine learning for manufacturing analytics
+  skills:
+    genai: [Prompt Engineering, RAG, LLMs, AI Agents, Generative AI, LLM Evaluation,
+      Responsible AI]
+    ml: [Machine Learning, TensorFlow, PyTorch, scikit-learn, Deep Learning, Reinforcement
+        Learning, Feature Engineering, Model Evaluation, Model Training]
+    web: [React, Angular, Streamlit, FastAPI, APIs]
+    databases: [Data Architecture]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, OpenShift, CI/CD, GitHub Actions, MLOps, Model Deployment,
+      Monitoring]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11008500'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:12:20.764463'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

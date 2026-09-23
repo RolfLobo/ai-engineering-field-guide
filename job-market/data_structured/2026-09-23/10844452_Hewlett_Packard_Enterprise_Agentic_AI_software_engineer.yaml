@@ -1,0 +1,49 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud computing and networking solutions
+position:
+  title: Agentic AI software engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic systems (agent harness,
+      MCP tools, semantic retrieval, agentic workflows) for a
+      conversational interface powered by LLMs, which is clearly
+      shaping LLM behavior. Step 1 yes, Step 2: LLM/agent
+      component -> ai-first.
+  responsibilities:
+  - Build the agentic harness for Routing Director's Conversational Interface powered
+    by frontier or open-weight LLMs (Bring Your Own LLM)
+  - Develop the agentic platform using AI agents, MCP servers/tools, skills, and semantic
+    retrieval
+  - Deliver reliable and performant solutions following safety and security standards
+  - Collaborate with multi-functional teams to develop use cases and implement agentic
+    workflows
+  - Contribute to design review sessions and present work for feedback
+  - Partner with Product and QA teams to align feature delivery with release milestones
+  use_cases:
+  - Conversational interface for Routing Director (network routing product)
+  - Agentic platform enabling product teams to build agentic applications
+  - Workflow automation with agent memory and tool execution
+  - Safe and monitored agent orchestration in production
+  skills:
+    genai: [AI Agents, Agentic Workflows, MCP, Semantic Search, OpenAI API, LLMs,
+      Conversational AI]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10844452'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:01:52.922134'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

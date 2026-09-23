@@ -1,0 +1,49 @@
+company:
+  name: TLDR Media
+  stage: bootstrapped
+  focus: Tech newsletter network and media
+position:
+  title: Senior Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and evaluates agents end to end,
+      including writing specs and evals that shape LLM output
+      quality across workflows. This is direct shaping of
+      LLM/agent behavior, making it ai-first.
+  responsibilities:
+  - Own the build out of new agents, skills, and platform capability for teams across
+    TLDR
+  - Build and deploy agents end to end, from design through implementation, evals,
+    and rollout to internal users
+  - Write evals and specs that define measurable workflow quality
+  - Partner with the Applied AI PM on product direction and make smaller product calls
+    independently
+  - Work with stakeholders in sales, revenue ops, editorial, and people ops to identify
+    where an LLM belongs in their process
+  use_cases:
+  - LLM-in-the-loop automation of internal workflows across sales, revenue ops, editorial,
+    and people ops
+  - Internal agents that improve automatically as model capabilities improve
+  - Spec- and eval-driven workflow quality measurement
+  - Push-based work model where LLMs do work by default and humans intervene as needed
+  skills:
+    genai: [LLMs, AI Agents, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Claude Code, Codex]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11175276'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:23:31.308667'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

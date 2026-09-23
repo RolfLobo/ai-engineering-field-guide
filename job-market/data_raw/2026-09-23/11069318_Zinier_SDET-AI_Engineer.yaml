@@ -1,0 +1,106 @@
+job_id: 11069318
+title: SDET-AI Engineer
+company: Zinier
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 138 Employees
+description: |
+  Who we are:
+
+  Zinier’s No-Code Customization field service automation
+  platform empowers field service organizations with the
+  combined power of humans and technology to keep our world up
+  and running. No two field service organizations are
+  alike…From the IT ecosystem you connect with, to the
+  workflows executed in the field, your business requirements
+  are unique. And in the fast-paced world of field service,
+  those requirements can change rapidly. And that’s exactly
+  why you need Zinier. ZiniApps solve challenges across the
+  entire lifecycle of field work. Off-the-shelf functional,
+  but also customizable to meet specific use cases, ZiniApps
+  cover the most meaningful jobs to be done in field service
+  installation and maintenance. We are a global team
+  headquartered in Silicon Valley with leading investors
+  including Wipro, Telmex, Black & Veatch, NCR, Toshiba and
+  Qualcomm Ventures LLC.To learn more, check out
+  www.zinier.com
+
+  Why we exist:
+
+  Services shape how we live. Electricity lights up our homes.
+  The Internet opens up our worlds. Cellular phones keep us
+  connected no matter where we are. We take for granted the
+  things we can turn on with the flip of a switch. But when
+  even one of the services we depend on isn’t available, the
+  day can quickly start to go sideways. For organizations that
+  provide these services, some of the most important work
+  happens in the field — in neighborhoods, across open spaces,
+  and along millions of last miles that criss-cross the
+  country. Every moment of downtime matters, which is why
+  Zinier exists. Zinier empowers organizations to work smarter
+  — from the main office to the field — to solve problems
+  quickly, fix things before they break, and keep people in
+  the rhythm of their days. To do this, Zinier has created a
+  scalable platform powered by AI-driven insights and
+  intelligent automation that helps field service teams work
+  smarter, better, faster, and more efficiently. We help
+  organizations automate routine tasks so the people in the
+  field can focus on putting their expertise to work. We work
+  with customers in telecom and energy.
+
+  What we're looking for:
+
+  We are looking for a SDET-2 to join our rapidly expanding
+  product development team. This role is primarily responsible
+  for testing customer solutions built using Zinier platform
+  and products. The primary focus of this engineer will be to
+  build test plans and troubleshoot failures in existing
+  applications.
+
+  About the Role:
+
+  We are looking for an AI Test Engineer with strong backend
+  and automation experience to test AI-powered services, APIs,
+  intelligent scheduling, and field-service workflows.
+
+  You will work closely with Backend, AI/ML, and Product teams
+  to build reliable, scalable, and measurable quality
+  frameworks for AI-driven capabilities.
+
+  What You’ll Do:
+
+  - Test AI/LLM-powered backend services, APIs, and workflows.
+  - Validate AI responses for accuracy, relevance, groundedness,
+    and hallucinations.
+  - Build automated AI evaluation and regression frameworks
+    using golden datasets and benchmarks.
+  - Test REST APIs, microservices, asynchronous workflows, and
+    service integrations.
+  - Perform performance, load, resilience, and failure testing.
+  - Develop automation and integrate quality checks into CI/CD
+    pipelines.
+  - Validate intelligent scheduling outcomes against business
+    and operational constraints.
+
+  What We’re Looking For:
+
+  - 6+ years of experience in QA, SDET, or Test Automation.
+  - Strong experience in backend/API testing and automation.
+  - Proficiency in Java, Python, JavaScript, or TypeScript.
+  - Experience with REST Assured, Playwright, Selenium, or
+    similar tools.
+  - Strong understanding of REST APIs, microservices,
+    distributed systems, and SQL.
+  - Experience with CI/CD and performance/reliability testing.
+  - Hands-on exposure to LLM/GenAI testing, RAG, prompt testing,
+    AI evaluation, or AI agents.
+
+  Good to Have:
+
+  - Kafka/event-driven systems
+  - Kubernetes/cloud platforms
+  - Prometheus, Grafana, Datadog, or OpenTelemetry
+  - Experience building AI evaluation datasets and benchmarks
+posted_date: 2026-09-09
+url: "https://builtin.com/job/sdet-ai-engineer/11069318"
+source: Built In

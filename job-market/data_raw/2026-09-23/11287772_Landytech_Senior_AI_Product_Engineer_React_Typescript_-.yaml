@@ -1,0 +1,165 @@
+job_id: 11287772
+title: Senior AI Product Engineer (React / Typescript) - UX
+company: Landytech
+location: London, GBR
+work_type: FULL_TIME
+company_size: 110 Employees
+description: |
+  Landytech is on a mission to revolutionise the way that
+  investment managers, asset owners and their advisors access
+  asset information. Powered by Sesame, an industry-leading
+  investment reporting platform, we are helping clients in
+  over 15 countries make informed investment decisions and
+  deliver insights faster.
+
+  The company is growing rapidly and it’s an exciting time to
+  join, having secured $12M in Series B funding in January
+  2023. In just four years, it has gone from two co-founders
+  to a team of 80+ staff, with offices in London and Paris. At
+  Landytech, we see diversity as our strength with a team from
+  over 15 countries and 14 languages spoken.
+
+  The role
+
+  AI has made producing screens easy. It has not made products
+  coherent. We are looking for someone to own the experience
+  of Sesame end to end — the client journey, the interaction
+  logic, the look and feel, and the consistency of all of it —
+  and to build it.
+
+  If you are an engineer who has always had a view on how the
+  product should look and behave, this is a role where that
+  judgement is part of the remit rather than a side interest.
+
+  We have posted this role under two titles — Design Engineer
+  and Product Experience Designer — to reach both backgrounds.
+  Same role, same team. Apply once, to whichever fits you
+  better.
+
+  How we work
+
+  We have rebuilt our product process around AI rather than
+  bolting it on:
+
+  •    AI is used heavily at every stage of both design and
+  engineering, not just at the production end
+
+  •    Our design system lives in code, used by engineers and
+  AI tooling alike
+
+  •    Tooling changes every few months and we expect it to
+
+  You will have real scope to shape how we work, and to help
+  build the parts that do not exist yet.
+
+  What you will shape
+
+  How much of this you lead outright will depend on your
+  experience and on how it fits with the team already in
+  place. There is room to take on more over time.
+
+  - The front-end experience layer. You will build the
+    interfaces that matter most, particularly the dense and
+    difficult ones, and help set the patterns others follow
+  - The design system. Developed in code with the rest of the
+    front-end team, with a leading voice in what belongs in
+    the system
+  - Look, feel and consistency. The product should feel like one
+    thing, and you will help define what that one thing is and
+    uphold it in review and in tooling
+  - The client journey. You will be in front of investment
+    professionals, family offices and their advisors, and
+    trusted to act on what you hear
+  - Craft in dense financial interfaces. Tables legible at
+    scale, numbers at the right precision, drill-downs that
+    survive a messy real portfolio under load
+
+  The must-have: setting the standard AI works to
+
+  AI is very good at producing attractive interfaces. Given a
+  design system, almost anyone can now generate a credible
+  screen.
+
+  The harder problem, and the one this role exists to solve,
+  is making sure what we build expresses the product’s logic,
+  density and intent rather than simply reusing its
+  components. That means defining the standards and
+  instructions our tools work to, reading the output
+  critically enough to see why something is subtly wrong, and
+  tightening the rules so it does not recur.
+
+  Using AI to produce interfaces is not the skill we are
+  looking for. Directing it to our standard, consistently and
+  at depth, is.
+
+  Increasingly this is engineering work: it lives in the repo,
+  in the tooling, and in what the agents can and cannot reach
+  for.
+
+  Strongly valued: design expertise
+
+  We are not looking for a front-end engineer willing to
+  tolerate design work. We are looking for real UX judgement.
+
+  - You can say what is wrong with a flow, not just implement it
+    faster
+  - You think in objects, relationships and states before
+    components
+  - You have taste in what matters here: hierarchy, typography,
+    density, restraint
+  - You are comfortable doing the upstream thinking, including
+    what should not exist at all
+
+  No portfolio required. Shipped interfaces we can look at,
+  and the decisions behind them, is what we want to see.
+
+  Also valued: product management instincts
+
+  If you have talked to clients directly, decided what not to
+  build, and owned an outcome rather than a ticket, we will
+  weight it heavily.
+
+  What we are looking for
+
+  We do not expect anyone to have everything below — we would
+  rather meet someone exceptional in two areas than adequate
+  in all three.
+
+  - 5+ years in front-end engineering, ideally React and
+    TypeScript, with libraries such as shadcn/ui
+  - Experience building and maintaining a design system in
+    production, not just consuming one
+  - Data-dense interfaces at scale — virtualised tables,
+    charting, performance under real load
+  - Fluency with AI-assisted development, and the specification
+    skill described above
+  - Willingness to work directly with users and own the
+    experience, not the implementation alone
+  - Comfortable as an editor and enabler: reviewing others’
+    work, teaching, holding a line
+  - Genuine curiosity about finance. You need not arrive knowing
+    what a capital call is
+
+  Our process
+
+  Our interview process is likely to include a portfolio or
+  work conversation, a short practical exercise based on a
+  real Sesame flow, and a working session with a product
+  manager and an engineer. We adapt the steps to the candidate
+  and will always tell you what to expect in advance.
+
+  Benefits
+
+  - Competitive salary and stock options
+  - Hybrid working
+  - Private medical insurance with Bupa for you and your family
+  - Death in service insurance option
+  - Pension plan with NEST
+  - Cycle to Work scheme and gym allowance
+  - Office food and drinks, regular socials
+industries:
+  - Software
+  - Analytics
+posted_date: 2026-09-21
+url: "https://builtin.com/job/senior-ai-product-engineer-react-typescript/11287772"
+source: Built In

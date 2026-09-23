@@ -1,0 +1,55 @@
+job_id: 11091244
+title: "Senior/Principal RAN Digital Twin & AI Simulation Engineer"
+company: Parallel Wireless
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Parallel Wireless is a U.S.-based pioneer in Open RAN
+  innovation, transforming how mobile networks are built,
+  optimized, and powered. Through our GreenRAN™ portfolio, we
+  help operators deliver secure, energy-efficient, automated,
+  and flexible connectivity across 2G, 3G, 4G, 5G, and the
+  path toward 6G. Our software-centric, hardware-agnostic
+  approach brings intelligence into the RAN while helping
+  customers reduce complexity and total cost of ownership.
+
+
+
+  Parallel Wireless is looking for a hands-on wireless systems
+  engineer to lead the development of a multi-RAT digital twin
+  for our Open RAN solution. The digital twin will execute
+  production RAN software-beginning with scheduler and MAC
+  behavior-in a closed loop with PHY, channel, UE, traffic,
+  and network models. It will allow engineering teams to
+  design, evaluate, and compare features for LTE, 5G NR, and
+  2G without requiring a dedicated physical radio setup for
+  every development cycle.
+
+  This is a senior individual-contributor role at the
+  intersection of wireless systems, simulation, production
+  software, and AI/ML. You will evolve an existing LTE end-to-
+  end simulator into a scalable engineering platform for
+  feature development, regression testing, performance
+  optimization, and evidence-based pre-validation. Initial use
+  cases include MAC scheduler and link-adaptation
+  improvements, power control, mobility and interference
+  scenarios, and neural-network-assisted channel estimation.
+
+  The successful candidate will understand that a useful
+  digital twin must be both fast and trustworthy. You will
+  define multiple fidelity levels-from rapid surrogate models
+  to full PHY processing-and establish repeatable methods for
+  calibrating the twin against lab or field reference data.
+  The goal is to reduce dependence on continuous lab access
+  while maintaining clear, measurable confidence in the
+  simulation results.
+
+  What you will do:
+
+  What you bring:
+
+  Nice to have:
+posted_date: 2026-09-09
+url: "https://www.builtinla.com/job/senior-principal-ran-digital-twin-ai-simulation-engineer/11091244"
+source: Built In

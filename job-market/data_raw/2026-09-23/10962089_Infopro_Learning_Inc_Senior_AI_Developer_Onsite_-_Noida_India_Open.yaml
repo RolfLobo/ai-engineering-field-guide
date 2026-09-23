@@ -1,0 +1,157 @@
+job_id: 10962089
+title: "Senior AI Developer | Onsite - Noida, India | Open to India-based candidates only"
+company: Infopro Learning, Inc
+location: Noida, IND
+work_type: FULL_TIME
+company_size: 596 Employees
+description: |
+  Senior AI Developer | Onsite - Noida, India | Open to India-
+  based candidates only
+
+  Location: Noida, India (work from office)
+
+  About the Role
+
+  We're looking for a Senior AI Developer to own the
+  architecture of the intelligence at the core of our AI-
+  native talent and skills intelligence platform. This isn't a
+  role where AI is a feature bolted onto a product. The
+  product is the AI: a proficiency engine that scores skills
+  from real evidence, retrieval and agent systems that guide
+  learning and career decisions, and data pipelines that turn
+  organizational data into actionable skills intelligence.
+
+  As the senior technical owner of these systems, you won't
+  just build features — you'll set the architecture, the
+  evaluation standards, and the production-readiness bar that
+  the rest of the team builds against. You'll make judgment
+  calls with full accountability for their consequences at
+  enterprise scale: security, compliance, multi-tenant data,
+  cost, and reliability. The systems you design go in front of
+  live enterprise customers and directly influence real
+  decisions about people's careers, which is exactly why this
+  role requires someone who has already carried that kind of
+  accountability elsewhere.
+
+  What You'll Do
+
+  - Own the end-to-end architecture of agentic and RAG systems
+    on Azure — retrieval pipelines, agent workflows, prompt
+    systems, and the APIs that serve them — and set the
+    technical direction other engineers build against.
+  - Define and enforce evaluation standards for AI features
+    across the team: what "good" looks like, how it's
+    measured, and when something is genuinely ready to ship,
+    not just working in a demo.
+  - Develop and oversee skills inference and proficiency models
+    that turn evidence into skill scores enterprise customers
+    can trust, including how that trust is established and
+    defended under scrutiny.
+  - Set data engineering standards in Microsoft Fabric,
+    including how customer data from HR, learning, and job
+    systems is sourced, cleaned, and governed so downstream AI
+    pipelines can rely on it.
+  - Make production tradeoffs on latency, cost, and reliability,
+    and own the MLOps loop: versioning, monitoring, and
+    retraining, at a standard other engineers are expected to
+    follow.
+  - Deploy on Azure with clean APIs, containers, and CI/CD as a
+    baseline, and make the architecture calls (build vs. buy,
+    framework vs. custom orchestration) that less senior
+    engineers shouldn't be making alone.
+  - Mentor and review the work of other engineers on the team,
+    raising the rigor of evaluation discipline, responsible AI
+    practice, and production readiness across the board.
+  - Work daily with product and engineering peers to shape what
+    gets built, explain tradeoffs clearly to both technical
+    and non-technical stakeholders, and document decisions
+    that others will rely on.
+  - Practice responsible AI as a first-class engineering
+    discipline: fairness, transparency, and explainability are
+    requirements you're accountable for defending, not just
+    implementing.
+
+  What We're Looking For
+
+  - A substantial engineering career — typically 6–8+ years in
+    software, ML, or AI engineering — that demonstrates
+    independent judgment and the ability to own ambiguous,
+    high-stakes problems without close supervision.
+  - Deep, hands-on, enterprise-grade experience architecting
+    agentic systems: RAG, tool calling, multi-agent
+    orchestration, and the vector search and retrieval
+    infrastructure behind them, built and operated under real
+    enterprise constraints (security, compliance, multi-tenant
+    data, SLAs) — not personal or academic projects alone.
+  - Strong Python and the modern AI stack: fluent with PyTorch
+    or TensorFlow, Hugging Face, scikit-learn, Pandas, and
+    NumPy, at a level where you're reviewing others' code, not
+    just writing your own.
+  - Direct experience with the Microsoft AI stack (Azure AI
+    Foundry, Azure OpenAI, Microsoft Agent Framework,
+    Microsoft Fabric) is a real advantage. Deep, verifiable
+    experience with equivalent enterprise platforms (e.g., AWS
+    Bedrock, GCP Vertex AI) plus a credible plan for closing
+    the Microsoft-stack gap quickly is also acceptable.
+  - An evaluation mindset you can install in a team, not just
+    apply to your own work: you've built evaluation harnesses,
+    defined metrics, and made the case — with data — for what
+    should and shouldn't ship.
+  - MLOps and deployment fluency: Docker, Kubernetes, CI/CD, and
+    operating models on Azure at a standard you'd hold a team
+    to.
+  - Software engineering fundamentals strong enough to mentor
+    from: Git, testing, API design, and the patience to debug
+    problems in large, messy, real-world datasets.
+  - An AI-native way of working: you use AI coding tools daily
+    as a core part of your craft, and you can teach others how
+    to use them well without losing rigor.
+  - Clear, senior-level communication: you can explain technical
+    tradeoffs to executives and non-technical stakeholders,
+    not just to other engineers, and you can defend a
+    technical decision under pushback.
+  - A track record of owning a production AI or ML system over
+    time, not just shipping one: real accountability for its
+    reliability, its failures, and its evolution in front of
+    real users, ideally at enterprise scale.
+
+  Nice to Have
+
+  - Experience fine-tuning or adapting open-weight models, and
+    depth in classical ML and NLP beyond LLM APIs.
+  - A grounding in statistics and optimization.
+  - Prior work in HR technology, learning, talent, or other
+    domains where model output directly affects decisions
+    about people.
+  - Experience mentoring, leading, or setting technical
+    standards for other engineers.
+  - Experience operating AI systems under a regulatory or
+    compliance framework (e.g., HIPAA, SOC 2, GDPR) at
+    enterprise scale.
+
+  What You'll Gain
+
+  - Ownership of the architecture direction for the AI core of a
+    product already in the hands of enterprise users.
+  - A frontier tech stack and an AI-native team with the freedom
+    to adopt the best tools, and the seniority to decide what
+    those tools should be.
+  - Real domain expertise in skills and talent, learned from
+    live enterprise customers.
+  - A clear path toward staff or principal AI engineering as the
+    team scales, with direct influence over how that team is
+    built.
+
+  If you've architected an AI system that carried real
+  enterprise accountability, not just shipped one; if you
+  evaluate rigorously and can defend that rigor to a team, not
+  just apply it to your own work; if you use AI tools as a
+  core part of how you build, and can teach others to do the
+  same without losing discipline; and if you're based in Noida
+  and able to work onsite full-time, we want to hear from you.
+industries:
+  - Professional Services
+  - Consulting
+posted_date: 2026-09-01
+url: "https://builtin.com/job/senior-ai-developer-onsite-noida-india-open-india-based-candidates-only/10962089"
+source: Built In

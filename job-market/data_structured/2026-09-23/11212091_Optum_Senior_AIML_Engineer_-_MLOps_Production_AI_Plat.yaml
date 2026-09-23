@@ -1,0 +1,50 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Senior AI/ML Engineer - MLOps & Production AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds output-quality monitoring (prompt drift,
+      hallucination tracking) and champion vs. challenger model
+      evaluation frameworks on a platform that includes LLM/GenAI
+      components, which counts as shaping model output quality.
+      Platform includes AI agents and GenAI, so ai-first rather
+      than ml-first.
+  responsibilities:
+  - Design, deploy, and maintain production-grade AI/ML platforms
+  - Build scalable MLOps pipelines and AI deployment frameworks
+  - Implement model lifecycle management, CI/CD for ML, and automated retraining
+  - Establish monitoring for model performance, data drift, concept drift, prompt
+    drift, and hallucination tracking
+  - Build champion vs. challenger model frameworks
+  - Develop AI observability, governance, and compliance controls
+  - Support AIRB, Responsible AI, and production AI readiness reviews
+  use_cases:
+  - Prior authorization determination automation in healthcare
+  - Prior auth status monitoring
+  - Model performance and drift monitoring including prompt drift and hallucination
+    tracking
+  - Future agentic automation for prior authorization workflows
+  - Enterprise AI governance and compliance in healthcare
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: [Azure ML, Azure]
+    ops: [MLflow, CI/CD, Model Monitoring, MLOps, AI Observability, LLMOps]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, FHIR, HL7, Epic, Prior Authorization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11212091'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:27:45.735369'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Afficiency
+  stage: null
+  focus: Insurtech startup offering digitally embedded life insurance
+position:
+  title: DAC AI engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimizes prompts, builds RAG
+      solutions, agent-based workflows, and eval frameworks for
+      LLMs — directly shaping model behavior. LLM/agent work makes
+      it ai-first.
+  responsibilities:
+  - Design, develop, and optimize prompts for LLMs including OpenAI GPT/Codex, Claude,
+    and Gemini
+  - Build AI-powered workflows, copilots, virtual assistants, and intelligent agents
+    for insurance business processes
+  - Develop RAG solutions using enterprise knowledge repositories and policy documentation
+  - Implement prompt testing, evaluation, and optimization frameworks to improve accuracy
+    and reliability
+  - Design agent-based solutions using tools, function calling, and orchestration
+    frameworks
+  - Design and develop modern web applications using React.js and build RESTful APIs
+    and microservices in Python Flask
+  - Integrate AI services into enterprise digital applications and connect them to
+    enterprise systems via APIs
+  - Monitor AI performance metrics and establish best practices for AI governance
+    and monitoring
+  use_cases:
+  - Life insurance underwriting automation
+  - Claims processing and policy servicing
+  - Agent productivity and virtual assistants
+  - Knowledge management over policy documentation
+  - Customer experience applications
+  skills:
+    genai: [Prompt Engineering, LLMs, Generative AI, OpenAI API, Codex, Anthropic
+        API, Gemini, AI Agents, Agentic Workflows, RAG, Vector Databases, Embeddings,
+      Fine-Tuning, Model Evaluation, Function Calling, Claude Code, Copilot Studio,
+      Guardrails]
+    ml: []
+    web: [React, REST APIs, Microservices, Flask]
+    databases: [SQL Server, PostgreSQL, MySQL, Oracle, SQL]
+    data: []
+    cloud: []
+    ops: [Git, GitHub, Azure DevOps, CI/CD]
+    languages: [Python, JavaScript, TypeScript, HTML, CSS]
+    domains: []
+    other: [Agile, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11165137'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:22:29.556481'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

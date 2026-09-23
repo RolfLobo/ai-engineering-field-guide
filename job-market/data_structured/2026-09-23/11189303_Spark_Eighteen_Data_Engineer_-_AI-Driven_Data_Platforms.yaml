@@ -1,0 +1,46 @@
+company:
+  name: Spark Eighteen
+  stage: null
+  focus: Data and analytics engineering services with global clients
+position:
+  title: Data Engineer - AI-Driven Data Platforms
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a traditional data engineer role focused on ETL
+      pipelines, BI dashboards, and data models. There is no
+      mention of shaping any model's behavior - no prompts, RAG,
+      fine-tuning, or evals; "AI" appears only in the job title.
+      Hence ai-support.
+  responsibilities:
+  - Build and maintain ETL pipelines, data transformations, and data models to support
+    reporting and analytics
+  - Design and develop BI dashboards and reports translating data into business insights
+  - Architect and maintain data systems in production environments
+  - Ensure compliance with HIPAA, SOC, and HITRUST requirements
+  - Collaborate with technical and non-technical stakeholders to communicate data-driven
+    insights
+  - Work within Agile methodologies on iterative SaaS product cycles
+  use_cases:
+  - Reporting and analytics pipelines for business insights
+  - BI dashboards translating data into business insights
+  - Healthcare data platforms with HIPAA/SOC/HITRUST compliance
+  skills:
+    databases: [SQL, Relational Databases]
+    domains: []
+    data: [Data Pipelines, Data Modeling, Metadata Management, Workflow Orchestration]
+    web: []
+    ml: []
+    ops: []
+    other: [BI Dashboards, Agile, Jira, HIPAA Compliance]
+    cloud: [AWS]
+    languages: [Python, Java]
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11189303'
+  location: New Delhi, IND
+  extracted_at: '2026-09-23T11:25:14.552609'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

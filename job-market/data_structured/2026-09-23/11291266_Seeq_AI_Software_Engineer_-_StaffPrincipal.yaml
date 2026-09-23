@@ -1,0 +1,57 @@
+company:
+  name: Seeq
+  stage: null
+  focus: |-
+    Advanced analytics software for process manufacturing
+    industries
+position:
+  title: AI Software Engineer - Staff/Principal
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic systems (routing,
+      orchestration, tool use, evaluations, sandboxing) and drives
+      AI evaluation and reliability, which is directly shaping
+      model/agent behavior. LLM/agent components are central, so
+      it is ai-first.
+  responsibilities:
+  - Set technical direction and architecture for backend and AI platform capabilities
+    supporting agentic applications
+  - Lead complex, ambiguous AI and platform initiatives from concept through production
+  - Architect agentic systems including agent routing, orchestration, tool use, evaluations,
+    runtime infrastructure, and sandboxing
+  - Build shared platform infrastructure, services, APIs, and patterns used by other
+    engineering teams
+  - Develop reliable distributed backend services and APIs supporting AI workloads
+  - Establish approaches for evaluating agentic output, monitoring behavior, and improving
+    reliability and observability
+  - Design integrations between AI agents, internal services, and third-party enterprise
+    platforms
+  - Work directly with customers during early deployments and mentor engineers
+  use_cases:
+  - Agentic AI capabilities for industrial process analytics applications
+  - Agent routing, orchestration, and tool use at scale across a product platform
+  - AI evaluation and reliability monitoring for production agentic systems
+  - Integrating AI agents with internal services and third-party enterprise platforms
+  - Analytics on time-series and event data from process manufacturing operations
+  skills:
+    genai: [Agentic Workflows, AI Agents, LLMs, Generative AI, RAG, Vector Search,
+      LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [PostgreSQL, Relational Databases]
+    data: []
+    cloud: [SaaS]
+    ops: [Kubernetes, Monitoring, Observability, Distributed Systems]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11291266'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:36:04.957226'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

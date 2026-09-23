@@ -1,0 +1,213 @@
+job_id: 11130092
+title: Software Engineer 3, AI Framework Integrations
+company: MongoDB
+location: Gurugram, IND
+work_type: FULL_TIME
+company_size: 5,550 Employees
+description: |
+  AI frameworks like LangChain, LlamaIndex, and n8n are
+  quickly becoming the default way developers build with AI —
+  and MongoDB wants to be the data platform that shows up
+  everywhere they build. As part of the AI Builders Experience
+  (ABX) org, we're standing up a brand new engineering team in
+  Gurugram to make that happen, and we're looking for Software
+  Engineers to be among its founding members.
+
+  The team owns the connective layer between MongoDB and
+  third-party AI frameworks, platforms, and tools — the
+  integrations that let developers use MongoDB effectively
+  with the AI stack they've already chosen. That means
+  shipping into some of the fastest-moving open-source
+  ecosystems in tech, working mostly in Python and TypeScript,
+  and partnering with the Database Experience (DBX) org when
+  an integration needs new driver, platform, or product
+  capability underneath it.
+
+  This is a strong role for an engineer who wants to grow into
+  the AI space with real ownership. You'll own well-scoped
+  projects from design through release, work with fast-moving
+  and sometimes unproven technologies, and get a clear view of
+  how the ecosystem is evolving. Priorities shift as
+  frameworks change and customer demand moves, so we're
+  looking for engineers who are adaptable, ask good questions,
+  and take pride in shipping. Much of your work will happen in
+  public: sending pull requests to upstream repositories,
+  working through external maintainer review cycles, and
+  participating in developer communities as MongoDB.
+
+  You'll work closest with the engineers sitting next to you,
+  pairing on hard problems, reviewing each other's code, and
+  dividing up a broad portfolio, with senior engineers and
+  your manager close at hand as you take on larger pieces of
+  it.
+
+  MongoDB engineering teams pride themselves on building high-
+  quality software and living our cultural values every day.
+  We value intellectual curiosity, intellectual honesty,
+  customer empathy, and building together in an environment
+  that prioritizes collaboration over competition.
+
+  We are looking to speak to candidates who are based in
+  Gurugram for our hybrid working model.
+
+  Position expectations
+
+  - Build, test, and ship MongoDB integrations across a broad AI
+    framework ecosystem that includes technologies like
+    LangChain, LangGraph, LlamaIndex, n8n, and Mastra
+  - Own well-scoped projects end to end on weekly-to-quarterly
+    timelines, taking responsibility for the scope, schedule,
+    and quality of your own work and communicating progress
+    and trade-offs clearly
+  - Solve day-to-day technical problems with growing
+    independence, using the team's established patterns and
+    past practice to guide your decisions, and seeking
+    guidance on non-standard problems
+  - Contribute to exploratory work on new frameworks: help
+    evaluate an integration's feasibility, build a first
+    working version of the piece you own, and share what you
+    learn with the team
+  - Contribute high-quality code upstream to repositories
+    MongoDB doesn't own, following the team's contribution
+    practices and maintaining a high standard of
+    professionalism and courtesy through external maintainer
+    review cycles
+  - Work within and improve the team's engineering practices:
+    CI/CD, automated testing across framework and server
+    versions, version compatibility checks, and release steps.
+    Suggest improvements where you see repeated friction
+  - Help keep the integrations you work on healthy: monitor for
+    upstream breaking changes, handle upgrades, triage
+    incoming issues, and follow through after release
+  - Coordinate with adjacent teams, including DBX, when your
+    work depends on driver, platform, or product capability,
+    and escalate cross-team dependencies and risks early
+    rather than working around them
+  - Collaborate with product management, product design, and
+    other partners to understand what users need from an
+    integration and how your work connects to the team's
+    objectives
+  - Write clear documentation, give useful code reviews, share
+    what you know with teammates, and follow through on your
+    commitments
+  - Develop specialized knowledge of the Python or TypeScript AI
+    builder ecosystems — frameworks, agent and retrieval
+    patterns, vector search — and bring interesting
+    developments back to the team
+
+  Qualifications
+
+  - 3+ years of experience building backend systems, libraries,
+    or other developer-facing software, with solid proficiency
+    in Python and/or TypeScript
+  - Experience designing, writing, testing, and debugging
+    software in a shared, long-lived code base, with an eye
+    for the tests and documentation that make it maintainable
+  - Track record of delivering scoped projects reliably and on
+    time, with growing independence and good judgment about
+    when to ask for help
+  - Demonstrated ability to work on several projects at once and
+    keep quality and commitments intact as priorities shift
+  - Clear interest in modern AI builder workflows and the
+    developer tooling landscape: AI frameworks, agentic
+    patterns, RAG and retrieval, embedding, or vector search
+  - Solid verbal and written technical communication, including
+    the ability to write things down clearly for teammates and
+    partners you won't always overlap with in real time
+  - Enjoys collaboration and being part of a close-knit team; is
+    approachable, curious, and intellectually honest
+  - Eager to learn, with a strong technical foundation and an
+    interest in deepening it
+
+  Nice to Have
+
+  - Open source contributions, especially any work that landed
+    in a repository you don't own
+  - Experience building AI or framework integrations, MCP
+    servers, agent skills, or plugins for agentic
+    applications, professionally or as side projects
+  - Familiarity with the agentic AI tooling ecosystem (AI IDEs,
+    CLIs, and assistants) and how developers integrate with it
+  - Experience with CI/CD and automated testing for libraries
+    that support multiple versions or platforms
+  - Experience working with databases; familiarity with MongoDB
+    query patterns
+  - Exposure to vector search, embedding pipelines, or index
+    management
+  - Working knowledge of Java, Go, C#, or Rust
+  - Experience with containerization tools (e.g. Docker,
+    Kubernetes) and with AI frameworks and libraries
+  - Familiarity with Jira and related tools
+
+  Success measures
+
+  - In the first month, you will understand the team's scope,
+    how our integrations are structured, where the relevant
+    repositories and pipelines live, and how we build, test,
+    and release. You'll have landed your first code
+    contribution and know who to ask when you're blocked
+  - In three months, you will be delivering scoped work on one
+    or more integrations with growing independence, will have
+    landed an upstream contribution, and will be comfortable
+    running the team's testing and release process for your
+    own changes
+  - In six months, you will own a well-defined area or project
+    end to end, deliver against quarterly objectives with
+    limited oversight, and have made at least one concrete
+    improvement to the quality or efficiency of how the team
+    works
+  - In twelve months, you will be a dependable owner of a piece
+    of the portfolio, will have delivered multiple meaningful
+    features or integrations, will be handling upstream and
+    customer issues in your area with confidence, and will be
+    helping teammates get up to speed on what you know best
+
+  About MongoDB
+
+  MongoDB is built for change, empowering our customers and
+  our people to innovate at the speed of the market. We have
+  redefined the data platform for the AI era, enabling
+  builders to create, transform, and disrupt industries with
+  software. MongoDB’s unified data platform, the most widely
+  available, globally distributed data platform on the market,
+  helps organizations modernize legacy workloads, embrace
+  innovation, and unleash AI. Our cloud-native platform,
+  MongoDB Atlas, is the only globally distributed, multi-cloud
+  data platform and is available across AWS, Google Cloud, and
+  Microsoft Azure.
+
+  With offices worldwide and over 67,000 customers, including
+  75% of the Fortune 100 and AI-native startups, relying on
+  MongoDB for their most important applications, we’re
+  powering the next era of software.
+
+  Our compass at MongoDB is our Leadership Commitment, guiding
+  how and why we make decisions, show up for each other, and
+  win. It’s what makes us MongoDB.
+
+  To drive the personal growth and business impact of our
+  employees, we’re committed to developing a supportive and
+  enriching culture for everyone. From employee affinity
+  groups, to fertility assistance and a generous parental
+  leave policy, we value our employees’ wellbeing and want to
+  support them along every step of their professional and
+  personal journeys. Learn more about what it’s like to work
+  at MongoDB, and help us make an impact on the world!
+
+  MongoDB is committed to providing any necessary
+  accommodations for individuals with disabilities within our
+  application and interview process. To request an
+  accommodation due to a disability, please inform your
+  recruiter.
+
+  MongoDB is an equal opportunities employer.
+
+  Req ID - 426377
+industries:
+  - Big Data
+  - Cloud
+  - Software
+  - Database
+posted_date: 2026-09-11
+url: "https://builtin.com/job/software-engineer-3-ai-framework-integrations/11130092"
+source: Built In

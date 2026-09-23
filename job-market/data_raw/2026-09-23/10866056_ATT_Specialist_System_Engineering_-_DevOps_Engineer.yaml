@@ -1,0 +1,299 @@
+job_id: 10866056
+title: "Specialist System Engineering - DevOps Engineer — AI & Pipeline Automation"
+company: "AT&T"
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 150,000 Employees
+description: |
+  Job Responsibilities
+
+  - Design, build, and maintain Azure DevOps CI/CD pipelines
+    that support 5G NF application deployment from lab
+    environments through production with repeatable, secure,
+    and automated promotion workflows.
+
+  - Develop AI-assisted pipeline automation capabilities that
+    use LLMs to analyze build failures, deployment issues,
+    pipeline health, and operational telemetry.
+
+  - Build and maintain MCP servers and AI-callable tool
+    integrations that expose Azure, Azure DevOps, Kubernetes,
+    repository, and deployment capabilities through controlled
+    automation interfaces.
+
+  - Create self-healing pipeline workflows that can detect
+    common failure patterns, trigger approved remediation
+    steps, and provide clear diagnostics, confidence levels,
+    and escalation paths.
+
+  - Partner with client project teams to understand delivery
+    requirements, architect CI/CD solutions, and implement
+    automation patterns aligned with enterprise DevOps
+    standards.
+
+  - Develop reusable YAML templates, pipeline components,
+    scripts, and automation libraries that standardize CI/CD
+    delivery across applications, environments, and teams.
+
+  - Integrate pipeline workflows with source control, artifact
+    repositories, approvals, environment gates, testing
+    frameworks, security checks, and release governance
+    processes.
+
+  - Support Kubernetes-based deployments by troubleshooting
+    deployment failures, configuration issues, container
+    readiness, service health, and environment-specific
+    pipeline behavior.
+
+  - Implement observability for CI/CD systems, including
+    pipeline metrics, logs, dashboards, alerts, failure trend
+    analysis, and continuous improvement feedback loops.
+
+  - Apply secure DevOps practices for secrets handling, access
+    control, policy enforcement, code review, vulnerability
+    checks, and audit-ready release execution.
+
+  - Create AI-assisted root-cause analysis tools and knowledge
+    workflows that help engineering teams quickly identify
+    probable causes and recommended next actions.
+
+  - Lead technical discussions, working sessions, demos, and
+    hands-on training to improve DevOps maturity and enable
+    client teams to adopt AI-enabled pipeline automation.
+
+  - Document architecture, operating procedures, automation
+    patterns, troubleshooting guides, and standards to ensure
+    consistent adoption and long-term maintainability.
+
+  - Continuously evaluate emerging DevOps, GenAI, LLM, and MCP
+    capabilities and recommend practical enhancements that
+    improve delivery speed, quality, reliability, and
+    operational efficiency.
+
+
+
+  Job Qualifications / Required Qualifications
+
+  Linux & Scripting Fundamentals
+
+  - Expert-level Linux experience with strong scripting skills
+    in Bash, Python, and/or PowerShell
+
+  - Proven ability to automate manual processes using scripting
+    languages and Infrastructure as Code (e.g., Ansible)
+
+  - Hands-on experience containerizing, deploying, debugging,
+    and maintaining applications
+
+
+
+  Azure DevOps & Pipeline Engineering
+
+  - Expert ability to build ADO Pipelines from the ground up
+    using YAML
+
+  - Proficiency with az cli commands within ADO Pipelines to
+    interact with Azure Resources
+
+  - Deep understanding of ADO Repos including branching,
+    tagging, and environment management strategies
+
+  - Working knowledge of ADO Agents – their purpose,
+    capabilities, and limitations
+
+  - Strong use of JSON and YAML as data formats across scripts,
+    Ansible playbooks, and pipelines
+
+
+
+  Azure Platform & Infrastructure
+
+  - Experience with Azure Container Registry (ACR) to import,
+    tag, and extract images and charts within pipelines
+
+  - Understanding of Azure Resource Manager, Endpoints, and
+    Service Principals
+
+  - Ability to build Azure Resources using Bicep and ARM
+    Templates with emphasis on parameterization
+
+  - Familiarity with Azure Key Vault (AKV) and Hashi Corp
+    Enterprise Vault (HCEV) for secrets management
+
+  - Experience with Azure Operator Service Manager (AOSM)
+
+
+
+  Kubernetes & Container Orchestration
+
+  - Hands-on experience deploying, managing, and debugging
+    workloads on Kubernetes (AKS preferred)
+
+  - Proficiency with kubectl for inspecting pods, logs, events,
+    and resource states during pipeline-triggered deployments
+
+  - Ability to diagnose and resolve common deployment failures
+    including CrashLoopBackOff, image pull errors, resource
+    quota issues, and failed health probes
+
+  - Experience integrating Kubernetes deployment steps into ADO
+    Pipelines including rollout strategies, namespace
+    management, and environment promotion
+
+  - Familiarity with Helm charts for packaging and deploying
+    applications through pipelines
+
+  - Understanding of Kubernetes RBAC, service accounts, and
+    their role in secure pipeline-based deployments
+
+
+
+  AI & LLM Integration
+
+  - Hands-on experience integrating Azure OpenAI or equivalent
+    LLM APIs into automation workflows
+
+  - Ability to design prompts for pipeline analysis, failure
+    summarization, and root-cause diagnosis
+
+  - Familiarity with agent-based AI patterns including
+    tool/function calling and Retrieval-Augmented Generation
+    (RAG)
+
+  - Experience designing and building custom MCP servers to
+    expose internal APIs and data as AI-callable tools
+
+
+
+  Pipeline Intelligence & Analysis
+
+  - Ability to leverage ADO REST APIs to surface pipeline health
+    metrics, flaky tests, and failure patterns
+
+  - Experience building AI-assisted workflows for root-cause
+    analysis against pipeline logs
+
+  - Capability to design self-healing pipeline logic - detect,
+    diagnose, remediate, and re-trigger
+
+
+
+  Communication & Collaboration
+
+  - Demonstrated ability to articulate complex technical
+    concepts, solutions, and standards to stakeholders across
+    varying skill levels - through both presentations and
+    discussions
+
+  - Collaborative approach to working across platform, security,
+    and application engineering teams
+
+
+
+  Preferred Qualifications
+
+  - Minimum bachelor’s degree in Computer Science, Electronics
+    and Communication, Engineering, Information Technology, or
+    a related technical discipline.
+
+  - Demonstrated experience building enterprise-grade Azure
+    DevOps pipeline automation using YAML, reusable templates,
+    environment gates, approvals, and automated release
+    promotion workflows.
+
+  - Hands-on experience integrating AI or LLM capabilities into
+    DevOps workflows for build failure analysis, pipeline
+    summarization, root-cause diagnosis, and recommended
+    remediation.
+
+  - Experience designing or operating MCP servers, AI-callable
+    tools, function-calling frameworks, or controlled
+    automation interfaces that interact with Azure, ADO,
+    repositories, Kubernetes, or internal APIs.
+
+  - Practical experience with self-healing or intelligent
+    automation that detects recurring failure patterns,
+    triggers approved remediation actions, and provides
+    diagnostics with clear escalation paths.
+
+  - Strong working knowledge of Kubernetes-based application
+    deployments, Helm charts, container registries, kubectl
+    troubleshooting, rollout strategies, and secure service
+    account/RBAC practices.
+
+  - Experience using Azure services such as Azure Container
+    Registry, Azure Key Vault, Service Principals, ARM/Bicep
+    templates, Azure CLI, and Azure Operator Service Manager
+    within automated delivery pipelines.
+
+  - Familiarity with observability and pipeline intelligence
+    practices, including pipeline health metrics, log
+    analysis, flaky test detection, dashboards, alerts, and
+    continuous improvement feedback loops.
+
+  - Exposure to GenAI patterns such as prompt engineering,
+    Retrieval-Augmented Generation, tool/function calling,
+    agentic workflows, and responsible use of AI guardrails in
+    automation scenarios.
+
+  - Ability to lead technical working sessions, document
+    standards and operating procedures, and train client or
+    engineering teams on AI-enabled DevOps pipeline
+    automation.
+
+  Nice to Have
+
+  - Experience with GitHub Copilot extensibility or custom AI
+    agents.
+
+  - Familiarity with vector databases and Azure AI Search for
+    embedding-based workflows.
+
+  - Prior work building AI-powered DevOps dashboards or
+    reporting tools.
+
+  - Experience with Kubernetes-native observability tools such
+    as Prometheus, Grafana, or Datadog.
+
+  Additional Job Information
+
+  This is an offshore role that requires daily collaboration
+  with U.S. stakeholders, including overlapping work hours to
+  ensure effective partnership and meet business needs.
+
+  Weekly Hours:
+
+  40
+
+  Time Type:
+
+  Regular
+
+  Location:
+
+  IND:KA:Bangalore / Intl Tech Park, Navigator Bldg,
+  Whitefield Road: Intl Tech Park, Navigator Bldg:Intl Tech
+  Park, Navigator Bldg
+
+  AT&T and its subsidiaries are committed to equal employment
+  opportunity. All hiring, promotion, and other employment
+  decisions remain merit-based and free from discrimination on
+  the basis of race, color, religion, religious creed,
+  national origin, ancestry, age, sex, sexual orientation,
+  gender, gender identity, gender expression, physical
+  disability, mental disability, pregnancy, medical condition,
+  genetic information, marital status, citizenship status,
+  military status, veteran status, or any other characteristic
+  protected by federal, state, or local laws. In addition,
+  AT&T will provide reasonable accommodations to qualified
+  individuals with disabilities. AT&T is a fair chance
+  employer and does not initiate a background check until an
+  offer is made. Click here to learn more or request an
+  application accommodation here.
+industries:
+  - Internet of Things
+  - Mobile
+  - Retail
+posted_date: 2026-08-27
+url: "https://builtin.com/job/sr-specialist-system-engineering-devops-engineer-ai-pipeline-automation/10866056"
+source: Built In

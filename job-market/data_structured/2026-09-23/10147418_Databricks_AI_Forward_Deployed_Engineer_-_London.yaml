@@ -1,0 +1,46 @@
+company:
+  name: Databricks
+  stage: null
+  focus: Data and AI platform for analytics and AI apps
+position:
+  title: AI Forward Deployed Engineer - London
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      FDE role that builds GenAI applications including RAG,
+      multi-agent systems, fine-tuning, and evaluation for
+      customers, directly shaping model behavior. Customer-facing
+      adaptation and deployment of AI solutions is ai-first per
+      edge cases.
+  responsibilities:
+  - Develop cutting-edge GenAI solutions for customer problems
+  - Own production rollouts of consumer and internally facing GenAI applications
+  - Serve as a trusted technical advisor to customers across domains
+  - Present at conferences and act as a thought leader
+  - Collaborate cross-functionally with product and engineering to shape the roadmap
+  use_cases:
+  - Customer GenAI application development and productionization
+  - RAG and multi-agent systems
+  - Text2SQL applications
+  - Model fine-tuning and evaluation
+  skills:
+    databases: []
+    domains: []
+    data: [Spark, Databricks]
+    web: []
+    ml: [Hugging Face, scikit-learn, PyTorch, Pandas, Machine Learning]
+    ops: [LLMOps]
+    other: []
+    cloud: [AWS, Azure, GCP]
+    languages: []
+    genai: [RAG, Multi-Agent Systems, Fine-Tuning, LangChain, DSPy, Text2SQL, LLM
+        Evaluation, Generative AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10147418'
+  location: London, GBR
+  remote: true
+  extracted_at: '2026-09-23T10:58:33.245646'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: SI HOUSE OF MODELS PRIVATE LIMITED
+  stage: Backed by Binny Bansal, past PMF scaling stage
+  focus: AI agents powering ecommerce operations
+position:
+  title: AI Workflow Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds node-based workflow automation (Make, n8n,
+      Zapier) that integrates with AI agents others build;
+      LLM/prompt work is only listed as bonus exposure and
+      collaboration with AI/ML engineers. The person does not
+      shape model behavior themselves, so it is ai-support.
+  responsibilities:
+  - Build node-based, rule-driven workflows supporting eCommerce operations and AI
+    agent interactions
+  - Develop modular, reusable workflow components composed into logic-driven flows
+  - Integrate workflows with APIs, data systems, and third-party services like Shopify,
+    Stripe, and Zapier
+  - Diagnose and fix bugs in live workflows and upgrade them for reliability, speed,
+    and cost
+  - Audit workflows regularly and flag fragile or failure-prone flows
+  - Maintain clear documentation for every workflow and set up admin interfaces and
+    audit tools
+  - Collaborate with AI/ML engineers to embed intelligence into workflow decision
+    points
+  - Own end-to-end delivery of key internal and external workflows such as onboarding,
+    content pipelines, and personalization loops
+  use_cases:
+  - eCommerce catalog management automation
+  - Creative and content pipelines
+  - Personalization loops
+  - Fulfillment system integration
+  - User onboarding workflow automation
+  skills:
+    genai: [LangChain, LLMs]
+    ml: []
+    web: [APIs, REST APIs, GraphQL]
+    databases: [PostgreSQL, Redis]
+    data: [Kafka, RabbitMQ, SQS]
+    cloud: []
+    ops: [Docker, Terraform, Monitoring, CI/CD]
+    languages: [JavaScript, TypeScript, Python]
+    domains: []
+    other: [Make, n8n, Zapier, Figma, Weavy, ComfyUI, State Machines, Rule Engines,
+      Event-Driven Architecture, Temporal, Camunda, Retool]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10850329'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:02:17.401237'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

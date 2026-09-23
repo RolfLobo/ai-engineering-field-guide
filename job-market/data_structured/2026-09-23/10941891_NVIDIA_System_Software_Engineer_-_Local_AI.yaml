@@ -1,0 +1,53 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU and AI computing hardware and software
+position:
+  title: System Software Engineer - Local AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role applies model optimization techniques
+      (quantization, pruning, sparsity, distillation) to model
+      internals and analyzes performance-accuracy trade-offs,
+      which is shaping model behaviour. LLMs and vision-language
+      models are explicit targets, so it classifies as ai-first.
+  responsibilities:
+  - Build and optimize the local AI inference stack for RTX, RTX Pro and DGX GPUs
+  - Architect and develop inference runtimes and execution stacks across LLM, vision-language,
+    TTS, ASR, and diffusion workloads
+  - Optimize AI models, data pipelines, and inference runtimes end-to-end for current
+    and next-gen GPU architectures
+  - Apply model optimization techniques such as quantization, pruning, sparsity, and
+    distillation for on-device deployment
+  - Perform system-level debugging and performance-accuracy trade-off analysis, driving
+    fixes
+  - Build infrastructure for performance and accuracy sweeps and establish engineering
+    guidelines for production readiness
+  - Partner with software, research, architecture, and product teams to grow the AI
+    ecosystem on RTX and DGX PCs
+  use_cases:
+  - On-device local AI inference on RTX and DGX-class PCs
+  - Low-latency, memory-efficient deployment of large models on edge devices
+  - LLM, vision-language, TTS, ASR, and diffusion workloads running locally
+  - Performance and accuracy optimization of inference runtimes across GPU architectures
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: [PyTorch, TensorRT, Llama.cpp, WinML, Quantization, Machine Learning, Deep
+        Learning, CUDA, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [vLLM, Model Deployment]
+    languages: [C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10941891'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:07:31.751247'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

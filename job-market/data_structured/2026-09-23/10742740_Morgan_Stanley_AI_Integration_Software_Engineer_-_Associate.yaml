@@ -1,0 +1,50 @@
+company:
+  name: Morgan Stanley
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: AI Integration Software Engineer - Associate
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops LLM-powered features including prompt
+      workflows, structured outputs, and RAG applications, which
+      is directly shaping model behaviour and output quality.
+      Backend/data work is present but the LLM feature development
+      makes it ai-first.
+  responsibilities:
+  - Design, build, and maintain backend services, REST APIs, and integrations using
+    Python (FastAPI, Flask, or Django)
+  - Build distributed services in a microservices architecture with token-based auth
+    and RBAC
+  - Integrate internal apps with third-party systems, external APIs, and Snowflake
+  - 'Develop LLM-powered features: model APIs, prompt workflows, structured outputs,
+    and RAG applications'
+  - Write clean, secure, well-tested code; participate in code reviews and CI/CD pipelines
+  - Troubleshoot application, integration, data, and production issues
+  - Collaborate with architects, engineers, data teams, product owners, and clients
+    on the Chat With Your Data (DaiZy) solution
+  use_cases:
+  - Chat With Your Data (DaiZy) conversational data analytics solution
+  - Enterprise AI solution integrations
+  - Data preparation for GenAI usage
+  - Retrieval-based (RAG) business applications
+  skills:
+    genai: [LLMs, Prompt Engineering, Structured Outputs, RAG, Generative AI]
+    ml: [Machine Learning]
+    web: [FastAPI, Flask, Django, REST APIs, Microservices]
+    databases: [Snowflake]
+    data: []
+    cloud: []
+    ops: [CI/CD, Git]
+    languages: [Python, Node.js, TypeScript]
+    domains: []
+    other: [Finance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10742740'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:00:47.548646'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

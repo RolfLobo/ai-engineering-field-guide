@@ -1,0 +1,145 @@
+job_id: 11017764
+title: Staff AI Engineer - Agentic Shopping
+company: Picnic Technologies
+location: Amsterdam, NLD
+work_type: FULL_TIME
+company_size: 4,979 Employees
+description: |
+  In a nutshell
+
+  Build the intelligence that helps households get the week
+  sorted
+
+  Agentic grocery assistance: Picnic brings together something
+  unusually powerful for an AI builder: a direct customer
+  relationship, a live grocery assortment and the operational
+  system that takes every order from intention to delivery.
+  That gives you the opportunity to build an assistant that
+  does more than talk; it can understand a household’s plans
+  and constraints, assemble a grounded basket, explain its
+  choices and learn from what customers accept or change. You
+  will decide where models, retrieval, ranking and
+  deterministic services add real value, balancing customer
+  control, correctness, latency, reliability and cost.
+
+  Technical leadership & vision: As a Staff AI Engineer, you
+  will be the hands-on technical lead for Agentic Shopping.
+  You will own technical direction, architecture and model-
+  strategy decisions; solve the hardest production challenges
+  yourself; and establish evaluation, observability, safety
+  and fallback patterns that other teams can reuse.
+
+  Tricks of the trade
+
+  - Build Picnic’s shopping assistant: Lead the technical
+    direction for agentic shopping experiences that help
+    millions of people plan and shop effortlessly.
+  - Technical leadership & architecture: Lead the system
+    architecture for multi-turn conversational agents,
+    balancing latency, safety guardrails, and inference costs.
+    Technically mentor engineers across the organization to
+    execute on building production-grade agentic systems.
+  - Rapid prototyping & productionization: Drive a fast-paced,
+    iterative engineering cadence. Build initial prototypes,
+    establish architectural patterns, and write production
+    code when necessary to unblock complex technical
+    challenges.
+  - Model fine-tuning & context engineering: Design and
+    implement systems architectures for multi-turn,
+    conversational agents using open-weight models and
+    techniques like fine-tuning, distillation, and RAG.
+  - Evaluation & safety feedback loops: Establish continuous
+    offline and online evaluation for mission completion,
+    basket correctness, customer effort, clarification
+    quality, acceptance and corrections, safety, reliability,
+    latency and cost.
+  - Cross-functional alignment: Collaborate with product,
+    design, and product teams to define technical trade-offs,
+    align on agent capabilities, and ensure a seamless, safe
+    user experience.
+
+  We’re looking for
+
+  - Proven track record of taking complex multi-turn
+    conversational AI systems from architectural design to
+    high-scale production.
+  - Experience training, fine-tuning, and optimizing open-weight
+    LLMs for production deployment.
+  - Hands-on expertise building production RAG systems, context
+    management, and state handling for multi-turn dialogues.
+  - Experience designing robust evaluation loops, continuous
+    monitoring systems, and automated safety/guardrail
+    mechanisms for customer-facing applications.
+  - Demonstrated ability to lead technical direction, perform
+    design reviews, and mentor engineering teams without
+    relying on hierarchy.
+  - Strong Python skills and demonstrated ability to choose and
+    productionize appropriate model, orchestration, retrieval,
+    evaluation and inference tooling. Experience with tools
+    such as PyTorch, LangGraph, vLLM, Pydantic AI, Qdrant or
+    DeepEval is useful, or similar framework tools is
+    required.
+
+  + Bonus points!
+
+  - Experience taking retrieval, ranking or recommendation
+    models from problem definition to measurable production
+    impact
+  - In-depth expertise in deep learning for sequence modelling,
+    representation learning, or retrieval and ranking
+  - A degree in Computer Science, AI (or a related field), a
+    PhD, open-source contributions, or peer-reviewed research
+    are considered strong pluses
+
+  Picnic Perks
+
+  🫱🏼‍🫲🏾 Teamwork makes the dream work
+
+  With more than 80 nationalities across 3 countries, you’ll
+  be part of a diverse company with plenty of cool stuff to
+  get involved with, from board game evenings to after-work
+  drinks to our company ski trip and more!
+
+  💡 Make a difference
+
+  You’ll work in an awesome startup environment with the
+  freedom to drive your own projects and create a visible
+  impact. Our fully electric vehicles and sustainable business
+  model mean you’ll also be contributing to making the world a
+  better place!
+
+  🥗 Fresh Lunch, coffee, and snacks
+
+  Our offices are equipped with fully-fledged coffee bars and
+  a kitchen and chefs. They prepare delicious fresh and warm
+  lunches every day so you can keep your energy up.
+
+  🚲 Health insurance discount & bike plan
+
+  We have a partnership with CZ (a health insurance provider).
+  Picnic employees get a discount on CZ insurance packages
+  between 5% and 15%. Furthermore, through our partnership
+  with Lease a Bike, you can rent-to-own a new (e)bike at a
+  discounted rate
+
+  🌎 Relocation
+
+  If you’re moving from another country to join Picnic we make
+  it as smooth as possible for you. We’ll cover your flight
+  costs for you and your partner and kids, your first month's
+  rent and moving costs (up to €2000), and help you with the
+  30% tax ruling setup and application.
+
+  📆 All the rest
+
+  At Picnic you get 25 holidays, we cover your travel expenses
+  and offer a pension plan. And your phone and laptop are on
+  us, as well.
+industries:
+  - eCommerce
+  - Food
+  - Information Technology
+  - Retail
+posted_date: 2026-09-04
+url: "https://builtin.com/job/staff-ai-engineer-agentic-shopping/11017764"
+source: Built In

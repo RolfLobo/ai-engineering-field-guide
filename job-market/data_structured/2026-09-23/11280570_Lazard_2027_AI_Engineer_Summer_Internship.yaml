@@ -1,0 +1,45 @@
+company:
+  name: Lazard
+  stage: null
+  focus: Financial advisory and asset management services
+position:
+  title: 2027 AI Engineer Summer Internship
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, prototypes, and deploys AI applications
+      using LLMs, agentic workflows, MCP agent development, and
+      RAG, which is directly shaping LLM/agent behavior. The
+      LLM/agent component makes it ai-first.
+  responsibilities:
+  - Design, prototype, test, and deploy AI-driven applications and data products
+  - Build solutions leveraging machine learning, NLP, and generative AI
+  - Develop agentic workflows and MCP-based agents
+  - Process unstructured data using NLP techniques such as RAG and entity recognition
+  - Collaborate with senior investment bankers and portfolio managers with rapid feedback
+    loops
+  - Iterate on solutions from concept through deployment and performance analysis
+  use_cases:
+  - Decision-making enhancement for Financial Advisory and Asset Management
+  - Client engagement support and strategic partnership strengthening
+  - Business process improvement through internal innovation
+  - Unstructured data processing for financial use cases
+  skills:
+    genai: [LLMs, Generative AI, Agentic Workflows, MCP, RAG]
+    ml: [Machine Learning]
+    web: [APIs, Microservices]
+    databases: [Relational Databases, NoSQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, CI/CD, Docker, Kubernetes]
+    languages: [Python]
+    domains: [NLP, Entity Recognition]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11280570'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:35:05.164029'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

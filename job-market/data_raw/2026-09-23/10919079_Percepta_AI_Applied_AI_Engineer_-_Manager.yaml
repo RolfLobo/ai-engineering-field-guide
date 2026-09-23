@@ -1,0 +1,220 @@
+job_id: 10919079
+title: Applied AI Engineer - Manager
+company: Percepta AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 3 Employees
+description: |
+  Who We Are
+
+  Percepta’s mission is to transform critical institutions
+  with applied AI. We care that industries that power the
+  world (e.g. healthcare, manufacturing, energy) benefit from
+  frontier technology.
+
+  To make that happen, we embed with industry-leading
+  customers to drive AI transformation. We bring together:
+
+  - Forward-deployed expertise in engineering, product, and
+    research
+  - Mosaic, our in-house toolkit for rapidly deploying agentic
+    workflows
+  - Strategic partnerships with Anthropic, McKinsey, AWS,
+    companies within the General Catalyst portfolio, and more
+
+  Our team is a quickly growing group of Applied AI Engineers,
+  Embedded Product Managers and Researchers motivated by
+  diffusing the promise of AI into improvements we can feel in
+  our day to day lives.
+
+  Percepta is a direct partnership with General Catalyst, a
+  global transformation and investment company.
+
+  About The Role
+
+  We're hiring a player-coach Engineering Manager to help us
+  grow our incredible engineers who are tackling our
+  customers’ hardest problems.
+
+  Our Applied AI Engineers embed directly with customer teams.
+  They own delivery, sit with operators and executives and
+  ship production AI systems into environments nobody would
+  describe as clean.
+
+  You will help scale the growth of our Applied AI engineers
+  by managing a small team (to start) of engineers across one
+  of our customer engagements. Your primary output is their
+  trajectory: What they can own in 6 months that they can't
+  own today.
+
+  Everyone at Percepta is a builder, and you'll still be
+  writing code. Expect to be in a codebase most weeks,
+  reviewing designs, pairing on the gnarly parts, and stepping
+  in directly when a launch is at risk. This isn't a coding-
+  optional role. It’s a player-coach role because we strongly
+  believe in staying close to the work. Your engineers are
+  making architecture calls inside unfamiliar enterprise
+  systems under real time pressure. It’s hard to do that from
+  the outside, so you will have to be able to dig into the
+  weeds when needed.
+
+  The balance shifts week to week. During a rollout you're
+  closer to the code. Between rollouts you're closer to your
+  people. Both are the job.
+
+  You'll partner with an Engagement Lead on customer strategy
+  and with Growth Leads on each engineer's development, so
+  you're not carrying the whole picture alone. You'll also be
+  one of the leading voices on what Mosaic should become,
+  because you'll be deeply embedded with the problems, and be
+  intimately familiar with where the pain points are.
+
+  What You'll Do
+
+  Grow engineers, deliberately. Have a real point of view on
+  where each person is today and where they could be in 6 to
+  12 months, then aim their work at the overlap between what
+  they're interested in, what they need to build, and what the
+  business actually needs. Stretch assignments should be work
+  that matters, not busywork dressed up as development.
+
+  Ramp people properly. Invest heavily up front: Learn about
+  your direct reports, their learning and working style, how
+  they operate, and how to best partner together. Get live
+  context on the customer and the industry, heavily pairing in
+  the first few weeks, co-attending every customer meeting for
+  the first two (shadow, reverse shadow, then they lead). We
+  want to make sure Percepta is the best place to work, and
+  that there is unprecedented opportunity to grow a career
+  here. Help your direct report learn their strengths, where
+  to focus, and how to succeed in the ambiguity that is a high
+  growth tech environment.
+
+  Give feedback in the moment. If a design approach is off or
+  code quality is slipping, say so immediately, specifically
+  and with respect. Bi-weekly 1:1s that go both directions. If
+  someone has five things to work on, sequence them over
+  months instead of dumping all five in one sitting.
+
+  Own the technical outcome. The buck stops with you across
+  every workstream on your team, including the ones you
+  delegated. Delegation is expected; abdication isn't. You
+  should have enough context to know something is off before
+  it becomes a crisis.
+
+  Make the hard technical calls. Be the final decision-maker
+  on the choices that are expensive to reverse, and be clear
+  when a decision has been made and who made it. Document the
+  why. Decide with incomplete information when that's what's
+  available, and say what you assumed.
+
+  Set the bar. Define your team's standards for code quality,
+  testing, review rigor, and documentation. Unstated standards
+  are just preferences people have to guess at. You don't need
+  to review every PR, but review enough to know what's
+  actually shipping.
+
+  Be credible with customers. You own the technical
+  relationship. That trust gets built through consistent
+  delivery and good questions, not through impressive decks.
+  When something breaks, you're the grounding presence in the
+  room.
+
+  Feed the field back into the product. Patterns you see on
+  the ground (what's breaking, what's asked for constantly,
+  what nobody touches) are signal. Surface them proactively
+  and push the reusable parts back into Mosaic so the next
+  deployment starts further along.
+
+  Hire. You'll interview, you'll help calibrate the loop, and
+  you'll shape who we bring in next.
+
+  What We're Looking For
+
+  - 7+ years building production software, with at least 2
+    leading or managing engineers. Titles don’t matter: TLs
+    who have been doing this work, please apply
+  - You still write code and you want to keep writing code.
+    Python and TypeScript specifically, since that's our stack
+    and our interview loop
+  - A track record you can point at: An engineer who got
+    noticeably better because of how you managed them. Be
+    specific about what changed
+  - Systems taste. You can explain why a design is shaped the
+    way it is, where it'll strain, and what you'd trade off.
+    Opinionated beats default
+  - Comfort operating in ambiguity, and the instinct to poke at
+    unfamiliar systems rather than wait to be shown around
+  - Real product empathy. You think about how people will
+    actually use the thing, what it costs them to adopt it,
+    and how to integrate without wrecking their workflow
+  - Fluency with LLMs as an engineering surface: Agents, tools,
+    context, evals, and the AI dev tooling your team uses
+    daily
+  - You can be direct with someone and have them come away
+    trusting you more. Candor and kindness aren't in tension
+    here
+  - Strong communication with non-technical stakeholders. Lead
+    with the answer, then the caveats
+
+  Nice To Have
+
+  - Managed a team through a production launch inside someone
+    else's enterprise environment
+  - Enterprise integration scar tissue (EHRs, ERPs, RCM, supply
+    chain, workforce systems)
+  - Domain depth in healthcare, energy, manufacturing, or
+    financial services
+  - Prior forward-deployed, consulting, or design partner work
+  - Built tooling or frameworks that multiple teams depended on
+  - Startup or founding engineer background
+
+  Location And Travel
+
+  New York based. Expect a couple of days a month on site with
+  a customer, more when a deployment needs it or when someone
+  on your team needs you in the room. We'd rather commit to
+  that number and occasionally exceed it than advertise
+  "minimal travel" and surprise you.
+
+  We’re working against an incredibly ambitious mission. It
+  won’t be easy, but it will likely be the most fulfilling
+  work of your career. If this excites you, let's chat, even
+  if you don't meet all of the qualifications above.
+
+  Our Values
+
+  Dream bigger: We have the unique privilege of taking on the
+  most ambitious problems and we should chase them with
+  optimism, responsibility, and genuine belief that we can
+  make it happen. We have to embrace the hard things when no
+  one else will. Heart in the game: What we're doing matters
+  and we have to give a shit. Internally, that means fixing
+  badness when you find it. Externally, it means honoring the
+  trust our customers place in us with their most important
+  problems. This isn’t a 9-5, nor is it a job we’re ever going
+  to monitor your hours. We promise to put work in front of
+  you that matters and in return, we ask you to promise to
+  care. Win for the customer: Everyone is an engineer and the
+  job of an engineer is to deliver outcomes, not outputs.
+  Everything we do—the products we build, the partnerships we
+  launch, the strategy we set—exists to make our customers
+  successful. Delivery is the strategy. Make the call:
+  Organizations are only as strong as the pace at which they
+  make decisions. Everyone at Percepta should feel empowered
+  to commit and shape the ambiguity in front of them. But
+  "make the call" cuts both ways: make the decision and make
+  the phone call. High-agency decision-making only works with
+  high-bandwidth communication and we commit to never operate
+  in silos. Intensity with kindness: We believe in excellence
+  in execution, candor in feedback, ruthlessness in
+  prioritization, and survivalist urgency. We also believe you
+  don't need to be an asshole to deliver on any of this. The
+  trust built through shared kindness and vulnerability is
+  what makes the intensity sustainable.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-08-28
+url: "https://builtin.com/job/applied-ai-engineer-manager/10919079"
+source: Built In

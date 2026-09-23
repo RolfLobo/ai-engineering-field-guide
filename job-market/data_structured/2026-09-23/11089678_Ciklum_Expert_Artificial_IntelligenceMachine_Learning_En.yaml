@@ -1,0 +1,47 @@
+company:
+  name: Ciklum
+  stage: null
+  focus: Custom product engineering for enterprises and startups
+position:
+  title: Expert Artificial Intelligence/Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-powered agents, RAG, and tool-use
+      workflows, and writes LLM evals and guardrails — directly
+      shaping model behavior, with LLMs involved, so it is ai-
+      first.
+  responsibilities:
+  - Build and ship LLM-powered agents and workflows using platform templates, pipelines,
+    and guardrails
+  - Write and run evals for all built systems; ensure nothing ships without passing
+    its suite
+  - Integrate with company systems and data sources
+  - Instrument systems for cost and quality telemetry
+  - Pair with business users to iterate quickly within bounded scopes
+  use_cases:
+  - LLM-powered agents and workflows for business use cases
+  - Retrieval-based assistants over company data sources
+  - Production AI systems with quality and cost telemetry
+  - Integration of AI workflows into enterprise systems
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, RAG, Function Calling, Prompt Engineering,
+      Context Engineering, LLM Evaluation, Guardrails, Retrieval]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11089678'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:47.907517'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,48 @@
+company:
+  name: G2i
+  stage: null
+  focus: Talent marketplace hiring engineers for AI evaluation
+position:
+  title: Staff Software Engineer, AI Code Review - Python, Go, Rust, C#
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role judges the quality of LLM coding agent outputs
+      (Codex, Claude Code) and feeds opinionated evaluation
+      feedback, which is shaping model behaviour per the judging-
+      output rule. LLM/agent targets make it ai-first.
+  responsibilities:
+  - Evaluate AI-generated coding interactions end-to-end for usefulness, correctness,
+    and engineering judgment
+  - Assess the quality of explanations and reasoning, not just code
+  - Distinguish between levels of response quality on a rating scale
+  - Provide clear, opinionated feedback on what worked, what didn't, and what felt
+    off
+  - Help define standards for what great interactions with AI coding tools look like
+  - Make subjective but rigorous judgments on how coding agents behave in real-world
+    scenarios
+  use_cases:
+  - Evaluating quality of AI coding agent interactions
+  - Rating usefulness and correctness of model-generated code explanations
+  - Defining standards for AI-assisted developer workflows
+  - Providing preference feedback on coding agent behavior
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: []
+    ops: []
+    other: []
+    cloud: []
+    languages: [TypeScript, JavaScript, Python]
+    genai: [Codex, Claude Code, Cursor, LLM Evaluation, Prompt Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10853991'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:02:54.584088'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

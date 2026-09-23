@@ -1,0 +1,54 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions for the data economy
+position:
+  title: SR AI ENGINEER, SMAI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack enterprise application engineer who
+      integrates Generative AI and ML capabilities into business
+      solutions using external AI services. The responsibilities
+      show no evidence of the person shaping model behaviour
+      themselves (no prompt design, retrieval, agent flows, or
+      training described), only familiarity-level AI integration
+      via services like OpenAI and Azure AI. Per the rules,
+      consuming AI APIs another team designed makes this ai-
+      support.
+  responsibilities:
+  - Design and develop AI-powered, cloud-enabled, full-stack enterprise applications
+  - Integrate Generative AI, machine learning, and intelligent automation capabilities
+    into business solutions
+  - Build responsive user interfaces using Angular, JavaScript, HTML5, and CSS
+  - Develop secure and scalable backend services, APIs, and microservices using .NET
+  - Implement DevOps practices including CI/CD, automated testing, monitoring, and
+    deployment automation
+  - Collaborate with business stakeholders on automation and process improvement opportunities
+  - Analyze application performance and system health to improve scalability and reliability
+  - Mentor team members and promote engineering excellence
+  use_cases:
+  - Manufacturing efficiency and productivity solutions
+  - Quality improvement in semiconductor manufacturing
+  - Intelligent automation of business processes
+  - Enterprise application modernization and digital transformation
+  skills:
+    databases: [SQL, NoSQL, SQL Server, Cosmos DB, MongoDB]
+    domains: [Semiconductor Manufacturing]
+    data: [Data Pipelines, NiFi, SSIS]
+    web: [Angular, JavaScript, TypeScript, HTML, CSS, Bootstrap, Material Design,
+      Web APIs, Microservices]
+    ml: [Machine Learning]
+    ops: [DevOps, CI/CD, Docker, Kubernetes]
+    other: []
+    cloud: [Azure, Azure AI Foundry, GCP]
+    languages: [C#, .NET]
+    genai: [Generative AI, LLMs, Agentic Workflows, MCP, OpenAI API]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11057604'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:15:30.134985'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

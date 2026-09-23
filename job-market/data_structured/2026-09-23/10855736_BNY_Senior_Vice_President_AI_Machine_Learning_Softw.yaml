@@ -1,0 +1,62 @@
+company:
+  name: BNY
+  stage: null
+  focus: Global financial services and asset management
+position:
+  title: Senior Vice President, AI / Machine Learning Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly designs agentic AI systems, RAG
+      infrastructure, prompt engineering patterns, and evaluation
+      frameworks for LLMs, which is shaping model behavior and
+      output quality. With LLM/agent components central, it is ai-
+      first. It is also management (leads 4-8 engineers with
+      direct reports).
+  responsibilities:
+  - Architect agentic AI systems with multi-agent orchestration, tool-use patterns,
+    and planning/reasoning loops
+  - Design and evolve RAG infrastructure including chunking, embedding pipelines,
+    retrieval ranking, and context optimization
+  - Own the AI pipeline orchestration framework including memory stores and content
+    policy enforcement
+  - Develop evaluation frameworks for retrieval precision/recall, extraction accuracy,
+    and hallucination detection
+  - Lead, mentor, and grow a team of 4-8 engineers and directly manage a VP-level
+    AI engineer
+  - Implement core agentic components such as agent loops, tool registries, and memory
+    persistence
+  - Contribute to Java/Spring Boot platform services and Python/FastAPI AI service
+    layer
+  - Own CI/CD pipelines, observability, and schema/data store management for AI systems
+  use_cases:
+  - Autonomous extraction, validation, and reasoning over complex unstructured financial
+    documents
+  - Document intelligence with OCR and structured extraction from unstructured text
+  - Knowledge graph construction from unstructured documents with graph-based retrieval
+  - AI-assisted developer tooling for code generation and automated test generation
+  - Production AI pipelines supporting financial operations with measurable quality
+    gates
+  skills:
+    databases: [Vector Databases, FAISS, Pinecone, Weaviate, Oracle, PostgreSQL]
+    domains: []
+    data: [OCR]
+    web: [FastAPI, Spring Boot, Microservices, Angular, APIs, D3.js, Event-Driven
+        Architecture]
+    ml: [NLP, Model Evaluation, Hugging Face]
+    ops: [CI/CD, Docker, GitLab CI, Artifactory, Observability]
+    other: [Resilience4j, Hazelcast, A/B Testing]
+    cloud: [Azure]
+    languages: [Python, Java, TypeScript, Pydantic, Poetry, pytest, Maven]
+    genai: [LLMs, Prompt Engineering, RAG, AI Agents, Multi-Agent Systems, Agentic
+        Workflows, ReAct, Function Calling, Embeddings, Semantic Search, Guardrails,
+      LangChain, CrewAI, LoRA, RLHF, Fine-Tuning, Knowledge Graphs, Graph RAG, Azure
+        OpenAI, OpenAI API, GPT-4o, sentence-transformers]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10855736'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:03:23.153997'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

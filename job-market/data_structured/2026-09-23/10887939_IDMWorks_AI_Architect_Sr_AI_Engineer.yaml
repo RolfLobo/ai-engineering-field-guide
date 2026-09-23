@@ -1,0 +1,54 @@
+company:
+  name: IDMWorks
+  stage: null
+  focus: Identity and access management solutions and services
+position:
+  title: AI Architect / Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys multi-model LLM orchestration
+      pipelines (LiteLLM routing, fallback strategies) and
+      integrates Claude/Anthropic APIs to drive agentic workflows,
+      directly shaping LLM behavior and integration into products.
+      This is clearly shaping LLM-based systems, so it is ai-
+      first.
+  responsibilities:
+  - Design, deploy, and maintain multi-model LLM pipelines using LiteLLM for routing,
+    load balancing, cost tracking, and fallback strategies
+  - Integrate Anthropic Claude models directly into core products for reasoning, text
+    generation, and agentic workflows
+  - Build robust, secure, and scalable RESTful APIs and backend services using Django
+    and Python
+  - Develop and integrate user-facing features using JavaScript for AI-driven user
+    experiences
+  - Write modular Python scripts for data processing, workflow automation, and tool
+    execution
+  - Establish and automate CI/CD deployment pipelines for continuous testing and rapid
+    iteration
+  use_cases:
+  - Multi-model LLM orchestration with routing and fallback strategies
+  - Advanced reasoning and text generation via Claude integration
+  - Agentic workflows in production web applications
+  - AI-driven identity and access management platform features
+  - Workflow automation and data processing
+  skills:
+    genai: [LLMs, LiteLLM, Anthropic API, Agentic Workflows, RAG]
+    ml: []
+    web: [Django, Django REST Framework, REST APIs]
+    databases: [Vector Databases, Pinecone, Qdrant, Chroma]
+    data: []
+    cloud: []
+    ops: [CI/CD, GitHub Actions, GitLab CI, Jenkins, Git, Docker, Kubernetes]
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10887939'
+  location: Pune, IND
+  remote: true
+  extracted_at: '2026-09-23T11:05:07.901109'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

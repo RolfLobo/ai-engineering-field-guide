@@ -1,0 +1,45 @@
+company:
+  name: Ergodic AI
+  stage: null
+  focus: Action-oriented AI platform for enterprise decision-making
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic systems and foundational layers for
+      how AI models interact with data, plus custom models and
+      reinforcement learning - shaping LLM/agent behavior. Mixed
+      LLM and RL work with an agent component classifies as ai-
+      first.
+  responsibilities:
+  - Build the foundational layer for how AI models interact with various data modalities
+  - Build agentic systems on top of the foundational layer
+  - Develop custom-made models for specialised tasks
+  - Implement reinforcement learning and active inference solutions
+  - Contribute to architecture and data model design as an early-stage hire
+  use_cases:
+  - Action-oriented AI platform surfacing optimal enterprise actions from data
+  - Context identification and justification of recommended actions
+  - Agentic systems over multi-modal enterprise data
+  - Reinforcement learning and active inference for specialised tasks
+  skills:
+    genai: []
+    ml: [Machine Learning, Reinforcement Learning]
+    web: [FastAPI, React, Next.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Automated Testing, Infrastructure as Code]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10949758'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:08:51.368811'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

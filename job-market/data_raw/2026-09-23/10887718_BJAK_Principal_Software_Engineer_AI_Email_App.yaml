@@ -1,0 +1,125 @@
+job_id: 10887718
+title: Principal Software Engineer, AI Email App
+company: BJAK
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About the Role
+
+  There are over 5 billion users using basic applications
+  today such email, notes, tasks, calendar and they're not AI-
+  native. Our mission is to build proactive applications for
+  anyone in the world, who are not used to complex prompting.
+  We aim to bring intelligence to conversations, errands,
+  organising and workflows, with minimal to no prompting.
+
+  Our product focuses on achieving high reliability for long-
+  running workflows, persistent context, and real-world task
+  completion. We believe products will greatly reduce
+  hallucinations
+
+  Our objective is to organise anyone's life, allowing us all
+  to spend time on valuable and meaningful things
+
+  As Principal Software Engineer, AI Email App, you own the
+  engineering layer that turns AI capability into a reliable
+  product. You will shape the architecture across backend
+  services, APIs, and client applications, while leading a
+  small team of senior engineers.
+
+  This is a hands-on leadership role. You stay close to the
+  code, make critical architectural decisions, and ensure the
+  system remains fast, reliable, and coherent as it scales.
+
+
+
+  What You'll Own
+
+  - Own the application engineering strategy and execution
+    across backend, mobile, and desktop.
+  - Design reliable systems for AI-powered workflows, including
+    state, orchestration, tool use, retries, fallbacks, and
+    failure handling.
+  - Build the APIs and abstractions that connect AI systems to
+    real-world product experiences.
+  - Lead a small, senior engineering team and raise the
+    technical bar through design reviews, code reviews, and
+    hands-on mentorship.
+  - Make high-impact trade-offs across latency, reliability,
+    cost, security, and user experience.
+  - Establish strong production foundations: observability,
+    monitoring, testing, and operational excellence.
+  - Partner closely with ML leadership to turn model
+    capabilities into robust, shippable product experiences.
+  - Move quickly while keeping the architecture simple,
+    maintainable, and ready to scale.
+
+
+
+  What We're Looking For
+
+  - Significant experience leading application or product
+    engineering for complex systems.
+  - Strong hands-on background building and shipping backend
+    systems used in production.
+  - Experience building AI-powered products or systems that
+    integrate with modern ML/LLM capabilities.
+  - Strong technical judgment and the ability to make decisions
+    with incomplete information.
+  - Comfortable working across backend and client platforms,
+    with deep expertise in at least one.
+  - A strong bias toward ownership, shipping, and learning from
+    real-world usage.
+  - High standards for code quality, reliability, and
+    engineering fundamentals.
+
+
+
+  Outcomes
+
+  - Production systems are observable, monitored, and stable
+    under real-world load.
+  - Decisions consistently balance speed, cost, reliability, and
+    user experience.
+  - Features across backend, mobile, and desktop work smoothly
+    and reliably.
+  - Latency and reliability improve measurably over time.
+
+
+
+  How We Work
+
+  We are a small, high-talent-density, hands-on team.
+  Engineers have broad ownership and are expected to exercise
+  strong judgment and execute independently.
+
+  We make decisions quickly, work closely together, and
+  balance speed with engineering fundamentals. We care less
+  about process and more about building something exceptional.
+
+
+
+  Interview process
+
+  If there appears to be a fit, we'll reach to schedule 3, but
+  no more than 4 interviews.
+
+  Applications are evaluated by our technical team members.
+  Interviews will be conducted via virtual meetings and/or
+  onsite.
+
+  We value transparency and efficiency, so expect a prompt
+  decision. If you've demonstrated the exceptional skills and
+  mindset we're looking for, we'll extend an offer to join us.
+  This isn't just a job offer; it's an invitation to be part
+  of a team that's bringing AI to have practical benefits to
+  billions globally.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-27
+url: "https://www.builtinla.com/job/principal-software-engineer-ai-email-app/10887718"
+source: Built In

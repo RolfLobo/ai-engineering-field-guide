@@ -1,0 +1,50 @@
+company:
+  name: Atlantic and FoodLabs
+  stage: pre-seed
+  focus: Efficiency layer reducing AI inference token costs
+position:
+  title: Founding AI Engineer @ Embedded AI Efficiency Layer, Berlin
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM system behaviour directly: building
+      context selection/compression, model routing, token
+      reduction, and cost-quality evaluations for an AI efficiency
+      product. LLMs are the target, so ai-first despite heavy
+      infra work.
+  responsibilities:
+  - Research and productionise systems for AI cost efficiency, context optimisation
+    and token reduction
+  - Build context selection, compression, caching, model routing, tool-call reduction,
+    retry control and output budgets
+  - Develop APIs, an OpenAI-compatible gateway and integrations with model providers
+    and enterprise AI applications
+  - Create reproducible cost-quality evaluations, regression tests and quality gates
+  - Own production reliability including monitoring, deployments, incidents and latency
+  - Build secure enterprise infrastructure with tenant isolation and access controls
+  - Optimise distributed-system performance across throughput, caching and rate limits
+  - Translate early customer requirements into reliable product capabilities
+  use_cases:
+  - Reducing LLM inference cost and token usage for production AI applications
+  - Context compression and optimisation for AI interactions
+  - AI gateway routing requests across model providers
+  - Cost-quality evaluation and regression testing for enterprise AI
+  skills:
+    genai: [LLMs, OpenAI API, Prompt Engineering, LLM Evaluation, Model Routing]
+    ml: []
+    web: [APIs]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [Docker, Kubernetes, vLLM, LiteLLM]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10873486'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:04:20.307616'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

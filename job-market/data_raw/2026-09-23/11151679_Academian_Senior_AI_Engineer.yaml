@@ -1,0 +1,176 @@
+job_id: 11151679
+title: Senior AI Engineer
+company: Academian
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 658 Employees
+description: |
+  Position: Senior AI Engineer
+
+  Experience Required: 4+ Years
+
+  Company: Academian (EdTech Domain)
+
+  Work Location: Pune
+
+  Role Overview
+
+  We are seeking an experienced Senior AI Engineer to
+  spearhead the development and deployment of cutting-edge AI
+  solutions. The ideal candidate will have strong foundations
+  in AI algorithms, hands-on expertise with machine learning
+  and deep learning frameworks, and a forward-thinking
+  approach to leveraging emerging AI technologies like Agentic
+  AI, RAG, LangGraph, LangChain, Graph Databases, and open-
+  source LLMs.
+
+  This role involves designing and implementing advanced AI
+  capabilities, building real-time data pipelines, integrating
+  with modern cloud AI platforms, and mentoring junior
+  engineers to deliver scalable, efficient, and impactful AI
+  products aligned with the EdTech domain.
+
+  Key Responsibilities
+
+  - AI Model Development:
+    - Design, train, and deploy AI models for diverse use cases in
+      Computer Vision, NLP, and Generative AI.
+    - Fine-tune and deploy open-source large language models
+      (LLMs) and private models for EdTech applications.
+    - Implement RAG (Retrieval-Augmented Generation) systems
+      combining retrieval with generative models.
+    - Leverage LangGraph and LangChain for orchestration, multi-
+      step workflows, and stateful agent design.
+  - Data Engineering & Integration:
+    - Develop and integrate real-time data pipelines and event-
+      driven architectures using Kafka, Spark, or PySpark.
+    - Build secure, scalable, and cloud-native AI solutions using
+      AWS Bedrock, SageMaker, Google Vertex AI, Azure ML
+      (AML), Azure AKS, and related services.
+    - Implement MLOps/LLMOps pipelines for efficient deployment,
+      monitoring, and scaling of AI models.
+  - AI Infrastructure & Tools:
+    - Work with modern AI toolkits and frameworks such as Hugging
+      Face Transformers, MLflow, and Databricks.
+    - Develop prompt engineering strategies and optimize LLMs for
+      improved accuracy and relevance.
+    - Contribute to internal AI frameworks and toolkits for
+      accelerated adoption across teams.
+  - Leadership:
+    - Mentor and guide junior engineers, fostering innovation and
+      skill development.
+    - Collaborate with cross-functional teams to align AI
+      strategies with business goals.
+    - Promote best practices in coding, testing, documentation,
+      and model lifecycle management.
+
+  Requirements
+
+  - Experience:
+    - 3+ years in AI/ML system development and deployment in
+      production environments.
+    - Proven track record of designing AI systems in cloud
+      environments and working with data-intensive pipelines.
+  - Technical Skills:
+    - Strong Python proficiency (async programming, multi-step
+      workflows).
+    - Expertise in machine learning and deep learning frameworks:
+      TensorFlow, PyTorch, Scikit-learn.
+    - Proficiency with tools like Hugging Face, LangChain,
+      LangGraph, OpenAI API, and Bedrock API.
+    - Hands-on experience with ETL/ELT workflows, data
+      transformations, and SQL (data modeling, normalization,
+      optimization).
+    - Knowledge of RAG architectures, Graph Databases, and MCP
+      (Model Context Protocol).
+    - Familiarity with CI/CD pipelines, containerization (Docker,
+      Kubernetes), and cloud AI platforms (AWS, GCP, Azure).
+  - Domain Knowledge:
+    - Understanding of EdTech standards like LTI, xAPI, QTI, and
+      SCORM.
+    - Familiarity with adaptive learning systems and educational
+      content pipelines.
+    - Knowledge of workflows in K-12, higher education, and
+      corporate learning environments is a strong plus.
+  - Soft Skills:
+    - Exceptional leadership and team mentoring abilities.
+    - Strong problem-solving skills and excellent communication
+      for technical and non-technical stakeholders.
+  - Education:
+    - Bachelor’s or Master’s degree in Computer Science, AI, Data
+      Science, or related fields.
+
+  Why Join Us
+
+  - Opportunity to lead AI initiatives that shape the future of
+    education technology.
+  - Work in a collaborative, mission-driven environment with a
+    focus on innovation.
+  - Engage with impactful projects and cutting-edge AI
+    technologies.
+  - Competitive salary, benefits, and opportunities for
+    professional growth.
+
+  Employee Benefits
+
+  - Health Insurance: Employee + Spouse + Two Children + Parents
+  - GPA Coverage for Employee
+  - Hybrid Work Model
+  - Compliance: PF and Gratuity
+
+  About Academian
+
+  Website: www.academian.com
+
+  Academian is a carve-out of an existing 22-year IT company –
+  Intraedge Inc (www.intraedge.com)
+
+  Academian is a service, product, and learning development
+  company in the education domain with a current headcount of
+  500+ team members. We are rapidly becoming a leading force
+  in the education technology space.
+
+  We specialize in delivering innovative services, products,
+  and learning development solutions tailored for the
+  education sector. Our expertise spans across K-12, higher
+  education, professional institutions, publishers, online
+  program managers (OPMs), and corporate learning
+  environments.
+
+  At Academian, we combine deep industry knowledge with a
+  product-oriented design approach, enabling us to craft high-
+  impact learning experiences and technology solutions. From
+  content development and media production to strategic
+  staffing and custom software development, we support every
+  phase of the educational lifecycle.
+
+  Our Specialties Include:
+
+  • EdTech Solutions: LMS, CMS, Custom Software, Cloud
+  Architecture
+
+  • Digital Learning: Content Design, Learning Experience
+  Design, Accessibility, Media Development
+
+  • Education Services: K-12, Higher Education, Workforce
+  Development, Publishing & Prepress
+
+  • Strategic Services: Product Management, Strategic
+  Consulting, Technology & Digital Transformation, Staffing.
+
+  We’re passionate about shaping the future of learning—and
+  we’re looking for talented, mission-driven individuals to
+  grow with us. Join our team and be part of building
+  meaningful solutions that make a real impact in education.
+
+  We deliver innovative EdTech solutions and craft custom
+  eLearning experiences. Drive digital transformation
+
+  with our advanced technology & DEIB commitment.
+industries:
+  - Edtech
+  - Software
+  - Consulting
+posted_date: 2026-09-12
+url: "https://builtin.com/job/senior-ai-engineer/11151679"
+source: Built In

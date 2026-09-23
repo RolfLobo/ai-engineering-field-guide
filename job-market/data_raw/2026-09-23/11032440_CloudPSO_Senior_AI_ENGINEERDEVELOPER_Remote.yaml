@@ -1,0 +1,195 @@
+job_id: 11032440
+title: Senior AI ENGINEER/DEVELOPER (Remote)
+company: CloudPSO
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  This is a remote position.
+
+
+
+
+
+
+
+
+   Job timings:  Mon - Fri US EST Time zone
+
+  Job Location: Pakistan (Remote)
+
+  Experience:   5+ years
+
+
+
+
+
+
+
+
+   PRODUCT CONTEXT
+
+
+
+
+
+
+
+
+
+      CloudPSO's first standardized AI Agent product enables
+  enterprises to deploy intelligent voice assistants for
+  customer support, sales, and internal operations. Its core
+  capabilities include:
+
+
+
+
+
+  - Speech-to-Text (STT): Real-time voice transcription.
+  - Natural Language Understanding (NLU): Intent recognition,
+    context awareness, and conversation control.
+  - Text-to-Speech (TTS): Natural, human-like voice responses.
+  - Enterprise Platform: Cloud-native deployment with
+    scalability, low latency, security, observability, and
+    enterprise-grade reliability.
+
+
+
+      We are looking for an experienced AI Engineer /
+  Developer to join our product development team and drive the
+  AI capabilities of this platform.
+
+
+
+
+
+
+
+
+
+
+   ROLE OVERVIEW
+
+
+
+
+
+
+
+
+
+      The AI Engineer will be responsible for designing,
+  training, deploying, and optimizing AI/ML models that power
+  the Voice Agent platform. This role spans the full AI
+  lifecycle—from research and experimentation to production
+  deployment and monitoring. The ideal candidate has deep
+  expertise in speech and NLP technologies, strong engineering
+  practices, and the ability to collaborate across backend,
+  frontend, and infrastructure teams. Frontend development
+  skills are mandatory, as this role includes building
+  prototypes, dashboards, and internal demos.
+
+
+
+
+
+
+
+
+
+
+   KEY RESPONSIBILITIES
+
+
+
+
+  - Model Development: Design, train, and fine-tune models and
+    pipelines for STT, NLU, and TTS use cases.
+  - MLOps: Build and maintain MLOps pipelines for model
+    deployment, monitoring, and retraining.
+  - API Development: Develop APIs and services that expose AI
+    capabilities to backend and frontend systems.
+  - Performance Optimization: Collaborate with backend engineers
+    to optimize inference performance and end-to-end latency.
+  - Frontend Prototyping: Create frontend prototypes,
+    dashboards, and demonstrations using a modern frontend
+    framework.
+  - Research & Experimentation: Conduct research and controlled
+    experiments to improve model accuracy, quality, and
+    performance.
+  - Vendor Evaluation: Evaluate external models and providers
+    against product requirements and measurable benchmarks.
+  - Documentation: Document model architectures, experiments,
+    evaluation results, and deployment processes.
+  - Code Quality: Participate in code reviews and maintain high
+    engineering and reproducibility standards.
+
+
+    Requirements
+
+
+
+
+
+
+   PREFERRED SKILLS
+
+
+
+
+  - Experience with real-time streaming using WebSocket or
+    WebRTC.
+  - Knowledge of model quantization, pruning, and inference
+    optimization.
+  - Familiarity with SIP, WebRTC, or PSTN integration.
+  - Open-source contributions or research publications in AI,
+    speech, or voice domains.
+
+
+
+   REQUIRED QUALIFICATIONS
+
+
+
+
+  - Experience: 7–9 years of AI/ML development experience.
+  - Programming: Strong Python expertise with experience in
+    PyTorch, TensorFlow, Hugging Face, or equivalent
+    frameworks.
+  - Speech & NLP: Hands-on experience with speech/audio
+    processing and natural language processing techniques.
+  - Model Deployment: Hands-on deployment experience using ONNX,
+    TensorRT, Triton, or equivalent tooling.
+  - Frontend (Mandatory): Experience with React, Vue.js, or
+    Angular.
+  - Cloud AI Platforms: Experience with AWS SageMaker, GCP
+    Vertex AI, Azure ML, or an equivalent cloud AI platform.
+  - Containerization: Knowledge of Docker and Kubernetes.
+  - Version Control & CI/CD: Experience with Git and continuous
+    integration and delivery pipelines.
+  - Analytical Skills: Strong analytical and problem-solving
+    skills.
+
+
+    Benefits
+
+
+
+  - Medical insurance
+  - Company gadgets
+  - Paid time off
+  - Stock options (ESOP)
+  - Competitive salary and benefits package.
+  - Opportunities for professional development and growth.
+  - Collaborative and innovative work environment.
+  - Chance to work on cutting-edge cloud projects.
+  - Supportive and inclusive company culture
+industries:
+  - Cloud
+  - Information Technology
+  - Professional Services
+  - Software
+posted_date: 2026-09-05
+url: "https://www.builtinla.com/job/sr-ai-engineer-developer-remote/11032440"
+source: Built In

@@ -1,0 +1,59 @@
+company:
+  name: Ubego
+  stage: null
+  focus: Platform for creating real-life quests, excursions and games
+position:
+  title: Part-time Team Lead Python AI content creation automation developer | Side-job
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and orchestrates AI agents (LangChain,
+      CrewAI, AutoGen, LangGraph) and builds an AI-driven pipeline
+      for LLM-generated quest content, directly shaping agent
+      workflows and validating LLM output quality. This is
+      LLM/agent shaping work, not merely using AI coding
+      assistants.
+  responsibilities:
+  - Act as Team Leader for an AI-driven workflow by orchestrating and reviewing AI
+    agents' work
+  - Define technical specifications for AI agents and validate their generated code
+  - Lead development of an AI pipeline for automatic creation, processing, and publication
+    of quests
+  - Integrate AI frameworks such as LangChain, CrewAI, AutoGen, Haystack, and LlamaIndex
+    into a unified content generation ecosystem
+  - Design scalable AI workflows for generating quest narratives, game logic, and
+    interactive content
+  - Coordinate API integrations with third-party services and automation platforms
+  - Design software architecture, data models, and technical documentation (UML/BPMN)
+  - Organize unit and integration testing and perform code reviews of AI-generated
+    implementations
+  use_cases:
+  - Automatic creation, processing, and publication of real-life and digital quests
+  - LLM-generated quest narratives, game logic, and interactive content
+  - AI-driven content generation ecosystem integrating multiple agent frameworks
+  - Real-world feedback system validating LLM-generated content against real-world
+    data
+  - API integrations with third-party services and automation platforms
+  skills:
+    databases: [NoSQL]
+    domains: []
+    data: [Pandas, Data Analysis, Data Wrangling, Beautiful Soup, Scrapy]
+    web: [Flask, Django, FastAPI, API Design & Integration]
+    ml: [TensorFlow, PyTorch, scikit-learn, OpenCV, Machine Learning, Deep Learning]
+    ops: [Git, GitLab CI, Docker, Kubernetes, Linux]
+    other: [Selenium, pytest, unittest, UML, BPMN, Software Architecture Design, Technical
+        Documentation, Code Review, Business Analytics, Unit Economics, Product Management]
+    cloud: []
+    languages: [Python, SQL]
+    genai: [LangChain, CrewAI, AutoGen, Haystack, LlamaIndex, LangGraph, AI Agents,
+      Agentic Workflows, GitHub Copilot, Cursor, Claude Code, Flowise, Langflow, Phidata,
+      n8n, OpenAI Agents SDK]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10476435'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T10:59:46.689195'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

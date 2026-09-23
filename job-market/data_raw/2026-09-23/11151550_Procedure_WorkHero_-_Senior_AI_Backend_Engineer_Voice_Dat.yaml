@@ -1,0 +1,117 @@
+job_id: 11151550
+title: WorkHero - Senior AI Backend Engineer (Voice + Data Infra)
+company: Procedure
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Procedure is hiring for WorkHero.
+
+  WorkHero is building the AI-powered back office for the
+  skilled trades, starting with the $50B+ HVAC industry. Small
+  contractors are great at their trade but lose 20+ hours a
+  week to invoicing, permits, scheduling, and paperwork.
+  WorkHero combines expert office managers with automation and
+  AI tooling, enabling a small team to take real ownership of
+  that back-office work
+
+  We’re hiring a senior engineer to own our real-time voice
+  stack end to end—AI agents operating on live phone calls—and
+  the data platform that turns those calls into insight: call
+  → transcript → events → warehouse → dashboards. You’ll own
+  meaningful systems end to end alongside a small, senior team
+  with deep experience in AI, product, and the trades.
+
+  What you’ll build
+
+  - New product screens and flows (jobs, customers, invoices,
+    scheduling) in React and React Native, especially AI chat
+    UI (chat & tool result rendering, streaming responses,
+    human review and feedback loops)
+  - AI workflows in production: tool-using agents, RAG/search,
+    classification/extraction, and human-in-the-loop flows
+  - Automations: Contribute new features and improvements to our
+    AI-powered business automation platform
+
+  In addition, you’ll own our first investments into a
+  realtime voice stack and the call-data platform behind it.
+  For example:
+
+  - Realtime voice agents on live phone calls: telephony/WebRTC
+    integration, streaming speech-to-text and text-to-speech,
+    turn-taking, interruption handling, and latency
+    optimization
+  - Voice pipeline reliability: backpressure, failover, graceful
+    degradation, and monitoring for live calls
+  - Call-data pipeline: transcripts, events, and structured
+    extraction flowing from every call into the warehouse
+  - Analytics & dashboards: data modeling and conversation-
+    intelligence features on top of call data
+  - Evals & monitoring for voice agents: quality metrics, drift
+    detection, and cost/latency tracking
+  - Cloud infrastructure: scaling our platform with
+    infrastructure as code, queues and orchestration, and
+    CI/CD
+
+  Responsibilities
+
+  - Analyze requirements and propose innovative AI-native
+    solutions to technical problems
+  - Write clean scalable code
+  - Own the voice and data stack end-to-end: design, build,
+    test, deploy, and operate
+  - Optimize the performance, latency, and cost of our real-time
+    AI systems
+  - Respond to critical system issues and ensure continuous
+    system reliability
+  - Mentor team members and collaborate across teams, especially
+    with product and subject matter experts
+  - Work to understand the needs of our users and think
+    creatively about how to solve design challenges in your
+    work
+  - This is a Remote role. We expect a minimum 4 hours overlap
+    with the WorkHero team (11 AM - 3 PM ET).
+
+  Qualifications
+
+  - Senior-level backend experience (typically 5+ years)
+    shipping production systems that you've owned
+  - Hands-on experience with realtime voice or streaming
+    systems: telephony (SIP/Twilio), WebRTC, streaming
+    STT/TTS, or frameworks like LiveKit or Pipecat — or
+    comparable experience with demanding realtime/streaming
+    infrastructure
+  - Data engineering fundamentals: event pipelines, data
+    modeling, warehousing, and analytics on production data
+  - Strong proficiency in a typed backend language (TypeScript
+    preferred; comparable experience welcome)
+  - Hands-on experience with LLM-powered features (usage,
+    prompting, optimization, etc) and AI architectures
+  - The ability to work with infrastructure as code (terraform),
+    cloud, and CI/CD systems at scale. We're a small team, so
+    we own the whole stack!
+  - Excitement to leverage AI coding tools to their maximum
+    benefit. We love Claude Code and Cursor and are constantly
+    looking for better ways to leverage our time to build fast
+    and build for scale.
+
+  Nice to have
+
+  - experience with voice-AI platforms (Vapi, Retell, Bland,
+    Deepgram, LiveKit) or conversation-intelligence products
+    (e.g. Gong-style analytics)
+  - experience scaling cloud infrastructure, especially AWS, and
+    how to get the most out of key AWS services
+  - experience with workflow automation tools like n8n or Lindy
+  - experience with React for building internal dashboards
+  - experience with HVAC or back-office business workflows
+
+  WorkHero is committed to building a diverse team. We
+  encourage candidates from all backgrounds to apply.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-12
+url: "https://builtin.com/job/workhero-senior-ai-backend-engineer-voice-data-infra/11151550"
+source: Built In

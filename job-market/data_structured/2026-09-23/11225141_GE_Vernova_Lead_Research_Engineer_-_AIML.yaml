@@ -1,0 +1,51 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: Energy research and decarbonization technologies
+position:
+  title: Lead Research Engineer - AI/ML
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops and evaluates ML algorithms for
+      prognostics and diagnostics on energy equipment — classical
+      ML/DL with no LLM or agent component. The person trains,
+      architect, and evaluates models themselves, which is shaping
+      model behavior, so Step 2 applies: ml-first.
+  responsibilities:
+  - Lead development of advanced AI/ML algorithms and methodologies for process and
+    product innovation
+  - Analyze extensive datasets to identify patterns and insights for diagnostics and
+    prognostics of large-scale energy equipment
+  - Architect and optimize AIML algorithms and models for performance and scalability
+  - Design, conduct, and supervise experiments to assess efficacy and reliability
+    of AIML-based solutions
+  - Collaborate with cross-functional teams to integrate AIML solutions into existing
+    platforms
+  - Mentor junior researchers and contribute to project leadership
+  - Author invention disclosures, file patents, and publish research in journals and
+    conferences
+  use_cases:
+  - Prognostics and diagnostics for large-scale energy equipment
+  - Decarbonization of power and acceleration of renewables
+  - Electrification and modern grid solutions
+  - Pattern and trend identification from extensive industrial datasets
+  skills:
+    genai: [Artificial Intelligence]
+    ml: [Machine Learning, TensorFlow, PyTorch]
+    web: []
+    databases: []
+    data: [Pandas, NumPy]
+    cloud: []
+    ops: [Git]
+    languages: [Python]
+    domains: [Signal Processing]
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11225141'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:28:46.732083'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

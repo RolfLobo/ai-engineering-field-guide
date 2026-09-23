@@ -1,0 +1,45 @@
+company:
+  name: Magentic
+  stage: Backed by Sequoia Capital
+  focus: AI agents for procurement and supply chain workflows
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes agent behaviour directly: owning agentic
+      workflows, designing multi-agent collaboration frameworks,
+      and benchmarking LLM performance and safety. This is clearly
+      LLM/agent work, making it ai-first. Customer collaboration
+      exists but the core deliverable is the agentic product.
+  responsibilities:
+  - Own development and deployment of LLM-based features and agentic workflows end-to-end
+  - Develop agentic frameworks for multi-agent collaboration
+  - Benchmark LLMs across performance, safety, and behavioural monitoring
+  - Build tools connecting AI features to customer ERP systems
+  - Collaborate with customers and internal teams to design solutions
+  use_cases:
+  - Automated procurement workflows for Fortune 500 teams
+  - Multi-agent collaboration over long-running messy-data workflows
+  - LLM benchmarking for performance, safety, and behaviour
+  - Connecting AI agents to customer ERP systems
+  - Supply chain resilience for global manufacturing
+  skills:
+    genai: [LLMs, Agentic Workflows, Multi-Agent Systems, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11160949'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:22:17.502715'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

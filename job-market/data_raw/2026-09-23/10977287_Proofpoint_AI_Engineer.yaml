@@ -1,0 +1,201 @@
+job_id: 10977287
+title: AI Engineer
+company: Proofpoint
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 3,780 Employees
+description: |
+  About Us:
+
+
+
+  Proofpoint is a global leader in human- and agent-centric
+  cybersecurity. We protect how people, data, and AI agents
+  connect across email, cloud, and collaboration tools. Over
+  80 of the Fortune 100, 10,000 large enterprises, and
+  millions of smaller organizations trust Proofpoint to stop
+  threats, prevent data loss, and build resilience across
+  their people and AI workflows. Our mission is simple:
+  safeguard the digital world and empower people to work
+  securely and confidently. Join us in our pursuit to defend
+  data and protect people.
+
+  How We Work:
+
+  At Proofpoint you’ll be part of a global team that breaks
+  barriers to redefine cybersecurity guided by our BRAVE core
+  values:
+
+  Bold in how we dream and innovate
+
+  Responsive to feedback, challenges and opportunities
+
+  Accountable for results and best in class outcomes
+
+  Visionary in future focused problem-solving
+
+  Exceptional in execution and impact
+
+  Corporate Overview Proofpoint is a leading cybersecurity
+  company protecting organizations’ greatest assets and
+  biggest risks: vulnerabilities in people. With an integrated
+  suite of cloud-based solutions, Proofpoint helps companies
+  around the world stop targeted threats, safeguard their
+  data, and make their users more resilient against cyber-
+  attacks. Leading organizations of all sizes, including more
+  than half of the Fortune 1000, rely on Proofpoint for
+  people-centric security and compliance solutions mitigating
+  their most critical risks across email, the cloud, social
+  media, and the web. We are singularly devoted to helping our
+  customers protect their greatest assets and biggest security
+  risk: their people. That’s why we’re a leader in next-
+  generation cybersecurity. Protection Starts with People.
+  Proofpoint. Job Title: AI Engineer (Agent Systems)
+
+  Location Hyderabad, A.P., India Athens, Greece Sunnyvale,
+  CA, USA
+
+  Role Overview Proofpoint is building the next generation of
+  AI-powered security systems to protect organizations from
+  rapidly evolving threats. We are looking for a highly
+  skilled AI Engineer to help design and build production-
+  grade agentic AI systems that power intelligent security
+  workflows at scale. This role is focused on developing and
+  deploying autonomous agents that are reliable, composable,
+  cost-efficient, and capable of operating in real-world,
+  high-throughput security environments. You will work closely
+  with security researchers, platform engineers, and product
+  teams to turn cutting-edge agentic AI techniques into
+  robust, automated detection and response capabilities used
+  in production. If you enjoy architecting multi-agent
+  systems, optimizing for reliability and cost, orchestrating
+  tool-using LLMs, and building observable pipelines — while
+  solving difficult security problems — we'd love to talk to
+  you.
+
+  Key Responsibilities
+
+  Design, build, evaluate, and deploy autonomous AI agents and
+  multi-agent systems for security detection and response use
+  cases
+
+  Build reliable, cost-efficient agentic pipelines optimized
+  for latency, accuracy, operational stability, and tool-use
+  fidelity
+
+  Develop orchestration frameworks for LLM-based agents with
+  tool use, memory, planning, and multi-step reasoning
+
+  Experiment with techniques such as ReAct, chain-of-thought
+  prompting, structured output, retrieval-augmented generation
+  (RAG), and agentic memory architectures Improve agent task
+  completion quality while minimizing hallucination, failure
+  modes, and unnecessary LLM calls
+
+  Build scalable agent infrastructure and production-grade
+  agentic workflow pipelines Partner with security researchers
+  to transform detection and triage logic into agent-powered
+  automated workflows
+
+  Measure and optimize agent performance across task success
+  rate, cost-per-run, latency, and reliability
+
+  Contribute to evaluation frameworks, ground-truth datasets,
+  and agent benchmarking workflows Monitor production agents
+  and continuously improve robustness, observability, and
+  failure recovery
+
+  Required Qualifications E
+
+  xperience 2+ years of experience in AI Engineering, Applied
+  AI, or ML Engineering
+
+  Strong experience building and deploying agentic AI systems
+  or LLM-powered applications in production Experience
+  designing multi-step, tool-using agents using frameworks
+  such as LangGraph, AutoGen, CrewAI, or custom orchestration
+
+  Strong Python engineering skills Experience working with LLM
+  APIs (OpenAI, Anthropic, Gemini) and open-source models via
+  Hugging Face or similar
+
+  Experience implementing RAG pipelines, vector stores, and
+  semantic retrieval systems (e.g., FAISS, Weaviate, Pinecone,
+  pgvector)
+
+  Solid understanding of agent evaluation, prompt engineering,
+  structured output parsing, and tool/function calling
+
+  Experience deploying agentic systems in cloud or
+  containerized environments
+
+  Strong software engineering fundamentals and production
+  mindset
+
+  Nice to Have
+
+  Experience with security domains such as email security,
+  threat intelligence, phishing detection, or SOC workflows
+
+  Familiarity with fine-tuning or adapting LLMs for domain-
+  specific agent behaviors
+
+  Experience with observability tooling for LLM systems (e.g.,
+  LangSmith, Helicone, OpenTelemetry for AI)
+
+  Knowledge of agent safety, guardrails, and human-in-the-loop
+  design patterns
+
+  Exposure to agentic memory systems (episodic, semantic,
+  working memory) and long-horizon task planning
+
+  Why Proofpoint Protecting people is at the heart of our
+  award-winning lineup of cybersecurity solutions, and the
+  people who work here are the key to our success.  We’re a
+  customer-focused and a driven-to-win organization with
+  leading-edge products. We are an inclusive, diverse,
+  multinational company that believes in culture fit, but more
+  importantly ‘culture-add’, and we strongly encourage people
+  from all walks of life to apply. We believe in hiring the
+  best and the brightest to help cultivate our culture of
+  collaboration and appreciation. Apply today and explore your
+  future at Proofpoint! #LifeAtProofpoint
+
+  Why Proofpoint?
+
+  At Proofpoint, we believe that an exceptional career
+  experience includes a comprehensive compensation and
+  benefits package. Here are just a few reasons you’ll love
+  working with us:
+
+  - Competitive compensation
+  - Comprehensive benefits
+  - Career success on your terms
+  - Flexible work environment
+  - Annual wellness and community outreach days
+  - Always on recognition for your contributions
+  - Global collaboration and networking opportunities
+
+
+
+  Our Culture:
+
+  Our culture is rooted in values that inspire belonging,
+  empower purpose and drive success-every day, for everyone.
+
+  We encourage applications from individuals of all
+  backgrounds, experiences, and perspectives. If you need
+  accommodation during the application or interview process,
+  please reach out to accessibility@proofpoint.com.
+
+  How to Apply
+
+  Interested? Submit your application along with any
+  supporting information- we can’t wait to hear from you!
+industries:
+  - Security
+  - Cybersecurity
+posted_date: 2026-09-02
+url: "https://builtin.com/job/ai-engineer/10977287"
+source: Built In

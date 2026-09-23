@@ -1,0 +1,53 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: |-
+    Open-source frameworks and platform for building,
+    evaluating, and deploying AI agents
+position:
+  title: Lead Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent architectures, evaluation pipelines,
+      and prompts/retrieval/orchestration for LLM agents at
+      LangChain — clearly shaping model behaviour via LLM/agent
+      components, so ai-first. Customer work exists but building
+      agents is the core deliverable.
+  responsibilities:
+  - Design, implement, and deploy end-to-end AI workflows and agents across business
+    domains
+  - Develop and iterate on agent architectures, evaluation pipelines, and performance
+    frameworks
+  - Set the technical bar for code quality, testing, documentation, and project scoping
+  - Mentor engineers through code review and design discussions
+  - Work directly with customers and internal stakeholders to translate requirements
+    into technical plans
+  - Collaborate cross-functionally to identify agent-driven automation opportunities
+  - Contribute to the LangChain and LangGraph ecosystem, including open source components
+    and documentation
+  use_cases:
+  - Open source reference agents (Open SWE, Open Canvas, Deep Research)
+  - Internal agents powering GTM and engineering workflows
+  - Agent-driven automation for Marketing, GTM, Recruiting, and Product teams
+  - Agent evaluation, monitoring, and performance improvement
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering, RAG, LLM Evaluation, LangChain, LangGraph,
+      Agentic Workflows]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11027465'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:13:39.831765'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

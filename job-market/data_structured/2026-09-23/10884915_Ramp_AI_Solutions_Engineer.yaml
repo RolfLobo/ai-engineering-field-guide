@@ -1,0 +1,57 @@
+company:
+  name: Ramp
+  stage: null
+  focus: |-
+    Financial infrastructure automating corporate spend
+    management
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a quota-carrying technical sales role: the person
+      sells Ramp's AI products, runs demos, builds ROI/TCO cases,
+      and guides deployments, but never shapes model behavior
+      themselves — no prompt engineering, retrieval design,
+      training, or eval building. AI is the product being sold, so
+      this is ai-support.
+  responsibilities:
+  - Carry a revenue quota and own AI product opportunities from discovery through
+    close
+  - Lead discovery with business and technical buyers to understand goals, systems,
+    and AI strategy
+  - Build ROI and total cost of ownership analyses to justify executive-level investment
+  - Deliver tailored demos, technical workshops, and proofs of concept with clear
+    success criteria
+  - Navigate technical questions on APIs, integrations, model capabilities, security,
+    governance, and quality/cost/latency tradeoffs
+  - Lead customers through post-purchase implementation, deployment planning, and
+    adoption
+  - Build relationships with champions across Engineering, IT, Security, Finance,
+    and executive leadership
+  - Turn early customer conversations into repeatable messaging, demos, and sales
+    plays
+  use_cases:
+  - AI-powered applications and agents for finance teams
+  - AI infrastructure for deploying and managing AI with control, security, and cost
+    efficiency
+  - Enterprise AI deployment including model routing and usage controls
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Model Routing, AI Gateways, Data Governance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10884915'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:05:03.570438'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

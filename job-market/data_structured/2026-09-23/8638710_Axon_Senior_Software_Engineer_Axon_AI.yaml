@@ -1,0 +1,49 @@
+company:
+  name: Axon
+  stage: null
+  focus: Public safety devices and cloud software
+position:
+  title: Senior Software Engineer, Axon AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a general senior software engineering role that
+      emphasizes using AI tools (AI-native delivery) to ship
+      software faster, not shaping model behavior. Integrating
+      AI/LLM capabilities is only a "preferred qualification," and
+      no prompt, RAG, eval, or training work is described. AI is a
+      lever for developer workflow, so this is ai-support.
+  responsibilities:
+  - Lead the build of major product surfaces and services, owning features end-to-end
+    from design to operations
+  - Define problems, shape MVP scope, set success metrics, and align stakeholders
+  - Ship software AI-natively across the SDLC with validation practices for quality
+  - Measure and improve delivery outcomes using engineering metrics and iterate on
+    shipping process
+  - Make architecture choices balancing speed and scalability
+  - 'Enforce engineering hygiene: testing strategy, CI/CD, observability, release
+    practices'
+  - Partner with Product and Design to prioritize and ship highest-value increments
+  - Mentor engineers and help establish a high-ownership culture
+  use_cases:
+  - Stealth AI product build within Axon's Global AI pillar
+  - Turning prototypes into a scalable product for public safety
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud-Native Services]
+    ops: [CI/CD, Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8638710'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:38:52.380920'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

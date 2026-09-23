@@ -1,0 +1,46 @@
+company:
+  name: Databricks
+  stage: null
+  focus: Unified Data and AI platform for analytics and AI apps
+position:
+  title: AI Engineer - FDE (Forward Deployed Engineer)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      FDE role that builds GenAI applications with RAG, multi-
+      agent systems, fine-tuning, and evaluation for customers,
+      directly shaping model behaviour and output quality.
+      LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Develop cutting-edge GenAI solutions using techniques from Databricks AI research
+  - Own production rollouts of consumer-facing and internal GenAI applications
+  - Serve as a trusted technical advisor to customers across domains
+  - Present at conferences as a thought leader internally and externally
+  - Collaborate cross-functionally with product and engineering to shape the roadmap
+  use_cases:
+  - Customer GenAI application development and productionization
+  - Retrieval-augmented generation systems
+  - Text2SQL applications
+  - Multi-agent AI systems
+  - Fine-tuned LLM solutions
+  skills:
+    databases: []
+    domains: []
+    data: [Databricks, Spark]
+    web: []
+    ml: [Hugging Face, Pandas, scikit-learn, PyTorch]
+    ops: [LLMOps]
+    other: []
+    cloud: [AWS, Azure, GCP]
+    languages: []
+    genai: [RAG, Multi-Agent Systems, Text2SQL, Fine-Tuning, LangChain, DSPy, LLM
+        Evaluation]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6775575'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:37:18.698541'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

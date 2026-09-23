@@ -1,0 +1,61 @@
+company:
+  name: Samsara
+  stage: null
+  focus: IoT Connected Operations platform for physical operations
+position:
+  title: Senior Software Engineer - AI Safety Detection Precision
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds backend review, triage, and orchestration
+      systems around safety detections produced by ML models owned
+      by other teams; it does not itself write prompts, design
+      retrieval, or train/evaluate models. Surfacing real-world
+      data that improves the next generation of detection models
+      is feeding someone else's training runs, which is plumbing.
+      AI is also named mainly as tooling the engineer uses (AI-
+      assisted coding workflows), which is ai-support.
+  responsibilities:
+  - Build and evolve core systems that review safety detections and determine which
+    events are surfaced to customers
+  - Improve detection precision by identifying ambiguous cases, deflecting low-value
+    reviews, and automating triage
+  - Work across backend systems, data, and AI-driven decisioning to improve product
+    quality and review efficiency
+  - Partner with product, design, AI and ML infra teams to turn review outcomes into
+    model feedback loops
+  - Own complex projects end-to-end from technical design through rollout, measurement,
+    and iteration
+  - Use AI-assisted engineering workflows to accelerate prototyping and implementation
+    while maintaining code quality
+  - Raise the bar for quality, operability, and engineering clarity across the Safety
+    platform
+  use_cases:
+  - Road safety event detection and precision filtering
+  - Automated triage of ambiguous AI safety detections
+  - Human/AI review workflows for safety events
+  - Feedback loops improving detection models from review outcomes
+  - Driver coaching moments surfaced to fleet customers
+  skills:
+    genai: []
+    ml: [Machine Learning, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Temporal]
+    languages: [Go, Java]
+    domains: []
+    other: [Data Annotation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9866749'
+  location: GBR
+  locations:
+  - GBR
+  - London, GBR
+  remote: true
+  extracted_at: '2026-09-23T11:39:11.512890'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

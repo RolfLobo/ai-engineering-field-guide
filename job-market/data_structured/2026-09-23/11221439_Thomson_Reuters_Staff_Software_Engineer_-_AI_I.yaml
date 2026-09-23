@@ -1,0 +1,53 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Legal, tax, risk and compliance information solutions
+position:
+  title: Staff Software Engineer - AI I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures, autonomous agents, and
+      adapts/customizes AI models, directly shaping LLM system
+      behavior and output quality. With LLM/agent components
+      central, it is ai-first.
+  responsibilities:
+  - Design and lead implementation of enterprise-scale AI systems including multi-component
+    pipelines, RAG architectures, and autonomous AI agents
+  - Architect scalable AI model integration strategies via APIs, distributed data
+    pipelines, and microservices
+  - Adapt and customize AI models for legal, tax, fraud, and compliance domains
+  - Define technical standards and best practices for AI system architecture across
+    the organization
+  - Lead evaluation and adoption of cutting-edge AI techniques and oversee proof-of-concept
+    projects
+  - Mentor senior and junior software engineers
+  - Champion MLOps and LLMOps practices, leading design and implementation
+  - Design testing frameworks, monitoring, and observability for AI model performance
+    at scale
+  use_cases:
+  - Expert AI solutions for legal, tax, risk, and compliance domains
+  - Autonomous AI agents with multi-step reasoning for enterprise workflows
+  - RAG-powered information retrieval and question answering
+  - AI-driven fraud detection and compliance systems
+  - Adapted AI models for regulated industry expert applications
+  skills:
+    genai: [RAG, AI Agents, Embeddings, Semantic Search, OpenAI API, Anthropic API,
+      LLMs]
+    ml: [PyTorch, TensorFlow, JAX, Machine Learning]
+    web: [REST APIs, Microservices]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Terraform, MLOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11221439'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:28:16.368560'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

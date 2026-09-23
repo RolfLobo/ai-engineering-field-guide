@@ -1,0 +1,55 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: null
+  focus: Global transport and logistics / container shipping
+position:
+  title: Senior Security DevOps Engineer (SAP & AI Automation)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a security/DevOps engineer for SAP platforms; AI
+      automation is mentioned only as a tool/experience area with
+      no indication of shaping LLM behavior, prompts, retrieval,
+      or model training. Core work is SAP security architecture,
+      controls, and compliance.
+  responsibilities:
+  - Develop SAP security designs with low-level implementation guidance aligned to
+    security architecture
+  - Enforce security controls for vulnerability scanning and patch management on the
+    SAP Enablement Platform
+  - Embed Secure-by-Design and Secure Development Life Cycle principles across the
+    platform
+  - Lead SAP Security projects spanning multiple platforms and third-party partners
+  - Perform GRC configurations and maintain security roles with GRC tools
+  - Monitor SAP security, support controls, audit activities, and SIEM/log management
+    integration
+  - Mentor and coach SAP security SMEs and engineers, and support career growth
+  - Collaborate with stakeholders to define backlog, solution designs, and technical
+    roadmap
+  use_cases:
+  - Securing the SAP Enablement Platform through vulnerability scanning and patch
+    management
+  - Automating SAP security processes using AI automation
+  - Governance, risk, and compliance (GRC) for SAP landscapes
+  - Integrating SAP security with SIEM and log management
+  - SAP ECC to S/4HANA migration and system mergers
+  skills:
+    genai: [AI Automation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [SIEM, DevOps, Vulnerability Management]
+    languages: []
+    domains: []
+    other: [SAP ECC 6.0, SAP S/4HANA, SAP Fiori, SAP GRC, SAP BW, SAP BTP, SAP IAG,
+      SAML, X.509, SAP SSO, EDI Security, OAuth, GDPR, SOX Compliance, PCI Compliance]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10998814'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:12:00.586855'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

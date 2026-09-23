@@ -1,0 +1,55 @@
+company:
+  name: SpaceX
+  stage: null
+  focus: |-
+    Rocket and satellite development, national security
+    constellation
+position:
+  title: Site Reliability Engineer, AI Infrastructure (Starshield)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SRE role hosting and scaling GPU/Kubernetes
+      infrastructure for AI clusters that other AI engineers build
+      on. The person does not shape model behavior, train models,
+      or design prompts/retrieval; the deliverable is
+      infrastructure capacity and availability. Serving
+      infrastructure for models others build is ai-support.
+  responsibilities:
+  - Manage GPU/CPU infrastructure deployments to Top Secret data centers
+  - Manage and support GPU-as-a-service for external customers on bare metal and virtualized
+    platforms
+  - Design, validate, and productize AI cluster solutions at 100k+ GPU scale
+  - Develop automation to deploy and manage on-premise Kubernetes/AI clusters and
+    operating systems
+  - Deploy and manage core infrastructure including databases, monitoring, and distributed
+    storage
+  - Collaborate with AI engineers to build scalable, operable, maintainable products
+  - Improve the full service lifecycle from design through deployment, operation,
+    and refinement
+  - Implement monitoring and alerting for high system availability
+  use_cases:
+  - GPU infrastructure for critical national security missions
+  - AI cluster platforms at 100k+ GPU scale
+  - GPU-as-a-service on bare metal and virtualized platforms
+  - Core infrastructure supporting the Starshield satellite constellation
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Distributed Databases]
+    data: [Data Modeling]
+    cloud: []
+    ops: [Site Reliability Engineering, DevOps, Linux, Terraform, Ansible, Kubernetes,
+      Docker, CI/CD, Bazel, Monitoring, NVIDIA GPU Deployment Stacks, Cloud Virtualization]
+    languages: [Bash, Python, C++, Go]
+    domains: []
+    other: [TCP/IP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11175493'
+  location: Hawthorne, USA
+  extracted_at: '2026-09-23T11:23:31.537990'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,60 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: 'Senior Lead AI Engineer (AI Foundations: LLM Customization, Finetuning,
+    Reinforcement Learning)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and optimizes LLM systems directly:
+      foundation model training, LLM inference optimization,
+      guardrails, model evaluation, and similarity search. This is
+      shaping model behavior and output quality of LLM components,
+      so it is ai-first.
+  responsibilities:
+  - Partner with cross-functional engineers, scientists, TPMs, and PMs to deliver
+    AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, and model evaluation
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Hugging
+    Face, VectorDBs, NeMo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - AI-powered tools that change how associates work and customers interact with the
+    bank
+  - Fraud and unusual charge notifications informed by AI
+  - Real-time customer question answering
+  - Scalable, high-performance AI infrastructure supporting products across the company
+  skills:
+    databases: [Vector Search, Vector Databases]
+    domains: []
+    data: []
+    web: []
+    ml: [Foundation Model Training, Model Evaluation, Hugging Face, PyTorch, Fine-Tuning,
+      Reinforcement Learning, Machine Learning]
+    ops: [MLOps]
+    other: []
+    cloud: [AWS, AWS Ultraclusters, Azure, GCP]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    genai: [LLMs, Guardrails]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10896702'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:05:38.219482'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,44 @@
+company:
+  name: Recode Solutions
+  stage: null
+  focus: AI engineering and software solutions services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM integrations, RAG pipelines, and agentic
+      workflows, directly shaping model behavior through retrieval
+      and agent design. LLM components are involved, so it is ai-
+      first.
+  responsibilities:
+  - Build scalable backend APIs
+  - Integrate LLMs into production AI systems
+  - Contribute to RAG pipelines and agentic workflows
+  - Write clean, well-tested Python code
+  - Support deployments and optimization
+  - Create documentation and collaborate with the team
+  use_cases:
+  - Production-grade AI systems
+  - LLM-powered applications
+  - Retrieval-augmented generation pipelines
+  - Agentic workflow automation
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud-Native Development]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11015812'
+  location: Chennai, IND
+  extracted_at: '2026-09-23T11:12:56.118131'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

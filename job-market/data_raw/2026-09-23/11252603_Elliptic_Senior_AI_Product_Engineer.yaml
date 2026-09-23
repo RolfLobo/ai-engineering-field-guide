@@ -1,0 +1,190 @@
+job_id: 11252603
+title: Senior AI Product Engineer
+company: Elliptic
+location: London, GBR
+work_type: FULL_TIME
+company_size: 181 Employees
+description: |
+  Do you want to build the AI systems that compliance teams
+  rely on to investigate real financial crime? Are you excited
+  about taking agentic workflows from prototype to production
+  at scale? Do you want your work to directly help catch bad
+  actors moving money across blockchains?
+
+  Elliptic is hiring a Senior AI Engineer to join our AI team.
+  It is the team behind Elliptic's copilot, the AI product
+  that helps compliance investigators trace fund flows,
+  surface patterns, and respond to risk in real time. This
+  role sits at the centre of that work, designing the agentic
+  systems, LLM integrations, and backend services that turn
+  complex blockchain data into useful answers.
+
+  You'll join a focused team that cares about the quality of
+  what it builds and gives you the space to do your best work.
+  There's real ownership here, breadth across AI and backend
+  systems, and the freedom to turn good ideas into shipped
+  products. The problems are technically challenging, and the
+  work is visible.
+
+  The impact you will have:
+
+  As a Senior AI Engineer on the AI team, you'll own
+  significant parts of the Agentic stack that power Elliptic's
+  copilot. You'll lead the design of agentic workflows, drive
+  technical decisions on how we build and operate LLM-based
+  features, and help raise the engineering standard across the
+  team. You'll partner with product, web engineers, and your
+  engineering lead to take complex problems from ambiguity to
+  shipped product, and you'll mentor more junior engineers as
+  the team grows.
+
+  What you will do:
+
+  - Design and build agentic workflows and AI-powered features
+    that power Elliptic's copilot, using LLM frameworks such
+    as LangChain or LangGraph.
+  - Lead the design of agents, tool integrations, and retrieval
+    pipelines that turn complex blockchain data into useful
+    answers for investigators.
+  - Build and own evaluation frameworks that measure and improve
+    the quality, reliability, and latency of LLM outputs.
+  - Design and build the backend services, APIs, and event-
+    driven systems that support these features, using
+    TypeScript and Node.js.
+  - Drive technical design reviews and architecture decisions
+    for AI workstreams.
+  - Mentor and coach more junior engineers through pair
+    programming, code review, and design feedback.
+  - Raise the engineering bar across the team by promoting good
+    practices in testing, observability, and AI system
+    reliability.
+  - Influence cross-team decisions on how AI capabilities
+    integrate with the rest of the Elliptic platform.
+
+  What you will achieve in the first 6 months:
+
+  - Owned and shipped at least one significant AI capability
+    end-to-end, from ambiguous problem statement through to
+    production.
+  - Driven the technical direction of an AI workstream,
+    including architecture, evaluation, and rollout.
+  - Established or improved at least one team practice for
+    building AI systems (evals, observability patterns, prompt
+    management, rollout safety).
+  - Mentored junior engineers on AI engineering practices and
+    contributed to their growth.
+  - Built strong working relationships across product, web
+    engineering, data engineering, and DevOps.
+  - Started to influence adjacent teams on how Elliptic builds
+    with AI.
+
+  You will be a great fit here if you:
+
+  - Care about building AI systems that work reliably in
+    production, not just demos.
+  - Have strong instincts for trade-offs specific to LLM
+    systems: cost vs latency vs quality, deterministic vs
+    probabilistic behaviour, when to use an agent vs a
+    workflow.
+  - Can take ambiguous AI problems and break them into shippable
+    pieces with clear evaluation criteria.
+  - Communicate clearly with non-engineers (product,
+    stakeholders, leadership) about AI capabilities and
+    limitations.
+  - Have coached or mentored other engineers and enjoy raising
+    the bar through reviews, pairing, and feedback.
+  - Are genuinely curious about the domain and find blockchain
+    investigations and financial crime prevention interesting.
+
+  Our ideal candidate has:
+
+  - 5-8+ years of software engineering experience, with at least
+    1-2 years of meaningful production work building LLM-
+    powered features.
+  - Direct experience with LLM frameworks such as LangChain,
+    LangGraph, or similar.
+  - Hands-on experience building agentic systems: tool use,
+    multi-step reasoning, planning, memory, and human-in-the-
+    loop patterns.
+  - Practical understanding of prompt engineering, structured
+    outputs, context management, and managing the trade-offs
+    of working with LLMs.
+  - Experience building and running evaluations for LLM outputs
+    (eval sets, LLM-as-judge, regression testing).
+  - Strong backend skills in TypeScript / Node.js, with solid
+    API design.
+  - Cloud experience (AWS: Lambda, ECS, S3, or similar).
+  - Database proficiency across SQL (Postgres) and some NoSQL
+    exposure.
+  - Demonstrated ability to mentor and coach other engineers.
+  - Uses AI coding assistants (Copilot, Cursor, Claude, etc.)
+    critically and effectively as part of their day-to-day
+    workflow.
+
+  Bonus points for:
+
+  - Experience with retrieval-augmented generation (RAG) and
+    vector databases (pgvector, Pinecone, or similar).
+  - Experience designing multi-agent systems and agent
+    orchestration patterns.
+  - Familiarity with LLM observability tools (LangSmith,
+    Langfuse, Arize, or similar).
+  - Experience working with multiple model providers (Anthropic,
+    OpenAI, open-weight models) or with fine-tuning.
+  - Hands-on experience with Terraform, Kubernetes, or
+    infrastructure-as-code tooling.
+  - Experience with observability platforms like Datadog.
+  - Distributed or event-driven architectures (SNS, SQS).
+  - Interest in cryptocurrency, blockchain, or compliance.
+
+  Job Benefits
+
+  > How we work:
+
+  - Hybrid working and the option to work from almost anywhere
+    for up to 90 days per year
+  - £500 Remote working budget to set up your home office space
+
+  > Learning & Development:
+
+  - $1,000 Learning & Development budget to use on anything
+    (agreed with your manager) that contributes to your growth
+    and development
+
+  > Vacation/ Leave:
+
+  - Holidays: 25 days of annual leave + bank holidays
+  - An extra day for your birthday
+  - Enhanced parental leave: we provide eligible employees,
+    regardless of gender or whether they become a parent by
+    birth or adoption, 16 weeks fully-paid leave and leave.
+
+  > Benefits:
+
+  - Private Health Insurance - we use Bupa!
+  - Full access to Spill Mental Health Support
+  - Life Assurance: we hope you will never need this - but our
+    cover is for 4 times your salary to your beneficiaries
+  - Cycle to Work Scheme
+
+  We know Diversity and Inclusion is much deeper than just
+  hiring, but it's important for us to mention it here. We
+  welcome and embrace individuals of all backgrounds and
+  identities at Elliptic, and this is an ongoing priority for
+  us. We know incredible people don't all think in the same
+  way. We want to be challenged every day. We believe our
+  diverse team of individuals underpins this by bringing
+  creative thinking and innovation to Elliptic every day. We
+  are committed to creating a diverse, inclusive and equitable
+  workplace, so we welcome applications from everyone, even if
+  you may not think you fit all of the requirements of our
+  roles. We foster an environment of psychological safety,
+  where everyone feels comfortable to bring their whole self
+  to work.
+industries:
+  - Blockchain
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-ai-product-engineer/11252603"
+source: Built In

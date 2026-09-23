@@ -1,0 +1,59 @@
+company:
+  name: CONVEGENIUS EDU SOLUTIONS PRIVATE LIMITED
+  stage: null
+  focus: |-
+    AI-native education infrastructure for governments and
+    enterprises
+position:
+  title: Sr. ML Engineer- Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, agentic workflows, LLM
+      evaluation frameworks, and model selection for production
+      LLM applications — all direct shaping of LLM behaviour,
+      making it ai-first. Fine-tuning is only a plus, but the core
+      RAG/agent/eval work alone classifies it as ai-first.
+  responsibilities:
+  - 'Design, build, and ship production LLM applications: RAG pipelines, agentic workflows,
+    and tool-calling systems for education use cases'
+  - 'Own full system architecture: data pipelines, retrieval layers, orchestration,
+    APIs, and service infrastructure'
+  - 'Build LLM evaluation frameworks: benchmarks, regression testing, human eval loops,
+    and automated quality gates'
+  - 'Own latency and cost at the application layer: caching, batching, model/route
+    selection, and prompt-context optimisation'
+  - Build data pipelines for grounding and instruction data, including multilingual
+    and Indic language sources
+  - Assess open-source and closed model releases for domain applicability, cost, and
+    production readiness
+  - Track system performance metrics, evaluation benchmarks, and reliability targets
+    across shipped features
+  - Fine-tune or adapt foundation models (LoRA/QLoRA/SFT) where warranted
+  use_cases:
+  - Question answering for education-specific use cases
+  - Educational content generation
+  - Adaptive learning feedback for students
+  - Curriculum alignment
+  - Personalised learning in Indian/Indic languages
+  skills:
+    genai: [RAG, Agentic Workflows, Function Calling, LangChain, LangGraph, Prompt
+        Engineering, LLM Evaluation, LLMs, Fine-Tuning, LoRA]
+    ml: [Quantization, DeepSpeed, FSDP, Model Evaluation]
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Model Deployment, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [ONNX]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10963396'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:09:42.731074'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

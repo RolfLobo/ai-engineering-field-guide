@@ -1,0 +1,55 @@
+company:
+  name: kAIgentic
+  stage: null
+  focus: AI-powered enterprise process intelligence layer
+position:
+  title: Software Engineer - AI Research
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behaviour: schema-constrained
+      extraction with validation/repair loops, retrieval
+      engineering (hybrid search, reranking, GraphRAG), multi-
+      agent orchestration, and building evals with Langfuse. All
+      Step-1 shaping activities on LLM systems, so ai-first.
+  responsibilities:
+  - Build end-to-end document ingestion pipelines handling layouts, tables, and scanned
+    diagrams with robust embeddings
+  - Design schema-constrained LLM extraction frameworks with typed schemas, validation
+    loops, and automated repair/re-prompt cycles
+  - Own retrieval engineering with hybrid search, reranking, and query expansion
+  - Build knowledge-graph construction and entity resolution pipelines with GraphRAG
+    retrieval
+  - Improve grounding via terminology stores and retrieval-in-the-loop generation
+    for evidence-backed outputs
+  - Build multi-agent orchestration with planner/worker patterns and tool routing
+  - Own MCP and agent-to-agent integrations with secure contracts and context passing
+  - Define evaluation datasets, grading rubrics, and regression gates with tracing
+    tools
+  use_cases:
+  - Turning enterprise process knowledge and documents into a governed, provenance-carrying
+    process ontology
+  - Evidence-backed extraction from complex enterprise documents to eliminate hallucination
+  - Knowledge-graph-based retrieval and entity resolution over institutional knowledge
+  - Multi-agent orchestration for governed enterprise AI operations
+  - Evaluation and regression gating for AI output quality
+  skills:
+    genai: [Embeddings, Prompt Engineering, RAG, GraphRAG, Hybrid Search, Multi-Agent
+        Systems, Agentic Workflows, LangGraph, OpenAI API, MCP, LLMs, Query Expansion]
+    ml: []
+    web: []
+    databases: [Neo4j, Knowledge Graphs, Vector Search, Reranking]
+    data: []
+    cloud: []
+    ops: [Langfuse]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11299730'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:36:45.813039'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,61 @@
+company:
+  name: Optum
+  stage: null
+  focus: |-
+    Healthcare services, pharmacy benefits, and care delivery
+    technology
+position:
+  title: Principal AI/ML Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role's core deliverable is engineering transformation:
+      rolling out AI coding tools (Copilot, coding agents, AI
+      testing) so other engineers ship faster. The agents and
+      prompts here are developer workflow accelerators, not the
+      product; the person primarily builds enterprise Java
+      software and drives adoption. Per the edge case on AI coding
+      tool rollout, this is ai-support.
+  responsibilities:
+  - Design, develop, and optimize enterprise-scale Java applications with Spring Boot,
+    microservices, and REST APIs
+  - Lead technical design, architecture decisions, code reviews, and engineering best
+    practices
+  - Drive modernization initiatives including framework upgrades, cloud adoption,
+    and API modernization
+  - Champion AI-Driven Development Lifecycle (AIDLC) practices across engineering
+    teams
+  - Establish AI-first engineering standards, guardrails, and governance frameworks
+  - Define metrics for AI adoption, productivity gains, and delivery acceleration
+  - Build technology roadmaps and run proof-of-concepts for emerging AI technologies
+  - Mentor engineers and lead transformation of Scrum teams into AI-enabled engineering
+    pods
+  use_cases:
+  - AI-assisted software delivery acceleration for enterprise engineering teams
+  - Transformation of traditional SDLC/Scrum teams into AI-native engineering pods
+  - AI-generated testing and AI-assisted design practices
+  - Enterprise Java application modernization and cloud migration
+  - Organizational AI adoption measurement and governance
+  skills:
+    genai: [AI Coding Agents, Prompt Engineering, Agentic Workflows, Generative AI,
+      AI Agents]
+    ml: []
+    web: [Spring Boot, Microservices, REST APIs]
+    databases: [MongoDB, SQL Server, Relational Databases]
+    data: []
+    cloud: [Azure]
+    ops: [Kubernetes, Docker, CI/CD, GitHub, GitHub Copilot, Observability, DevSecOps]
+    languages: [Java]
+    domains: []
+    other: [Event-Driven Architecture, Hibernate, JPA, AI-Assisted Testing, Specification-Driven
+        Development, Guardrails, AI Quality Validation, AI Productivity Measurement,
+      Domain-Driven Design, Secure Coding, Performance Engineering, Cloud-Native Design
+        Patterns]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11032404'
+  location: Noida, IND
+  extracted_at: '2026-09-23T11:13:51.544138'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

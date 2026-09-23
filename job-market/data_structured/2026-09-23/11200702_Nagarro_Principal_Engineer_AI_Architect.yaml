@@ -1,0 +1,57 @@
+company:
+  name: Nagarro
+  stage: null
+  focus: Digital product engineering and IT consulting services
+position:
+  title: Principal Engineer, AI Architect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and implements Generative AI solutions -
+      LLM inference, RAG pipelines, agent orchestration, prompt
+      design standards, and model evaluation - directly shaping
+      model behaviour and output quality. LLM/agent components
+      dominate, so ai-first.
+  responsibilities:
+  - Own architecture and technical vision for AI-powered, user-facing applications
+    built with Python, React, and Generative AI
+  - Design scalable, secure backend platforms for LLM inference, RAG pipelines, and
+    agent-based orchestration
+  - Define frontend architecture and UX patterns for AI-native applications including
+    conversational interfaces, copilots, and intelligent dashboards
+  - Lead design and implementation of complex GenAI workflows combining LLMs, tools,
+    APIs, structured data, and user context
+  - Establish engineering standards for prompt design, model integration, evaluation,
+    and observability
+  - Drive GenAI platformization building reusable components, SDKs, and frameworks
+    across teams
+  - Convert client business use cases into technical designs and lead client-facing
+    technical discovery workshops
+  - Ensure enterprise readiness including security, privacy, compliance, governance,
+    and responsible AI practices
+  use_cases:
+  - Enterprise applications with embedded AI and deep learning models
+  - Production Generative AI applications at scale
+  - RAG pipelines and agent-based orchestration platforms
+  - AI-native applications with conversational interfaces and copilots
+  - Multi-cloud enterprise AI platform architecture
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, Prompt Engineering, GitHub Copilot,
+      Claude Code]
+    ml: []
+    web: [FastAPI, Microservices, React]
+    databases: [Pinecone, Weaviate, Milvus, Knowledge Graphs]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Distributed Systems, LLMOps]
+    languages: [Python, Node.js]
+    domains: [NLP]
+    other: [Responsible AI, Jira, Agile, System Design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11200702'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:25:42.785841'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

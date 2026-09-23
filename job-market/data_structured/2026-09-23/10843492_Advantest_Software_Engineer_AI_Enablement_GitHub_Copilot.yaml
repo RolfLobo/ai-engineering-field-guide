@@ -1,0 +1,56 @@
+company:
+  name: Advantest
+  stage: null
+  focus: Semiconductor test equipment and test software
+position:
+  title: Software Engineer – AI Enablement & GitHub Copilot for Eclipse
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role integrates and maintains GitHub Copilot within the
+      Eclipse-based SmarTest IDE; the deliverable is developer
+      tooling and integration quality, not shaping an LLM's
+      behavior. Rolling out AI coding tools so engineers ship
+      faster is explicitly ai-support.
+  responsibilities:
+  - Develop and maintain AI-assisted development capabilities within the Eclipse-based
+    SmarTest environment
+  - Support and improve the integration of GitHub Copilot into the SmarTest development
+    workflow
+  - Analyze and resolve defects and integration issues related to GitHub Copilot and
+    Eclipse
+  - Implement features required for SmarTest-specific customer workflows
+  - Perform integration testing and quality assurance for new plugin versions and
+    features
+  - Collaborate with Microsoft and internal Advantest development teams on technical
+    topics
+  - Investigate customer requirements and translate them into technical solutions
+  - Evaluate changes in the GitHub Copilot and Eclipse ecosystems and their impact
+    on SmarTest
+  use_cases:
+  - AI-assisted development for semiconductor test program engineers
+  - GitHub Copilot integration in the Eclipse-based SmarTest environment
+  - Improving developer productivity through AI tooling
+  - Customer support for SmarTest-specific GitHub Copilot topics
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [GitHub Copilot, Git]
+    languages: [Java]
+    domains: []
+    other: [Eclipse, Eclipse Plugin Development, Eclipse RCP, OSGi, Object-Oriented
+        Development, Plugin-Based Architectures, Automated Testing, Quality Assurance,
+      Debugging]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10843492'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:01:46.789212'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

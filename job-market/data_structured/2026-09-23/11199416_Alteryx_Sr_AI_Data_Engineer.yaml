@@ -1,0 +1,55 @@
+company:
+  name: Alteryx
+  stage: null
+  focus: Data analytics and workflow automation software
+position:
+  title: Sr. AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates data pipelines, models, and
+      integrations that feed AI-powered data products (Data
+      Concierge, AskInsights). AI/GenAI/LLM exposure is listed
+      only as desirable; the person does not shape model behavior
+      through prompts, retrieval design, or training. The
+      deliverable is reliable data infrastructure, so ai-support.
+  responsibilities:
+  - Own support, maintenance, reliability, and enhancement of AI-powered data products
+    such as Data Concierge and AskInsights
+  - Build, test, deploy, and optimize data pipelines and transformations using dbt,
+    SQL, and Alteryx
+  - Design governed, reusable data models and contextual data capabilities supporting
+    analytics, automation, and AI use cases
+  - Monitor data and application health, troubleshoot production issues, and perform
+    root-cause analysis
+  - Implement automated testing, data-quality controls, observability, and deployment
+    practices across data products
+  - Build and maintain integrations with enterprise platforms, APIs, and AI services
+  - Partner with Data Engineering, Data Science, Governance, and Data Ops teams to
+    deliver reusable enterprise data products
+  - Evaluate emerging AI and data-engineering technologies for practical enterprise
+    value
+  use_cases:
+  - AI-powered enterprise data products (Data Concierge, AskInsights)
+  - Enterprise analytics and automation data capabilities
+  - Governed, reusable data models supporting AI use cases
+  - Data integration with enterprise platforms and AI services
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: [dbt, Data Pipelines, Data Modeling, Data Quality]
+    cloud: [Cloud Platforms]
+    ops: [Monitoring, Observability, CI/CD, Git, Automated Testing]
+    languages: [SQL]
+    domains: []
+    other: [Alteryx]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11199416'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:25:19.763048'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

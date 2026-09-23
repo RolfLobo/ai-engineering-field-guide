@@ -1,0 +1,52 @@
+company:
+  name: Root
+  stage: null
+  focus: Technology-driven auto insurance company
+position:
+  title: Staff Software Engineer, AI Enablement
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on driving AI adoption and ways of working
+      across the company and translating field patterns into AI
+      Platform strategy, not on personally shaping model behavior
+      via prompts, retrieval, or fine-tuning. Rolling out AI tools
+      and workflows for others is ai-support per the edge cases.
+      Mentors engineers but has no direct reports named, so not
+      management.
+  responsibilities:
+  - Define how Root discovers, adopts, and scales AI-native ways of working across
+    teams
+  - Lead strategic embedded engagements connecting company priorities, user workflows,
+    and AI Platform capabilities
+  - Turn patterns from the field into platform strategy, architecture, and technical
+    investments
+  - Design scalable engagement and adoption models for faster team learning
+  - Align engineering and business leaders on AI opportunities, tradeoffs, and responsible
+    practices
+  - Unblock multi-team initiatives and measure AI adoption impact
+  - Develop engineers and technical leaders through mentorship
+  use_cases:
+  - Company-wide AI adoption and workflow enablement
+  - Translating user workflow needs into reusable AI platform capabilities
+  - Measuring AI-driven improvements in ways of working
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10941886'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:08:02.220206'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

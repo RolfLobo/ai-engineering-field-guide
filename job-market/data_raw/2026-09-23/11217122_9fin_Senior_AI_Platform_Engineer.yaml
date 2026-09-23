@@ -1,0 +1,249 @@
+job_id: 11217122
+title: Senior AI Platform Engineer
+company: 9fin
+location: London, GBR
+work_type: FULL_TIME
+company_size: 600 Employees
+description: |
+  About 9fin
+
+  9fin is the AI platform powering global debt markets — the
+  world’s largest asset class at over $145 trillion.
+
+  Debt markets are vast, global, and mission-critical, yet
+  still run on fragmented data, PDFs, and manual workflows.
+  9fin replaces this broken infrastructure with a single
+  platform that centralises proprietary credit data, deep
+  analysis, and high-value workflows across global markets.
+
+  Today, 9fin powers teams at 300+ blue-chip institutions
+  worldwide, including global banks, asset managers, private
+  equity firms, law firms, and advisors. The business is
+  scaling at exceptional speed, with rapid expansion in the US
+  and best-in-class retention driven by deep workflow
+  adoption.
+
+  We’re at a defining inflection point. With proven product-
+  market fit and strong, global market pull, 9fin is
+  accelerating toward becoming the category-defining platform
+  for debt markets worldwide.
+
+  The Opportunity
+
+  The AI Engineering team at 9fin is building the next
+  generation of AI capabilities that will power our products
+  for years to come. We're looking for a Senior AI Platform
+  Engineer to help design, build, and evolve the core AI
+  platform that enables Generative AI, Agentic AI, and machine
+  learning applications across the business.
+
+  This is an opportunity to join at the beginning of the
+  platform's journey. Rather than inheriting a mature internal
+  platform, you'll help shape its architecture, define
+  engineering standards, and build reusable infrastructure
+  that allows AI teams to move quickly, safely, and at scale.
+
+  Working alongside backend engineers and AI engineers, you'll
+  create the shared platform services that power everything
+  from intelligent document understanding to autonomous AI
+  agents capable of running scheduled workflows, generating
+  morning briefings, identifying distressed companies, and
+  supporting future AI-powered product experiences.
+
+  Every day is different, but here's an example of the kind of
+  things you'll work on:
+
+  - Design, build and continuously evolve the enterprise AI
+    platform that powers AI products across 9fin.
+  - Develop scalable AI services supporting Agentic AI,
+    Retrieval-Augmented Generation (RAG), embeddings, vector
+    search, model serving, and intelligent automation.
+  - Build orchestration layers that transform structured and
+    unstructured enterprise data into reusable AI
+    capabilities.
+  - Develop production-ready AI applications using modern LLM
+    frameworks and orchestration tools.
+  - Design reusable platform components for prompt management,
+    model serving, vector search, embeddings, AI gateways, and
+    evaluation services.
+  - Build APIs, SDKs, and developer tooling that enable self-
+    service AI development across engineering teams.
+  - Design secure, scalable deployment pipelines for AI models
+    and applications.
+  - Build AI observability capabilities including monitoring,
+    tracing, evaluation, cost optimisation, and production
+    quality measurement.
+  - Collaborate closely with AI Engineers, Backend Engineers and
+    Engineering Leadership to define platform architecture and
+    engineering standards.
+  - Establish engineering best practices around testing,
+    governance, Responsible AI, deployment, and operational
+    excellence.
+  - Continuously evaluate emerging AI technologies and evolve
+    the platform as the ecosystem rapidly advances.
+
+  What Makes This Role Different
+
+  Unlike many AI Platform roles that focus on maintaining
+  existing infrastructure, this role is centred around
+  building the platform from the ground up.
+
+  You'll join at an early stage where many architectural
+  decisions have yet to be made, giving you genuine influence
+  over how AI is built, deployed, and operated across 9fin.
+
+  Within your first six months, you'll help build the platform
+  that powers production AI agents capable of running
+  autonomously in the background—supporting workflows such as
+  scheduled market briefings, distressed company discovery,
+  and future intelligent financial research products.
+
+  Rather than owning a single AI product, you'll build the
+  shared capabilities that enable multiple engineering teams
+  to rapidly develop, deploy, and operate AI solutions at
+  scale.
+
+  You'll be one of a small number of senior engineers helping
+  shape the technical direction of the platform alongside the
+  Engineering Lead and fellow senior engineers.
+
+  About You
+
+  This role will be a great fit if you:
+
+  AI Platform Engineering
+
+  - Have 5+ years of software engineering experience, including
+    2+ years building AI/ML platforms, Generative AI
+    applications, or production machine learning systems.
+  - Have experience designing and deploying enterprise AI
+    applications into production with a strong focus on
+    scalability, reliability, and developer experience.
+
+  LLMs & Agentic AI
+
+  - Have hands-on experience building applications powered by
+    Large Language Models (LLMs).
+  - Have experience building Model Context Protocol (MCP) and
+    Retrieval-Augmented Generation (RAG) solutions, making use
+    of embeddings, vector databases, and modern LLM
+    orchestration frameworks.
+  - Have experience building or contributing to agentic AI
+    systems, intelligent workflows, or orchestration
+    frameworks.
+
+  Backend & Platform Engineering
+
+  - Are a strong backend engineer with production experience
+    using Python and/or TypeScript.
+  - Have designed scalable backend services, REST APIs, and
+    event-driven architectures.
+  - Have experience building reusable platform capabilities,
+    internal developer tooling, SDKs, or shared engineering
+    services.
+
+  Cloud & Infrastructure
+
+  - Have strong experience building cloud-native applications.
+  - Are comfortable working with Docker, Kubernetes, CI/CD
+    pipelines, and containerised deployments.
+  - Have experience with solutions such as AWS Bedrock and
+    AgentCore
+  - Understand how to deploy, monitor, and operate AI services
+    in production.
+
+  AI Operations & Observability
+
+  - Have experience implementing monitoring, tracing,
+    evaluation, and cost optimisation for AI systems.
+  - Have experience with observability solutions such as Arize
+    Phoenix, Langfuse, or Langsmith
+  - Understand the operational challenges of deploying LLM-
+    powered applications, including latency, reliability,
+    hallucination monitoring, and model quality evaluation.
+
+  Collaboration & Technical Leadership
+
+  - Enjoy collaborating across multiple engineering disciplines
+    to shape technical direction and establish engineering
+    best practices.
+  - Are comfortable operating as one of a small number of senior
+    engineers, influencing architecture and platform direction
+    without necessarily having formal management
+    responsibilities.
+  - Thrive in fast-moving environments where many platform
+    capabilities are still being designed and built.
+
+  Bonus Points
+
+  Experience with any of the following would be highly
+  advantageous:
+
+  - AI gateways and model routing
+  - Prompt management platforms
+  - AI evaluation frameworks
+  - LangGraph, LangChain, LlamaIndex, DSPy, CrewAI or similar
+    orchestration frameworks
+  - Vector databases and semantic retrieval
+  - Knowledge graphs or document understanding systems
+  - Building internal AI platforms used by multiple engineering
+    teams
+
+  Benefits
+
+  We’re a scaling start up, and we enjoy sharing our success,
+  when the company succeeds, we always reinvest that in our
+  people. We also offer huge amounts of responsibility, an
+  abundance of opportunity for growth and a platform to truly
+  excel.
+
+  Financial & Insurance
+
+  - Competitive Salary (our salary bands are benchmarked at the
+    top end of the market)
+  - Equity
+  - Pension (your minimum contributions are 4% with 9fin
+    matching up to 7%)
+  - Private Medical Insurance
+  - Paid sick leave with Income Protection for long periods of
+    illness
+  - Group Life Assurance
+  - Season Ticket Loan & Cycle to Work schemes
+
+  Time off
+
+  - 25 holiday days per year
+  - Local public holidays (with the ability to exchange them for
+    alternative days)
+  - Hybrid working model, to allow you the flexibility to decide
+    how, where and when you do your best work
+  - Work abroad for up to 3 months a year
+  - 1 month paid sabbatical after 5 years of service
+  - Enhanced parental leave & flexible working arrangements
+    available
+
+  Training & Culture
+
+  - Professional learning and development budget
+  - AI experimentation budget of £800 (UK) per employee to trial
+    AI tools
+  - Quarterly team socials
+  - Summer and Winter company social events
+
+  9fin is an equal opportunities employer
+
+  At 9fin we are dedicated to building and promoting a fair
+  and inclusive workplace where everyone can reach their full
+  potential and truly belong. We recognize that building
+  diverse teams enables a more creative and productive
+  environment. If you’re excited about this role but your
+  experience doesn’t perfectly align with the job description,
+  we encourage you to apply anyway. You might just be who
+  we’re looking for — either for this role, or perhaps
+  another.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-ai-platform-engineer/11217122"
+source: Built In

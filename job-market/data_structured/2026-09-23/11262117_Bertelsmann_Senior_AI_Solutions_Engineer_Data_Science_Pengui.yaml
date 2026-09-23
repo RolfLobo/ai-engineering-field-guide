@@ -1,0 +1,51 @@
+company:
+  name: Bertelsmann
+  stage: null
+  focus: Book and media publishing house
+position:
+  title: Senior AI Solutions Engineer, Data Science, Penguin Random House (Open to
+    Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic workflows, RAG systems,
+      MCP servers, and prompt-engineered LLM applications,
+      directly shaping model behavior and tool integration.
+      LLM/agent components dominate, so it is ai-first.
+  responsibilities:
+  - Design, build, and operate LLM-powered applications and services (agentic workflows,
+    RAG, classification pipelines) over catalog, sales, and operational data
+  - Stand up and maintain MCP servers and tool integrations connecting AI models and
+    assistants to internal data and systems
+  - 'Own services end-to-end: architecture, implementation, deployment, evaluation,
+    and monitoring in AWS/Databricks'
+  - Evaluate emerging AI tooling and patterns, run structured pilots, and lead adoption
+  - Raise team AI engineering capability through working sessions, demos, pairing,
+    and internal tooling
+  use_cases:
+  - Book recommendation systems
+  - Demand forecasting for print runs and marketing spend
+  - AI-powered tools for publishing operations teams
+  - LLM-powered services over catalog, sales, and operational data
+  - Agentic applications with tool access to internal systems
+  skills:
+    genai: [Agentic Workflows, RAG, MCP, Prompt Engineering, Embeddings, LLMs, LLM
+        Evaluation, OpenAI API]
+    ml: [Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: [Databricks]
+    cloud: [AWS, AWS Bedrock, Anthropic API]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11262117'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-09-23T11:33:26.153362'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

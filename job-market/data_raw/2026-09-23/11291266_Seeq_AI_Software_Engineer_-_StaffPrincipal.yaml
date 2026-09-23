@@ -1,0 +1,195 @@
+job_id: 11291266
+title: AI Software Engineer - Staff/Principal
+company: Seeq
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Seeq
+
+  Seeq builds advanced analytics software for customers in
+  process manufacturing industries such as pharmaceuticals,
+  mining, renewables, and energy — organizations with massive
+  amounts of time-series and event data from industrial
+  operations.
+
+  We are a fully remote company that has operated this way
+  from the start, using tools like Zoom, Slack, and our
+  homegrown Qube virtual office to collaborate as if we were
+  in the same building. Our teams iterate using agile
+  practices and care deeply about clear communication, shared
+  learning, and delivering software that exceeds customer
+  expectations.
+
+  Role Overview
+
+  The AI Software Engineer is a domain-leading individual
+  contributor who helps define and scale the backend platforms
+  and AI systems supporting Seeq’s intelligent applications.
+
+  You will own highly ambiguous, cross-team technical
+  initiatives and provide architectural leadership for backend
+  platforms and agentic systems, helping establish the shared
+  infrastructure, services, APIs, and engineering patterns
+  that allow AI-enabled capabilities to operate reliably and
+  safely at scale across Seeq.
+
+  This is a deeply hands-on role. You will combine significant
+  experience building AI systems with strong backend and
+  distributed systems expertise, broad technical influence,
+  and continued involvement in designing, coding, debugging,
+  and shipping production software.
+
+  Key Responsibilities
+
+  - Set technical direction for backend and AI platform
+    capabilities: Define architecture, patterns, and technical
+    approaches for scalable systems supporting AI and agentic
+    applications.
+  - Lead high-impact AI and platform initiatives: Own complex,
+    ambiguous projects from concept through production,
+    coordinating work across engineers, teams, and
+    stakeholders.
+  - Architect agentic systems: Design and build systems
+    supporting agent routing, orchestration, tool use,
+    evaluations, runtime infrastructure, sandboxing, and
+    agent-to-agent communication.
+  - Build and evolve shared platform infrastructure: Define
+    backend services, runtime environments, interfaces, and
+    architectural patterns that other engineering teams rely
+    on to build AI-enabled applications.
+  - Build reliable distributed and data-intensive systems:
+    Develop backend services and APIs capable of supporting AI
+    workloads across large data volumes and complex workflows.
+  - Create reusable AI platform capabilities: Build shared
+    services, APIs, libraries, orchestration patterns, runtime
+    infrastructure, and developer-facing platform capabilities
+    that enable multiple teams to build, deploy, and operate
+    AI features consistently.
+  - Drive AI evaluation and reliability: Establish approaches
+    for evaluating agentic output, monitoring system behavior,
+    and improving the reliability, safety, and observability
+    of AI-enabled systems.
+  - Design systems integrations: Build integrations that allow
+    AI agents, internal services, and third-party enterprise
+    platforms to communicate effectively.
+  - Drive work from idea to production: Evaluate emerging
+    approaches and translate promising AI technologies and
+    patterns into pragmatic, maintainable production systems.
+  - Stay close to customers: Work directly with customers during
+    early deployments, understand how AI-enabled capabilities
+    perform in real-world environments, and incorporate those
+    learnings back into the product.
+  - Mentor and grow engineers: Provide technical mentorship in
+    backend architecture, platform engineering, agentic
+    systems, AI engineering, and operational excellence.
+  - Identify opportunities proactively: Surface risks, challenge
+    assumptions, and identify better technical approaches
+    rather than waiting for problems or solutions to be fully
+    defined.
+  - Collaborate with product managers and owners to develop and
+    hone a vision for how generative AI is used by analytics
+    engineering teams.
+
+  Requirements
+
+  Required:
+
+  - Minimum 10+ years of professional software engineering
+    experience, including experience operating at Staff or
+    equivalent scope
+  - A substantial portion of recent experience focused on
+    generative AI or agentic systems
+  - Proven track record leading complex AI, agentic, or platform
+    initiatives from concept through production
+  - Extensive hands-on experience building and operating agentic
+    systems, including areas such as agents,
+    routing/orchestration, tool use, evaluations, runtimes,
+    sandboxing, or related infrastructure
+  - Deep expertise in Python and backend engineering, including
+    designing large-scale distributed systems, services, APIs,
+    and data-intensive workflows
+  - Experience designing or owning shared platform services or
+    infrastructure used by multiple engineering teams,
+    including APIs, runtime systems, orchestration, deployment
+    infrastructure, or common backend services
+  - Experience with modern AI/LLM frameworks, SDKs, or
+    orchestration tooling used to build production AI and
+    agentic applications
+  - Experience developing evaluation strategies and
+    observability for AI or agentic systems
+  - Familiarity with SQL and experience with relational
+    databases such as PostgreSQL
+  - Experience deploying and operating production systems in
+    Kubernetes or another containerized runtime environment
+  - Experience building and operating software in a SaaS
+    environment
+  - Strong understanding of production AI concerns including
+    reliability, monitoring, performance, cost, and failure
+    handling
+  - Ability to evaluate emerging AI approaches and translate
+    them into pragmatic, maintainable software
+  - Demonstrated ability to take ownership of ambiguous
+    technical problems and independently drive them forward
+  - Proven technical leadership of engineers and teams while
+    maintaining strong individual hands-on contribution
+  - Strong communication skills and experience mentoring and
+    coaching engineers
+
+  Preferred:
+
+  - Experience architecting multi-agent or complex agentic
+    platforms used across multiple teams or products
+  - Experience defining shared AI or backend platform
+    capabilities used broadly across an engineering
+    organization
+  - Experience with retrieval architectures such as vector
+    search, hybrid retrieval, re-ranking, or RAG
+  - Experience integrating AI agents with third-party enterprise
+    platforms
+  - Experience working with industrial, operational, or time-
+    series data
+  - Experience building software products used by technical or
+    engineering-focused customers
+  - A background in mechanical, chemical, process, or another
+    engineering discipline before moving into software
+
+  Benefits
+
+  Seeq is a remote-first (and only) company founded by serial
+  entrepreneurs. Our executive team and board of directors
+  have extensive experience with successful startup ventures
+  in high-growth environments.
+
+  We are founded on the idea that companies need better
+  solutions for quickly and easily getting business insight
+  from their industrial process data. Our mission is to
+  provide software and services that convert that data into
+  meaningful information that the business can use to improve
+  profitability and sustainability.
+
+  We have a wonderful, kind-hearted, talented team that loves
+  to collaborate, lead by example, and exceed our customers’
+  expectations. We are certified as a great place to work, and
+  included in the Technology Fast 500 and Inc. Magazine’s Best
+  Places to Work.
+
+  The Perks of Working at Seeq
+
+  - Competitive salary, equity, and cash bonus incentives
+  - Benefits:
+
+  Seeq provides equal employment opportunities (EEO) to all
+  employees and applicants for employment without regard to
+  race, color, religion, sex, national origin, age,
+  disability, or genetics.
+
+  You must be authorized to work in the country in which you
+  reside. Seeq does not sponsor US F1 or H-1B work visas
+industries:
+  - Internet of Things
+  - Software
+  - Analytics
+posted_date: 2026-09-21
+url: "https://www.builtinla.com/job/ai-software-engineer-staff-principal/11291266"
+source: Built In

@@ -1,0 +1,110 @@
+job_id: 11039644
+title: "Software Engineer II - Backend Engineering (AI & Agentic Platforms)"
+company: Akamai Technologies
+location: IND
+locations:
+  - IND
+  - Bengaluru, IND
+remote: true
+work_type: FULL_TIME
+company_size: 10,285 Employees
+description: |
+  Does working with large quantities of data excite you?
+
+  Would you like to drive the evolution of our data
+  engineering platform?
+
+  Join our Data Engineering team
+
+  Our Platform Engineering & AI Enablement team develops the
+  enterprise's AI backbone, including MCP servers,
+  authentication frameworks, and multi-agent systems. They
+  deploy an AI development platform organization-wide,
+  creating infrastructure to ensure AI agents are secure,
+  observable, and governable at scale.
+
+  Innovate and develop ground-breaking Data Products
+
+  Seeking a Software Engineer II to join the AI enablement
+  team and develop backend services supporting enterprise AI
+  initiatives. Responsibilities include MCP server
+  development, AuthN/AuthZ frameworks, API governance, and
+  orchestration platforms. This role offers real ownership of
+  production systems and opportunities to gain expertise in a
+  rapidly evolving area of enterprise software.
+
+  As a Software Engineer II, you will be responsible for:
+
+  - Designing, building, and maintaining backend services and
+    APIs supporting enterprise agentic AI initiatives.
+  - Developing and enhancing Model Context Protocol servers,
+    incorporating internal and external tools and data sources
+    into the agent ecosystem.
+  - Implementing AuthN/AuthZ frameworks (OAuth2/OIDC, token
+    exchange, mTLS) to secure MCP servers, agents, and LLM
+    traffic effectively.
+  - Developing Python-based services and integrating with
+    agentic or LLM orchestration frameworks as project needs
+    evolve.
+  - Governing enterprise API gateway platforms, managing MCP
+    servers, agents, LLM usage, and implementing orchestration
+    workflows using appropriate enterprise tools.
+  - Collaborating with architects, security, and platform teams
+    to transform AI governance requirements into functional
+    infrastructure solutions.
+
+  Do what you love
+
+  To be successful in this role, you will:
+
+  - Demonstrate 3 to 5 years of backend software engineering
+    experience with a bachelor's degree in Computer Science or
+    a related field.
+  - Possess hands-on experience in Python, with the ability to
+    work across backend services and AI/agent frameworks.
+  - Demonstrate experience in designing and building APIs,
+    including REST and GraphQL integration.
+  - Demonstrate expertise with AuthN/AuthZ concepts like OAuth2,
+    OIDC, JWT, token exchange, and mTLS, applying them in
+    practical systems.
+  - Show expertise with API gateways or integration platforms,
+    understanding microservices architecture alongside the
+    core principles of distributed systems.
+  - Have exposure to MCP, event streaming platforms like Kafka,
+    Spark, Flink, Redis, identity management, and cloud
+    deployments using Docker/Kubernetes.
+  - Be self-motivated, highly responsible, and have good
+    communication skills
+
+  Build your career at Akamai
+
+  Our ability to shape digital life today relies on developing
+  exceptional people like you. The kind that can turn
+  impossible into possible. We’re doing everything we can to
+  make Akamai a great place to work. A place where you can
+  learn, grow and have a meaningful impact.
+
+  With our company moving so fast, it’s important that you’re
+  able to build new skills, explore new roles, and try out
+  different opportunities. There are so many different ways to
+  build your career at Akamai, and we want to support you as
+  much as possible. We have all kinds of development
+  opportunities available, from programs such as GROW and
+  Mentoring, to internal events like the APEX Expo and tools
+  such as Linkedin Learning, all to help you expand your
+  knowledge and experience here.
+
+  Learn more
+
+  Not sure if this job is the right match for you or want to
+  learn more about the job before you apply? Schedule a
+  15-minute exploratory call with the Recruiter and they would
+  be happy to share more details.
+industries:
+  - Cloud
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-09-21
+url: "https://builtin.com/job/software-engineer-ii-backend-engineering-ai-agentic-platforms/11039644"
+source: Built In

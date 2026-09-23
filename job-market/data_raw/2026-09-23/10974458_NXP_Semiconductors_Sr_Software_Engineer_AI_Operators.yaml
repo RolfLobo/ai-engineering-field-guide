@@ -1,0 +1,89 @@
+job_id: 10974458
+title: Sr. Software Engineer – AI Operators
+company: NXP Semiconductors
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 21,993 Employees
+description: |
+  Job Summary:
+
+  As a Sr. Developer, you’ll take ownership of the end-to-end
+  design, implementation, and optimization of our core AI
+  operator modules/kernels. You will be working with diverse
+  cross-functional teams, enhance the performance,
+  reliability, and scalability of our edge AI processors. Your
+  contributions will directly impact our ability to deliver
+  best-in-class AI/ML performance across our product
+  portfolio.
+
+  What You’ll Do:
+
+  - Design and Development:
+    - Design and Development of our AI operator modules/kernels to
+      maximize performance and efficiency on our custom ISA-
+      based edge AI processors.
+    - Understand mathematics of AI operators and come up with
+      solutions towards implementing them in our hardware.
+    - Understand overall architecture, evaluate cutting-edge
+      methodologies to enhance AI operator performance in both
+      currently released and future products.
+    - Develop, optimize, and maintain high-performance kernel-
+      level code in C/C++ (and assembly when needed) for AI/ML
+      operators.
+    - Implement innovative features that streamline system
+      processes, reduce latency.
+    - Enthusiastic in exploring overall SW stack to come up with
+      innovative solutions.
+  - Performance Optimization & Debugging:
+    - Utilize advanced profiling and debugging tools (e.g., GDB,
+      trace analyzers) to diagnose and resolve performance
+      bottlenecks.
+    - Drive continuous performance improvements through rigorous
+      testing and iterative optimization strategies.
+  - Cross-Functional Collaboration:
+    - Work closely with hardware architects, compiler teams, and
+      application developers to ensure seamless integration of
+      kernel components with higher-level systems.
+  - Innovation & Continuous Learning:
+    - Stay current on emerging trends in AI operator  development,
+      and specialized ISA optimizations.
+    - Champion a culture of innovation by proposing and
+      implementing forward-thinking solutions that drive our
+      technology forward.
+
+  What We’re Looking For:
+
+  - Educational Background:
+    - Bachelor’s or Master’s degree in Computer Science,
+      Electrical/Computer Engineering, or a related field; a
+      Ph.D. is a strong plus.
+  - Proven Expertise:
+    - 3+ years of hands-on experience in kernel or low-level
+      systems software development, with demonstrable
+      contributions to production-quality code.
+    - Experience with AI/ML operator development or specialized
+      compiler optimizations.
+    - Exposure to hardware/software co-design and emerging trends
+      in AI hardware acceleration.
+    - Deep knowledge of OS internals, memory management, process
+      scheduling, and performance tuning.
+    - Expertise in system-level programming using C/C++ and
+      proficiency in assembly language for specialized ISA
+      implementations.
+    - Strong familiarity with kernel debugging and profiling tools
+      (e.g.,  GDB, Gprof, or equivalent).
+    - Track record of optimizing software performance in complex,
+      high-performance computing environments.
+
+  More information about NXP in India...
+
+  #LI-29f4
+industries:
+  - Automotive
+  - Internet of Things
+  - Mobile
+  - Semiconductor
+  - Industrial
+posted_date: 2026-09-02
+url: "https://builtin.com/job/sr-software-engineer-ai-operators/10974458"
+source: Built In

@@ -1,0 +1,125 @@
+job_id: 11122224
+title: AI Automation Engineer
+company: Greenboard, Inc.
+location: New York, USA
+work_type: FULL_TIME
+company_size: 165000 Employees
+description: |
+  ABOUT GREENBOARD
+
+  At Greenboard, we're building the future of financial
+  compliance. Greenboard is the unified, AI-native compliance
+  operating system for RIAs, fintechs, private funds, hedge
+  funds, and more. It replaces the fragmented mix of legacy
+  tools and automates more than previously possible. By
+  centralizing data and workflows, Greenboard helps firms
+  reduce regulatory risk, simplify their technology stack,
+  modernize how they run compliance, and save money.
+
+  Our founding team includes engineers who have scaled
+  products at Amazon, Google, and multiple unicorn startups.
+  We're backed by Y Combinator, General Catalyst, Base10, and
+  other top-tier investors, and have raised over $20M to date.
+  Brand-name financial institutions already rely on
+  Greenboard, and we're growing fast.
+
+  ABOUT THE ROLE
+
+  You'll be our first dedicated Automation engineer. Our
+  customers are regulated financial institutions, which means
+  a missed bug is not just a bad user experience. It can mean
+  an incomplete books-and-records archive, a marketing review
+  that never routed for approval, or an attestation that
+  quietly failed to send. Quality is part of the product we
+  sell.
+
+  You'll own how we test: the framework, the automated suites,
+  and the release process, built from scratch and then
+  embedded with the engineers who ship. You'll also help us
+  solve something most automation engineers have never had to
+  solve, which is how to test AI systems whose output is not
+  deterministic.
+
+  There is no existing playbook here. If you like defining the
+  standard rather than enforcing someone else's, this is the
+  seat.
+
+  WHAT YOU'LL OWN
+
+  - The foundation. Test framework, automated regression suites,
+    and QA practices built from zero, with your call on
+    tooling
+  - The critical paths. Message archiving and supervision,
+    marketing review routing, employee attestations, and audit
+    trails, which are the flows that cannot break
+  - Testing the AI. How we evaluate AI-driven detection and
+    review, including golden datasets and quality bars for
+    output that is not deterministic
+  - Data integrity at scale. End-to-end validation from
+    ingestion of tens of millions of messages a day through to
+    what a compliance officer sees on screen
+  - The release gate. Bug triage, release sign-off, and the
+    definition of deployment-ready at Greenboard
+
+  WHO ARE YOU?
+
+  - Love to move fast and build things
+  - Looking for deep ownership over the quality of everything we
+    ship
+  - Obsess over the customers you're building for
+  - An excellent communicator
+  - Value collaboration
+  - Located in NYC
+
+  QUALIFICATIONS
+
+  - 3+ years testing software where being wrong has consequences
+    beyond a bad review: fintech, healthtech, payments, or
+    anywhere an audit followed a bug
+  - Able to test a system you cannot fully see from the UI.
+    Comfortable with REST APIs and querying the database
+    directly, because verifying a feature here means checking
+    what landed and what the retention policy did with it, not
+    just what rendered
+  - Write Playwright or Cypress suites that survive a redesign,
+    with opinions about selectors, fixtures, and what belongs
+    in an integration test versus an end-to-end one
+  - Can read a feature spec and name the states nobody thought
+    about: the employee who left mid-attestation, the message
+    that arrives out of order, the marketing piece edited
+    after approval
+  - Have held a release before, explained why to someone who
+    wanted it out, and been right
+
+  NICE TO HAVE
+
+  - Tested a system where output is not deterministic and had to
+    define correct as a threshold rather than an exact match
+  - Worked in a Node JS and React codebase on AWS, or debugged a
+    queue-based ingestion pipeline
+  - Been through a SOC 2 audit and know what evidence a test
+    suite can produce for one
+  - Sat with a compliance officer, an advisor, or a back-office
+    team and watched them work
+  - Interest in the financial industry is a plus, but not
+    necessary
+
+  BENEFITS
+
+  - 401(k) with 5% company match
+  - Medical, dental, and vision coverage
+  - 15 days PTO + 11 company holidays + flexible sick time
+  - 2 additional PTO days for each year of service (up to 10
+    additional days)
+  - 10 remote days per year plus additional around the holidays
+  - Bi-annual off-sites and team retreats
+  - Front-row seat to building the operating backbone of modern
+    finance
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-09-10
+url: "https://builtin.com/job/ai-automation-engineer/11122224"
+source: Built In

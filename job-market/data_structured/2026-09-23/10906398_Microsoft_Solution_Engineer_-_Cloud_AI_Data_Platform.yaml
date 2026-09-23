@@ -1,0 +1,51 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud data platform and analytics products
+position:
+  title: Solution Engineer - Cloud & AI Data Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a technical pre-sales/solution engineering role
+      around Azure data platform products. The person demos,
+      designs architectures, and unblocks customers; they do not
+      shape model behavior (no prompt engineering, RAG design,
+      training, or evals). AI (e.g., Fabric Copilot) is mentioned
+      only as product knowledge, so the role is ai-support.
+  responsibilities:
+  - Drive technical sales with decision makers using demos and PoCs
+  - Lead hands-on engagements such as hackathons and architecture workshops
+  - Build trusted relationships with platform leads and co-design secure, scalable
+    architectures
+  - Resolve technical blockers and objections, collaborating with engineering
+  - Maintain deep knowledge of Microsoft Fabric, Azure Databricks, Purview, and Azure
+    Databases
+  - Maintain knowledge of on-prem EDW, Hadoop, and BI solutions
+  - Represent Microsoft in cloud database and analytics communities and customer forums
+  use_cases:
+  - Cloud database and analytics migrations
+  - Data warehouse modernization
+  - Fabric Data Platform adoption and deployment
+  - Secure, scalable data architecture design for enterprises
+  - Big data and on-prem EDW migration to Azure
+  skills:
+    genai: [Copilot Studio]
+    ml: []
+    web: []
+    databases: [Azure Synapse, Cosmos DB, PostgreSQL, SQL DB, Teradata, Netezza, Exadata]
+    data: [Azure Databricks, Data Governance, Hadoop, Cloudera, Hortonworks]
+    cloud: [Azure, Microsoft Fabric]
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10906398'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:06:07.424248'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

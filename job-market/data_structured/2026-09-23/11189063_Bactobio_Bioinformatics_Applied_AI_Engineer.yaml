@@ -1,0 +1,50 @@
+company:
+  name: Bactobio
+  stage: null
+  focus: |-
+    Biotech discovering novel antimicrobials via AI and
+    synthetic biology
+position:
+  title: Bioinformatics Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-step LLM workflows with
+      prompts, tool design, orchestration, and
+      evaluation/benchmarking - directly shaping model behaviour
+      and output quality. It involves LLMs querying knowledge
+      graphs and biological data, so it is ai-first.
+  responsibilities:
+  - Collaborate with wet-lab scientists to turn ambiguous scientific decisions into
+    well-specified tasks with clear success criteria
+  - Design and build multi-step LLM workflows that query biological data and knowledge
+    graphs and produce recommendations with traceable reasoning
+  - Build benchmarking infrastructure and curate evaluation datasets
+  - Keep up with frontier model capabilities and iterate on models, prompts, tool
+    design, and orchestration
+  - Contribute to the software platform including data architecture, pipelines, and
+    model/workflow deployment
+  use_cases:
+  - LLM-driven decision support for bioinformatics and metabolomic chemistry
+  - Recommendations for antimicrobial discovery from proprietary biological data
+  - Querying biological data and knowledge graphs with traceable reasoning
+  - Benchmarking and evaluation of LLM workflows for scientific tasks
+  skills:
+    genai: [LLMs, Function Calling, LLM Evaluation]
+    ml: [Machine Learning]
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Multimodal Data, Omics Data]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11189063'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:24:50.519391'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

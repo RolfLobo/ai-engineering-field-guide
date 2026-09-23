@@ -1,0 +1,189 @@
+job_id: 10859494
+title: Senior Software Engineer, Applied AI and Customer Solutions
+company: Coursera + Udemy 
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 1,500 Employees
+description: |
+  About Coursera + Udemy
+
+  Coursera and Udemy are now one company, bringing together
+  two mission-driven brands to create the world’s most
+  powerful platform for turning learning into progress.
+  Together, we help more than 300 million learners and 12,000+
+  enterprise customers build the skills they need for a world
+  being reshaped by AI. Read more about the combined company
+  by visiting our blog.
+
+  Why join us now?
+
+  AI is transforming how people learn, work, and grow, and the
+  need for new skills has never been greater. Coursera brings
+  trusted content and credentials from leading university and
+  industry partners, while Udemy brings a dynamic skills
+  marketplace and global network of real-world experts. By
+  combining these strengths, we can connect more people and
+  organizations to the skills they need, when they need them.
+
+  Shape what comes next
+
+  By joining our team, you’ll have the opportunity to reshape
+  how the world learns and applies skills—and help millions of
+  people participate in the new economy. Bring your ideas,
+  expertise, and perspective to meaningful work that can make
+  a difference at global scale.
+
+  Job Overview
+
+  As a Senior Software Engineer, you will join a fast-paced
+  innovation team that builds and deploys AI-powered solutions
+  directly with Coursera's enterprise and campus customers.
+  You will sit at the intersection of AI/Data Engineering,
+  cloud and security architecture, and customer-facing
+  solutioning — working hands-on with customers to map their
+  workflows and data, prototype solutions quickly, and harden
+  the ones that prove valuable into production deployments.
+
+  You'll operate across the full engagement lifecycle: scoping
+  a customer's environment and pain points like a consultant,
+  prototyping working demos in real time with the customer,
+  and then hardening the strongest patterns into production-
+  grade, secure and compliant deployments. This role is
+  customer-facing and will require regular travel to customer
+  sites (domestic and occasionally international) for
+  discovery, prototyping, and go-live phases of engagements.
+  You will work closely with Product Managers, AI Specialists,
+  Data Analysts, and other Engineers on the team, and directly
+  with customer executive sponsors and IT/data owners, to
+  decide what gets standardized, deployed, or retired.
+
+  Key Responsibilities
+
+  - Scope customer environments directly with executive sponsors
+    and IT/data owners — mapping systems, data models, and
+    workflows to identify the real business problem, not just
+    the stated one
+  - Rapidly prototype and demo working solutions in front of
+    customers, iterating in real time to prove value fast
+  - Serve as the bridge between customer & core engineering team
+    to harden validated prototypes into production deployments
+  - Design and implement multi-tenant, hybrid, or customer-
+    controlled deployment architectures, as per customer's
+    data residency, privacy, and IT-maturity requirements
+  - Build and own identity and access management, encryption,
+    and secure cross-network connectivity (mTLS, VPC
+    peering/PrivateLink, API gateways) for customer-embedded
+    deployments
+  - Bring security, data-residency and compliance judgment into
+    discovery conversations before a commercial commitment is
+    made, not after
+  - Own CI/CD, observability, and production support for systems
+    living inside customer environments
+  - Recognize repeatable patterns across customer engagements
+    and feed field evidence back to Product to inform what
+    should be standardized, deployed more broadly, or retired
+  - Collaborate closely with Product Managers, AI Specialists,
+    and Program Managers to scope problem statements with a
+    laser focus on customer and business impact
+  - Travel to customer sites as needed (expect regular travel)
+    to support scoping, prototyping, and go-live phases of an
+    engagement, including in-person workshops and executive
+    readouts
+
+  Basic Qualifications
+
+  - 5+ years of experience in a software engineering role, with
+    strong hands-on backend engineering and cloud
+    infrastructure experience
+  - 1+ years of experience building production-grade agentic AI
+    solutions
+  - Proficiency in backend languages such as Python, Java,
+    Typescript and technologies such as Docker, Kubernetes and
+    Kafka with comfort working across the stack
+  - Deep understanding of cloud platforms (AWS preferred), able
+    to design and operate both multi-tenant and hybrid
+    customer-cloud deployment models
+  - Strong experience with data engineering fundamentals —
+    ingesting, cleaning, and normalizing messy, inconsistent
+    customer data across disparate source systems
+  - Working knowledge of identity and access management,
+    encryption/key management, and secure network patterns
+    (VPC peering, PrivateLink, mTLS) for customer-embedded or
+    regulated environments
+  - Demonstrated comfort operating directly with customers —
+    scoping ambiguous problems, running discovery, and demoing
+    work-in-progress solutions live, in person and remotely
+  - Willingness and ability to travel regularly to customer
+    sites, domestically and occasionally internationally, as
+    engagement needs require
+  - Prior experience leading projects and debugging complex
+    issues with minimal supervision
+
+  Preferred Qualifications
+
+  - Experience with modern agentic AI tooling such as LangChain,
+    LangGraph, FastMCP, RAG, or MCP
+  - Experience with Postgres, DuckDB, pgvector, or similar
+    analytical/transactional data layers
+  - Prior experience in a solutions engineering, professional
+    services, or technical consulting role where you owned a
+    customer relationship end-to-end, including on-site
+    engagement
+  - Familiarity with data privacy and residency regimes relevant
+    to enterprise/education/government customers (e.g., GDPR,
+    FERPA, DPDPA, HIPAA)
+  - Demonstrated ability to work in a fast-paced, ambiguous
+    environment and make sound technical trade-offs with
+    limited guidance
+  - Excellent communication skills, with the ability to
+    translate technical constraints into terms an executive
+    sponsor or non-technical stakeholder can act on
+
+  Why Join Us?
+
+  - Work on high-visibility engineering problems with direct,
+    measurable impact on enterprise and campus customers
+  - Work directly with strategic customers across geographies,
+    owning engagements end-to-end rather than a narrow slice
+    of a roadmap
+  - Directly influence what graduates from customer-facing
+    custom solutions into Coursera's core product
+  - Be part of a lean, cross-functional team (Engineering, AI
+    Specialists, Product, Program Management) with high
+    autonomy and high trust and become a go-to technical
+    leader
+  - Be part of a mission-driven company transforming global
+    access to education and upskilling in the AI era
+
+  #LI-C
+
+  For more information about how Coursera collects and uses
+  your personal information, please see our Coursera + Udemy
+  Global Applicant Privacy Notice.
+
+  To protect against recruitment fraud, Coursera + Udemy
+  recruiters only communicate via official
+  coursera.org/udemy.com email addresses and never through
+  personal accounts. We do not accept resumes via email or
+  social media; please submit all applications directly
+  through our careers page.
+
+  If you encounter suspicious recruitment activity, please
+  report it via our Fraudulent Activity Submission Form.
+  Coursera is an Equal Opportunity Employer committed to
+  building a welcoming and inclusive workplace. We consider
+  all qualified applicants without regard to legally protected
+  characteristics and provide reasonable accommodations upon
+  request at recruiting@coursera.org.
+industries:
+  - Artificial Intelligence
+  - Consumer Web
+  - Edtech
+  - Enterprise Web
+  - HR Tech
+  - Social Impact
+  - Generative AI
+posted_date: 2026-09-21
+url: "https://builtin.com/job/senior-software-engineer-applied-ai-and-customer-solutions/10859494"
+source: Built In

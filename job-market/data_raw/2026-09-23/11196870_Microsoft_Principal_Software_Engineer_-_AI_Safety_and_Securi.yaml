@@ -1,0 +1,185 @@
+job_id: 11196870
+title: Principal Software Engineer - AI Safety and Security
+company: Microsoft
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Overview
+
+  AI systems are rapidly becoming more capable, autonomous,
+  interconnected, and embedded in products people depend on.
+  As models gain memory, tools, identity, and the ability to
+  act across systems, new risks can emerge through long-
+  running interactions, coordinated agents, and behavior
+  spanning accounts, products, and time—often beyond what any
+  individual product or runtime control can see. Within the
+  Artificial Generative Intelligence Security (AeGIS) team,
+  the AI Safety Platform (AISP) is Microsoft's shared AI
+  observability, detection, investigation, and hunting
+  platform built for this new landscape. We connect fragmented
+  activity across Microsoft's AI estate and turn it into
+  reusable detections, investigation-ready evidence, threat
+  intelligence, and customer protection.
+
+  We are looking for a hands-on Principal Software Engineer
+  for a deeply consequential technical builder role at the
+  intersection of cybersecurity and generative AI. You will
+  lead through code and ideas: defining detailed
+  architectures, building large-scale data and detection
+  systems, working through security and privacy reviews, and
+  partnering with cross-company leaders, product engineers,
+  applied scientists, threat hunters, and incident responders
+  from early exploration through production operation. The
+  ideal candidate is deeply curious about how AI systems work,
+  how they break, and how to make them safer and more robust.
+
+  We are a mission-driven, collaborative team that leans into
+  uncertainty, learns quickly, and builds on one another's
+  ideas. Our people bring a wide range of backgrounds,
+  disciplines, and life experiences, and we believe that
+  diversity makes both our engineering and our judgment
+  stronger. We want someone energized by technically
+  fascinating problems and by the responsibility to protect
+  users at the scale of some of the world's most widely
+  deployed AI platforms.
+
+  Microsoft’s mission is to empower every person and every
+  organization on the planet to achieve more. As employees we
+  come together with a growth mindset, innovate to empower
+  others, and collaborate to realize our shared goals. Each
+  day we build on our values of respect, integrity, and
+  accountability to create a culture of inclusion where
+  everyone can thrive at work and beyond.
+
+  Responsibilities
+
+  - Lead the design and implementation of shared platform
+    capabilities: guide architecture and technology decisions,
+    establish reusable engineering patterns, write critical
+    production code, and unblock complex technical work across
+    teams.
+  - Build and evolve company-wide AI observability and
+    monitoring systems that enable attack reconstruction,
+    automated detection, evaluation, threat hunting, and
+    investigation, using modern agentic development tools and
+    AI-assisted coding workflows to prototype, evaluate, and
+    iterate rapidly.
+  - Design detection infrastructure for attack signatures,
+    pattern matching, behavioral anomaly detection, model-
+    assisted analysis, and emerging research techniques. Apply
+    emerging AI security research to detection, evaluation,
+    observability, and safer implementation patterns.
+  - Build and operate large-scale distributed data processing
+    systems using technologies such as Spark, Kusto, data
+    lakes, and batch and streaming platforms. Develop high-
+    volume data integrations and correlation pipelines that
+    turn multi-source telemetry into investigation-ready
+    evidence, threat intelligence, trends, and reporting.
+  - Drive technical partner conversations and security and
+    privacy architecture reviews, resolve detailed design
+    constraints, and work with teams through integration and
+    implementation.
+  - Review designs and code, mentor engineers and scientists,
+    and raise the technical bar across teams.
+
+  Qualifications
+
+  Required Qualifications:
+
+  - Bachelor's Degree in Computer Science or related technical
+    field AND 6+ years technical engineering experience,
+    including significant ownership of distributed data,
+    platform, or security products with coding in languages
+    including, but not limited to, C, C++, C#, Java,
+    JavaScript, or Python
+    - OR equivalent experience.
+
+
+
+  Other Requirements: Ability to meet Microsoft, customer
+  and/or government security screening requirements are
+  required for this role. These requirements include, but are
+  not limited to the following specialized security
+  screenings:
+
+  - Microsoft Cloud Background Check: This position will be
+    required to pass the Microsoft background and Microsoft
+    Cloud background check upon hire/transfer and every two
+    years thereafter.
+
+  Preferred Qualifications: 
+
+  - 2+ years of experience working on modern AI systems, such as
+    copilots, agent-based products, LLM applications, agent
+    orchestration and tool use, embeddings, vector databases,
+    retrieval-augmented generation, or evaluations.
+  - 2+ years of experience big data engineering, such as Spark,
+    Kusto, data lakes, batch and streaming pipelines, data
+    quality, performance tuning, and cost and reliability
+    trade-offs.
+  - Demonstrated success designing and delivering complex
+    production systems in ambiguous, cross-functional
+    environments, identifying and addressing security and
+    privacy risks in complex production systems.
+  - Proven coding, system design, written communication, and
+    technical leadership skills.
+  - End-to-end technical ownership of complex platforms, data,
+    security, or AI products.
+  - Hands-on experience with alerting, triage, investigation,
+    threat hunting, or incident response.
+  - Experience leading security and privacy architecture
+    reviews, applying threat-modeling and secure-by-design
+    principles, and translating review requirements into
+    implementable designs.
+  - Deep understanding of agentic systems, tools, memory,
+    embeddings, and AI system failure modes.
+  - Experience with cloud-native distributed platforms,
+    infrastructure as code, CI/CD, and technologies such as
+    Azure Data Factory, Databricks, Kubernetes, or equivalent
+    systems.
+  - Demonstrated record of mentoring and influencing engineers,
+    researchers, product leaders, and partner organizations
+    without direct authority.
+
+
+
+  Software Engineering IC5 - The typical base pay range for
+  this role across the U.S. is USD $142,800 - $274,800 per
+  year. There is a different range applicable to specific work
+  locations, within the San Francisco Bay area and New York
+  City metropolitan area, and the base pay range for this role
+  in those locations is USD $188,000 - $304,200 per year.
+
+
+
+  Certain roles may be eligible for benefits and other
+  compensation. Find additional benefits and pay information
+  here: https://careers.microsoft.com/us/en/us-corporate-pay
+
+  This position will be open for a minimum of 5 days, with
+  applications accepted on an ongoing basis until the position
+  is filled.
+
+  Microsoft is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to age, ancestry, citizenship, color, family or
+  medical care leave, gender identity or expression, genetic
+  information, immigration status, marital status, medical
+  condition, national origin, physical or mental disability,
+  political affiliation, protected veteran or military status,
+  race, ethnicity, religion, sex (including pregnancy), sexual
+  orientation, or any other characteristic protected by
+  applicable local laws, regulations and ordinances. If you
+  need assistance with religious accommodations and/or a
+  reasonable accommodation due to a disability during the
+  application process, read more about requesting
+  accommodations.
+industries:
+  - Software
+  - Quantum Computing
+  - Metaverse
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-09-18
+url: "https://www.builtinla.com/job/principal-software-engineer-ai-safety-and-security/11196870"
+source: Built In

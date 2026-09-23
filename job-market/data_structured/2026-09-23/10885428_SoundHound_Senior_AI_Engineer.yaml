@@ -1,0 +1,53 @@
+company:
+  name: SoundHound
+  stage: null
+  focus: Voice, generative and conversational AI products
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires deep prompt engineering knowledge and
+      configuring conversational AI (Amelia) to meet client use
+      cases, which shapes model behavior and output quality.
+      LLM/conversational components are central, so it is ai-
+      first. It is also customer-facing delivery work.
+  responsibilities:
+  - Deliver large scale AI projects for enterprise customers
+  - Collaborate on engineered, tested and documented software libraries and applications
+    in Java 8, Linux and MySQL
+  - Provide engineers with architecture designs and guidance to implement use cases
+  - Coordinate code promotion across environments and provide weekly release notes
+    to clients
+  - Run client configuration and integration streams with the on-site team and liaise
+    with global Amelia teams
+  - Convert use cases into requirements before each sprint based on Amelia technology
+    strengths
+  - Prepare training materials and deliver web-based and instructor-led training for
+    client capability building
+  - Track CSAT, MTTD, velocity and delivered business value to meet business case
+    objectives
+  use_cases:
+  - Enterprise conversational AI platform deployment
+  - Voice-enabled customer interactions
+  - Customer support automation
+  - Client configuration and integration of the Amelia AI platform
+  skills:
+    genai: [Conversational AI, Prompt Engineering]
+    ml: []
+    web: []
+    databases: [MySQL]
+    data: []
+    cloud: []
+    ops: [Linux, DevOps, Shell Scripting]
+    languages: [Java, Groovy]
+    domains: [NLP]
+    other: [NLU]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10885428'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:04:47.164812'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

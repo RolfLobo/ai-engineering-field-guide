@@ -1,0 +1,206 @@
+job_id: 11179644
+title: "Forward Deployed Engineer - AI & Agentic Engineer"
+company: Kyndryl
+location: London, GBR
+work_type: FULL_TIME
+company_size: 46,070 Employees
+description: |
+  Who We Are
+
+  At Kyndryl, we run and reimagine the mission-critical
+  technology systems that drive advantage for the world’s
+  leading businesses.  We are at the heart of progress; with
+  proven expertise and a continuous flow of AI-powered
+  insight, enabling smarter decisions, faster innovation, and
+  a lasting competitive edge. For our people—Kyndryls—that
+  means doing purposeful work that powers human progress. Join
+  us and experience a flexible, supportive environment where
+  your well-being is prioritized and your potential can
+  thrive.
+
+  The Role
+
+  Your Role
+
+  As a Forward Deployed Engineer (FDE) with an AI & Agentic
+  Engineering focus (Band 8), you own delivery of AI
+  applications for complex customer engagements, including the
+  agentic systems and generative AI features that go into
+  production in close collaboration with platform engineering.
+  You translate business challenges into technical solutions,
+  build and iterate AI applications, and work hand-in-hand
+  with the platform engineers on the team throughout design,
+  build, and deployment. You’re accountable for what you
+  build, including how well it holds up once people are
+  actually using it.
+
+  You operate with significant autonomy, bring deep expertise
+  in agentic AI architectures and applied software
+  engineering, and confidently bridge engineering rigour with
+  business value. You use modern AI development tools and
+  sound engineering practice across the full delivery
+  lifecycle to accelerate learning, improve quality, and
+  deliver measurable impact.
+
+  What You Will Do
+
+  Depending on the engagement, you’ll draw on some of the
+  below more than others — not every bullet applies to every
+  project.
+
+  - Translate business challenges into agentic AI applications
+    and generative AI use cases
+
+  - Build and iterate AI applications: agentic workflows and the
+    frameworks that run them, RAG pipelines, and LLM API
+    integrations
+
+  - Process unstructured data into condensed, structured
+    knowledge, including ontology extraction
+
+  - Write production-grade Python services (FastAPI) with solid
+    engineering practices: design, testing, code review, CI/CD
+
+  - Work with relational and graph databases (e.g. Postgres,
+    Neo4j) to model and serve data behind AI applications
+
+  - Work closely with platform engineering throughout deployment
+    — hosting and MLOps/LLMOps — without owning that
+    infrastructure yourself
+
+  - Define AI governance and responsible-use guardrails: data
+    privacy boundaries and policy enforcement (OPA/Rego)
+
+  - Instrument AI applications for observability (OpenTelemetry,
+    Prometheus)
+
+  - Guide clients through legacy modernisation into AI-enabled
+    workflows, troubleshooting performance and reliability
+    issues
+
+  - Capture deployment learnings and share best practices to
+    inform core AI platform frameworks
+
+  - Contribute code, reusable agentic patterns, and feedback to
+    core platform teams
+
+  Who You Are
+
+  You don’t need to tick every box below to apply — this
+  reflects the breadth of the role, not a strict checklist.
+
+  Required Skills and Experience
+
+  - 5+ years of hands-on software engineering experience, with
+    exposure to AI/ML integration and API design
+
+  - Strong Python engineering (FastAPI), with solid SDLC
+    practices: design, testing, code review, CI/CD, Git &
+    GitHub
+
+  - Hands-on experience with agentic AI frameworks (examples
+    include LangGraph, CrewAI, AutoGen, Semantic Kernel,
+    OpenAI’s Agents SDK, and Google’s Agent Development Kit)
+    and MCP (Model Context Protocol)
+
+  - Practical experience building RAG/LLM-based pipelines and
+    working with vector databases
+
+  - Experience with relational and graph databases
+    (e.g. Postgres, Neo4j) and Docker for building and running
+    AI applications
+
+  - Hands-on familiarity with modern AI coding copilots
+    (e.g. Claude, Codex, Cursor)
+
+  Preferred Skills and Experience
+
+  - Familiarity with observability instrumentation for AI
+    systems (OpenTelemetry, Prometheus)
+
+  - Experience with AI/ML frameworks (TensorFlow, PyTorch) and
+    the Hugging Face / open-source AI ecosystem
+
+  - Experience with image understanding and OCR
+
+  - Working knowledge of policy-as-code (OPA/Rego) for AI
+    governance and guardrails
+
+  - Understanding of LLM governance: data privacy, guardrails,
+    and responsible-use controls
+
+  - Experience guiding clients through legacy application
+    modernisation into AI-enabled workflows
+
+  - T-shaped profile: solid technical expertise in AI
+    engineering, broad understanding across enterprise IT and
+    technical consulting
+
+  - Ability to serve as a trusted advisor, translating business
+    requirements into technical roadmaps for diverse
+    stakeholders
+
+  - Willingness to travel and work on customer premises as
+    required
+
+  - Degree in Computer Science, Informatics, Data Science,
+    Engineering, Physics, Mathematics, or a related discipline
+    — or equivalent professional experience
+
+  Being You
+
+  The “Kyn” in Kyndryl means kinship, which represents the
+  strong bonds we have with each other, our customers and our
+  communities. We focus on ensuring all Kyndryls feel included
+  and we welcome people of all cultures, backgrounds, and
+  experiences. Even if you don’t meet every requirement, we
+  encourage you to apply. We believe in growth, and we’re
+  excited to see what you can bring. At Kyndryl, employee
+  feedback has told us that our number one driver of employee
+  engagement is belonging. That sense of belonging — being a
+  valued, respected, trusted member of the team — is
+  fundamental to our culture and fueling great experiences for
+  our customers. This dedication to welcoming everyone into
+  our company means that Kyndryl gives you the ability to
+  thrive and contribute to our culture of empathy and shared
+  success. That’s The Kyndryl Way.
+
+  What You Can Expect
+
+  Your career with us isn’t just a job—it’s an adventure with
+  purpose.  We offer a dynamic, hybrid-friendly culture that
+  supports your well-being and empowers you to grow. Our Be
+  Well programs are thoughtfully designed to support your
+  financial, mental, physical, and social health—because we
+  know that when you feel your best, you do your best.  From
+  your very first day, you’ll dive into impactful work that
+  powers the systems our customers rely on every day. You
+  won’t just contribute—you’ll make a difference, tackling
+  meaningful projects that sharpen your skills and fuel your
+  growth. We’re here to champion your journey. With powerful
+  tools to chart your career path, personalized development
+  goals aligned with your ambitions, and continuous feedback
+  to keep you inspired and on track, you’ll have everything
+  you need to thrive and evolve. You’ll develop in-demand
+  skills to grow your career and achieve your ambitions with
+  access to cutting-edge learning opportunities—from
+  certifications with Microsoft, Google, and Amazon to
+  coaching and hands-on experiences. And through it all,
+  you’ll be part of a culture that values empathy, restless
+  learning, and a devotion to shared success. We want you to
+  thrive here—and we’re committed to helping you do just that.
+  Ready to make an impact? Join us and help shape what’s next.
+
+  Get Referred!
+
+  If you know someone that works at Kyndryl, when asked ‘How
+  Did You Hear About Us’ during the application process,
+  select ‘Employee Referral’ and enter your contact's Kyndryl
+  email address.
+industries:
+  - Cloud
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-22
+url: "https://builtin.com/job/forward-deployed-engineer-ai-agentic-engineer/11179644"
+source: Built In

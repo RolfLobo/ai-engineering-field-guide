@@ -1,0 +1,148 @@
+job_id: 11226875
+title: "AI Engineer – Agentic AI & Cloud Discovery"
+company: Pragmatike
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 11 Employees
+description: |
+  Location: India, Remote-First Employment: Full-Time Start
+  Date: November 2026 Experience: 4+ years Language: Fluent
+  English required Industry: Cybersecurity / Enterprise SaaS /
+  AI Security
+
+  About the Opportunity
+
+  Pragmatike is recruiting on behalf of a global enterprise
+  cybersecurity company building a new generation of products
+  to secure AI agents, LLM-powered applications, and the data
+  they access.
+
+  The engineering organization is scaling rapidly in India,
+  with two AI Engineer openings focused on turning AI and
+  machine learning capabilities into reliable, production-
+  grade security products.
+
+  We’re looking for engineers who are equally comfortable
+  building production services in Go and developing LLM/ML
+  pipelines in Python, with the ability to move quickly from
+  experimentation to hardened production systems.
+
+  You’ll join one of two workstreams:
+
+  - Agentic AI Forensics: Turn agent traces, prompts, tool
+    calls, and security events into structured, explainable
+    findings for security analysts using LLM reasoning, RAG,
+    structured extraction, and rigorous evaluation.
+  - Cloud Discovery: Classify cloud resources and workloads to
+    identify AI agents, model endpoints, and AI-enabled
+    applications, while inferring their purpose and security
+    risk using LLM/ML classification at scale.
+
+  Both workstreams share the same foundations: Go for
+  production services, Python for experimentation and data
+  pipelines, LLM APIs, rigorous evaluation, and cloud-native
+  deployment.
+
+  What You’ll Do
+
+  - Design and build LLM-powered analysis and classification
+    pipelines, then productionize them as Go services.
+  - Prototype approaches in Python, including prompting
+    strategies, RAG, structured extraction, and ML
+    classifiers, and ship solutions that meet defined accuracy
+    targets.
+  - Define ground-truth datasets, evaluation metrics, and
+    regression suites to continuously measure and improve
+    model quality.
+  - Monitor model quality and drift in production and build
+    processes to identify and address degradation.
+  - Collaborate with security researchers to translate attack
+    patterns and risk signals into detection and summarization
+    logic.
+  - Integrate AI-powered capabilities with event, storage, and
+    UI layers to surface actionable results to security teams.
+  - Use AI-assisted development workflows to accelerate
+    implementation, testing, debugging, and experimentation.
+
+  What We’re Looking For
+
+  - 4+ years of software engineering experience, including 2+
+    years shipping LLM- or ML-backed features to production.
+  - Strong Go skills for production backend services and strong
+    Python skills for experimentation and data pipelines.
+  - Hands-on experience with LLM APIs, prompt engineering,
+    structured outputs, and RAG.
+  - Experience evaluating LLM/ML systems through offline
+    evaluations, human review, regression suites, or similar
+    approaches.
+  - Understanding of AI agent architectures, including tool
+    calling, MCP or similar protocols, multi-step planning,
+    and common failure modes.
+  - Experience with cloud-native deployment using Docker,
+    Kubernetes, and AWS, GCP, or Azure.
+  - Fluent English with strong written and verbal communication
+    skills.
+  - Comfortable using modern AI coding assistants such as Claude
+    Code, Cursor, GitHub Copilot, Codex, or similar. This is a
+    must-have.
+  - Strong ownership and the ability to work independently in a
+    remote-first, distributed environment.
+
+  Nice to Have
+
+  - Background in security analytics, SIEM/SOAR, or digital
+    forensics.
+  - Practical knowledge of major cloud provider APIs, IAM
+    models, and resource inventory.
+  - Experience with vector databases, embedding pipelines, or
+    model fine-tuning for classification or extraction.
+  - Familiarity with tracing AI applications and OpenTelemetry-
+    style observability.
+  - Previous experience in cybersecurity, security tooling, or
+    trust & safety.
+  - Experience introducing AI-assisted or agentic development
+    workflows across engineering teams.
+
+  AI-First Engineering
+
+  AI is a core part of the engineering workflow on this team.
+
+  During the interview process, you'll be asked about how you
+  use AI in real-world software development, including the
+  tools you use, how you validate their output, and where AI
+  has changed the way you work.
+
+  We're looking for engineers who use AI as a force multiplier
+  for quality, productivity, and problem-solving, not simply
+  as an autocomplete tool.
+
+  Why Join
+
+  - Work on a greenfield product at the intersection of
+    cybersecurity and agentic AI.
+  - Turn cutting-edge LLM/ML approaches into production systems
+    protecting enterprise customers.
+  - Work across both AI experimentation and production
+    engineering, from Python prototypes to Go services.
+  - Take ownership of a key workstream and influence
+    architecture from an early stage.
+  - Collaborate with a highly technical, distributed team where
+    AI is a core part of the development process.
+
+  Pragmatike is committed to a fair, transparent, and
+  inclusive recruitment process. We do not discriminate based
+  on age, disability, gender, gender identity or expression,
+  marital or civil partner status, pregnancy or maternity,
+  race, religion or belief, sex, or sexual orientation.
+
+  In accordance with GDPR, your personal data will be
+  processed lawfully, fairly, and securely and used solely for
+  recruitment purposes, including sharing it with our
+  client(s) for employment consideration.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-09-17
+url: "https://builtin.com/job/ai-engineer-agentic-ai-cloud-discovery/11226875"
+source: Built In

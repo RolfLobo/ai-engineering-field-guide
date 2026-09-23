@@ -1,0 +1,57 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT staffing and AI engineering recruitment
+position:
+  title: MD AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires prompt engineering, LangChain/LangGraph,
+      RAG and vector databases, and designing AI applications -
+      all directly shaping LLM behavior and output quality. There
+      is an explicit LLM/agent component throughout, so it is ai-
+      first.
+  responsibilities:
+  - Develop AI applications using GenAI and LLMs
+  - Build RAG pipelines with vector databases
+  - Write and refine prompts for LLM-based features
+  - Develop APIs and services with FastAPI and Flask
+  - Work with OpenAI GPT, Claude, Gemini, and Llama models
+  - Containerize and manage code with Git and Docker
+  use_cases:
+  - Enterprise GenAI application development
+  - Retrieval-augmented generation over document knowledge bases
+  - LLM-powered assistants using multiple foundation models
+  - Agentic AI workflows
+  skills:
+    databases: [Vector Databases, Pinecone, Weaviate, pgvector, Redis]
+    domains: []
+    data: [Kafka]
+    web: [FastAPI, Flask, REST APIs, APIs]
+    ml: [LoRA]
+    ops: [Git, Docker, Kubernetes, Terraform, CI/CD, Monitoring, Observability]
+    other: []
+    cloud: [Cloud Computing, AWS, Azure, GCP]
+    languages: [Python, SQL]
+    genai: [OpenAI API, Gemini, Llama, Prompt Engineering, LangChain, LangGraph, RAG,
+      Embeddings, LLMs, CrewAI, AutoGen, LlamaIndex, MCP, Function Calling, Generative
+        AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235197'
+  location: IND
+  locations:
+  - IND
+  - Pune, IND
+  - Chennai, IND
+  - Gurugram, IND
+  - Mumbai, IND
+  - Hyderabad, IND
+  - Noida, IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:29:37.732563'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

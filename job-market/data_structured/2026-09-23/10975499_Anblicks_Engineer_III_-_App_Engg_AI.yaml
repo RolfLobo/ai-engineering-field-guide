@@ -1,0 +1,51 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: IT services and software consulting
+position:
+  title: Engineer III - App Engg & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the "AI" in the job title, the responsibilities are
+      entirely conventional .NET application engineering; there is
+      no mention of shaping any model, prompts, retrieval, or AI
+      APIs. AI plays no role in the described duties, so the role
+      is ai-support.
+  responsibilities:
+  - Design, develop, enhance, and maintain scalable .NET applications with clean,
+    testable code
+  - 'Own assigned features end to end: analysis, design, development, unit testing,
+    defect resolution, and delivery'
+  - Translate functional and technical requirements into practical implementations
+    within existing architecture
+  - Work within an established codebase, understanding components, dependencies, and
+    business logic
+  - Troubleshoot and resolve complex issues across code, databases, integrations,
+    and third-party components
+  - Participate in backlog refinement, estimation, sprint planning, and code reviews
+    in an Agile team
+  - Develop unit tests, support QA in diagnosing defects, and maintain technical documentation
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [SQL Server]
+    data: []
+    cloud: []
+    ops: [CI/CD, Git, Azure DevOps]
+    languages: [.NET, C#]
+    domains: []
+    other: [IIS, Windows Server, Visual Studio, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10975499'
+  location: Ahmedabad, IND
+  locations:
+  - Ahmedabad, IND
+  - Hyderabad, IND
+  extracted_at: '2026-09-23T11:10:03.778864'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

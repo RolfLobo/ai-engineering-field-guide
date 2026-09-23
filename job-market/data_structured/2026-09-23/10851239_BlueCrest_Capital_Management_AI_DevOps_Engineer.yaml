@@ -1,0 +1,53 @@
+company:
+  name: BlueCrest Capital Management
+  stage: null
+  focus: Hedge fund technology infrastructure and trading platforms
+position:
+  title: AI DevOps Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps/infrastructure role that runs and automates
+      delivery platforms, hosting AI services and integrating AI
+      APIs/agents that others design. Building CI/CD, IaC, and
+      monitoring pipelines—even when they embed LLM APIs—does not
+      shape model behaviour or output quality, so it is ai-
+      support.
+  responsibilities:
+  - Deliver and operate DevOps environments end to end across a hybrid global platform
+  - Drive infrastructure modernisation toward AI, microservices, and multi-cloud (Azure
+    and AWS)
+  - Automate and standardise infrastructure with Terraform, Terragrunt, and Ansible
+  - Integrate AI tooling, including embedding LLM APIs and agents into pipelines
+  - Build and deploy AI agents to automate operations work
+  - Automate work through Python microservices and GitHub Actions CI/CD
+  - Maintain observability and monitoring across platforms (OpenTelemetry, Prometheus,
+    ELK)
+  - Support Kubernetes across on-prem, VMware, AKS, and EKS environments
+  use_cases:
+  - Hybrid trading infrastructure spanning data centres, on-prem, and multi-cloud
+  - AI-assisted IT operations (AIOps) with predictive monitoring
+  - Automation of infrastructure delivery and operations with AI agents
+  - CI/CD and platform engineering for core trading and back-office services
+  skills:
+    genai: [LangGraph, OpenAI API, AI Agents, MCP, LangChain]
+    ml: [Prophet, pytest]
+    web: [Microservices]
+    databases: [Redis]
+    data: [DataOps, Dagster, Kafka]
+    cloud: [Azure, AWS, Azure AI Foundry, AWS Bedrock, AKS, EKS]
+    ops: [AIOps, AgentOps, OpenTelemetry, Dynatrace, Terraform, Terragrunt, Ansible,
+      Kubernetes, GitHub Actions, Terratest, VMware, Linux, Windows Administration,
+      CI/CD, TeamCity, Nexus, Artifactory, Prometheus, ELK Stack, Jaeger, Gremlin,
+      LitmusChaos]
+    languages: [Python, Java, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10851239'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:02:37.642704'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

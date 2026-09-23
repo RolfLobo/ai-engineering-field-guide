@@ -1,0 +1,51 @@
+company:
+  name: Intel
+  stage: null
+  focus: Semiconductors and client graphics hardware
+position:
+  title: AI RnD Engineer, XeSS and Neural Graphics (f/m/d)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behaviour end-to-end (model design,
+      datasets, training, evaluation) for XeSS super resolution,
+      frame generation, and neural rendering — these are
+      image/video generation models, i.e. generative but not
+      LLM/agent components, so ml-first applies.
+  responsibilities:
+  - Drive XeSS and AI-based graphics technologies for Intel client graphics
+  - Contribute to model design, datasets, training, and evaluation for graphics AI
+    models
+  - Optimize visual quality and performance of AI rendering workloads
+  - Collaborate across research, software, hardware architecture, validation, and
+    ecosystem teams from concept to product
+  - Contribute to technical direction and drive execution across teams
+  - Guide application of modern AI model architectures to future graphics workloads
+  - Support SDK, API, and cross-platform productization of AI graphics technologies
+  use_cases:
+  - XeSS super resolution upscaling
+  - AI frame generation
+  - Neural rendering for real-time graphics
+  - Denoising and reconstruction for graphics workloads
+  - Optical flow estimation
+  skills:
+    databases: []
+    domains: [Computer Vision]
+    data: []
+    web: [APIs]
+    ml: [Machine Learning, Model Training, Model Evaluation, Neural Networks, Transformers,
+      Diffusion Models, Quantization, CUDA]
+    ops: [Model Deployment]
+    other: [GPU Architecture, Neural Rendering]
+    cloud: []
+    languages: []
+    genai: [LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11226055'
+  location: DEU
+  remote: true
+  extracted_at: '2026-09-23T11:28:53.721868'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

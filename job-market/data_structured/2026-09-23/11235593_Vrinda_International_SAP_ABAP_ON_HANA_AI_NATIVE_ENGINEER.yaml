@@ -1,0 +1,49 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: SAP consulting and enterprise application services
+position:
+  title: SAP ABAP ON HANA – AI NATIVE ENGINEER
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs, RAG, tool calling, and agentic AI
+      into SAP applications and implements AI guardrails and
+      evaluation frameworks, which is shaping model behavior and
+      output quality. LLM components dominate, so ai-first despite
+      the SAP ABAP core.
+  responsibilities:
+  - Develop high-performance ABAP on HANA solutions using pushdown principles
+  - Build CDS Views, Associations, Annotations and Authorization concepts
+  - Develop performance-critical logic using AMDP / SQLScript
+  - Develop OData services and APIs
+  - Integrate SAP services with LLMs, RAG and AI tool orchestration
+  - Implement AI guardrails, evaluation frameworks and deterministic fallbacks
+  - Build automated unit, integration and contract testing with logging, monitoring
+    and tracing
+  - Integrate SAP with cloud and enterprise integration platforms
+  use_cases:
+  - HANA-optimized cloud-ready SAP applications with AI-native capabilities
+  - LLM and RAG integration for SAP enterprise workflows
+  - Agentic AI with tool orchestration inside SAP systems
+  - AI-guarded enterprise integration with fallbacks and evals
+  skills:
+    genai: [LLMs, RAG, Function Calling, Agentic Workflows, Guardrails, LLM Evaluation]
+    ml: []
+    web: [OData, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Observability]
+    languages: [SQLScript]
+    domains: []
+    other: [SAP ABAP, SAP HANA, CDS Views, AMDP, HANA Performance Tuning, SAP Cloud,
+      SAP Security and Authorization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235593'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:31:06.590672'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

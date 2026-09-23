@@ -1,0 +1,50 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage semiconductor solutions
+position:
+  title: Staff AI Engineer, SMAI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack manufacturing applications software
+      engineer; GenAI tools (Copilot, Claude Code) are used as
+      productivity aids for development, not shaped as a product.
+      No prompt, RAG, agent, or model training work is done by the
+      engineer.
+  responsibilities:
+  - Configure, develop, maintain and support Micron and third-party applications in
+    the MFG Application Development Team
+  - Apply software engineering principles across the full development life cycle including
+    analysis, design, documentation, maintenance and support
+  - Build quality software and participate in quality improvement efforts to minimize
+    defects, downtime and performance degradation
+  - Switch between various development technologies and merge them to deliver the
+    best solution
+  - Build and release automation via CI/CD pipelines
+  - Modernize existing systems with the latest technologies
+  - Use AI-assisted development tools responsibly and securely to improve productivity,
+    code quality and problem solving
+  use_cases:
+  - Manufacturing application development and support
+  - Modernization of existing enterprise systems
+  - Software quality and performance improvement
+  skills:
+    genai: [Generative AI, AI Agents, GitHub Copilot, Claude Code]
+    ml: []
+    web: [WPF, ADO.NET, REST APIs, Microservices]
+    databases: [SQL Server, MySQL]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [DevOps, CI/CD, Git, TFS, Linux, IIS, Docker]
+    languages: [C#, C++, .NET, Perl, Python, PowerShell]
+    domains: []
+    other: [Design Patterns, Agile, Apache Web Server, OpenShift, Kanban]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10426394'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T10:59:37.169970'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

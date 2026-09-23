@@ -1,0 +1,111 @@
+job_id: 10883791
+title: Staff+ Software Engineer, AI
+company: Aleph
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Aleph
+
+  Aleph is an AI-native platform for Financial Planning &
+  Analysis (FP&A), an established software category with a
+  multi-billion market but no clear winner. We’re trying to
+  solve a problem many finance teams are super familiar with:
+  data scattered across a million systems, endless
+  spreadsheets and way too much time spent getting numbers to
+  line up instead of actually using them to make decisions.
+
+  Aleph was founded by Albert Gozzi and Santiago Perez De
+  Rosso, two technical founders with backgrounds from Stanford
+  and MIT and experience working at top-tier companies such as
+  Google, Microsoft and Bain & Company. We’re backed by top
+  VCs (Khosla Ventures, Bain Capital Ventures, YC, Picus
+  Capital), and work with customers like Webflow, Notion,
+  Zapier, Y Combinator and many others.
+
+  We are hiring remotely across the Americas (United States,
+  Canada, LATAM).
+
+  The charter
+
+  Every AI feature at Aleph - asking questions of your
+  financials, agents that do full FP&A workflows - runs on a
+  shared foundation: which model handles which task, what
+  context the model sees, what tools it can call, and how we
+  measure whether it's getting better. Today those decisions
+  live inside product teams. This role owns them as a whole,
+  including the model proxy and eval infrastructure everything
+  runs through.
+
+  What you'll do
+
+  - Own the AI foundation product teams build on: model
+    selection and routing, the model proxy layer, context
+    management, and tool design
+  - Own eval infrastructure. Work with customers and finance
+    domain experts to define what excellent output looks like,
+    then encode it in evals every team can run - in FP&A, a
+    wrong answer ends up in someone's board deck
+  - Ship agentic features end to end, from v0 through the
+    optimization loop: prompt and context engineering,
+    caching, parallel tool calls, subagent patterns
+  - Build observability into agent behavior so we can profile
+    it, find bottlenecks, and decide what to fix with data
+  - Track what's changing in agentic systems and bring the
+    practices that prove out into how we build
+
+  What we're looking for
+
+  - You've shipped production LLM systems - evals, context
+    management, multi-model or multi-provider routing - and
+    can talk concretely about what broke and what you changed
+  - You build proof of concepts, decide quickly, and ship v0s.
+    Evals drive your quality bar
+  - Strong judgment about abstractions: opinionated about
+    design, pragmatic about shipping incrementally
+  - Experience with LLM APIs and agent frameworks, and shipped
+    user-facing products
+  - You want to ship production systems, not do research
+
+  What we expect from all Staff+ Engineers
+
+  - Adoption: teams you don't manage have picked up systems you
+    built - because they were that good
+  - Strong fundamentals: you can trace requests from UI to data
+    store and make good technical decisions at every layer
+  - High agency: background as a founder, engineering lead, or
+    startup builder. You have a builder's mindset and find
+    creative ways to ship
+  - Pragmatism: you choose the fewest and simplest tools that
+    will actually work
+  - Craft: you care deeply about code quality and write code
+    that's correct and easy to understand
+  - Communication: clear, direct, and persuasive across
+    technical and non-technical audiences
+  - Experience: you've built complex B2B products, ideally from
+    scratch
+
+  While this is a remote-first opportunity, we're focusing on
+  candidates within the Americas to better align with our
+  working hours as a team.
+
+  Aleph is an equal opportunity employer that is committed to
+  diversity and inclusion in the workplace. We prohibit
+  discrimination and harassment of any kind based on race,
+  color, sex, religion, sexual orientation, national origin,
+  disability, genetic information, pregnancy, or any other
+  protected characteristic as outlined by federal, state, or
+  local laws.
+
+  This policy applies to all employment practices within our
+  organization, including hiring, recruiting, promotion,
+  termination, layoff, recall, leave of absence, compensation,
+  benefits, training, and apprenticeship. Aleph makes hiring
+  decisions based solely on qualifications, merit, and
+  business needs at the time.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-08-27
+url: "https://www.builtinla.com/job/staff-software-engineer-ai/10883791"
+source: Built In

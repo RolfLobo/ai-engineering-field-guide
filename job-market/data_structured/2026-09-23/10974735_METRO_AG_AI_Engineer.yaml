@@ -1,0 +1,51 @@
+company:
+  name: METRO AG
+  stage: null
+  focus: |-
+    Internal IT and business solutions for international
+    wholesale
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and deploys intelligent agents and
+      does prompt/context engineering, directly shaping LLM
+      behavior. It integrates cloud LLMs and agentic frameworks
+      rather than training classical models, so it is ai-first.
+  responsibilities:
+  - Deliver business-driven AI solutions by integrating existing cloud models and
+    APIs
+  - Translate business goals into AI-powered solutions with squads, data scientists,
+    and architects
+  - Integrate Google Cloud AI services and models into microservices and workflows
+  - Design, implement, deploy, and monitor intelligent agents for automation and personalization
+  - Build and maintain CI/CD pipelines with Cloud Build and GitHub Actions
+  - Maintain documentation, runbooks, architecture diagrams, and conduct internal
+    demos and training
+  - Ensure AI solutions comply with responsible AI and ethical standards
+  use_cases:
+  - Automation of business processes via intelligent agents
+  - Personalization for wholesale operations
+  - AI-powered microservices and workflows across the organization
+  - Document processing via Google Cloud AI services
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, Gemini, Prompt Engineering, Context Engineering,
+      Google ADK]
+    ml: [BigQuery ML]
+    web: [Microservices, APIs]
+    databases: [BigQuery]
+    data: []
+    cloud: [GCP, Vertex AI, Document AI, Azure OpenAI]
+    ops: [CI/CD, GitHub Actions, Cloud Build]
+    languages: [SQL, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10974735'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:10:14.805653'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

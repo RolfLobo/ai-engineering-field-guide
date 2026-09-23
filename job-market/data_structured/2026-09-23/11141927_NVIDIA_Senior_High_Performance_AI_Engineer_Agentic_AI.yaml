@@ -1,0 +1,53 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU and accelerated computing hardware and software
+position:
+  title: Senior High Performance AI Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent architectures, multi-agent
+      orchestration, tool use, memory, and builds
+      reward/evaluation systems to improve model and agent
+      behavior — clearly shaping LLM/agent output quality, so ai-
+      first.
+  responsibilities:
+  - Design, build, and optimize agentic AI systems for the CUDA ecosystem, including
+    agent architectures, multi-agent workflows, tool use, memory, and orchestration
+  - Build data, environments, verification, reward, and evaluation systems to continuously
+    improve model and agent capabilities
+  - Co-design and optimize agentic systems across NVIDIA's software and hardware stack
+    from models and inference through compilers, runtimes, libraries, kernels, and
+    GPUs
+  - Develop intelligent agentic systems that reason about, generate, optimize, and
+    operate across NVIDIA's accelerated computing stack
+  - Collaborate with internal NVIDIA software, model, and hardware teams to bring
+    new capabilities into products
+  use_cases:
+  - Coding agents that reason about, generate, and optimize CUDA code and NVIDIA's
+    computing stack
+  - Autonomous software-engineering systems and developer tools
+  - Multi-agent systems operating across GPUs, compilers, runtimes, and libraries
+  - Training and evaluation environments for improving agent capabilities on accelerated
+    computing tasks
+  skills:
+    genai: [AI Agents, Agentic Workflows, Multi-Agent Systems, LLM Evaluation]
+    ml: [Reinforcement Learning, Model Training, CUDA, Deep Learning, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [vLLM, TensorRT, TRT-LLM, SGLang, Transformer Engine]
+    languages: [C++, Rust, Python]
+    domains: [High-Performance Computing]
+    other: [Compilers, Coding Agents]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11141927'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:21:20.824990'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

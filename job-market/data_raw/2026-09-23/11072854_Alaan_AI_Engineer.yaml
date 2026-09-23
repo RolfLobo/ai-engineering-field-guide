@@ -1,0 +1,157 @@
+job_id: 11072854
+title: AI Engineer
+company: Alaan
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 192 Employees
+description: |
+  About Alaan
+
+  Alaan is the Middle East’s first AI-powered spend management
+  platform, built to help businesses save time and money. Our
+  all-in-one solution combines smart corporate cards, real-
+  time expense tracking, AI-powered automation, seamless
+  accounting integrations, and deep financial insights-
+  designed to simplify finance operations and maximize control
+  over company spend.
+
+  Founded in 2022, Alaan is already the trusted partner of
+  over 2000 leading businesses across the UAE and KSA,
+  including G42, Careem, McDonald’s, Tabby, Al Barari, Rove
+  Hotels, Rivoli, and CarSwitch. Together, our customers have
+  saved over AED 100 million with Alaan.
+
+  In just three years, Alaan has become the #1 expense
+  management platform in the Middle East- and we’ve done it
+  while becoming profitable.
+
+  Alaan is also backed by Y Combinator and top global
+  investors, including Peak XV (formerly Sequoia India & SEA),
+  and built by a world-class team with experience from
+  McKinsey, BCG, Goldman Sachs, Careem, Rippling, and other
+  high-growth companies. This creates an environment where
+  employees learn from top-tier talent while building at
+  startup speed.
+
+  We’re not just building software. We’re reimagining how
+  finance works for modern businesses across the region.
+
+  About the role
+
+  As an AI Engineer, you will own the development of
+  production-grade AI applications - from early
+  experimentation and prototyping to evaluation, deployment,
+  and continuous improvement.
+
+  This is not a pure research position. You will be expected
+  to combine strong software engineering fundamentals with
+  hands-on experience building applications using large
+  language models and modern AI infrastructure.
+
+  You will work on problems such as extracting and structuring
+  financial data, automating expense workflows, building
+  intelligent assistants, and helping customers interact more
+  effectively with their financial information.
+
+  What you'll do
+
+  - Design, build, and deploy AI-powered features across Alaan’s
+    products.
+  - Create reliable workflows for prompt management, model
+    orchestration, tool calling, and structured outputs.
+  - Build backend services and APIs that integrate AI
+    capabilities into production applications.
+  - Develop evaluation frameworks to measure the accuracy,
+    relevance, reliability, latency, and cost of AI outputs.
+  - Experiment with different models, prompting techniques,
+    embeddings, retrieval strategies, and fine-tuning
+    approaches.
+  - Implement appropriate safeguards for sensitive financial and
+    customer information.
+  - Monitor AI systems in production and continuously improve
+    their performance using user feedback and evaluation data.
+  - Collaborate with Product Managers, Designers, Data teams,
+    and Backend Engineers to identify high-impact AI use
+    cases.
+  - Stay informed about developments in applied AI and determine
+    which technologies are genuinely useful for Alaan.
+
+  What we are looking for
+
+  MUST HAVES:
+
+  - 2+ years of software engineering experience, with meaningful
+    hands-on experience building AI or machine-learning-
+    powered applications.
+  - Strong programming skills in both Python and Node.js, with
+    experience using them to build production-grade AI
+    applications and backend services.
+  - Hands-on experience with AWS SageMaker for developing,
+    training, deploying, and monitoring machine learning or AI
+    workloads.
+  - Proficiency with Jupyter Notebooks for data exploration,
+    experimentation, model development, and prototyping.
+  - Hands-on experience with Weights & Biases (W&B) for
+    experiment tracking, model evaluation, versioning, and
+    performance monitoring.
+  - Hands-on experience working with large language models and
+    their APIs.
+  - Practical understanding of prompt engineering, embeddings,
+    vector search and RAG.
+  - Hands-on experience with prompt version control and
+    management of a complete lifecycle of individual business
+    use cases end to end.
+  - Experience with databases such as PostgreSQL, MongoDB and at
+    least one vector database or vector-search solution like
+    OpenSearch.
+  - Experience evaluating AI applications beyond manual testing
+    or subjective output reviews.
+  - Familiarity with cloud platforms such as AWS, GCP, or Azure.
+  - Good understanding of software engineering principles,
+    including testing, version control, observability,
+    scalability, and security.
+  - Strong product judgement and the ability to translate
+    loosely defined business problems into practical AI
+    solutions.
+  - Ability to move quickly between experimentation and
+    production-quality implementation.
+
+  GOOD TO HAVES:
+
+  - Experience with frameworks such as LangChain, PromptFoo,
+    LangFuse, or similar AI orchestration tools.
+  - Experience with model evaluation, guardrails, observability,
+    and monitoring platforms.
+  - Experience with Snowflake or a similar data warehouse/lake.
+  - Experience fine-tuning, adapting, or serving open-source
+    models.
+  - Experience working with document intelligence, OCR,
+    classification, recommendation systems, or conversational
+    AI.
+  - Experience with harnesses and agent loops (experience with
+    self healing harness setups is a bonus)
+  - Experience building AI products involving financial,
+    accounting, or other sensitive data.
+  - Previous experience in a fintech, SaaS, or high-growth
+    startup environment.
+
+  What's in it for you
+
+  - Contribute to building the Middle East’s most beloved
+    fintech brand from the ground up
+  - Benefit from a role with significant ownership and
+    accountability
+  - Thrive in a flexible hybrid culture with ample work-life
+    balance
+  - Participate in exciting offsite events
+  - Competitive salary and equity
+  - Enjoy additional perks like travel allowances, gym
+    memberships, and more
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-09-09
+url: "https://builtin.com/job/ai-engineer/11072854"
+source: Built In

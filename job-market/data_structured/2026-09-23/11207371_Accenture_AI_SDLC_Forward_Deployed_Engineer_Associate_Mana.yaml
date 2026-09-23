@@ -1,0 +1,53 @@
+company:
+  name: Accenture
+  stage: null
+  focus: Global professional services and technology consulting
+position:
+  title: AI SDLC Forward Deployed Engineer – Associate Manager
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agentic AI systems at client
+      sites: building MCP servers, sub-agents, agent orchestration
+      frameworks, and evaluation tooling, plus prompt engineering.
+      FDEs adapting and deploying AI solutions are ai-first per
+      the edge cases, and LLM/agent components are central.
+  responsibilities:
+  - Build and ship production applications inside client systems using AI SDLC workflows
+  - Create reusable technical assets including MCP servers, sub-agents, agent orchestration
+    frameworks, and evaluation tooling
+  - Support enterprise rollouts of frontier AI capabilities, especially AI in the
+    SDLC, ensuring integration with existing IT infrastructure
+  - Work shoulder-to-shoulder with client engineering and product teams to drive AI
+    adoption and upskill teams
+  - Identify repeatable deployment patterns and feed insights back into the FDE practice
+    and delivery playbook
+  - Stay current on LLM capabilities, agentic frameworks, and evaluation methodologies
+  - Build trusted relationships with client teams and AI ecosystem partners
+  - Champion responsible and safe AI usage in client interactions
+  use_cases:
+  - AI-assisted software development lifecycle (AI SDLC) at enterprise scale
+  - Agentic applications deployed from proof-of-value to production
+  - Client workflow automation via MCP servers and agent orchestration
+  - Evaluation tooling for AI agents and workflows
+  - Enterprise adoption and upskilling of AI-centric engineering practices
+  skills:
+    genai: [Prompt Engineering, AI Agents, Agentic Workflows, MCP, LLM Evaluation,
+      LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps]
+    languages: [TypeScript, JavaScript, Python, Java, Go, Rust]
+    domains: []
+    other: [System Integration, Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11207371'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:27:18.341107'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

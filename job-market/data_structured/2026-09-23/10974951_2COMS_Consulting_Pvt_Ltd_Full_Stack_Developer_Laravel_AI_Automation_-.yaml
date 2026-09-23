@@ -1,0 +1,49 @@
+company:
+  name: 2COMS Consulting Pvt. Ltd.
+  stage: null
+  focus: IT consulting and staffing services company
+position:
+  title: Full Stack Developer (Laravel / AI / Automation) - Kolkata/Hyderabad
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements LLM integrations into
+      workflows and automation, uses prompt engineering, and works
+      hands-on with concepts like RAG, embeddings, and AI agents,
+      which is shaping LLM behavior. This makes it ai-first
+      despite the primarily full-stack Laravel focus.
+  responsibilities:
+  - Develop, maintain, and enhance scalable Laravel/PHP web applications and REST
+    APIs
+  - Build frontend features using JavaScript, HTML, CSS, and React or equivalent technologies
+  - Design and optimize MySQL databases, queries, relationships, migrations, and integrations
+  - Integrate third-party APIs, webhooks, payment services, and external systems
+  - Develop automated end-to-end and functional tests using Playwright
+  - Design and implement business workflows and API-based automation using n8n
+  - Integrate AI/LLM APIs into applications and automation workflows
+  - Handle deployment, environment configuration, production support, debugging, and
+    root-cause analysis
+  use_cases:
+  - Web application development with AI/LLM API integrations
+  - Business workflow automation via n8n and API-based integrations
+  - Automated end-to-end and functional testing
+  - Payment service and third-party system integrations
+  skills:
+    databases: [MySQL]
+    domains: []
+    data: []
+    web: [Laravel, REST APIs, CSS, React, Webhooks, Playwright, APIs]
+    ml: []
+    ops: [Git, GitLab CI, CI/CD]
+    other: [n8n]
+    cloud: []
+    languages: [PHP, JavaScript, HTML, SQL]
+    genai: [Prompt Engineering, LLMs, Embeddings, RAG, AI Agents]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10974951'
+  location: Kolkata, IND
+  extracted_at: '2026-09-23T11:10:13.613988'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

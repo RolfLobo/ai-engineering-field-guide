@@ -1,0 +1,60 @@
+company:
+  name: Sutherland
+  stage: null
+  focus: |-
+    Digital transformation, AI, automation and business process
+    services
+position:
+  title: Agentic AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops AI agents on AWS Bedrock, writes prompts,
+      agent configurations, and guardrails, and optimizes agent
+      behavior based on evaluation - directly shaping LLM/agent
+      output quality. This makes it ai-first.
+  responsibilities:
+  - Develop AI agents on AWS Bedrock (Amazon Nova and other foundation models) for
+    document generation, data validation, and case intake use cases
+  - Develop and maintain prompts, agent configurations, and guardrails for reliable,
+    compliant AI behavior
+  - Implement business logic on AWS Fargate for email-triggered and chatbot-triggered
+    workflows
+  - Integrate AI services with Microsoft Graph API for Teams messaging, file handling,
+    and agent output delivery
+  - Build document extraction pipelines using OCR and Intelligent Document Processing
+    technologies
+  - Perform unit and integration testing and optimize agent workflows based on results
+    and feedback
+  - Collaborate with solution architects, QA teams, and business stakeholders to deliver
+    production-ready AI solutions
+  use_cases:
+  - Automation of regulated and semi-regulated business processes
+  - Document generation, data validation, and case intake via AI agents
+  - Structured data extraction from enterprise documents via OCR/IDP pipelines
+  - Email- and chatbot-triggered AI workflows integrated with Microsoft Teams
+  skills:
+    genai: [AI Agents, Prompt Engineering, RAG, LLMs, Generative AI, LLM Evaluation,
+      Conversational AI]
+    ml: [Foundation Models]
+    web: [REST APIs]
+    databases: [Vector Databases, Semantic Search]
+    data: []
+    cloud: [AWS Bedrock, AWS Lambda, AWS, AWS Textract, Azure Document Intelligence]
+    ops: [Microservices, Git, CI/CD, Docker, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Microsoft Graph API, OCR, Intelligent Document Processing, Event-Driven
+        Architecture, Agile, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10974911'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  remote: true
+  extracted_at: '2026-09-23T11:10:33.382563'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

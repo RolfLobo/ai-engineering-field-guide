@@ -1,0 +1,127 @@
+job_id: 11130087
+title: "Lead Engineer / Architect - Payments & AI"
+company: Fractal
+location: Pune, IND
+locations:
+  - Pune, IND
+  - Mumbai, IND
+  - Gurugram, IND
+  - Bengaluru, IND
+work_type: FULL_TIME
+company_size: 5,262 Employees
+description: |
+  It's fun to work in a company where people truly BELIEVE in
+  what they are doing!
+
+  We're committed to bringing passion and customer focus to
+  the business.
+
+  Role Overview:
+
+  We are looking for a hands-on Lead Engineer / Architect with
+  strong payments, transaction processing, and AI/agent
+  engineering experience to design and build AI-driven
+  solutions capable of executing end-to-end transactions
+  across multiple markets.
+
+  The role will own the technical solution from requirements
+  and architecture through agent development, payment
+  integration, testing, and successful transaction execution.
+
+  Key Responsibilities:
+
+  - Design and build AI agents capable of initiating,
+    processing, and completing end-to-end payment
+    transactions.
+  - Understand the payment transaction lifecycle and translate
+    payment requirements into agent workflows, business rules,
+    APIs, and system integrations.
+  - Analyze market-specific payment requirements and variations
+    and design configurable, reusable solutions.
+  - Define architecture for agent orchestration, transaction
+    state management, tool/API invocation, exception handling,
+    retries, and recovery.
+  - Integrate agents with payment platforms, gateways,
+    transaction processing systems, APIs, and enterprise
+    services.
+  - Define appropriate boundaries between AI-driven decisioning
+    and deterministic payment/business logic.
+  - Develop primarily using Python, LLMs, and appropriate agent
+    frameworks.
+  - Implement security, authorization, auditability,
+    observability, and guardrails around agent-driven payment
+    actions.
+  - Lead end-to-end testing and demonstrate successful
+    transaction execution for each target market.
+  - Provide hands-on technical leadership, conduct design/code
+    reviews, and mentor engineers.
+
+  Required Experience:
+
+  - 10+ years of software engineering experience, including
+    architecture and technical leadership.
+  - Strong hands-on Python development experience.
+  - Proven experience designing and building LLM/GenAI
+    applications and AI agents.
+  - Strong understanding of payments and transaction processing.
+  - Experience with payment APIs, gateways, transaction
+    processing platforms, or payment services.
+  - Strong understanding of payment lifecycle concepts such as
+    transaction initiation, authorization, processing,
+    transaction status, exceptions, and completion.
+  - Strong experience with REST APIs, microservices, distributed
+    systems, and cloud platforms.
+  - Experience designing enterprise integrations and event-
+    driven architectures.
+  - Experience with AWS, Azure, or GCP.
+
+  AI / Agent Experience:
+
+  - Experience building AI agents and agent-based workflows.
+  - Experience with agent orchestration, tool/function calling,
+    structured outputs, and LLM integration.
+  - Experience with frameworks such as LangGraph, LangChain,
+    CrewAI, or equivalent.
+  - Experience implementing AI guardrails, evaluation,
+    observability, and human-in-the-loop controls.
+  - Ability to determine where AI should be used versus
+    deterministic rules within payment workflows.
+
+  Preferred Experience:
+
+  - Experience across multiple payment markets or regional
+    payment ecosystems.
+  - Knowledge of payment authorization, clearing, settlement,
+    reconciliation, fraud/risk, disputes, or exception
+    management.
+  - Experience with Kafka or other event-streaming technologies.
+  - Experience designing configurable architectures supporting
+    market-specific payment variations.
+
+  Success Criteria:
+
+  The successful candidate will be able to take a payment
+  transaction requirement, design the agent and supporting
+  architecture, build the solution, integrate with the
+  required payment systems, and demonstrate a successfully
+  completed transaction for each designated market.
+
+  This is a hands-on architecture and engineering role. The
+  candidate must be comfortable coding, debugging, integrating
+  payment systems, and owning the end-to-end technical
+  solution.
+
+  If you like wild growth and working with happy, enthusiastic
+  over-achievers, you'll enjoy your career with us!
+
+  Not the right fit?  Let us know you're interested in a
+  future opportunity by clicking Introduce Yourself in the
+  top-right corner of the page or create an account to set up
+  email alerts as new job postings become available that meet
+  your interest!
+industries:
+  - Artificial Intelligence
+  - Consulting
+posted_date: 2026-09-11
+url: "https://builtin.com/job/lead-engineer-architect-payments-ai/11130087"
+source: Built In

@@ -1,0 +1,51 @@
+company:
+  name: The Hartford Financial Services Group, Inc.
+  stage: null
+  focus: Insurance and financial services
+position:
+  title: Senior Software Engineer/AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI solutions with Google
+      ADK, LangGraph/LangChain, and prompt engineering, directly
+      shaping LLM/agent behavior. This clearly falls under ai-
+      first.
+  responsibilities:
+  - Design and implement Agentic AI solutions using Google ADK, LangGraph/LangChain,
+    and Agent Engine
+  - Build and deploy AI models leveraging Vertex AI capabilities (Model Garden, AutoML,
+    Generative AI APIs)
+  - Integrate AI agents with enterprise applications and workflows for automation
+    and decision-making
+  - Develop scalable and secure AI services using Cloud Run, ECS, and other GCP components
+  - Optimize AI pipelines for performance, cost efficiency, and reliability
+  - Conduct proof-of-concepts for emerging AI technologies and frameworks
+  - Collaborate with data scientists, architects, and product teams; mentor junior
+    engineers
+  - Document AI solution architectures, patterns, and reusable components
+  use_cases:
+  - Enterprise workflow automation via AI agents
+  - Decision-making support through AI-driven solutions
+  - Customer experience improvement through AI innovation
+  - Operational efficiency through GenAI adoption across business units
+  skills:
+    genai: [Google ADK, LangGraph, LangChain, Agentic Workflows, Generative AI, Prompt
+        Engineering, Fine-Tuning, LLMs]
+    ml: [AutoML]
+    web: []
+    databases: []
+    data: []
+    cloud: [Vertex AI, GCP, AWS Bedrock, IAM]
+    ops: []
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11202437'
+  location: Manikonda, IND
+  extracted_at: '2026-09-23T11:26:41.341032'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

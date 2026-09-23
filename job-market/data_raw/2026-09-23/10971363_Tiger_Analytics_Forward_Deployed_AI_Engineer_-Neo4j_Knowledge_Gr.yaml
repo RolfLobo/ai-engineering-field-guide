@@ -1,0 +1,80 @@
+job_id: 10971363
+title: Forward Deployed AI Engineer -Neo4j / Knowledge Graph
+company: Tiger Analytics
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Tiger Analytics is seeking a highly experienced Lead AI
+  Engineer to lead the end-to-end AI Engineering workstream
+  for the Luma platform. This is a hands-on technical
+  leadership role responsible for driving the architecture,
+  design, and delivery of enterprise-scale Agentic AI
+  solutions while serving as the primary technical interface
+  for the client.
+
+  We are looking for a Forward Deployed AI Engineer to build
+  and deploy enterprise GenAI, RAG, Agentic AI, and Knowledge
+  Graph solutions. The role involves working directly with
+  customers, rapidly developing POCs/MVPs, and taking
+  solutions into production.
+
+  Requirements
+
+  - Build GenAI, RAG, Agentic AI, and AI-powered applications.
+  - Develop Neo4j Knowledge Graph / GraphRAG solutions – must
+    have.
+  - Build data and AI pipelines using Databricks and PySpark.
+  - Develop scalable APIs, microservices, and backend
+    applications using Python or Go.
+  - Rapidly prototype and deliver POCs/MVPs for customer
+    requirements.
+  - Deploy AI solutions across AWS, Azure, or GCP.
+  - Work with LLM frameworks, vector databases, Kubernetes, and
+    cloud-native AI infrastructure.
+  - Troubleshoot and optimize AI applications for performance,
+    scalability, reliability, and cost.
+  - Act as a technical consultant and work closely with
+    enterprise customers.
+
+  Must-Have Skills
+
+  - Neo4j / Knowledge Graph – Mandatory
+  - Generative AI / LLM / RAG / Agentic AI
+  - Databricks / Spark / PySpark
+  - Application Engineering – Python or Go
+  - Rapid Prototyping / POC Development
+  - Cloud: AWS / Azure / GCP
+  - Strong problem-solving and debugging skills
+  - Self-driven, customer-focused, and comfortable working in
+    ambiguous environments
+
+  Good to Have
+
+  LangChain, LlamaIndex, LangGraph, AutoGen, GraphRAG, Vector
+  DBs, AWS Bedrock, Azure OpenAI, Kubernetes, Docker,
+  Terraform, vLLM/Triton, PyTorch/Hugging Face.
+
+  Benefits
+
+  Significant career development opportunities exist as the
+  company grows. The position offers a unique opportunity to
+  be part of a small, fast-growing, challenging and
+  entrepreneurial environment, with a high degree of
+  individual responsibility.
+
+  Tiger Analytics provides equal employment opportunities to
+  applicants and employees without regard to race, color,
+  religion, age, sex, sexual orientation, gender
+  identity/expression, pregnancy, national origin, ancestry,
+  marital status, protected veteran status, disability status,
+  or any other basis as protected by federal, state, or local
+  law.
+industries:
+  - Big Data
+  - Analytics
+  - Business Intelligence
+  - Big Data Analytics
+posted_date: 2026-09-02
+url: "https://www.builtinla.com/job/forward-deployed-ai-engineer-neo4j-knowledge-graph/10971363"
+source: Built In

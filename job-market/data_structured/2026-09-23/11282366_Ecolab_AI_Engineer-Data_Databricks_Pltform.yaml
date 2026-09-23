@@ -1,0 +1,59 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene and infection prevention solutions
+position:
+  title: AI Engineer-Data Databricks Pltform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Despite the AI Engineer title and GenAI framing, the core
+      work is building, configuring, and operating the Databricks
+      platform — hosting workspaces, pipelines, governance, and
+      CI/CD so other engineers can run AI workloads. The person
+      enables LLM/vector DB integrations and supports AI engineers
+      rather than shaping model behaviour themselves; GenAI
+      experience is only a preferred qualification.
+  responsibilities:
+  - Design, build, and maintain Databricks workspaces across dev, test, and production
+    environments
+  - Manage Unity Catalog, clusters, SQL Warehouses, compute policies, and access controls
+  - Automate platform deployment with Infrastructure as Code (Terraform) and CI/CD
+    pipelines
+  - Build scalable data pipelines on the Databricks Lakehouse with Delta Lake, Structured
+    Streaming, and medallion architecture
+  - Integrate Databricks with enterprise systems including Snowflake, SAP, Oracle,
+    Kafka, and cloud storage
+  - Enable ML and Generative AI workloads via MLflow, model serving, feature stores,
+    and LLM/vector database integrations
+  - Implement security controls, governance policies, RBAC, and audit logging; partner
+    with cybersecurity teams
+  - Establish monitoring, observability, alerting, and incident management for platform
+    reliability
+  use_cases:
+  - Enterprise Data & AI platform on Databricks Lakehouse
+  - Batch and streaming data ingestion and integration across enterprise systems
+  - Enablement of ML and Generative AI workloads with model lifecycle management
+  - Platform security, governance, and compliance at enterprise scale
+  - Observability and reliability of production data and AI platform operations
+  skills:
+    databases: [Unity Catalog, Snowflake, Oracle, SQL Server, Vector Databases, SQL]
+    domains: []
+    data: [Databricks, Delta Lake, PySpark, Spark SQL, Structured Streaming, Medallion
+        Architecture, Data Pipelines, Kafka]
+    web: [APIs]
+    ml: [Feature Stores, Model Serving]
+    ops: [MLflow, MLOps, CI/CD, Terraform, GitHub Actions, Azure DevOps, Kubernetes,
+      Docker, Monitoring, Model Deployment]
+    other: [RBAC]
+    cloud: [Azure, AWS, GCP, Azure Data Factory]
+    languages: [Python]
+    genai: [LLMs, Generative AI, AI Agents]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11282366'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:34:36.144181'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

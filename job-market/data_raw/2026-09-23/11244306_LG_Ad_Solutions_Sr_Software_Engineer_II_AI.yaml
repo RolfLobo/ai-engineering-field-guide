@@ -1,0 +1,164 @@
+job_id: 11244306
+title: Sr Software Engineer II, AI
+company: LG Ad Solutions
+location: Denver, USA
+locations:
+  - Denver, USA
+  - New York, USA
+work_type: FULL_TIME
+company_size: 300 Employees
+description: |
+  We require people to be on-site, 4 days/week at our Denver
+  or NYC office and are unable to offer relocation support.
+
+  About LG Ads:
+
+  LG Ads is a leading global ad solutions company,
+  transforming the advertising landscape through innovative
+  technologies. We are building the future of AdTech with our
+  A.I. Data System (ADS), our proprietary AI agent designed to
+  enhance every aspect of our business, from internal
+  operations to external partner experiences.
+
+  Job Summary:
+
+  LG Ads is seeking a motivated AI Platform Engineer to join
+  our AI team and help build the in-house platform powering
+  generative AI agents deployed business wide. You'll
+  contribute to the end to end stack; LLM serving and
+  inference, RAG pipelines, evaluation harnesses and the APIs
+  and infrastructure that put agents in production driving
+  efficiency, unlocking new revenue streams and enabling self-
+  service data capabilities across the organization. The role
+  is hands-on: you'll write production Python, integrate with
+  services like AWS Bedrock and vector stores, instrument
+  systems for observability and tune for latency, throughput
+  and cost. We're looking for someone with a foundation in
+  platform engineering and a working understanding of intent
+  detection, query decomposition and context engineering, who
+  is comfortable with agile delivery and can thrive in an
+  ambiguous, fast-paced environment.
+
+  Responsibilities:
+
+  - Build and maintain LLM-powered services and APIs (FastAPI,
+    webhooks, LangGraph), translating prototypes into
+    production-ready endpoints with proper error handling,
+    retries and timeouts.
+  - Develop evaluation harnesses and offline/online eval
+    pipelines to measure quality regressions, hallucination
+    rates and task specific accuracy as models and prompts
+    evolve.
+  - Instrument services with logging, tracing, and metrics
+    (latency percentiles, token usage, error rates) so
+    production behavior is observable and debuggable.
+  - Design and develop intelligent AI agents capable of intent
+    recognition and decomposing complex queries into smaller,
+    executable tasks that run in sequence or parallel.
+  - Implement and optimize context engineering techniques to
+    ensure agents leverage relevant short and long-term
+    memory, as well as our aggregated knowledge base, for
+    accurate and insightful responses.
+  - Integrate AI agents with internal systems such as ACR,
+    Mosaic, and Salesforce, and third-party services like
+    SpringServe and DSPs.
+  - Utilize and contribute to the development of standardized
+    tooling protocols to streamline integration and
+    maintenance of AI agents.
+  - Collaborate with cross-functional teams, including product,
+    and business units, to identify and build AI solutions
+    that span the entire company.
+  - Develop and implement solutions for operational
+    efficiencies, such as automating media planning and
+    integrating agents into Mosaic (Home Grown DSP).
+  - Build client-facing tools for voice and natural language
+    data queries, supporting custom data and contributing to
+    data monetization efforts for the ACR platform.
+  - Automate repetitive tasks in General & Administrative (G&A)
+    functions, starting with Finance, and expanding to HR and
+    IT Operations.
+  - Enable self-service data access and analysis using AI
+    agents, supporting diverse data sources.
+  - Participate in agile development sprints, actively
+    contributing to planning, execution, and review.
+  - Manage ambiguity and adapt to evolving requirements in a
+    rapidly developing AI landscape.
+
+  Required Skills and Qualifications:
+
+  - Proven experience in designing and developing Generative AI
+    agents.
+  - Strong expertise in intent detection and complex query
+    decomposition.
+  - Demonstrated experience with context engineering for AI
+    models.
+  - Proven understanding of knowledge graphs and/or
+    vectorization as it relates to LLMs
+  - Experience building RAG systems including low level design
+    and implementation of such systems.
+  - Solid understanding of large language models (LLMs) and
+    their application in enterprise solutions, including
+    foundational models like Llama 4 Maverick, Claude, and
+    OpenAI.
+  - Experience with cloud platforms, particularly AWS, for
+    scalable compute and storage resources.
+  - Familiarity with Databricks for processing structured and
+    unstructured data, and its use as a runtime for agents and
+    MCPs.
+  - Experience working in an agile development environment.
+  - Experience in Databricks / Snowflake and all the associated
+    AI components
+  - Experience in AWS ( or the two other big clouds) and the
+    associated AI Services
+
+  Education:
+
+  - Bachelor's or Master's degree in Computer Science,
+    Artificial Intelligence, Machine Learning, or a related
+    quantitative field.
+
+  LG Ad Solutions provides equal work opportunities to all
+  team members and applicants, and it prohibits discrimination
+  and harassment of any type on the basis of race, color,
+  ethnicity, caste, religion, age, sex (including pregnancy),
+  national origin, disability status, genetics, protected
+  veteran status, sexual orientation, gender identity or
+  expression, or any other characteristic protected by our
+  policies or federal, state, or local laws.
+
+  We want to ensure that our hiring process is accessible. If
+  you need reasonable accommodation for any part of the
+  application process because of a medical condition or
+  disability, please send an email to careers@lgads.tv to let
+  us know the nature of your request.
+
+  Application Deadline: September 30, 2026
+
+  Compensation & Benefits
+
+  - Tier 1* (San Francisco Bay Area, New York City Tri-State
+    Area, Los Angeles Metro Area, and Seattle Metro
+    Area)$185,000 - $264,000/year
+  - Tier 2* (all other U.S. Locations outside of Tier 1)
+    $162,000 – $231,000/yr
+  - Offers Bonus
+  - Benefits & Perks: 100% employer-paid medical, dental, and
+    vision coverage for employees and eligible dependents.
+    Company-paid life and AD&D, STD and LTD insurance, plus
+    optional supplemental coverage. 401(k) with company match.
+    Flexible Time Off (FTO). Paid parental leave.
+
+  *Certain markets, including the San Francisco Bay Area, New
+  York City Tri-State Area, Los Angeles Metro Area, and
+  Seattle Metro Area, are aligned to Tier 1 compensation
+  bands. All other U.S. locations -including Denver - are
+  aligned to Tier 2 compensation bands. The compensation
+  offered will take into account internal equity and may vary
+  depending on the candidate's geographic region, job-related
+  knowledge, skills, and experience.
+industries:
+  - AdTech
+  - Digital Media
+posted_date: 2026-09-18
+url: "https://builtin.com/job/sr-software-engineer-ii-ai/11244306"
+source: Built In

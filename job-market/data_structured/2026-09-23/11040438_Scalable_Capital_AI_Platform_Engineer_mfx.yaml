@@ -1,0 +1,49 @@
+company:
+  name: Scalable Capital
+  stage: null
+  focus: Digital investment and banking platform
+position:
+  title: AI Platform Engineer (m/f/x)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and maintains infrastructure (LLM gateway,
+      observability, governance, cost management) that other AI
+      Software Engineers use to build generative AI applications.
+      It runs and secures access to models rather than shaping
+      model behavior through prompts, retrieval, or agent design,
+      so it is ai-support.
+  responsibilities:
+  - Develop and maintain an internal AI provisioning platform streamlining access
+    to LLMs and MCP Servers via LiteLLM
+  - Implement LLM observability, logging, and alerting using Datadog and Langfuse
+  - Enforce model governance covering security, data privacy, rate limiting, and LLM
+    API cost management
+  - Collaborate with embedded AI Software Engineers on cloud-native architectures
+    and agentic workflow integrations
+  - Build and maintain infrastructure monitoring reliability and performance of production
+    AI systems
+  use_cases:
+  - Internal AI provisioning platform providing seamless model access
+  - LLM observability and cost governance for generative AI applications
+  - Infrastructure supporting agentic and LLM-driven workflows in fintech banking
+  skills:
+    genai: [LLMs, MCP, LiteLLM, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Langfuse, Datadog, Monitoring, Infrastructure as Code, Terraform, CI/CD,
+      Docker, DevOps]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11040438'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:14:15.853944'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

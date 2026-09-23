@@ -1,0 +1,56 @@
+company:
+  name: OneStream Software
+  stage: null
+  focus: Enterprise finance platform with embedded AI
+position:
+  title: Associate AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds scalable software applications and services
+      around AI/ML capabilities on the OneStream platform; the
+      responsibilities describe full-stack engineering, debugging,
+      and design sessions rather than shaping model behavior
+      through prompts, retrieval, or training. ML frameworks are
+      only listed as preferred familiarity, and no LLM or agent
+      work is described.
+  responsibilities:
+  - Develop scalable, high-performance applications and services using software architecture
+    design patterns
+  - Implement robust software systems using Python and SQL/NoSQL with optimal performance
+    and scalability
+  - Troubleshoot and debug issues across the full stack from UI to database layer
+  - Participate in technical design sessions to decompose and design complex systems
+    and interfaces
+  - Collaborate with cross-functional teams to meet technical and user requirements
+  - Apply data analysis and data science solutions into end products
+  use_cases:
+  - Time series forecasting for finance users
+  - Anomaly detection in financial/operational data
+  - Natural language processing capabilities in the platform
+  - Lowering barriers for organizations to get value from AI
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Machine Learning]
+    web: [Flask, FastAPI, Web Services, API Frameworks]
+    databases: [NoSQL, SQL Server]
+    data: []
+    cloud: [Azure]
+    ops: [Distributed Systems]
+    languages: [Python, SQL, C++, C, C#, Java, Rust, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11120672'
+  location: Chicago, USA
+  locations:
+  - Chicago, USA
+  - New York, USA
+  - Birmingham, USA
+  - Fort Lauderdale, USA
+  remote: true
+  extracted_at: '2026-09-23T11:20:22.762681'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,109 @@
+job_id: 10941891
+title: System Software Engineer - Local AI
+company: NVIDIA
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 21,960 Employees
+description: |
+  NVIDIA has continuously reinvented itself for over two
+  decades. The invention of the GPU in 1999 fueled the growth
+  of PC gaming, redefined modern computer graphics, and
+  revolutionized parallel computing. More recently, GPU deep
+  learning has ignited modern AI, positioning NVIDIA as a
+  leading AI computing company.
+
+  There is an increasing focus on delivering AI models
+  locally, closer to the source of data. This reduces latency,
+  improves real-time processing, and addresses privacy
+  concerns by minimizing data transfer to centralized servers.
+  As technology advances, client-side AI (local execution)
+  will play a key role in shaping digital experiences. The
+  LocalAI team is seeking a Systems Software Engineer to build
+  efficient on-device AI software for RTX and DGX-class
+  systems. This role focuses on high-performance local
+  inference, low latency, efficient memory use, infrastructure
+  and practical deployment on resource-constrained platforms.
+
+  What you'll be doing:
+
+  - Partnering with NVIDIA's software, research, architecture,
+    and product teams to align strategies and technical needs,
+    encouraging the ecosystem of AI on RTX and DGX PCs.
+  - Building and optimizing local AI inference stack for RTX,
+    RTX Pro and DGX GPUs, focusing on performance, stability,
+    and scalability across various hardware architectures.
+  - Architecture and development of modern inference runtimes
+    and execution stacks, covering frameworks like Llama.cpp,
+    vLLM, PyTorch, WinML, DXCGC, and TensorRT-RTX across LLMs,
+    vision-language, TTS, ASR, and diffusion AI workloads.
+  - Perform end-to-end optimization of AI models, data
+    pipelines, and inference runtimes to enhance performance
+    across current and next-generation GPU architectures.
+    Apply model optimization techniques such as quantization,
+    pruning, sparsity, and distillation to enable efficient
+    deployment of large models on local and edge devices.
+  - Perform system-level debugging, performance optimization,
+    and performance–accuracy trade-off analysis; develop
+    infrastructure for performance and accuracy sweeps,
+    analyze results to identify gaps, and drive fixes; and
+    establish engineering guidelines to accelerate bring-up
+    and ensure production readiness of new models and
+    inference backends.
+
+  What we need to see :
+
+  - 4+ years of experience with Bachelor's, Master's, or PhD in
+    Computer Science, Software Engineering, Mathematics, or a
+    related field, or equivalent experience.
+  - Excellent C++ programming and debugging skills, with a
+    strong understanding of data structures, algorithms and
+    machine learning.
+  - Proven experience working with AI inferencing pipelines and
+    applications using ML/DL frameworks, such as Llama.cpp,
+    vLLM, PyTorch, WinML, DXCGC and TensorRT.
+  - Deep interest in inference backends and runtime internals,
+    including scheduling, memory management, KV-cache
+    behavior, graph execution, quantization, and hardware-
+    aware optimization.
+  - Strong analytical and problem-solving abilities, with the
+    capability to multitask effectively in a dynamic
+    environment.
+  - Outstanding written and oral communication skills,
+    facilitating effective collaboration with management and
+    engineering teams.
+
+  Ways to stand out from the crowd:
+
+  - Understanding of modern techniques in Machine Learning, Deep
+    Neural Networks, and Generative AI, with relevant
+    contributions to major open-source projects.
+  - Consistent track record of delivering end-to-end products
+    with geographically distributed teams in multinational
+    product companies.
+  - Proficiency in lower-level system/GPU programming, CUDA, and
+    developing high-performance systems.
+  - Contributions to open-source inference runtimes, model
+    tooling, or performance infrastructure.
+  - Hands-on experience building applications with frameworks
+    and APIs like Llama.cpp, PyTorch, TensorRT, Vulkan, and
+    DirectX, vLLM
+
+  We're a top employer known for innovation and growth. We are
+  an equal-opportunity employer and value diversity at our
+  company. With competitive salaries and a generous benefits
+  package, we are widely considered to be one of the world’s
+  most desirable employers of technology. We have some of the
+  most forward-thinking and hardworking people in the world
+  working for us and, due to unprecedented growth, our best-
+  in-class engineering teams are rapidly growing. If you're a
+  creative and autonomous engineer with a real passion for
+  technology, we would like to hear from you.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-09-09
+url: "https://builtin.com/job/system-software-engineer-local-ai/10941891"
+source: Built In

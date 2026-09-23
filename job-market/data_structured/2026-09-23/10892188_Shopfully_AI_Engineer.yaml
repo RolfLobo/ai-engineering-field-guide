@@ -1,0 +1,51 @@
+company:
+  name: Shopfully
+  stage: null
+  focus: Shopping deals platform connecting shoppers with retailers
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role introduces agentic methodologies across product and
+      functional teams and shapes the AI-integrated platform,
+      meaning the engineer designs agent workflows themselves.
+      Forward-deployed style work embedding AI into processes is
+      ai-first per the edge cases.
+  responsibilities:
+  - Shape the company's AI transformation strategy and platform
+  - Act as a forward deployed engineer embedded in product teams and functional areas
+    like finance, sales and marketing
+  - Introduce agentic methodologies into business processes
+  - Bring learnings from embedded work back into the platform
+  - Support adoption and integration of AI tools across the company
+  - Ship quality code and production-ready features
+  use_cases:
+  - Adoption of AI tools across a shopping deals platform
+  - Introducing agentic workflows into finance, sales and marketing processes
+  - Integrating AI deeply into company operations as a force multiplier
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10892188'
+  location: ITA
+  locations:
+  - ITA
+  - ESP
+  - AUT
+  - DEU
+  remote: true
+  extracted_at: '2026-09-23T11:05:14.981262'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

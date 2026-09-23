@@ -1,0 +1,58 @@
+company:
+  name: LG Ad Solutions
+  stage: null
+  focus: AdTech advertising solutions powered by AI
+position:
+  title: Sr Software Engineer II, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent flows, query decomposition, context
+      engineering, RAG pipelines, and eval harnesses for LLM
+      agents - directly shaping model behavior and output quality,
+      so it's ai-first.
+  responsibilities:
+  - Build and maintain LLM-powered services and APIs (FastAPI, webhooks, LangGraph)
+    in production
+  - Develop evaluation harnesses and offline/online eval pipelines to measure quality,
+    hallucination rates, and accuracy
+  - Instrument services with logging, tracing, and metrics for observability
+  - Design AI agents with intent recognition and complex query decomposition
+  - Implement context engineering techniques for short/long-term memory and knowledge
+    base usage
+  - Integrate AI agents with internal systems (ACR, Mosaic, Salesforce) and third-party
+    services (SpringServe, DSPs)
+  - Build client-facing tools for voice and natural language data queries
+  - Automate G&A tasks starting with Finance, and enable self-service data access
+    via AI agents
+  use_cases:
+  - Business-wide AI agents for internal operations and partner experiences
+  - Automated media planning integrated into Mosaic (home-grown DSP)
+  - Voice and natural language data queries for clients, enabling data monetization
+    on the ACR platform
+  - Self-service data access and analysis across diverse data sources
+  - Automating Finance, HR, and IT Operations tasks
+  skills:
+    databases: [Vector Databases, Knowledge Graphs, Snowflake]
+    domains: []
+    data: [Databricks]
+    web: [FastAPI, Webhooks, APIs]
+    ml: []
+    ops: [Monitoring, Observability]
+    other: [Agile, Salesforce]
+    cloud: [AWS, AWS Bedrock]
+    languages: [Python]
+    genai: [LangGraph, RAG, Context Engineering, AI Agents, LLMs, Generative AI, LLM
+        Evaluation, MCP, Llama, Anthropic API, OpenAI API, Intent Detection, Query
+        Decomposition]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11244306'
+  location: Denver, USA
+  locations:
+  - Denver, USA
+  - New York, USA
+  extracted_at: '2026-09-23T11:31:22.475956'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

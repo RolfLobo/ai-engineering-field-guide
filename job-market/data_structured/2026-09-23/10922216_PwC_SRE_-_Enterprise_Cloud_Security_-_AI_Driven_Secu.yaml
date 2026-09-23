@@ -1,0 +1,63 @@
+company:
+  name: PwC
+  stage: null
+  focus: 'Professional services: cyber, data and tech risk consulting'
+position:
+  title: SRE - Enterprise & Cloud Security - AI Driven Security -  Manager
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, implements, and optimizes ML models and
+      AI-driven security solutions, which is shaping model
+      behaviour, so it passes Step 1. No LLM, prompt, RAG, or
+      agent work is named — the described work is classical ML and
+      data engineering for security use cases, making it ml-first.
+  responsibilities:
+  - Lead the design and development of AI-driven security solutions for enterprise
+    and cloud security
+  - Manage and mentor teams delivering data and analytics engineering projects
+  - Implement machine learning models and AI systems supporting scalable software
+    and platform solutions
+  - Oversee integration and deployment of data infrastructure and pipelines for AI/ML
+    initiatives
+  - Develop and optimize AI algorithms and models using Python and C++
+  - Conduct complex data analysis to identify patterns and insights driving business
+    decisions
+  - Manage client accounts with focus on planning, budgeting, execution, and compliance
+    with standards
+  - Coach and develop team members and promote innovative technologies in cybersecurity
+    and privacy
+  use_cases:
+  - AI-driven enterprise and cloud security
+  - Transforming raw data into actionable business insights
+  - Scalable software and platform solutions powered by AI/ML
+  - Cybersecurity and privacy analytics
+  skills:
+    genai: []
+    ml: [Machine Learning, Model Training]
+    web: []
+    databases: [Snowflake]
+    data: [Databricks, Data Pipelines, Data Engineering]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, C++]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '10922216'
+  location: Dallas, USA
+  locations:
+  - Dallas, USA
+  - Houston, USA
+  - Atlanta, USA
+  - Chicago, USA
+  - New York, USA
+  - Seattle, USA
+  - Boston, USA
+  - San Francisco, USA
+  - Washington, USA
+  extracted_at: '2026-09-23T11:06:58.795460'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

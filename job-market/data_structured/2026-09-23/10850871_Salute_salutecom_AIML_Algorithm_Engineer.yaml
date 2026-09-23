@@ -1,0 +1,63 @@
+company:
+  name: Salute (salute.com)
+  stage: null
+  focus: Data center infrastructure services
+position:
+  title: AI/ML & Algorithm Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: designing multi-agent
+      systems, prompt pipelines, RAG, fine-tuning, structured
+      outputs, and model evaluation in production. LLM/agent
+      components are central, so it is ai-first.
+  responsibilities:
+  - Design and implement production multi-agent AI systems with tool use, memory management,
+    structured outputs, and human-in-the-loop ratification
+  - Develop novel scoring, ranking, prioritization, and optimization algorithms including
+    multi-dimensional impact scoring
+  - 'Build LLM-powered workflows: RAG, prompt pipelines, fine-tuning, structured extraction,
+    and domain-adapted models'
+  - Architect closed-loop autonomous AI systems feeding agent observations into continuous
+    improvement cycles
+  - Identify patentable algorithmic and AI system designs and author invention disclosures
+  - Lead evaluation and benchmarking of AI model performance (accuracy, latency, cost,
+    reliability) and drive build-vs-buy decisions
+  - 'Establish AI governance practices: model cards, explainability, bias evaluation,
+    and auditability'
+  - Design federated agent and retrieval architectures across decentralized data domains
+    with intelligent query routing
+  use_cases:
+  - Multi-agent AI and closed-loop autonomous workflows for complex physical environments
+  - Multi-dimensional impact scoring and ranking of ideas, proposals, and operational
+    priorities
+  - LLM-powered enterprise workflows with retrieval, structured extraction, and domain
+    adaptation
+  - 'AI applied to data center and IoT operations: sensor time-series, maintenance
+    logs, energy consumption'
+  - Federated intelligence layer across decentralized, domain-owned operational data
+    sources
+  - Patentable novel algorithmic designs for scheduling and combinatorial optimization
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, CrewAI, LLMs, Prompt Engineering, Agentic
+        Workflows, RAG, Fine-Tuning, Multi-Agent Systems, AI Agents, Structured Outputs,
+      Function Calling, RLHF, Embeddings, Semantic Search]
+    ml: [PyTorch, JAX, Machine Learning, Deep Learning, Reinforcement Learning, Federated
+        Learning]
+    web: []
+    databases: [Vector Databases, Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: [MLflow, Weights & Biases, Ray, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10850871'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:02:51.837983'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

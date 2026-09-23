@@ -1,0 +1,57 @@
+company:
+  name: AssemblyAI
+  stage: Series C
+  focus: Voice AI speech-to-text and speech understanding models
+position:
+  title: Senior GTM AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-step agents (account
+      research, lead qualification, outreach drafting), gives them
+      tools and data, and evaluates their output quality - shaping
+      LLM/agent behavior directly. This is ai-first despite being
+      in a GTM context.
+  responsibilities:
+  - Write Python services, SQL models, scheduled jobs, and internal apps daily, using
+    AI coding assistants to ship fast
+  - Build and run production agents for account research, lead qualification, outreach
+    drafting, CRM hygiene, and usage monitoring
+  - Turn product usage data in BigQuery and Looker into seller action signals such
+    as usage alerts, expansion triggers, and account health scores
+  - Build the account targeting machine with sourcing, enrichment, dedupe, and ICP
+    scoring
+  - Integrate CRM, enrichment providers, and outbound tools so data moves without
+    human intervention
+  - Keep funnel data trustworthy with routing rules, field governance, and attribution
+  - Prototype, measure, and iterate with Sales and Marketing leadership
+  - Document built systems so they run without ongoing maintenance
+  use_cases:
+  - Automated account research and lead qualification for sales
+  - Outreach drafting agents for SDRs
+  - 'Product usage signals: usage alerts, expansion triggers, churn prediction, account
+    health scores'
+  - 'Account targeting: sourcing, enrichment, dedupe, and ICP scoring into ranked
+    lead lists'
+  - Automated CRM hygiene and enrichment without manual data entry
+  - System integration and data movement between CRM, enrichment, and outbound tools
+  skills:
+    genai: [AI Agents, Function Calling, RAG, LLM Evaluation, LLMs]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: [BigQuery, Looker]
+    data: [dbt]
+    cloud: []
+    ops: [Claude Code, Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: [Salesforce, CRM, Clay]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10920949'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:06:25.087178'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

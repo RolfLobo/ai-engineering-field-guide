@@ -1,0 +1,50 @@
+company:
+  name: Vendelux
+  stage: Series B
+  focus: Event marketing intelligence and AI-driven event insights
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and owns agentic chat systems, RAG,
+      prompts, evals, and guardrails — directly shaping LLM/agent
+      behavior and output quality. Clear ai-first per Step 2.
+  responsibilities:
+  - Research and apply AI methods (agents, LLMs, RAG, embeddings) to power new product
+    capabilities
+  - Own architecture and integration of agentic chat capabilities across the platform
+  - Design systems enabling AI agents to reason, take action, and surface insights
+  - Establish patterns for agent interactions with internal data, external tools,
+    and user workflows
+  - Architect multi-tenant AI infrastructure meeting performance, latency, and cost
+    requirements
+  - Own observability, evaluation frameworks, and guardrails for production-grade
+    AI features
+  - Collaborate with product, data science, and engineering teams on AI systems
+  - Serve as a thought partner to leadership on the AI roadmap
+  use_cases:
+  - Event marketing intelligence and insights across events globally
+  - Agentic chat capabilities across the product
+  - AI-driven identification of high-value event attendees and meeting programs
+  - Turning event insights into sales pipeline via AI
+  skills:
+    genai: [AI Agents, LLMs, RAG, Embeddings, Prompt Engineering, LangChain, Generative
+        AI]
+    ml: [Hugging Face, Machine Learning, Supervised Learning, Unsupervised Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines, Airflow, Dagster]
+    cloud: [AWS, GCP, Azure]
+    ops: [LLM Evaluation, Guardrails, LLMOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11090610'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:18:47.041607'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

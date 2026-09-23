@@ -1,0 +1,62 @@
+company:
+  name: Giga Energy
+  stage: startup
+  focus: AI data center power and cooling infrastructure
+position:
+  title: Quality Engineer, Switchboards & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a manufacturing quality engineer role for physical
+      power/cooling equipment (switchgear, chillers, e-houses)
+      sold into AI data centers. The person never shapes model
+      behavior, writes prompts, or trains models — "AI" only
+      describes the customer/product context. Per the edge cases,
+      judging the role not the employer, this is ai-support.
+  responsibilities:
+  - Execute quality procedures, IQC/in-process/final inspection, and electrical test
+    protocols for AI pod components (chillers, e-houses, switchgear)
+  - Maintain product compliance matrix mapping components to UL, NEC, NEMA, and customer-specific
+    requirements; support ISO 9001 audits
+  - Manage supplier quality with international CMs in China, Mexico, and India — qualification
+    audits, SQAs, FAI documentation, and SCARs via 8D
+  - Build inspection checklists and quality control plans for safety-critical assembly
+    operations
+  - Lead root cause analysis (8D, Fishbone, 5-Why) for non-conformances and field
+    failures
+  - Track quality KPIs including incoming PPM, first-pass yield, scrap/rework, and
+    warranty claim rate
+  - Support customer complaint intake, on-site investigation, and 8D closure within
+    SLA
+  - Maintain serialized test records, Certificates of Conformance, and calibration
+    register
+  use_cases:
+  - Quality assurance of power and cooling equipment (chillers, e-houses, switchgear)
+    for AI data centers
+  - Supplier quality management with overseas contract manufacturers
+  - Compliance with UL, NEC, NEMA, and ISO standards for electrical equipment
+  - Defect prevention and continuous improvement in AI pod manufacturing
+  - Customer complaint and warranty investigation for field-deployed AI pods
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [ISO 9001 QMS, UL 891/67 Compliance, NEC Standards, NEMA Standards, AQL
+        Sampling, First Article Inspection, Supplier Quality Agreements, 8D Methodology,
+      Fishbone Analysis, 5-Why Analysis, PPAP, PFMEA, Control Plans, Lean Manufacturing,
+      Six Sigma, Root Cause Analysis, ERP Quality Modules, Insulation Resistance Testing,
+      Certificate of Conformance, Non-Conforming Material Disposition]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10900374'
+  location: Long Beach, USA
+  extracted_at: '2026-09-23T11:05:34.109328'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

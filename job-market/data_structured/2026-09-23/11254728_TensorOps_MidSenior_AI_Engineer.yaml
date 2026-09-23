@@ -1,0 +1,51 @@
+company:
+  name: TensorOps
+  stage: null
+  focus: Boutique AI consultancy shipping enterprise AI systems
+position:
+  title: Mid/Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM systems directly: RAG
+      pipelines, agentic workflows, fine-tuning, and embeddings
+      for clients. That is shaping LLM behavior, so ai-first;
+      classical ML is also present but LLM work dominates.
+  responsibilities:
+  - Design, build, and deploy production ML and LLM-based systems (RAG, agentic workflows,
+    fine-tuning, embeddings) for enterprise clients
+  - Own technical delivery end-to-end from architecture and prototyping to deployment,
+    monitoring, and iteration
+  - Work with client engineering and product teams to translate business needs into
+    technical solutions
+  - Mentor junior ML engineers through code reviews, technical guidance, and knowledge
+    sharing
+  - Shape internal best practices, tooling, and technical standards
+  - Represent TensorOps technically in client conversations, workshops, and conferences
+  use_cases:
+  - Enterprise RAG and LLM-based systems
+  - Agentic AI workflows
+  - Chatbot architectures
+  - LLM fine-tuning for client products
+  - ML-driven products across diverse industries
+  skills:
+    genai: [RAG, Agentic Workflows, Fine-Tuning, Embeddings, LangChain, LLMs, Generative
+        AI]
+    ml: [PyTorch, TensorFlow, scikit-learn, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD, Monitoring, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11254728'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:31:33.395903'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

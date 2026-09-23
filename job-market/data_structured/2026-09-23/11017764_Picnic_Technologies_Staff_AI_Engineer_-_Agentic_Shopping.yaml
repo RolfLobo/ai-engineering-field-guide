@@ -1,0 +1,50 @@
+company:
+  name: Picnic Technologies
+  stage: null
+  focus: Online grocery delivery with electric vehicles
+position:
+  title: Staff AI Engineer - Agentic Shopping
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-turn conversational agents
+      with fine-tuning, distillation, RAG, evaluation loops and
+      guardrails - directly shaping LLM behavior and output
+      quality. This is clearly ai-first.
+  responsibilities:
+  - Lead technical direction and architecture for Picnic's agentic shopping assistant
+  - Design multi-turn conversational agent architectures balancing latency, safety
+    guardrails, and inference costs
+  - Build agentic shopping prototypes and productionize them, writing production code
+    when needed
+  - Apply fine-tuning, distillation, and RAG with open-weight models
+  - Establish continuous offline and online evaluation for mission completion, basket
+    correctness, safety, latency and cost
+  - Mentor engineers across the organization on production-grade agentic systems
+  - Collaborate with product and design teams on agent capabilities and trade-offs
+  use_cases:
+  - Agentic grocery shopping assistant for household meal and grocery planning
+  - Grounded basket assembly from a live grocery assortment
+  - Multi-turn conversational agents explaining and learning from customer choices
+  - Personalized retrieval and ranking for product recommendations
+  skills:
+    genai: [RAG, Fine-Tuning, Context Engineering, LangGraph, Pydantic AI, Conversational
+        AI, Guardrails, LLM Evaluation]
+    ml: [PyTorch, Distillation, Deep Learning, Representation Learning, Recommendation
+        Systems]
+    web: []
+    databases: [Qdrant]
+    data: []
+    cloud: []
+    ops: [vLLM, Monitoring, DeepEval]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11017764'
+  location: Amsterdam, NLD
+  extracted_at: '2026-09-23T11:13:06.497271'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

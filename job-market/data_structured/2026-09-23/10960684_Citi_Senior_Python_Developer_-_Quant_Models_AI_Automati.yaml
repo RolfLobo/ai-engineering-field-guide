@@ -1,0 +1,55 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global bank risk technology for quantitative models
+position:
+  title: Senior Python Developer - Quant Models AI Automation - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements LLM-based automation (documentation
+      generation, prompt engineering, RAG-style document
+      workflows) directly, which is shaping LLM output quality. It
+      also builds testing/eval governance for the AI components,
+      so it is ai-first rather than a generic engineering role.
+  responsibilities:
+  - Design, develop, and maintain Python-based services, pipelines, and tools automating
+    the quantitative model lifecycle across market and credit risk model families
+  - Build automated testing and validation frameworks for quantitative models, including
+    test orchestration, benchmarking, and reporting
+  - Develop data analysis and reconciliation tooling over large-scale risk datasets
+    with data quality, lineage, and traceability
+  - 'Contribute to model lifecycle management tooling: model inventory, workflow orchestration,
+    approvals, periodic reviews, and audit-ready evidence'
+  - Implement LLM-based automation for model documentation generation, intelligent
+    data quality checks, and workflow assistance
+  - Integrate AI tooling into a controlled, auditable production environment with
+    testing, monitoring, and governance controls
+  - Mentor junior developers and contribute to technical design reviews within a cross-functional
+    agile team
+  use_cases:
+  - AI-assisted model documentation generation and updating for quantitative risk
+    models
+  - Automated testing and validation workflows for market and credit risk models
+  - Large-scale risk data analysis, reconciliation, and data quality checks
+  - 'Model lifecycle management: inventory, approvals, periodic reviews, and audit
+    evidence generation'
+  skills:
+    genai: [Prompt Engineering, RAG, LLMs]
+    ml: [Machine Learning]
+    web: [FastAPI]
+    databases: []
+    data: [Pandas, NumPy, Data Pipelines]
+    cloud: [AWS, GCP]
+    ops: [CI/CD, Git, Docker, Kubernetes, Code Review]
+    languages: [Python, SQL]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10960684'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:09:10.727007'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

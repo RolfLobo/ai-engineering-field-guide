@@ -1,0 +1,46 @@
+company:
+  name: NTT DATA
+  stage: null
+  focus: Global IT and business technology services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a general software development engineer that
+      mentions "running ML/AI algorithms" on telemetry data, but
+      there is no evidence of shaping model behavior — no prompt
+      engineering, RAG, training, or eval work. AI/ML is consumed,
+      not shaped, so this is ai-support.
+  responsibilities:
+  - Design and develop software solutions, modules, and micro-services
+  - Write, test, and refactor code including automated testing
+  - Build prototypes for multi-vendor infrastructure and showcase to clients
+  - Run ML/AI algorithms on telemetry and structured/unstructured data
+  - Develop RESTful APIs and integrate third-party software through automation
+  - Build and debug large-scale distributed systems
+  - Contribute to software deployment, documentation, and operational procedures
+  - Collaborate across multiple teams and review code from other developers
+  use_cases:
+  - Telemetry data processing with ML/AI algorithms
+  - Micro-services based software for cloud and internet-related tools
+  - Structured and unstructured data analytics
+  skills:
+    genai: []
+    ml: []
+    web: [Microservices, REST APIs]
+    databases: [SQL, NoSQL, Elasticsearch, MongoDB, Cassandra]
+    data: []
+    cloud: [AWS, GCP, Azure, Microsoft Office 365]
+    ops: [Kubernetes, Docker, LXC/LXD, CI/CD, DevOps]
+    languages: [C++, C, C#, Java, JavaScript, Python, Node.js]
+    domains: []
+    other: [Agile, Lean, Test-Driven Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11221949'
+  location: New Delhi, IND
+  extracted_at: '2026-09-23T11:27:46.355106'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

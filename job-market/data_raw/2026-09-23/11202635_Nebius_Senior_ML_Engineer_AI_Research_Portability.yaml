@@ -1,0 +1,315 @@
+job_id: 11202635
+title: Senior ML Engineer (AI Research/ Portability)
+company: Nebius
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - ISR
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 473 Employees
+description: |
+  About Nebius:
+
+  Nebius is leading a new era in cloud infrastructure for the
+  global AI economy. We are building a full-stack AI cloud
+  platform that supports developers and enterprises from data
+  and model training through to production deployment, without
+  the cost and complexity of building large in-house AI/ML
+  infrastructure.
+
+  Built by engineers, for engineers. From large-scale GPU
+  orchestration to inference optimization, we own the hard
+  problems across compute, storage, networking and applied AI.
+
+  Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we
+  have a global footprint with R&D hubs across Europe, the UK,
+  North America and Israel. Our team of 1,500+ includes
+  hundreds of engineers with deep expertise across hardware,
+  software and AI R&D.
+
+  The role
+
+  This role is for Nebius AI R&D, a team focused on applied
+  research in AI. Our Portability research aims to make
+  intelligent agent systems work reliably as models,
+  providers, harnesses, skills, memory systems, and deployment
+  environments change. We build and evaluate portable layers
+  that preserve capability, context, identity, provenance, and
+  user control across heterogeneous systems. Research areas
+  include:
+
+  - Per-turn model routing across quality, cost, latency,
+    capability, cache state, and reliability objectives
+
+  - Provider and protocol portability across frontier models,
+    open-source models, local inference, and compatible APIs
+
+  - Agent and harness interoperability, including transferable
+    skills, capability profiles, actions, tools, and
+    trajectories
+
+  - Portable, user-owned memory and context with scoped
+    identity, provenance, retrieval, feedback, and reviewable
+    compaction
+
+  - Agent interchange standards, conformance testing, tool and
+    MCP access, and agent-to-agent communication
+
+  - Agent and harness optimization through evaluation,
+    distillation, customization, and multi-agent learning
+
+  You will design and build research prototypes and robust
+  systems at the seams between models, providers, and agent
+  runtimes. You will formulate research questions, develop
+  evaluation methods, test ideas in realistic agent workflows,
+  and turn promising results into reusable components. The
+  work will often involve collaboration with adjacent
+  research, infrastructure, security, product, and engineering
+  teams, where findings are validated and applied in practice.
+
+  We are currently looking for senior- and staff-level ML
+  engineers to work on research in areas such as:
+
+  - Learned, rule-based, and hybrid model routing, cascading,
+    and candidate-ranking systems
+
+  - Quality-cost-latency trade-offs, uncertainty estimation,
+    exploration, and outcome-aware routing
+
+  - Multi-provider gateways, protocol translation, catalog
+    normalization, and fail-closed execution contracts
+
+  - Portable agent skills, harness capability discovery, package
+    adaptation, and cross-harness conformance
+
+  - Memory, identity, context, trajectory, and outcome
+    representations that remain portable across agents and
+    models
+
+  - Retrieval, context selection, context compaction, and
+    feedback systems with explicit provenance and trust
+    boundaries
+
+  - Agent interoperability standards, including metadata, action
+    formats, plugins, tools, MCP, and agent-to-agent
+    interfaces
+
+  - Agent optimization, teacher-student distillation, skill
+    generation, harness customization, and multi-agent
+    learning
+
+  - Benchmarking and evaluation infrastructure for model,
+    router, memory, skill, and harness changes
+
+  Some examples of what your responsibilities might include
+  are:
+
+  - Designing, implementing, training, and evaluating model
+    routers that select an appropriate model or reasoning
+    profile for each turn
+
+  - Developing portable provider and protocol abstractions that
+    preserve authentication, telemetry, cache and context
+    signals, and execution provenance
+
+  - Defining versioned schemas and contracts for models,
+    provider offers, agents, workspaces, skills, actions,
+    tools, memories, and trajectories
+
+  - Building systems that discover, package, adapt, and validate
+    agent skills across coding agents, editors, and other
+    harnesses
+
+  - Researching user-owned memory, scoped identity, trajectory
+    checkpoints, terminal outcomes, retrieval quality, and
+    reviewable context compaction
+
+  - Creating benchmark suites and evaluation protocols for
+    quality, cost, latency, reliability, safety, and
+    portability
+
+  - Designing held-out, out-of-domain, and change-impact
+    evaluations that test new or removed models, providers,
+    skills, and harness versions
+
+  - Investigating distillation, self-improving harnesses, multi-
+    agent training, agent factories, and automated skill
+    creation
+
+  - Writing robust research software, APIs, integration layers,
+    and test infrastructure that enable rapid but reproducible
+    experimentation
+
+  - Collaborating across research and engineering teams to
+    translate promising ideas into secure, reversible, and
+    reliable systems
+
+  - Communicating results through technical reports,
+    demonstrations, open-source releases, benchmarks, and
+    research publications
+
+  We expect you to have:
+
+  - A profound understanding of machine learning, large language
+    models, or statistical decision-making
+
+  - Deep expertise in at least one relevant area, such as model
+    routing, recommender systems, agent systems, retrieval and
+    memory, model evaluation, distributed systems, or protocol
+    and API design
+
+  - Experience building and evaluating modern language-model or
+    agentic systems, including tool use and multi-turn
+    workflows
+
+  - Experience designing, executing, and analyzing machine
+    learning experiments with appropriate statistical rigor
+
+  - Ability to formulate meaningful research questions, design
+    experiments that test clear hypotheses, and draw
+    defensible conclusions
+
+  - Understanding of evaluation leakage, held-out testing, out-
+    of-domain generalization, uncertainty, and reproducibility
+
+  - Strong software-engineering and algorithm-design skills;
+    excellent Python skills and the ability to work across
+    production systems
+
+  - Experience with APIs, data schemas, distributed services,
+    testing, observability, code review, and CI/CD
+
+  - Ability to reason about security, privacy, provenance,
+    permissions, failure modes, and user control in agent
+    systems
+
+  - Experience implementing research ideas and iterating quickly
+    across modeling, data, systems, and evaluation
+
+  - Strong communication and technical leadership abilities,
+    including collaboration across research and engineering
+    disciplines and clear documentation of findings in
+    technical reports or research publications
+
+  Nice to have:
+
+  - Experience with model routers, cascades, mixture-of-experts
+    systems, recommenders, or cost-aware inference
+
+  - Experience integrating multiple model providers or inference
+    stacks, including OpenAI-compatible APIs, Anthropic-style
+    APIs, local inference, or open-source serving systems
+
+  - Familiarity with agent harnesses, coding agents, editor
+    integrations, function calling, tool execution, MCP, or
+    agent-to-agent protocols
+
+  - Experience with retrieval systems, vector search, knowledge
+    graphs, temporal data, memory architectures, or context
+    management
+
+  - Experience with benchmark suites for coding, reasoning,
+    factuality, instruction following, tool use, or multi-turn
+    agent workflows
+
+  - Experience with teacher-student distillation, reinforcement
+    learning, preference learning, reward modeling, or
+    automated skill generation
+
+  - Proficiency in TypeScript, Go, Rust, or another systems
+    language in addition to Python
+
+  - Experience with secure authentication, sandboxing, privacy-
+    preserving telemetry, provenance, or policy-enforced
+    execution
+
+  - Experience building distributed data-processing, evaluation,
+    model-training, or inference systems
+
+  - A PhD in Computer Science, Machine Learning, Artificial
+    Intelligence, or a related technical field, or equivalent
+    practical experience
+
+  - A track record of impactful publications, open-source
+    contributions, or deployed AI systems
+
+  - A record of building and delivering products or research
+    prototypes in a dynamic, startup-like environment
+
+  - Passion for making advanced AI systems composable,
+    inspectable, user-controlled, and resilient to changing
+    models and platforms
+
+  - Excellent command of English, with strong technical writing,
+    presentation, and communication skills
+
+  - Proficiency in contemporary software-engineering practices,
+    including version control, testing, code review, and CI/CD
+
+  Benefits & Perks:
+
+  - Competitive compensation
+  - Career growth and learning opportunities
+  - Flexibility and ownership
+  - Collaborative and innovative culture
+  - Opportunity to work on impactful AI projects
+  - International environment and talented teams
+
+  What's it like to work at Nebius:
+
+  Fast moving - Bold thinking - Constant growth - Meaningful
+  impact - Trust and real ownership - Opportunity to shape the
+  future of AI
+
+  Equal Opportunity Statement:
+
+  Nebius is an equal opportunity employer. We are committed to
+  fostering an inclusive and diverse workplace and to
+  providing equal employment opportunities in all aspects of
+  employment. We do not discriminate on the basis of race,
+  color, religion, sex (including pregnancy), national origin,
+  ancestry, age, disability, genetic information, marital
+  status, veteran status, sexual orientation, gender identity
+  or expression, or any other characteristic protected by
+  applicable law.
+
+  Applicants must be authorized to work in the country in
+  which they apply and will be required to provide proof of
+  employment eligibility as a condition of hire.
+
+  If you need accommodations during the application process,
+  please let us know.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-ml-engineer-ai-research-portability/11202635"
+source: Built In

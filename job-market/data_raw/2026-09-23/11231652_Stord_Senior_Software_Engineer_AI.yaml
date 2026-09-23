@@ -1,0 +1,188 @@
+job_id: 11231652
+title: Senior Software Engineer, AI
+company: Stord
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Stord is The Consumer Experience Company, powering seamless
+  checkout through delivery for today's leading brands. Stord
+  is rapidly growing and is on track to double our revenue in
+  the next 18 months. To meet and exceed this target, Stord is
+  strategically scaling teams across the entire company, and
+  seeking energetic experts to help us achieve our mission.
+
+  By combining comprehensive commerce-enablement technology
+  with high-volume fulfillment services, Stord provides brands
+  a platform to compete with retail giants. Stord manages over
+  $10 billion of commerce annually through its fulfillment,
+  warehousing, transportation, and operator-built software
+  suite including OMS, Pre- and Post-Purchase, and WMS
+  platforms. Stord is leveling the playing field for all
+  brands to deliver the best consumer experience at scale.
+
+  With Stord, brands can increase cart conversion, improve
+  unit economics, and drive sustained customer loyalty.
+  Stord’s end-to-end commerce solutions combine best-in-class
+  omnichannel fulfillment and shipping with leading technology
+  to ensure fast shipping, reliable delivery promises, easy
+  access to more channels, and improved margins on every
+  order.
+
+  Hundreds of leading DTC and B2B companies like AG1, True
+  Classic, Native, Seed Health, quip, goodr, Sundays for Dogs,
+  and more trust Stord to deliver industry-leading consumer
+  experiences on every order. Stord is headquartered in
+  Atlanta with facilities across the United States, Canada,
+  and Europe. Stord is backed by top-tier investors including
+  Kleiner Perkins, Franklin Templeton, Founders Fund, Strike
+  Capital, Baillie Gifford, and Salesforce Ventures.
+
+  Stord is revolutionizing the logistics industry with our
+  cloud-based supply chain platform. Our AI team builds
+  intelligent, LLM-driven features — including conversational
+  agents, automated workflows, and AI-powered decision support
+  — that are deeply integrated across Stord's product suite.
+  We are seeking a Senior Software Engineer to build core
+  features on the AI Platform team. This is a hands-on
+  engineering role — you will design and deliver complex AI-
+  powered features, contribute to architectural decisions, and
+  help raise the quality bar through strong technical
+  execution. You'll work daily in our TypeScript-based AI
+  platform built on Cloudflare Workers, building the agent
+  infrastructure, tool systems, and integrations that power
+  Stord's AI capabilities. The right person for this role
+  ships reliable, well-designed systems and is growing toward
+  technical leadership. You write clean, idiomatic TypeScript,
+  you have experience building LLM-powered features in
+  production, and you know the difference between accepting
+  model output and directing it toward high-quality results.
+
+  What You'll DoHands-On Engineering
+
+  - Design and build features across our AI platform: agent tool
+    systems, prompt pipelines, integration APIs, and edge-
+    deployed services
+  - Work daily in our TypeScript stack: Hono on Cloudflare
+    Workers, Durable Objects for stateful agents, D1/Drizzle
+    for persistence, and the AI SDK (Anthropic Claude) for
+    model interaction
+  - Build scope-aware tool systems that safely expose platform
+    capabilities (orders, inventory, knowledge base) to AI
+    agents
+  - Design fault-tolerant integrations with downstream services,
+    including Elixir/Phoenix APIs, and ensure graceful
+    degradation
+  - Own features end-to-end: from technical design through
+    implementation, testing, deployment, and production
+    monitoring
+
+  AI/LLM Application Development
+
+  - Build and iterate on agentic AI features — tool calling,
+    context management, multi-step workflows, and confidence-
+    based routing
+  - Implement prompt engineering patterns, evaluation
+    frameworks, and observability for LLM-powered systems
+  - Integrate ML model outputs via API layers, collaborating
+    with Data Scientists to understand model requirements and
+    design clean integration boundaries
+  - Contribute to the design of the Stord Agent Platform: agent
+    orchestration, skill registries, and human-in-the-loop
+    patterns
+
+  Technical Growth & Influence
+
+  - Contribute to architectural decisions through design docs,
+    code reviews, and technical discussions — forming well-
+    reasoned opinions and defending them constructively
+  - Provide mentorship and guidance to junior and mid-level
+    engineers on the team
+  - Identify technical risks, propose improvements, and advocate
+    for quality — don't wait to be assigned a ticket
+  - Create leverage through clear code, well-documented
+    decisions, and reusable patterns that make others faster
+  - Use AI coding tools effectively, maintaining a strong
+    independent technical POV and producing high-quality
+    results rather than accepting raw model output
+    uncritically
+
+  Cross-Functional Collaboration
+
+  - Collaborate closely with Product Management and Design on
+    feature development, providing technical perspective on
+    feasibility and trade-offs
+  - Support other product engineering teams in adopting AI
+    capabilities within their domains
+  - Participate in sprint planning, design reviews, and cross-
+    team syncs
+
+  What You'll NeedRequired Technical Skills
+
+  - TypeScript (2+ years in production) — You write idiomatic,
+    well-structured TypeScript and are comfortable owning
+    significant portions of a TypeScript codebase. This is the
+    primary language of the AI platform.
+  - AI/LLM Application Development — You have built and shipped
+    LLM-powered or agentic features in production. You
+    understand prompt engineering, tool/function calling,
+    context management, and the practical challenges of making
+    AI systems reliable.
+  - Distributed Systems & Edge Computing — Experience building
+    stateful or high-availability services. Cloudflare
+    Workers, Durable Objects, or similar edge runtime
+    experience is a strong plus.
+  - API Design & Integration — Experience designing and
+    consuming RESTful APIs, OpenAPI specifications, and event-
+    driven architectures. You'll integrate with multiple
+    backend services daily.
+  - Database & Persistence — Strong SQL fundamentals. Experience
+    with embedded/edge databases (D1, SQLite) or PostgreSQL.
+    Drizzle ORM experience is a plus.
+  - Cloud Platforms — Hands-on experience with Cloudflare, GCP,
+    or AWS. Understanding of serverless and edge deployment
+    models.
+  - Observability — Experience instrumenting production systems
+    with OpenTelemetry, Datadog, or similar. You know what to
+    measure and how to debug in production.
+
+  Required Soft Skills
+
+  - Ownership & Accountability — You own features end-to-end and
+    take pride in what you ship. You follow through from
+    design to production and don't drop things.
+  - Strong Communication — You can explain technical decisions
+    and trade-offs to engineers, PMs, and stakeholders. You
+    ask good questions and listen well.
+  - Collaborative Approach — You work well with others, give
+    constructive code review feedback, and actively seek input
+    from teammates.
+  - Production Mindset — You prioritize reliability and user
+    impact. You think about failure modes, monitoring, and
+    operational concerns as part of your design process.
+  - Learning Agility — You're comfortable with rapidly evolving
+    AI/ML technologies and tools. You stay current without
+    chasing hype.
+  - Directed AI-Assisted Development — You know how to use AI
+    coding tools as a productivity multiplier while
+    maintaining quality and your own technical judgment.
+
+  Nice to Have
+
+  - Elixir/Phoenix experience or familiarity (downstream
+    services use Elixir)
+  - Experience with the Cloudflare developer platform (Workers,
+    Durable Objects, D1, R2, Vectorize, AI Gateway, Queues)
+  - Experience with Anthropic Claude, the AI SDK (ai / @ai-
+    sdk/anthropic), or Model Context Protocol (MCP)
+  - Knowledge of logistics, e-commerce, or supply chain domains
+  - Experience with WebSocket-based real-time systems
+  - Familiarity with scope-based authorization and multi-tenant
+    systems
+  - Contributions to open-source TypeScript or AI projects
+industries:
+  - Logistics
+  - Software
+posted_date: 2026-09-17
+url: "https://www.builtinla.com/job/senior-software-engineer-ai/11231652"
+source: Built In

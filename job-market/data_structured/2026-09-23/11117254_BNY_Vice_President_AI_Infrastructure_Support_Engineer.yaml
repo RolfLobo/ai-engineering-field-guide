@@ -1,0 +1,55 @@
+company:
+  name: BNY
+  stage: null
+  focus: Global financial services and asset management
+position:
+  title: Vice President, AI Infrastructure Support Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs and supports AI infrastructure (GPU platforms,
+      Kubernetes, monitoring) that others build; it does not shape
+      model behaviour through prompts, retrieval, training, or
+      evals. Per the edge cases, serving/hosting/scaling models is
+      ai-support even when GPUs are named.
+  responsibilities:
+  - Deliver operational support and issue resolution for AI infrastructure, GPU platforms,
+    and production services
+  - Support deployment, orchestration, and monitoring of AI/ML workloads across distributed
+    environments using Kubernetes and Docker
+  - Provision, tune, and operate NVIDIA GPU infrastructure including A100, H100, and
+    B200 nodes
+  - Build automation scripts and tooling with Ansible, Python, and Shell scripting
+  - Manage incidents, service requests, and changes via JIRA and ServiceNow
+  - Partner with cross-functional teams to implement DevOps practices including GitLab
+    CI/CD and Azure AD access management
+  - Diagnose and resolve networking, storage, and system performance issues affecting
+    high-performance compute workloads
+  - Participate in rotating on-call support, including occasional weekend coverage
+  use_cases:
+  - Operational support of enterprise AI infrastructure and GPU platforms
+  - Deployment and monitoring of AI/ML workloads in production
+  - High-performance compute platform reliability and performance tuning
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: [NVIDIA GPUs]
+    ops: [Kubernetes, Docker, Ansible, GitLab CI, Linux, CI/CD]
+    other: [Jira, ServiceNow]
+    cloud: [Azure AD]
+    languages: [Python]
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11117254'
+  location: Lake Mary, USA
+  locations:
+  - Lake Mary, USA
+  - New York, USA
+  - Pittsburgh, USA
+  extracted_at: '2026-09-23T11:19:44.534579'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

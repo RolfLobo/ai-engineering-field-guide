@@ -1,0 +1,43 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene, and infection prevention services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, embedding-based
+      retrieval, and LLM-powered systems, which is directly
+      shaping model behavior and output quality via LLM/agent
+      components, making it ai-first.
+  responsibilities:
+  - Independently design and implement intelligent systems powered by LLMs
+  - Build agent orchestration frameworks and workflows
+  - Develop embedding-based retrieval solutions
+  - Deploy cloud-native GenAI applications
+  - Integrate GenAI applications into real-world business workflows
+  use_cases:
+  - LLM-powered enterprise applications
+  - Agent-based workflow automation
+  - Embedding-based retrieval and search
+  - Cloud-native GenAI application integration
+  skills:
+    genai: [LLMs, Agentic Workflows, Embeddings, RAG, Generative AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10927466'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:07:13.519310'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

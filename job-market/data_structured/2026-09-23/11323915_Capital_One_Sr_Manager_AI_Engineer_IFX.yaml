@@ -1,0 +1,61 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: Sr. Manager, AI Engineer (IFX)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role oversees foundation model training, LLM inference,
+      guardrails, model evaluation, and agentic AI systems, which
+      is directly shaping model behavior and output quality.
+      LLM/agent components dominate, so it is ai-first despite the
+      management title.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Oversee design, development, testing, deployment and support of AI components
+    including foundation model training, LLM inference, similarity search, guardrails,
+    and model evaluation
+  - Make build-vs-buy decisions across Open Source and SaaS AI technologies
+  - Introduce foundation model optimization techniques to improve performance, scalability,
+    cost and latency of production AI systems
+  - Attract, retain, and develop AI engineering talent; foster a culture of learning
+  - Operationalize Responsible AI with review gates, evaluation requirements, and
+    rollout/rollback standards
+  - Translate enterprise AI goals into team roadmaps with measurable outcomes
+  use_cases:
+  - Real-time personalized customer banking experiences
+  - Fraud detection and informing customers about unusual charges
+  - Real-time customer question answering
+  - Proprietary AI models and platforms empowering internal teams to enhance products
+    with AI
+  - Foundation model and LLM infrastructure serving millions of customers
+  skills:
+    genai: [LLMs, Guardrails, Agentic Workflows, RAG]
+    ml: [PyTorch, Hugging Face, Machine Learning, Model Training, Foundation Model
+        Training, Model Evaluation, Fine-Tuning, CUDA]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, Observability, Model Monitoring, Model Deployment]
+    languages: [Python, C++, C#, Java, Go]
+    domains: []
+    other: [LLM Inference, Responsible AI, Generative AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11323915'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-09-23T11:38:11.287447'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

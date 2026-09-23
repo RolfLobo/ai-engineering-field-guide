@@ -1,0 +1,57 @@
+company:
+  name: Juniper Square
+  stage: null
+  focus: |-
+    Technology and fund administration platform for private
+    markets
+position:
+  title: Senior Forward Deployed Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer role designing and building
+      agentic systems: retrieval/context design, tool and MCP
+      integration, orchestration, and evaluation harnesses
+      directly shape LLM agent behavior, making it ai-first. Edge
+      case rules explicitly classify Forward Deployed Engineers
+      building AI agents as ai-first.
+  responsibilities:
+  - Work directly with GP clients to identify workflows where custom AI agents create
+    leverage
+  - Run discovery and translate ambiguous business problems into clear requirements
+    and acceptance criteria
+  - Design and build agentic systems including retrieval, context design, tool and
+    MCP integration, orchestration, evaluation harnesses, and observability
+  - Carry solutions through their full lifecycle from prototype and validation through
+    deployment and production rollout
+  - Operate independently on client-edge solutions and partner with platform engineering
+    teams on core systems
+  - Own deployed solutions post-launch including support, iteration on user feedback,
+    and ongoing operation
+  - Produce documentation, train users, and manage rollouts to drive adoption
+  - Mentor less experienced engineers on engagements
+  use_cases:
+  - Custom AI agents automating operational workflows for private markets GPs
+  - AI-powered fund administration and investor relations workflows
+  - Agentic systems integrated with clients' existing systems and Juniper Square's
+    platform
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, MCP, LLM Evaluation]
+    ml: []
+    web: [Full-Stack Development]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Infrastructure as Code, CI/CD, Monitoring]
+    languages: []
+    domains: []
+    other: [Claude Code]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11006812'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:12:48.399843'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

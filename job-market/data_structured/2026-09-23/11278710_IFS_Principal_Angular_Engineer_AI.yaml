@@ -1,0 +1,57 @@
+company:
+  name: IFS
+  stage: null
+  focus: Enterprise software and AI-driven planning solutions
+position:
+  title: Principal Angular Engineer || AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires building AI-native user experiences —
+      interfaces that dynamically generate themselves and respond
+      to natural-language input — and designing AI-first UI
+      patterns surfacing proactive suggestions, which goes beyond
+      consuming an AI API into shaping LLM/agent-driven product
+      behavior. With an LLM/NL interface component, this
+      classifies as ai-first.
+  responsibilities:
+  - Build the frontend for a new planning and simulation product from scratch, owning
+    frontend architecture and delivery
+  - Design AI-first UI patterns that surface automated status updates and proactive
+    suggestions instead of manual interactions
+  - Handle large, data-heavy views (scheduling, capacity, simulation output) with
+    strong performance focus
+  - Deliver end-to-end features from UI through APIs to data and deployment, contributing
+    to backend services in Go
+  - Build and maintain enterprise integrations with internal/external systems, APIs,
+    and identity services
+  - Contribute to cloud-native architecture including containers, CI/CD, and observability
+  - Provide technical leadership through architecture decisions, code reviews, mentoring,
+    and standards
+  - Collaborate closely with Product, UX, and cross-functional teams while requirements
+    are still being shaped
+  use_cases:
+  - Planning and simulation product for enterprise SaaS
+  - AI-first workflows with automated status updates and proactive suggestions
+  - Natural-language-driven, dynamically generated user interfaces
+  - Scheduling, capacity, and simulation output visualization for asset-intensive
+    industries
+  skills:
+    genai: [AI-Native UX]
+    ml: []
+    web: [Angular, APIs]
+    databases: []
+    data: []
+    cloud: [Containers]
+    ops: [CI/CD, Observability]
+    languages: [Go, Python, Java, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11278710'
+  location: Staines-upon-Thames, GBR
+  extracted_at: '2026-09-23T11:34:25.238237'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

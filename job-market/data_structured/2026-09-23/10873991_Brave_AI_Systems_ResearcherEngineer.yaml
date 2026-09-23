@@ -1,0 +1,53 @@
+company:
+  name: Brave
+  stage: null
+  focus: |-
+    Privacy-focused browser, search engine, and private AI
+    assistant
+position:
+  title: AI Systems Researcher/Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on systems performance evaluation and
+      optimization of ML models for on-device deployment, plus
+      mobile/desktop application development. None of the
+      described responsibilities involve shaping model behavior
+      via prompts, retrieval, agent design, or training; the
+      deliverable is capacity and performance, so it is ai-
+      support.
+  responsibilities:
+  - Shape and improve performance evaluations and optimizations across desktop and
+    mobile products
+  - Work on browser ML models and novel applications
+  - Develop on-device AI agents and supporting systems
+  - Optimize and evaluate ML models and privacy/security technologies for on-device
+    performance
+  - Create and deploy mobile and desktop applications and systems
+  - Collaborate with privacy and security researchers to protect users from AI risks
+  - Contribute to open-source projects
+  use_cases:
+  - On-device performance optimization of browser ML models
+  - On-device AI agents in a privacy-focused browser
+  - Privacy and security protections against AI risks
+  - Performance evaluation of AI systems across desktop and mobile
+  skills:
+    genai: []
+    ml: [Machine Learning, PyTorch, TensorFlow, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [TensorRT]
+    languages: [Python, C++, JavaScript, Rust]
+    domains: []
+    other: [ONNX Runtime, Core ML, MLX, ML Systems, Confidential Computing, Open Source]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10873991'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:04:18.388421'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

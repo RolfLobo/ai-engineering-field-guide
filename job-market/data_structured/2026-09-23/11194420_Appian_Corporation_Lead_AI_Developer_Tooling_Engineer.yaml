@@ -1,0 +1,55 @@
+company:
+  name: Appian Corporation
+  stage: null
+  focus: AI-powered process automation platform for enterprises
+position:
+  title: Lead AI Developer Tooling Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds developer tooling (IDEs, CLIs, CI/CD) and
+      surfaces AI capabilities to engineers, but there's no
+      evidence the person shapes model behavior via prompts,
+      retrieval, or agent design. AI appears mainly as coding
+      assistants used to ship faster and workflows that expose AI
+      built elsewhere, making this developer workflow work rather
+      than model shaping.
+  responsibilities:
+  - Architect, build, and optimize developer-facing tools and services
+  - Design and build IDE integrations, CLIs, code-analysis, and CI/CD tooling for
+    Appian's engineers
+  - Use AI coding tools fluently, generating, reviewing, and evaluating AI-assisted
+    code
+  - Expose AI capabilities to developers through fast, understandable, and debuggable
+    workflows
+  - Manage availability, latency, and efficiency of developer tooling with advanced
+    system tuning
+  - Perform code reviews and build automation frameworks to drive engineering excellence
+  - Mentor and coach junior engineers on software craftsmanship
+  - Publish high-quality technical documentation and share domain knowledge across
+    the department
+  use_cases:
+  - Developer experience tooling for internal engineering teams
+  - AI-assisted coding workflows for engineers
+  - Enterprise-grade process automation platform
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Public Cloud Infrastructure]
+    ops: [CI/CD, Telemetry]
+    languages: []
+    domains: []
+    other: [IDE Integrations, CLI Development, Code Analysis, Language Servers, Build
+        Systems, ServiceNow, Salesforce]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11194420'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:25:31.265804'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

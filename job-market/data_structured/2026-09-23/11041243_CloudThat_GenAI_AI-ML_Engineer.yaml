@@ -1,0 +1,62 @@
+company:
+  name: CloudThat
+  stage: null
+  focus: Cloud consulting and AWS managed services
+position:
+  title: GenAI / AI-ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly: designing RAG
+      pipelines, agentic flows with Bedrock Agents/AgentCore,
+      prompt/context engineering, and building LLM evaluations. It
+      also includes classical ML work, but the LLM component makes
+      it ai-first.
+  responsibilities:
+  - Translate business problems into measurable AI/ML and Generative AI objectives,
+    solution approaches and evaluation criteria
+  - Design and implement production-grade LLM, RAG, conversational AI and agentic
+    AI solutions on AWS
+  - Build RAG pipelines including document ingestion, chunking, embeddings, vector
+    retrieval, reranking and generation
+  - Design and implement Amazon Bedrock Agents and AgentCore-based agentic solutions
+    with tool use, memory/state and orchestration
+  - Develop and evaluate supervised, unsupervised and deep-learning models, including
+    preprocessing, feature engineering, training and hyperparameter tuning
+  - Establish evaluation mechanisms for LLM response quality, retrieval quality, groundedness,
+    hallucination, latency and cost
+  - Optimize LLM token consumption, context size and model selection to control GenAI
+    and AWS infrastructure costs
+  - Deploy, operate and monitor production AI/ML solutions on AWS with security, observability
+    and cost controls
+  use_cases:
+  - Production RAG document retrieval and generation systems
+  - Agentic AI solutions with tool use and orchestration on Bedrock
+  - Conversational AI / voice AI applications
+  - Classical ML for classification, regression, clustering and anomaly detection
+  - LLM cost and token-consumption optimization on AWS
+  - Model quality, groundedness and hallucination evaluation
+  skills:
+    databases: [OpenSearch, Knowledge Graphs]
+    domains: [NLP, Computer Vision]
+    data: [Pandas, NumPy]
+    web: []
+    ml: [scikit-learn, Machine Learning, Classification, Regression, Clustering, Anomaly
+        Detection, Feature Engineering, Model Training, Model Evaluation, Hyperparameter
+        Tuning, Deep Learning, PyTorch, TensorFlow, Model Monitoring, Fine-Tuning,
+      LoRA]
+    ops: [Docker, Kubernetes, CI/CD, MLflow]
+    other: []
+    cloud: [AWS, AWS Bedrock, SageMaker, AWS Lambda, API Gateway, IAM, AWS S3, EKS]
+    languages: [Python]
+    genai: [RAG, Embeddings, Vector Search, LLMs, Prompt Engineering, Agentic Workflows,
+      Function Calling, LLM Evaluation, Conversational AI, LoRA, Guardrails, MCP,
+      Multi-Agent Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11041243'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:15:26.054280'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

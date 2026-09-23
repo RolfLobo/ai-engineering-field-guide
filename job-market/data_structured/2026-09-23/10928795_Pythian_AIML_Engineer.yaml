@@ -1,0 +1,59 @@
+company:
+  name: Pythian
+  stage: null
+  focus: Database, analytics, and cloud data consulting services
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys, serves, and scales models (including pre-
+      trained LLMs) that others build, and builds ML pipelines and
+      MLOps infrastructure. There is no evidence of shaping model
+      behavior through prompts, retrieval, agent design, or
+      training; agentic framework experience is listed only as
+      experience, not responsibility. Deliverable is capacity and
+      pipelines, not model behavior.
+  responsibilities:
+  - Develop, deploy, and maintain AI/ML pipelines for internal and client-driven projects
+  - Deploy, manage, and scale AI models including pre-trained LLMs and custom ML models
+    into production
+  - Work with data scientists to turn model prototypes into scalable production AI
+    systems
+  - Optimize model performance, latency, and cost-efficiency on cloud platforms
+  - Integrate AI/ML solutions with AWS, GCP, and Azure using Docker and Kubernetes
+  - Apply MLOps practices including CI/CD, model versioning, and monitoring
+  - Coordinate with software engineering teams to integrate AI capabilities into applications
+  - Stay current on AI/ML, Generative AI, and MLOps deployment strategies
+  use_cases:
+  - Production deployment of pre-trained LLMs and custom ML models for clients
+  - Scalable AI/ML pipeline orchestration on cloud platforms
+  - Integration of AI capabilities into client and internal applications
+  - Model performance, latency, and cost optimization in cloud environments
+  skills:
+    databases: []
+    domains: []
+    data: [Data Engineering, Data Pipelines]
+    web: []
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, Kubeflow, Model Monitoring, Git]
+    other: []
+    cloud: [AWS, GCP, Azure]
+    languages: [Python]
+    genai: [LLMs, Generative AI, Google ADK]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10928795'
+  location: ESP
+  locations:
+  - ESP
+  - POL
+  - PRT
+  - ROU
+  - GBR
+  - MKD
+  remote: true
+  extracted_at: '2026-09-23T11:07:33.297496'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

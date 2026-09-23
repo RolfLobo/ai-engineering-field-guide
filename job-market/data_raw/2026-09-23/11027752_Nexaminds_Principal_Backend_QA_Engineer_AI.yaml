@@ -1,0 +1,120 @@
+job_id: 11027752
+title: Principal Backend QA Engineer (AI)
+company: Nexaminds
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Unlock Your Future with Nexaminds!
+
+  At Nexaminds, we're on a mission to redefine industries with
+  AI. We're passionate about the limitless potential of
+  artificial intelligence to transform businesses, streamline
+  processes, and drive growth.
+
+  Join us on our visionary journey. We're leading the way in
+  AI solutions, and we're committed to innovation,
+  collaboration, and ethical practices. Become a part of our
+  team and shape the future powered by intelligent machines.
+  If you're driven by ambition, success, fun, and learning,
+  Nexaminds is where you belong.
+
+  Nexaminds is looking for a Senior Backend QA Engineer with
+  strong API automation expertise and a focus on AI System
+  Validation. In this role, you will be responsible for
+  designing automated test frameworks, analyzing upstream
+  service architectures, and validating non-deterministic
+  systems (such as AI agents and chatbots). The ideal
+  candidate excels at structuring high-quality test plans from
+  complex requirements, utilizing modern automation
+  frameworks, and leveraging AI techniques (like LLM as a
+  Judge and scoring evaluations) to test applications beyond
+  traditional deterministic methods.
+
+  Location: United States
+
+  Qualifications we are looking for:
+
+  - API & Backend Automation: Strong hands-on experience in API
+    test automation using Karate Framework and manual API
+    testing with Postman.
+  - AI & Non-Deterministic Testing: Understanding of testing
+    non-deterministic systems, including response scoring
+    techniques, AI agent/chatbot validation, or evaluation
+    concepts like LLM as a Judge.
+  - Technical Code Analysis: Ability to read and analyze source
+    code to understand backend architectures, microservices,
+    service dependencies, and upstream impacts.
+  - Structured Test Planning: Proven skill in reviewing
+    requirement documents to create concise, precise test
+    plans and automation frameworks without relying on rigid
+    language-specific constraints.
+  - Local Environment Setup: Hands-on experience configuring
+    local dev environments for early-stage (shift-left) test
+    execution.
+  - A proactive approach to learning emerging AI technologies
+    and building dynamic testing solutions where standard
+    deterministic QA falls short.
+  - Clear, structured, and direct technical communication.
+
+  Nice to have:
+
+  - Hands-on experience with the Agent Development Kit (ADK) or
+    MCP applications.
+  - Background in contract testing or microservices architecture
+    validation.
+  - Prior experience working in complex enterprise environments
+    (e.g., retail or large-scale backend systems).
+
+  Job duties:
+
+  - API Testing & Automation: Analyze OpenAPI/Swagger specs to
+    design comprehensive test plans, execute manual testing
+    via Postman, and build robust automated test suites using
+    the Karate Framework.
+  - AI System & Agent Validation: Test and evaluate non-
+    deterministic AI outputs, internal AI agents (built with
+    ADK), and MCP applications using evaluation metrics and
+    scoring techniques.
+  - Architecture & Upstream Analysis: Inspect source code and
+    upstream services to identify critical dependencies,
+    evaluate technical system impacts, and manage test data
+    across pre-production and production environments.
+  - Shift-Left & Local Testing: Configure and launch local
+    development environments to conduct early-stage testing on
+    backend APIs and microservices before deployment.
+  - AI-Integrated Test Frameworks: Design scalable test
+    automation strategies that dynamically integrate AI
+    capabilities to validate scenarios standard testing tools
+    cannot handle.
+
+  What you can expect from us
+
+  Here at Nexaminds, we're not your typical workplace. We're
+  all about creating a friendly and trusting environment where
+  you can thrive. Why does this matter? Well, trust and
+  openness lead to better quality, innovation, commitment to
+  getting the job done, efficiency, and cost-effectiveness.
+
+  - Stock options 📈
+  - Remote work options 🏠
+  - Flexible working hours 🕜
+  - Benefits above the law
+  - But it's not just about the work; it's about the people too.
+    You'll be collaborating with some seriously awesome IT
+    pros.
+  - You'll have access to mentorship and tons of opportunities
+    to learn and level up.
+
+  Ready to embark on this journey with us? 🚀🎉 If you're
+  feeling the excitement, go ahead and apply!
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Machine Learning
+  - Natural Language Processing
+  - Consulting
+posted_date: 2026-09-04
+url: "https://www.builtinla.com/job/sdet-architect-ai-focus/11027752"
+source: Built In

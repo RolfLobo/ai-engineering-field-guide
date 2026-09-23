@@ -1,0 +1,59 @@
+company:
+  name: Mastercard
+  stage: null
+  focus: Global digital payments and financial technology
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops LLM-powered applications using RAG, AI
+      agents, vector databases, prompt engineering, and model
+      orchestration, directly shaping model behavior and output
+      quality in production systems. With both LLM/agentic and
+      classical ML components, the ai-first classification
+      applies.
+  responsibilities:
+  - Design, develop, and deploy scalable AI, machine learning, and Agentic AI applications
+    for enterprise use cases
+  - Lead productionization of AI solutions, transforming PoCs into reliable production
+    systems
+  - Build end-to-end AI pipelines covering data ingestion, training, evaluation, deployment,
+    and monitoring
+  - Develop and deploy LLM-powered applications using RAG, AI agents, vector databases,
+    and prompt engineering
+  - Design cloud-native AI architectures with Kubernetes, serverless, and event-driven
+    microservices
+  - Implement MLOps and AgenticOps best practices including CI/CD, observability,
+    and governance
+  - Optimize AI models for scalability, latency, throughput, and cost efficiency in
+    production
+  - Evaluate emerging AI technologies and define technical roadmaps with cross-functional
+    teams
+  use_cases:
+  - Enterprise AI and Agentic AI applications across Mastercard products and platforms
+  - LLM-powered applications using RAG and AI agents for business functions
+  - Production AI platforms with reusable enterprise AI capabilities
+  - AI-driven improvements to customer experience and operational efficiency
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, RAG, Prompt Engineering, LLMs, AI Agents,
+      Agentic Workflows, Generative AI]
+    ml: [PyTorch, TensorFlow, scikit-learn, Model Training, Feature Engineering, Model
+        Evaluation, Machine Learning]
+    web: [Microservices, REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, CI/CD, Kubernetes, Docker, Model Monitoring, Observability, Model
+        Deployment]
+    languages: [Python, Java]
+    domains: []
+    other: [Event-Driven Architecture, Distributed Systems, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10900241'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:05:50.509791'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

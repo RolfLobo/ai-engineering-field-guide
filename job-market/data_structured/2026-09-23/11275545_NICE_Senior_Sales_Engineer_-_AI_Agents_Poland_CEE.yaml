@@ -1,0 +1,56 @@
+company:
+  name: NICE
+  stage: null
+  focus: |-
+    AI-first customer experience platform for enterprise
+    customer service
+position:
+  title: Senior Sales Engineer - AI Agents (Poland, CEE)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a presales/sales engineering role: the person demos,
+      designs solutions, and runs POCs for an existing AI agent
+      platform but does not shape model behavior through prompts,
+      retrieval, or training as core responsibilities. LLM tools
+      like Claude Code and Cursor are used to accelerate demos and
+      prototyping, which is AI used as a tool, not shaping.
+      Customer-facing by definition.
+  responsibilities:
+  - Partner with sales to plan and execute complex enterprise deals across Eastern
+    Europe
+  - Lead discovery calls and technical deep dives with enterprise stakeholders
+  - Create and deliver customized product demonstrations and presentations
+  - Design and recommend solutions tailored to customer needs
+  - Run POCs/POVs proving value in enterprise environments
+  - Represent the company through thought leadership at events, webinars, and trade
+    shows
+  - Deliver technical comparisons against competing AI agent platforms
+  - Feed customer requirements back to product teams and provide internal enablement
+  use_cases:
+  - Enterprise customer service automation
+  - AI Agents for voice and chat in contact centers
+  - Agentic AI workforce for enterprise CX
+  - Conversational AI demonstrations and POCs for enterprise buyers
+  skills:
+    genai: [AI Agents, Generative AI, Conversational AI, LLMs, Claude Code, Cursor,
+      GitHub Copilot, ChatGPT, Replit Agent]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [English, Polish]
+    domains: [NLP]
+    other: [NLU, IVR, Chatbot Design, STT, TTS, SIP, Contact Center Technology, Solution
+        Consulting]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11275545'
+  location: DEU
+  remote: true
+  extracted_at: '2026-09-23T11:35:18.442091'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

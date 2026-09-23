@@ -1,0 +1,55 @@
+company:
+  name: Anthropic
+  stage: null
+  focus: AI safety research and frontier model development
+position:
+  title: Applied AI, Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds demos, prototypes, and evals for LLM
+      capabilities, defining what good model performance looks
+      like, and works hands-on on agentic workflows with
+      customers. Judging and probing model output quality and
+      building evals is shaping LLM behavior, so it is ai-first.
+  responsibilities:
+  - Embed with product teams to build deep technical expertise on new products and
+    capabilities
+  - Own the technical-to-GTM handshake for model and product launches, including early
+    testing and field readiness
+  - Build demos, evals, and prototypes showcasing customer-relevant model capabilities
+  - Develop enablement materials such as playbooks, training sessions, and reference
+    architectures
+  - Engage hands-on with strategic customers facing novel technical challenges
+  - Synthesize field insights into feedback that informs product and research roadmaps
+  - Partner with Sales and Applied AI teams to support high-value accounts
+  - Travel occasionally to customer sites for workshops, implementation support, and
+    research collaboration
+  use_cases:
+  - Evaluating and demonstrating new LLM capabilities for customer adoption
+  - Model and product launch readiness and capability education
+  - Solving novel customer technical challenges with frontier models
+  - Technical enablement and reference architectures for AI solutions
+  - Field feedback loop shaping product and research roadmaps
+  skills:
+    genai: [LLMs, AI Agents, LLM Evaluation, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Prototyping]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11021707'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:13:27.626519'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

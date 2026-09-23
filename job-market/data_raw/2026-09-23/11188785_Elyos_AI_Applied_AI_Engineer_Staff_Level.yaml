@@ -1,0 +1,130 @@
+job_id: 11188785
+title: Applied AI Engineer (Staff Level)
+company: Elyos AI
+location: London, GBR
+work_type: FULL_TIME
+company_size: 33 Employees
+description: |
+  About Elyos AI
+
+  We’re building the next generation of customer service with
+  AI Agents. Our agents answer calls, reply to emails and
+  WhatsApp messages, make bookings, take payments, and operate
+  the CRM in the same way a human would.
+
+  We founded Elyos in June 2023 and took part in the Y
+  Combinator S23 batch. Our founders spent four months in San
+  Francisco living and breathing AI. Since then, we’ve been
+  growing revenue ~30% month on month and shipping fast. It’s
+  been wild so far - and we’re just getting started. We
+  recently raised a $13m series A to turbocharge our growth.
+
+  At Elyos, we’re building AI voice agents that help trades
+  businesses run smoother, scale faster, and deliver better
+  customer experiences. As one of our founding engineers, you
+  won’t just build software - you’ll shape the way Elyos
+  works, interacts with customers, and grows. If you love
+  building things from the ground up, solving complex
+  technical challenges, and working with cutting-edge AI tech,
+  you’re in the right place.
+
+
+
+  What You'll Do
+
+  - Build and ship core product features across our stack
+    (Python, TypeScript, cloud infra, event-driven systems,
+    third party integrations).
+  - Design, build, and iterate on AI voice agents - prompt
+    engineering, tool calling, conversation design, and
+    orchestration across speech-to-text, LLM, and text-to-
+    speech pipelines.
+  - Make our agents measurably better: build evals, monitoring,
+    and feedback loops so we know how agents perform in the
+    real world, catch regressions, and turn live customer
+    conversations into improvements.
+  - Own the lifecycle: work directly with customers to
+    understand their needs, scope solutions, and deliver
+    outcomes.
+  - Move fast, when it matters: know when to hack an MVP to
+    deliver value quickly, and when to invest in scalable
+    foundations.
+  - Raise the bar: use best practices everywhere (e.g. testing,
+    documentation, reliability, security) and help others do
+    the same.
+
+  Who You Are
+
+  - Customer-obsessed: You start with the customer. You
+    empathise with their needs, ask the right questions, and
+    build with their success in mind.
+  - Biased for action: You try stuff. You move quickly,
+    experiment often, and aren't afraid to learn in public.
+  - Owner's mindset: You don't wait for permission - you take
+    responsibility for outcomes and raise the bar for the
+    whole team.
+  - Ambitious & bold: You think big and take bets. You're
+    excited to explore new ideas, technologies, and markets
+    that others might shy away from.
+  - Team-first collaborator: You make the next pot of coffee. No
+    task is beneath you, and you care about building a team
+    where everyone can thrive.
+  - Care deeply: You give a shit about the quality of your work.
+    If something you built isn't great, it nags at you until
+    you make it better.
+
+  What You Bring
+
+  - Strong fundamentals in software engineering - you can
+    design, debug, and ship reliable systems.
+  - Proficiency with at least one of our core languages (Python
+    or TypeScript) - or proof that you can learn what's
+    needed.
+  - Hands-on experience building with LLMs in production -
+    prompting, tool calling, RAG, or agentic workflows - and
+    shipping AI products end-to-end (at a startup, on a side
+    project, in open source, or at scale in a larger company).
+  - An eye for the non-deterministic: you understand that AI
+    systems fail in weird ways, and you know how to test,
+    evaluate, and harden them for real users.
+  - Comfort working across the stack - frontend, backend,
+    infrastructure. You are everywhere.
+  - Ability to work directly with customers or non-technical
+    stakeholders to scope, negotiate, and deliver solutions.
+  - A track record that shows drive: maybe you've launched
+    something on your own, contributed to open source, or
+    taken ownership of hairy projects others avoided.
+
+  Bonus if you have
+
+  - Experience with voice AI - speech-to-text, text-to-speech,
+    telephony, or real-time audio - and the latency and
+    reliability challenges that come with it.
+  - Familiarity with LLM evals, observability, or fine-tuning
+    workflows.
+  - Early-stage startup experience, especially in AI, voice
+    platforms, or event-driven systems.
+  - Familiarity with modern cloud infrastructure (Kubernetes,
+    serverless, distributed systems).
+  - Evidence of customer empathy - support experience, founder
+    experience, or just building things that solved real user
+    pain.
+
+
+
+  Perks & Benefits
+
+  - 💸 Competitive salary & equity - we are building together, we
+    win together
+  - 📚 AI-focused learning & development - stay ahead of the
+    curve.
+  - ✈️ Team socials & annual offsites - cool destinations
+    included(last year we went to Greece!).
+  - 🏥 Private healthcare - because your well-being matters.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Automation
+posted_date: 2026-09-15
+url: "https://builtin.com/job/applied-ai-engineer-staff-level/11188785"
+source: Built In

@@ -1,0 +1,43 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and staffing
+position:
+  title: LEAD ENGINEER – AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building LLM/RAG-based
+      applications and Generative AI solutions, which means
+      directly shaping model behaviour through retrieval and
+      prompting. With an explicit LLM component, this is ai-first.
+  responsibilities:
+  - Design and deliver scalable AI solutions
+  - Build LLM and RAG-based chatbot applications
+  - Develop AI/ML solutions on Azure and AWS
+  - Manage CI/CD pipelines for AI workloads
+  - Lead technical initiatives and mentor teams
+  use_cases:
+  - RAG chatbots
+  - LLM-based applications
+  - Enterprise AI solutions on cloud
+  skills:
+    genai: [LLMs, Generative AI, RAG, Agentic Workflows]
+    ml: [scikit-learn, TensorFlow]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235578'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:29:53.919064'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,48 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: Staffing/recruitment for AI/ML engineering roles
+position:
+  title: Lead Engineer – AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG systems, LLM applications,
+      prompt-driven agents, and fine-tunes GenAI solutions, which
+      is directly shaping model behavior via prompts, retrieval,
+      and agent flows. With LLM/agent components central, this is
+      ai-first.
+  responsibilities:
+  - Design, develop and deliver AI/ML and Generative AI solutions
+  - Build RAG systems, LLM applications, prompt-driven agents and automation pipelines
+  - Implement and fine-tune GenAI solutions
+  - Develop PoCs and blueprint implementations
+  - Evaluate GenAI technologies, frameworks and cloud AI services
+  - Guide AI/ML best practices and responsible AI practices
+  - Collaborate with business stakeholders to shape AI initiatives
+  - Ensure enterprise security and compliance
+  use_cases:
+  - AI chatbots
+  - Enterprise RAG-based question answering
+  - Prompt-driven agent automation
+  - GenAI workflow automation
+  skills:
+    genai: [Generative AI, LLMs, RAG, Conversational AI, Embeddings, AI Agents, Agentic
+        Workflows, Fine-Tuning, Prompt Engineering]
+    ml: [Machine Learning, TensorFlow, scikit-learn]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Model Deployment, Model Monitoring, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235322'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:29:43.161089'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,222 @@
+job_id: 10146594
+title: Sr. AI Software Engineer  - USA
+company: Cogniify
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Cogniify
+
+  At Cogniify, we believe AI should move beyond pilots and
+  prototypes into real, governed, enterprise-scale production.
+  Sharper Data. Smarter AI. Real Results.
+
+  We partner with Fortune 100 and global enterprises to
+  advance AI from readiness through to production — with the
+  governance, financial discipline, and operational rigor that
+  large organizations require. Our work is anchored in the 4S
+  Intelligence framework Sharper Analytics, Smarter AI,
+  Scalable Systems, and Secured Governance and spans strategy,
+  engineering, and AI delivered as end-to-end ecosystems, not
+  siloed projects. We don't sell a one-size-fits-all platform
+  — every engagement is a custom-built solution designed
+  around a client's specific problem, data, and constraints.
+  Our philosophy is simple: clarity, trust, and measurable
+  outcomes.
+
+  The Role
+
+  We're seeking a Forward Deployed Engineer (Principal /
+  Architect Level) to independently own AI transformation
+  engagements with our enterprise clients end to end, from
+  executive discovery through hands-on solution design, build,
+  and delivery.
+
+  Unlike a traditional delivery role, this position sits
+  directly in front of the client. You will lead technical and
+  business discovery conversations with CXOs and senior
+  leadership, diagnose their real underlying problem (not just
+  the one they lead with), identify the highest-value AI
+  opportunity in their environment, and personally design and
+  build a working Proof of Acceleration (PoA) a custom
+  solution built specifically for that client, typically
+  within a 2–3 week cycle. You will then present and defend
+  that solution to client and investor-level stakeholders, and
+  drive successful PoAs into full-scale Cogniify execution
+  engagements.
+
+  This role is built for a senior architect who is as strong a
+  problem solver and business thinker as they are an engineer:
+  credible enough to earn trust with a CTO in the first
+  meeting, sharp enough to see the real business problem
+  behind a vague ask, and hands-on enough to still be writing
+  the code that proves the point.
+
+  What You'll Do
+
+  - Own client engagements end to end — from discovery and
+    opportunity framing through architecture, hands-on build,
+    demonstration, and handover to execution teams.
+  - Lead discovery and working sessions directly with client
+    CXOs, engineering leaders, and investor/board-level
+    stakeholders to understand their business, uncover the
+    real problem behind the stated ask, and frame the case for
+    AI transformation.
+  - Assess a client's existing systems, data landscape, AI
+    maturity, and engineering constraints, and translate
+    ambiguous, often messy business problems into clearly
+    scoped technical solutions.
+  - Architect and personally build production-credible, client-
+    specific Proofs of Acceleration — including data
+    pipelines, integrations, and AI/LLM-powered applications —
+    within tight (2–3 week) delivery windows.
+  - Design and implement AI/ML-powered features such as RAG
+    pipelines, LLM-based workflows, document processing,
+    search/retrieval systems, and agentic or conversational
+    AI, tailored to each client's environment.
+  - Integrate diverse enterprise data sources and systems:
+    relational databases, data warehouses, REST/GraphQL APIs,
+    event streams, SaaS platforms (Salesforce, Workday, SAP,
+    etc.), and unstructured data.
+  - Deploy solutions on client cloud infrastructure (AWS, Azure,
+    or GCP), ensuring security, scalability, and operational
+    readiness even at prototype stage.
+  - Build the business narrative behind each PoA — quantifying
+    ROI and connecting the technical solution to outcomes
+    executives care about (cost, speed, revenue, risk).
+  - Present and defend solution designs live in front of
+    technical and executive audiences, handling scrutiny and
+    pushback in real time.
+  - Own stakeholder management across concurrent relationships —
+    technical teams, business sponsors, and investor-side
+    stakeholders — balancing competing priorities with
+    confidence.
+  - Partner with account and engagement leadership to convert
+    successful PoAs into full-scale Cogniify execution
+    engagements, and produce handover documentation for
+    delivery teams.
+  - Mentor junior FDEs and contribute reusable frameworks,
+    accelerators, and playbooks that speed up future
+    engagements.
+  - Operate as a mobile, high-trust resource — moving from one
+    client engagement to the next as PoAs conclude.
+
+  What We're Looking For
+
+  - 9–12+ years of overall technology experience, including
+    significant time in architect-level or technical lead
+    roles on complex, enterprise-grade systems.
+  - Strong business acumen — genuinely curious about how a
+    client's business works, able to get past the surface-
+    level ask to the real underlying problem before jumping to
+    a solution.
+  - Exceptional problem-solving ability — comfortable with
+    ambiguity, able to structure an open-ended or poorly
+    defined problem and independently arrive at a workable,
+    well-reasoned solution.
+  - Demonstrated experience owning solutions end-to-end — from
+    client conversation to architecture to hands-on build to
+    executive presentation — not just one slice of the
+    lifecycle.
+  - Strong, current hands-on proficiency in Python and SQL, with
+    a track record of building production-quality data
+    pipelines, APIs, and applications personally (not just
+    directing others).
+  - Deep experience with modern data platforms (Snowflake,
+    Databricks, BigQuery, or Redshift) and orchestration tools
+    (dbt, Airflow, Dagster, or Prefect).
+  - Strong grounding in AI/GenAI application patterns: LLM
+    integration, RAG pipelines, embeddings, vector databases,
+    and agentic workflows using frameworks such as LangChain
+    or LlamaIndex.
+  - Working knowledge of at least one major cloud platform (AWS,
+    Azure, or GCP), including compute, storage, networking,
+    and managed AI/data services.
+  - Proven ability to engage directly with C-level and senior
+    executive stakeholders — framing ambiguous problems,
+    facilitating prioritization discussions, and presenting
+    technical solutions in business terms.
+  - Strong stakeholder management skills — able to manage
+    competing priorities across client, investor, and internal
+    audiences, and build trust quickly in new environments.
+  - Prior experience in client-facing consulting, pre-sales
+    engineering, solutions architecture, or a founding/lead
+    engineering role at a fast-moving company.
+  - Comfort with rapid context-switching across unfamiliar
+    codebases, domains, and technology stacks under tight
+    delivery timelines.
+  - Bachelor's or Master's degree in Computer Science, Data
+    Science, Engineering, or a related field (or equivalent
+    experience).
+
+  Preferred Qualifications
+
+  - Experience with MCP (Model Context Protocol) or similar
+    tool-layer/agent-integration patterns.
+  - Experience building client-facing applications, dashboards,
+    or internal tools using React, Next.js, or low-code
+    platforms (Retool, Appsmith).
+  - Experience with containerization and infrastructure-as-code
+    (Docker, Kubernetes, Terraform) for deployment automation.
+  - Familiarity with data quality and observability tooling
+    (Great Expectations, Monte Carlo, dbt tests, or Soda).
+  - Prior experience working with private equity portfolio
+    companies, or in transformation programs tied to
+    investor/board reporting cycles.
+  - Domain experience in financial services, healthcare, SaaS,
+    or enterprise operations.
+
+  Why Join Cogniify?
+
+  - Own high-visibility engagements end to end, with direct
+    exposure to Fortune 100 and global enterprise leadership.
+  - A rare career path that combines deep technical ownership
+    with genuine business and executive impact.
+  - Work across diverse industries, technologies, and problem
+    domains — no two engagements look the same, because no two
+    solutions are the same.
+  - Be part of building the playbook for a new category of
+    technical role, not just executing an existing one.
+
+  Salary Range
+
+  US East/West Coast: $150,000 - $170,000
+
+  Disclaimer: The base salary range is a guideline and may
+  vary based on factors such as candidate experience,
+  specialized skills, and geographical location. Actual
+  compensation may include additional benefits and bonuses.
+
+  Perks and Benefits of Working With Us
+
+  - Unlimited PTO.
+  - Please ask us about our very generous parental leave, much
+    above industry standards!
+  - Entrepreneurial culture where pushing limits and taking
+    risks is everyday business.
+  - Open communication with management and company leadership.
+  - Small, dynamic teams = massive impact.
+  - Medical, Dental and Vision coverage for employees.
+  - Access to Disability & Life insurance.
+  - Mental health and wellbeing support.
+  - Annual bonus program.
+  - Employer Stock Purchase Program (ESPP).
+  - Yearly team building experiences.
+  - Mentorship and sponsorship opportunities.
+  - Manager resources and support.
+
+  Cogniify is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees. All qualified applicants will
+  receive consideration for employment without regard to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, disability, or any other protected
+  characteristic
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Machine Learning
+  - Consulting
+posted_date: 2026-09-23
+url: "https://www.builtinla.com/job/forward-deployed-engineer/10146594"
+source: Built In

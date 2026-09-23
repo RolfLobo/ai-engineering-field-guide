@@ -1,0 +1,50 @@
+company:
+  name: Appnovation
+  stage: null
+  focus: 'Global digital consultancy: strategy, design, engineering'
+position:
+  title: Full-Stack AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI design tools (v0.dev, bolt.new, Lovable)
+      and workflow automation as productivity tools to build full-
+      stack applications; the engineer does not shape any model's
+      behavior through prompts, retrieval, or training. AI is a
+      development accelerator, not the product.
+  responsibilities:
+  - Rapidly transform concepts into interactive prototypes using AI design tools like
+    v0.dev, bolt.new, and Lovable
+  - Build full-stack applications from prototype to production with strong frontend
+    emphasis
+  - Develop production-ready UI components with React.js, Vue.js, and Nuxt.js
+  - Design and implement RESTful APIs and backend services using Supabase
+  - Work with SQL and NoSQL databases to manage application data
+  - Implement authentication, caching strategies, and performance optimization
+  - Collaborate with UX Designers, AI Builders, and Innovation Leads across the lifecycle
+  - Maintain design systems and documentation using Figma, Spec-kit, and Jira
+  use_cases:
+  - Rapid prototyping of business concepts into interactive applications
+  - AI-augmented frontend and full-stack application development
+  - Enterprise-grade design system-driven UI development
+  - Backend services and APIs supporting frontend applications
+  skills:
+    databases: [Supabase, PostgreSQL, MySQL, MongoDB, NoSQL]
+    domains: []
+    data: []
+    web: [React, Vue, Nuxt.js, REST APIs, GraphQL, Node.js, Express, OAuth, CSS, TailwindCSS,
+      Webhooks]
+    ml: []
+    ops: [GitHub]
+    other: [Figma, Jira, GitHub Spec-Kit, Open Spec, n8n, JWT]
+    cloud: [AWS, Azure, GCP]
+    languages: [PHP, Python, TypeScript, JavaScript, SQL]
+    genai: [v0.dev, Bolt.new, Lovable]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10915678'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:06:16.633460'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

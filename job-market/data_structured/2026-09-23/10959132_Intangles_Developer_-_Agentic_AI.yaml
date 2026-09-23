@@ -1,0 +1,47 @@
+company:
+  name: Intangles
+  stage: null
+  focus: Digital vehicle health and predictive maintenance solutions
+position:
+  title: Developer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent workflows, tool calling, context
+      management, and agentic evaluation — directly shaping
+      LLM/agent behavior. With LLMs and agents involved, this is
+      ai-first.
+  responsibilities:
+  - Design and develop autonomous AI agents capable of reasoning, planning, and task
+    execution
+  - Integrate LLMs, APIs, databases, and external tools into agent workflows
+  - Develop memory, context management, and tool-calling capabilities using MCP and
+    related protocols
+  - Monitor, evaluate, and optimize agent performance using agentic evaluation techniques
+  - Implement AI governance, security, compliance, and risk management controls
+  - Deploy and maintain scalable agentic AI systems in production
+  - Collaborate with product, DevOps, and business teams to automate enterprise workflows
+  use_cases:
+  - Autonomous AI agents that reason, plan, and execute tasks with minimal human intervention
+  - Automation of enterprise workflows
+  - Intelligent agents solving complex business problems
+  - Production deployment of scalable agentic AI systems
+  skills:
+    genai: [AI Agents, LLMs, MCP, Function Calling, Context Engineering, LLM Evaluation]
+    ml: [Machine Learning, Deep Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10959132'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:09:15.431796'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

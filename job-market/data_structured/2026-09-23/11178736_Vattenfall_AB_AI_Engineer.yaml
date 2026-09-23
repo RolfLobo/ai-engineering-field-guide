@@ -1,0 +1,53 @@
+company:
+  name: Vattenfall AB
+  stage: null
+  focus: European energy company, electrification and power supply
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG solutions, enterprise
+      search, prompt engineering, and AI agents — directly shaping
+      LLM behaviour and retrieval. This is clearly ai-first work
+      on an enterprise AI platform.
+  responsibilities:
+  - Design, develop and maintain production-grade AI applications and services on
+    Microsoft Azure
+  - Build RAG solutions, enterprise search and intelligent knowledge discovery platforms
+  - Develop APIs and integrations connecting AI solutions with SharePoint, ServiceNow,
+    HR systems and internal data services
+  - Evaluate, connect and onboard enterprise data sources for AI consumption
+  - Develop AI agents and automation capabilities improving employee experiences
+  - Contribute to AI architecture, governance and platform best practices across Vattenfall
+  - Conduct proofs of concept and assess emerging AI technologies
+  - Collaborate with business stakeholders to translate opportunities into scalable
+    solutions
+  use_cases:
+  - Enterprise knowledge discovery and search for employees
+  - RAG-based intelligent information retrieval across corporate data
+  - AI agents and automation to simplify employee work
+  - Integrating AI with SharePoint, ServiceNow and HR systems
+  - Enterprise data onboarding for AI consumption
+  skills:
+    genai: [LLMs, Generative AI, RAG, LangChain, LangGraph, Prompt Engineering, LLM
+        Evaluation, AI Agents, Semantic Search]
+    ml: [Machine Learning]
+    web: [FastAPI, Quart, REST APIs, APIs]
+    databases: [PostgreSQL]
+    data: [Databricks]
+    cloud: [Azure, Azure AI Services, Azure Storage]
+    ops: [Pytest, GitHub, GitHub Copilot, CI/CD, Automated Testing, Infrastructure
+        as Code]
+    languages: [Python]
+    domains: []
+    other: [Pydantic, Distributed Systems, Azure Key Vault, Azure Identity Services,
+      Enterprise Search]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11178736'
+  location: Amsterdam, NLD
+  extracted_at: '2026-09-23T11:23:58.077680'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

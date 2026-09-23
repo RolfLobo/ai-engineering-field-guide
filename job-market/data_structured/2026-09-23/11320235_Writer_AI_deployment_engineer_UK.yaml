@@ -1,0 +1,50 @@
+company:
+  name: Writer
+  stage: null
+  focus: Enterprise generative AI platform and AI agents
+position:
+  title: AI deployment engineer (UK)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward deployed engineer architecting and implementing AI
+      agent solutions on an LLM platform, designing sophisticated
+      prompts and building applications grounded in customer data
+      — clearly shaping model behavior and output quality. LLM-
+      centric work with no classical ML component.
+  responsibilities:
+  - Partner with enterprise customers to identify strategic AI use cases and own end-to-end
+    implementation of tailored solutions
+  - Architect and deliver custom applications, templates, and integrations leveraging
+    the platform, APIs, and Knowledge Graph capabilities
+  - Translate technical concepts into clear solution recommendations, guiding customers
+    through the generative AI landscape
+  - Collaborate with internal Product and Engineering teams, feeding customer insight
+    into the product roadmap
+  - Drive down customer time-to-value through scalable processes, documentation, and
+    efficient technical integration workflows
+  - Champion adoption and expansion of AI solutions within strategic customer accounts
+  use_cases:
+  - Custom enterprise AI applications and templates
+  - AI agents grounded in enterprise data
+  - AI-powered business process solutions for Fortune 500 companies
+  - Technical integrations with enterprise systems
+  skills:
+    genai: [Prompt Engineering, LLMs, Generative AI, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11320235'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:37:52.651054'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Life360
+  stage: null
+  focus: Family location-sharing and device tracking app
+position:
+  title: Senior Backend Engineer II, AI Native, Vertical Experiences
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineer role for IoT/device cloud
+      services. AI appears as developer workflow tooling —
+      orchestrating coding agents for spec writing, code
+      generation, and reviews — which is explicitly not shaping
+      model behaviour. No prompt design, RAG, or model evaluation
+      for a product is described.
+  responsibilities:
+  - Design, build, and maintain backend services for device connectivity, telemetry
+    ingest, health monitoring, and command/control operations
+  - Collaborate with firmware, mobile, and product teams to define APIs and workflows
+    for device features
+  - Deliver scalable, resilient microservices on AWS (EKS, Lambda, DynamoDB, SQS)
+  - Build and own high-throughput data pipelines using Kafka or similar streaming
+    technology
+  - Instrument services for observability, reliability, and SLO compliance
+  - Participate in on-call rotations and live incident response
+  - Write clean, testable code and improve CI/CD and automation
+  - Orchestrate AI coding agents daily for spec writing, code generation, test authoring,
+    incident triage, PR review, and system design
+  use_cases:
+  - Device state management and telemetry ingest for connected pet GPS trackers
+  - Lost pet alerts and activity timelines for consumer pet experiences
+  - High-throughput, low-latency backend services for millions of members
+  - Command and control operations for IoT devices
+  skills:
+    genai: [Claude Code, Cursor, GitHub Copilot, Agentic Workflows]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [DynamoDB, Relational Databases, NoSQL]
+    data: [Kafka]
+    cloud: [AWS, EKS, AWS Lambda]
+    ops: [CI/CD, Prometheus, Grafana, OpenTelemetry, Distributed Systems, Kubernetes]
+    languages: [Java, Go, Python]
+    domains: []
+    other: [SRE]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11138440'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:21:09.522002'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

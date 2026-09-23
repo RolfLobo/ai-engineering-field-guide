@@ -1,0 +1,56 @@
+company:
+  name: Square
+  stage: null
+  focus: Commerce and financial services technology for sellers
+position:
+  title: Staff Software Engineer, Go-to-Market Systems & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and operates production AI agents
+      with tool calling, retrieval, workflow orchestration, plus
+      evals, guardrails, and observability for LLM systems. This
+      is directly shaping LLM/agent behavior, making it ai-first.
+      It is an IC Staff role (influence without formal reporting
+      authority).
+  responsibilities:
+  - Own the technical strategy, architecture, and long-term evolution of the go-to-market
+    technology stack
+  - Design, build, and operate production-grade AI agents and automated workflows
+    that reduce manual sales work
+  - Establish patterns, evaluation methods, and guardrails for reliable, observable,
+    and secure AI systems
+  - Define success measures and use data, evaluations, and user feedback to improve
+    accuracy and adoption
+  - Lead technical execution through design reviews, mentorship, and problem breakdown
+  - Make build-versus-buy decisions and guide integrations across CRM systems, data
+    services, and third-party tools
+  - Partner with Sales and Sales Strategy & Operations to translate business problems
+    into technical solutions
+  - Stay hands-on across prototyping, implementation, deployment, and production operations
+  use_cases:
+  - Sales productivity automation
+  - AI agents that reduce manual sales work
+  - Lead and opportunity management
+  - Sales forecasting and account planning support
+  - Automated decision-making for go-to-market workflows
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, RAG, Agentic Workflows, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Observability, Monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10949548'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:08:32.789639'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

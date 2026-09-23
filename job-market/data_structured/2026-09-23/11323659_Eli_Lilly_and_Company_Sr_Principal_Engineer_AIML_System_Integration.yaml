@@ -1,0 +1,55 @@
+company:
+  name: Eli Lilly and Company
+  stage: null
+  focus: Pharmaceutical company discovering and delivering medicines
+position:
+  title: Sr. Principal Engineer AI/ML System Integration
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and integrates LLMs, RAG, agents, and
+      agentic workflow orchestration into enterprise solutions,
+      guiding model usage and AI evaluation practices — this is
+      shaping LLM/agent behavior, so ai-first. It is a senior IC
+      architecture role, not management.
+  responsibilities:
+  - Lead architecture and integration strategy for AI/ML-enabled products and platforms
+    across the enterprise
+  - Design scalable solutions integrating applications, APIs, data platforms, AI services,
+    and business workflows
+  - Integrate LLMs, RAG solutions, agents, and analytics services into enterprise
+    applications
+  - Guide technical decisions on model usage, orchestration, workflow automation,
+    and human-in-the-loop controls
+  - Design and govern data flows across operational systems, data platforms, semantic
+    layers, and AI services
+  - Establish testing, monitoring, observability, and AI evaluation practices with
+    Responsible AI principles
+  - Lead architecture reviews, influence technical strategy, and mentor engineers
+    and architects
+  use_cases:
+  - Enterprise integration of AI/ML capabilities into business applications
+  - LLM, RAG, and agent-powered enterprise workflows
+  - Commercial and customer engagement workflows in life sciences
+  - Secure, observable data and AI service integration across platforms
+  - Human-in-the-loop workflow automation
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Generative AI, Semantic Search, Vector Databases]
+    ml: []
+    web: [APIs, Microservices]
+    databases: [Knowledge Graphs]
+    data: [Databricks]
+    cloud: [Azure, AWS, GCP, Azure OpenAI, Azure AI]
+    ops: [MLOps, LLMOps, DevSecOps]
+    languages: []
+    domains: []
+    other: [Event-Driven Architecture, Enterprise Integration Architecture, Responsible
+        AI, Vendor Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11323659'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:37:02.291727'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Rackner
+  stage: null
+  focus: |-
+    Software consultancy building mission-critical government
+    systems
+position:
+  title: Software/AI developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and evaluates AI agents, retrieval/RAG
+      workflows, and evaluates model outputs and performance,
+      which is directly shaping LLM behavior and quality. Backend
+      integration alone would be support, but the explicit
+      agent/RAG building and model evaluation work makes it ai-
+      first.
+  responsibilities:
+  - Design, develop, test, and maintain software for mission-focused R&D projects
+  - Build backend services, APIs, integrations, and data-processing workflows
+  - Develop AI-enabled applications using LLMs and machine learning models
+  - Build and evaluate AI agents, retrieval workflows, and automation tools
+  - Develop prototypes and proofs of concept demonstrated to government customers
+    and mission users
+  - Work with structured and unstructured data including ingestion, transformation,
+    validation, and retrieval
+  - Collaborate with DevSecOps engineers to containerize, deploy, monitor, and improve
+    applications in cloud and secure environments
+  - Evaluate new AI models, frameworks, and development approaches for R&D projects
+  use_cases:
+  - AI-enabled capabilities for government and defense missions
+  - AI agents and retrieval workflows for mission support
+  - Prototypes and demos for DoD, Air Force, Space Force, C2, ISR, and mission planning
+    programs
+  - Backend services, APIs, and data workflows for mission systems
+  - Automation and analytics for national security applications
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, RAG, Embeddings, LangChain, LlamaIndex]
+    ml: [Machine Learning, PyTorch, TensorFlow, Hugging Face]
+    web: [APIs, REST APIs, Microservices, JSON, Event-Driven Architecture]
+    databases: [SQL, NoSQL, Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Git, Terraform, Helm, MLOps, Model Deployment,
+      Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '9592912'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:38:00.514237'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

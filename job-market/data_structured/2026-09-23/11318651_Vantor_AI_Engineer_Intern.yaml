@@ -1,0 +1,37 @@
+company:
+  name: Vantor
+  stage: null
+  focus: Spatial intelligence for decision makers and operators
+position:
+  title: AI Engineer Intern
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The posting contains no responsibilities, skills, or
+      technical details—only company boilerplate, benefits, and
+      legal/EEO text. Step 1 cannot be applied because there is
+      nothing describing the work, so the role is genuinely
+      indeterminate.
+  responsibilities: []
+  use_cases:
+  - Spatial intelligence for decision makers and operators
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11318651'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:36:42.280737'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

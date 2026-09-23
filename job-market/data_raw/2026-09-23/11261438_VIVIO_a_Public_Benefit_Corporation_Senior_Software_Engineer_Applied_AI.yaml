@@ -1,0 +1,204 @@
+job_id: 11261438
+title: Senior Software Engineer, Applied AI
+company: VIVIO, a Public Benefit Corporation
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Company Description
+
+  About VIVIO
+
+  VIVIO Health, a Public Benefit Corporation, is
+  revolutionizing pharmacy benefits management through data
+  and technology. Our foundational principle - "The Right Drug
+  for the Right Person at the Right Price" - drives everything
+  we do. Since 2016, our evidence-based approach has delivered
+  superior health outcomes while reducing costs for self-
+  insured employers and health plans. By ensuring each patient
+  receives the most appropriate medication for their specific
+  condition at a fair market price, we're replacing the
+  obsolete PBM Model with innovative solutions that work
+  better for everyone.
+
+  Why Join VIVIO?
+
+  - Innovation: Challenge the status quo and shape healthcare's
+    future
+  - Impact: Directly influence patient care and help change
+    healthcare delivery
+  - Collaboration: Work with passionate teammates dedicated to
+    making a difference
+  - Culture: Enjoy autonomy and reliability in a
+    micromanagement-free environment
+  - Growth: Expand your opportunities as we expand our business
+
+  Job Description
+
+  About the role
+
+  VIVIO Health is transforming how it operates with AI, and we
+  are hiring a senior engineer to build the features that make
+  that real: language-model capabilities for our clinical,
+  client success, and member experience teams, built on AWS
+  Bedrock and related models and shipped to real users. Your
+  job is to take a business problem from one of those teams,
+  work out where a model helps and where it does not, and
+  deliver something the team uses every day. This is not a
+  research role. The AI work lives inside our production
+  platform, so you will also ship application features, work
+  with the integrations that exchange data with our partners
+  and build the test and quality practices that keep all of it
+  reliable.
+
+  Our clinical programs are the first area we are transforming
+  with AI, so your early work will be with the clinical team
+  and the documents, reviews, and decisions that run through
+  it. Other business areas follow as the platform stabilizes.
+
+  The role is remote, with structured written communication as
+  the default working mode. You report to the Head of
+  Engineering and work directly with the business owners of
+  the problems you solve.
+
+  What you will do
+
+  - Build and extend LLM-backed capabilities on AWS Bedrock and
+    related models: document OCR and extraction on clinical
+    and claims paperwork, summarization and decision support
+    for clinical review, Knowledge Bases for retrieval over
+    plan and policy documents, and workflow automation for
+    internal teams
+  - Establish and maintain evals for the AI features you ship,
+    so we know when quality drifts
+  - Handle the practical side of production AI: structured
+    output, failure modes, cost, latency, and knowing when a
+    deterministic approach beats a model
+  - Use agentic coding tools (Claude Code and Kiro) as a core
+    part of your workflow, and own the verification of what
+    they produce
+  - Design, build, test, and ship features in our Python and
+    FastAPI back end on MySQL and AWS, and our Jinja2,
+    Tailwind, and Alpine.js front end, with a bias toward
+    fixing what is broken before adding what is new
+  - Work with the integrations that exchange eligibility,
+    accumulator, and claim data with carriers and pharmacies,
+    including NCPDP D.0 and X12 270/271 transactions and the
+    file formats behind them
+  - Put test and lint gates in place where they are missing, and
+    treat CI as part of the definition of done
+  - Treat PHI handling as a first-class design constraint in
+    everything you build
+  - Write clear specs, prompts, and design notes; at this level,
+    written communication is an engineering skill
+
+  How we work
+
+  Development happens in a managed Linux environment that you
+  reach by remote desktop from a Windows endpoint; PHI never
+  lands on a laptop. You need to be fluent in both: Linux for
+  the actual engineering, Windows as the workstation you get
+  there from.
+
+  Qualifications
+
+  What we need
+
+  - 7+ years building production software, with real ownership
+    of systems that other people depend on
+  - Strong Python with production FastAPI (or a comparable async
+    framework) experience, solid SQL on MySQL or Postgres, and
+    working knowledge of AWS
+  - Comfortable in a server-rendered front end (Jinja2,
+    Tailwind, Alpine.js or htmx); we are not looking for a
+    React specialist
+  - Fluent in Linux for development and comfortable working from
+    a Windows workstation over remote desktop into a secure
+    environment
+  - Daily use of AI coding tools on real work, and a clear point
+    of view on where they help and where they fail
+  - At least one LLM-powered feature shipped to real users,
+    including how you evaluated it and what went wrong
+  - Practical knowledge of prompt and context engineering,
+    retrieval, embeddings, and structured output
+  - Working knowledge of healthcare data exchange standards and
+    file-based integrations: NCPDP D.0, X12 270/271, SFTP,
+    fixed-width and delimited formats, and reconciliation
+  - Direct communicator who names tradeoffs plainly and asks
+    when something is unclear
+
+  Nice to have
+
+  - Healthcare or other regulated-data experience (HIPAA, PHI,
+    SOC 2)
+  - Pharmacy benefits, claims, or clinical program experience
+  - Self-hosting open-source models (Llama, Qwen, Mistral, or
+    similar) with vLLM, Ollama, or TGI, including GPU sizing,
+    quantization, and serving inside a private network
+  - Fine-tuning or adapter training on domain data
+  - Classical ML for prediction or scoring (scikit-learn,
+    XGBoost), with model monitoring in production
+  - Master's degree in computer science or a related field
+
+  How we hire
+
+  An HR phone screen, a technical interview that includes a
+  short practical exercise (extract structured data from messy
+  documents and show us your evals), a conversation with the
+  Head of Engineering, and a final conversation with one or
+  more of the business leaders you would support. Our
+  interviews are a mix of phone calls, Video interviews and an
+  on-site visit to our corporate office.
+
+  VIVIO does not provide employer support or sponsorship for
+  any immigration related employment benefit for this role.
+
+  Applicants must be currently authorized to work in the
+  United States on a fulltime basis without the need for
+  employer support, visa transfer support, DSO documentation
+  or sponsorship now or in the future. This includes having
+  the legal right to work in the United States without the
+  need for VIVIO support or sponsorship for any immigration
+  related employment authorization (e.g., H1B, O1, E3, H1B1,
+  TN, F1 OPT, F1 STEM OPT, F1 CPT, E-2, E-3 etc.) now or in
+  the future.
+
+  Additional Information
+
+  Compensation and Benefits:
+
+  - The anticipated salary range for this position is
+    $165K-$205K base. The actual salary offered will be
+    determined by a variety of factors, including the
+    candidate’s qualifications, experience, and the position's
+    geographic location.
+  - Bonus Eligible
+  - Comprehensive Benefits Package:
+  - Medical, Pharmacy, Dental, Vision
+  - Life Insurance
+  - Stock Options
+  - 401(k) with Company Match
+  - PTO
+  - Full-time position
+  - Dynamic, collaborative work environment
+  - Opportunity to make a real impact at a growing Public
+    Benefit Corporation
+
+  VIVIO Health is an Equal Opportunity Employer. All
+  information will be kept confidential according to EEO
+  guidelines.
+
+  Please be advised that job opportunities will only be
+  extended after a candidate submits a completed job
+  application and goes through our interview process,
+  including 1:1 and/or group interviews via phone, video
+  conferencing, and/or in-person. All legitimate
+  correspondence from a VIVIO employee will come from our
+  Smart Recruiter Applicant Tracking System
+  "@smartrecruiter.com" or "@viviohealth.com" email accounts.
+industries:
+  - Healthtech
+  - Pharmaceutical
+posted_date: 2026-09-18
+url: "https://www.builtinla.com/job/senior-software-engineer-applied-ai/11261438"
+source: Built In

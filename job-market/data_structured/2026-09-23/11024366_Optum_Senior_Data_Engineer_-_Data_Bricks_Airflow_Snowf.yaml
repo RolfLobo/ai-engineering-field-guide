@@ -1,0 +1,56 @@
+company:
+  name: Optum
+  stage: null
+  focus: |-
+    Healthcare services, pharmacy benefits, and care delivery
+    technology
+position:
+  title: Senior Data Engineer - Data Bricks, Airflow, Snowflake, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role building pipelines with
+      Databricks, Airflow, and Snowflake. AI appears only as a
+      preferred "AI usage to add efficiency," i.e., a tool the
+      engineer may use, not model behavior they shape. So it is
+      ai-support.
+  responsibilities:
+  - Design, develop, and maintain scalable data pipelines using Databricks (Spark/PySpark)
+  - Orchestrate and monitor workflows using Apache Airflow for batch and incremental
+    processing
+  - Build and optimize ELT pipelines in Snowflake for performance, reliability, and
+    cost efficiency
+  - Develop production-quality Python code for data processing, transformations, and
+    integrations
+  - Design, build, and host APIs and data services using modern Python frameworks
+    and Azure-native services
+  - Implement data quality checks, logging, alerting, and observability for production
+    pipelines
+  - Collaborate with analytics, product, and platform teams to enable downstream data
+    consumption
+  - Troubleshoot and resolve complex production issues across data pipelines and cloud
+    infrastructure
+  use_cases:
+  - Healthcare data pipelines for improving health outcomes
+  - Batch and incremental data processing for enterprise analytics
+  - ELT workflows into a cloud data warehouse
+  - Data services and APIs for downstream analytics and product consumption
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, APIs]
+    databases: [Snowflake, SQL, Data Modeling]
+    data: [Databricks, Spark, PySpark, Airflow]
+    cloud: [Azure, Azure Functions, API Gateway]
+    ops: [CI/CD, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11024366'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:13:38.551847'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

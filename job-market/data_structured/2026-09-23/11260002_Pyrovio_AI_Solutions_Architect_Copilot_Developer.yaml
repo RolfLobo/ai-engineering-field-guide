@@ -1,0 +1,54 @@
+company:
+  name: Pyrovio
+  stage: null
+  focus: |-
+    Consulting firm delivering Microsoft Power Platform AI
+    solutions
+position:
+  title: AI Solutions Architect / Copilot Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role crafts prompts and grounding strategies for Copilot
+      and Claude, builds solutions with Copilot Studio, and
+      designs RAG-based architectures, directly shaping LLM
+      behavior. It also involves client-facing advisory work on AI
+      solutions.
+  responsibilities:
+  - Act as trusted advisor to clients, gathering and interpreting requirements and
+    challenging assumptions
+  - Build consensus across stakeholders with conflicting priorities
+  - Design and develop solutions in Power Automate, Microsoft Copilot Studio, and
+    Power Platform tools
+  - Integrate adaptive cards, connectors, triggers, and APIs to extend functionality
+  - Craft effective prompts and grounding strategies for Copilot, Claude, and related
+    AI tools
+  - Participate in testing, validation, QA, and ongoing maintenance of deployed solutions
+  - Teach and support end users through change and create documentation
+  - Continuously evaluate new AI tools with attention to compliance and data governance
+  use_cases:
+  - Client advisory on where AI can deliver business improvements
+  - Copilot-based automation and chatbot solutions on Power Platform
+  - Enterprise workflow automation with Power Automate
+  - RAG-based grounding for AI assistants in a regulated environment
+  - User adoption and change enablement for AI solutions
+  skills:
+    genai: [Prompt Engineering, RAG, Copilot Studio, LLMs, Guardrails, Claude Code]
+    ml: []
+    web: [REST APIs, APIs]
+    databases: [Dataverse]
+    data: []
+    cloud: [Microsoft Power Platform, Microsoft Graph API]
+    ops: []
+    languages: []
+    domains: []
+    other: [Power Automate, Power Apps, Adaptive Cards, Agile]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11260002'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:32:57.352007'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

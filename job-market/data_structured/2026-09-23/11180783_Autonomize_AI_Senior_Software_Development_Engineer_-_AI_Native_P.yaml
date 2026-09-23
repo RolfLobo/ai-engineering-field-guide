@@ -1,0 +1,58 @@
+company:
+  name: Autonomize AI
+  stage: null
+  focus: |-
+    AI agents automating healthcare administrative knowledge
+    workflows
+position:
+  title: Senior Software Development Engineer - AI Native Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: designing RAG
+      pipelines, multi-agent workflows, tool-using agents, prompt
+      engineering with evals, and AI observability (hallucination
+      rate, drift). LLM/agent components are central, so it's ai-
+      first.
+  responsibilities:
+  - 'Architect and ship across the full Genesis stack: agentic pipelines, backend
+    APIs, data infrastructure, and clinical-facing UI'
+  - Design and ship production RAG pipelines, multi-agent workflows, and tool-using
+    agents
+  - Practice prompt engineering as an engineering discipline with versioning, evaluation,
+    and regression testing
+  - 'Instrument AI systems for observability: latency, token usage, hallucination
+    rate, drift'
+  - Make architectural decisions on model tradeoffs (context length, cost, latency,
+    accuracy)
+  - Design APIs serving both humans and AI agents (tool schemas, structured outputs,
+    streaming)
+  - Operate cloud-native services with Docker, Kubernetes, and public cloud infrastructure
+  - Work directly with founders and customers, owning systems end-to-end
+  use_cases:
+  - AI agents that reason, retrieve, and act to automate healthcare knowledge workflows
+  - Reducing clinical administrative burden so clinicians can focus on patients
+  - Clinical-facing interfaces for a healthcare AI platform
+  - Real-time data movement for clinical workflows
+  skills:
+    genai: [RAG, Agentic Workflows, AI Agents, Prompt Engineering, OpenAI API, Anthropic
+        API, AWS Bedrock, LangChain, LlamaIndex, CrewAI, LLMs, Structured Outputs,
+      LLM Evaluation]
+    ml: [PyTorch, scikit-learn, Model Deployment]
+    web: [FastAPI, Django, Flask, APIs, React, Microservices, Event-Driven Architecture]
+    databases: [Redis, PostgreSQL, Elasticsearch, MongoDB, Neo4j, Graph Databases,
+      TigerGraph]
+    data: [Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, MLflow, LangSmith]
+    languages: [Python, asyncio, TypeScript]
+    domains: []
+    other: [FHIR, HL7]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11180783'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:24:15.339959'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

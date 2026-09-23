@@ -1,0 +1,57 @@
+company:
+  name: MariaDB Corporation
+  stage: null
+  focus: Open-source relational database company
+position:
+  title: Senior Analytics AI Platform Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role applies classical analytical methods (regression,
+      clustering, forecasting, classification) directly to solve
+      business problems, which counts as shaping classical ML
+      outputs. AI/LLM tools (Windsurf, Gemini, Claude, Cursor,
+      embeddings) are used to accelerate the engineer's own
+      workflow, not to shape LLM behavior, so there is no ai-first
+      component.
+  responsibilities:
+  - Apply statistical and analytical methods (regression, clustering, forecasting,
+    classification) to solve business problems at scale
+  - Design and build end-to-end analytical solutions from data extraction in BigQuery
+    and MariaDB to automated reporting
+  - Develop and maintain data pipelines, analytical frameworks, and tooling using
+    Python and SQL
+  - Use AI-powered development tools to accelerate experimentation, code generation,
+    and analysis
+  - Build lightweight applications and APIs (FastAPI) to deliver models and insights
+    to stakeholders
+  - Own data architecture decisions including schema design, data modeling, and pipeline
+    reliability
+  - Communicate results and recommendations to technical and business audiences
+  - Map and improve business processes through data-driven analysis
+  use_cases:
+  - Business intelligence and automated reporting on company data
+  - Scalable statistical analysis of business metrics (regression, clustering, forecasting)
+  - Automated analytical workflows augmented with LLMs and embeddings
+  - Internal tooling and APIs delivering models and insights to stakeholders
+  - Business process analysis and process improvement through data
+  skills:
+    genai: [LLMs, Embeddings, Generative AI, Gemini, Claude Code]
+    ml: [Regression, Clustering, Forecasting, Classification, Time Series]
+    web: [FastAPI, Next.js, JSON, APIs]
+    databases: [BigQuery, SQL]
+    data: [Data Pipelines, Data Modeling]
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [A/B Testing, Windsurf, Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8927552'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:38:41.473742'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

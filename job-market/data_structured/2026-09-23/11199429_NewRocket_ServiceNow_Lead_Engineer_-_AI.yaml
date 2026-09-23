@@ -1,0 +1,53 @@
+company:
+  name: NewRocket
+  stage: null
+  focus: ServiceNow consulting and agentic AI implementation partner
+position:
+  title: ServiceNow Lead Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic AI solutions, builds AI agents, and
+      trains/deploys LLMs and fine-tunes Hugging Face transformer
+      models, directly shaping model behavior (LLMs and agents),
+      making it ai-first.
+  responsibilities:
+  - Mentor a team of AI/ML developers and lead AI/ML practice design
+  - Develop, train, and deploy ML models for predictive analytics, classification,
+    and clustering
+  - Fine-tune Hugging Face transformer models for classification, summarization, and
+    sentiment analysis
+  - Build chatbots and AI automations with Microsoft Teams, Azure AI, and ServiceNow
+  - Engineer autonomous AI agents capable of real-time learning and decision-making
+  - Train and deploy LLMs for conversational AI, generation, and summarization
+  - Design ETL pipelines and process large-scale data with Spark and Snowflake
+  - Optimize SQL, MySQL, PostgreSQL, and MongoDB databases and visualize insights
+    with Tableau and Power BI
+  use_cases:
+  - Agentic AI workflows in ServiceNow
+  - Chatbots and AI automations integrated with Microsoft Teams and ServiceNow
+  - Predictive analytics, classification, and clustering
+  - Text summarization and sentiment analysis with transformer models
+  - Conversational AI and content generation with LLMs
+  - Large-scale enterprise analytics and data processing
+  skills:
+    databases: [SQL, MySQL, PostgreSQL, MongoDB, Snowflake]
+    domains: []
+    data: [Spark, Snowflake, Data Pipelines]
+    web: []
+    ml: [PyTorch, TensorFlow, scikit-learn, Fine-Tuning, Pandas, NumPy, NLP, Model
+        Training]
+    ops: []
+    other: [Tableau, Power BI, Matplotlib, Seaborn, ServiceNow, Microsoft Teams]
+    cloud: [AWS, SageMaker, AWS Lambda, AWS S3, Azure, GCP, Vertex AI]
+    languages: []
+    genai: [AI Agents, LLMs, Conversational AI, Hugging Face]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11199429'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:25:35.652684'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,196 @@
+job_id: 11232086
+title: Senior AI Engineer - Supply Chain
+company: Cognite
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 751 Employees
+description: |
+  What Cognite is: Relentless to achieve
+
+  Cognite operates at the forefront of industrial
+  digitalization, building AI, and data solutions that solve
+  the world’s hardest, highest-impact problems. With unmatched
+  industrial heritage and a comprehensive suite of AI
+  capabilities, including low-code AI agents, Cognite
+  accelerates the digital transformation to drive operational
+  improvements.
+
+  We thrive in challenges. We challenge assumptions. We
+  execute with speed and ownership. If you view obstacles as
+  signals to step forward - not backwards - you’ll feel right
+  at home here.
+
+  Our Moonshot is bold: Unlock $100B in customer value by
+  2035, and redefine how global industry works. Join us in
+  this venture where AI and data meet ingenuity, and together,
+  we will forge the path to a smarter, more connected
+  industrial future.
+
+  How you’ll demonstrate OwnershipAbout the Role
+
+  As a Senior AI Agent Engineer, you will be the primary owner
+  and architect for building, enhancing and maintaining a
+  packaged , customer ready solution of agentic workflows
+  geared to integrated supply chain pumping the heart of
+  industrial digital transformation. You are not just building
+  models, you are building agents capable of traversing the
+  Cognite Data Fusion (CDF) Knowledge Graph to automate
+  complex supply chain decisions. You will be part of the CoE
+  team working closely with our global customers across
+  industries, and integrating and scaling the packaged agents
+  in their daily operations. You will lead discovery
+  workshops, and reimagine and define new ways of working with
+  agents as co- workers. You will incorporate new learning,
+  usable across customers, in the packaged agent offering. Use
+  Cognite Flows to enable workflows for visibility, exception
+  surfacing, root cause analysis and recommendations. Also
+  work with partners to enable end to end workflows for
+  adaptive planning and action. You will work with a data
+  model that integrates Maintenance Execution (Work Orders),
+  Production Planning (Batches/Recipes), Inventory &
+  Inbound/Outbound Logistics, (Shipments/Deliveries),
+  suppliers & customers and external market & risk data. The
+  agents will need to "reason" across these domains.
+
+  The role will require deep collaboration with sales, product
+  , value delivery and partners.
+
+  - with product, to ensure alignment with product standards and
+    quality. Make it product-ready
+
+  - with Value Delivery, to support during initial rollouts or
+    pilot deployments, providing technical depth where needed
+    and helping troubleshoot agent behaviour in context and
+    develop a feedback process, in order to improve use case /
+    agent readiness and alignment with customer expectations
+
+  - with Field Engineering, in scoping and qualifying AI agent
+    use cases — helping assess technical feasibility, data
+    readiness, and fit between customer environments and
+    packaged agent assumptions. Also, gathering structured
+    feedback from pre-sales interactions on common customer
+    objections, technical concerns, and unmet requirements —
+    and feeding these signals back into agent design and
+    packaging priorities
+
+  - with a partner ecosystem, to develop/ enhance the agentic
+    solutions for pilot customers, and close loop feedback
+    from partners feeding into agent design and enhancements.
+
+
+
+  Core Responsibilities
+
+  - Supply Chain Agents: Develop modular, multi-agent systems
+    using ATLAS AI that leverage tool-use, skills, memory, and
+    multi-step reasoning (Chain-of-Thought) to interact with
+    the CDF Knowledge Graph for solving supply chain problems.
+    This should be product ready and handed to the product and
+    delivery organisation.
+  - Knowledge Graph Orchestration: Design and build precise,
+    reliable tools that can query and traverse the supply
+    chain knowledge graph — handling complex relationships,
+    multi-hop lookups, and returning accurate structured data.
+    The supply chain agents should be able to reason over it.
+  - Domain-Specific Reasoning: Craft advanced prompt chains and
+    evaluation frameworks to ensure agents provide accurate,
+    operationally safe recommendations for industrial use
+    cases.
+  - Rapid development and deployment: Operates with high
+    autonomy and minimal guidance to build functional
+    prototypes directly on customer data or synthetic data,
+    test with customers and SMEs and support integration with
+    customers working along with a value-delivery team.
+
+  The Impact you bring to Cognite
+
+  - 6-9 Years in AI/ML Engineering: Proven track record of
+    delivering production-grade AI features. Hands-on
+    experience with LLMs, embeddings, prompt engineering, and
+    related techniques.
+  - Advanced Agent Frameworks: Experience building LLM-driven or
+    agentic systems (e.g., using LangChain or similar
+    frameworks).
+  - Knowledge Graph Proficiency: Ability to query and navigate
+    complex relational and graph data models. You should be
+    comfortable thinking in "nodes and edges".
+  - You're a strong full-stack engineer: You can work across the
+    stack and own delivery of functional, user-facing
+    solutions: Frontend: React (or similar) + TypeScript,
+    Backend: Python, Kotlin, or similar for orchestration and
+    API integration.
+  - Industrial and Supply Chain Data Literacy: Deep
+    understanding of how to work with "imperfect" industrial
+    data and cross functional supply chain data, including
+    time series and sparse metadata.
+  - Autonomous Maker Mindset: A "show, don't tell" approach.
+    Bias towards rapid iteration. You can take a schema (like
+    the Integrated Supply Chain model) and independently
+    identify how to build an agent that provides value from
+    it.
+  - Familiarity with AI-powered IDEs: Experience using coding
+    assistants (Cursor, Claude Code, Copilot, or similar) and
+    comfortable using LLMs to accelerate development,
+    debugging, and documentation tasks
+  - You communicate clearly: Strong storytelling skills for both
+    technical and executive audiences.
+  - You write quality code: Clean, maintainable, and
+    scalable—with solid practices around testing, version
+    control, and code review.
+
+  Bonus Skills (The "Fast-Track" Profile)
+
+  - Supply Chain Domain Expertise: Prior experience with ERP
+    (SAP) data structures—specifically MM (Materials
+    Management), PP (Production Planning), and PM (Plant
+    Maintenance). Experience with Supply chain platform
+    solutions like o9, Kinaxis, OMP
+  - ISA-95/ISA-88/ SCOR Knowledge: Understanding the standards
+    for automated manufacturing and batch control, SCOR DS
+    frameworks and other supply chain frameworks.
+  - Cognite Data Fusion (CDF) Experience: Direct experience with
+    CDF Data Objects and Knowledge Graph traversal.
+  - Familiarity with vector databases and RAG architectures
+  - Cloud-native development experience (AWS, Azure, GCP)
+
+
+
+
+
+
+
+  Learn more about us
+
+
+
+
+
+
+
+  - Impact 2025
+  - Cognite's Industrial AI: Moonshot
+  - We’re globally recognized domain experts with an
+    international presence that spans Phoenix, Houston, Oslo
+    Tokyo, Bengaluru, and Abu Dhabi.
+
+
+
+
+
+  Equal Opportunity
+
+  Cognite is committed to creating a diverse and inclusive
+  environment at work and is proud to be an equal opportunity
+  employer. All qualified applicants will receive the same
+  level of consideration for employment.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Analytics
+  - Industrial
+  - Generative AI
+  - Big Data Analytics
+posted_date: 2026-09-17
+url: "https://builtin.com/job/senior-ai-engineer-supply-chain/11232086"
+source: Built In

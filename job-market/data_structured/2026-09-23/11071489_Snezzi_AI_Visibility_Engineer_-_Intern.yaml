@@ -1,0 +1,48 @@
+company:
+  name: Snezzi
+  stage: null
+  focus: AI visibility/answer-engine optimization for brands
+position:
+  title: AI Visibility Engineer - Intern
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs AI visibility audits, content fixes, and
+      client reporting for an SEO-style agency. AI tools (Claude
+      Code, ChatGPT) are used as utilities to run scripts and
+      check answers; the person does not shape model behavior,
+      prompts as a product, retrieval, or evals. Client-facing is
+      stated.
+  responsibilities:
+  - Run AI visibility audits across ChatGPT, Perplexity, and Google AI Mode
+  - 'Identify gaps and assist with fixes: content updates, schema, technical cleanup'
+  - Use Claude Code and other AI tools to build and run scripts
+  - Prepare client reports, weekly updates, and pre-reads
+  - Document and templatize processes
+  - Work on live client accounts from week one
+  use_cases:
+  - Making brands appear in AI-generated answers on ChatGPT, Perplexity, and Google
+    AI Mode
+  - AI visibility audits and measurement for clients
+  - Content and technical SEO fixes to improve AI answer presence
+  skills:
+    genai: [ChatGPT, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Claude Code, Perplexity, Google Search Console, GA4, Ahrefs, Shopify,
+      WordPress]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11071489'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:16:50.805430'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

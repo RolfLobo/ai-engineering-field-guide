@@ -1,0 +1,54 @@
+company:
+  name: Justworks
+  stage: null
+  focus: HR and payroll platform for small businesses
+position:
+  title: Senior AI Enablement Engineer, People
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic workflows, RAG pipelines, and
+      retrieval systems, and designs evaluation frameworks for LLM
+      output quality (hallucination rates, retrieval precision) —
+      directly shaping model behavior of LLM-based systems. This
+      is ai-first.
+  responsibilities:
+  - Build agentic workflows, RAG pipelines, and system integrations for People team
+    operational workflows
+  - Architect and maintain the People team's AI transformation roadmap core AI and
+    automation layer
+  - Design evaluation frameworks measuring accuracy, latency, hallucination rates,
+    and retrieval precision of AI tools
+  - Partner with data teams to assess the Workday-to-Snowflake pipeline and determine
+    what the AI layer can reliably consume
+  - Implement data privacy, PII handling, role-based access, and audit trails for
+    sensitive people data
+  - Collaborate with core engineering and data teams on infrastructure, security,
+    and enterprise-grade standards
+  - Create reproducible blueprints, demos, and guides transferring AI ownership across
+    the People team
+  use_cases:
+  - Internal People/HR workflow automation
+  - Human + AI handoffs scaled to AI-as-system maturity
+  - Context-aware internal tools combining structured Snowflake data with unstructured
+    text
+  - Workforce insights from HR data with privacy controls
+  skills:
+    genai: [LLMs, Agentic Workflows, RAG, Embeddings, AI Agents, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: []
+    cloud: []
+    ops: [LangSmith, Datadog]
+    languages: []
+    domains: []
+    other: [Workday, Greenhouse]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11315355'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:37:57.595369'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

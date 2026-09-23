@@ -1,0 +1,57 @@
+company:
+  name: New York Life Insurance Company
+  stage: Fortune 100 mutual company
+  focus: Life insurance and financial services company
+position:
+  title: Lead Full-Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM/agent behavior directly: designing agent
+      runtimes, orchestration frameworks, memory services,
+      RAG/knowledge retrieval, and LLMOps evaluation/monitoring
+      for agentic AI solutions. This is ai-first since LLM/agent
+      components are central.
+  responsibilities:
+  - Lead design and implementation of enterprise AI platform capabilities including
+    agent runtimes, orchestration frameworks, memory services, and governance systems
+  - Build agentic AI solutions using multi-agent architectures, knowledge systems,
+    and planning frameworks
+  - Architect enterprise retrieval and knowledge management using RAG, knowledge graphs,
+    and semantic search
+  - Design scalable cloud-native AI infrastructure on GCP with Kubernetes and Infrastructure
+    as Code
+  - Lead MLOps and LLMOps practices including deployment, evaluation, monitoring,
+    and cost optimization
+  - Partner with architecture, security, legal, risk, and business stakeholders on
+    enterprise standards
+  - Mentor engineers and drive engineering excellence through architecture reviews
+    and reusable frameworks
+  - Champion AI-assisted software engineering and establish delivery-accelerating
+    patterns
+  use_cases:
+  - Enterprise AI platform powering agentic AI solutions across New York Life
+  - Agentic automation transforming how work is performed across business functions
+  - Enterprise knowledge retrieval and management for policy owners, agents, advisors,
+    and employees
+  - Governance and lifecycle management of production AI systems
+  skills:
+    genai: [Agentic Workflows, Multi-Agent Systems, AI Agents, RAG, Knowledge Graphs,
+      Semantic Search, Embeddings, Generative AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [Kubernetes, Infrastructure as Code, CI/CD, MLOps, LLMOps, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10902833'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:05:54.376402'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

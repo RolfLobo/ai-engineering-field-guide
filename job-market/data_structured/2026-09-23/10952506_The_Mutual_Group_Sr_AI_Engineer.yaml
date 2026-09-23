@@ -1,0 +1,55 @@
+company:
+  name: The Mutual Group
+  stage: null
+  focus: Insurance (policy, claims, billing) with AI modernization
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG pipelines, LLM applications, and
+      guardrails for LLM-based systems, directly shaping model
+      behavior and output quality. Explicitly an engineering role,
+      but with substantial LLM shaping responsibilities.
+  responsibilities:
+  - Design and implement end-to-end AI/ML solutions including LLM-based applications
+  - Build RAG pipelines using vector databases and enterprise data sources
+  - Build ML models with automated training, validation, monitoring, and retraining
+  - Develop APIs and services to operationalize AI capabilities across the organization
+  - Build ingestion and transformation pipelines for structured and unstructured multimodal
+    data
+  - Deploy, monitor, and maintain models in production with MLOps practices
+  - Implement guardrails for LLM systems (grounding, validation, safety) and ensure
+    secure data handling
+  - Provide technical guidance and mentorship to engineers
+  use_cases:
+  - Automating insurance operations across policy, claims, and billing platforms
+  - Enterprise Q&A and retrieval over enterprise data sources via RAG
+  - Automated machine learning with self-retraining models
+  - Operationalized AI services integrated with enterprise systems
+  - Responsible AI with guardrails for sensitive insurance data
+  skills:
+    genai: [LLMs, RAG, AWS Bedrock, Guardrails]
+    ml: [Machine Learning, Model Training, NLP, Model Evaluation]
+    web: [APIs, Microservices]
+    databases: [Vector Databases, Pinecone, Weaviate]
+    data: [Data Pipelines, Data Governance]
+    cloud: [AWS, SageMaker, AWS Lambda, AWS S3, EKS]
+    ops: [MLOps, CI/CD, Model Deployment, Monitoring, Docker, Kubernetes, Distributed
+        Systems, Responsible AI]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10952506'
+  location: USA
+  locations:
+  - USA
+  - New York, USA
+  - MOZ
+  remote: true
+  extracted_at: '2026-09-23T11:08:45.754550'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

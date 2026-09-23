@@ -1,0 +1,81 @@
+job_id: 11050693
+title: AI Engineer
+company: Suitsupply
+location: Amsterdam, NLD
+work_type: FULL_TIME
+company_size: 1,407 Employees
+description: |
+  As one of Suitsupply’s first dedicated AI Engineers, you
+  will build the agents that turn our GCP data platform and
+  governed context layer into automated, tool-calling
+  workflows running real business processes. This role is
+  forward-deployed: you will embed with the teams doing the
+  work, identify the highest-leverage processes to automate,
+  and ship production-grade agents rather than prototypes. You
+  will lay the reusable “golden path” — skills, connectors,
+  evals, and templates — that make every agent built after
+  yours faster to deliver. Joining early means helping shape
+  the Data & AI team’s standards as it scales, with your
+  impact measured in agents shipped and hours returned to the
+  business. You will report into the Director of Data.What You
+  Will Do
+
+  - Embed with the teams doing the work, map how a process
+    actually runs, and identify the single highest-leverage
+    opportunity to automate.
+  - Build tool-calling agents on our platform that take real
+    processes off people’s plates as reliable production
+    systems, not prototypes.
+  - Turn every build into reusable skills, connectors, evals,
+    and templates, so agent-building gets faster each time.
+  - Hand off cleanly, leaving a running system with a runbook,
+    an eval framework, and a named owner.
+  - Define what “good” looks like for agents — accuracy, cost,
+    guardrails, sensitive-data handling — and mentor the per-
+    team champions who scale it.
+
+  Who You Are
+
+  - A production software engineer first, with strong Python and
+    real fundamentals in testing, APIs, version control, and
+    observability.
+  - Proven experience building agentic workflows, RAG, and tool-
+    calling systems that run in production, not just in demos.
+  - Evaluation-driven: you set a baseline, define the metrics
+    that matter, and prove with numbers that a change moved
+    the needle.
+  - Fluent in GCP and Vertex AI, comfortable in the Claude
+    ecosystem (Claude Code, MCP, skills), and at home in
+    BigQuery.
+  - Forward-deployed by temperament, thriving in ambiguity and
+    able to translate business problems into technical plans
+    for a director and an engineer alike.
+  - Approximately 5+ years in software engineering with
+    production AI experience, strong product sense, and the
+    judgment to know when to prototype, harden, or stop.
+
+  What You Will Get
+
+  - Autonomy: We empower you to take ownership, make meaningful
+    decisions, and drive impact without layers of sign-off.
+  - Growth: We see your potential as a key asset. At Suitsupply,
+    you’ll have abundant opportunities to learn, grow, and
+    excel in a supportive environment that encourages
+    development at every step.
+  - Corporate Social Responsibility: Our commitment to
+    sustainability and ethical business is unwavering. We work
+    exclusively with suppliers who uphold the highest
+    standards, in alignment with the International Labour
+    Organization.
+  - Style: Immerse yourself in a world of beautifully crafted,
+    high-quality products, and enjoy a 40% discount on
+    Suitsupply products.
+  - Compensation: We offer a competitive salary of based on
+    relevant skills and experience.
+industries:
+  - Fashion
+  - Retail
+  - Wearables
+posted_date: 2026-09-08
+url: "https://builtin.com/job/ai-engineer/11050693"
+source: Built In

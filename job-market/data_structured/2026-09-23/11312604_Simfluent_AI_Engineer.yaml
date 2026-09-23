@@ -1,0 +1,51 @@
+company:
+  name: Simfluent
+  stage: null
+  focus: |-
+    Data product company delivering digital solutions for
+    enterprises
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes foundation models (LoRA/QLoRA),
+      implements prompt engineering, designs RAG pipelines, and
+      builds LLM evaluation systems, directly shaping LLM
+      behaviour and output quality. LLMs are central, so it is ai-
+      first.
+  responsibilities:
+  - Design and implement traditional ML and LLM-based systems and applications
+  - Optimize model inference performance and cost efficiency
+  - Fine-tune foundation models for specific use cases and domains
+  - Implement diverse prompt engineering strategies
+  - Build robust backend infrastructure for AI-powered applications
+  - Implement and maintain MLOps pipelines for AI lifecycle management
+  - Design ML and LLM monitoring and evaluation systems
+  - Develop automated testing frameworks for model quality and performance tracking
+  use_cases:
+  - LLM-based systems taken from experimentation to production at scale
+  - Domain- and use-case-specific fine-tuned foundation models
+  - Retrieval-augmented generation for knowledge-grounded applications
+  - Efficient, cost-optimized model inference serving
+  - Automated model evaluation, A/B testing, and continuous monitoring
+  skills:
+    databases: [Vector Databases, PostgreSQL, Redis]
+    domains: []
+    data: [Airflow]
+    web: [FastAPI, Flask, REST APIs]
+    ml: [Machine Learning, PyTorch, Transformers, TensorFlow, Model Evaluation, Quantization]
+    ops: [Model Deployment, Docker, Kubernetes, vLLM, TensorRT, MLOps, CI/CD, Model
+        Monitoring]
+    other: [SGLang, A/B Testing, Few-Shot Learning, Chain-of-Thought Prompting]
+    cloud: [AWS, GCP, Azure]
+    languages: [Python]
+    genai: [LLMs, Fine-Tuning, LoRA, Prompt Engineering, RAG, LangChain, LlamaIndex]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11312604'
+  location: Noida, IND
+  extracted_at: '2026-09-23T11:36:27.817862'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

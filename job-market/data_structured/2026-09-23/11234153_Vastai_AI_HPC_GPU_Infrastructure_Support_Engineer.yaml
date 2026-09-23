@@ -1,0 +1,52 @@
+company:
+  name: Vast.ai
+  stage: null
+  focus: Decentralized cloud marketplace for GPU compute
+position:
+  title: AI, HPC & GPU Infrastructure Support Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role troubleshoots and maintains GPU/Linux
+      infrastructure (drivers, CUDA, Docker, KVM, networking) for
+      Vast.ai's cloud; it serves and supports model workloads but
+      never shapes model behavior. No prompt, retrieval, training,
+      or eval work is present.
+  responsibilities:
+  - Diagnose and resolve NVIDIA CUDA/GPU driver, Docker, and KVM virtualization issues
+  - Investigate GPU utilization, container resource constraints, thermal throttling,
+    driver conflicts, and disk I/O bottlenecks
+  - Troubleshoot network-layer issues including VLAN, DNS, DHCP, VPN, NAT, and firewall
+    rules
+  - Own escalated support tickets end-to-end, coordinating with clients, suppliers,
+    and internal teams
+  - Manage supplier onboarding and machine setup including drivers, BIOS, firmware,
+    and network configuration
+  - Build diagnostic and automation tooling in Python and Bash and write runbooks
+    to reduce repeat escalations
+  - Collaborate with engineering teams to flag and document systemic platform issues
+  - Provide overflow coverage for L1 support during peak periods or incidents
+  use_cases:
+  - GPU cloud infrastructure support for AI/ML workloads
+  - Host and supplier onboarding and machine management
+  - Container and virtualized GPU environment troubleshooting
+  - Datacenter host networking and hardware diagnostics
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: [CUDA, PyTorch, TensorFlow]
+    ops: [Linux, Docker, Monitoring, Prometheus, Grafana]
+    other: [KVM, Networking, DNS, VLANs, VPN, NAT, Virtualization]
+    cloud: []
+    languages: [Python, Bash]
+    genai: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11234153'
+  location: Los Angeles, USA
+  extracted_at: '2026-09-23T11:29:58.668915'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

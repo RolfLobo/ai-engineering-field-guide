@@ -1,0 +1,53 @@
+company:
+  name: Almetra
+  stage: null
+  focus: AI vision software for manufacturing quality onboarding
+position:
+  title: AI Onboarding Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role executes onboarding cycles and validates input data
+      quality (camera angle, occlusion) for someone else's vision
+      ML system. The person does not shape model behaviour - no
+      prompt engineering, RAG, or training - they validate data
+      and run processes. 'ML depth not required' confirms this is
+      a support/ops role.
+  responsibilities:
+  - Own onboarding outcomes against success metrics and customer KPIs (quality, reliability,
+    time-to-value)
+  - Execute the initial onboarding cycle using internal tools and iterate as new data
+    and edge cases appear
+  - Validate input data quality and flag issues early (camera angle, occlusion, anonymization,
+    variance, missing detections)
+  - Detect and document edge cases and SOP/process variance; grow and maintain a diverse
+    dataset
+  - Communicate progress, metrics movement, and blockers to stakeholders and propose
+    next steps
+  - Improve the onboarding process through checklists, docs, templates, and tool improvement
+    suggestions
+  - Coordinate with installation teams to ensure camera setups support reliable onboarding
+  use_cases:
+  - Computer vision quality inspection for manufacturing
+  - Customer site onboarding of AI vision systems
+  - Input data quality validation for camera-based detections
+  - Edge case detection and dataset curation for manufacturing processes
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11248695'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:32:08.271591'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

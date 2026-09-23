@@ -1,0 +1,56 @@
+company:
+  name: SunCore Digital
+  stage: null
+  focus: Unified workspace platform with automation tools
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG workflows, prompt engineering,
+      embeddings/vector search, and LLM integration into
+      production systems, which directly shapes model behaviour
+      and output quality. LLM components dominate, making it ai-
+      first even though some classical ML (risk scoring,
+      forecasting) is also present.
+  responsibilities:
+  - Design, build, and deploy AI-powered features using Python, ML frameworks, and
+    cloud-native tooling
+  - Develop and integrate LLM-based systems into production applications
+  - Architect data pipelines, embeddings, vector search, and RAG workflows
+  - Build models and inference systems for personalization, risk scoring, forecasting,
+    and decision support
+  - Optimize model performance, latency, and cost across cloud environments
+  - Implement monitoring, evaluation, and continuous improvement for deployed models
+  - Ensure security, privacy, and compliance in AI-related data handling
+  - Work with structured and unstructured data, ensuring data quality and versioning
+  use_cases:
+  - Personalized recommendations
+  - Risk scoring and financial modeling
+  - Workflow automation
+  - Forecasting and decision support
+  - Data-driven insights across a unified workspace platform
+  skills:
+    genai: [LLMs, OpenAI API, Embeddings, RAG, Prompt Engineering, Fine-Tuning]
+    ml: [Machine Learning, PyTorch, TensorFlow, scikit-learn, Hugging Face, Model
+        Evaluation, Model Deployment, Reinforcement Learning]
+    web: [APIs]
+    databases: [Vector Databases, Pinecone, Weaviate, Redis]
+    data: [Data Pipelines, Data Governance]
+    cloud: [Azure OpenAI, Azure, AWS, GCP]
+    ops: [DevOps, Docker, CI/CD, Monitoring, Observability]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10863432'
+  location: London, GBR
+  locations:
+  - London, GBR
+  - Scottsdale, USA
+  - Bellevue, USA
+  extracted_at: '2026-09-23T11:03:19.873733'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

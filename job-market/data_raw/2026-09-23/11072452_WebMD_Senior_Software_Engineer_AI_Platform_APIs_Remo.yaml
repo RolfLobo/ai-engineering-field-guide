@@ -1,0 +1,74 @@
+job_id: 11072452
+title: "Senior Software Engineer, AI & Platform APIs (Remote, International)"
+company: WebMD
+location: GBR
+remote: true
+work_type: INTERN
+company_size: 2,062 Employees
+description: |
+  About PulsePoint:
+
+  PulsePoint is a leading technology company that uses real-
+  world data in real-time to optimize campaign performance and
+  revolutionize health decision-making. Leveraging proprietary
+  datasets and methodology, PulsePoint targets healthcare
+  professionals and patients with an unprecedented level of
+  accuracy—delivering unparalleled results to the clients we
+  serve. The company is now a part of Internet Brands, a KKR
+  portfolio company and owner of WebMD Health Corp.
+
+  Team: Portals / Platform Engineering. 6+ years of
+  experience.
+
+  This is a dual-focus senior backend role, split roughly
+  50/50 between AI and core platform engineering. Half the job
+  is AI on GCP, building MCP/agent tooling in Python, shipping
+  LLM-backed features into our portals, and driving AI-
+  assisted dev practices across the team. The other half is
+  Java 21 / Spring Boot 3.4, building and maintaining our
+  production REST APIs, plus an active legacy modernization.
+
+  We need someone genuinely strong in both, not an AI
+  specialist who'll learn Java later, or a Java engineer
+  hoping to pick up AI on the job.
+
+  Must-haves:
+
+  • 6+ years professional software engineering experience
+
+  • Shipped a real LLM-backed product to production users,
+  demos and POCs don't count
+
+  • Hands-on GCP + Kubernetes (Cloud Run, IAM, Secret Manager)
+
+  • Strong production Python
+
+  • Strong production Java with Spring Boot, designs, builds,
+  tests, reviews REST services independently
+
+  • Practical fluency with AI dev tools (Claude Code, Codex,
+  etc.), has automated real work with them
+
+  Nice to have: MCP/tool-calling experience, RAG in
+  production, legacy Java migration experience, HCP/adtech
+  domain exposure.
+
+  Location & Hours:
+
+  - Can work remotely in your current country
+  - Most of our Portal Engineering team is in India and the U.S.
+  - Hours:
+
+  Selection Process:
+
+  - Online CodeSignal assessment (75-90 minutes)
+  - Intro Call (15 minutes)
+  - Technical Interview with Sr. Developer (60-90 minutes, note
+    that some candidates may need more than 60 minutes)
+  - Full Screen:
+
+  Watch this video here to learn more about our culture and
+  get a sense of what it’s like to work at PulsePoint!
+posted_date: 2026-09-09
+url: "https://builtin.com/job/senior-software-engineer-ai-platform-apis-remote-international/11072452"
+source: Built In

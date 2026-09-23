@@ -1,0 +1,167 @@
+job_id: 11234217
+title: "Subject Matter Expert - Senior Cloud, Data & AI Engineer"
+company: Blake Willson Group, LLC
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Harnessing Technology to Improve Financial Stewardship for
+  the Welfare, Defense, and Security of Our Nation
+
+  Blake Willson Group (BWG) unites deep domain experts with
+  technologists who leverage industry-leading financial
+  management solutions to address the most critical mission
+  objectives. Headquartered in the National Capital Region,
+  the firm delivers measurable outcomes through technology-
+  forward strategies and advanced solutions that drive mission
+  success.
+
+  Blake Willson Group has a distinguished track record of
+  exceptional performance, achieving operational efficiencies
+  that allow our clients to do more with less. BWG has earned
+  the confidence of its clients by consistently exceeding
+  expectations through its unwavering commitment to best value
+  solutions, implemented with speed.
+
+  Job Location:
+
+  This role is 100% remote.
+
+  Clearance:
+
+  Must be currently authorized to work in the United States on
+  a full-time basis and have the ability to obtain a Public
+  Trust Clearance.
+
+  Job Description:
+
+  Blake Willson Group is seeking a Senior Cloud, Data & AI
+  Engineer to lead the architecture, development, and delivery
+  of innovative cloud, data, process intelligence, and AI
+  solutions. This role will own technical delivery across AWS
+  GovCloud and Celonis environments, with a focus on building
+  secure, scalable, and reusable solutions for federal
+  clients. The ideal candidate brings deep software and data
+  engineering expertise, hands-on AWS experience, and
+  practical experience with Celonis and AI/agentic
+  technologies. In this position, you will also:
+
+  - Architect, implement, and operate cloud-native services on
+    AWS, including API Gateway, Lambda, Fargate, DynamoDB,
+    SQS, S3, KMS, IAM, and CloudWatch, using infrastructure as
+    code, CI/CD, observability, security, and tenancy
+    controls.
+  - Build data ingestion, transformation, and API components for
+    large-scale, multi-source data platforms, including ETL
+    and streaming pipelines, authentication and authorization,
+    and data quality validation.
+  - Develop and extend Celonis solutions, including Data
+    Connections, Data Integration transformations, object-
+    centric data models, event logs, Knowledge Models, PQL
+    metrics, Studio Views, and Action Flows.
+  - Design and build agentic AI workflows using managed LLM
+    services such as Amazon Bedrock and Azure OpenAI, as well
+    as Celonis AI capabilities, with appropriate evaluations,
+    guardrails, and traceability.
+  - Own system architecture and technical direction for
+    Innovation Lab products, including design decisions, code
+    reviews, engineering standards, testing, security, and
+    observability.
+  - Lead end-to-end technical delivery of the A-123 Continuous
+    Controls Monitoring solution and additional Innovation Lab
+    products from prototype through pilot and production
+    deployment.
+  - Package solutions for reuse across federal agencies through
+    parameterized configuration, automated deployment,
+    versioning, and reference architectures.
+  - Support capability demonstrations and post-award
+    implementation activities, including source system
+    mapping, environment configuration, and deployment into
+    agency and FedRAMP-authorized cloud environments.
+  - Collaborate with Celonis and AWS partner engineering teams
+    on solution certification, marketplace listings, and
+    partner program requirements.
+  - Establish scalable engineering practices that improve
+    reliability, data accuracy, deployment efficiency, and the
+    ability to rapidly stand up solutions for new agency
+    environments.
+  - Maintain a focus on measurable business impact, including
+    reducing manual control testing, audit, and review hours
+    and increasing the use of Innovation Lab solutions across
+    client engagements, demonstrations, and proposals.
+
+  Required Skills:
+
+  - Bachelor’s degree in Computer Science, Engineering,
+    Information Technology, Business, or a related field.
+  - 7+ years of professional software or data platform
+    engineering experience, with a proven track record of
+    building and operating production systems at scale.
+  - 5+ years of experience with Python and SQL, including deep
+    hands-on AWS experience across serverless compute, managed
+    data stores, messaging, IAM, encryption, and
+    infrastructure as code using Terraform, CDK, or
+    CloudFormation.
+  - 5+ years of experience with cloud-native data and AI
+    solutions, including hands-on Celonis experience with
+    process mining, data models, Knowledge Models, and PQL, as
+    well as experience building or integrating LLM-based or
+    agentic systems.
+
+  Desired Skills:
+
+  - Prior engineering experience with Celonis, AWS, or a Celonis
+    implementation partner.
+  - AWS Certified Solutions Architect and/or Celonis
+    certifications such as Data Engineer, Process Intelligence
+    Developer, or Automation.
+  - Experience with AWS GovCloud, FedRAMP, NIST 800-53, and
+    Authority to Operate processes for cloud-hosted analytics
+    and AI systems.
+  - Experience with object-centric process mining, Celonis ML
+    Workbench, Blueprint API, and Marketplace packaging.
+  - Federal financial management domain knowledge, including OMB
+    Circular A-123, internal controls, PIIA, improper
+    payments, grants management, or financial close and
+    reporting.
+  - Experience with Azure data and AI services, OneStream,
+    Workiva, or Power BI.
+  - Experience with Agile delivery methodologies, including
+    Scrum or Kanban, and strong communication skills with
+    executive and technical audiences.
+
+  The statements above describe the general nature and level
+  of work anticipated for this role. They are not intended to
+  be an exhaustive list of all duties, responsibilities, or
+  skills required. Blake Willson Group reserves the right to
+  modify, assign, or add job-related responsibilities as
+  business needs require. Where feasible, reasonable
+  accommodations may be provided for individuals to perform
+  essential job functions.Blake Willson Group is an Equal
+  Employment Opportunity (EEO) employer and is committed to
+  maintaining a professional, respectful, and harassment-free
+  workplace. All employment decisions are based on business
+  needs, qualifications, and merit. We comply with all
+  applicable federal, state, and local employment laws and do
+  not discriminate on the basis of race, color, religion, sex,
+  sexual orientation, gender identity, national origin, age,
+  disability, protected veteran status, genetic information,
+  or any other legally protected status. Blake Willson Group
+  prohibits unlawful discrimination, harassment, and
+  retaliation.Blake Willson Group complies with federal equal
+  employment opportunity requirements. The “Know Your Rights:
+  Workplace Discrimination Is Illegal” poster is available to
+  applicants and employees. View the official poster here:
+  Know Your Rights: Workplace discrimination is illegalIf you
+  require a reasonable accommodation during the application
+  process, please contact us at 202-381-0603, Ext. 3.Blake
+  Willson Group participates in E-Verify to confirm employment
+  eligibility and will provide the federal government with
+  your Form I-9 information to verify authorization to work in
+  the United States.
+industries:
+  - Business Intelligence
+  - Consulting
+posted_date: 2026-09-17
+url: "https://www.builtinla.com/job/subject-matter-expert-senior-cloud-data-ai-engineer/11234217"
+source: Built In

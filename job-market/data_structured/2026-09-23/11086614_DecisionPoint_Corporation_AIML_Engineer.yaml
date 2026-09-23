@@ -1,0 +1,49 @@
+company:
+  name: DecisionPoint Corporation
+  stage: null
+  focus: Federal and DoD mission IT and AI/ML solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role integrates, serves, and operationalizes ML models
+      built by data scientists via APIs, dashboards, and
+      microservices; it does not train, tune, prompt, or evaluate
+      models itself. No LLM/agent shaping is described, so this is
+      integration/infrastructure work supporting AI systems.
+  responsibilities:
+  - Develop rapid prototypes, microservices, APIs, widgets, and integrations to validate
+    new AI/ML concepts
+  - Integrate ML models into dashboards, applications, and operational workflows
+  - Optimize ML pipelines for performance, scalability, and efficient inference
+  - Build API wrappers, routing logic, and connector services for ML model interactions
+  - Support data ingestion, feature engineering, and preprocessing for prototype development
+  - Validate prototype functionality, performance, error handling, and model integration
+  - Document models, prototypes, integrations, and deployment patterns
+  - Work with cybersecurity teams to align integration patterns with security requirements
+  use_cases:
+  - Embedding ML models into mission dashboards and operational applications
+  - Rapid prototyping to validate AI/ML concepts for federal and DoD missions
+  - API-based integration layers connecting ML models to user-facing components
+  - Operational ML inference in production workflows
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Feature Engineering, Machine Learning]
+    web: [REST APIs, Microservices]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: [CI/CD, DevSecOps, ITIL]
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11086614'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:39.240074'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

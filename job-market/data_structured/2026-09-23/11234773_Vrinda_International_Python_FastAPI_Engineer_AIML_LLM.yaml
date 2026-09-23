@@ -1,0 +1,49 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services building Generative AI solutions
+position:
+  title: Python & FastAPI Engineer (AI/ML & LLM)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires LLMs, Prompt Engineering, and
+      RAG design with vector databases, meaning the engineer
+      shapes model behaviour through prompts and retrieval. It
+      also includes classical ML, but LLM involvement makes it ai-
+      first.
+  responsibilities:
+  - Build Python/FastAPI backend services for Generative AI solutions
+  - Design and implement RAG pipelines with vector databases
+  - Apply prompt engineering with LLMs
+  - Develop and evaluate ML models (classification, clustering)
+  - Deploy and serve model inference via REST APIs
+  - Integrate backend systems with AI components
+  use_cases:
+  - Generative AI solutions
+  - RAG-based retrieval and question answering
+  - LLM-powered applications
+  - NLP and text embedding services
+  skills:
+    genai: [Embeddings, LLMs, Prompt Engineering, RAG, Generative AI]
+    ml: [Machine Learning, Model Evaluation, Deep Learning]
+    web: [FastAPI, REST APIs]
+    databases: [Vector Databases, FAISS, Chroma, Pinecone]
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234773'
+  location: IND
+  locations:
+  - IND
+  - Hyderabad, IND
+  remote: true
+  extracted_at: '2026-09-23T11:29:12.676805'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Wolters Kluwer
+  stage: null
+  focus: |-
+    Professional information services and software for tax,
+    finance, and legal
+position:
+  title: Senior Product Software Engineer (C#/ .NET Core / Gen AI / Angular OR Javascript
+    OR Typescript OR React)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic workflows, multi-agent systems, RAG
+      pipelines, and shapes LLM behavior through prompt
+      engineering and model selection, so model behavior is shaped
+      with LLMs involved.
+  responsibilities:
+  - Design, develop, and maintain Generative AI applications and Agentic Workflows
+  - Build and orchestrate multi-agent systems leveraging LLMs
+  - Implement RAG pipelines, embeddings, and vector search solutions
+  - Ensure AI security best practices including data privacy, access control, and
+    prompt safety
+  - Optimize LLM usage and costs through token optimization, caching, batching, and
+    model selection
+  - Architect scalable, cloud-native AI solutions for production environments
+  - Implement monitoring, logging, and observability for AI systems in production
+  - Mentor junior engineers and participate in architecture and design reviews
+  use_cases:
+  - Production-grade generative AI applications for tax, finance, and banking domains
+  - Multi-agent AI automation workflows
+  - Domain-specific enterprise AI solutions
+  - Retrieval-augmented knowledge search and generation
+  - Cost-optimized LLM serving with caching and model fallback
+  skills:
+    genai: [Generative AI, Agentic Workflows, Multi-Agent Systems, LLMs, RAG, Embeddings,
+      Vector Search, Vector Databases, Prompt Engineering, Azure OpenAI, OpenAI API,
+      Anthropic API, AI Agents, Guardrails]
+    ml: []
+    web: [Angular, React, TypeScript, JavaScript, HTML, CSS, ASP.NET, Microservices,
+      REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, DevOps, Monitoring, Observability]
+    languages: [C#, .NET]
+    domains: []
+    other: [GitHub Copilot, Responsible AI, OOP, Cloud-Native Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9996757'
+  location: Mambalam Guindy, IND
+  extracted_at: '2026-09-23T11:39:44.814111'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

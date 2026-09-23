@@ -1,0 +1,45 @@
+company:
+  name: Dragonfly
+  stage: null
+  focus: Crypto-native venture capital and research firm
+position:
+  title: AI/ML Engineer - Dragonfly Portfolio
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior: building agents, agentic
+      workflows, RAG systems, fine-tuning, and model evaluation,
+      all with LLM components. This is clearly ai-first.
+  responsibilities:
+  - Build and ship AI-native products and features end-to-end
+  - Design and optimize LLM pipelines, RAG systems, and agentic workflows
+  - Build autonomous AI agents and agent-to-agent systems
+  - Integrate AI capabilities into crypto-native infrastructure, protocols, or consumer
+    products
+  - Work on model evaluation, fine-tuning, and inference optimization at scale
+  - Operate across the full stack from model integration to product-facing features
+  use_cases:
+  - AI-native crypto infrastructure and protocols
+  - Autonomous agents and machine-to-machine transactions
+  - LLM-powered applications in production
+  - AI-driven consumer products
+  skills:
+    genai: [AI Agents, Agentic Workflows, Fine-Tuning, RAG, LLMs, Agentic Payments]
+    ml: [Inference Optimization, Model Evaluation, Foundation Models]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11176171'
+  location: Los Angeles, USA
+  remote: true
+  extracted_at: '2026-09-23T11:23:03.088006'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

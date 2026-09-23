@@ -1,0 +1,51 @@
+company:
+  name: Databricks
+  stage: null
+  focus: Unified data and AI lakehouse platform
+position:
+  title: Senior Solutions Engineer (Presales, Technical, Data and AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a pre-sales solutions engineer doing discovery,
+      solution design, demos, and PoCs on the Databricks platform.
+      The person designs data/ML solutions and demonstrates them
+      to customers but does not shape model behaviour through
+      prompts, retrieval, training, or evals. AI is part of the
+      platform sold, not the deliverable of this role.
+  responsibilities:
+  - Lead technical discovery and solution design for customer workloads spanning data
+    engineering, analytics, and machine learning
+  - Build and deliver proofs-of-concept and live demos on the Databricks Platform
+  - Own frontline technical relationships with customer engineers, data teams, and
+    technical leads
+  - Develop account-level technical strategies with the Account Executive to grow
+    platform consumption
+  - Articulate Databricks differentiation against competitors through hands-on demonstrations
+  - Contribute reusable technical assets such as notebooks, solution accelerators,
+    and reference architectures
+  use_cases:
+  - Data engineering and analytics workloads on a unified data platform
+  - Machine learning and MLOps workloads for customers
+  - Customer technical enablement through proofs-of-concept and demos
+  - Platform adoption and consumption growth within customer accounts
+  skills:
+    databases: [Delta Lake, Unity Catalog]
+    domains: []
+    data: [Spark, Hadoop, Kafka, Flink, Data Pipelines, Medallion Architecture, Streaming,
+      SQL Analytics, Data Engineering]
+    web: [Solution Architecture]
+    ml: [Model Training]
+    ops: [MLOps, MLflow]
+    other: []
+    cloud: [AWS, Azure, GCP]
+    languages: [Python, SQL]
+    genai: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10767282'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:01:03.180789'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

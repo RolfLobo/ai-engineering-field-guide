@@ -1,0 +1,52 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and services improving health outcomes
+position:
+  title: Senior Software Engineer Lead-Amazon Connect, Lex, Dialogflow AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds conversational AI chatbots and voice bots
+      (Amazon Lex, Dialogflow, Google ADK) with familiarity with
+      LLMs, RAG, and agentic frameworks - directly shaping
+      LLM/agent-driven behavior, making it ai-first. It also has
+      management duties (mentoring, hiring, performance
+      management).
+  responsibilities:
+  - Own end-to-end delivery of Conversational AI platforms (voice and chat)
+  - Lead design and implementation of AI-powered chatbot and voice bot solutions
+  - Drive adoption of cloud-native architectures, CI/CD, Terraform, and Shift-Left
+    practices
+  - Accelerate AI adoption across products and business processes leveraging Conversational
+    AI, Generative AI, and intelligent automation
+  - Partner with Product, Architecture, Security, and Business teams to manage priorities,
+    dependencies, and risks
+  - Mentor and develop engineers and technical leads; support hiring and performance
+    management
+  - Promote Responsible AI and AI Development Lifecycle (AIDLC) practices
+  use_cases:
+  - Enterprise voice and chat conversational AI platforms
+  - Chatbots, voice bots, and virtual assistants for customer care
+  - AI-powered solutions integrated with contact-center-as-a-service platforms
+  - AI adoption and intelligent automation across healthcare business processes
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [Node.js, CCaaS Platforms]
+    ml: []
+    ops: [CI/CD, Terraform, DevOps, DevSecOps, Cloud-Native Architectures]
+    other: [Agile, Kanban, Responsible AI, Genesys, Amazon Connect]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python, TypeScript]
+    genai: [Amazon Lex, Dialogflow, Google ADK, Chatbots, Virtual Assistants, Conversational
+        AI, Generative AI, LLMs, RAG, Agentic AI Frameworks, Intelligent Automation]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11166746'
+  location: Chennai, IND
+  extracted_at: '2026-09-23T11:23:16.825615'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

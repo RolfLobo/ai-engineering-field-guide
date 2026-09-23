@@ -1,0 +1,49 @@
+company:
+  name: Incepta
+  stage: null
+  focus: AI implementation firm for insurance agencies
+position:
+  title: AI Engineer Intern
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships AI agents end-to-end,
+      orchestrates LLM pipelines with LangChain/LangGraph, RAG,
+      function calling, and MCP tool use. The intern directly
+      shapes LLM behavior via prompts, retrieval, and agent flows.
+  responsibilities:
+  - Design and ship AI agents end-to-end from spec to production deployment
+  - Orchestrate LLM pipelines with LangChain/LangGraph and vector search
+  - Integrate LLM provider APIs with auth, error handling, and logging
+  - Build lightweight React + Tailwind UIs to trigger and monitor agents
+  - Deploy and scale serverless solutions optimizing for speed, accuracy, and cost
+  - Implement function calling and tool use via Model Context Protocol (MCP)
+  - Build computer vision pipelines for document processing and OCR
+  - Monitor performance and iterate with weekly improvements
+  use_cases:
+  - AI agents automating complex insurance agency workflows
+  - Document processing with OCR and structured data extraction from PDFs
+  - RAG-based document processing and retrieval pipelines
+  - Multi-agent orchestration interacting with external APIs and services
+  - Chat interfaces and dashboards for triggering and monitoring agents
+  skills:
+    genai: [LLMs, OpenAI API, Anthropic API, Gemini, Function Calling, RAG, LangChain,
+      LangGraph, LlamaIndex, MCP, Prompt Engineering, Agentic Workflows]
+    ml: []
+    web: [REST APIs, GraphQL, React, Vue, WebSockets]
+    databases: [SQL, NoSQL, Vector Databases, Pinecone, Chroma, FAISS, Vector Search]
+    data: []
+    cloud: [AWS Lambda, GCP, Azure Functions]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, Node.js, TypeScript]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11046237'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:14:56.200525'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

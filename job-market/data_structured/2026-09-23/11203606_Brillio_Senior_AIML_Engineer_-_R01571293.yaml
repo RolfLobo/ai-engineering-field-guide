@@ -1,0 +1,55 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and engineering services
+position:
+  title: Senior AI/ML Engineer - R01571293
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role centers on classical ML, deep learning,
+      forecasting, and statistical modeling with deployment on
+      GCP. GenAI/Agentic AI is listed only as general experience,
+      not a core responsibility, and no LLM shaping (prompts, RAG,
+      agent design) is described. Model behavior shaping is
+      classical ML, so ml-first.
+  responsibilities:
+  - Design and develop machine learning models using classic algorithms and deep learning
+    techniques
+  - Conduct exploratory data analysis and statistical analysis including hypothesis
+    testing, regression, and classification
+  - Implement, optimize, and deploy AI/ML models on GCP with scalability and reliability
+  - Collaborate with cross-functional teams to define data requirements and validate
+    model outputs
+  - Use Kubeflow and BentoML for model orchestration, deployment, and monitoring
+  - Perform forecasting using exponential smoothing, ARIMA, and ARIMAX
+  - Apply probabilistic graph models and advanced statistical methods
+  - Maintain data quality and model performance using Great Expectations and Evidently
+    AI
+  use_cases:
+  - Predictive modeling for complex business challenges
+  - Business planning and demand forecasting
+  - Classification and regression on large datasets
+  - Predictive accuracy and interpretability via probabilistic graph models
+  - Data quality and model performance monitoring in production
+  skills:
+    genai: [Generative AI, AI Agents]
+    ml: [Machine Learning, Deep Learning, TensorFlow, PyTorch, scikit-learn, Keras,
+      CNTK, MXNet, Model Training, ARIMA, Exponential Smoothing, Probabilistic Graph
+        Models, Hypothesis Testing, Regression, SVM, Decision Trees]
+    web: []
+    databases: []
+    data: [PySpark, Exploratory Data Analysis]
+    cloud: [GCP, Google Professional Machine Learning Engineer]
+    ops: [Kubeflow, BentoML, Model Monitoring]
+    languages: [Python, SQL, R, RStudio]
+    domains: []
+    other: [Great Expectations, Evidently AI, SAS, SPSS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11203606'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:27:02.610953'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

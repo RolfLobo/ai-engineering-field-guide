@@ -1,0 +1,59 @@
+company:
+  name: EMCOR Group Inc.
+  stage: Fortune 500, publicly traded (NYSE:EME)
+  focus: |-
+    Mechanical and electrical construction and facilities
+    services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds GenAI applications, RAG solutions, AI
+      agents, and develops prompt engineering standards,
+      evaluation approaches, and quality controls for AI outputs —
+      directly shaping model behavior and output quality with LLM
+      components.
+  responsibilities:
+  - Design, develop, test, deploy, and support AI-enabled solutions across EMCOR and
+    its Operating Companies
+  - Build generative AI applications, AI agents, workflow automation, document intelligence,
+    natural language interfaces, and RAG solutions
+  - Partner with Operating Company leaders and IT teams to identify AI use cases,
+    prototype, and support implementation
+  - Create reusable AI solution patterns, implementation guidance, and technical documentation
+  - Integrate AI capabilities with enterprise platforms, applications, APIs, and data
+    sources
+  - Develop and maintain prompt engineering standards, evaluation approaches, testing
+    routines, and quality controls for AI outputs
+  - Work with the AI Security Engineer to ensure AI solutions meet security, data
+    protection, and governance requirements
+  - Monitor implemented AI solutions for performance, quality, cost, and business
+    value
+  - Provide training and guidance to employees on responsible use of approved AI tools
+  use_cases:
+  - Document intelligence and natural language interfaces for business processes
+  - Workflow automation across enterprise operations
+  - Retrieval-augmented generation solutions over enterprise data
+  - Productivity improvements for operating companies and corporate departments
+  - Model-enabled business processes across construction and facilities services
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, RAG, AI Agents, Copilot Studio]
+    ml: [Machine Learning]
+    web: [APIs, Workflow Automation]
+    databases: []
+    data: []
+    cloud: [Azure, Microsoft 365, Power Platform]
+    ops: [GitHub, Responsible AI]
+    languages: [Python, JavaScript, TypeScript, PowerShell, SQL]
+    domains: []
+    other: [M365 Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11170448'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:23:26.800540'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

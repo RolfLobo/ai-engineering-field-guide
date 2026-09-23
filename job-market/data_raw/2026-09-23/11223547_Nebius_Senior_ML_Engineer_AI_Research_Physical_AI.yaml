@@ -1,0 +1,237 @@
+job_id: 11223547
+title: Senior ML Engineer (AI Research, Physical AI)
+company: Nebius
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - ISR
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 473 Employees
+description: |
+  About Nebius:
+
+  Nebius is leading a new era in cloud infrastructure for the
+  global AI economy. We are building a full-stack AI cloud
+  platform that supports developers and enterprises from data
+  and model training through to production deployment, without
+  the cost and complexity of building large in-house AI/ML
+  infrastructure.
+
+  Built by engineers, for engineers. From large-scale GPU
+  orchestration to inference optimization, we own the hard
+  problems across compute, storage, networking and applied AI.
+
+  Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we
+  have a global footprint with R&D hubs across Europe, the UK,
+  North America and Israel. Our team of 1,500+ includes
+  hundreds of engineers with deep expertise across hardware,
+  software and AI R&D.
+
+  The role
+
+  This role is for Nebius AI R&D, a team focused on applied
+  research in AI. Our Physical AI research aims to build
+  intelligent agents that can perceive, reason, and act in the
+  physical world. Research areas include:
+
+  - Vision-language-action models for general-purpose robotic
+    control
+  - Reinforcement and imitation learning from human
+    demonstrations, simulation, and real-world experience
+  - Scalable collection, generation, and curation of multimodal
+    embodied data
+  - Simulation, world models, and sim-to-real transfer
+  - Multimodal sensing, including vision, touch, force, and
+    proprioception
+
+  You will modify large foundation models and learning
+  algorithms for robotic agents, prototype new capabilities in
+  simulation, and validate promising approaches on real-world
+  systems. The results will often lead to collaboration with
+  adjacent research, infrastructure, and engineering teams,
+  where findings are scaled and applied in practice.
+
+  We are currently looking for senior- and staff-level ML
+  engineers to work on research in areas such as:
+
+  - Vision-language-action models and multimodal foundation
+    models for robotics
+  - Reinforcement learning, imitation learning, and learning
+    from demonstrations
+  - Scalable acquisition and generation of human, robot, and
+    simulated interaction data
+  - World models, planning, and model-based control
+  - Sim-to-real transfer, domain adaptation, and robust policy
+    evaluation
+  - Dexterous manipulation, whole-body control, and general-
+    purpose robotic agents
+
+  Some examples of what your responsibilities might include
+  are:
+
+  - Designing, implementing, training, and evaluating large
+    models and learning algorithms for robotic agents
+  - Developing vision-language-action architectures that connect
+    multimodal perception and language understanding with
+    physical control
+  - Investigating reinforcement learning and imitation learning
+    methods for sparse, delayed, or difficult-to-verify
+    objectives
+  - Building scalable methods for incorporating demonstrations,
+    teleoperation data, video, simulation trajectories, and
+    autonomous robot experience into foundation models
+  - Designing capture methodologies, datasets, evaluation
+    protocols, and data-quality pipelines for embodied
+    learning
+  - Developing simulation environments and conducting sim-to-
+    real experiments on physical robotic platforms
+  - Exploring planning, guided generation, and search over
+    action trajectories
+  - Prototyping new capabilities in areas such as dexterous
+    manipulation, mobile manipulation, and whole-body control
+  - Writing robust research software and distributed training
+    infrastructure that enable rapid experimentation
+  - Collaborating with research and engineering teams to
+    translate promising ideas into reliable real-world systems
+  - Communicating results through technical reports, open-source
+    releases, demonstrations, and research publications
+
+  We expect you to have:
+
+  - A profound understanding of the theoretical foundations of
+    machine learning, reinforcement learning, or robot
+    learning
+  - Deep expertise in at least one relevant area, such as
+    reinforcement learning, imitation learning, multimodal
+    generative modeling, computer vision, robotics, planning,
+    or control
+  - Experience training and evaluating modern deep learning
+    models, including transformer-based or multimodal
+    foundation models
+  - Substantial experience training large models across multiple
+    computational nodes
+  - Strong software engineering and algorithm-design skills; we
+    primarily use Python
+  - Deep experience with a modern deep learning framework; we
+    primarily use JAX
+  - Experience designing, executing, and analyzing machine
+    learning experiments with appropriate statistical rigor
+  - Ability to formulate meaningful research questions, design
+    experiments that test clear hypotheses, and draw
+    defensible conclusions
+  - Experience implementing research ideas and iterating quickly
+    across modeling, data, infrastructure, and evaluation
+  - Strong communication and leadership abilities, including the
+    ability to collaborate across research and engineering
+    disciplines
+  - Ability to document research findings clearly and contribute
+    to technical reports or research publications
+
+  Nice to have:
+
+  - Experience working with real-world robots and robotic
+    simulation environments
+  - Experience with dexterous manipulation, whole-arm
+    manipulation, mobile manipulation, or humanoid robotics
+  - Experience with multimodal sensing, including tactile,
+    force-torque, depth, and proprioceptive signals
+  - Experience collecting human demonstrations through
+    teleoperation, motion capture, wearable devices, or
+    observation
+  - Experience developing or post-training vision-language
+    models, vision-language-action models, or video and world
+    models
+  - Experience with deep reinforcement learning techniques such
+    as offline RL, actor-critic methods, PPO, reward modeling,
+    preference learning, or model-based RL
+  - Familiarity with robotics tools and simulators such as
+    MuJoCo, Isaac Sim, Isaac Lab, PyBullet, ROS, or equivalent
+    systems
+  - Knowledge of scalable training techniques such as FSDP or
+    ZeRO, FlashAttention, mixed-precision training,
+    quantization, and distributed checkpointing
+  - A PhD in Computer Science, Robotics, Machine Learning,
+    Artificial Intelligence, or a related technical field, or
+    equivalent practical experience
+  - A track record of impactful publications, open-source
+    contributions, or deployed robotic systems
+  - Experience engineering large distributed data-processing,
+    simulation, or model-training systems
+  - A record of building and delivering products or research
+    prototypes in a dynamic, startup-like environment
+  - Passion for moving research from controlled experiments to
+    capable, reliable real-world robotic systems
+  - Excellent command of English, with strong technical writing,
+    presentation, and communication skills
+  - Proficiency in contemporary software engineering practices,
+    including version control, testing, code review, and CI/CD
+
+
+
+  Benefits & Perks:
+
+  - Competitive compensation
+  - Career growth and learning opportunities
+  - Flexibility and ownership
+  - Collaborative and innovative culture
+  - Opportunity to work on impactful AI projects
+  - International environment and talented teams
+
+  What's it like to work at Nebius:
+
+  Fast moving - Bold thinking - Constant growth - Meaningful
+  impact - Trust and real ownership - Opportunity to shape the
+  future of AI
+
+  Equal Opportunity Statement:
+
+  Nebius is an equal opportunity employer. We are committed to
+  fostering an inclusive and diverse workplace and to
+  providing equal employment opportunities in all aspects of
+  employment. We do not discriminate on the basis of race,
+  color, religion, sex (including pregnancy), national origin,
+  ancestry, age, disability, genetic information, marital
+  status, veteran status, sexual orientation, gender identity
+  or expression, or any other characteristic protected by
+  applicable law.
+
+  Applicants must be authorized to work in the country in
+  which they apply and will be required to provide proof of
+  employment eligibility as a condition of hire.
+
+  If you need accommodations during the application process,
+  please let us know.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-17
+url: "https://builtin.com/job/senior-ml-engineer-ai-research-physical-ai/11223547"
+source: Built In

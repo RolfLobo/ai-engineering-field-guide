@@ -1,0 +1,53 @@
+company:
+  name: BJAK
+  stage: null
+  focus: |-
+    Proactive AI-native productivity apps (email, tasks,
+    calendar)
+position:
+  title: Product Engineer, AI Email App
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns LLM-based system behavior through evaluation
+      frameworks, prompting, and iteration on model output
+      quality. This directly shapes model behavior (evals, quality
+      bars, prompting), with an LLM component, so it is ai-first.
+  responsibilities:
+  - Define end-to-end requirements for AI capabilities from model behavior to user
+    experience
+  - Translate model capabilities, evaluation results, and technical constraints into
+    product and system decisions
+  - Make trade-offs across quality, latency, cost, reliability, safety, and UX
+  - Define and evolve evaluation frameworks across offline metrics, online experiments,
+    and human feedback
+  - Establish quality bars and feedback loops for AI-powered experiences
+  - Identify failure modes and ensure AI systems behave predictably and recover gracefully
+  - Own product quality end-to-end including correctness, reliability, usefulness,
+    and user trust
+  use_cases:
+  - AI-native email and productivity application
+  - Proactive life organisation with minimal prompting
+  - Long-running agentic workflows with high reliability
+  - Persistent context across conversations, errands, and tasks
+  - Reducing hallucinations in real-world task completion
+  skills:
+    genai: [LLMs, Prompt Engineering]
+    ml: [Model Evaluation, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10890717'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:05:32.181503'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Magnet Forensics
+  stage: null
+  focus: |-
+    Digital forensic investigation software for evidence
+    analysis
+position:
+  title: AI & Automation Engineer (Enterprise)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role applies off-the-shelf AI platforms (Claude,
+      Copilot, Gemini) and automation tools to business workflows;
+      it consumes AI APIs rather than shaping model behaviour via
+      prompts, RAG, or evals. The deliverable is process
+      automation and integration, not model output quality.
+  responsibilities:
+  - Identify opportunities to automate manual processes across Business Applications,
+    Data & Analytics, and IT
+  - Apply AI tools where they add meaningful value to business workflows
+  - Build automation and integration solutions on enterprise systems such as Salesforce,
+    NetSuite, Jira Service Management, and Microsoft 365
+  - Develop scripts and integrations using APIs and programming languages
+  - Analyze business processes for simplification and operational improvement
+  - Test, deploy, document, and support solutions in production
+  - Communicate with technical and non-technical stakeholders to translate business
+    needs into solutions
+  use_cases:
+  - Automation of manual business processes
+  - AI-augmented enterprise workflows
+  - Integration across business applications and IT systems
+  - Operational efficiency improvement for business teams
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [APIs, JSON]
+    ml: []
+    ops: []
+    other: [Business Process Automation, Salesforce, NetSuite, Jira Service Management,
+      Microsoft 365, YAML]
+    cloud: []
+    languages: [Python, PowerShell, JavaScript, TypeScript, C#, Bash, SQL]
+    genai: [Anthropic API, GitHub Copilot, Gemini]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11213170'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:27:15.256144'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

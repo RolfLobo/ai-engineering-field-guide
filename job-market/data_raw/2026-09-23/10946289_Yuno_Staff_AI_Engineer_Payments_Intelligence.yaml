@@ -1,0 +1,207 @@
+job_id: 10946289
+title: Staff AI Engineer, Payments Intelligence
+company: Yuno
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LTU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Prague, CZE
+  - London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 393 Employees
+description: |
+  Remote · Full Time · Individual Contributor · +8 Years of
+  Experience
+
+  Staff AI Engineer, Payments IntelligenceWho We Are
+
+  Yuno is the AI-native operating system of global commerce,
+  powering the financial infrastructure of enterprise
+  merchants, banks, and wallets. Through a single API, Yuno
+  connects them to pay-ins, payouts, fraud prevention,
+  KYC/KYB, and stablecoins globally, so they can operate
+  everywhere. Agnostic by design and connected to 1,000+
+  payment methods and 460+ integrations in 190+ countries,
+  Yuno optimizes acceptance rates, reduces costs, and
+  strengthens security through specialized AI agents that
+  learn from every transaction. Global brands including
+  McDonald's, NetEase Games, GoFundMe, and Rappi run their
+  payments on Yuno.
+
+  About The Role
+
+  Yuno is looking for a Staff AI Engineer to be the senior
+  technical leader for Payments Intelligence — the unit
+  building the AI agents and intelligence products that make
+  payments smarter across the platform. You'll architect and
+  build production AI-agent systems like AIDA and NOVA, shape
+  how Yuno applies LLMs and agentic AI to real payment
+  problems, and raise the technical bar for the engineers
+  around you.
+
+  This is a hands-on AI leadership role at the frontier.
+  You'll design agents that hold real conversations with
+  customers, recover revenue, automate operations, and surface
+  intelligence to merchants — all in a production, multi-
+  market, compliance-sensitive environment. Your impact comes
+  as much from setting the technical direction for agentic AI
+  as from the systems you build.
+
+  What This Unit Owns
+
+  - Yuno Agents (AIDA & NOVA) — AIDA, the agent that retrieves
+    payment data and answers technical questions for support
+    and operations teams; and NOVA, the agents that recover
+    revenue by turning failed payments into intelligent,
+    multilingual customer conversations across channels
+  - AI Ops & Support — AI-driven automation that streamlines
+    internal operations and customer support
+  - Client Intelligence — the AI and data products that surface
+    insight and intelligence to Yuno's merchants
+
+  How AI Shows Up in This Role
+
+  - You're not adding AI to a product — you're building the AI
+    that is the product: the agents, LLM pipelines, and
+    intelligence systems at the core of Payments Intelligence
+  - AI is our default execution layer: you're expected to use
+    AI-assisted tooling fluently in your own work, and to
+    define how the unit designs, evaluates, and ships agentic
+    systems responsibly
+
+  Your Contribution Will Be
+
+  - Agent architecture and technical leadership — own the
+    architecture of Yuno's AI agents (AIDA, NOVA) and
+    intelligence systems; set the technical direction for
+    agentic AI and raise the bar for the team
+  - Production LLM and agentic systems — design multi-step
+    agents with tool use, orchestration, memory, and
+    retrieval-augmented generation (RAG), engineered for
+    reliability and low latency at scale
+  - Conversational and multilingual experiences — build agents
+    that hold real, dynamic customer conversations across
+    channels (phone, WhatsApp) and 70+ languages, adapting to
+    context and intent
+  - Evaluation, safety, and guardrails — define how the unit
+    measures agent quality and safety, with rigorous
+    evaluation, observability, and guardrails so agents behave
+    reliably in a compliance-sensitive, multi-market
+    environment
+  - Intelligence and data products — architect the client-
+    intelligence systems that turn payment data into
+    actionable insight for merchants
+  - AI Ops automation — build the AI-driven automation that
+    streamlines internal operations and support
+  - Mentorship and cross-functional collaboration — mentor
+    engineers and partner with Product, Data Science, and
+    Staff Engineers across domains to ship complex, cross-team
+    AI work
+
+  What Success Looks Like
+
+  Within your first 6–12 months, you've led the architecture
+  of at least one core agent or intelligence capability,
+  shipped agentic systems to production with real evaluation
+  and guardrails behind them, and become the technical voice
+  Yuno trusts on how to build AI agents responsibly at scale.
+
+  Skills You NeedMinimum Qualifications
+
+  - Extensive software engineering experience, with a track
+    record building and shipping production LLM or AI-agent
+    systems
+  - Deep expertise in agentic systems — multi-step agents, tool
+    use, orchestration, memory, and retrieval-augmented
+    generation (RAG)
+  - Strong LLM application skills — prompt engineering,
+    evaluation, and guardrails for reliable, safe outputs
+  - Strong Python for AI/ML, plus solid backend engineering (Go
+    and/or Kotlin) to productionize systems at scale
+  - Model serving and LLM inference, with the cloud
+    infrastructure to run AI workloads in production (AWS or
+    similar)
+  - Evaluation and observability for AI — hands-on with tools
+    like LangFuse, LangSmith, Braintrust, or MLflow — plus
+    solid automated testing and CI/CD
+  - Proven technical leadership — mentoring engineers, driving
+    technical vision, and delivering complex, cross-team
+    projects
+  - English — advanced proficiency, written and spoken
+
+  Preferred Qualifications
+
+  - Fine-tuning, RLHF, or model customization
+  - Vector databases (Pinecone, Weaviate, or FAISS) and
+    embedding retrieval
+  - Building agent workflows with MCP servers or modern agent
+    frameworks
+  - Conversational AI and speech (speech-to-text / text-to-
+    speech) and multilingual systems
+  - Experience in the payments or fintech industry
+
+  Nice to Have
+
+  - Running multi-tenant AI platforms or GPU/resource management
+    at scale
+  - Data pipelines and orchestration (Airflow, Prefect) and
+    warehouses like Databricks, Snowflake, or BigQuery
+  - Spanish proficiency
+
+  Tech Stack
+
+  - Languages — Python (AI/ML), Go and Kotlin (platform
+    services)
+  - AI & LLMs — LLM APIs and open models, agent frameworks, MCP,
+    RAG
+  - AI evaluation & observability — LangFuse, LangSmith,
+    Braintrust, MLflow
+  - Data & retrieval — vector databases, feature stores
+  - Messaging — Apache Kafka, SQS
+  - Databases — PostgreSQL, Redis
+  - Infrastructure — AWS, Kubernetes, Docker, Terraform
+  - Observability — Datadog, OpenTelemetry
+  - CI/CD — GitHub Actions, ArgoCD
+  - Version Control — Git / GitHub
+
+  What We Offer at Yuno
+
+  - Competitive Compensation
+  - Remote Work — you can work from everywhere
+  - Home Office Bonus — a one-time allowance to set up your
+    ideal home office
+  - Work Equipment
+  - Stock Options
+  - Health Plan wherever you are
+  - Flexible Days Off
+  - Language, Professional, and Personal Growth courses
+posted_date: 2026-09-01
+url: "https://builtin.com/job/staff-ai-engineer-payments-intelligence/10946289"
+source: Built In

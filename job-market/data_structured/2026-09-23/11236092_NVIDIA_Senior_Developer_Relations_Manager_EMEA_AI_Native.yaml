@@ -1,0 +1,56 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: AI and accelerated computing hardware and software platforms
+position:
+  title: Senior Developer Relations Manager, EMEA AI Natives UK&I
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a developer relations role focused on advocacy,
+      partner enablement, and adoption of NVIDIA's platforms. The
+      person advises and guides external developers but does not
+      themselves shape model behaviour through prompts, retrieval,
+      agent design, or training. AI work is referenced only as
+      technology they promote, so the role is ai-support.
+  responsibilities:
+  - Serve as trusted technical advisor and champion for the EMEA AI Natives developer
+    ecosystem
+  - Demonstrate solutions integrating the NVIDIA stack into developer products, platforms,
+    and pipelines
+  - Advise on technical enablement resources such as sample code, guides, demo pipelines,
+    and tools
+  - Guide partners and startups through onboarding and integration with NVIDIA programs
+  - Map and monitor the developer ecosystem to identify growth opportunities and inform
+    roadmaps
+  - Collaborate cross-functionally with solution architects, engineering, product
+    management, and marketing
+  - Engage partner engineering teams and decision-makers to solve technical challenges
+    and promote best practices
+  - Advocate partner feedback to internal product and engineering teams to influence
+    roadmaps
+  use_cases:
+  - Developer ecosystem adoption of AI and GPU computing platforms
+  - Partner and startup onboarding onto NVIDIA programs
+  - Generative and agentic AI solutions in vertical domains
+  - Real-time processing and low-latency decision-making systems
+  skills:
+    genai: [Generative AI, AI Agents]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud]
+    ops: []
+    languages: []
+    domains: []
+    other: [High-Performance Computing, GPU Acceleration]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11236092'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:30:04.464836'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

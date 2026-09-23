@@ -1,0 +1,47 @@
+company:
+  name: Telnyx
+  stage: null
+  focus: Global connectivity and programmable telecom APIs
+position:
+  title: Senior Software Engineer, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agent primitives and reliable
+      interfaces/workflows for agent tool use and
+      orchestration—directly shaping agent behavior. LLM/agent
+      components are central, so ai-first.
+  responsibilities:
+  - Design, build, and operate production services for AI agents
+  - Develop reusable primitives for meetings, browsing, search, email, and payments
+  - Define reliable interfaces and workflows for agent tool use
+  - Work with product and engineering teams to turn agent use cases into practical
+    services
+  - Improve safety, observability, testing, and operational reliability
+  - Help shape the architecture of the agent enablement platform
+  use_cases:
+  - Agent participation in meetings
+  - Agent web browsing and search
+  - Agent email communication
+  - Agent-initiated payments and purchases
+  - Agent task completion on behalf of users
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10968567'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:09:46.119163'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

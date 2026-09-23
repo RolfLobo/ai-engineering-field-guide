@@ -1,0 +1,51 @@
+company:
+  name: Morningstar
+  stage: null
+  focus: Credit ratings, research, and risk insights
+position:
+  title: Senior Software Engineer, AI Enablement & Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs AI agents, MCP servers, tool use, retrieval
+      architectures, orchestration frameworks, and model
+      evaluation - directly shaping LLM/agent behavior, so ai-
+      first. No classical ML training is involved.
+  responsibilities:
+  - Design and build production AI applications using AWS Bedrock with focus on reliability,
+    security, and maintainability
+  - Develop AI agents, MCP servers, APIs, and shared platform capabilities enabling
+    other teams to deploy AI solutions
+  - Partner with business and technology teams to identify workflows where AI can
+    deliver measurable improvements
+  - Evaluate and implement tool use, retrieval-based architectures, orchestration
+    frameworks, and model evaluation techniques
+  - Modernize existing Python applications and integrate AI capabilities into existing
+    products and workflows
+  - Contribute to technical decisions, engineering standards, and delivery planning
+    while mentoring less experienced engineers
+  use_cases:
+  - AI-powered research and analysis for credit ratings
+  - Automating operational workflows across the business
+  - Shared AI platform services enabling internal teams to deploy AI capabilities
+  - Reducing manual effort in complex business workflows
+  - Integrating AI into existing internal products and workflows
+  skills:
+    genai: [AI Agents, MCP, Function Calling, RAG, Agentic Workflows]
+    ml: [Model Evaluation]
+    web: [APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10851538'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:02:27.396139'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

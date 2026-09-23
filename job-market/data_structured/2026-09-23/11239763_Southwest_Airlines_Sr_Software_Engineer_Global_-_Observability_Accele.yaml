@@ -1,0 +1,53 @@
+company:
+  name: Southwest Airlines
+  stage: null
+  focus: Airline providing passenger air travel
+position:
+  title: Sr Software Engineer Global - Observability Accelerators & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds observability tooling and AWS cloud
+      services; AI appears as "AI-enabled workflows" integrated to
+      improve productivity, with no prompt engineering, retrieval
+      design, or model shaping owned by this engineer. Anomaly
+      detection and machine learning are only preferred
+      qualifications.
+  responsibilities:
+  - Design, develop, test, and maintain production-grade software and AWS-native solutions
+  - Drive technical direction and feature roadmap of large-scale cloud systems
+  - Serve as technical lead directing development teams including internal and external
+    members
+  - Build OpenTelemetry onboarding, dashboard generation, and migration tooling for
+    observability
+  - Integrate AI-enabled workflows to improve developer productivity and operational
+    efficiency
+  - Build reliable CI/CD pipelines and Infrastructure as Code
+  - Apply fundamentals across logs, metrics, traces, alerting, and monitoring tooling
+  - Mentor Software Engineers and support skill development
+  use_cases:
+  - Telemetry onboarding, visualization, and alerting
+  - AI-agent observability
+  - Anomaly detection for development and operations teams
+  - AI-assisted investigation and root-cause analysis
+  - Dashboard generation and migration tooling
+  skills:
+    genai: []
+    ml: [Anomaly Detection, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Lambda, AWS, API Gateway]
+    ops: [CI/CD, Terraform, CloudFormation, Infrastructure as Code, Grafana, CloudWatch,
+      Prometheus, OpenTelemetry, Monitoring, Observability, SRE]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11239763'
+  location: Choudwar, IND
+  extracted_at: '2026-09-23T11:30:18.405968'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

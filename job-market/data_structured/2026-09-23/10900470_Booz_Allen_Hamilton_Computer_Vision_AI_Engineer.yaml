@@ -1,0 +1,52 @@
+company:
+  name: Booz Allen Hamilton
+  stage: null
+  focus: |-
+    Management and technology consulting for US government and
+    defense
+position:
+  title: Computer Vision AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role trains, tests, deploys, and maintains deep learning
+      computer vision models (transformer-based CV, sensor fusion,
+      GPU optimization), which is shaping model behavior. No LLM
+      or agent component is present, so it is ml-first.
+  responsibilities:
+  - Train, test, deploy, and maintain computer vision ML models
+  - Develop deep learning computer vision solutions using transformer-based models
+    such as DINO, CLIP, or SAM
+  - Implement sensor fusion and target tracking capabilities
+  - Optimize computer vision application performance with GPU programming
+  - Contribute to architecture and implementation of embedded systems
+  - Collaborate with multidisciplinary teams to design, test, and develop technical
+    solutions in Rust, Python, or C++
+  - Deliver production-grade AI-enabled operational capability for mission-critical
+    problems
+  use_cases:
+  - Computer vision for mission-critical national security applications
+  - Missile defense and fire control systems
+  - In-space solutions
+  - Target tracking from fused sensor data
+  - AI-enabled operational capability for defense and intelligence customers
+  skills:
+    genai: []
+    ml: [Deep Learning, Transformers, Neural Networks, Machine Learning, Sensor Fusion,
+      Target Tracking, CUDA, RAPIDS]
+    web: [Microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, Embedded Systems]
+    languages: [Rust, Python, C++]
+    domains: [Computer Vision]
+    other: [Data Science]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10900470'
+  location: El Segundo, USA
+  extracted_at: '2026-09-23T11:05:43.958659'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

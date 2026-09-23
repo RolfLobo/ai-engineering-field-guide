@@ -1,0 +1,125 @@
+job_id: 11238895
+title: AI Engineer
+company: Cadence (cadence.care)
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Cadence is the clinical AI company automating the treatment
+  of chronic disease. Its Clinical Intelligence takes on the
+  routine, high-volume work of chronic care – monitoring
+  patients, surfacing risks, and coordinating action – so
+  clinicians can focus on the decisions that require them.
+  Grounded in partnerships with more than 20 leading health
+  systems, deep EMR integrations, dedicated medical group, and
+  experience serving a population of more than 100,000
+  patients, the system learns from real-world care delivery,
+  improving as it scales. Cadence has been recognized by TIME
+  as one of the Top 100 HealthTech Companies and by LinkedIn
+  as a Top Startup (#4, 2025).
+
+  The Role
+
+  We're hiring an AI Engineer to design and ship production
+  agents that synthesize real-time clinical data, surface
+  proactive care recommendations, and take action on behalf of
+  clinicians.
+
+  You will take agent architectures from prototype to
+  production in a domain where reliability directly affects
+  patient outcomes. You'll own the full lifecycle of AI-
+  powered clinical workflows: retrieval, reasoning, tool use,
+  evaluation, and safety guardrails. If you've built agentic
+  systems at scale and want your work to matter beyond
+  engagement metrics, we’d love to speak with you.
+
+  What You'll Do
+
+  - Design, build, and deploy clinical AI agents that reason
+    over patient context, invoke tools, and generate care
+    recommendations.
+  - Own reliability, observability, and cost efficiency of LLM-
+    powered workflows at scale.
+  - Build and optimize RAG pipelines over clinical knowledge
+    bases, treatment protocols, and real-time patient data.
+  - Develop evaluation frameworks: offline benchmarks, safety
+    tests, regression suites, and LLM-as-judge pipelines wired
+    into CI/CD.
+  - Design multi-step agent orchestration: planning, memory,
+    tool use, error recovery, and human-in-the-loop escalation
+    paths.
+  - Collaborate with clinical, product, and engineering teams to
+    translate patient care needs into AI system design.
+  - Stay at the forefront of AI and engineering best practices,
+    continuously pushing the team to raise the bar on quality,
+    performance, and architecture.
+
+  What You Need
+
+  - Bachelor's or Master’s degree in Computer Science,
+    Engineering or related field, or equivalent work
+    experience
+  - 2+ years building AI/ML-powered systems in production
+  - Experience in a high-growth, fast-paced environment with
+    end-to-end ownership from design through production
+  - Hands-on experience with LLM APIs (OpenAI, Anthropic, open-
+    source models) including prompt engineering, tool use /
+    function calling, and structured outputs
+  - Experience building RAG systems: embeddings, vector stores,
+    retrieval optimization, and grounding
+  - Experience with agent frameworks or orchestration patterns
+    (tool calling, planners, multi-agent coordination)
+    preferred
+  - Fine-tuning experience (SFT, RLHF, LoRA) on domain-specific
+    tasks preferred
+  - Healthcare or regulated-industry experience (HIPAA, SOC 2,
+    clinical data handling) preferred
+
+  Compensation
+
+  Our job titles may span more than one career level. The base
+  salary for this role typically ranges between $150,000 –
+  $250,000 annual base salary, depending on experience,
+  skills, seniority, and business needs. In addition to base
+  salary, this role is eligible for equity as part of the
+  total compensation package. Actual compensation may vary by
+  location.
+
+  Benefits & Perks
+
+  - Competitive pay & equity*
+  - Fully remote
+  - Comprehensive health coverage: Medical, dental & vision
+  - Paid time off
+  - 401k plan + matching
+  - Paid parental leave
+  - Home office stipend
+
+  *benefit offerings may vary depending on job profile, job
+  level and worker type  Cadence is committed to equal
+  opportunity and fairness regardless of race, color,
+  religion, sex, gender identity, sexual orientation, nation
+  of origin, ancestry, age, physical or mental disability,
+  country of citizenship, medical condition, marital or
+  domestic partner status, family status, family care status,
+  military or veteran status or any other basis protected by
+  local, state or federal laws.
+
+  A notice to Cadence applicants: Our Talent team only directs
+  candidates to apply through our official careers page at
+  https://www.cadence.care/our-team.  Cadence will never refer
+  you to external websites, ask for payment or personal
+  information, or conduct interviews via messaging apps. We
+  receive all applications through our website and anyone
+  suggesting otherwise is not with Cadence. If you require a
+  reasonable accommodation during the interview or hiring
+  process, please notify your recruiter.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Machine Learning
+  - Software
+  - Telehealth
+posted_date: 2026-09-17
+url: "https://www.builtinla.com/job/ai-engineer/11238895"
+source: Built In

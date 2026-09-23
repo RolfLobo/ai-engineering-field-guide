@@ -1,0 +1,227 @@
+job_id: 11116813
+title: "Founding Engineer, AI & ML Systems"
+company: FilmoreAI
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  What We’re Building
+
+  FilmoreAI is the intelligence layer for the construction
+  equipment industry — a multi-hundred-billion-dollar economy
+  where dealers manage every stage of the machine lifecycle
+  (acquisition, financing, utilization, service, trade-in,
+  disposition) on data that lives in a dozen disconnected
+  systems and a thousand reps' heads.
+
+  We're building the data and AI system that fixes that. We’re
+  building equipment domain specific reasoning using a
+  propietary ontology that connects ERP work orders, CRM
+  opportunities, OEM telematics, UCC filings, auction results,
+  and DMS transactions into a single canonical model of every
+  machine, every customer, every dealer interaction across the
+  lifecycle. Aftermarket, where dealers earn the majority of
+  their profit on tribal knowledge is where the data is
+  messiest and the leverage is highest, so it's where we lead.
+
+  The data system is the product. We parse public information
+  across all 50 states including UCC liens, construction
+  projects, contractors, and early land development. We
+  normalize telematics across OEM standards. We resolve
+  entities across systems that have never spoken to each
+  other.
+
+  What You’ll Work On
+
+  • Agent infrastructure. Design and ship the agent runtime.
+  Wire agent templates to live data through the canonical
+  schema and the internal MCP tool registry. Build workflows
+  in LangGraph with typed I/O, structured outputs, retries,
+  and observability versioned and tested like backend
+  services, not prompt notebooks. Implement the staged trust
+  ladder for write-back — read-only → human-approved → scoped
+  autonomous with every action logged in the Postgres action
+  ledger alongside the reasoning trace and a rollback path.
+
+  • Model layer & routing. Own the in-house Model Router
+  across Claude, GPT, Gemini, and OSS. Make the live calls on
+  when Opus is worth the cost, when Haiku is enough, when
+  Gemini’s long context is the unlock, and when an OSS model
+  is the right call. Prompt caching, failover, provider-
+  concentration risk, eval-gated rollouts the model layer is a
+  production system and you operate it like one.
+
+  • LLM-powered extraction & reasoning. Build extraction and
+  reasoning workflows over filings, work orders, spec sheets,
+  and other semi-structured or unstructured documents using
+  vision and long-context models. Design typed schemas with
+  Pydantic, iterate on prompts as document formats change, and
+  keep the cost / latency / accuracy tradeoff explicit
+  including when an LLM is the wrong tool and a parser or
+  regex is. Build the golden sets and evals that let you ship
+  changes with confidence.
+
+  • Canonical data model. Migrate and extend the canonical
+  schema. Entity resolution across dealer systems, telematics,
+  public records, transaction histories, and third-party data
+  is a primary, ongoing problem here and the schema is the
+  compounding moat for every agent we build on top. Maintain
+  the OLTP plane in Azure Database for PostgreSQL (with
+  pgvector) cleanly separated from the OLAP plane in Synapse;
+  know which workloads belong where and why.
+
+  • Data pipelines & cloud orchestration. Build and maintain
+  Python ingestion across public, third-party, and partner
+  sources — government registries, filing systems, geospatial
+  APIs, permit and contract systems. Handle the real-world
+  failure modes: rate limits, schema drift, auth flows, JS-
+  rendered sites with Playwright. Operate the stack on Azure —
+  Container Apps, Blob Storage, Container Apps Jobs, Temporal
+  Cloud for long-running jobs, approval queues, and human-in-
+  the-loop write-back paths.
+
+  The Stack
+
+  Data & Pipelines - Python, Playwright, public APIs; Airbyte
+  + custom Python connectors; Databricks, MSFT Fabric, Cloud
+  SQL Postgres with pgvector
+
+  Reasoning & Agents - Model Router across Claude, GPT,
+  Gemini; LangGraph/LangChain for agent workflows; internal
+  MCP tool registry; Postgres action ledger
+
+  Cloud & Backend - MSFT Azure, Temporal Cloud (orchestration
+  + human-in-the-loop), Python + FastAPI, Terraform, GitHub
+  Actions, Secret Manager
+
+  Delivery & Observability - Twilio (SMS), native CRM APIs,
+  Datadog, LangSmith
+
+  What We’re Looking For
+
+  • LLM APIs in production (3+ yrs). You’ve shipped real
+  systems with Anthropic, OpenAI, or Gemini designed
+  extraction schemas, built agentic workflows, written evals,
+  reasoned about cost/latency/accuracy at scale. You can tell
+  a war story about a model regression you caught before the
+  customer did.
+
+  • Modern agent stack. LangGraph (or equivalent typed agent
+  framework), Pydantic AI, MCP, pgvector, golden-set evals,
+  prompt caching. We don’t expect all of these we expect you
+  to learn the ones you don’t and have opinions about the ones
+  you have.
+
+  • Strong Python (5+ yrs). Production-grade service and
+  pipeline code other engineers can read, extend, and trust
+  six months later. Async, typing, packaging the boring parts
+  done right.
+
+  • SQL & Postgres (5+ yrs). Schema design, migrations, query
+  optimization, materialized views, index strategy. You read
+  EXPLAIN plans without flinching. Bonus: dbt and a modern
+  warehouse (Synapse, Snowflake, Databricks).
+
+  • Cloud deployment (5+ yrs). Azure preferred (Container
+  Apps, Blob Storage, Azure Database for PostgreSQL, Synapse
+  Analytics); GCP or AWS translate. You’ve shipped to
+  production, not just dev.
+
+  • Messy real-world data. Inconsistent schemas, pagination
+  edge cases, auth flows, dynamic JS-rendered pages, document
+  parsing. You’ve debugged a scraper at 2am because a vendor
+  changed their HTML.
+
+  • Modern data + agent stack familiarity. Temporal,
+  LangChain, LangGraph, Pydantic AI, pgvector, MCP. We don’t
+  expect all of these — we expect you to learn the ones you
+  don’t.
+
+  • Strong plus: public/government/third-party data sources,
+  enrichment pipelines with fallback logic, document
+  extraction at scale.
+
+  • You operate without supervision. We hand you a problem,
+  not a ticket. You scope it, ship it, and tell us when we got
+  the problem statement wrong.
+
+  • You navigate ambiguity. The spec changes mid-week, the
+  data is weird, and the customer feedback contradicts the
+  design doc. You know when that's healthy startup velocity
+  and when it's a signal something's broken.
+
+  • You ship the smallest thing that proves the bet. Manual
+  version first. Build the API only when it earns its place.
+  Walk away from problems that don't move the dealer's P&L.
+
+  • You're calibrated and bias toward action. When you don't
+  know, you say so. When the data is wrong, you flag it. When
+  an LLM output is suspect, you don't ship without guardrails.
+  Then you keep moving.
+
+  • You care about why this exists. Dealers run their
+  businesses on tribal knowledge and relationships. We're
+  building the platform layer to help them modernize without
+  implementing. If that mission doesn't pull you forward, the
+  rest of this won't.
+
+  AI-Native
+
+  • You drive agentic IDEs as your primary loop. Claude Code,
+  Cursor, or equivalent — not autocomplete, full agent
+  sessions. You give the agent a problem, the right context,
+  and the constraints, then review its work like a tech lead
+  reviewing a strong junior. You know when to let it run and
+  when to take the keyboard back.
+
+  • You run agents in parallel. Multiple worktrees, multiple
+  sessions, multiple branches in flight — one agent migrating
+  a schema, another writing tests, another drafting docs.
+  You've adapted your planning, review, and merge discipline
+  to a world where throughput isn't bounded by what one human
+  can type.
+
+  • You design context, not prompts. You know an agent with
+  the right files, schema, examples, and acceptance criteria
+  does excellent work, and one with a clever prompt and no
+  context does not. You write CLAUDE.md / agent specs /
+  project rules the way you'd write a runbook — because you'll
+  run them a hundred times.
+
+  • You orchestrate agents like services. Typed I/O,
+  structured outputs, retries, tool registries (MCP), golden-
+  set evals, end-to-end observability. LangGraph workflows are
+  version-controlled, tested, and instrumented like backend
+  services. Not prompt engineering. Software.
+
+  • You reason about the model layer in production. When Opus
+  is worth the cost, when Haiku is enough, when Gemini's long
+  context is the unlock, when an OSS model is the right call.
+  Routing, failover, prompt caching, provider concentration
+  risk — tradeoffs you've made for real, not in theory.
+
+  Compensation | To Apply
+
+  • Small team, direct founder access, decisions get made
+  fast. Async-first — clear PR descriptions and run summaries,
+  no standup theater. Every line of code accumulates
+  proprietary data or makes the reasoning layer smarter;
+  you’re expected to apply that filter too.
+
+  • Competitive pay + equity as early employee. Open to
+  contracting and scope / hours if preferred.
+
+  To apply: email hello@filmore.ai with  (1) one or two data
+  systems you've built — what you were solving, what made it
+  hard, how you handled it (2) how you've used LLMs in
+  production with real data or real users — not demos (3) the
+  messiest data source you've worked with and what it taught
+  you
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-09-20
+url: "https://www.builtinla.com/job/founding-engineer-ai-ml-systems/11116813"
+source: Built In

@@ -1,0 +1,54 @@
+company:
+  name: WonderBotz
+  stage: null
+  focus: Enterprise automation and AI consulting solutions
+position:
+  title: Junior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing RAG pipelines, agentic
+      workflows, prompts, and multi-step agents with
+      LangChain/LangGraph, directly shaping LLM behaviour. LLM
+      components are central, so it is ai-first.
+  responsibilities:
+  - Design and develop LLM-powered applications including RAG pipelines, agentic workflows,
+    and multi-step agents using LangChain and LangGraph
+  - Build and maintain retrieval components using vector databases and semantic search
+    to ground LLM responses in enterprise data
+  - Apply prompt engineering techniques to improve accuracy and reliability of LLM
+    solutions using hosted and self-hosted models
+  - Integrate GenAI components with enterprise systems via REST APIs, webhooks, and
+    cloud services
+  - Contribute to modernizing RPA/automation assets with AI-driven decisioning features
+  - Document AI solution deliverables including design documents, test reports, and
+    deployment notes
+  - Support CI/CD and monitoring practices for AI applications
+  - Flag risks related to model performance, data quality, and security to senior
+    engineers
+  use_cases:
+  - Automating business processes with Generative AI
+  - Augmenting enterprise workflows with agentic AI
+  - Grounding LLM responses in enterprise data via RAG and semantic search
+  - Adding AI-driven decisioning to existing RPA automation assets
+  - Integrating GenAI components with enterprise systems and cloud services
+  skills:
+    genai: [LLMs, Generative AI, Agentic Workflows, AI Agents, LangChain, LangGraph,
+      RAG, Prompt Engineering, OpenAI API, Semantic Search, Embeddings]
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: [Vector Databases, Chroma]
+    data: []
+    cloud: [AWS, AWS Lambda, Azure]
+    ops: [CI/CD, Git, GitHub Actions, Jenkins, Splunk]
+    languages: [Python, C#, JavaScript, SQL]
+    domains: []
+    other: [Blue Prism, UiPath, Automation Anywhere, Agile, ITIL]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11249067'
+  location: Ahmedabad, IND
+  extracted_at: '2026-09-23T11:31:56.982471'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

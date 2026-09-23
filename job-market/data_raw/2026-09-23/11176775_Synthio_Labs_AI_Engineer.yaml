@@ -1,0 +1,102 @@
+job_id: 11176775
+title: AI Engineer
+company: Synthio Labs
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 29 Employees
+description: |
+  We’re building the next generation of conversational voice
+  and video AI for life sciences—intelligent with 100%
+  regulatory compliance. Our AI medical experts help pharma
+  teams engage doctors, support patients, and unlock insights
+  faster than ever before. We’ve just raised our seed, signed
+  our first customers, and are scaling fast. If you're excited
+  about building real-world AI in an early stage startup and
+  shape not just our product, but our identity and culture
+  —this is your moment.
+
+  We move like owners. Everyone at SynthioLabs has the
+  autonomy and the responsibility to drive projects, challenge
+  decisions, and push things forward. We don’t wait for
+  permission. If you see a gap, you fill it. If you see a
+  better way, you try it.
+
+  We ask “why” until we get to the root. We explore new ideas,
+  research papers, every single edge case and anything that
+  sharpens our understanding.
+
+  We use AI like a second brain. From writing code to writing
+  docs, debugging flows to exploring new ideas, AI is part of
+  our daily rhythm. Everyone here gets hands-on with the
+  tools, learns how to prompt better, and treats AI as a
+  teammate.
+
+  About the Role
+
+  Synthio is looking for exceptional AI Engineers who can
+  build deeply technical systems and communicate clearly about
+  what they are building. You will work across our AI stack,
+  from LLM orchestration and retrieval to agents, evaluations,
+  voice systems, APIs, and production infrastructure, owning
+  problems from exploration through deployment and iteration.
+
+  What You’ll Do
+
+  - Build production AI systems using frontier models,
+    retrieval, tool use, agents, and structured workflows.
+  - Design and productionize LLM pipelines, including prompting,
+    context engineering, retrieval, orchestration, and
+    evaluations.
+  - Build backend services, APIs, data flows, and integrations
+    that power AI products.
+  - Work on real-time voice and multimodal AI systems.
+  - Design evaluation suites that identify failures,
+    regressions, and opportunities to improve model behavior.
+  - Experiment with new models and techniques and determine what
+    is useful in production.
+  - Debug problems across models, application code, data, and
+    infrastructure.
+  - Communicate technical decisions, tradeoffs, results, and
+    failures clearly
+
+  What We’re Looking For
+
+  - 3+ years of strong software or AI engineering experience.
+  - Excellent Python and software engineering fundamentals.
+  - Experience shipping LLM-powered or machine-learning systems
+    into production.
+  - Strong understanding of retrieval, embeddings, tool calling,
+    agents, and evaluations.
+  - Ability to reason about latency, reliability, observability,
+    cost, and failure modes.
+  - Exceptional written and verbal communication.
+  - Ability to take an ambiguous problem, structure it clearly,
+    and drive it to completion.
+  - High agency and a bias toward building and shipping.
+
+  Strong Plus
+
+  - Experience with speech, voice AI, or real-time systems.
+  - Experience with AWS and production cloud infrastructure.
+  - Experience building developer platforms or reusable AI
+    infrastructure.
+  - Experience working directly with enterprise customers or in
+    regulated industries
+
+  Why This Role Matters
+
+  At Synthio, we build software that directly supports
+  patients, physicians, and pharma teams. This is production
+  software, not prototypes or demos. The systems you build
+  will be used in real workflows, under real constraints, and
+  at real scale. You’ll have meaningful ownership and a clear
+  line of sight from your code to real-world impact.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Software
+  - Conversational AI
+posted_date: 2026-09-15
+url: "https://builtin.com/job/ai-engineer/11176775"
+source: Built In

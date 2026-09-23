@@ -1,0 +1,50 @@
+company:
+  name: Sutherland
+  stage: null
+  focus: |-
+    Digital transformation and AI/automation services for
+    enterprises
+position:
+  title: Agentic & Generative AI developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI workflows with
+      LangChain/LangGraph/Google ADK, builds RAG pipelines and
+      agent applications, and does prompt engineering and model
+      orchestration — directly shaping LLM/agent behavior.
+  responsibilities:
+  - Develop, test, and maintain Agentic AI workflows using LangChain, LangGraph, and
+    Google ADK
+  - Convert AI architecture into working prototypes and deployable components
+  - Build and enhance RAG pipelines, agent-based applications, and knowledge retrieval
+    systems
+  - Perform data preprocessing, feature engineering, and model optimization
+  - Build reusable GenAI modules and enforce coding best practices
+  - Manage cloud-based deployments on AWS, Azure, or GCP
+  - Debug and resolve system bottlenecks ensuring performance and reliability
+  use_cases:
+  - Enterprise agentic AI applications
+  - Knowledge retrieval systems
+  - RAG-based information access
+  - Reusable GenAI modules for enterprise solutions
+  skills:
+    genai: [LangChain, LangGraph, Google ADK, RAG, AI Agents, Generative AI, LLMs,
+      Prompt Engineering, MCP, Fine-Tuning]
+    ml: [Transformers, Machine Learning, Feature Engineering]
+    web: [APIs]
+    databases: [Vector Databases, SQL, NoSQL, Data Warehousing]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11250626'
+  location: Chennai, IND
+  extracted_at: '2026-09-23T11:32:18.705177'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

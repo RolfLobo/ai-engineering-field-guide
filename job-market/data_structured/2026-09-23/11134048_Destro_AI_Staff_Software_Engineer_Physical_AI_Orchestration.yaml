@@ -1,0 +1,56 @@
+company:
+  name: Destro AI
+  stage: Seed
+  focus: |-
+    Centralized intelligence layer for robotics fleet
+    orchestration
+position:
+  title: Staff Software Engineer, Physical AI Orchestration
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a platform/infrastructure engineering role
+      consolidating services, release engineering, CI/CD, and
+      observability for a robotics orchestration platform. There
+      is no shaping of model behavior (no prompting, RAG,
+      training, or evals) — the AI components are built by others.
+      It is ai-support per Step 3.
+  responsibilities:
+  - Consolidate independently built services into a single coherent, production-grade
+    platform with clear service boundaries and shared data contracts
+  - Own the technical roadmap from current to target architecture incrementally without
+    downtime across multi-site, multi-tenant fleets
+  - Establish version control, release, and deployment discipline including OTA update
+    delivery across cloud and edge
+  - Stand up CI, automated testing including simulation and hardware-in-the-loop validation
+  - Build logging, metrics, tracing, and alerting plus on-call and incident response
+    practices for the deployed fleet
+  - Harden integrations with customer WMS, WES, and ERP systems with retries, idempotency,
+    and graceful degradation
+  - Define engineering best practices and mentor engineers, growing into leading the
+    software team
+  use_cases:
+  - Robot fleet orchestration across multiple customer sites
+  - Over-the-air software updates and device management for robots and edge compute
+  - Telemetry and observability for deployed robot fleets
+  - Integration with enterprise warehouse systems (WMS, WES, ERP)
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud]
+    ops: [Distributed Systems, Git, CI/CD, Linux, Infrastructure as Code]
+    languages: [Python, C++, Go, Rust]
+    domains: []
+    other: [ROS/ROS2, Fleet Management, OTA Update Systems, Edge Deployments, WMS/WES
+        Integration, Robotics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11134048'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:20:15.350102'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

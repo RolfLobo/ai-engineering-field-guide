@@ -1,0 +1,52 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: Data, AI, and cloud consulting services
+position:
+  title: Sr. Engineer I - Data Engg & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a data analytics engineer building Snowflake
+      data models, SQL transformations, and BI dashboards. There
+      is no AI model work at all beyond the company's general AI
+      branding; the person does not shape any model behavior or
+      output quality.
+  responsibilities:
+  - Design, develop, and maintain curated Silver and Gold layer data models in Snowflake
+  - Develop complex SQL queries for data transformation, validation, aggregation,
+    and performance optimization
+  - Build interactive dashboards and reports using Sigma Computing and other BI tools
+  - Translate business requirements into scalable analytics solutions and reusable
+    data models
+  - Collaborate with business stakeholders to understand reporting needs and deliver
+    actionable insights
+  - Validate data quality, troubleshoot discrepancies, and ensure accuracy across
+    reporting solutions
+  - Document data models, business logic, and reporting processes
+  - Identify opportunities to improve data quality, reporting automation, and analytics
+    capabilities
+  use_cases:
+  - Enterprise data platform modernization
+  - Curated Silver and Gold layer analytics data models
+  - Interactive dashboards and enterprise reporting
+  - Data quality validation and troubleshooting for reporting
+  skills:
+    databases: [Snowflake, Data Warehousing]
+    domains: []
+    data: [Data Modeling, Data Pipelines]
+    web: []
+    ml: []
+    ops: []
+    other: [Sigma Computing, Power BI, Tableau, Business Intelligence]
+    cloud: [Azure, AWS, GCP]
+    languages: [SQL]
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10845750'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:02:06.922251'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

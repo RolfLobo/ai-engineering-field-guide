@@ -1,0 +1,119 @@
+job_id: 10994987
+title: AI Engineer / AI Software Engineer-Task Creator (RL Environments) (Contract)
+company: Careerflow.ai
+location: IND
+remote: true
+work_type: CONTRACTOR
+company_size: 6000 Employees
+description: |
+  Careerflow Human Data Labs partners with AI companies to
+  bring real-world professional expertise into their products.
+
+  About the work
+
+  We build hard, realistic tasks used to test how well AI
+  agents do real work on a computer. Each task is a small
+  scenario running on a Linux desktop — real files, real
+  applications, real documents — plus a program that
+  automatically checks whatever the agent produced.
+
+  You create those tasks end to end. The bar: hard for a top
+  AI agent, straightforward for a competent human.
+
+  Responsibilities
+
+  · Design a realistic multi-step scenario across a few
+  applications.
+
+  · Put together the files it needs — spreadsheets, documents,
+  emails, data. Sometimes supplied to you, sometimes built by
+  you.
+
+  · Write the instruction the AI agent receives: clear,
+  complete, no giveaways.
+
+  · Write Python to set up the environment and to score the
+  result automatically.
+
+  · Test it, run it, and hand over short documentation.
+
+  What we are looking for
+
+  · Python — comfortable writing and debugging real scripts.
+
+  · Heavy AI user — you work with AI coding tools and models
+  every day and get genuinely good output from them.
+
+  · Some AI / ML background — worked on AI projects, at an AI
+  company, or with agents and evaluations.
+
+  · Ubuntu and virtual machines — basic comfort. Everything
+  runs on hosted Linux VMs, so you should be fine on a
+  terminal and inside a Linux desktop.
+
+  · Careful and detailed — an unclear instruction or a sloppy
+  check breaks the task.
+
+  · Git basics.
+
+  A strong plus
+
+  · You have built RL environments before — anything where an
+  agent acts and a program scores the outcome.
+
+  · You have built tasks or benchmarks for computer-use agents
+  (agents that control a real desktop, browser, or operating
+  system).
+
+  · You know OSWorld or similar computer-use benchmarks. Not
+  required, but it means you will be productive on day one.
+
+  Payment and availability
+
+  · $50 USD per task, paid once the task is accepted and
+  approved in review.
+
+  · One free revision round if a task needs fixes.
+
+  · No cap on how many tasks you deliver — throughput is up to
+  you.
+
+  · Must be available to start the next day and stay through
+  the 3–4 week window.
+
+  · Flexible hours, fully async. We ask for a daily check-in
+  and feedback turnaround within about a day.
+
+  Process
+
+  Short application → the screening questions below → a quick
+  call → one paid pilot task ($50 on acceptance) → onboard.
+  Decisions within 48 hours.
+
+  Engagement
+
+  Short-term contract, 3 to 4 weeks
+
+  Start
+
+  Immediately — the day after selection
+
+  Location
+
+  Fully remote, India Only
+
+  Hours
+
+  Flexible — we measure delivered tasks, not hours
+
+  Pay
+
+  $50 USD per accepted and approved task
+industries:
+  - Artificial Intelligence
+  - HR Tech
+  - Software
+  - Generative AI
+posted_date: 2026-09-06
+url: "https://builtin.com/job/ai-engineer-ai-software-engineer-task-creator-rl-environments-contract/10994987"
+source: Built In

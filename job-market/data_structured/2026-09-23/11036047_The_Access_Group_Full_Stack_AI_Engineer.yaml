@@ -1,0 +1,49 @@
+company:
+  name: The Access Group
+  stage: null
+  focus: UK business management software for SMBs
+position:
+  title: Full Stack AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack engineer that uses AI coding tools
+      to ship software faster, but does not shape any model itself
+      — no prompts, retrieval, training, or evals. Per the edge
+      case on AI used as a tool in the engineering workflow, this
+      is ai-support.
+  responsibilities:
+  - Design, build and ship production software across F&B backend services, frontend
+    interfaces, APIs and integrations
+  - Own reliability, performance and quality of shipped software end-to-end in production
+  - Partner with product teams to deliver features for hospitality operators and guests
+  - Apply clean, testable code, CI/CD discipline, observability and incremental delivery
+  - Treat security and compliance as first-class concerns including auth, secrets
+    management and PII handling
+  - Contribute to architectural decisions across the F&B platform
+  - Use AI tooling actively for coding assistance, code review, test generation and
+    incident triage
+  - Mentor junior engineers through code review and knowledge sharing
+  use_cases:
+  - Hospitality food and beverage management platform
+  - Web-based ordering and management interfaces for restaurant operators
+  - Backend services and integrations for hospitality operators and guests
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, React]
+    databases: [SQL, Relational Databases]
+    data: []
+    cloud: [Azure, Azure App Service, AKS, AWS]
+    ops: [Docker, Kubernetes, CI/CD, Monitoring]
+    languages: [C#, .NET, TypeScript, Java]
+    domains: []
+    other: [Event-Driven Architecture, Azure Service Bus, Azure Key Vault, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11036047'
+  location: Niuland, IND
+  extracted_at: '2026-09-23T11:14:09.858243'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

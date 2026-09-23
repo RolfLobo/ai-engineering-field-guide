@@ -1,0 +1,46 @@
+company:
+  name: Lendable
+  stage: null
+  focus: Fintech consumer lending and credit products
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: improving chatbot
+      quality, designing prompts, retrieval pipelines, agent
+      workflows, and evaluations, plus LLM-driven workflows. Clear
+      LLM involvement with output-quality ownership, so ai-first.
+  responsibilities:
+  - Improve chatbot quality and expand autonomous account actions
+  - Expand in-house document extraction pipelines for faster, more accurate parsing
+  - Design LLM-driven workflows that simplify case management
+  - Identify new opportunities to replace manual work with AI systems
+  - Own solutions from discovery and prototyping through deployment, evaluation and
+    monitoring
+  use_cases:
+  - Customer support chatbot handling over 1 million chats per year with autonomous
+    account actions
+  - Document parsing of ~500,000 documents per year
+  - Voice AI on phone lines
+  - Automating manual business processes across loans, credit cards and motor finance
+  - Case management automation
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, AI Agents, LLM Evaluation, Agentic Workflows]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11161674'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:23:03.155007'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Intercom
+  stage: null
+  focus: AI customer service agents
+position:
+  title: AI Infrastructure Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role implements training pipelines for LLMs, tunes
+      CUDA/Triton kernels, and optimizes model internals
+      (utilization, bottlenecks) for custom LLMs like Fin Apex.
+      Optimizing a model's own internals and running training is
+      shaping, and the targets are LLMs, so ai-first.
+  responsibilities:
+  - Implement and scale training pipelines for large transformer and LLM models, from
+    data ingestion through distributed training and evaluation
+  - Build and optimize low-latency, high-reliability inference services including
+    autoscaling, routing, and fallbacks
+  - 'Tune GPU-level performance: kernels, utilization, and bottleneck identification
+    across training and inference stacks'
+  - Collaborate with ML scientists to bring cutting-edge training and inference methods
+    to production
+  - Hire, mentor, and develop other engineers on the team
+  - Raise technical standards, reliability, and operational excellence across Fin's
+    AI platform
+  use_cases:
+  - Training custom LLMs for customer service (Fin Apex)
+  - Serving low-latency AI agent inference for customer support
+  - Resolving millions of customer service queries monthly across channels
+  skills:
+    genai: []
+    ml: [Model Training, PyTorch, TensorFlow, JAX, Transformers, LLMs, Deep Learning,
+      Model Evaluation, Fine-Tuning, CUDA]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Triton, Distributed Training, Kubernetes, Model Deployment]
+    languages: [Python, Ruby, Java, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9081453'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:38:59.189950'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

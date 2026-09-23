@@ -1,0 +1,133 @@
+job_id: 11072703
+title: "AI & Support Automation - Engineer"
+company: CertifyOS
+location: Bengaluru, IND
+remote: true
+work_type: FULL_TIME
+company_size: 70 Employees
+description: |
+  About CertifyOS
+
+  CertifyOS is building the data infrastructure that powers
+  modern healthcare.
+
+  Today, healthcare organizations rely on fragmented and
+  outdated provider data. This creates unnecessary
+  administrative work, regulatory risk, and higher costs
+  across the system. We’re solving that problem.
+
+  Our API-first platform automates provider licensing,
+  enrollment, credentialing, and network monitoring by
+  connecting directly to hundreds of primary data sources. We
+  help healthcare organizations maintain accurate, compliant,
+  and reliable provider networks at scale.
+
+  Our vision is simple: One API. One provider ID. Frictionless
+  provider data.
+
+  We’re backed by leading investors and built by a team with
+  deep experience in provider data systems. At CertifyOS, we
+  value authenticity, accountability, collaboration, results,
+  and openness to feedback. We’re building a high-ownership
+  team focused on solving real infrastructure problems that
+  impact millions of patients.
+
+  JOB DESCRIPTION
+
+  Role Overview
+
+  We are looking for hands-on engineers who can lead support
+  automation initiatives while personally designing and
+  building AI solutions end-to-end. This is a role for someone
+  who can identify support problems, build AI/automation
+  solutions, deploy them to production, and continuously
+  improve them.
+
+  Key Responsibilities
+
+  • Identify high-impact support processes for AI/automation.
+  • Design, build, integrate, test and deploy AI-powered
+  workflows and agents. • Develop solutions using LLMs, RAG,
+  AI agents and workflow automation. • Build end-to-end AI
+  pipelines covering knowledge/data ingestion, orchestration,
+  model execution, tools/actions, evaluation and production
+  monitoring. • Integrate AI with CRM, ticketing, knowledge
+  bases and internal tools. • Monitor AI quality, accuracy,
+  cost, latency and business impact; continuously improve
+  solutions. • Partner with Product and Engineering to drive
+  AI-led transformation.
+
+  Ideal Experience
+
+  • 3+ years overall experience in software engineering,
+  AI/ML, automation, technical operations or support
+  technology. • 2+ years of hands-on Generative AI/LLM
+  application development, with demonstrated production
+  experience. • Experience in automation, integrations or
+  workflow engineering. • Strong experience taking
+  AI/automation projects from concept and architecture through
+  production and continuous improvement.
+
+  Must-Have Skills
+
+  • Strong Python and/or JavaScript/TypeScript. • LLM APIs and
+  Generative AI application development. • RAG, embeddings,
+  vector databases and knowledge pipelines. • AI agents,
+  agentic workflows, tool/function calling and MCP. • End-to-
+  end AI/LLM pipelines: ingestion → orchestration → model →
+  tools/actions → evaluation → production. • REST APIs,
+  webhooks, SQL and system integrations. • LLM evaluation,
+  observability, guardrails, monitoring and cost/latency
+  optimization. • Production deployment, CI/CD and
+  troubleshooting of AI/automation systems. • Strong
+  understanding of customer-support workflows and automation
+  opportunities.
+
+  Preferred
+
+  Experience with OpenAI/Anthropic/Claude/Gemini, Claude Code,
+  LangChain/LangGraph, LlamaIndex, n8n/Make/Zapier/Power
+  Automate, vector databases, AI evaluation/observability
+  tools, AWS/Azure/GCP, Docker and CRM/helpdesk platforms such
+  as Zendesk, Salesforce, Jira, Freshdesk or Zoho.
+
+  What We Are Looking For
+
+  A builder, not just a strategist. The candidate should
+  demonstrate real AI/automation solutions they have
+  personally built or led, explain the architecture and their
+  contribution, and quantify business impact such as
+  automation %, ticket deflection, AHT reduction, cost savings
+  or productivity gains.
+
+  Benefits of Working at Certify
+
+  - At Certify, we’re building with intention and taking care of
+    the people doing the work.
+  - Your well-being matters to us. We provide 100% coverage of
+    health, dental, and vision insurance premiums for
+    employees. Our US-based team benefits from unlimited PTO,
+    with at least two weeks off each year to recharge. In
+    India, employees are supported with health insurance,
+    statutory leave benefits, and additional wellness
+    (menstrual) leave for women.
+
+  We are an equal opportunity employer committed to building
+  an inclusive environment where everyone feels valued and
+  empowered to do their best work, and we welcome applicants
+  from all backgrounds and experiences.
+
+  If you require reasonable accommodations during the
+  application process, please contact
+  recruiting@certifyos.com.
+
+  We are also committed to pay transparency and foster an open
+  culture where compensation conversations are encouraged and
+  respected.
+industries:
+  - Healthtech
+  - Social Impact
+  - Software
+posted_date: 2026-09-09
+url: "https://builtin.com/job/ai-support-automation-engineer/11072703"
+source: Built In

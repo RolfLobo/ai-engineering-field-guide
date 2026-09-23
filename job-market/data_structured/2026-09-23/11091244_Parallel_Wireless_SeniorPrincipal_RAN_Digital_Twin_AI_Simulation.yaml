@@ -1,0 +1,49 @@
+company:
+  name: Parallel Wireless
+  stage: null
+  focus: Open RAN software and network solutions
+position:
+  title: Senior/Principal RAN Digital Twin & AI Simulation Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops a RAN digital twin executing production
+      RAN software in closed loop with PHY/channel models,
+      including neural-network-assisted channel estimation and
+      surrogate models. This is classical ML/simulation work with
+      no LLM or agent component, so it is ml-first.
+  responsibilities:
+  - Lead development of a multi-RAT digital twin for the Open RAN solution
+  - Evolve an existing LTE end-to-end simulator into a scalable engineering platform
+  - Run production RAN software (scheduler and MAC) in closed loop with PHY, channel,
+    UE, traffic, and network models
+  - Define multiple simulation fidelity levels from surrogate models to full PHY processing
+  - Establish repeatable calibration methods against lab or field reference data
+  - Support feature development, regression testing, performance optimization, and
+    pre-validation for LTE, 5G NR, and 2G
+  use_cases:
+  - Digital twin of multi-RAT mobile networks (2G/3G/4G/5G)
+  - MAC scheduler and link-adaptation improvement evaluation
+  - Power control, mobility, and interference scenario testing
+  - Neural-network-assisted channel estimation
+  - Pre-validation of RAN features without physical radio setups
+  skills:
+    genai: []
+    ml: [Machine Learning, Neural Networks, Deep Learning, Surrogate Models]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [NLP]
+    other: [Digital Twin, Wireless Systems, 5G NR, LTE, RAN, Channel Estimation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11091244'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:54.318255'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

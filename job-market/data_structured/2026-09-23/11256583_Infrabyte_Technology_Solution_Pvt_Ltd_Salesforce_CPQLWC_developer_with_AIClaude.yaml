@@ -1,0 +1,41 @@
+company:
+  name: Infrabyte Technology Solution Pvt Ltd
+  stage: null
+  focus: IT services and technology solutions
+position:
+  title: Salesforce CPQ,LWC developer with AI(Claude)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Salesforce CPQ/LWC developer; AI (Claude,
+      Agentforce) is listed as a tool used alongside development
+      work, not something the person shapes. There is no evidence
+      of prompt design, RAG, agent design, or model training.
+  responsibilities:
+  - Develop Salesforce CPQ and Sales Cloud solutions
+  - Build components using Apex and Lightning Web Components
+  - Use AI tools such as Agentforce or Claude for development work
+  - Perform development work involving Claude
+  use_cases:
+  - Salesforce CPQ quoting and configuration automation
+  - Sales Cloud development
+  skills:
+    genai: [Agentforce, Claude Code]
+    ml: []
+    web: [Lightning Web Components]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Apex]
+    domains: []
+    other: [Salesforce CPQ, Sales Cloud]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11256583'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:32:48.658191'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

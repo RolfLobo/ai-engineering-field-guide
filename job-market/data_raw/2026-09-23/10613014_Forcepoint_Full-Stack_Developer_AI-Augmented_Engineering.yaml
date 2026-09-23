@@ -1,0 +1,133 @@
+job_id: 10613014
+title: Full-Stack Developer (AI-Augmented Engineering)
+company: Forcepoint
+location: Thāne, IND
+work_type: FULL_TIME
+company_size: 1,868 Employees
+description: |
+  Who is Forcepoint?
+
+  Forcepoint simplifies security for global businesses and
+  governments. Forcepoint’s all-in-one, truly cloud-native
+  platform makes it easy to adopt Zero Trust and prevent the
+  theft or loss of sensitive data and intellectual property no
+  matter where people are working. 20+ years in business. 2.7k
+  employees. 150 countries. 11k+ customers. 300+ patents. If
+  our mission excites you, you’re in the right place; we want
+  you to bring your own energy to help us create a safer
+  world. All we’re missing is you!
+
+  About the Role
+
+  We're looking for a full-stack developer to join our growing
+  engineering team. This is primarily a product engineering
+  role — you'll design, build, and maintain web applications
+  end to end — but you'll do it in an AI-native way, relying
+  on agent frameworks and AI coding assistants throughout the
+  development lifecycle — not as a bonus skill, but as a core
+  requirement. You're expected to understand how the
+  underlying models work well enough to use them effectively
+  and evaluate their output critically.
+
+  Key Responsibilities
+
+  - Design, build, and maintain production web applications
+    across the full stack (frontend, backend, and data layer).
+  - Use AI coding assistants (Claude Code, Cursor, GitHub
+    Copilot, or similar) throughout the SDLC — from spec and
+    scaffolding through implementation, testing, and review —
+    rather than only for isolated snippets.
+  - Integrate LLM-powered features and lightweight agentic
+    workflows into product surfaces where they add real user
+    or operational value.
+  - Work with agent frameworks (LangChain, CrewAI, AutoGen, or
+    similar) to build or extend automation that connects LLMs
+    to APIs, data sources, and internal tools.
+  - Critically review, debug, and refactor AI-generated code —
+    your own and teammates' — with full ownership and
+    understanding of what ships.
+  - Write clean, maintainable, well-tested code with unit and
+    integration tests, including for AI-generated
+    contributions.
+  - Collaborate with product and engineering peers to scope
+    features, define API contracts, and ship reliably under
+    deadlines.
+  - Document designs, decisions, and AI-assisted workflows
+    clearly for the team.
+
+  Required Qualifications
+
+  - 4+ years of professional full-stack development experience
+    (e.g., React on the frontend; Python/Go/Rust on the
+    backend).
+  - Working understanding of how LLMs function at a practical
+    level — tokens, context windows, embeddings, prompting,
+    and the general shape of what models can and can't
+    reliably do.
+  - Hands-on experience with at least one agent framework
+    (LangChain, CrewAI, AutoGen, or similar) — production use
+    preferred, personal/academic projects acceptable.
+  - Fluent with AI coding assistants (Claude Code, Cursor,
+    GitHub Copilot, or similar) as a daily part of your
+    workflow — skilled at providing clear context to get
+    production-quality output.
+  - Strong code ownership — able to explain and defend every
+    line you submit regardless of how it was generated, and to
+    catch subtly incorrect AI output.
+  - Familiarity with AI-native SDLC practices — using AI
+    assistance across planning, coding, testing, and review,
+    not just code completion.
+  - Basic prompt engineering and tool/function-calling
+    fundamentals for working with LLM APIs (OpenAI, Anthropic,
+    Gemini, or open-source equivalents).
+  - Comfort with REST APIs, JSON, relational databases, and
+    version control (Git).
+
+  Nice to Have
+
+  - Experience shipping an LLM-powered feature (chat, RAG,
+    summarization, or similar) inside a production web app.
+  - Exposure to vector databases or semantic search.
+  - Familiarity with workflow automation tools (n8n, Zapier,
+    Airflow).
+  - Comfort with both a compiled backend language (Go/Rust) and
+    Python.
+  - Any personal AI projects, bots, or automation tools you've
+    shipped.
+
+  Don’t meet every single qualification? Studies show people
+  are hesitant to apply if they don’t meet all requirements
+  listed in a job posting. Forcepoint is focused on building
+  an inclusive and diverse workplace – so if there is
+  something slightly different about your previous experience,
+  but it otherwise aligns and you’re excited about this role,
+  we encourage you to apply. You could be a great candidate
+  for this or other roles on our team.
+
+  The policy of Forcepoint is to provide equal employment
+  opportunities to all applicants and employees without regard
+  to race, color, creed, religion, sex, sexual orientation,
+  gender identity, marital status, citizenship status, age,
+  national origin, ancestry, disability, veteran status, or
+  any other legally protected status and to affirmatively seek
+  to advance the principles of equal employment opportunity.
+
+  Forcepoint is committed to being an Equal Opportunity
+  Employer and offers opportunities to all job seekers,
+  including job seekers with disabilities. If you are a
+  qualified individual with a disability or a disabled
+  veteran, you may request a reasonable accommodation if you
+  are unable or limited in your ability to use or access the
+  Company’s career webpage as a result of your disability. You
+  may request reasonable accommodations by sending an email to
+  recruiting@forcepoint.com.
+
+  Applicants must have the right to work in the location to
+  which you have applied.
+industries:
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-09-11
+url: "https://builtin.com/job/software-engineer-ai-engineer/10613014"
+source: Built In

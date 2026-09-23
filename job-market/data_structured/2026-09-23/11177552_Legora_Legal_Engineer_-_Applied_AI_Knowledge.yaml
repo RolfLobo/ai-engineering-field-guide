@@ -1,0 +1,54 @@
+company:
+  name: Legora
+  stage: null
+  focus: AI-native legal workspace for legal professionals
+position:
+  title: Legal Engineer - Applied AI Knowledge
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role researches and experiments with prompting
+      techniques, vets and quality-controls prompt/skill outputs,
+      and authors exemplar AI use cases — directly shaping LLM
+      behavior and output quality in a legal AI platform.
+      Customer-facing? ~30% live client work with legal teams,
+      plus demo support — yes.
+  responsibilities:
+  - Vet the Skills Library and Legal Engineering outputs hands-on before go-live,
+    quality-controlling practice-area workflows
+  - Research and experiment with prompting techniques, skill patterns and emerging
+    AI methods, turning what works into function-wide best practices
+  - Author reference use cases published as exemplars for others to copy
+  - Work with the Product team on early testing of new capabilities and provide structured
+    feedback
+  - Produce technical onboarding and training materials for new Legal Engineers
+  - Communicate best practices, exemplars and platform changes to the Legal Engineering
+    team worldwide
+  - Oversee quality and currency of the use case and skills libraries across regions
+  - Spend ~30% of time on live client work and support flagship demos for the CEO
+    and C-suite
+  use_cases:
+  - Legal AI use cases and workflows for law firms and in-house teams
+  - Document analysis across thousands of legal documents
+  - End-to-end legal workflows automation
+  - Skills and prompt library quality control for practice-area workflows
+  - M&A and transactional deal coordination support
+  skills:
+    genai: [Prompt Engineering, LLMs, AI Agents, Legal AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Scripting]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11177552'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:23:48.179111'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

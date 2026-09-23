@@ -1,0 +1,48 @@
+company:
+  name: Coinbase
+  stage: null
+  focus: Cryptocurrency exchange and financial services
+position:
+  title: Staff Software Engineer, Backend - Platform (Core AI Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects Agentic AI systems including agent
+      orchestration, guardrails, and evaluation frameworks for
+      grounding/hallucination reduction, which is directly shaping
+      LLM behavior. LLM/agent components make it ai-first.
+  responsibilities:
+  - Architect and build Agentic AI systems powering compliance automation and Operations,
+    including agents, orchestration, and guardrails
+  - Design foundational APIs and measurement frameworks ensuring AI agents are grounded,
+    relevant, and reliable with minimal hallucination
+  - Lead technical direction for distributed systems underpinning AI automation, defining
+    architecture patterns and roadmaps
+  - Build reusable primitives and orchestration solutions to scale AI-powered automation
+    across domains
+  - Mentor engineers on AI system design and production-readiness for LLM-based applications
+  use_cases:
+  - Customer support automation
+  - Compliance automation
+  - AI-driven operations at scale
+  - Grounded, reliable AI agent experiences with minimal hallucination
+  skills:
+    genai: [AI Agents, Agentic Workflows, Guardrails, LLMs, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10838304'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:01:34.287358'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

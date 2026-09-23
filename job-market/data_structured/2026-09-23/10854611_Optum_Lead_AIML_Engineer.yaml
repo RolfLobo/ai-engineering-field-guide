@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology, care delivery and pharmacy benefits
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys AI/ML applications using Google
+      ADK and AWS AgentCore for multi-agent workflows, and leads
+      model evaluation and optimization. Designing agent
+      orchestration and evaluating models is shaping LLM/agent
+      behavior, so it is ai-first.
+  responsibilities:
+  - Design, build, and manage secure, scalable cloud platform services
+  - Architect and implement scalable data pipelines for structured and unstructured
+    data with governance and quality validation
+  - Design and deploy AI/ML infrastructure and applications using Google ADK and AWS
+    AgentCore for multi-agent workflows
+  - Lead model development lifecycle including evaluation, optimization, and production
+    deployment
+  - Define AI architectural roadmaps, reference frameworks, and SOPs ensuring reliability,
+    fairness, and security
+  - Provide technical leadership, mentorship, and design/code reviews across cloud,
+    AI/ML, and data teams
+  - Establish monitoring frameworks, security controls, and disaster recovery strategies
+  - Collaborate with data scientists, product managers, and business stakeholders
+    in agile delivery
+  use_cases:
+  - Healthcare data pipelines for AI/ML and analytics use cases
+  - Multi-agent AI workflows for enterprise health services
+  - Model evaluation and production deployment at scale
+  - Secure, compliant cloud platforms for health data
+  skills:
+    genai: [Google ADK, Agentic Workflows, Generative AI]
+    ml: []
+    web: [GraphQL]
+    databases: [MongoDB, PostgreSQL, MySQL, SQL Server, Relational Databases]
+    data: [Data Pipelines, Data Governance, Data Modeling]
+    cloud: [AWS AgentCore, AWS, Azure, GCP, IAM]
+    ops: [Terraform, CloudFormation]
+    languages: [Java, Node.js]
+    domains: [NLP, Computer Vision]
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10854611'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:03:02.461536'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

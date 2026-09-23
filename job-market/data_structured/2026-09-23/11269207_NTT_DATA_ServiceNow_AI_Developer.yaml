@@ -1,0 +1,58 @@
+company:
+  name: NTT DATA
+  stage: null
+  focus: |-
+    Global IT and business technology services, AI and digital
+    infrastructure
+position:
+  title: ServiceNow AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds custom AI agents, skills, and agent flows
+      using Now Assist Skill Kit and Build Agent, and monitors
+      agent protocols (MCP, A2A), which is directly shaping agent
+      behaviour and orchestration. This makes it ai-first even
+      though it sits on a ServiceNow governance platform.
+  responsibilities:
+  - Design, configure, and extend ServiceNow AI Control Tower for enterprise AI governance
+    and lifecycle management
+  - Build custom AI agents, skills, flow actions, and subflows using Now Assist Skill
+    Kit and Build Agent
+  - Develop integrations with third-party AI platforms via the Service Graph Connector
+    framework
+  - Manage CMDB and CSDM data models to track AI assets as configuration items
+  - Collaborate with AI Stewards, Risk & Compliance Managers, and Platform Administrators
+    on governance policies
+  - Monitor and support AI Agent Fabric protocols (MCP, A2A) for secure cross-agent
+    communication
+  - Manage the full AI asset lifecycle from intake through deployment and retirement
+  - Write scripts and workflows including business rules, script includes, client
+    scripts, Flow Designer, and IntegrationHub
+  use_cases:
+  - Enterprise AI governance and lifecycle management of AI agents, models, and workflows
+  - Discovery, security, and risk assessment of AI assets across the organization
+  - Integration of third-party AI platforms into a governed enterprise platform
+  - Secure cross-agent communication via AI Agent Fabric protocols
+  - Tracking AI assets as configuration items in the CMDB
+  skills:
+    genai: [AI Agents, Now Assist Skill Kit, MCP, AWS Bedrock, Copilot Studio, LLMs,
+      Azure OpenAI]
+    ml: []
+    web: []
+    databases: []
+    data: [CMDB, CSDM]
+    cloud: [Azure AI Foundry, Vertex AI, Azure OpenAI]
+    ops: []
+    languages: [JavaScript]
+    domains: []
+    other: [ServiceNow, ServiceNow AI Control Tower, Service Graph Connectors, Flow
+        Designer, IntegrationHub, ACLs, GRC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11269207'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:33:40.644441'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

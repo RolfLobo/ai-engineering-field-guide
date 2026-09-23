@@ -1,0 +1,56 @@
+company:
+  name: Southwest Airlines
+  stage: null
+  focus: Airline providing passenger flight service
+position:
+  title: Tech Lead Software Engineer Global - Observability Accelerators & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires integrating AI-enabled
+      workflows, prompts, skills, and agents that improve
+      operational efficiency, which means the person shapes
+      LLM/agent behavior. The remainder is observability platform
+      engineering, but the LLM-shaping responsibility makes it ai-
+      first.
+  responsibilities:
+  - Set architecture and platform strategy for observability and AI-powered operations
+    tooling
+  - Build production-grade software and resilient AWS solutions with Infrastructure
+    as Code and CI/CD
+  - Integrate AI-enabled workflows, prompts, skills, and agents to improve operational
+    efficiency
+  - Develop telemetry pipelines, anomaly detection, and dashboards using Grafana,
+    CloudWatch, Prometheus, and OpenTelemetry
+  - Lead and mentor a team of developers, running design reviews and ensuring technical
+    quality
+  - Create and approve application designs with Solution Architects and shared services
+    teams
+  - Plan and oversee deployment activities across non-production and production environments
+  - Investigate new technologies and resolve technical debt
+  use_cases:
+  - Cloud-native observability for enterprise systems
+  - AI-assisted incident investigation to reduce Mean Time to Recover
+  - Anomaly detection and operational intelligence for reliability
+  - Telemetry pipelines and reusable OpenTelemetry patterns
+  - Dashboard and migration tooling for monitoring platforms
+  skills:
+    genai: [AI Agents, Prompt Engineering]
+    ml: [Machine Learning, Anomaly Detection]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Lambda, AWS Step Functions, Amazon EventBridge, Amazon SQS, API Gateway,
+      CloudFormation]
+    ops: [Terraform, CI/CD, Grafana, CloudWatch, Prometheus, OpenTelemetry, SRE]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11243793'
+  location: Choudwar, IND
+  extracted_at: '2026-09-23T11:30:35.620976'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

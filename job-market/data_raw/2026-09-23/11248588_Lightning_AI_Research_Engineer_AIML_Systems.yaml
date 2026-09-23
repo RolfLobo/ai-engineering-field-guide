@@ -1,0 +1,225 @@
+job_id: 11248588
+title: Research Engineer, AI/ML Systems
+company: Lightning AI
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+  - London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Who We Are
+
+  Lightning AI is the company behind PyTorch Lightning.
+  Founded in 2019, we build an end-to-end platform for
+  developing, training, and deploying AI systems—designed to
+  take ideas from research to production with less friction.
+
+  Through our merger with Voltage Park, a neocloud and AI
+  Factory, Lightning AI combines developer-first software with
+  cost-efficient, large-scale compute. Teams get the tools
+  they need for experimentation, training, and production
+  inference, with security, observability, and control built
+  in.
+
+  We serve solo researchers, startups, and large enterprises.
+  Lightning AI operates globally with offices in New York
+  City, San Francisco, Seattle, and London, and is backed by
+  Coatue, Index Ventures, Bain Capital Ventures, and
+  Firstminute.
+
+  The Way We Work
+
+  The people who thrive here are builders who move fast,
+  communicate openly, take ownership, and continuously improve
+  themselves, their teams, and our company. Here's what that
+  looks like in practice:
+
+  - Move with Urgency: We move quickly, make thoughtful
+    decisions, and keep momentum. We value action over
+    perfection and learn by shipping.
+  - Take Ownership: We own outcomes, not just our individual
+    work. We make decisions that move the company forward and
+    follow through.
+  - Communicate Openly: We communicate directly, seek to
+    understand, and create clarity for others. Honest
+    conversations help us move faster together.
+  - Build Great Teams: We lead by example, empower others, and
+    create healthy teams where people can do their best work.
+  - Raise the Bar: We're always improving ourselves. We learn
+    from feedback, consistently challenge ourselves to grow,
+    and focus on the work that matters most.
+  - Think Long-Term: We design for what's next. We create
+    scalable systems, simplify complexity, and use AI and
+    automation to amplify our impact.
+
+
+
+  What We're Looking For
+
+  We're looking for a curious, adaptable Research Engineer who
+  enjoys solving difficult technical problems and building
+  across the AI stack to join our Research Engineering
+  function here at Lightning.
+
+  This role is intentionally broad, with a primary focus on
+  post-training models and the systems that support it. You’ll
+  work across ML engineering, software engineering, and AI
+  systems to improve how we develop, train, evaluate, and
+  deploy models. As team priorities evolve, you’ll have
+  opportunities to contribute across developer tooling,
+  infrastructure, and platform capabilities that help
+  researchers and customers develop, train, and deploy AI more
+  effectively.
+
+  We're looking for someone who enjoys learning new
+  technologies, working across multiple technical domains, and
+  tackling whatever problems have the greatest impact. Strong
+  software engineering fundamentals, curiosity, and a
+  willingness to continuously learn are more important than
+  already being an expert in every area of AI systems. If
+  you've spent meaningful time building AI projects,
+  experimenting with PyTorch, contributing to open source,
+  reproducing research, or exploring new ideas because you're
+  genuinely interested, we'd love to hear about it.
+
+  This role is hybrid with a minimum of 2 in-office days per
+  week in San Francisco, Seattle, NYC, or London, with fully
+  remote work considered for candidates outside of our office
+  hub locations. All employees participate in occasional team
+  and company offsites.
+
+  What You'll Do
+
+  - Develop and post-train models, while building and improving
+    the systems and workflows needed to run, evaluate, debug,
+    and scale training workloads.
+  - Build software, tooling, and platform capabilities that
+    improve how researchers, developers, and customers
+    develop, train, and deploy AI systems.
+  - Contribute to Lightning’s open-source projects by building
+    new features, improving existing functionality, and
+    collaborating with the broader developer community.
+  - Work across deep learning systems, developer tooling,
+    backend services, and platform infrastructure to solve a
+    wide variety of engineering challenges.
+  - Collaborate directly with customers to understand real-world
+    AI workloads, investigate technical challenges, and
+    translate those learnings into reusable product and
+    platform improvements.
+  - Prototype new ideas, evaluate approaches, and turn
+    successful experiments into production-quality software.
+  - Partner closely with research, product, and infrastructure
+    engineering teams to improve developer experience, AI
+    workflows, and platform capabilities.
+  - Debug complex technical problems spanning machine learning,
+    distributed systems, backend software, and developer
+    tooling.
+  - Learn new technologies quickly and contribute wherever your
+    skills can have the greatest impact as team priorities
+    evolve.
+
+  What You’ll NeedRequired Qualifications
+
+  - Experience building, training, evaluating, or experimenting
+    with deep learning models.
+  - Hands-on experience with deep learning frameworks such as
+    PyTorch.
+  - Strong software engineering fundamentals building software
+    and debugging and problem-solving skills, with the ability
+    to investigate unfamiliar technical challenges.
+  - Curiosity, initiative, and a demonstrated ability to quickly
+    learn new technologies and technical domains.
+  - Excellent communication and collaboration skills, including
+    the ability to work effectively across research, product,
+    infrastructure, and customer-facing engagements.
+  - Comfortable working in fast-moving, ambiguous environments
+    where priorities evolve over time.
+  - Bachelor's degree in Computer Science, Engineering, or a
+    related technical field, or equivalent practical
+    experience.
+
+  Ideal Experience
+
+  - Experience with model training at scale, including
+    distributed training, performance optimization, training
+    stability, and/or large-scale experimentation.
+  - Experience with transformer-based language models or modern
+    generative AI systems.
+  - Experience with distributed systems, cloud infrastructure,
+    or large-scale machine learning workloads.
+  - Familiarity with technologies such as CUDA, Hugging Face,
+    DeepSpeed, FSDP, Triton, vLLM, SGLang, NVIDIA Molt, or
+    related AI infrastructure tooling.
+  - Experience contributing to open-source software or
+    conducting research through academia, industry, or
+    meaningful independent projects.
+  - Startup experience or experience working on highly cross-
+    functional engineering teams.
+  - Master's degree or higher in Computer Science, Machine
+    Learning, AI, or a related field.
+
+  Compensation
+
+  We are committed to offering competitive compensation that
+  reflects the value each team member brings to our mission.
+  Final offers are based on factors such as experience,
+  skills, geographic location, and role expectations. In
+  addition to base salary, our total rewards package for
+  eligible roles includes a discretionary bonus, a meaningful
+  equity component, and comprehensive benefits.
+
+  The anticipated annual base salary range for this role is:
+
+  $165,000—$310,000 USD
+
+  Benefits and Perks
+
+  We offer a comprehensive and competitive benefits package
+  designed to support our employees’ health, well-being, and
+  long-term success:
+
+  - Comprehensive Health Coverage: Medical, dental, and vision
+    coverage for employees and eligible dependents.
+  - Meaningful Equity: RSUs that give employees a stake in the
+    company's long-term success.
+  - Retirement Savings: 401(k) matching (U.S.) and pension
+    contributions (U.K.).
+  - Flexible Time Off: Unlimited PTO, company holidays, and
+    floating holidays to support work-life balance.
+  - Company-Wide Winter Break: Two weeks of company closure each
+    winter to disconnect and recharge.
+  - Paid Parental & Family Leave: Paid leave to support you and
+    your family through life's important moments.
+  - Professional Development: Annual learning and development
+    allowance to support your professional growth.
+  - Wellness Benefits: Wellness and work-from-home stipends to
+    support your physical and mental well-being.
+  - Sabbatical Program: Four weeks of paid sabbatical leave
+    after four years of service.
+  - Flexible Work: Flexible schedules and a hybrid work model
+    for our office-based teams.
+  - In-Office Meals: Complimentary meals at our office hubs.
+
+  Benefits may vary by location, team, and role.
+
+  At Lightning AI, we are committed to fostering an inclusive
+  and diverse workplace. We believe that diverse teams drive
+  innovation and create better products. We provide equal
+  employment opportunities to all employees and applicants
+  without regard to race, color, religion, gender, sexual
+  orientation, gender identity, national origin, age,
+  disability, veteran status, or any other protected
+  characteristic. We are dedicated to building a culture where
+  everyone can thrive and contribute to their fullest
+  potential.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+posted_date: 2026-09-18
+url: "https://builtin.com/job/research-engineer-ai-ml-systems/11248588"
+source: Built In

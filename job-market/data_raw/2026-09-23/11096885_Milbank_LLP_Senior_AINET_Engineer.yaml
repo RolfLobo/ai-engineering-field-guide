@@ -1,0 +1,129 @@
+job_id: 11096885
+title: Senior AI/.NET Engineer
+company: Milbank LLP
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,495 Employees
+description: |
+  Overview
+
+  The Senior Application Developer is responsible for
+  architecting, building, and maintaining cloud-native
+  applications and AI-powered solutions using C#, the .NET
+  platform, and Microsoft Azure. This role blends advanced
+  enterprise application development with the design and
+  implementation of AI features and autonomous AI agents that
+  enhance and automate business workflows. The role carries
+  technical leadership expectations — setting standards,
+  mentoring developers, and driving architectural decisions.
+
+  The Senior Developer is expected to operate with a high
+  degree of autonomy, exercise sound technical judgment, lead
+  by example, and guide team members to effectively accomplish
+  project objectives.
+
+  Responsibilities
+
+  - Architect and develop robust, scalable, production-grade
+    applications in C#using .NET / .NET Core, NET Core, and
+    modern application frameworks.
+  - Lead the design, integration, and deployment of AI-powered
+    features and AI agentsthat automate tasks, reason over
+    enterprise data, and augment user workflows.
+  - Design and orchestrate AI solutions using services such as
+    Azure OpenAI, Azure AI Services, and agent frameworks
+    (e.g., Semantic Kernel, Microsoft Agent Framework /
+    AutoGen, or the OpenAI/Anthropic SDKs).
+  - Implement retrieval-augmented generation (RAG), advanced
+    prompt engineering, tool/function calling, and vector-
+    based search to ground AI on enterprise content.
+  - Establish engineering standards, conduct code reviews, and
+    mentor junior and mid-level developers.
+  - Partner with stakeholders and architects to translate
+    business requirements into technical designs and delivery
+    roadmaps.
+  - Integrate AI capabilities responsibly, incorporating
+    security, privacy, evaluation, and governance
+    considerations throughout.
+
+  Compensation: -The anticipated base salary range offered for
+  this role will be between $140,000 to $175,000 and
+  represents the firm’s good faith and reasonable estimate of
+  the range of possible base compensation. Actual base
+  compensation will be dependent upon several factors,
+  including but not limited to the candidate’s relevant
+  experience, performance, qualifications, degrees, and
+  location, well as the needs of the firm.
+
+  Qualifications
+
+  - Deep, demonstrable expertise developing production
+    applications in C#with .NET / .NET Core and NET Core.
+  - Proven experience building or integrating AI/LLM-based
+    solutions— including prompt engineering, function/tool
+    calling, RAG patterns, and working with model APIs (Azure
+    OpenAI, OpenAI, or similar).
+  - Hands-on experience with AI agent development— designing
+    agents that plan, call tools, maintain context, and
+    execute multi-step tasks (e.g., via Semantic Kernel,
+    Microsoft Agent Framework, AutoGen, or LangChain-style
+    orchestration).
+  - Strong experience with application development for Azure,
+    including App Services, Azure Functions, Logic Apps, Key
+    Vaults, Storage Accounts, and Azure DevOps pipelines.
+  - Strong experience with Azure SQL and T-SQL, including
+    designing SQL database objects, stored procedures, user-
+    defined functions, and integrated security; familiarity
+    with vector data stores (e.g., Azure AI Search, Cosmos DB)
+    is a plus.
+  - Solid command of DevOps and CI/CD pipelinesand version
+    control systems such as Git, including branching
+    strategies and release management.
+  - Proficiency developing in Visual Studio(and/or VS Code).
+  - Mastery of all phases of the software development life cycle
+    (SDLC)— architecture, design, implementation, testing,
+    deployment, and documentation — and the ability to embed
+    security considerations into every phase.
+  - Strong experience with Web Services, RESTful APIs, and SOAP
+    APIsto integrate applications with vendor and enterprise
+    systems.
+  - Demonstrated technical leadership — mentoring developers,
+    owning architectural decisions, and driving best practices
+    across a team.
+  - Excellent problem-solving abilities and an aptitude for
+    rapidly learning and evaluating emerging technologies,
+    especially in the fast-moving AI space.
+  - Effective interpersonal and written/verbal communication
+    skills, with the ability to communicate technical concepts
+    to both technical and non-technical audiences, and close
+    attention to detail.
+
+  Preferred
+
+  - Experience delivering AI/agentic solutions for real business
+    processes (document analysis, summarization, intelligent
+    automation, copilots) at production scale.
+  - Experience working with legal, financial, and HR systems,
+    applications, and databases.
+  - Experience with client-side technologies such as HTML5,
+    JavaScript, and CSS.
+  - Experience with client-side development using
+    JavaScript/TypeScript and modern frameworks such as React,
+    plus HTML5 and CSS.
+  - Experience with legal desktop applications including
+    document management systems, legal workflows, onboarding
+    workflows.
+  - Working knowledge of Responsible AIpractices — evaluation,
+    guardrails, content safety, and cost/performance
+    optimization of AI workloads.
+
+  Experience / Education
+
+  - Bachelor's degree in Computer Science or a related field.
+  - Minimum of four yearsof professional software development
+    experience, including hands-on delivery with C#/.NET;
+    demonstrated experience building AI/LLM-based solutions
+    strongly preferred.
+posted_date: 2026-09-10
+url: "https://builtin.com/job/senior-ai-net-engineer/11096885"
+source: Built In

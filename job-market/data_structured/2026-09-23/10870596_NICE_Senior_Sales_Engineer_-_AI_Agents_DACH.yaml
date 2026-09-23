@@ -1,0 +1,52 @@
+company:
+  name: NICE
+  stage: null
+  focus: AI-first customer experience and contact center software
+position:
+  title: Senior Sales Engineer - AI Agents (DACH)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a presales/sales engineering role: the person demos,
+      runs POCs, and designs customer solutions on an AI agent
+      platform someone else builds. They do not write prompts or
+      design retrieval/agent flows as a product deliverable, and
+      AI coding assistants are used only as tools to accelerate
+      demos, which is ai-support per the edge cases.
+  responsibilities:
+  - Partner with sales to plan and execute complex enterprise deals across DACH and
+    expansion markets
+  - Lead discovery calls and technical deep dives with enterprise stakeholders
+  - Create and deliver customized product demonstrations for technical and business
+    audiences
+  - Design and recommend solutions tailored to customer needs
+  - Run and support POCs/POVs in real enterprise environments
+  - Represent the company at customer events, webinars, and trade shows
+  - Deliver competitive technical comparisons against other AI agent platforms
+  - Feed customer requirements back to product teams and deliver internal enablement
+  use_cases:
+  - Enterprise customer service automation
+  - Agentic AI workforce for contact centers
+  - Conversational AI across channels in 100+ languages
+  - AI agents integrated with enterprise systems
+  skills:
+    genai: [AI Agents, Generative AI, Conversational AI, LLMs, Prompt Engineering,
+      Claude Code, Cursor, GitHub Copilot, ChatGPT]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, Java, Python]
+    domains: [NLP]
+    other: [NLU, Contact Center Technology, IVR, Chatbot Design, UI/UX, Pre-Sales]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10870596'
+  location: DEU
+  remote: true
+  extracted_at: '2026-09-23T11:04:07.106262'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

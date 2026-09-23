@@ -1,0 +1,49 @@
+company:
+  name: Kyteagents
+  stage: null
+  focus: |-
+    Digital twins and autonomous agent platform for customer
+    engagement
+position:
+  title: Founding AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, detection agents,
+      memory models, and agent evals — directly shaping
+      model/agent behavior. LLM/agent components are central
+      (agentic systems, Claude-based agents), so ai-first.
+      Customer-facing and IC (founding engineer, no reports).
+  responsibilities:
+  - Develop core platform to ingest data and synthesize digital twins of customers
+  - Build agentic systems acting on those models (Voice, SMS, Email agents)
+  - Design memory representations for customer models
+  - Build detection framework primitives for detection agents
+  - Design agents that turn signals into reliable autonomous actions
+  - Solve distributed systems problems to run thousands of agents in parallel
+  - Build evals to ensure agents improve over time
+  - Interface directly with customers and own engagements end-to-end
+  use_cases:
+  - Digital twins modeling human baselines and predicting behavior
+  - Autonomous Voice, SMS, and Email agents acting on customer models
+  - Detection agents built on signal-based primitives
+  - Running thousands of agents in parallel at scale
+  skills:
+    genai: [Agentic Workflows, AI Agents, LLM Evaluation]
+    ml: []
+    web: [Nuxt, Full-Stack Development]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Vercel]
+    ops: [Distributed Systems]
+    languages: [TypeScript]
+    domains: []
+    other: [Claude Code, Cursor]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11226122'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:28:18.741993'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

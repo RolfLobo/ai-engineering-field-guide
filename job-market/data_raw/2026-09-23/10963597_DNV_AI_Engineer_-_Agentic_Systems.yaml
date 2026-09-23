@@ -1,0 +1,166 @@
+job_id: 10963597
+title: AI Engineer - Agentic Systems
+company: DNV
+location: NOR
+locations:
+  - NOR
+  - Milano, ITA
+  - Bristol, GBR
+  - Gdynia, POL
+  - Barcelona, ESP
+  - London, GBR
+  - Madrid, ESP
+remote: true
+work_type: FULL_TIME
+company_size: 121990 Employees
+description: |
+  At Digital and Data Solutions (DDS), we develop innovative
+  software and data-driven solutions that help customers solve
+  complex challenges in energy, infrastructure, and
+  sustainability. Together, we combine technology and trusted
+  expertise to create lasting impact and accelerate the
+  transition to a more sustainable world. We are looking for
+  an AI Engineer specializing in agentic systems to help
+  design, build, productise, and evolve generative AI
+  capabilities within Horizon, cloud platform for renewable
+  energy asset monitoring, analytics, optimisation, and
+  decision support.
+
+  This is a hands-on, product-focused engineering role. You
+  will build production-grade AI agents that interact with
+  Horizon data, analytics, algorithms, APIs, documentation,
+  and operational workflows. The focus will be on building a
+  role-based multi-agent system supporting users such as Asset
+  Managers, Asset Owners, O&M Managers, Traders, and Analysts.
+
+
+  What You’ll Do
+
+  - Design and implement a scalable architecture for role-based
+    AI agents, including agents supporting Asset Management,
+    Asset Ownership, O&M, predictive maintenance, trading, and
+    analytical workflows.
+  - Define agents responsibilities, tools, interaction patterns,
+    task delegation, context sharing, and hand-offs between
+    specialised agents.
+  - Integrate agents with diverse Horizon data sources,
+    including operational time-series data, alarms, events,
+    asset metadata, analytical results, forecasts, reports,
+    logbooks, and technical documentation.
+  - Build evaluation frameworks and representative test datasets
+    covering answer quality, groundedness, tool selection,
+    workflow completion, hallucination risk, safety,
+    regression, latency, and operational reliability.
+  - Implement observability and traceability across agent
+    execution, including prompts, retrieved context, tool
+    calls, model responses, decisions, failures, and user
+    feedback.
+  - Deploy and operate AI services in production, working with
+    software and platform engineers.
+  - Collaborate with renewable energy domain experts to ensure
+    that agent outputs are technically meaningful, evidence-
+    based, and appropriate for operational decision-making.
+  - Stay informed about developments in LLMs, agent
+    orchestration, multimodal systems, evaluation, and AI
+    engineering, and assess them pragmatically for production
+    use.
+
+  What makes this role exciting: you’ll take cutting-edge
+  agent-based systems out of the lab and into production,
+  building AI that directly supports the operation and
+  optimization of renewable energy assets at global scale.
+
+  Responsibilities
+
+  Our benefits package is specifically designed to support
+  your physical, financial and social well-being:
+
+  - Great atmosphere of working together with professionals and
+    some of the most engaged and knowledgeable people in the
+    industry,
+  - Receive guidance from colleagues through coaching, mentoring
+    and participating in international networks,
+  - Advance your professional skills and technical expertise,
+    through individual competence development plans and
+    tailored training,
+  - Be part of a world growing and renowned organization with
+    origins dating back to 1864.
+
+  Other than you can expect:
+
+  - Medical Scheme,
+  - Life Insurance,
+  - Pension Plan,
+  - Home working allowance (up to 2 days per week),
+  - Employee Referral scheme.
+
+  DNV is an Equal Opportunity Employer and gives consideration
+  for employment to qualified applicants without regard to
+  gender, religion, race, national or ethnic origin, cultural
+  background, social group, disability, sexual orientation,
+  gender identity, marital status, age or political opinion.
+  Diversity is fundamental to our culture and we invite you to
+  be part of this diversity.
+
+
+
+  Qualifications
+
+  Requirements:
+
+  - Master's degree in Computer Science, Artificial
+    Intelligence, Machine Learning, Data Science, Mathematics,
+    or a related field, or equivalent practical experience.
+  - Proven experience building AI agents, agentic workflows, or
+    AI assistants, preferably in production environments.
+  - Experience with Retrieval-Augmented Generation (RAG),
+    embeddings, vector search, and prompt engineering.
+  - Strong Python software engineering skills and experience
+    developing production-grade applications.
+  - Experience integrating AI solutions with APIs, databases,
+    and enterprise systems.
+  - Familiarity with Git, CI/CD, Docker, and cloud-native
+    development practices.
+  - Strong communication skills and fluency in written and
+    spoken English.
+
+  Nice to Have:
+
+  - Experience deploying AI workloads on Kubernetes.
+  - Experience with self-hosted LLMs and model serving.
+  - Familiarity with ClickHouse, MongoDB, vector databases and
+    time-series data platforms.
+
+  You are curious, adaptable, and proactive, thriving in
+  collaborative, fast-moving environments. You take ownership
+  of projects, communicate complex AI concepts clearly to
+  technical and non-technical stakeholders, and enjoy solving
+  challenging real-world problems.
+
+  As part of the interview process, we ask you to submit a
+  short report or demo of an AI agent you’ve built. This is
+  your chance to showcase your hands-on skills and highlight
+  your creativity.  
+
+  Security and compliance with statutory requirements in the
+  countries in which we operate is essential for DNV.
+  Background checks will be conducted on all final candidates
+  as part of the offer process, in accordance with applicable
+  country-specific laws and practices.
+
+  About Us
+
+   About Energy Systems
+
+
+
+  We help customers navigate the complex transition to a
+  decarbonized and more sustainable energy future. We do this
+  by assuring that energy systems work safely and effectively,
+  using solutions that are increasingly digital. We also help
+  industries and governments to navigate the many complex,
+  interrelated transitions taking place globally and
+  regionally, in the energy industry.
+posted_date: 2026-09-01
+url: "https://builtin.com/job/ai-engineer-agentic-systems/10963597"
+source: Built In

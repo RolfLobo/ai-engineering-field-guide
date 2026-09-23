@@ -1,0 +1,57 @@
+company:
+  name: Stord
+  stage: null
+  focus: Cloud-based supply chain and fulfillment commerce platform
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM agent features themselves:
+      agent tool systems, prompt pipelines, tool calling, context
+      management, evals, and orchestration for the Stord Agent
+      Platform. This is clearly shaping LLM/agent behavior, so ai-
+      first.
+  responsibilities:
+  - 'Design and build AI platform features: agent tool systems, prompt pipelines,
+    integration APIs, and edge-deployed services'
+  - Build agentic AI features including tool calling, context management, multi-step
+    workflows, and confidence-based routing
+  - Implement prompt engineering patterns, evaluation frameworks, and observability
+    for LLM-powered systems
+  - Build scope-aware tool systems exposing platform capabilities (orders, inventory,
+    knowledge base) to AI agents
+  - 'Contribute to the Stord Agent Platform design: orchestration, skill registries,
+    human-in-the-loop patterns'
+  - Design fault-tolerant integrations with downstream services such as Elixir/Phoenix
+    APIs
+  - Own features end-to-end from technical design through deployment and production
+    monitoring
+  - Mentor junior and mid-level engineers and contribute to architectural decisions
+  use_cases:
+  - Conversational agents for logistics and commerce operations
+  - AI-powered decision support across the supply chain product suite
+  - Automated workflows using orders, inventory, and knowledge base data
+  - Agent orchestration with scope-aware tools exposing platform capabilities
+  - AI-powered features across OMS, post-purchase, and WMS platforms
+  skills:
+    genai: [LLMs, Agentic Workflows, AI Agents, Function Calling, Prompt Engineering,
+      LLM Evaluation, Anthropic API, MCP, AI SDK]
+    ml: [Model Evaluation]
+    web: [REST APIs, OpenAPI, Hono, Event-Driven Architecture, Elixir, Phoenix, WebSockets]
+    databases: [PostgreSQL, D1, Drizzle ORM, Vectorize, SQL]
+    data: []
+    cloud: [Cloudflare Workers, GCP, AWS]
+    ops: [OpenTelemetry, Datadog, Observability, Durable Objects, Distributed Systems]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11231652'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:28:42.992827'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

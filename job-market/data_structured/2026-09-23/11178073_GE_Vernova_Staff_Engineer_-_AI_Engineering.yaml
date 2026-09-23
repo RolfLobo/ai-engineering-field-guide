@@ -1,0 +1,52 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: Energy electrification and power technology
+position:
+  title: Staff Engineer - AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimizes LLM-based autonomous agents
+      (prompt engineering, agent orchestration, multi-agent
+      systems, RAG, evals, guardrails), which is shaping model
+      behavior. LLM/agent components dominate, so it is ai-first.
+  responsibilities:
+  - Design, implement, and optimize AI Agents using LLMs, reinforcement learning,
+    planning algorithms, and decision-making frameworks
+  - Develop scalable multi-agent architectures supporting long-horizon reasoning,
+    autonomy, and complex task completion
+  - Integrate AI Agents with APIs, backend services, databases, and enterprise applications
+  - Prototype, deploy, and maintain AI-driven systems in production environments
+  - Optimize agent behavior through continuous feedback, reinforcement learning, and
+    user interaction
+  - Monitor agent performance, conduct evaluations, and implement safety guardrails
+  - Document agent architectures, workflows, and design decisions
+  - Contribute to platform and tooling improvements and stay current with emerging
+    AI technologies
+  use_cases:
+  - Autonomous AI agents that perceive, reason, and act in complex environments
+  - Multi-agent systems for long-horizon planning and complex task completion
+  - GenAI applications with agent orchestration, multi-step reasoning, and RAG
+  - Integration of AI agents into enterprise business applications
+  skills:
+    genai: [LangChain, OpenAI API, LLMs, Prompt Engineering, Agentic Workflows, Multi-Agent
+        Systems, LangGraph, MCP, Semantic Search, RAG, Guardrails]
+    ml: [PyTorch, TensorFlow, Model Training, Fine-Tuning, Model Evaluation, Reinforcement
+        Learning, Deep Learning, Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: [Real-Time Data Pipelines]
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes]
+    languages: [Python, JavaScript, TypeScript, Node.js, Java, Go]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11178073'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:24:17.445777'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Bupa
+  stage: null
+  focus: Healthcare insurance and provider services
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG, semantic search, AI agents and multi-
+      agent workflows using LLM orchestration frameworks, directly
+      shaping LLM behavior. Both generative and classical ML
+      components, but LLM/agent work dominates, so ai-first.
+  responsibilities:
+  - Collaborate with product leaders and SMEs to identify high-value AI opportunities
+  - Design and deliver end-to-end AI/ML solutions from data preparation through deployment
+    and monitoring
+  - Build and maintain MLOps frameworks, governance processes and engineering best
+    practices
+  - Develop Generative AI and Agentic AI solutions including RAG, semantic search
+    and multi-agent workflows
+  - Deploy AI solutions across cloud platforms including Azure, GCP and Snowflake
+  - Embed responsible AI principles, evaluation frameworks and safety controls across
+    the AI lifecycle
+  - Integrate external AI services and APIs into enterprise applications
+  - Coach and mentor junior colleagues and promote engineering standards
+  use_cases:
+  - AI solutions for healthcare and insurance business functions
+  - Customer experience and operations improvement via AI
+  - Enterprise retrieval-augmented generation and semantic search
+  - AI agents and multi-agent workflows for business processes
+  - Healthcare management intelligent solutions
+  skills:
+    genai: [RAG, Semantic Search, AI Agents, Agentic Workflows, LLMs, LangGraph, Google
+        ADK, LlamaIndex, LangChain, CrewAI, AutoGen, Embeddings, Vector Search, LLM
+        Evaluation, Generative AI]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Snowflake, Snowpark]
+    data: []
+    cloud: [Azure, GCP, Azure AI Foundry, Vertex AI, AKS, Cloud Run, Snowflake Cortex
+        AI]
+    ops: [MLOps, CI/CD, GitHub Actions, Azure DevOps, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [Agile, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11126711'
+  location: Staines, GBR
+  locations:
+  - Staines, GBR
+  - London, GBR
+  - Salford, GBR
+  extracted_at: '2026-09-23T11:19:34.144540'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

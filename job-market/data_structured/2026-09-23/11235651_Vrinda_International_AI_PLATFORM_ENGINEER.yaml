@@ -1,0 +1,47 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: AI/LLM platform and automation services
+position:
+  title: AI PLATFORM ENGINEER
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM orchestration workflows, agent-based
+      systems (ReAct, agent loops), and establishes prompt
+      versioning, testing, and evaluation - directly shaping model
+      behavior and output quality. LLM/agent components are
+      central, so it is ai-first.
+  responsibilities:
+  - Design, develop, and maintain production-grade AI/LLM platform solutions
+  - Build and manage LLM orchestration workflows and agent-based systems
+  - Implement Agent Loops, State Machines, and ReAct patterns
+  - Develop and maintain CI/CD pipelines for AI applications and platform deployments
+  - Automate deployment, environments, security, and platform operations
+  - Design and implement REST/OpenAPI-based APIs
+  - Establish prompt versioning, testing, evaluation, and optimization practices
+  - Collaborate with engineering and DevSecOps teams on scalable AI solutions
+  use_cases:
+  - Production-grade AI/LLM platform for enterprise use
+  - Agent-based automation via LLM orchestration
+  - Automated AI application deployment and operations
+  skills:
+    genai: [LangGraph, LangChain, LLMs, Agentic Workflows, Prompt Engineering, LLM
+        Evaluation, ReAct Patterns]
+    ml: []
+    web: [REST APIs, OpenAPI]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock]
+    ops: [CI/CD, GitLab CI, DevSecOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235651'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:30:36.387731'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

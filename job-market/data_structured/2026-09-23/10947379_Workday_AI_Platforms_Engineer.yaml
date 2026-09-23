@@ -1,0 +1,44 @@
+company:
+  name: Workday
+  stage: null
+  focus: Enterprise software for managing people, money, and agents
+position:
+  title: AI Platforms Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a data platform engineer building cloud data
+      platforms and pipelines; no responsibility involves shaping
+      model behaviour, prompts, retrieval, or training. AI appears
+      only in the company branding.
+  responsibilities:
+  - Design, build, and test scalable cloud data platforms with self-service architecture
+  - Engineer tooling that enforces privacy, lineage, and data security for data at
+    rest and in transit
+  - Improve platform reliability with internal tools that detect anomalies and data
+    quality issues
+  - Contribute to and review release notes and technical documentation
+  - Design highly scalable solutions aligned with instance strategy and technology
+    stack
+  - Evaluate new packages and tools to expand platform capabilities
+  - Collaborate with distributed partners across time zones
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Databricks, Data Pipelines, Data Engineering, Data Modeling]
+    cloud: [AWS, GCP, Azure]
+    ops: [Terraform, Infrastructure as Code, Git]
+    languages: [Python, Scala, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10947379'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:08:37.826915'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

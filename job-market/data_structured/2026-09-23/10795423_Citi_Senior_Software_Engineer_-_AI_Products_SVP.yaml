@@ -1,0 +1,56 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global bank building enterprise AI products
+position:
+  title: Senior Software Engineer - AI Products (SVP)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and optimizing prompts,
+      evaluating GenAI models and architectures, and
+      productionizing LLM-based solutions — clear shaping of LLM
+      output quality, so ai-first.
+  responsibilities:
+  - Design, build and support production-grade AI software and services that scale
+    across the organisation
+  - Own technical solutions end-to-end from problem definition and experimentation
+    to deployment and improvement
+  - Develop Generative AI solutions for document processing, data extraction, classification,
+    translation, fraud detection and workflow optimisation
+  - Evaluate and experiment with AI models, prompts and architectures, selecting and
+    productionising the best approaches
+  - Lead technical design and architecture of AI products ensuring resilience, scalability,
+    explainability and auditability
+  - Work with Product, Risk, Engineering and AI platform teams to meet business and
+    regulatory requirements
+  - Provide technical leadership, guidance and mentorship to other engineers
+  - Drive engineering practices through design reviews, code reviews, automated testing
+    and continuous improvement
+  use_cases:
+  - Intelligent document processing and data extraction from unstructured documents
+  - Content classification and routing
+  - Cross-language machine translation
+  - Fraud and document-tampering detection
+  - Workflow optimisation across business processes
+  skills:
+    databases: [PostgreSQL, Oracle]
+    domains: [NLP]
+    data: []
+    web: []
+    ml: [Model Evaluation]
+    ops: [MLflow, Kubernetes, OpenShift, CI/CD, Jenkins, Tekton, Harness, Distributed
+        Systems]
+    other: [Code Review]
+    cloud: []
+    languages: [Python]
+    genai: [Generative AI, LLMs, Prompt Engineering, AI Agents, Agent Development
+        Kit]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10795423'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:01:19.988503'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

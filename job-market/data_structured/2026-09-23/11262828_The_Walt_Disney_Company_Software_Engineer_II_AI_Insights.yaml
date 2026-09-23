@@ -1,0 +1,58 @@
+company:
+  name: The Walt Disney Company
+  stage: null
+  focus: Media and streaming technology for Disney, ESPN, Hulu
+position:
+  title: Software Engineer II, AI Insights
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems orchestrated
+      via LangChain/LangGraph, does prompt design, model
+      evaluation, and fine-tuning of foundation models — directly
+      shaping LLM behavior. Classical ML (anomaly detection) is
+      secondary, and mixed roles default to ai-first.
+  responsibilities:
+  - Design and operate intelligent production systems that use real-time signals and
+    AI-driven detection to improve streaming platform health
+  - Build and scale agentic AI systems powered by foundation models for automated
+    reasoning and decisioning, plus predictive modeling and anomaly detection
+  - Develop end-to-end data and decisioning pipelines turning telemetry, logs, and
+    user signals into automated detection and root cause analysis
+  - Create and deploy scalable APIs delivering predictive signals, explainability,
+    and insights to engineering and product stakeholders
+  - Contribute to infrastructure visibility and compliance enforcement systems, including
+    guardrails preventing non-compliant deployments
+  - Partner cross-functionally to embed intelligence into operational workflows such
+    as incident response and release validation
+  use_cases:
+  - Automated anomaly detection and real-time system health monitoring for streaming
+    infrastructure
+  - AI-driven root cause analysis and faster incident resolution across Disney+, Hulu,
+    and ESPN
+  - Agentic systems reasoning over telemetry and logs for automated detection and
+    decisioning
+  - Infrastructure visibility and compliance enforcement via preventative guardrails
+  - Embedding AI intelligence into operational workflows like incident response and
+    release validation
+  skills:
+    genai: [Agentic Workflows, LLMs, LangChain, LangGraph, Prompt Engineering, Fine-Tuning,
+      LLM Evaluation]
+    ml: [PyTorch, TensorFlow, Anomaly Detection, Predictive Modeling]
+    web: [FastAPI, Flask, APIs, Microservices]
+    databases: [Snowflake]
+    data: [PySpark, Pandas, Databricks]
+    cloud: [AWS, EKS]
+    ops: [Docker, GitHub, Datadog, Grafana, Observability, Monitoring, Cursor, Claude
+        Code]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11262828'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:33:09.439497'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

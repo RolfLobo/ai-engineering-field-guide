@@ -1,0 +1,58 @@
+company:
+  name: PhoenixTeam
+  stage: null
+  focus: |-
+    Federal client services and enterprise modernization
+    consulting
+position:
+  title: AI Quality Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops reusable AI skills and agents,
+      orchestrates multi-agent workflows, and feeds quality
+      findings back to improve prompts, skills, and agents —
+      directly shaping model/agent behavior. An LLM/agent
+      component is central, so it is ai-first.
+  responsibilities:
+  - Design and implement AI-enabled solutions and integrate AI capabilities into existing
+    systems and workflows
+  - Establish and enforce a QA framework of test plans, acceptance criteria, and regression
+    suites for validating AI-generated code, skills, and agents
+  - Guide development of reusable AI skills and agents with emphasis on automated
+    testing, security scanning, data sensitivity, and scalability
+  - Collaborate with DevOps engineers to orchestrate long-running multi-agent workflows
+    with reliability, observability, and recoverability
+  - Support the innovation pipeline moving AI-generated prototypes from sandbox to
+    secure enterprise applications
+  - Review and quality-check prototype outputs for accuracy, reliability, and standards
+    adherence
+  - Monitor AI-assisted development outputs for compliance drift and feed findings
+    back to improve prompts, skills, and agents
+  use_cases:
+  - Automating and streamlining federal mortgage servicing operations
+  - Reducing manual processing and improving data quality in legacy modernization
+  - Validating AI-generated code and vibe-coded prototypes before production promotion
+  - Multi-agent automated testing and security scanning workflows
+  - Quality and compliance monitoring of AI-assisted development outputs
+  skills:
+    databases: [Redshift, PostgreSQL]
+    domains: []
+    data: []
+    web: [Selenium]
+    ml: []
+    ops: [CI/CD, DevOps]
+    other: [Salesforce, Zapier, AI Safety, FedRAMP]
+    cloud: [AWS, AWS Lambda]
+    languages: [Java]
+    genai: [LLMs, AI Agents, Agentic Workflows, Multi-Agent Systems, LangChain, ChatGPT,
+      Anthropic API, Gemini]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11109724'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:19:35.265189'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

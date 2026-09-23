@@ -1,0 +1,59 @@
+company:
+  name: AZX
+  stage: null
+  focus: AI transformation for utilities, real estate, logistics
+position:
+  title: Forward Deployed AI Engineer (Senior)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs and ships LLM/agentic
+      systems end to end: builds eval harnesses, guardrails,
+      retrieval, agent workflows, and chooses/fine-tunes models
+      for output quality. Per the edge cases, forward-deployed
+      engineers adapting and deploying AI at client sites are ai-
+      first.
+  responsibilities:
+  - 'Own client technical delivery end to end: discovery, solution design, build,
+    deployment, and handover'
+  - Build eval harnesses, replay loops, guardrails, cost/latency budgets, and monitoring
+    for shipped systems
+  - Extract structured facts from messy documents with deterministic, auditable validation
+    gates
+  - Optimize pipelines for cost and quality, e.g. fine-tuned small models or deterministic
+    rules over frontier models
+  - Design and ship high-stakes agentic systems like after-hours voicemail triage
+    with appropriate autonomy boundaries
+  - Define and track KPIs, baselines, and instrumentation with clients before and
+    after deployment
+  - 'Maintain client-facing engineering presence: working sessions, demos, POCs, and
+    feedback to platform team'
+  use_cases:
+  - Document intelligence with deterministic, auditable validation for money- and
+    compliance-sensitive answers
+  - After-hours voicemail triage with human-in-the-loop autonomy boundaries
+  - Voice-of-customer AI for client environments
+  - Cognitive digital twins of clients' customers
+  - Agentic workflows deployed inside client clouds in utilities, commercial real
+    estate, and logistics
+  skills:
+    genai: [LLMs, Agentic Workflows, Structured Outputs, Function Calling, RAG, Guardrails,
+      LLM Evaluation, Fine-Tuning, LangGraph, AutoGen, CrewAI]
+    ml: [Distillation, NLP, OCR, Reranking]
+    web: [FastAPI, React, OAuth]
+    databases: [PostgreSQL, pgvector, Redis, Salesforce]
+    data: []
+    cloud: [Azure, AWS]
+    ops: [Docker, Terraform, Bicep, Monitoring, Observability]
+    languages: [Python, TypeScript, Pydantic]
+    domains: []
+    other: [SharePoint, SAP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10853578'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:02:51.816114'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

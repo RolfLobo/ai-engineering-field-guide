@@ -1,0 +1,59 @@
+company:
+  name: RevStar Consulting
+  stage: null
+  focus: Cloud consulting and Databricks Lakehouse solutions
+position:
+  title: Data & AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines, Lakehouse architecture, and
+      MLOps infrastructure (MLflow, CI/CD, IaC) to operationalize
+      AI models that ML engineers and data scientists build. There
+      is no prompt design, retrieval engineering, agent building,
+      or model training/evaluation by this person, so it is ai-
+      support.
+  responsibilities:
+  - Design, build, and optimize scalable ETL/ELT pipelines using Apache Spark and
+    Delta Lake across AWS, Azure, and GCP
+  - Implement Lakehouse architectures processing structured and unstructured data
+    at enterprise scale
+  - Automate data ingestion, storage, and feature engineering workflows for analytics
+    and real-time AI workloads
+  - Fine-tune Spark jobs for latency, throughput, and cloud cost-efficiency
+  - Operationalize AI models inside Databricks using MLflow for tracking, versioning,
+    and deployment
+  - Implement CI/CD pipelines and Infrastructure-as-Code (Terraform, Databricks CLI)
+    for production deployments
+  - Enforce data security, access controls, and compliance (GDPR, HIPAA, SOC 2) in
+    Unity Catalog
+  - Collaborate with client tech leaders and engineering teams, author documentation,
+    and lead solution handoffs
+  use_cases:
+  - Enterprise Lakehouse data platforms across multi-cloud environments
+  - Data pipelines feeding production AI and analytics workloads
+  - Operationalizing AI models in Databricks with MLflow
+  - Data governance and compliance in enterprise lakehouses
+  skills:
+    databases: []
+    domains: []
+    data: [Databricks, Spark, Delta Lake, Data Pipelines, Unity Catalog, Data Governance]
+    web: []
+    ml: [Feature Engineering]
+    ops: [MLflow, CI/CD, Terraform, Infrastructure as Code]
+    other: [GDPR, HIPAA Compliance]
+    cloud: [AWS, Azure, GCP, Generative AI]
+    languages: []
+    genai: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11090461'
+  location: USA
+  locations:
+  - USA
+  - New York, USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:25.207420'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

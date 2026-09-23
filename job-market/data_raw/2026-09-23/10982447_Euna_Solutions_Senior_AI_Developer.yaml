@@ -1,0 +1,260 @@
+job_id: 10982447
+title: Senior AI Developer
+company: Euna Solutions
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  The Opportunity
+
+  Euna Solutions is seeking a talented Senior AI Developer to
+  be a key participant in our ambitious AI transformation of
+  our finance platform for local and state government
+  agencies.  We are raising the bar on every part of the
+  development process with an intentional agentic focus. This
+  isn’t an idea, it’s accelerating taking what we have already
+  achieved to the next level and it’s a great opportunity for
+  an innovative curious AI developer who wants to push the
+  boundaries and learn and work with some incredible talent.
+
+
+
+  The idea is to take this to the next level building
+  applications with AI capabilities from the ground up. We
+  need developers who know what good looks like, not just the
+  code but all the other considerations necessary for building
+  and designing enterprise grade software.
+
+
+
+  You'll own the hard problems: orchestration patterns that
+  hold up under real-world load, developer experiences that
+  let your teammates move fast with confidence, and
+  engineering decisions that turn ambiguous requirements into
+  concrete, operable systems.
+
+
+
+  What You'll Do:
+
+
+
+  Platform Ownership
+
+  - Own the evolution of shared AI components, libraries, and
+    platform capabilities the whole team builds on. You set
+    the bar for reliability, testability, and developer
+    experience — not as a reviewer, but as the person who
+    ships it.
+
+
+
+  AI Feature Development
+
+  - Design and build AI-powered product features end-to-end: LLM
+    orchestration, prompt engineering workflows, evaluation,
+    and observability. Carry work from requirements shaping
+    through deployment, monitoring, and iteration.
+
+
+
+  Delivery Systems
+
+  - Design and build the CI/CD patterns, deployment pipelines,
+    observability tooling, and developer workflows that make
+    shipping agents to production predictable and repeatable.
+
+
+
+  AI Tooling Leadership
+
+  - Lead the team on AI tooling adoption — coding assistants,
+    agentic development workflows, evaluation frameworks. Set
+    the patterns that give teammates real leverage, not just
+    access.
+
+
+
+  Backend Platform Engineering
+
+  - Build and optimize the core SaaS platform systems AI
+    features depend on: high-scale background processing,
+    scalable APIs, ingestion pipelines, search and discovery,
+    and PostgreSQL performance.
+
+
+
+  Technical Vision
+
+  - Articulate a clear engineering direction to your team and to
+    stakeholders. Translate ambiguous problems into concrete
+    plans. Build shared understanding across engineering and
+    product so everyone's rowing the same way.
+
+
+
+  Mentorship & Growth
+
+  - Actively grow the engineers around you. Run technical
+    reviews, establish best practices, and create an
+    environment where the team can move quickly without
+    constantly second-guessing their decisions.
+
+
+
+  What You Bring (as many as possible)
+
+
+
+  - 7+ years of hands-on software development, with deep
+    proficiency in at least one modern backend or full-stack
+    language and breadth across the full SDLC
+  - Understanding of agentic system design: orchestration, tool
+    use, memory, retrieval, evaluation, and agent-to-agent
+    communication — with the judgment to make the right
+    architectural calls under real constraints
+  - Some hands-on experience with production agentic tooling —
+    orchestration frameworks (LangChain, LangGraph, CrewAI),
+    LLM APIs (OpenAI, Anthropic, Bedrock), vector databases,
+    and evaluation/observability platforms (LangSmith,
+    PromptLayer)
+  - Previous experience building scalable multi-tenant SaaS
+    applications ideally in one of C#, Ruby, Rails, Elixir,
+    Python or similar language.
+  - Demonstrated experience delivering production, client-facing
+    agentic solutions end-to-end — you've shipped agents real
+    users depend on, navigated the hard operational problems,
+    and iterated from prototype to stable production
+  - Strong AWS experience (or similar on Azure) — comfortable
+    with Lambda, ECS, S3, RDS, API Gateway, and CloudWatch;
+    able to design production-grade cloud-native architectures
+    that are observable and operationally sound
+  - Deep grasp of SaaS architecture principles — you design
+    systems others build on top of, and you understand the
+    tradeoffs between speed, scalability, and maintainability
+    at each layer
+  - Proven track record building developer platforms and
+    delivery systems — CI/CD pipelines, deployment automation,
+    testing frameworks, and the processes that let teams ship
+    AI features rapidly and safely
+  - Strong background in background processing systems (Redis-
+    backed job queues, schedulers) and high-scale data
+    pipelines
+  - Solid understanding of PostgreSQL schema design and
+    performance optimization
+  - Experience designing and operating production REST APIs
+    (auth, versioning, validation)
+  - Understanding in Event Driven Development.
+  - Experience with search and discovery systems (full-text,
+    semantic, or vector search)
+  - Strong understanding of security best practices (auth, data
+    isolation, secrets management)
+  - A demonstrated AI-first development approach — concrete
+    examples of using LLMs and agentic tools (Claude Code,
+    Cursor, Copilot) across the full breadth of daily
+    engineering work, not just AI features
+
+
+
+  Nice to Have
+
+  - Experience in government tech, public sector, or another
+    compliance-heavy domain (auditability, data isolation,
+    security reviews)
+
+  Location: This position will be remote within the USA,
+  preference given for EST time zone.
+
+
+
+  AI Mindset at Euna Solutions We believe the future of work
+  is human + AI. At Euna Solutions, we encourage our team
+  members to leverage AI tools to enhance creativity,
+  efficiency, and decision-making. We’re looking for people
+  who are curious about emerging technologies, eager to
+  experiment, and committed to using AI responsibly to
+  augment—not replace—their expertise.
+
+  If you enjoy exploring new ways to solve problems, learning
+  continuously, and applying AI to make your work smarter and
+  more impactful, you’ll thrive here.
+
+
+
+  What It's Like to Work at Euna Solutions At Euna Solutions,
+  we carefully foster a work environment where employees have
+  a safe space for creative and intellectual freedom, and the
+  opportunity to work cross-functionally. We offer a dynamic
+  environment with considerable opportunities for professional
+  growth and advancement.
+
+  Here are some of the perks that Euna employees enjoy: 
+
+  💵 Competitive wages   We pay competitive wages and salaries,
+  and we only expect an honest 40-hour week for it.
+
+  🧘‍♀️ Wellness days   What’s better than a long weekend?  An
+  extra-long weekend! Twice a year, Euna employees enjoy an
+  extra day on top of the long weekend! An extra day to
+  decompress and spend time doing the things you love.
+
+  🙌 Community Engagement Committee   At Euna, we know how
+  important it is to give back. Our community engagement
+  committee looks for ways to give back to our local
+  communities through time, gifts and skills.
+
+  🕰 Flexible workday   We understand that what a workday looks
+  like differs by employee and the role requirements. Through
+  our interview process we’ll work with you to ensure it’s a
+  fit for you and the specific role you’re interested in.
+
+  💰 Benefits   Ask us for a copy of our health and dental
+  benefits!
+
+  🎉 Culture committee   Celebrate at every occasion with the
+  culture team! They make sure that our team’s culture is
+  bustling with frequent fun events for holidays and special
+  occasions, as well as for miscellaneous fun.
+
+
+  About Euna Solutions
+
+  Euna Solutions® is the leading provider of purpose-built,
+  cloud-based software designed to streamline procurement,
+  budgeting, payments, and grants management for public sector
+  and government organizations. Euna’s AI-powered features and
+  intelligent automation help organizations make better-
+  informed decisions, ensure compliance, empower
+  collaboration, and reduce administrative burden. Euna’s
+  full-cycle financial suite supports more than 3,600
+  organizations across North America in building trust,
+  enabling transparency, and driving positive community
+  impact. Recognized on Government Technology’s GovTech 100
+  list, Euna Solutions is committed to advancing public sector
+  innovation. To learn more, visit www.eunasolutions.com.
+  Euna's privacy policy is available here.
+
+  Please visit our website: https://eunasolutions.com/careers/
+  and check out our LinkedIn Pages
+  https://www.linkedin.com/company/eunasolutions/   
+
+  We believe in embracing new perspectives and optimizing
+  impact. If you have relatable experience and relevant
+  transferable skills but feel you may be missing a few of the
+  requirements, we encourage you to apply!  We recognize that
+  people have unique career journeys and if you're excited
+  about this role and know you can bring something great to
+  the team, then we want to hear from you. Please know Euna
+  Solutions is committed to providing a comfortable and
+  accessible interview process for every candidate. If there
+  are any accommodations our team can make throughout our
+  hiring process (big or small), please let us know. 
+
+  For any inquiries or requests regarding accessibility at
+  Euna Solutions, please email recruiting@eunasolutions.com or
+  call our office at 1.877.707.7755. Upon request, appropriate
+  accessible formats or arrangements will be provided as soon
+  as practicable.
+posted_date: 2026-09-02
+url: "https://www.builtinla.com/job/senior-ai-developer/10982447"
+source: Built In

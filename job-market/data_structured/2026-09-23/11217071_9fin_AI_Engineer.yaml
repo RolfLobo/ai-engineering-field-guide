@@ -1,0 +1,49 @@
+company:
+  name: 9fin
+  stage: null
+  focus: AI data platform for global debt markets
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds generative AI applications with agentic
+      frameworks, designs retrieval (chunking, embedding models,
+      re-rankers), and works with GraphRAG, directly shaping LLM
+      output quality. It also spans classical ML, but with
+      LLM/agentic components present, the role is ai-first.
+  responsibilities:
+  - Design and build generative AI applications for financial and legal workflows
+  - Drive end-to-end model development lifecycle with reproducible research and managed
+    deployment
+  - Collaborate cross-functionally to understand business problems and mentor teammates
+  - Translate complex problems into well-scoped projects in a fast-paced environment
+  - Apply cutting-edge research in advanced AI topics with iterative improvements
+  - Promote adoption of AI throughout 9fin
+  use_cases:
+  - Generative AI for financial and legal document workflows
+  - Information retrieval over debt market data including PDFs
+  - Entity and relationship extraction from credit documents
+  - Knowledge graph construction and inference for debt markets
+  - Recommendation and ranking of financial content
+  - Predictive and anomaly detection modelling on structured financial data
+  skills:
+    genai: [RAG, GraphRAG, Embeddings, Generative AI, AI Agents]
+    ml: [Fine-Tuning, Feature Engineering, Anomaly Detection, Machine Learning, Deep
+        Learning, Model Evaluation, Recommendation Systems, Learning to Rank, XGBoost]
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11217071'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:27:59.917902'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

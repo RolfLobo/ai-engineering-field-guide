@@ -1,0 +1,53 @@
+company:
+  name: SpaceX
+  stage: null
+  focus: |-
+    National security satellite networks leveraging Starlink
+    technology
+position:
+  title: Network Engineer, AI Infrastructure (Starshield)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a network engineering role building datacenter and
+      GPU cluster connectivity infrastructure. The role runs and
+      scales networks that ML training teams use, but does not
+      shape model behavior, output quality, or train/fine-tune
+      models itself. AI is the workload being supported, not the
+      product being shaped.
+  responsibilities:
+  - Manage network infrastructure and deployments to Top Secret data centers
+  - Design, validate, and productize high-speed copper and optical connectivity solutions
+    for AI clusters (100k+ GPU scale)
+  - Collaborate with ML training teams to translate workload communication patterns
+    into interconnect topology requirements
+  - Improve network performance and reliability including capacity planning, failure
+    detection and remediation
+  - Lead network integration and troubleshooting efforts
+  - Build automation for network devices and deployment tools
+  - Assist in updating system configuration and firmware
+  use_cases:
+  - AI training cluster networking at 100k+ GPU scale
+  - National security mission data center networks
+  - High-speed copper and optical interconnects for ML workloads
+  - Secure Top Secret data center infrastructure
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [DWDM, Optical Fiber]
+    languages: []
+    domains: []
+    other: [Ethernet, IPv4, IPv6, MPLS, BGP, OSPF, VXLAN, InfiniBand, NVLink, NVIDIA
+        GPU Deployment Stacks, Network Security, ZTP, Datacenter Networks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11175479'
+  location: Hawthorne, USA
+  extracted_at: '2026-09-23T11:23:47.841151'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

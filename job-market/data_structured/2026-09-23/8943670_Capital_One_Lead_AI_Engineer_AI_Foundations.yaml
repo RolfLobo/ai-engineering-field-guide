@@ -1,0 +1,57 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: Lead AI Engineer (AI Foundations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and optimizes LLM systems
+      including foundation model training, LLM inference,
+      guardrails, model evaluation, and LLM optimization
+      techniques. This is directly shaping model behavior and
+      output quality with LLM components, so it's ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and observability
+  - Leverage open source and SaaS AI technologies such as AWS Ultraclusters, Hugging
+    Face, vector databases, NeMo Guardrails, and PyTorch
+  - Invent and apply state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - AI-powered customer experiences in banking
+  - Real-time customer question answering
+  - Fraud and unusual charge detection alerts
+  - Foundation AI infrastructure serving teams across Capital One
+  skills:
+    genai: [Guardrails, LLMs, LLM Evaluation, Similarity Search]
+    ml: [PyTorch, Hugging Face, Model Training]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Observability]
+    languages: [Python, Go, Java, Scala, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8943670'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:37:39.266530'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Bristol Myers Squibb
+  stage: null
+  focus: Global biopharmaceutical company developing medicines
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs multi-agent workflows, prompt management,
+      tool-calling protocols, and agent evaluation
+      frameworks—directly shaping LLM behavior. LLM/agent
+      components dominate, so ai-first.
+  responsibilities:
+  - Design and deploy autonomous multi-agent workflows using orchestration frameworks
+    like LangGraph, CrewAI, and AutoGen
+  - Build production-grade FastAPI applications with async I/O integrating PostgreSQL,
+    Redis, and enterprise services
+  - Integrate cloud LLM providers and design prompt management systems with versioning
+    and templating
+  - Implement tool-calling protocols (MCP, function calling) and conversation state
+    persistence
+  - Integrate observability platforms and evaluation frameworks for agent tracing
+    and output quality
+  - Ensure enterprise security, error handling, and compliance with Responsible AI
+    standards
+  - Partner with data engineers, analysts, and UX teams to translate requirements
+    into agent workflows
+  - Mentor junior engineers on async Python, agent design, and LLMOps
+  use_cases:
+  - Enterprise employee productivity enhancement
+  - Intelligent business process automation via autonomous agents
+  - Streamlined information access across business functions
+  - Agent orchestration across multiple business domains
+  - Cost and performance optimization of production LLM workflows
+  skills:
+    genai: [LangGraph, CrewAI, AutoGen, LangChain, LLMs, Prompt Engineering, AWS Bedrock,
+      Azure OpenAI, Anthropic API, OpenAI API, MCP, Function Calling, Agentic Workflows,
+      AI Agents]
+    ml: []
+    web: [FastAPI, WebSockets, REST APIs]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Git, CI/CD, Langfuse, LangSmith, LLMOps]
+    languages: [Python, asyncio]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10685454'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:00:24.346126'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

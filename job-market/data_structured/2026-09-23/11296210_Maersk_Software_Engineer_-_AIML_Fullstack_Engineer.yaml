@@ -1,0 +1,51 @@
+company:
+  name: Maersk
+  stage: null
+  focus: Global logistics and container shipping
+position:
+  title: Software Engineer - AI/ML Fullstack Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, RAG pipelines, and
+      LLM-powered workflows directly (prompt engineering, AI
+      orchestration frameworks, vector databases), which is
+      shaping LLM behavior. This is not merely consuming an AI
+      API; the engineer designs the agent and retrieval layers.
+  responsibilities:
+  - Deliver technical capabilities matching product backlog user stories
+  - Design, develop, and maintain scalable frontend, backend, and AI-powered solutions
+  - Build and integrate AI agents using modern frameworks and enterprise AI services
+  - Develop intelligent workflows leveraging LLMs, RAG, vector databases, and AI orchestration
+    frameworks
+  - Build modern user interfaces with Angular, Vue.js, or React
+  - Develop backend services using Java Spring Boot and Python
+  - Use AI coding assistants to accelerate development
+  - Deploy and support AI agents in production environments
+  use_cases:
+  - Conversational assistants and copilots for Finance & Tax platform
+  - Document processing solutions
+  - Workflow automation agents
+  - Knowledge retrieval solutions
+  - AI-powered business applications
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, AutoGen, Semantic Kernel, LLMs, RAG, Prompt
+        Engineering, AI Agents, OpenAI API, Azure OpenAI, Anthropic API, Gemini, Conversational
+        AI, Semantic Search, GitHub Copilot, Claude Code, Cursor, ChatGPT]
+    ml: []
+    web: [Angular, Vue, React, JavaScript, HTML, CSS, Spring Boot, REST APIs, Microservices]
+    databases: [Vector Databases, SQL, NoSQL]
+    data: [Kafka]
+    cloud: [Azure, Azure AI Foundry]
+    ops: [CI/CD, Docker, Kubernetes]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11296210'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:35:23.192865'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

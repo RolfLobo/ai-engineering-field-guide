@@ -1,0 +1,58 @@
+company:
+  name: CrowdStrike
+  stage: null
+  focus: Cloud-native cybersecurity and endpoint protection
+position:
+  title: Engineer III - AI Powered SRE (UK Shift Timing)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents and agentic workflows
+      using LLMs, prompt engineering, function calling, and RAG to
+      autonomously detect and remediate operational issues. The
+      person shapes model behavior through agent design and
+      evaluation feedback loops, with LLM components central to
+      the work.
+  responsibilities:
+  - Design and develop AI agents that autonomously detect, diagnose, and remediate
+    operational issues across bare metal servers and virtual machines
+  - Eliminate operational toil by documenting manual workflows and building event-driven
+    automation pipelines powered by LLMs and agentic frameworks
+  - Build and maintain agentic workflows integrated with monitoring and telemetry
+    stacks for anomaly detection, incident analysis, and incident response
+  - Support AI-assisted incident response tooling that correlates signals and generates
+    remediation recommendations
+  - Instrument and evaluate agent performance, establishing feedback loops to improve
+    agent accuracy and reliability
+  - Gather and analyze OS and application metrics to feed AI agents with high-quality
+    signals for predictive operations
+  - Write and maintain technical documentation for automation systems, agent workflows,
+    and operational runbooks
+  use_cases:
+  - Autonomous detection, diagnosis, and remediation of infrastructure incidents (AIOps
+    / self-healing operations)
+  - AI-assisted incident response and post-incident analysis
+  - Automated anomaly detection via telemetry correlation
+  - Elimination of manual SRE toil through intelligent event-driven automation
+  - Predictive operations from OS and application metrics
+  skills:
+    genai: [AI Agents, Agentic Workflows, LangChain, AutoGen, CrewAI, LlamaIndex,
+      Prompt Engineering, Function Calling, RAG, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [VMware]
+    ops: [Linux, ELK Stack, Prometheus, Grafana, CI/CD, Docker, Kubernetes, Ansible,
+      Puppet, Chef, MLOps, LangSmith, Weights & Biases, Monitoring, Distributed Systems]
+    languages: [Python, Go, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10885971'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:04:59.472413'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

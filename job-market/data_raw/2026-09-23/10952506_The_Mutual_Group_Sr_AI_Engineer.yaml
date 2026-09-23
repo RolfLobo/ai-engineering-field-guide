@@ -1,0 +1,180 @@
+job_id: 10952506
+title: Sr. AI Engineer
+company: The Mutual Group
+location: USA
+locations:
+  - USA
+  - New York, USA
+  - MOZ
+remote: true
+work_type: FULL_TIME
+company_size: 400 Employees
+description: |
+  Department:
+
+  Information Technology
+
+  Job Description:
+
+  We are modernizing our data and analytics ecosystem by
+  embedding AI and Generative AI across core insurance
+  platforms (Policy, Claims, Billing, and Enterprise systems).
+
+  We are hiring a Sr AI Engineer to build and scale
+  production-grade AI solutions on AWS. This role is hands-on
+  and focused on delivering real systems, while helping shape
+  the foundation of our emerging AI platform.
+
+  This is not a pure research or modeling role. It is an
+  engineering role focused on building, deploying, and
+  operating AI systems in a regulated enterprise environment.
+
+
+
+  Work Arrangement:
+
+  - Employees who live within 30 miles of the TMG home office
+    are expected to follow a hybrid or in-office schedule. The
+    initial training period may require additional in‑office
+    days.
+
+  Accountabilities:
+
+  Build AI Systems (Core Responsibility)
+
+  - Design and implement end-to-end AI/ML solutions including
+    LLM-based applications
+  - Build RAG pipelines using vector databases and enterprise
+    data sources
+  - Build machine learning models that automate their training,
+    validation, monitoring, and retraining
+  - Develop APIs and services to operationalize AI capabilities
+    across the organization
+
+  Develop Data + AI Pipelines
+
+  - Build ingestion for multimodal content and transformation
+    pipelines for structured and unstructured data
+  - Integrate AI workflows with enterprise systems (policy,
+    claims, billing, etc.)
+  - Ensure data quality, traceability, reliability, and
+    governance in all AI pipelines
+
+  Operationalize Models (MLOps)
+
+  - Implement CI/CD for AI/ML workflows
+  - Deploy, monitor, and maintain models in production
+  - Manage model versioning, performance monitoring, and
+    retraining processes
+
+  Build on AWS
+
+  - Develop solutions using: Amazon SageMaker, AWS Lambda, S3,
+    Glue, EKS, and related services
+  - Contribute to evolving use of AWS Bedrock
+
+  Apply Responsible AI Practices
+
+  - Implement guardrails for LLM-based systems (grounding,
+    validation, safety)
+  - Ensure secure handling of sensitive data (PII, financial,
+    etc.)
+  - Build systems aligned with enterprise governance and
+    compliance standards
+
+  Lead by Doing
+
+  - Provide technical guidance and mentorship to engineers
+  - Contribute to engineering standards and reusable patterns
+  - Partner with architects and business teams to deliver high-
+    impact use cases
+
+  Qualifications:
+
+  Required
+
+  - 5+ years in software, data engineering, 3 years AI/ML
+    engineering
+  - Hands-on experience building production AI/ML systems
+  - Experience with RAG pipelines, LLMs, or NLP-based systems
+  - Experience with AWS Bedrock or similar GenAI platforms
+  - Experience with data pipelines and distributed systems
+  - Experience deploying and operating systems in AWS
+  - Working knowledge of MLOps practices (CI/CD, monitoring,
+    versioning)
+
+  Preferred
+
+  - Experience with vector databases (Pinecone, Weaviate, etc.)
+  - Experience in regulated industries (insurance, finance,
+    healthcare)
+  - Exposure to microservices and containerized environments
+    (Docker, Kubernetes)
+
+  Pay Range:
+
+  Anticipated Hiring Range:
+
+  - $120,000 - $150,000  annual base salary depending on
+    experience, qualifications, and geographic location
+  - $130,000 - $170,000 annual base salary depending on
+    experience, qualifications, and geographic location in CA,
+    CT, MA, NJ, NY, and PA
+
+  Benefits:
+
+  We are proud to offer our full-time regular employees a
+  robust benefits suite that includes:
+
+  - Competitive base salary plus incentive plans for eligible
+    team members
+  - 401(K) retirement plan that includes a company match of up
+    to 6% of your eligible salary
+  - Free basic life and AD&D, long-term disability and short-
+    term disability insurance
+  - Medical, dental and vision plans to meet your unique
+    healthcare needs
+  - Wellness incentives
+  - Generous time off program that includes personal, holiday
+    and volunteer paid time off
+  - Flexible work schedules and hybrid/remote options for
+    eligible positions
+  - Educational assistance
+
+  Equal Opportunity Employer
+
+  The Mutual Group is an Equal Opportunity Employer. It is our
+  policy to recruit, hire, train and promote individuals in
+  all job classifications without regard to race, color,
+  religion, sex, national origin, age, veteran status,
+  disability, sexual orientation, gender identity or any other
+  characteristic protected by law.
+
+  - Know Your Rights: Workplace Discrimination is Illegal
+  - Your Rights Under USERRA
+
+  Applicants requiring a reasonable accommodation due to a
+  disability at any stage of the employment application
+  process should contact Talent@themutualgroup.com.
+
+  Employment Verification
+
+  The Mutual Group participates in the E-Verify program and
+  will provide the federal government with your Form I-9
+  information to confirm that you are authorized to work in
+  the U.S. You are protected from employment discrimination
+  based on your citizenship status and national origin.
+
+  E-Verify Program Overview
+
+
+
+  E-Verify Participation Poster
+
+  All offers of employment are contingent upon the successful
+  completion of a background check.
+
+  #TMG
+posted_date: 2026-09-01
+url: "https://builtin.com/job/lead-ai-solutions-engineer/10952506"
+source: Built In

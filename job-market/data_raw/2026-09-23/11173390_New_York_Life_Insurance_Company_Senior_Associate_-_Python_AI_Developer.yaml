@@ -1,0 +1,205 @@
+job_id: 11173390
+title: Senior Associate - Python AI Developer
+company: New York Life Insurance Company
+location: New York, USA
+work_type: FULL_TIME
+company_size: 12,000 Employees
+description: |
+  Location Designation: Hybrid - 3 days per week  Business
+  Unit Technology, Data, AI and Ventures (TDAV) Within the
+  Tech, Data, AI, Ventures (TDAV) organization, our work is
+  guided by a shared vision: deploying the power of
+  technology, data, AI and ventures to accelerate sustainable
+  competitive advantage for New York Life's businesses. We
+  build solutions that power how we serve policy owners,
+  agents, advisors and employees while delivering measurable
+  business outcomes. Across technology, data, AI, cyber,
+  product, digital experience, architecture and
+  infrastructure, TDAV combines the scale and investment of an
+  industry leader, access to leading-edge technologies and the
+  opportunity to help shape how a world-class financial
+  services company competes in the AI era - all backed by the
+  stability and purpose of a mutual company built to last.
+  Department: Corporate Functions Technology Role Overview
+  Corporate Functions Technology is building the next
+  generation of AI-enabled applications that support our
+  corporate business units - Legal, Compliance, Risk
+  Management, and other core functions of the enterprise. We
+  are seeking a Python AI Developer to design, build, and
+  operationalize AI features and a reusable enterprise
+  AI/agent services layer that integrates with our existing
+  enterprise application ecosystem. What You'll Do
+
+  - Design and build Python-based AI services (LLM integrations,
+    retrieval-augmented generation, agentic and human-in-the-
+    loop workflows, embeddings/vector search) that expose
+    clean APIs for consumption by existing enterprise
+    applications.
+  - Design and implement this reusable enterprise AI/agent
+    services layer - a shared set of agent orchestration
+    services, tools, guardrails, and interfaces that
+    applications across Corporate Functions can build on,
+    rather than each team solving agent design independently.
+  - Partner directly with Enterprise Developers to integrate AI
+    capabilities into existing platforms, defining contracts
+    (REST/gRPC/messaging), data flows, and shared services
+    between the Python AI services layer and application
+    layer.
+  - Implement guardrails, human oversight mechanisms,
+    monitoring, and evaluation pipelines to ensure AI outputs
+    are accurate, explainable, auditable, and safe for use in
+    a regulated environment.
+  - Collaborate with Compliance, Risk, Legal, and Model Risk
+    Management stakeholders to ensure AI features meet
+    internal model governance standards and external
+    regulatory expectations (e.g., state insurance
+    regulations, NAIC guidance, SR 11-7-style model risk
+    frameworks, data privacy requirements).
+  - Build and maintain data pipelines and integrations
+    connecting AI services to internal systems of record,
+    ensuring appropriate handling of sensitive policyholder,
+    HR, and financial data.
+  - Write production-quality, well-tested, well-documented
+    Python code and contribute to CI/CD pipelines,
+    observability, and operational readiness for AI services.
+  - Participate in architecture reviews, security reviews, and
+    model validation exercises as part of the enterprise AI
+    governance process.
+  - Stay current on the evolving AI/ML and agentic tooling
+    landscape and bring forward recommendations for
+    responsible adoption within a highly regulated
+    environment.
+
+  What You'll Bring Required Skills
+
+  - 4+ years of professional software development experience,
+    with strong hands-on Python skills in an enterprise
+    environment.
+  - Demonstrated experience building applications or services
+    using LLMs - e.g., prompt engineering, RAG pipelines,
+    embeddings/vector databases, function/tool calling, or
+    agent frameworks.
+  - Hands-on experience evaluating and testing LLM-based
+    applications, including designing representative test
+    sets, defining quality and safety metrics, performing
+    regression testing, and/or implementing automated
+    evaluation pipelines.
+  - Experience with Model Context Protocol (MCP), including
+    building MCP servers, defining tools/resources,
+    integrating MCP clients, and securely connecting AI agents
+    to enterprise systems and APIs.
+  - Experience designing and consuming REST APIs and integrating
+    services across different technology stacks - direct
+    experience partnering with or integrating into Java-based
+    systems is highly valued.
+  - Solid understanding of software engineering fundamentals:
+    version control, testing, CI/CD, code review, and secure
+    coding practices.
+  - Experience working with cloud platforms (GCP and/or AWS) and
+    containerized deployment (Docker/Kubernetes).
+  - Familiarity with data privacy, security, and governance
+    considerations relevant to handling sensitive personal and
+    financial data.
+  - Strong communication skills and comfort working cross-
+    functionally with engineering, compliance, risk, and
+    business stakeholders.
+
+  Preferred Skills
+
+  - Experience in insurance, financial services, banking, or
+    another highly regulated industry.
+  - Exposure to model risk management, AI/ML governance
+    frameworks, or working alongside Compliance/Legal on AI-
+    related controls.
+  - Experience with AI platform and agent orchestration
+    technologies, such as Google Vertex AI / Agent Development
+    Kit (ADK), or similar agent orchestration frameworks.
+  - Familiarity with enterprise Java ecosystems (Spring Boot,
+    messaging middleware such as Kafka, enterprise service
+    buses) sufficient to design effective integration points
+    with Java teams.
+  - Experience with vector databases (e.g., pgvector, Pinecone,
+    Weaviate, OpenSearch) and retrieval architectures.
+  - Bachelor's or advanced degree in Computer Science,
+    Engineering, or a related field, or equivalent practical
+    experience.
+
+  Why This Role Matters AI adoption in regulated industries
+  like life insurance requires more than technical skill - it
+  requires the judgment to build responsibly, the
+  collaboration skills to integrate with long-standing
+  enterprise systems, and a genuine commitment to trust,
+  transparency, and compliance. This role offers the
+  opportunity to shape a foundational, reusable enterprise
+  AI/agent services capability for Corporate Functions,
+  working closely with experienced enterprise engineering
+  teams and directly influencing how AI is safely and
+  effectively adopted across the organization. This job
+  description is intended to convey information essential to
+  understanding the scope of the position and is not an
+  exhaustive list of skills, efforts, duties, or
+  responsibilities associated with the role. Pay Transparency
+  Salary Range: $100,000-$143,000 Overtime eligible: Exempt
+  Discretionary bonus eligible: Yes Sales bonus eligible: No
+  Actual base salary will be determined based on several
+  factors but not limited to individual's experience, skills,
+  qualifications, and job location. Additionally, employees
+  are eligible for an annual discretionary bonus. In addition
+  to base salary, employees may also be eligible to
+  participate in an incentive program. Company Overview At New
+  York Life, our 180-year legacy of purpose and integrity
+  fuels our future. As we evolve into a more technology-,
+  data-, and AI-enabled organization, we remain grounded in
+  the values that drive lasting impact. Our diverse business
+  portfolio creates opportunities to make a difference across
+  industries and communities-inviting bold thinking,
+  collaborative problem-solving, and purpose-driven
+  innovation. Here, you'll find the rare balance of long-
+  standing stability and forward momentum, supported by an
+  inclusive team that honors tradition while embracing
+  progress. As a Fortune 100 mutual company, we offer a place
+  to grow your skills, contribute to meaningful work, and
+  deliver solutions that matter. Your ideas drive what's next,
+  and your growth powers it. Our Benefits We provide a full
+  package of benefits for employees - and have unique
+  offerings for a modern workforce, including leave programs,
+  adoption assistance, and student loan repayment programs.
+  Based on feedback from our employees, we continue to refine
+  and add benefits to our offering, so that you can flourish
+  both inside and outside of work.Click hereto discover more
+  about our comprehensive benefit options or visit our NYL
+  Benefits Site. Our Commitment to Inclusion At New York Life,
+  fostering an inclusive workplace is fundamental to who we
+  are and how we serve our communities. We have a longstanding
+  commitment to creating an environment where individuals can
+  contribute their best and succeed together. This foundation
+  is rooted in our core values of humanity and integrity,
+  ensuring that every employee feels valued and supported. By
+  embracing a broad range of perspectives and experiences, we
+  achieve greater success and fulfill our promise of providing
+  financial security and peace of mind to families across all
+  communities. Click here to learn more about New York Life's
+  leadership in this space. Recognized as one of Fortune's
+  World's Most Admired Companies, New York Life is committed
+  to improving local communities through a culture of employee
+  giving and volunteerism, supported by the Foundation. We're
+  proud that due to our mutuality, we operate in the best
+  interests of our policy owners. To learn more about career
+  opportunities at New York Life, please visit the Careers
+  page of www.NewYorkLife.com. Visit our LinkedIn to see how
+  our employees and agents are leading the industry and
+  impacting communities. Visit our Newsroom to learn more
+  about how our company is constantly evolving to meet our
+  clients' and employees' needs. Job Requisition ID: 94734
+  #BI-Hybrid
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Fintech
+  - Information Technology
+  - Insurance
+  - Financial Services
+  - Big Data Analytics
+posted_date: 2026-09-14
+url: "https://builtin.com/job/senior-associate-python-ai-developer/11173390"
+source: Built In

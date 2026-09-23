@@ -1,0 +1,49 @@
+company:
+  name: KLA
+  stage: null
+  focus: Semiconductor process control and inspection equipment
+position:
+  title: Specialist, AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes prompt engineering, function/tool calling,
+      RAG with vector databases, and fine-tuning Hugging Face
+      transformers, which directly shapes LLM behavior. Classical
+      ML/DL skills are also present, but LLM involvement makes it
+      ai-first.
+  responsibilities:
+  - Prototype machine learning and deep learning solutions for semiconductor inspection
+    and metrology problems
+  - Develop and fine-tune LLM-based applications with RAG, prompt engineering, and
+    function calling
+  - Build ML models using supervised and unsupervised learning, ensembles, and deep
+    learning architectures
+  - Work with vector databases for embedding-based retrieval systems
+  - Handle data wrangling and SQL-based data preparation for model development
+  use_cases:
+  - Wafer surface defect inspection and quality monitoring
+  - Early identification of yield excursions in semiconductor fabrication
+  - Process monitoring for polished, epi, and engineered substrate wafers
+  - ML-based analysis of defect and process non-uniformity data
+  skills:
+    genai: [Hugging Face, Embeddings, Prompt Engineering, Function Calling, LLMs,
+      Deep Learning]
+    ml: [scikit-learn, Machine Learning, XGBoost, LightGBM, Feature Engineering, PyTorch,
+      TensorFlow, Keras, CNNs, Transformers, Fine-Tuning]
+    web: []
+    databases: [Vector Databases, Milvus, FAISS, Pinecone, Elasticsearch]
+    data: [NumPy, Pandas, Data Pipelines]
+    cloud: []
+    ops: [Git, GitHub, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10998949'
+  location: Chennai, IND
+  extracted_at: '2026-09-23T11:12:05.150029'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

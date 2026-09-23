@@ -1,0 +1,179 @@
+job_id: 10996822
+title: Lead Voice AI Engineer
+company: Simpplr
+location: Gurugram, IND
+locations:
+  - Gurugram, IND
+  - Bengaluru, IND
+work_type: FULL_TIME
+company_size: 400 Employees
+description: |
+  Who We Are
+
+  Simpplr is the AI-powered intranet for unifying the digital
+  workplace. It brings people, trusted knowledge, apps, and
+  agents into a coherent digital experience. Powered by a
+  proprietary EX Knowledge Graph, Simpplr synthesizes signals
+  and context across connected systems to deliver personalized
+  information and actions. The platform serves as a digital
+  hub supporting communications, engagement, employee
+  services, and work. With low-code extensibility and
+  enterprise-grade security and governance, Simpplr enables
+  confident operation at scale. More than 1,000 organizations
+  — including AAA, the NHS, Penske, and Moderna — trust
+  Simpplr to keep their workforce informed, aligned, and
+  productive. Learn more at simpplr.com.
+
+  About the role
+
+  We are looking for a Lead Voice AI Engineer to build
+  production-grade Voice Agents for frontline heavy verticals
+  like healthcare, manufacturing, warehousing, retail,
+  hospitality focusing on employee support, procurement,
+  collections, logistics, ordering etc.
+
+  You will lead the design of low-latency, real-time voice
+  systems combining ASR, TTS, LLMs, conversational AI,
+  enterprise workflows, knowledge retrieval, compliance, and
+  human handoff.
+
+  This is a hands-on technical leadership role for someone who
+  can take Voice AI from architecture to production.
+
+  Responsibilities
+
+  - Design and build the real-time voice runtime for live
+    conversations.
+  - Build and optimize streaming ASR, TTS, VAD, endpointing,
+    turn-taking, and barge-in.
+  - Build adaptive voice pipelines for high-noise frontline
+    environments (60-112 dB), hospitals, factory floors,
+    warehouses, including server-side noise cancellation, echo
+    suppression, and dynamic ASR/TTS optimization for PSTN and
+    mobile phone audio quality.
+  - Architect multi-provider speech routing across a broad
+    multilingual matrix, including code-switching (e.g.,
+    Spanglish, Hinglish), where no single ASR or TTS provider
+    covers all languages, and language detection, provider
+    selection, and fallback chains must operate in real time
+    mid-call.
+  - Develop Voice Agents that support multi-turn, multi-intent
+    conversations, context switching, clarification, and
+    recovery.
+  - Integrate Voice Agents with workflows, APIs, CRM, ITSM,
+    knowledge bases, and enterprise systems.
+  - Build secure identity verification, consent, privacy, audit,
+    and compliance controls.
+  - Implement warm transfer, callback, queue routing, and
+    seamless human handoff with full conversation context.
+  - Optimize multilingual voice quality across accents, noisy
+    environments, latency, and naturalness.
+  - Build evaluation frameworks for WER, intent accuracy,
+    response latency, containment, resolution, escalation, and
+    CSAT.
+  - Establish production observability across the full call
+    path: ASR → LLM → tools → TTS.
+  - Evaluate and integrate leading speech, telephony, and AI
+    technologies.
+  - Define architecture, engineering standards, and production
+    readiness for the Voice AI platform.
+  - Mentor engineers and lead critical technical design reviews.
+
+  M∂inimum qualifications
+
+  - 7+ years of software engineering experience.
+  - Strong experience building production distributed or real-
+    time systems.
+  - Hands-on experience with Conversational AI, Voice AI, Speech
+    AI, or LLM-based agents.
+  - Strong programming skills in Python, Java, Go, or
+    equivalent.
+  - Experience with APIs, streaming systems, asynchronous
+    architectures, and cloud-native platforms.
+  - Strong understanding of system design, scalability,
+    reliability, and observability.
+
+  Preferred qualifications
+
+  - Hands-on experience with Deepgram for real-time ASR and
+    streaming speech recognition.
+  - Hands-on experience with LiveKit for WebRTC, real-time
+    audio, voice-agent runtime, and session orchestration.
+  - Hands-on experience with ElevenLabs for low-latency, natural
+    TTS and conversational voice experiences.
+  - Experience with OpenAI, Azure Speech, Google Speech, or
+    similar ASR/TTS technologies.
+  - Experience with WebRTC, SIP, RTP, WebSockets, Twilio, or
+    contact-center platforms.
+  - Experience with LLM agents, tool calling, RAG, LangGraph, or
+    similar orchestration frameworks.
+  - Experience integrating enterprise systems such as
+    Salesforce, ServiceNow, Jira, Zendesk, or Workday.
+  - Experience with multilingual speech, accent handling, noisy
+    environments, PII redaction, and call-recording controls.
+  - Experience building high-scale, multi-tenant SaaS platforms.
+
+  What success looks like
+
+  - Voice Agents feel natural and responsive in real-time
+    conversations.
+  - Users can interrupt naturally and change context without
+    breaking the conversation.
+  - The system works reliably across languages, accents, and
+    noisy environments.
+  - Voice Agents securely execute enterprise workflows and
+    grounded knowledge retrieval.
+  - Complex cases escalate to humans with full context.
+  - The platform meets measurable targets for latency, accuracy,
+    reliability, containment, resolution, and customer
+    satisfaction.
+
+  Engineering principle
+
+  Voice is not chat with audio. Voice is a real-time
+  interaction model with different requirements for latency,
+  interruption, identity, compliance, failure handling, and
+  human handoff.
+
+  Your Voice, Unfiltered:
+
+  We value the real you. To ensure a fair and authentic
+  experience for everyone, we ask that you do not use AI tools
+  (such as real-time answer generators, transcription apps, or
+  note-taking bots) during your interview
+
+  Our process is designed to hear your unique story, thought
+  process, and lived experience in real-time. Use of
+  unauthorized AI tools may result in disqualification, as we
+  want to ensure every candidate is evaluated on their own
+  individual merits. We’re excited to meet the person behind
+  the resume!
+
+  If you need assistive technology or AI tools for
+  accessibility (e.g., live captioning), please notify your
+  recruiter in advance. We are committed to providing an
+  inclusive interview experience.
+
+  Simpplr’s Hub-Hybrid-Remote Model:
+
+  At Simpplr we believe that when work is good, life is better
+  and that belief guides all we do. Including how we approach
+  our flexible work model. Simpplr operates with a Hub-Hybrid-
+  Remote model. This model is role-based with exceptions and
+  provides employees with the flexibility that many have told
+  us they want.
+
+  - Hub - 100% work from Simpplr office. Role requires
+    Simpplifier to be in the office full-time.
+  - Hybrid - Hybrid work from home and office. Role dictates the
+    ability to work from home, plus benefit from in-person
+    collaboration on a regular basis.
+  - Remote - 100% remote. Role can be done anywhere within your
+    country of hire, as long as the requirements of the role
+    are met.
+industries:
+  - HR Tech
+  - Software
+posted_date: 2026-09-03
+url: "https://builtin.com/job/lead-voice-ai-engineer/10996822"
+source: Built In

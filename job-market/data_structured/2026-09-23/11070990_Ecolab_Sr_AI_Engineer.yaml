@@ -1,0 +1,44 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene, and infection prevention services
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs GenAI systems with LLMs, vector-based
+      retrieval (RAG), and multi-agent orchestration, which
+      directly shapes model behavior and output quality. No
+      classical-ML-only scope is present.
+  responsibilities:
+  - Lead the development of scalable GenAI-powered systems
+  - Design intelligent workflows leveraging LLMs, vector-based retrieval, and multi-agent
+    orchestration frameworks
+  - Drive solution architecture for AI applications
+  - Mentor junior engineers
+  - Deliver production-ready applications integrated with business processes and platforms
+  use_cases:
+  - Intelligent business workflow automation using LLMs
+  - Vector-based retrieval systems
+  - Multi-agent orchestration for business processes
+  - GenAI applications integrated with business platforms
+  skills:
+    genai: [Generative AI, LLMs, Vector Search, Multi-Agent Systems, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11070990'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:17:17.425500'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,163 @@
+job_id: 11053968
+title: Software Engineer, Applied AI
+company: Kaizen Labs
+location: New York, USA
+work_type: FULL_TIME
+company_size: 40 Employees
+description: |
+  Government technology has failed citizens, public servants,
+  and service members for decades.
+
+  Kaizen powers America’s application layer. We replace the
+  legacy systems federal agencies run on with modern software,
+  built with craft. The ticketing platform a resident uses to
+  visit a presidential library. The marketplace DoW uses for
+  counter-drone procurement to protect lives and critical
+  infrastructure. The system a Veteran uses to access
+  benefits. We build systems of record, of national
+  consequence. Our AI-native modules and harness allow us to
+  do so in weeks and months, not years.
+
+  This year, our revenue has grown 35x. Next year, our
+  software will serve over 100 million Americans across dozens
+  of federal agencies.
+
+  Founded in 2022 and based in New York City and DC, Kaizen
+  has raised $35 million from NEA, a16z, Accel, 776, and
+  Carpenter Capital.
+
+  The Role
+
+  We built an internal tool called Bidbuddy. Before it
+  existed, someone on our team spent eight hours a week
+  scraping procurement sites, pulling RFPs by hand, and
+  reading them to figure out which ones were worth chasing.
+  Now one system does the scraping and the first pass of
+  analysis. Those eight hours went back to the people doing
+  the actual work of winning.
+
+  That's one tool. We need many more, and most of them don't
+  exist yet. Kaizen is about 40 people supporting software
+  that reaches 40 million residents across 50+ agencies in 17
+  states, and the only way that math holds is if the company
+  runs on tools instead of hours.
+
+  This role owns that. You'll go department by department,
+  find where the time goes, and build the thing that takes it
+  back. Sometimes that's an internal app. Sometimes it's an
+  automation nobody notices. Sometimes it's teaching a team to
+  use AI properly, which is often the highest leverage thing
+  available. Then you roll it out and stay on it until people
+  actually use it. We already have the list, and it's long.
+
+  Location
+
+  This is a hybrid role based out of our New York City HQ.
+  Candidates must reside in New York or be able to commute to
+  New York City to work out of our office at least three times
+  a week (Tuesdays - Thursdays).
+
+  What You'll Do
+
+  - Own internal tools end to end, from the hallway conversation
+    that surfaces the problem through architecture, build,
+    rollout, and the week two fixes.
+  - Build AI powered internal systems in the mold of Bidbuddy:
+    document parsing and analysis, agentic workflows,
+    automated research and routing, and tooling that turns
+    hours of manual work into minutes.
+  - Work directly with leads across Proposals, Customer Ops,
+    Sales, Design, and Engineering to find where the time is
+    going, and translate half-formed asks into something worth
+    building.
+  - Drive AI enablement across the company. Every person at
+    Kaizen should know how to get the most out of these tools.
+  - Support the external analytics layer inside Kaizen's
+    platform, so customers have clear, actionable data at
+    their fingertips
+  - Back up the deployment team during an implementation
+
+  What You'll Bring
+
+  - 2 to 5 years of engineering, data, or applied AI experience,
+    or work that makes the years irrelevant. Slope matters
+    more than seniority
+  - Something you built end to end that a team still uses today:
+    an internal application, an automation, a tool that
+    changed how people work. Not a prototype, not a demo
+  - Genuine fluency with AI tools. You've shipped with them, not
+    just explored them, and you can name where they failed you
+    and how you caught it
+  - Strong SQL and enough data modeling to work in an existing
+    warehouse and ship a model when the job calls for it
+  - The ability to take a vague problem from a non-technical
+    stakeholder and come back with the right scope, not the
+    requested one
+  - Low ego, high output. You do the unglamorous rollout work
+    because that's what makes the build matter
+
+  Strong Candidates May Also...
+
+  - Have built internal tooling at a company where the hard part
+    was getting hundreds of people to change how they work
+  - Come out of forward deployed or solutions engineering at an
+    AI or developer tools company, where the job was making
+    software work inside someone else's mess
+  - Know N8N, Zapier, or similar deeply enough to have a view on
+    when not to reach for them
+  - Have built in government, healthcare, or another environment
+    where getting it wrong has consequences
+
+  What Kaizen Offers
+
+  Health & Insurance
+
+  - 100% coverage across the board: medical through
+    Oxford/United (Gold and Platinum PPO plans), dental
+    through Guardian PPO, and vision through Beam — all fully
+    covered for employees, with 100% coverage for dependents.
+  - $100,000 in fully paid life insurance. FSA and Dependent
+    Care FSA.
+  - One Medical membership, on us — same-day primary care, 24/7
+    virtual visits, and offices all over the city.
+  - Fertility and family-building support through Carrot.
+  - 401(k) through Guideline, with a 2% company match.
+
+  Family & Time Off
+
+  - 16 weeks of fully paid parental leave for birthing parents.
+    10 weeks fully paid for non-birthing parents.
+  - Unlimited PTO, with a two-week minimum (we mean it when we
+    say take time off!)
+  - Closed for all federal holidays.
+  - Company-wide winter break the week of Christmas.
+  - Company offsites throughout the year.
+
+  Office & Remote Setup
+
+  - Up to $750 one-time home office or desk setup stipend for
+    NYC-based employees. $500 for remote employees.
+  - $50/month commuter benefit (company contribution).
+  - Expensed lunch while in the office.
+  - Company-provided laptop of your choice.
+
+  Wellness
+
+  - NYC employees: Fully covered gym membership at Grindhouse —
+    right across the street from our office at 47 W 17th St
+    (and in Williamsburg). A $225/month value, on us.
+  - Non-NYC employees: $100 per month, dedicated to gym /
+    physical fitness reimbursement.
+
+  Stipends
+
+  - $100/month utility stipend.
+  - $500/year professional development.
+  - $250/year recreation.
+  - $300/quarter pet care stipend.
+industries:
+  - Social Impact
+  - Software
+posted_date: 2026-09-08
+url: "https://builtin.com/job/software-engineer-applied-ai/11053968"
+source: Built In

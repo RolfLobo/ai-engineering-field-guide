@@ -1,0 +1,214 @@
+job_id: 11079020
+title: "Fullstack Data Engineer - Applied & Agentic AI Systems"
+company: Roche
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 93,797 Employees
+description: |
+  At Roche you can show up as yourself, embraced for the
+  unique qualities you bring. Our culture encourages personal
+  expression, open dialogue, and genuine connections,  where
+  you are valued, accepted and respected for who you are,
+  allowing you to thrive both personally and professionally.
+  This is how we aim to prevent, stop and cure diseases and
+  ensure everyone has access to healthcare today and for
+  generations to come. Join Roche, where every voice matters.
+
+  The Position
+
+  Job description
+
+  Our Applied AI Engineering Team is seeking a fullstack AI
+  Data Engineer to join a newly formed, autonomous development
+  squad dedicated to pioneering agentic, LLM-based solutions.
+  Operating across the entire lifecycle—from initial ideation
+  and rapid prototyping to production-grade deployment and
+  ongoing operations—you will architect the resilient data
+  infrastructure required to power next-generation AI. We are
+  looking for an expert capable of orchestrating both
+  structured and unstructured datasets, implementing high-
+  performance vector databases, and managing real-time streams
+  within cloud-native environments.
+
+  Description of the area
+
+  At Roche Digital Technology, we are advancing the boundaries
+  of Applied AI. The Applied AI Engineering Team focuses on
+  architecting, building, and operating high-value AI
+  solutions and services to solve complex business challenges
+  in healthcare.
+
+  In the 2026 tech landscape, we operate in small, highly
+  autonomous agile teams (e.g., ~9 members) powered by
+  advanced coding agents (like Claude Code) to develop and
+  ship solutions faster than ever before. In this highly
+  regulated environment, quality cannot be an afterthought.
+  You will be the foundational pillar ensuring our rapidly
+  developed agentic workflows and AI, GenAI, and agentic
+  applications are safe, compliant, and robust before they
+  reach the clinical or enterprise user.
+
+  Job Responsibilities
+
+  - Generative AI Application Co-creation: Collaborate with AI
+    engineers, data scientists, product owners, and other
+    developers in Agile teams to integrate LLMs into scalable,
+    robust, fair, and ethical end-user applications, focusing
+    on user experience, relevance, and real-time performance
+  - Data Infrastructure Development and Data Integration: Design
+    and implement scalable, high-performance data pipelines
+    for AI/GenAI applications, ensuring efficient data
+    ingestion, transformation, storage and retrieval;
+    integrate different databases, requiring understanding of
+    data architectures / Domain data ecosystem
+  - Vector Databases: work with vector databases (e.g., AWS
+    OpenSearch, Azure AI Search) to facilitate scalable, high-
+    speed similarity search and RAG for generative AI
+    applications with high-dimensional data.
+  - Graph Databases: Work with graph databases (e.g., Neo4j, AWS
+    Neptune) to enable GraphRAG, support multi-hop logical
+    reasoning for agentic workflows, and provide auditable
+    explainability for enterprise AI decision-making.
+  - Cloud-Based Data Engineering: Build and maintain cloud-based
+    data solutions using AWS (OpenSearch, S3) or Azure (Azure
+    AI Search, Azure Blob Storage)
+  - Snowflake Implementation: Design and optimize data storage
+    and processing using Snowflake for scalable, cloud-native
+    analytics solutions
+  - Data Processing & Transformation: Develop ETL/ELT pipelines
+    to enable real-time and batch data processing
+  - Support AI Model Workflows: Collaborate with AI/ML Engineers
+    and Data Scientists to ensure seamless integration of data
+    pipelines with AI finetuning, inference and training
+    workflows
+  - Performance Optimization: Optimize data storage, retrieval,
+    and processing strategies for efficiency, scalability, and
+    cost-effectiveness
+  - Software Development Lifecycle: understand and leverage an
+    agentic software development lifecycle (SDLC) in day to
+    day work
+  - Security & Compliance: Implement data governance, security
+    best practices, and compliance measures aligned with
+    Roche’s standards
+  - Monitoring & Maintenance: Set up monitoring, alerting, and
+    logging for data pipelines, ensuring high availability and
+    reliability
+
+  Skills
+
+  Must have:
+
+  - Experience: 7+ years in data engineering, preferably
+    supporting AI/ML applications
+  - Advanced Programming & SQL: Writing production-grade code in
+    Python alongside highly optimized, complex SQL queries.
+  - Advanced System Architecture & Modeling: Designing scalable,
+    fault-tolerant ETL/ELT data pipelines and Lakehouse
+    architectures (e.g., Snowflake).
+  - Orchestration: Hands-on expertise with orchestration tools
+    (like Airflow).
+  - Data Engineering in AI: Developing Retrieval-Augmented
+    Generation (RAG), AI systems powered by Vector Databases
+    and/or LLM fine-tuning, and data preparation
+  - Document Processing Proficiency: Extracting, transforming,
+    and loading data from diverse file formats (PDF, DOCX,
+    CSV, JSON, etc.), including automated parsing and
+    information retrieval from unstructured and semi-
+    structured documents
+  - Version Control & DevOps: Hands-on experience with Git,
+    CI/CD, containerization (Docker, Kubernetes), and
+    Infrastructure as Code (Terraform, CloudFormation)
+  - Problem Solving: Excellent analytical skills and the ability
+    to tackle complex challenges with innovative solutions
+
+  Should have:
+
+  - AWS Cloud Platforms: Hands-on experience with AWS
+    (OpenSearch, S3, Lambda, AWS fundamentals)
+  - GraphDB: Experience in building solutions with GraphDB
+  - APIs & Microservices: Ability to design and integrate
+    RESTful APIs for data exchange
+  - Data Security & Governance: Understanding of encryption and
+    role-based access controls
+  - Working in an SDLC environment meeting regulatory
+    requirements
+  - Proficiency in best practices of software engineering
+  - Agentic SDLC & Engineering Excellence: Leverage AI coding
+    assistants and autonomous agents (e.g., Claude Code, Ona)
+    daily to accelerate full-stack development and testing
+    cycles. Conduct rigorous code reviews for both human-
+    written and AI-generatd code.
+
+  Could have:
+
+  - Regulatory Compliance: Proven experience in working within
+    highly regulated industries.
+  - Data Science & Classical Machine Learning: Practical
+    background in Data Science, encompassing feature
+    engineering, model training, and data preparation
+    leveraging traditional ML techniques.
+  - Distributed Data Processing: Hands-on expertise with big
+    data frameworks (like Apache Spark or Flink).
+
+  Capabilities:
+
+  - Problem-Solving Skills: Excellent analytical skills to
+    tackle complex engineering and statistical challenges.
+  - Ownership & Leadership: Deep sense of accountability, eager
+    to define architectural patterns, and able to step into a
+    Tech Lead role when necessary.
+  - Consulting: Ability to work closely with stakeholders across
+    the enterprise to consult on the technological approaches
+    to their business problems.
+  - Ethics: Strong understanding of biases, fairness,
+    hallucination mitigation, and responsible AI deployment.
+
+  Qualifications
+
+  - hold B.Sc., B.Eng., or higher, or equivalent in Computer
+    Science, Data Engineering or related fields
+  - have an interest in AI and stay up to date with the latest
+    advancements in data engineering
+  - be team-oriented, proactive, and collaborative
+  - have strong analytical and problem-solving skills
+  - have excellent verbal and written communication skills
+  - be detail-oriented and highly organized
+  - be willing to learn and expand their skill set
+  - have the ability to work collaboratively in a fast-paced,
+    dynamic environment
+  - be able to communicate in English at the level of C1+
+  - Located in Hyderabad, India, with working hours structured
+    to capture the 'golden hours' of overlap with Central
+    European Time (typically running through the IST evening).
+
+  Shift: CET time zone
+
+  #Hyderabad2026
+
+
+
+
+
+  Who we are
+
+  A healthier future drives us to innovate. Together, more
+  than 100’000 employees across the globe are dedicated to
+  advance science, ensuring everyone has access to healthcare
+  today and for generations to come. Our efforts result in
+  more than 26 million people treated with our medicines and
+  over 30 billion tests conducted using our Diagnostics
+  products. We empower each other to explore new
+  possibilities, foster creativity, and keep our ambitions
+  high, so we can deliver life-changing healthcare solutions
+  that make a global impact.
+
+  Let’s build a healthier future, together.
+
+  Roche is an Equal Opportunity Employer.
+industries:
+  - Healthtech
+  - Biotech
+  - Pharmaceutical
+posted_date: 2026-09-18
+url: "https://builtin.com/job/fullstack-data-engineer-applied-agentic-ai-systems/11079020"
+source: Built In

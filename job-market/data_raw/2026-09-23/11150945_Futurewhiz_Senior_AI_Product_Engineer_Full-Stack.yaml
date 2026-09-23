@@ -1,0 +1,274 @@
+job_id: 11150945
+title: Senior AI Product Engineer (Full-Stack)
+company: Futurewhiz
+location: Amsterdam, NLD
+work_type: FULL_TIME
+company_size: 80 Employees
+description: |
+  📍 Amsterdam - Hybrid (minimum 50% at the office)
+
+  ⏱️ 36-40 hours per week
+
+  💰 €4,900–€5,600 gross per month, based on 40 hours and
+  depending on experience
+
+  🌍 Futurewhiz is a B Corp
+
+  Just a small heads-up regarding logistics: we aren't able to
+  offer visa sponsorship for this role, so we can only
+  consider candidates who already hold a valid work permit for
+  the Netherlands or the EU.
+
+  Generative AI can create textbook content in seconds.
+  Producing content that is accurate, curriculum-aligned,
+  editable and trusted by authors and editors, and doing so
+  reliably at scale, is much harder. That is the challenge you
+  will help us solve.
+
+  Futurewhiz is looking for a Senior AI Product Engineer to
+  help turn promising AI experiments into dependable software
+  for real publishing workflows. You will remain deeply hands-
+  on while taking broader responsibility for technical
+  direction, architecture and the path from an uncertain
+  opportunity to a durable product.
+
+  This is not a role where product decisions arrive as fully
+  specified tickets. You will work with editorial and
+  technical colleagues to frame problems, test assumptions and
+  decide what is worth building. Seniority here means sound
+  judgement, independent ownership and the ability to make the
+  wider team more effective—not status, people management or
+  knowing every technology in advance.
+
+  🏰 About Futurewhiz
+
+  For nearly 15 years, Futurewhiz has been the market leader
+  in EdTech in the Netherlands. Our brands – including Squla
+  and StudyGo – help children and teenagers aged 3 to 18 learn
+  and grow at their own level and pace. Our mission is clear:
+  "Empowering every child to grow." We’ve been a certified B
+  Corp since 2020, which means we strive for a strong balance
+  between purpose and profit.
+
+  🎮 What will you do?
+
+  You will join the Futurewhiz Content Automation team and
+  work closely with software engineers, editorial specialists
+  and colleagues at a major educational publisher. Together,
+  you will improve the workflows used to create and maintain
+  high-quality learning materials, including textbooks and
+  digital content.
+
+  Each cross-functional team focuses on a particular part of
+  the publishing workflow. The team studies where time,
+  quality or cost is being lost; tests possible improvements
+  with users; and builds the solutions that show the most
+  promise. Once the best opportunities in one area have been
+  addressed, the team may move to another part of the
+  workflow.
+
+  Your editorial colleague will lead much of the specialist
+  research, such as interviewing authors and editors, testing
+  editorial concepts and mapping publishing workflows. You
+  will participate where technical insight, feasibility
+  testing or rapid prototyping is valuable, while owning the
+  technical approach and ensuring the resulting software can
+  succeed beyond the prototype stage.
+
+  Specifically, you will:
+
+  - Own the technical direction for an AI-assisted product area
+    from early discovery through production operation
+  - Build across the stack: Python services and APIs, data
+    flows, user-facing interfaces and the infrastructure
+    needed to run them
+  - Design robust LLM and agent-based workflows, including
+    prompts, evaluations, feedback loops, observability and
+    safeguards
+  - Translate editorial research and user feedback into
+    technical options, trade-offs and testable plans
+  - Identify the smallest useful experiments that can resolve
+    important technical or product uncertainty
+  - Create architectures that support rapid learning now without
+    preventing the strongest ideas from becoming durable
+    products
+  - Develop reusable platform capabilities and integration
+    patterns that can support multiple content workflows
+  - Set pragmatic standards for reliability, security,
+    maintainability, quality and cost—and help the team apply
+    them
+  - Use AI coding tools fluently while critically reviewing
+    their output and remaining accountable for the software
+    you ship
+  - Anticipate dependencies, investigate difficult failures
+    across components and keep production systems effective as
+    usage grows
+  - Raise the engineering bar through design discussions, code
+    reviews, pairing and informal mentoring
+  - Navigate technical trade-offs with both technical and non-
+    technical stakeholders, including when priorities or
+    perspectives differ
+  - Travel to Groningen for one or two days approximately once
+    every two months to work with colleagues there
+
+  There is no separate team waiting to take over UX,
+  infrastructure or operations. You will have colleagues to
+  consult, but the product team owns its solutions end to end.
+  Part of your role is helping the team keep that ownership
+  manageable through simple architecture and good engineering
+  choices.
+
+  🌟 What success looks like
+
+  In your first three months, we would expect you to:
+
+  - Build a strong understanding of the users, workflow,
+    technical environment and existing experiments in your
+    initial problem area
+  - Establish a clear technical direction based on the most
+    important evidence and uncertainties
+  - Ship and evaluate a useful prototype or production
+    improvement with real users
+  - Take end-to-end ownership of a meaningful product area,
+    including its architecture, deployment and operation
+  - Build trust with technical, editorial and publishing
+    stakeholders
+
+  As you become established, success means independently
+  moving the team from uncertain opportunities to tested
+  solutions and turning the strongest ideas into dependable
+  software. The clearest measure of your work will be whether
+  the systems you help create generate high-quality
+  educational content consistently while improving speed, cost
+  or editorial effort. You will also leave the wider platform
+  and engineering team better equipped for the next workflow
+  we tackle.
+
+  🔥 Who are you?
+
+  You are a product-minded engineer who combines technical
+  breadth with practical judgement. You can move quickly when
+  learning, slow down when reliability matters and distinguish
+  between an experiment that should remain simple and a
+  capability worth building for the long term.
+
+  You are likely to thrive here if you:
+
+  - Have a track record of independently building, shipping and
+    operating production software
+  - Are strong in Python and comfortable making effective
+    decisions across backend, frontend and infrastructure
+    concerns
+  - Have practical experience with LLM-powered products, model
+    APIs, agent workflows or closely related AI systems
+  - Use AI tools as a normal part of your engineering practice
+    to explore, build and learn faster, while verifying their
+    work critically
+  - Can frame ambiguous problems, identify the riskiest
+    assumptions and turn them into focused experiments
+  - Make architecture decisions that balance immediate product
+    learning with reliability and future reuse
+  - Take responsibility for outcomes across the full lifecycle
+    rather than stopping when the code is merged
+  - Communicate complex choices clearly to non-technical
+    colleagues and incorporate their domain expertise into the
+    solution
+  - Can guide other engineers through collaboration, review and
+    mentoring without needing a formal management role
+  - Remain pragmatic and constructive under pressure or when
+    stakeholders hold competing views
+  - Have an affinity for education and want your work to improve
+    how learning materials are made
+
+  Experience with React or TypeScript, cloud infrastructure,
+  containers, CI/CD, LLM evaluation, data analysis or applied
+  machine learning would be valuable. Experience in education,
+  publishing or content systems is welcome but not required.
+
+  We are not looking for a particular pedigree or an engineer
+  who already knows everything. We are looking for someone
+  whose experience enables good independent decisions, who
+  remains curious and who has genuinely adapted their way of
+  working to the possibilities and limitations of modern AI.
+
+  💰What do we offer?
+
+  - A gross monthly salary of €4,900–€5,600, based on 40 hours
+    and depending on experience
+  - 24 vacation days + 3 assigned days off + 1 skipping school
+    day
+  - Collective pension and health insurance
+  - A €600 annual learning budget for your professional
+    development
+  - Unlimited access to external coaches through Inuka Coaching
+  - Unlimited access to Goodhabitz training programs for
+    professional and personal growth
+
+  Additionally:
+
+  - Lifetime access to StudyGo and Squla accounts
+  - Office next to Bijlmer Arena station (with the possibility
+    of getting a Swapfiets or an OV business card if you live
+    over 7km from the office)
+  - A MacBook for work
+  - Payroll Giving option to contribute to a good cause
+  - Healthy lunches at the office, unlimited good coffee, fresh
+    fruit, and snacks
+  - A Culture Crew that organizes fun activities like outings,
+    pub quizzes, ski trips, and laser tag
+
+  😻 Who are we?
+
+  We are a passionate and diverse team united by a shared
+  mission: helping children thrive in their learning journey
+  and empowering them to grow through personalised education.
+
+  Our culture is welcoming and authentic. We believe people do
+  their best work when they can be themselves, and we actively
+  value different backgrounds, ideas, experiences and
+  perspectives. This diversity helps us serve young learners
+  more effectively, regardless of who they are.
+
+  Our platforms are for everyone, and the same applies to our
+  workplace. Everyone is welcome on this journey.
+
+  🤖 Our use of AI
+
+  At Futurewhiz, AI is not a side project. We use it
+  throughout our work to move faster, explore more
+  possibilities and improve the support we provide to
+  children, parents, teachers, authors and editors.
+
+  For this role, being AI-native means more than using ChatGPT
+  occasionally. It means knowing how to collaborate
+  effectively with AI tools, verify their output, protect
+  sensitive information and remain accountable for the quality
+  of what you ship.
+
+  Do you have any questions about AI and our use of it in the
+  recruitment process? Send us a message to
+  recruitment@futurewhiz.com
+
+  Will you be our new Senior AI Product Engineer?
+
+  We would love to hear from you even if you do not check
+  every box. If the challenge excites you and you have
+  evidence that you can turn ambiguous ideas into useful,
+  dependable products, be yourself and go for it.
+
+  Upload your CV and a short motivation through the
+  application button. In your motivation, we would especially
+  like to hear about one product or platform capability you
+  helped take from uncertainty to production: what problem it
+  addressed, what you personally owned, which trade-offs you
+  made and how you knew it was successful.
+
+  Applicants must already have the right to work in the
+  Netherlands. We are unable to provide visa sponsorship or
+  relocation support for this vacancy.
+industries:
+  - Edtech
+  - Software
+posted_date: 2026-09-12
+url: "https://builtin.com/job/senior-ai-product-engineer-full-stack/11150945"
+source: Built In

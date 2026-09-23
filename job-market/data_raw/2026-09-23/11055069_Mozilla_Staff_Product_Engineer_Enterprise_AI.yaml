@@ -1,0 +1,328 @@
+job_id: 11055069
+title: Staff Product Engineer, Enterprise AI
+company: Mozilla
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Why Thunderbird?
+
+  Thunderbird is one of the world’s most trusted open-source
+  email applications, empowering more than 20 million people
+  globally. At MZLA, the team behind Thunderbird, we build
+  privacy-respecting communication and productivity tools that
+  help people manage their digital lives while staying in
+  control of their data.
+
+  We are open source by design. Our products are developed
+  transparently and in collaboration with a global community
+  of contributors, and that same spirit shapes how we work:
+  collaboratively, inclusively, and with a shared commitment
+  to putting users first.
+
+  We are a small but growing company of 60+ people distributed
+  across seven countries. As Thunderbird evolves beyond a
+  single desktop application, we are expanding across desktop,
+  mobile, paid services, and new product experiences that help
+  people and organizations work more effectively without
+  giving up control to big tech ecosystems.
+
+  Our revenue model combines user donations, which help keep
+  Thunderbird’s apps freely available, with paid services that
+  cover the costs of hosted offerings while supporting long-
+  term sustainability and continued innovation.
+
+  A note about MZLA and Mozilla: MZLA Technologies Corporation
+  is the nonprofit-owned company behind Thunderbird and part
+  of the Mozilla family. MZLA is separate from Mozilla
+  Corporation and has its own compensation programs, benefits,
+  and employment policies.
+
+  To learn more, visit www.thunderbird.net and
+  www.thunderbolt.io.
+
+  The opportunity
+
+  Thunderbolt is an open-source, cross-platform AI product
+  initiative from the team behind Thunderbird. It is being
+  built around a clear principle: people and organizations
+  should be able to use AI while staying in control of their
+  data, infrastructure, model choices, and long-term options.
+  Thunderbolt is designed to support flexible deployment
+  models, integrations with AI tools and workflows, and use
+  cases across desktop, web, and mobile.
+
+  We’re looking for a Staff Product Engineer to help build
+  Thunderbolt as it moves from early product development into
+  enterprise use cases. This role sits at the intersection of
+  full-stack product engineering, AI-enabled product
+  development, enterprise workflows, technical execution,
+  product judgment, and post-launch iteration.
+
+  You’ll work across the stack to turn product direction, user
+  needs, partner feedback, and enterprise requirements into
+  complete product features for AI-powered chat, search,
+  research, workflow automation, administration, integrations,
+  and enterprise workflows. This is not a role focused only on
+  implementing tickets. You’ll own product work from concept
+  through launch, adoption, and iteration, helping the team
+  understand whether features are usable, reliable, being
+  used, and creating value.
+
+  You should be comfortable operating independently in
+  ambiguity, working across front-end, back-end, APIs,
+  integrations, and infrastructure-adjacent areas, and making
+  thoughtful tradeoffs between speed, usability,
+  maintainability, reliability, and enterprise needs. Strong
+  candidates will be able to turn ambiguous product ideas and
+  technical direction into shipped product experiences,
+  reusable product and engineering patterns, and practical
+  improvements that help Thunderbolt scale as both an open-
+  source product and an enterprise-ready platform.
+
+  What you’ll do
+
+  - Own the implementation of Thunderbolt product features from
+    concept through launch, adoption, and iteration.
+  - Translate product vision, user needs, partner feedback, and
+    enterprise requirements into practical technical plans and
+    shipped product experiences.
+  - Work across the stack to build, integrate, test, and ship
+    complete product features.
+  - Build features for AI-powered chat, search, research,
+    workflow automation, administration, integrations, and
+    enterprise workflows.
+  - Partner closely with product, design, engineering,
+    enterprise-facing teams, and open-source contributors to
+    clarify requirements and deliver high-quality outcomes.
+  - Collaborate with senior technical leadership to turn
+    product-shaping technical direction into executable
+    product work.
+  - Use AI-assisted development tools thoughtfully to accelerate
+    implementation while maintaining strong judgment around
+    quality, security, maintainability, and reliability.
+  - Make thoughtful technical and product tradeoffs in ambiguous
+    situations, balancing speed, usability, maintainability,
+    reliability, and enterprise needs.
+  - Follow through after launch by reviewing usage, qualitative
+    feedback, support signals, quality issues, and adoption
+    patterns.
+  - Instrument features or collaborate on measurement approaches
+    that help the team understand adoption, reliability, and
+    product value.
+  - Identify product gaps, technical risks, edge cases, and
+    opportunities to improve the user experience.
+  - Write clear, maintainable, well-tested code across front-
+    end, back-end, APIs, integrations, and infrastructure-
+    adjacent areas.
+  - Help establish reusable product and engineering patterns
+    that allow future features to be built more efficiently.
+  - Contribute to a product engineering culture grounded in
+    ownership, quality, experimentation, user value, and
+    practical execution.
+
+  What you bring
+
+  - 10+ years of professional software engineering experience,
+    including significant experience building and shipping
+    production applications with Staff-level scope,
+    leadership, and impact.
+  - Strong full-stack engineering skills, with the ability to
+    work across user interfaces, APIs, services, integrations,
+    data flows, and infrastructure-adjacent areas.
+  - Demonstrated experience owning complex product features from
+    technical planning through implementation, launch,
+    evaluation, and iteration.
+  - Experience building AI-enabled products or features, with
+    practical familiarity in LLMs, RAG, agents, model/provider
+    abstraction, data connectors, retrieval systems, or AI
+    application architecture.
+  - Practical experience evaluating and using multiple AI tools,
+    models, frameworks, or development harnesses, with the
+    ability to explain tradeoffs, limitations, and preferred
+    tooling choices.
+  - Experience working with open-source enterprise products,
+    developer tools, infrastructure products, platform
+    products, or technically complex enterprise software.
+  - Strong product judgment, including the ability to translate
+    product direction, user feedback, partner input, customer
+    needs, and product signals into practical technical plans
+    and follow-up iterations.
+  - Comfort operating independently in a fast-changing product
+    environment where product direction, technical
+    architecture, and enterprise requirements are still being
+    defined.
+  - Strong understanding of software quality, testing,
+    maintainability, security, performance, reliability, and
+    implementation tradeoffs.
+  - Strong collaboration and communication skills across
+    engineering, product, design, open-source, and customer-
+    or partner-facing stakeholders.
+  - Awareness of enterprise software needs, including privacy,
+    security, administration, access control, compliance,
+    deployment flexibility, supportability, and responsible AI
+    considerations.
+
+  Bonus points for
+
+  - Experience with self-hosted, hybrid, customer-controlled, or
+    regulated deployment environments.
+  - Familiarity with regulatory or compliance considerations
+    affecting AI and enterprise software, such as the EU AI
+    Act, Cyber Resilience Act, GDPR, HIPAA, SOC 2, or similar
+    frameworks.
+  - Experience working with enterprise customers, public sector
+    organizations, systems integrators, technical partners, or
+    customer-facing engineering teams.
+  - Experience contributing to reusable product patterns,
+    component libraries, technical frameworks, or shared
+    engineering practices.
+  - Experience with instrumentation, observability,
+    experimentation, or other approaches to understanding
+    product adoption, reliability, and value.
+
+  What success looks like
+
+  In this role, success means helping Thunderbolt turn
+  ambiguous product ideas, technical direction, user needs,
+  and enterprise requirements into complete product
+  capabilities that are usable, reliable, maintainable, and
+  valuable. You will help the team move quickly while also
+  building the patterns, feedback loops, and product quality
+  needed for Thunderbolt to scale as both an open-source
+  product and an enterprise-ready platform.
+
+  Over time, successful work in this role will lead to:
+
+  - Shipped features that solve real user, partner, and
+    enterprise needs.
+  - Stronger full-stack product capabilities across AI-powered
+    chat, search, research, workflow automation,
+    administration, integrations, and enterprise workflows.
+  - Clearer technical plans that translate product direction and
+    enterprise requirements into executable work.
+  - Better post-launch understanding of whether features are
+    being used, working as intended, and creating value.
+  - More reusable product and engineering patterns that help
+    future features move faster.
+  - Fewer product gaps, edge cases, and technical risks
+    discovered late in development.
+  - Stronger alignment between product, design, engineering,
+    enterprise-facing teams, and open-source contributors.
+  - Greater confidence that Thunderbolt features are secure,
+    maintainable, supportable, and ready for enterprise use.
+
+  Work environment
+
+  You’ll work with our passionate staff and open-source
+  community members from all over the globe to support the
+  mission and objectives of MZLA Technologies Corporation. In
+  this role, you’ll also collaborate closely with engineering,
+  product, design, enterprise-facing teams, contractors, and
+  external contributors working on Thunderbolt.
+
+  This is a remote, full-time position. Strong communication
+  and documentation skills are essential for effective
+  collaboration across time zones and disciplines.
+
+  Compensation & benefits
+
+  We benchmark our base salaries to local markets and target
+  the 60th percentile of the peer market. The salary ranges
+  for this role are:
+
+  - US: $185,000 - $220,000 USD
+
+  We may consider candidates with strong skills but less than
+  the required experience. Title, level and compensation will
+  be determined based on qualifications and experience.
+
+  In addition to competitive salaries, we offer a
+  comprehensive benefits package designed to support your
+  whole self.
+
+  Work & career
+
+  - Fully remote work & schedule flexibility
+  - Company-provided laptop
+  - Annual bonus program
+  - Monthly remote work stipend
+  - Annual professional development stipend
+  - Access to Coursera learning platform
+  - Industry conferences
+  - Company all-hands and team gatherings
+
+  Rest & play
+
+  - 24 days PTO per year (prorated)
+  - Your birthday
+  - Year-end company shutdown
+  - 9 wellbeing days
+  - Public holidays
+  - Other paid leave
+  - Quarterly wellbeing stipend for personal / family activities
+
+  Health & family
+
+  - 401(k) contributions
+  - Health, dental, & vision insurance
+  - Disability insurance
+  - Life insurance
+  - Employee assistance program
+  - Paid parental leave
+  - Paid sick days
+
+  Work eligibility
+
+  Applicants must reside in and have permanent work
+  authorization for the country location(s) specified in the
+  posting. We are unable to consider applicants outside of
+  these markets at this time. And, we do not provide visa
+  sponsorship.
+
+  How to apply
+
+  Please apply directly through our career page. We carefully
+  review every cover letter and screening question, so take
+  the time to answer each fully. We value authentic,
+  thoughtful responses that reflect your own experience and
+  perspective. It is fine to use AI tools to polish your
+  writing, but your answers should be your own. Candidates who
+  submit generic or unoriginal AI-generated responses may be
+  disqualified from further consideration.
+
+  Our commitment to diversity, equity, and inclusion
+
+  MZLA believes in the value of diverse creative practices and
+  forms of knowledge, and knows diversity, equity and
+  inclusion are crucial to and enrich the company’s core
+  mission. We encourage applications from everyone, including
+  members of all equity-seeking communities, such as (but not
+  limited to) women, racialized and Indigenous persons,
+  persons with disabilities, persons of all sexual
+  orientations, gender identities and expressions.
+
+  We are an equal opportunity employer. We do not discriminate
+  on the basis of race (including hairstyle and texture),
+  religion (including religious grooming and dress practices),
+  gender, gender identity, gender expression, color, national
+  origin, pregnancy, ancestry, domestic partner status,
+  disability, sexual orientation, age, genetic predisposition,
+  medical condition, marital status, citizenship status,
+  military or veteran status, or any other basis covered by
+  applicable laws. MZLA will not tolerate discrimination or
+  harassment based on any of these characteristics or any
+  other unlawful behavior, conduct, or purpose.
+
+  We will ensure that qualified individuals with disabilities
+  are provided reasonable accommodations to participate in the
+  job application or interview process, to perform essential
+  job functions, and to receive other benefits and privileges
+  of employment, as appropriate. Please contact us at
+  hiringaccommodations@thunderbird.net to request
+  accommodation.
+
+  #LI-DNI
+posted_date: 2026-09-08
+url: "https://www.builtinla.com/job/staff-product-engineer-enterprise-ai/11055069"
+source: Built In

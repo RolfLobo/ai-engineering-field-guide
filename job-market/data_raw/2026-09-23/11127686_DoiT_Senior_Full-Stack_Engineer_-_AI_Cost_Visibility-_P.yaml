@@ -1,0 +1,195 @@
+job_id: 11127686
+title: Senior Full-Stack Engineer - AI Cost Visibility- Poland(Remote)
+company: DoiT
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 604 Employees
+description: |
+  Location
+
+  The senior Full-Stack Engineer will be an integral part of
+  our Engineering teams in EMEA.This role is based remotely as
+  a full-time employee in the UK, Ireland, Estonia, the
+  Netherlands, Sweden and Israel. We are also open to
+  contractors in Eastern Europe and Portugal.
+
+  Who We Are DoiT is a global technology company that works
+  with cloud-driven organizations to leverage the cloud to
+  drive business growth and innovation. We combine data,
+  technology, and human expertise to ensure our customers
+  operate in a well-architected and scalable state - from
+  planning to production. Delivering DoiT Cloud Intelligence,
+  the only solution that integrates advanced technology with
+  human intelligence, we help our customers solve complex
+  multicloud problems and drive efficiency. With decades of
+  multicloud experience, we have specializations in
+  Kubernetes, GenAI, CloudOps, and more. An award-winning
+  strategic partner of AWS, Google Cloud, and Microsoft Azure,
+  we work alongside more than 4,000 customers worldwide.
+
+  The Opportunity AI is the fastest-growing line on our
+  customers' cloud bills - and the hardest one to see. Model
+  APIs, managed inference, GPUs, and a growing fleet of
+  agentic coding tools each report spend differently, and most
+  teams still can't answer the basic questions: what are we
+  spending, on which workloads, for which teams, and is it
+  worth it. Our AI cost visibility product, part of DoiT Cloud
+  Intelligence, exists to answer them. We're hiring a Senior
+  Full-Stack Engineer into our R&D team to own this product
+  end-to-end - from the Go services that ingest and model AI
+  spend, through the APIs that expose it, to the React
+  interfaces where FinOps practitioners and platform engineers
+  make decisions. This is a young product in a category being
+  defined right now. You'll shape how it works, not just
+  implement someone else's spec, and there is a short line
+  from your work to what customers see. You'll work AI-
+  augmented from day one. We expect you to use AI across your
+  whole workflow - not as an occasional autocomplete - and to
+  have real opinions about where it earns its place and where
+  it doesn't.
+
+  Responsibilities
+
+  - Owning features end-to-end. This is the core of the role.
+    Take a problem from understanding the customer's pain,
+    through design and implementation, to release, monitoring
+    and iteration. You define what done looks like and you own
+    the outcome - reliability, user experience and measurable
+    impact included. Propose the work you think should happen;
+    you're not here to wait for a spec.
+  - Knowing the product and the domain. Understand how AI spend
+    actually works - token and model pricing, inference and
+    GPU economics, how usage rolls up to teams and initiatives
+    - and how FinOps practitioners reason about it. You should
+    be able to explain why a feature matters to a customer as
+    clearly as how it's built, and bring that judgement into
+    every design decision.
+  - Working AI-augmented. Use AI daily across the full span of
+    your work - exploring the codebase and unfamiliar vendor
+    APIs, prototyping approaches, generating and reviewing
+    code, debugging, writing tests and producing
+    documentation. Push on what agentic tooling can do for
+    this codebase, and bring judgement about where AI raises
+    velocity and where a human still has to hold the quality
+    bar.
+  - Full-stack delivery. Design, build and scale backend
+    services in Go and product experiences in TypeScript and
+    React. Turn large volumes of cost and usage data into
+    interfaces that make the answer obvious - clear, fast and
+    trustworthy enough to base financial decisions on.
+  - API-first. Build capabilities so they're fully available
+    through APIs, not just the UI. Both humans and agents
+    should be able to drive the platform.
+
+  Raising the bar. As a senior engineer, set the standard for
+  the team: thoughtful design reviews, guard-rails that let
+  customers succeed, and engineering practices that let us
+  move fast without breaking trust. Mentor peers and share
+  what you learn. Qualifications
+
+  - 7+ years of professional software engineering experience,
+    including multi-tenant SaaS products, with a track record
+    of owning features or products end-to-end in production
+  - Strong Go for backend services - APIs, data processing, and
+    the operational realities of running them
+  - Strong TypeScript and modern React, with a good eye for how
+    data should be presented
+  - Comfortable across the stack. You may lean backend or lean
+    frontend, but you can own a feature from the data model
+    through to the interface
+  - Experience building on public cloud (GCP preferred; AWS or
+    Azure), and working proficiency in SQL against an
+    analytical store such as BigQuery
+  - Product-oriented thinking - you care as much about why
+    you're building something and whether it works for users
+    as you do about how it's built
+  - AI-augmented working style - you already use AI tools across
+    your engineering workflow and can talk concretely about
+    what you've got out of them, and where they fell short
+  - Strong knowledge of software engineering practices, design
+    patterns and architectural principles, and the ability to
+    set direction for others
+  - Comfortable with ambiguity in a fast-moving market - you can
+    figure out the right problem to solve, not just the right
+    solution
+  - Excellent communication skills in English, both written and
+    verbal
+
+  Self-organized, goal-oriented and self-motivated; confident,
+  thorough and tenacious Bonus Points
+
+  - Knowledge of FinOps and FinOps products would be a strong
+    plus.
+  - BA/BS degree or equivalent practical experience.
+  - Demonstrating a portfolio of what you've built in your
+    career so far
+
+  Are you a Do'er? Be your truest self. Work on your terms.
+  Make a difference. We are home to a global team of
+  incredible talent who work remotely and have the flexibility
+  to have a schedule that balances your work and home life. We
+  embrace and support leveling up your skills professionally
+  and personally. What does being a Do'er mean? We're all
+  about being entrepreneurial, pursuing knowledge, and having
+  fun! Click here to learn more about our core values. Sounds
+  too good to be true? Check out our Glassdoor Page. We
+  thought so too, but we're here and happy we hit that 'apply'
+  button.
+
+  Full-time employee benefits include:
+
+  - Unlimited Vacation
+  - Flexible Working Options
+  - Health Insurance
+  - Parental Leave
+  - Employee Stock Option Plan
+  - Home Office Allowance
+  - Professional Development Stipend
+  - Peer Recognition Program
+
+  Many Do'ers, One Team DoiT unites as Many Do'ers, One Team,
+  where diversity is more than a goal-it's our strength. We
+  actively cultivate an inclusive, equitable workplace,
+  recognizing that each unique perspective enhances our
+  innovation. By celebrating differences, we create an
+  environment where every individual feels valued,
+  contributing to our collective success.
+
+  #LI-Remote
+industries:
+  - Cloud
+  - Information Technology
+  - Professional Services
+  - Software
+  - Consulting
+posted_date: 2026-09-11
+url: "https://builtin.com/job/senior-full-stack-engineer-ai-cost-visibility-poland-remote/11127686"
+source: Built In

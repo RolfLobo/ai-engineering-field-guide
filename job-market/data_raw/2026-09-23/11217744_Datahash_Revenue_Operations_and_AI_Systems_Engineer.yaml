@@ -1,0 +1,139 @@
+job_id: 11217744
+title: Revenue Operations and AI Systems Engineer
+company: Datahash
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  About Datahash
+
+  Datahash is a privacy-centric first-party data platform. Our
+  core product, Datahash Signals, gives marketers low-code,
+  no-code integrations between web, app, e-commerce, CRM,
+  marketing automation and data warehouses on one side and the
+  major ad channels on the other: Meta, Google, TikTok, Snap,
+  Amazon and more. We are one of a handful of badged
+  integration partners across these channels and work with
+  them directly on first-party data adoption programmes, where
+  advertisers are moving to server-side integrations,
+  conversions APIs and privacy-safe measurement. We are
+  bootstrapped, profitable, and run across Dubai, Bangalore,
+  Mumbai and London with clients in EMEA, India, Africa, APAC
+  and the US.
+
+  The role
+
+  You build and run the revenue system: the engine tags on CRM
+  records that make revenue measurable by engine and gate, the
+  dashboards, the renewal and dunning automation, the quota
+  models that must exist before any offer is made, and the
+  growing set of agents that carry routine growth and account-
+  management work. Half your job is revenue operations; half
+  is building agents on our Claude and Zoho stack, with a
+  catalogue of skills already written and a plan for which
+  agents come first. If only one hire happened this year it
+  would be this one.
+
+  What you will do
+
+  - Instrument revenue. Engine tags on every deal within two
+    weeks of joining; the revenue board consistent between
+    tiles and tables; geography backfill; the deal-valuation
+    and pace rules encoded, not remembered.
+  - Automate the money loop. Renewal deals spawned at T-90,
+    dunning and overage alerts live inside six weeks, payment
+    failures down by half in your first quarter.
+  - Model before promising. Quota-versus-capacity models for
+    every seat before an offer is made; per-seat lift reports.
+  - Build the agents. Own the agent build queue across growth
+    and account management: skills, eval sets, critics,
+    decision records, acceptance telemetry, on the Agent SDK
+    host with the CTO.
+  - Keep the spine clean. CRM hygiene as a nightly automated
+    sweep, not a quarterly cleanup; duplicate proposals, stale
+    dates, deactivated owners, all surfaced and fixed.
+
+  What success looks like
+
+  - Engine tag live in two weeks, dunning automation in six,
+    payment failures down 50 percent in the first quarter.
+  - Every quota offered in the year was modelled first.
+  - Agent acceptance ledger live and read weekly by every
+    function owner.
+
+  How we hire
+
+  We move fast and we are transparent about how we decide.
+  Every decision about a person is made by a person.
+
+  Step 1: a short structured screen within two working days of
+  applying. Step 2: a 50-minute conversation with the hiring
+  manager. Step 3: a small case exercise close to the real
+  work, which you present to two or three of us. Step 4: fit
+  and terms with our VP Delivery or Head of Sales and
+  Partnerships, and for senior roles the founder. We aim to
+  give you a decision within five working days of the final
+  conversation.
+
+  We evaluate evidence rather than claims, the quality of your
+  questions, how you handle ambiguity, and how naturally you
+  already use AI in your own work.
+
+  Requirements
+
+  What we need from you
+
+  - Four to five years in revenue operations, sales operations,
+    business systems or analytics engineering in a B2B
+    software company.
+  - Hands-on with a CRM as a builder (Zoho preferred; Salesforce
+    or HubSpot fine), with workflows, functions, webhooks and
+    reporting.
+  - You write code: Python or JavaScript, SQL, APIs; you have
+    shipped automations that other people relied on.
+  - You have built with LLM tooling (Claude, agent SDKs, MCP or
+    similar) beyond chat, and can explain what you would never
+    let an agent do.
+  - Rigour with data: you distinguish gross from net,
+    subscription from invoice, and you check both directions
+    before you trust a number.
+
+  Nice to have
+
+  - Zoho One depth: CRM, Books, Billing, Desk, Flow, Analytics.
+  - Experience in a partner-led or usage-billed business.
+  - Experience designing evals or QA for AI systems.
+
+  Probably not a fit if
+
+  - You want to be an analyst producing reports; this seat
+    builds systems that produce them.
+  - You are uncomfortable owning production automation with a
+    kill switch.
+
+  Benefits
+
+  - A startup environment backed by a stable, bootstrapped,
+    profitable business.
+  - Competitive compensation and one of the most employee-
+    friendly ESOP programmes in the industry.
+  - Work from anywhere, on your hours; coworking access when you
+    want a change from home.
+  - Health cover for you and your family.
+  - Real international exposure: clients and partners across the
+    Gulf, Europe, Africa, India, APAC and the US.
+  - A yearly offsite that we take seriously, and a culture that
+    does not.
+
+  Datahash is an equal-opportunity employer. We hire on
+  evidence and fit for the work and do not ask for salary
+  history. Compensation is discussed at the fit-and-terms
+  stage.
+industries:
+  - Big Data
+  - Marketing Tech
+  - Analytics
+  - Data Privacy
+posted_date: 2026-09-16
+url: "https://builtin.com/job/revenue-operations-and-ai-systems-engineer/11217744"
+source: Built In

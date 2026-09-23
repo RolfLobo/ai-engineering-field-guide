@@ -1,0 +1,53 @@
+company:
+  name: VIVIO, a Public Benefit Corporation
+  stage: null
+  focus: Pharmacy benefits management for self-insured employers
+position:
+  title: Senior Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-backed capabilities (RAG via Knowledge
+      Bases, prompt/context engineering, structured outputs,
+      evals, summarization) on AWS Bedrock, directly shaping model
+      behavior and output quality. Classical ML and self-hosting
+      are only nice-to-haves.
+  responsibilities:
+  - 'Build and extend LLM-backed capabilities on AWS Bedrock: document OCR and extraction,
+    summarization, decision support, and Knowledge Bases retrieval'
+  - Establish and maintain evals for shipped AI features to detect quality drift
+  - 'Handle production AI concerns: structured output, failure modes, cost, latency,
+    and model vs deterministic tradeoffs'
+  - Ship features in the Python/FastAPI backend and Jinja2/Tailwind/Alpine.js frontend
+  - Work with healthcare integrations exchanging eligibility, accumulator, and claims
+    data (NCPDP D.0, X12 270/271)
+  - Put test and lint gates in place and treat CI as part of the definition of done
+  - Treat PHI handling as a first-class design constraint
+  - Write clear specs, prompts, and design notes
+  use_cases:
+  - Document OCR and extraction from clinical and claims paperwork
+  - Summarization and decision support for clinical review
+  - Retrieval over plan and policy documents via Knowledge Bases
+  - Workflow automation for internal teams
+  - Healthcare data exchange with carriers and pharmacies
+  skills:
+    genai: [LLMs, Prompt Engineering, Context Engineering, RAG, Embeddings, Structured
+        Outputs, LLM Evaluation, Claude Code, Fine-Tuning]
+    ml: [OCR, scikit-learn, XGBoost, Quantization, Llama, Mistral]
+    web: [FastAPI, Jinja2, Tailwind CSS, Alpine.js, htmx]
+    databases: [MySQL, PostgreSQL]
+    data: []
+    cloud: [AWS Bedrock, AWS]
+    ops: [vLLM, Ollama, Model Monitoring, Linux, CI/CD, SFTP]
+    languages: [Python, SQL]
+    domains: []
+    other: [NCPDP D.0, X12 270/271, Windows, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11261438'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:32:20.611538'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

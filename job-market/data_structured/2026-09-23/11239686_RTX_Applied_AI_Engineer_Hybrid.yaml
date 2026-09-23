@@ -1,0 +1,57 @@
+company:
+  name: RTX
+  stage: null
+  focus: Aerospace and defense technology
+position:
+  title: Applied AI Engineer (Hybrid)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent flows, retrieval/context engineering,
+      prompt engineering, and model evaluation - clearly shaping
+      LLM/agentic system behavior, so it's ai-first. Customer-
+      facing is internal enterprise teams; not management.
+  responsibilities:
+  - Design, develop, and deploy production-grade AI and ML solutions combining traditional
+    ML, Generative AI, RAG, and agentic AI
+  - Build AI agents and intelligent workflows that use tools, interact with enterprise
+    applications, and execute multi-step processes with human oversight
+  - Develop retrieval and context-engineering solutions using enterprise data, embeddings,
+    vector/enterprise search, prompts, and memory
+  - Integrate AI solutions with enterprise applications and APIs using standard interfaces
+    and MCP
+  - Evaluate and select models based on quality, reliability, latency, cost, and security;
+    build systematic evaluation cases
+  - Develop production-quality software, APIs, integrations, and reusable AI components
+  - Diagnose and improve AI system behavior using evaluations, traces, telemetry,
+    and failure analysis
+  - Partner with architecture, platform, data, evaluation, cybersecurity, and business
+    teams to move solutions to production
+  use_cases:
+  - AI agents and agentic workflows automating multi-step enterprise processes
+  - Retrieval and context engineering over enterprise data and knowledge sources
+  - Generative AI solutions for aerospace and defense business, engineering, manufacturing,
+    and operational problems
+  - Secure AI integrations with enterprise applications, APIs, and tools
+  - AI system evaluation, monitoring, and reliability improvement in production
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, Agentic Workflows, Multi-Agent Systems,
+      Prompt Engineering, Context Engineering, Embeddings, Function Calling, MCP,
+      Structured Outputs, LangGraph, CrewAI, AWS Bedrock, Guardrails, LLM Evaluation]
+    ml: [Machine Learning, Model Evaluation, Model Training]
+    web: [REST APIs]
+    databases: [Vector Databases, Knowledge Graphs]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Docker, Kubernetes, MLOps, Observability, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, n8n, IBM watsonx]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11239686'
+  location: El Segundo, USA
+  extracted_at: '2026-09-23T11:30:15.087468'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

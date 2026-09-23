@@ -1,0 +1,47 @@
+company:
+  name: Allocate
+  stage: null
+  focus: |-
+    Private market investing platform for RIAs and family
+    offices
+position:
+  title: AI Data Quality & Evals Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation and feedback loops to measurably
+      improve model performance, evaluates and fine-tunes models,
+      and ships ML-powered capabilities combining ML and LLM
+      engineering. Building evals and judging model quality is
+      shaping, and LLMs are involved, so it is ai-first.
+  responsibilities:
+  - Build, train, and improve machine-learning models for production use
+  - Develop evaluation and feedback loops that measurably improve model performance
+    over time
+  - Stand up tooling to measure, monitor, and track model quality
+  - Evaluate new models and techniques and bring the best into production
+  - Collaborate cross-functionally to ship ML-powered capabilities
+  use_cases:
+  - ML-powered capabilities for private market investing
+  - Model quality evaluation and monitoring in production
+  - Financial data analysis for fund and investment opportunities
+  skills:
+    genai: [Claude Code, Codex, Cursor]
+    ml: [Fine-Tuning, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, MLOps, Model Monitoring]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10128424'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T10:58:18.981629'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

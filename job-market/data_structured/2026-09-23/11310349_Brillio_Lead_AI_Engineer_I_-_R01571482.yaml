@@ -1,0 +1,51 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital analytics, marketing optimization and AI consulting
+position:
+  title: Lead AI Engineer I - R01571482
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, trains, validates, and deploys statistical
+      and ML models (TensorFlow/PyTorch, predictive modeling) for
+      digital analytics optimization, which is shaping classical
+      ML output quality. There is no LLM, prompt, RAG, or agent
+      component in the description.
+  responsibilities:
+  - Design and implement AI and machine learning models to optimize digital analytics
+    and customer journey processes
+  - Develop, validate, and deploy algorithms for digital marketing analytics
+  - Analyze and visualize digital data using Tableau, Adobe Analytics, and Optimizely
+  - Configure and manage A/B testing platforms including Adobe Target and Google Optimize
+  - Monitor, refine, and scale statistical models within digital optimization initiatives
+  - Lead AI/ML project delivery aligned with organizational goals
+  - Research and adopt emerging AI, ML, and digital analytics technologies
+  use_cases:
+  - Digital marketing analytics and optimization
+  - Customer journey optimization for conversion rate improvement
+  - A/B testing and experimentation for data-driven decisions
+  - Predictive modeling for user engagement and personalization
+  - Data-driven business insights and stakeholder reporting
+  skills:
+    genai: []
+    ml: [Machine Learning, PyTorch, TensorFlow, Model Deployment, Model Training,
+      Predictive Modeling, Statistics]
+    web: []
+    databases: []
+    data: [Data Engineering]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, R]
+    domains: []
+    other: [Tableau, Adobe Analytics, Optimizely, Adobe Target, Google Optimize, A/B
+        Testing, Data Visualization, Digital Marketing Analytics, Marketing Automation,
+      CRM]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11310349'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:37:30.641666'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

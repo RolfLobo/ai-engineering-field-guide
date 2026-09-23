@@ -1,0 +1,58 @@
+company:
+  name: Riot Games
+  stage: null
+  focus: Video game developer (League of Legends) enterprise tech
+position:
+  title: Staff Application Engineer - Enterprise Data & AI (Intelligence Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production agents and retrieval-augmented
+      applications grounded in governed data, designs agent
+      tooling via Unity Catalog functions, and builds evaluation
+      sets and observability (groundedness, latency, cost) to
+      improve agent behavior - shaping LLM/agent outputs. Data
+      engineering is the primary focus, but agent/RAG design work
+      makes it ai-first.
+  responsibilities:
+  - Build and operate production data pipelines in Databricks using a medallion architecture
+    with lineage, access controls, and logging
+  - Define and evolve domain, ontology, and semantic models in Unity Catalog with
+    subject-matter experts and curate data products
+  - Own data quality through tests, monitoring, and alerting for pipelines and data
+    products
+  - Integrate enterprise systems through APIs, events, and middleware with authentication,
+    retries, and auditability
+  - Build production agents and retrieval-augmented applications grounded in governed
+    Databricks data using Unity Catalog functions, Mosaic AI, and model serving
+  - Add authorization, approvals, and auditability for agent actions and AI-enabled
+    orchestrations
+  - Create evaluation sets and observability for shipped agents (groundedness, latency,
+    cost) and use results to improve them
+  - Apply engineering practices including automated testing, CI/CD, documentation,
+    and on-call support
+  use_cases:
+  - Enterprise analytics and governed data products on Databricks
+  - Enterprise automation and AI-enabled orchestration
+  - Agents and retrieval-augmented applications grounded in governed enterprise data
+  - Semantic and domain modeling for enterprise systems
+  skills:
+    genai: [RAG, AI Agents, Mosaic AI Agent Framework, LLM Evaluation, Anthropic API,
+      OpenAI API, LangGraph, Pydantic AI, LangChain, CrewAI]
+    ml: []
+    web: [APIs]
+    databases: [Unity Catalog, Vector Databases]
+    data: [Databricks, Data Pipelines, Data Modeling, dbt, Data Governance]
+    cloud: [Vertex AI, GCP, AWS]
+    ops: [MLflow, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Workato, n8n, Camunda, ServiceNow, Workday]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11260163'
+  location: Los Angeles, USA
+  extracted_at: '2026-09-23T11:32:05.104256'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

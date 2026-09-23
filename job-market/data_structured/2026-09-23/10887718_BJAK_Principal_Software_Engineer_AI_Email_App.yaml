@@ -1,0 +1,51 @@
+company:
+  name: BJAK
+  stage: null
+  focus: AI-native productivity apps for email and life organization
+position:
+  title: Principal Software Engineer, AI Email App
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs AI agent orchestration, tool use, and
+      reliability systems for agentic workflows in an AI-native
+      email app, which is directly shaping LLM agent behavior.
+      LLM/agent components are central, so ai-first.
+  responsibilities:
+  - Own application engineering strategy and execution across backend, mobile, and
+    desktop
+  - Design reliable systems for AI-powered workflows including orchestration, tool
+    use, retries, and failure handling
+  - Build APIs and abstractions connecting AI systems to product experiences
+  - Lead a small senior engineering team through design reviews, code reviews, and
+    mentorship
+  - Make trade-offs across latency, reliability, cost, security, and UX
+  - 'Establish production foundations: observability, monitoring, testing, and operational
+    excellence'
+  - Partner with ML leadership to turn model capabilities into shippable product experiences
+  use_cases:
+  - AI-native email application
+  - 'Proactive personal productivity: notes, tasks, calendar'
+  - Long-running reliable AI workflows with real-world task completion
+  - Persistent context across user conversations and errands
+  - Reducing hallucinations through reliability-focused system design
+  skills:
+    genai: [AI Agents, Agentic Workflows, LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring, Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10887718'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:05:17.533447'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

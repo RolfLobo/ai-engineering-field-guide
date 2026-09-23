@@ -1,0 +1,54 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Financial services and banking technology
+position:
+  title: Lead Software Engineer (Python, AWS, AI, Snowflake Databricks)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a general full-stack software engineering lead
+      with no responsibilities involving shaping model behavior,
+      prompts, retrieval, or model training. AI appears only as a
+      preferred qualification for using interactive AI tooling to
+      accelerate productivity, which is ai-support.
+  responsibilities:
+  - Lead a portfolio of diverse technology projects and a team of developers building
+    distributed microservices and full stack systems
+  - Deliver robust cloud-based solutions that meet regulatory needs for the company
+  - Collaborate with digital product managers to power customer experiences
+  - Mentor other members of the engineering community and participate in technology
+    communities
+  - Experiment with and learn new technologies including interactive AI tooling for
+    productivity
+  - Build solutions using a variety of programming languages, databases, containers,
+    and AWS services
+  use_cases:
+  - Regulatory compliance technology solutions
+  - Customer financial experience platforms for 100+ million customers
+  - Cloud-based full stack solutions for financial empowerment
+  skills:
+    genai: []
+    ml: []
+    web: [HTML, CSS, Microservices]
+    databases: [NoSQL, Snowflake]
+    data: [Databricks]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes]
+    languages: [JavaScript, Java, TypeScript, SQL, Python, Go]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10737885'
+  location: Plano, USA
+  locations:
+  - Plano, USA
+  - McLean, USA
+  - Chicago, USA
+  - Richmond, USA
+  - New York, USA
+  extracted_at: '2026-09-23T11:00:57.575929'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

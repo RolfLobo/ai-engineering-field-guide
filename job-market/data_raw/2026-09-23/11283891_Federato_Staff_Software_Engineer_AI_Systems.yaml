@@ -1,0 +1,131 @@
+job_id: 11283891
+title: Staff Software Engineer, AI Systems
+company: Federato
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  There's nothing more exciting than transforming an industry
+  that's been stagnant for decades.
+
+  Federato is an AI-native platform that’s bringing agentic AI
+  to the full policy lifecycle. We’re aggressively
+  transforming how insurance work gets done, and the world is
+  paying attention: we've raised $180 million, including a
+  $100 million Series D from Goldman Sachs. We have powerful
+  product-market fit, and we're growing fast globally.
+
+  You'll get to work on complex problems with one of the most
+  advanced AI teams you'll find anywhere. If you're the person
+  we need, you know that AI bolted onto legacy systems is too
+  weak to matter. That's why we built our platform to be AI-
+  native from day one. That's why you can do here what you can
+  never do at a legacy software company. move fast and prove
+  it, not theorize it. We think from first principles. You’ll
+  work on problems that matter, building software that
+  fundamentally changes how insurance operates.
+
+  Role Overview:
+
+  We are looking for an Software Engineer, AI Systems to help
+  build the backend architecture behind our emerging agent
+  systems. This role sits at the intersection of software
+  engineering, data infrastructure, and applied AI. You will
+  work across the stack to design and implement systems that
+  power LLM-driven product capabilities — from orchestration
+  and tool integration to evaluation and production
+  deployment. You’ll collaborate closely with product
+  managers, designers, and engineers to bring AI-powered
+  workflows directly into our underwriting platform. This is a
+  high-impact role with significant ownership over both
+  experimentation and production implementation. This role is
+  ideal for engineers who enjoy working across layers of the
+  stack and are excited about shaping how agent systems
+  operate inside real production software. What You'll Be
+  Doing:
+
+  - Design and implement agent workflows and orchestration
+    systems for AI-powered product features
+  - Build backend services that integrate LLMs with structured
+    insurance data and platform APIs
+  - Develop infrastructure for tooling, context management, and
+    agent execution
+  - Contribute to internal frameworks supporting prompt
+    iteration, evaluation, and observability
+  - Partner with product and design to translate underwriting
+    workflows into AI-enabled product experiences
+  - Help define architectural patterns for building reliable AI-
+    native features in production
+  - Work across backend systems, data infrastructure, and
+    product integrations to ship user-facing capabilities
+
+  Who We Hope You Are:
+
+  - 10+ years of experience in backend engineering, data
+    engineering, or related roles
+  - Strong experience building production backend systems and
+    APIs
+  - Professional experience working with LLMs, agent systems, or
+    generative AI applications
+  - Hands-on experience with prompt design, tool-based agent
+    architectures, or LLM workflows
+  - Proficiency in Python or similar backend languages
+  - Experience working with cloud infrastructure and distributed
+    systems
+  - Comfort working across layers of the stack, from
+    infrastructure to product integration
+  - Strong curiosity about emerging AI architectures and agent
+    patterns
+  - Comfortable navigating ambiguity and working in a fast-
+    paced, collaborative environment
+
+  Bonus Points if...
+
+  - Experience building production systems involving LLMs,
+    agents, or prompt pipelines
+  - Experience designing internal platforms or developer tooling
+  - Familiarity with insurance, fintech, or B2B SaaS
+  - Contributions to open-source AI or data infrastructure
+    projects
+  - Experience with Typescript
+
+  Why This Role Matters
+
+  You will help build the core infrastructure that powers the
+  next generation of Federato’s platform. Your work will shape
+  how AI systems interact with underwriting workflows and how
+  intelligent automation is delivered to customers. This is an
+  opportunity to work on foundational architecture for agent-
+  driven software, with real-world impact in one of the
+  world’s largest industries.
+
+  Base Salary: $215,000 - $250,000 a year Final offer amounts
+  are determined by multiple factors including candidate
+  location, experience and expertise and may vary from the
+  amounts listed above. Total compensation package includes
+  stock options, benefits and additional perks.
+
+  Here at Federato, your capabilities are important, but
+  culture fit is essential. We move fast, are eager to listen
+  to our users, take a first principles approach to solving
+  problems, and value learning and the ability to change our
+  minds. Most importantly, we're here to have fun. Our ability
+  to make a difference starts with our people. We would love
+  to work with you!
+
+  We are an equal-opportunity employer and value diversity at
+  our company. We do not discriminate on the basis of race,
+  religion, color, national origin, sex, gender expression,
+  sexual orientation, age, marital status, veteran status or
+  disability status. We will provide reasonable accommodation
+  to individuals with disabilities to participate in the job
+  application or interview process, to perform essential job
+  functions, and to receive other benefits and privileges of
+  employment. Please contact us to request accommodation at
+  talent@federato.ai
+industries:
+  - Insurance
+  - Software
+posted_date: 2026-09-21
+url: "https://www.builtinla.com/job/staff-software-engineer-ai-systems/11283891"
+source: Built In

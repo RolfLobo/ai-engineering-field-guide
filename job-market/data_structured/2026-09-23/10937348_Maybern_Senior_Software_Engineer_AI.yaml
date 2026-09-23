@@ -1,0 +1,51 @@
+company:
+  name: Maybern
+  stage: null
+  focus: Agentic operating system for private fund management
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent flows, MCP interfaces, and agentic
+      workflows, and evaluates agent outputs — directly shaping
+      LLM/agent behaviour in a product. This is ai-first under
+      Step 2.
+  responsibilities:
+  - Build customer-facing agentic product experiences including Maybern's chatbot,
+    embedded agent assistance, and in-product workflows
+  - Expand Maybern's MCP by defining and implementing patterns for agents to safely
+    interface with Maybern data
+  - Own reconciliation workflows such as automated spreadsheet reconciliation using
+    agentic workflows
+  - Partner with product, domain experts, customers, and engineers to shape product
+    direction for agents
+  - Advance agent capabilities for customer skills, multi-step tasks, and unified
+    cross-session/email-triggered workflows
+  - Evaluate agentic AI systems, assessing outputs and failure modes to determine
+    where agents can replace manual work
+  use_cases:
+  - Customer-facing chatbot for fund management
+  - Embedded agent assistance in a private fund management operating system
+  - Automated spreadsheet reconciliation replacing manual data processes
+  - Agent access to fund data via MCP patterns
+  - Multi-step workflow automation in fund-accounting processes
+  skills:
+    genai: [AI Agents, Agentic Workflows, MCP]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Fund Accounting]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10937348'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:07:37.223741'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

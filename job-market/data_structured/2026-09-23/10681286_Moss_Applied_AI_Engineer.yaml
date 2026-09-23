@@ -1,0 +1,53 @@
+company:
+  name: Moss
+  stage: Series C
+  focus: Finance AI platform automating spend management for SMBs
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships AI agents end to end:
+      prompt/context engineering, RAG, MCP, agent orchestration,
+      guardrails, and agent evaluation - directly shaping
+      LLM/agent behaviour. Integrating ML models is secondary; the
+      LLM agent work dominates.
+  responsibilities:
+  - Design and build AI agents that automate complex finance workflows
+  - Own agent-based features end to end from prototype through production deployment
+  - Integrate agents with backend services, APIs, data model, and permissions
+  - Build systematic evaluations for agent quality, reliability, and business impact
+  - Establish observability and feedback loops for agent behavior
+  - Apply context-engineering techniques including RAG, MCP, and knowledge graphs
+  - Design prompts, tools, memory, and orchestration strategies for production agents
+  - Integrate machine-learning models into production systems with data scientists
+  use_cases:
+  - Automating complex finance workflows with AI agents
+  - Card issuing, invoice management, and expense automation
+  - Real-time visibility and spend control for mid-sized businesses
+  - Agentic features integrated into finance product workflows
+  skills:
+    genai: [AI Agents, RAG, MCP, Knowledge Graphs, Prompt Engineering, Context Engineering,
+      Google ADK, LangGraph, LangChain, LlamaIndex, Gemini, OpenAI API, Anthropic
+        API, Llama, Mistral, LLMs, Guardrails]
+    ml: [Machine Learning]
+    web: [REST APIs, Microservices]
+    databases: [SQL, PostgreSQL, BigQuery, Vector Search]
+    data: [Kafka, Data Pipelines]
+    cloud: [GCP, Vertex AI]
+    ops: [Observability, Distributed Systems]
+    languages: [Python, Java]
+    domains: []
+    other: [Regression Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10681286'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - London, GBR
+  - Warsaw, POL
+  extracted_at: '2026-09-23T11:00:35.254046'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

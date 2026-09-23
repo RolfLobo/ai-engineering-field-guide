@@ -1,0 +1,55 @@
+company:
+  name: Cognite
+  stage: null
+  focus: Industrial digitalization, AI, and data solutions
+position:
+  title: Principal Information Security Engineer (AI Product/Cyber Security + SecOps)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly designs and deploys AI agent-powered
+      detection logic, incident playbooks, and AI-assisted
+      remediation/guardrails — designing agent flows and shaping
+      AI output quality directly. LLM/agent components are
+      central, so it is ai-first rather than a pure security
+      support role.
+  responsibilities:
+  - Design, test, and deploy AI-agent-powered automated detection logic and incident
+    playbooks to reduce alert fatigue
+  - Integrate AI into SIEM/SOAR data pipelines to detect anomalous behavior across
+    multi-cloud datasets
+  - Implement automated SAST/SCA code analysis in CI/CD pipelines with AI-assisted
+    remediation guidance
+  - Build proprietary security automation guardrails for secure-by-design software
+    development
+  - Lead feature-level threat models and harden cloud-native environments (AWS/GCP/Azure)
+    and identity systems
+  - Act as Directly Responsible Individual for regional security initiatives
+  - Run the Security Champions program and conduct developer security workshops
+  - Hire, mentor, and manage the Bengaluru security engineering team
+  use_cases:
+  - AI-driven security operations detection and alert triage
+  - Automated incident response playbooks
+  - AI-assisted code vulnerability remediation in CI/CD
+  - Security guardrails for secure-by-design software
+  - Threat detection across multi-cloud environments
+  skills:
+    genai: [LLMs, AI Agents, Guardrails]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Terraform]
+    languages: [Python, Go, PowerShell]
+    domains: []
+    other: [SAST, DAST, SCA, CodeQL, OWASP ZAP, SIEM, SOAR, Threat Modeling, Incident
+        Response, Threat Hunting]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11232097'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:28:51.863587'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Ecosmob Technologies
+  stage: null
+  focus: Custom software development and AI/ML technology services
+position:
+  title: Sr. AI/ML Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, fine-tunes, and deploys LLMs and RAG
+      systems, directly shaping model behavior and output quality,
+      which makes it ai-first. It also includes classical ML/DL
+      work, but LLM involvement dominates.
+  responsibilities:
+  - Lead, guide, and mentor a team of AI/ML engineers and data scientists
+  - Write clean, maintainable Python code for robust machine learning systems
+  - Design, build, and deploy machine learning models and end-to-end solutions
+  - Implement end-to-end data science lifecycle including preprocessing, modeling,
+    evaluation, and deployment
+  - Develop and integrate RESTful APIs using Python web frameworks
+  - Design, develop, fine-tune, and deploy LLM and RAG-based AI models
+  - Conduct training, validation, and evaluation experiments and refine models
+  - Ensure AI/ML solutions adhere to security best practices and data privacy regulations
+  use_cases:
+  - Large Language Model applications
+  - Retrieval-Augmented Generation systems
+  - Sentiment analysis and text semantic extraction
+  - Conversational AI systems
+  - NLP and/or Computer Vision solutions
+  skills:
+    databases: [SQL, NoSQL, PostgreSQL, MySQL, SQLite, MariaDB, MongoDB]
+    domains: [NLP, Computer Vision]
+    data: []
+    web: [Flask, Django, REST APIs]
+    ml: [Machine Learning, Deep Learning, TensorFlow, PyTorch, Keras, NumPy, Pandas,
+      Matplotlib, scikit-learn, Hugging Face, Transformers, Model Training, Model
+        Evaluation, spaCy, NLTK]
+    ops: [Docker, Kubernetes, MLOps, CI/CD, Monitoring, Git, Bitbucket]
+    other: [Agile, GDPR]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python, C++, Multithreading]
+    genai: [LLMs, RAG, Fine-Tuning, Conversational AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11307523'
+  location: Ahmedabad, IND
+  extracted_at: '2026-09-23T11:36:00.461644'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

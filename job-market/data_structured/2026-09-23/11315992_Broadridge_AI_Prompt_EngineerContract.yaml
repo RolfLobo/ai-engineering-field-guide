@@ -1,0 +1,56 @@
+company:
+  name: Broadridge
+  stage: null
+  focus: 'Fintech: investor communications and technology solutions'
+position:
+  title: AI Prompt Engineer(Contract)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role centers on designing, testing, and optimizing
+      prompts, prompt templates, RAG patterns, guardrails, and
+      evaluation of LLM outputs — clear model-behaviour shaping.
+      LLM/generative focus makes it ai-first.
+  responsibilities:
+  - Design, develop, test, and implement prompts, prompt templates, AI workflows,
+    and automation patterns
+  - Maintain reusable prompt libraries, evaluation criteria, and documentation
+  - Perform prompt testing, regression testing, and quality evaluation of AI outputs
+  - Validate AI-generated outputs with users, engineers, QA, and product teams
+  - Integrate prompts and AI capabilities into enterprise systems, APIs, and workflows
+  - Apply prompt engineering techniques including few-shot, structured output, tool-use
+    prompting, RAG, and guardrails
+  - Support AI governance, responsible AI usage, and prompt safety
+  - Monitor prompt and workflow performance in production and drive improvements
+  use_cases:
+  - Summarization and classification
+  - Content generation
+  - Code assistance
+  - Data extraction
+  - Workflow automation
+  - Knowledge retrieval and AI assistants/chatbots
+  skills:
+    genai: [Prompt Engineering, LLMs, Generative AI, RAG, Embeddings, Structured Outputs,
+      Guardrails, Agentic Workflows, Model Evaluation, LLM Evaluation]
+    ml: []
+    web: [APIs, JSON]
+    databases: [Vector Databases, Vector Search, Oracle, PostgreSQL, Snowflake]
+    data: []
+    cloud: []
+    ops: [CI/CD, Jenkins, GitLab CI, Linux]
+    languages: [Java, Python, SQL, JavaScript, TypeScript]
+    domains: []
+    other: [Responsible AI, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11315992'
+  location: Newark, USA
+  locations:
+  - Newark, USA
+  - Edgewood, USA
+  - New York, USA
+  remote: true
+  extracted_at: '2026-09-23T11:36:45.553323'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

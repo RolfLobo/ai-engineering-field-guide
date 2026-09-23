@@ -1,0 +1,45 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT staffing and technology consulting services
+position:
+  title: AI / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour via Prompt Engineering and
+      builds Generative AI solutions involving NLP and LLM
+      tooling, so Step 1 is yes and the LLM involvement makes it
+      ai-first.
+  responsibilities:
+  - Build scalable, production-ready AI/ML solutions
+  - Develop Machine Learning and Deep Learning models
+  - Apply NLP techniques for business use cases
+  - Design prompts and leverage Generative AI capabilities
+  - Deploy AI solutions on cloud platforms (AWS/Azure/GCP)
+  - Visualize and communicate model results and insights
+  use_cases:
+  - Production-ready AI solutions for business problems
+  - NLP-based applications
+  - Generative AI applications
+  - Cloud-based AI model deployment
+  skills:
+    genai: [Prompt Engineering]
+    ml: [Machine Learning, TensorFlow, PyTorch, Keras, Deep Learning, Neural Networks,
+      Hugging Face, Statistical Modeling]
+    web: []
+    databases: []
+    data: [Matplotlib, Seaborn, Plotly]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: [SpaCy, NLTK, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234732'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:30:08.164757'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

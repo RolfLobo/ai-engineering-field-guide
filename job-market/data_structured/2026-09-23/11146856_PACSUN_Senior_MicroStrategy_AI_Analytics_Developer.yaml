@@ -1,0 +1,56 @@
+company:
+  name: PACSUN
+  stage: null
+  focus: Youth-oriented lifestyle fashion retail brand
+position:
+  title: Senior MicroStrategy & AI Analytics Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core role is building and maintaining the MicroStrategy
+      BI environment; AI features (NLQ, AI-generated insights,
+      Copilot/ChatGPT-assisted development) are integrated via
+      existing MicroStrategy AI capabilities and vendor tools
+      rather than shaped by this person. Preparing data models and
+      semantic layers to support others' AI/ML and RAG use cases
+      is data plumbing, not shaping model behavior.
+  responsibilities:
+  - Design, develop, and maintain MicroStrategy schema objects, reports, dossiers,
+    and dashboards for merchandising, retail operations, and executive reporting
+  - Build and optimize the MicroStrategy semantic layer, cubes, and metadata architecture
+    for self-service analytics
+  - Integrate AI and generative AI capabilities into the BI platform, including NLQ,
+    AI-generated insights, anomaly detection, and predictive analytics
+  - Partner with data science to prepare data models, feature sets, and semantic layers
+    supporting AI/ML use cases and RAG pipelines
+  - Write and optimize complex SQL against Snowflake and design ETL/ELT and OLAP processes
+    feeding BI and AI/ML workloads
+  - Ensure data governance, security, and responsible AI practices including row-level
+    security and output accuracy monitoring
+  - Mentor junior BI developers and analysts on MicroStrategy and AI-assisted analytics
+    techniques
+  use_cases:
+  - Enterprise BI reporting for merchandising and retail operations
+  - Executive dashboards and self-service analytics
+  - Natural-language query and AI-generated insights in BI dashboards
+  - Anomaly detection and predictive analytics for retail decisions
+  - AI/ML-enabled analytics on Snowflake data
+  skills:
+    genai: [RAG, Generative AI, ChatGPT, GitHub Copilot]
+    ml: [Machine Learning, Anomaly Detection]
+    web: []
+    databases: [Snowflake]
+    data: [Data Pipelines, Data Modeling]
+    cloud: []
+    ops: []
+    languages: [SQL]
+    domains: []
+    other: [MicroStrategy, Predictive Analytics, Natural Language Query, OLAP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11146856'
+  location: Anaheim, USA
+  extracted_at: '2026-09-23T11:21:37.637026'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

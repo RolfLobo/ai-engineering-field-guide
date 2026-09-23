@@ -1,0 +1,60 @@
+company:
+  name: Decagon
+  stage: null
+  focus: |-
+    Conversational AI platform for enterprise customer support
+    agents
+position:
+  title: AI Acceleration Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds MCP servers, skills, and agent-
+      facing tooling that other teams use to automate their work —
+      directly shaping agent flows and tool interfaces, not merely
+      consuming an AI API. That makes it ai-first.
+  responsibilities:
+  - Own projects end to end from requirements gathering through design, development,
+    testing, deployment, and ongoing maintenance
+  - Build and maintain internal web applications and integrations, including the internal
+    contract and revenue platform
+  - Partner with Finance, Accounting, Legal, People, and Recruiting stakeholders to
+    surface automation use cases and decide between custom builds, AI vendors, or
+    hybrid approaches
+  - Handle major workstreams such as billing, revenue recognition, usage data ingestion,
+    and reconciliation across internal data, the ERP, and Salesforce
+  - Build AI-facing interfaces including MCP servers, skills, and agent tooling, and
+    enable power users to create their own automations
+  - Evaluate and adopt emerging AI tools and get them into teams' hands
+  - Measure and communicate impact to leadership in terms of time saved, cost reduced,
+    and errors eliminated
+  use_cases:
+  - Automating billing, collections, and month-end close processes
+  - Replacing spreadsheet-based internal processes with trustworthy systems
+  - Internal contract and revenue platform serving as source of truth
+  - Reconciliation across internal data, ERP, and Salesforce
+  - Agent- and MCP-based interfaces enabling business teams to self-serve automations
+  - Organizational AI acceleration across Finance, Accounting, People, Legal, and
+    Sales
+  skills:
+    genai: [MCP, AI Agents, Agentic Workflows, Claude Code, Codex, Cursor]
+    ml: []
+    web: [APIs]
+    databases: [BigQuery]
+    data: [Pub/Sub]
+    cloud: [GCP, Cloud Run, Cloud Functions]
+    ops: []
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [Salesforce, ERP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10959368'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:09:04.741698'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,61 @@
+company:
+  name: GEICO
+  stage: null
+  focus: Auto insurance
+position:
+  title: Distinguished Engineer, AI Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects GenAI and agentic workflow platforms,
+      designing prompt/context management, retrieval and RAG,
+      workflow orchestration, and evaluation tooling for LLM
+      systems. That is shaping LLM behavior via retrieval,
+      prompts, and agents, so it's ai-first.
+  responsibilities:
+  - Define and evolve the foundational architecture for GEICO's Generative AI and
+    agentic workflow platforms
+  - Serve as final technical authority on complex architectural decisions across products
+    and business domains
+  - Design platform components including knowledge curation, search and retrieval,
+    prompt and context management, and workflow orchestration
+  - Establish multi-year technical strategy and roadmaps for AI platform and GenAI
+    applications
+  - Lead evaluation and selection of LLM orchestration, agentic, RAG, and evaluation/observability
+    technologies
+  - Define reference architecture and best practices for GenAI application development
+    and deployment
+  - Mentor senior engineers and technical leads on architectural thinking and engineering
+    quality
+  use_cases:
+  - Generative AI and virtual agent platform supporting 20K+ contact center employees
+  - Productivity and service quality across claims, service, and sales
+  - Enterprise agentic workflows for complex task execution
+  - Knowledge curation, search and retrieval, and semantic/knowledge graph systems
+  - Conversational and agentic workflows powered by LLMs
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, LLMs, Agentic Workflows, Embeddings, Multi-Agent
+        Systems, Generative AI, Mistral, Llama]
+    ml: [Machine Learning, Ray]
+    web: []
+    databases: [Elasticsearch, Qdrant, Milvus, Pinecone, Weaviate, Vector Databases,
+      Snowflake, NoSQL, Relational Databases, Knowledge Graphs]
+    data: [Kafka, Spark, Airflow, Prefect, Semantic Search]
+    cloud: [AWS, Azure]
+    ops: [LangSmith, Weights & Biases, OpenTelemetry, CI/CD, Kubernetes, Monitoring,
+      Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11008437'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Seattle, USA
+  - Palo Alto, USA
+  extracted_at: '2026-09-23T11:12:37.152177'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

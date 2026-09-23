@@ -1,0 +1,50 @@
+company:
+  name: Bertelsmann
+  stage: null
+  focus: Digital advertising and media technology (smartclip)
+position:
+  title: Senior Full Stack Software Engineer (f/m/d) – AI, React, Node.js & TypeScript
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs AI-native experiences including agent-
+      driven workflows and natural-language interactions, meaning
+      the engineer shapes how agents and LLM-driven interfaces
+      behave rather than merely consuming an API. AI is also used
+      as a coding multiplier, but the core responsibility of
+      designing conversational/agent UX makes this ai-first.
+  responsibilities:
+  - Build production-grade applications with React, Next.js, TypeScript and Node.js
+    from UI to APIs and services
+  - Design AI-native experiences including conversational UIs, agent-driven workflows
+    and natural-language interactions
+  - Use AI as an engineering multiplier for prototyping, implementing, debugging and
+    testing
+  - Shape scalable architectures, APIs and data structures across the stack
+  - Collaborate with Product, UX/UI and Engineering teams on product decisions
+  - Raise the bar for testing, performance, maintainability and engineering quality
+  - Understand customers, business and problem context before deciding what to build
+  use_cases:
+  - Conversational UIs and natural-language interactions in products
+  - Agent-driven workflows that change how users interact with products
+  - Production-grade full-stack web applications
+  - AI-assisted engineering workflow for faster prototyping and testing
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: [React, Next.js, APIs, REST APIs, GraphQL, Conversational AI]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Jenkins, Grafana, Graylog]
+    languages: [TypeScript, Node.js, Bash, JavaScript, SQL]
+    domains: []
+    other: [Confluence, Jira, Jest, Vitest]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11164756'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:23:22.841602'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

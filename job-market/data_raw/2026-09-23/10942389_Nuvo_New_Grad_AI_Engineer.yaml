@@ -1,0 +1,78 @@
+job_id: 10942389
+title: New Grad AI Engineer
+company: Nuvo
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 99 Employees
+description: |
+  About Nuvo
+
+  We’re Redefining the $11T B2B Commerce and Payments Market
+
+  Nuvo is bringing B2B commerce online.
+
+  While technology has reshaped consumer commerce, the
+  business-to-business (B2B) economy — three times larger— has
+  lagged behind.
+
+  From coffee to lumber, every product we use has been traded
+  through a complex supply chain of suppliers, manufacturers,
+  wholesalers, and retailers. Despite the massive scale of
+  this market, most businesses manage their trading
+  relationships and commerce activities using outdated methods
+  like paper forms, PDFs, emails, faxes, phone calls, and
+  spreadsheets, making processes slow and inefficient.
+
+  Much like how Shopify, Stripe and Square have transformed
+  how consumer companies transact, we aim to do the same for
+  B2B companies.
+
+  About the Role
+
+  We are looking for smart engineers to help build category-
+  defining products. Our problems span scaling AI agents,
+  multi-agent workflows that automate risk and payments, and
+  running agents on large scale data. You'll partner with our
+  engineering, design and product teams to help shape the
+  roadmap, solve real world problems and build our 0-1
+  products. Your work will have huge impact: on team culture,
+  on our customers and on the economy.
+
+  What You’ll Do:
+
+  - Build the AI systems that automate real trade workflows:
+    collections, credit decisioning, payments operations, and
+    the manual work that slows the physical economy down.
+  - Turn LLMs and agents into reliable, production-grade
+    features, not demos, with the evals and guardrails to back
+    them.
+  - Write high-quality, clean and performant code and partner
+    with platform and product engineers to ship end to end.
+  - Help shape how Nuvo builds with AI as both the field and our
+    product move quickly.
+  - Use the best tools for the job. What matters is whether the
+    system works in production, not which model or framework
+    you used.
+
+  What You Bring:
+
+  - Strong CS fundamentals plus hands-on experience building
+    with modern ML or LLMs (coursework, research, internships,
+    or projects you can show).
+  - Good judgment about where AI genuinely helps versus where it
+    adds risk, and a rigorous approach to evaluating output
+    quality.
+  - The ability to communicate technical solutions and tradeoffs
+    clearly.
+  - Excitement to work in an early-stage team solving ambiguous
+    problems with a strong bias for action.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-08-31
+url: "https://builtin.com/job/new-grad-ai-engineer/10942389"
+source: Built In

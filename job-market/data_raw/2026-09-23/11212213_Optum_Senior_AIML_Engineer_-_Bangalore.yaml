@@ -1,0 +1,144 @@
+job_id: 11212213
+title: Senior AI/ML Engineer - Bangalore
+company: Optum
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 160,000 Employees
+description: |
+  Requisition Number: 2381266 Optum is a global organization
+  that delivers care, aided by technology to help millions of
+  people live healthier lives. The work you do with our team
+  will directly improve health outcomes by connecting people
+  with the care, pharmacy benefits, data and resources they
+  need to feel their best. Here, you will find a culture
+  guided by inclusion, talented peers, comprehensive benefits
+  and career development opportunities. Come make an impact on
+  the communities we serve as you help us advance health
+  optimization on a global scale. Join us to start Caring.
+  Connecting. Growing together. We are seeking a talented and
+  passionate AI/ML Engineer to join our innovative technology
+  team. The ideal candidate will be at the heart of designing
+  and building the intelligent systems that power our products
+  and services. This role involves working on the complete
+  lifecycle of machine learning projects, from data collection
+  and preprocessing to model development, deployment, and
+  maintenance. You will be a key player in transforming
+  complex data into actionable insights and creating AI-driven
+  solutions that solve real-world problems. Primary
+  Responsibilities:
+
+  - Design and Develop ML Models: Research, design, and develop
+    machine learning and deep learning models to address
+    business challenges. This includes everything from
+    selecting the right algorithms to building predictive
+    models from the ground up
+  - Data Pipeline and Preprocessing: Build and maintain robust
+    data pipelines. You will be responsible for gathering data
+    from various sources, cleaning it, and transforming it
+    into a usable format for model training
+  - Model Training and Evaluation: Train, test, and validate
+    machine learning models to ensure they are accurate,
+    reliable, and meet business requirements. This involves
+    performing statistical analysis and running experiments to
+    optimize model performance
+  - Deployment and MLOps: Deploy trained models into production
+    environments and maintain their lifecycle. You will
+    implement MLOps best practices for monitoring, retraining,
+    and updating models to ensure they remain effective over
+    time.
+  - Collaboration and Innovation: Work closely with data
+    scientists, software engineers, and product managers to
+    integrate AI/ML models into our applications and systems
+  - Stay Current: Keep up-to-date with the latest advancements
+    in the field of AI, machine learning, and deep learning,
+    and be prepared to apply new research to our products.
+  - Build Generative AI and LLM Workflows: Design, develop, and
+    optimize LLM-powered applications and agentic workflows -
+    including retrieval-augmented generation (RAG), prompt
+    engineering, tool/function calling, and multi-step
+    orchestration - to deliver production-grade generative AI
+    features
+  - Ensure LLM Reliability and Evaluation: Establish evaluation
+    frameworks, guardrails, and structured, type-safe output
+    validation to ensure generative AI systems are accurate,
+    safe, cost-efficient, and reliable in production
+  - Comply with the terms and conditions of the employment
+    contract, company policies and procedures, and any and all
+    directives (such as, but not limited to, transfer and/or
+    re-assignment to different work locations, change in teams
+    and/or work shifts, policies in regards to flexibility of
+    work benefits and/or work environment, alternative work
+    arrangements, and other decisions that may arise due to
+    the changing business environment). The Company may adopt,
+    vary or rescind these policies and directives in its
+    absolute discretion and without any limitation (implied or
+    otherwise) on its ability to do so
+
+  Required Qualifications:
+
+  - Technical Skills:
+    - Hands-on experience with ML frameworks and libraries such as
+      TensorFlow, PyTorch, Keras, and Scikit-learn
+    - Experience building LLM workflows and agentic applications
+      using orchestration frameworks such as LangGraph and
+      LangChain
+    - Hands-on experience integrating LLM provider APIs (e.g.,
+      Anthropic Claude, OpenAI, Azure OpenAI) into
+      applications
+    - Deep understanding of machine learning, deep learning, and
+      statistical modeling concepts
+    - Familiarity with cloud platforms (e.g., AWS, Google Cloud,
+      Azure) and their machine learning services (Databricks)
+    - Familiarity with core generative AI concepts including
+      retrieval-augmented generation (RAG), prompt
+      engineering, embeddings, and vector databases (e.g.,
+      Pinecone, FAISS, Chroma)
+    - Solid programming proficiency in languages like Python, R,
+      or Java
+    - Proficiency in data handling, including SQL, and experience
+      with data processing tools like Pandas and NumPy
+    - Proficiency with Pydantic for data validation and enforcing
+      structured, type-safe outputs from LLMs
+  - Soft Skills:
+    - Solid analytical and problem-solving abilities
+    - Excellent communication skills to articulate complex
+      technical concepts to diverse audiences
+    - A creative and proactive mindset with a drive for continuous
+      improvement
+
+  Preferred Qualifications:
+
+  - Experience with containerization technologies like Docker
+    and Kubernetes
+  - Proven experience deploying and managing machine learning
+    models in a production environment
+  - Experience with LLM observability and evaluation tooling,
+    fine-tuning, or prompt-optimization techniques
+  - Previous experience on databrick
+  - Experience with contributions to open-source projects or a
+    solid portfolio of relevant personal projects
+  - Knowledge of MLOps principles and tools
+
+  At UnitedHealth Group, our mission is to help people live
+  healthier lives and make the health system work better for
+  everyone. We believe everyone-of every race, gender,
+  sexuality, age, location and income-deserves the opportunity
+  to live their healthiest life. Today, however, there are
+  still far too many barriers to good health which are
+  disproportionately experienced by people of color,
+  historically marginalized groups and those with lower
+  incomes. We are committed to mitigating our impact on the
+  environment and enabling and delivering equitable care that
+  addresses health disparities and improves health outcomes -
+  an enterprise priority reflected in our mission.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Healthtech
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-ai-ml-engineer-bangalore/11212213"
+source: Built In

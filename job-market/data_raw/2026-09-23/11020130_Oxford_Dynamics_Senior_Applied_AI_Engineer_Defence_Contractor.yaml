@@ -1,0 +1,301 @@
+job_id: 11020130
+title: Senior Applied AI Engineer (Defence Contractor)
+company: Oxford Dynamics
+location: London, GBR
+work_type: FULL_TIME
+company_size: 36 Employees
+description: |
+  Role:               Senior Applied AI Engineer (Defence
+  Contractor)
+
+  Rate:               £700–£900 per day, dependent on
+  experience
+
+  Location:        Oxford / London
+
+  Engagement: Contract, outside IR35: initial 6-month term
+  with strong likelihood of extension
+
+  Start:              Immdediate start. Hybrid, with regular
+  time on site in Oxford or London
+
+  Security clearance: You must be eligible for UK security
+  clearance (BPSS and SC. We require applicants to hold UK
+  passport and 5 years of continuous UK residency.
+
+   We can sponsor clearance for the right candidate, but given
+  the contract nature of this role we strongly prefer
+  candidates who already hold an active, transferable SC; DV
+  is an advantage. If you are not eligible, we will not be
+  able to progress your application.
+
+  A note from the Founders
+
+  Oxford Dynamics is at an inflection point.
+
+  We build frontier AI for environments where the cost of a
+  wrong decision is high: defence and national security,
+  critical infrastructure, and commercial organisations making
+  high-stakes decisions on complex data. We are growing fast,
+  and the constraint on how fast is no longer ideas or
+  opportunity. It is whether the systems we ship are good
+  enough for the people who stake decisions on them.
+
+  That is where you come in. We need engineers who can build
+  the systems this mission depends on, and build them to a
+  standard that holds when the answer has to be right. You
+  will be trusted to own real systems end-to-end, held to a
+  single high standard, and judged on one thing above all:
+  whether what you ship earns the confidence people place in
+  it when the decision matters.
+
+  If you are the kind of engineer who builds rather than
+  assembles, who wants your work measured by whether it holds
+  up in production rather than whether it demos well, and who
+  wants to see the direct line from your code to systems
+  people depend on, we would love to hear from you.
+
+
+
+  Who We Are
+
+   Founded in 2019, Oxford Dynamics is a fast-growing UK
+  frontier technology company developing both digital and
+  physical AI systems built to operate in dynamic, mission-
+  critical environments.
+
+  At the core of everything we build is AVIS™ (A Very
+  Intelligent System), our orchestration platform: the
+  intelligence layer that fuses multi-modal data, including
+  text, imagery, telemetry and sensor feeds, so operators can
+  interrogate complex information at speed and make better
+  decisions under pressure. AVIS™ powers our digital decision
+  products, such as ORION for multi-source decision-to-effect,
+  and it powers our physical platforms.
+
+  We work where wrong decisions can be catastrophic. We
+  partner with defence, security and private sector
+  organisations internationally to bring frontier AI into the
+  environments where it matters most, whether that is
+  protecting nations, infrastructure and lives, or
+  transforming how commercial organisations reason over their
+  data and make high-stakes decisions.
+
+  Requirements
+
+  As a Senior Applied AI Engineer at Oxford Dynamics, you will
+  build and ship agentic AI systems in production: designing
+  the multi-agent pipelines, the reasoning and retrieval, the
+  model integration, and the infrastructure that carries them
+  into production. These are systems people rely on to make
+  consequential decisions, so what you build has to earn its
+  confidence honestly and hold up under scrutiny.
+
+  This is a builder's role, not an integrator's, and it is
+  unambiguously senior. We need an engineer who designs and
+  implements systems rather than wiring together off-the-shelf
+  parts, who takes technical ownership of the workstream and
+  sets the direction other engineers build to. You will make
+  systems-level design decisions, write production-grade code,
+  and own the hard engineering that makes agentic AI reliable
+  in demanding production environments, including secure, on-
+  premises and offline deployments, from architecture through
+  to deployment.
+
+  That ownership is real. You will own features end-to-end and
+  be accountable for how they behave under pressure, not just
+  whether they work on your machine. Reliability, latency and
+  failure behaviour are your concern rather than an
+  afterthought, because in the environments we deploy into,
+  reliability and trust matter more than speed to market.
+
+  Frontier here means dependable, not experimental. You need
+  the engineering depth to build systems that keep working
+  under real-world conditions, whether that is heavy load,
+  degraded connectivity or a fully offline environment, and
+  the judgement to know the difference between a demo and a
+  system someone can stake a decision on.
+
+
+
+  Key Responsibilities
+
+  •     Build the systems themselves. You design and build
+  multi-agent AI systems from the ground up, using frameworks
+  such as LangGraph or Haystack where they help, and building
+  the orchestration, state and tool-calling infrastructure
+  underneath them when they do not.
+
+  •     Engineer for production. You write clean, tested,
+  maintainable code and make sound systems-level decisions,
+  treating reliability, latency and failure behaviour as
+  first-class concerns.
+
+  •     Put models to work. You integrate large language and
+  vision-language models into real reasoning, search,
+  summarisation and task-execution pipelines, and build the
+  retrieval, memory and guardrails that make them dependable.
+
+  •     Deploy where it is hard. You take systems into cloud,
+  on-premises and, where required, fully offline environments,
+  and engineer for the security and reliability constraints
+  that come with each.
+
+  •     Own the full pipeline. You build production pipelines
+  from data ingestion through to inference, owning the whole
+  path rather than a slice of it.
+
+  •     Make confidence earned, not asserted. You build the
+  evaluation, observability and guardrails that show how a
+  system actually behaves, its agent behaviour, model
+  performance and failure modes.
+
+  •     Set the technical bar. You act as a technical
+  authority for agentic AI, taking technical ownership of the
+  workstream, setting the design patterns and direction other
+  engineers build to, and leaving behind systems and
+  documentation the team can maintain after your engagement
+  ends.
+
+
+
+  What We're Looking For
+
+  •     Significant professional software engineering
+  experience (typically 6+ years), including several years
+  building LLM-based or agentic systems, with a demonstrable
+  track record as a senior or lead engineer.
+
+  •     Strong software engineering fundamentals: you write
+  clean, tested, production-grade code and make sound systems-
+  level design decisions, not just working prototypes.
+
+  •     Commercial experience building multi-agent or agentic
+  AI systems in production, owning them as an engineer rather
+  than integrating them as a user.
+
+  •     Strong Python, with hands-on experience building on
+  LLM frameworks (LangGraph, LangChain, Haystack, or similar)
+  and the ability to work below the framework when you need
+  to.
+
+  •     Experience designing and deploying AI/ML systems into
+  real production environments, not just notebooks or demos.
+
+  •     A solid grasp of the engineering around models:
+  inference, latency and performance, data pipelines, state
+  and memory, and tool or function calling.
+
+  •     Hands-on experience building search and retrieval over
+  very large multi-modal datasets (3TB+ of text, imagery,
+  telemetry and sensor data): indexing, embedding and querying
+  at that scale, and feeding the results into LLM or agentic
+  pipelines with the latency and precision they need to be
+  useful.
+
+  •     Fluency with Docker, Git and cloud platforms (AWS
+  preferred).
+
+  •     Understanding of secure deployment patterns: air-
+  gapped, on-premises or sovereign cloud.
+
+  •     A builder's mindset: you ship real, dependable systems
+  and can explain them clearly to technical and non-technical
+  people alike.
+
+  •     Senior technical ownership: you own your delivery end-
+  to-end, take technical ownership of the workstream, and set
+  the direction other engineers build to. You are disciplined
+  about documentation and knowledge transfer so what you build
+  outlives your engagement.
+
+
+
+  Nice to Have
+
+  •     Experience with multimodal reasoning
+
+  •     Experience with edge or offline AI deployments
+
+  •     Familiarity with Kubernetes (EKS/OpenShift) for
+  managing deployed applications
+
+  •     MLOps experience: model evaluation, monitoring,
+  reproducibility
+
+  •     Observability tooling for agentic systems (model
+  drift, agent behaviour, performance monitoring)
+
+  •     Experience with agent orchestration patterns and
+  inter-agent communication protocols (e.g. A2A)
+
+  •     Familiarity with the Model Context Protocol (MCP) for
+  tool and context integration in agentic systems
+
+  •     Familiarity with secure-by-design development
+  principles (ISO 27001, NIST, OWASP)
+
+  •     Experience in defence, national security, or similarly
+  regulated environments
+
+  •     Contributions to open-source AI/ML projects
+
+  An active SC or DV clearance is a strong advantage for this
+  role.
+
+
+
+  Why This Role?
+
+  This is a role for engineers who want to build things that
+  matter and see where they land. You will own real systems
+  end-to-end, work at the frontier of agentic and generative
+  AI, and see your work deployed with organisations where
+  getting the answer right matters. Few engineering roles let
+  you say that the thing you built is trusted by people making
+  consequential decisions. If you build to a high bar and want
+  your work to count, we would love to meet you.
+
+  Benefits
+
+
+
+  Why Oxford Dynamics?
+
+  Join one of the most exciting, fastest-growing areas in the
+  world: the convergence of AI and robotics. Every member of
+  the Oxford Dynamics team has a major impact on the products
+  and services we provide. Regardless of job title, you will
+  make a real difference and learn from colleagues across
+  every area of our business.
+
+
+
+  What We Offer
+
+  •     Competitive day rate, dependent on experience
+
+  •     Genuine technical ownership and the scope to shape
+  architecture, not just deliver tickets
+
+  •     The opportunity to work with a fast-growing,
+  successful early-stage business, with a realistic prospect
+  of extension or a longer-term arrangement
+
+  •     Flexible and hybrid working pattern
+
+  Oxford Dynamics is committed to creating an inclusive team
+  experience for all. Regardless of race, gender, religion,
+  sexual orientation, age, disability, or parental status, we
+  believe our work is at its best when everyone feels free to
+  be their authentic self
+
+  #LI-SS1
+industries:
+  - Artificial Intelligence
+  - Robotics
+  - Software
+  - Defense
+posted_date: 2026-09-04
+url: "https://builtin.com/job/senior-applied-ai-engineer-defence-contractor/11020130"
+source: Built In

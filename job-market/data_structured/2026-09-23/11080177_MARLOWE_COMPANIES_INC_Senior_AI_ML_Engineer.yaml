@@ -1,0 +1,51 @@
+company:
+  name: MARLOWE COMPANIES INC.
+  stage: null
+  focus: Tech-enabled customer experience and BPO services
+position:
+  title: Senior AI / ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The core work is designing, training, optimizing, and
+      deploying classical ML models with MLOps lifecycle
+      management; LLMs/GenAI are only "nice to have" and not a
+      stated responsibility, so no LLM shaping evidence exists.
+      Model development, validation, and drift monitoring
+      constitute shaping of classical ML systems.
+  responsibilities:
+  - Lead design and implementation of machine learning solutions for complex business
+    challenges
+  - Architect scalable ML systems and frameworks
+  - Develop, train, and optimize predictive and AI-driven models
+  - Deploy models to production and support MLOps and model lifecycle management
+  - Monitor model performance and address drift or degradation
+  - Collaborate with data engineering on data architecture, quality, and governance
+  - Implement model validation, testing, and AI governance practices
+  - Mentor engineers and drive technical decision-making across AI initiatives
+  use_cases:
+  - Predictive models for call center and business process optimization
+  - AI-driven customer experience enhancements
+  - Enterprise AI transformation initiatives
+  - Recommendation systems and NLP applications
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [Machine Learning, Model Training, TensorFlow, PyTorch, scikit-learn, XGBoost,
+      Feature Engineering]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, CI/CD]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: [Agile, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11080177'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:17:53.292396'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

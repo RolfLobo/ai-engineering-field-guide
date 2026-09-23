@@ -1,0 +1,53 @@
+company:
+  name: MRI Software
+  stage: null
+  focus: Real estate (PropTech) software
+position:
+  title: AI Engineer II
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role administers AI platforms (licensing, provisioning,
+      dashboards, cost controls) without shaping model behavior —
+      no prompts, retrieval, training, or evals. It is IT
+      operations over AI tools, so ai-support.
+  responsibilities:
+  - Administer AI platforms including user provisioning, seat/license management,
+    and access controls
+  - Manage AI licensing lifecycle including seat allocation and right-sizing licenses
+    based on usage
+  - Monitor and report on AI usage and spend with dashboards on adoption, cost, ROI,
+    and utilization
+  - Set and manage spend limits, usage policies, and cost controls at organizational
+    and user levels
+  - Configure integrations, connectors, SSO, SCIM, audit logs, and data retention
+    settings
+  - Serve as internal point of contact for AI platform troubleshooting and vendor
+    escalations
+  - Maintain inventory of AI tools, licenses, and integrations including shadow IT
+    discovery
+  - Evaluate new AI tools and licensing models and recommend adoption or consolidation
+  use_cases:
+  - Enterprise AI platform administration and governance
+  - AI usage and spend monitoring, reporting, and cost control
+  - License management and optimization across AI tools
+  - Shadow IT discovery and AI estate inventory
+  skills:
+    genai: [ChatGPT, GitHub Copilot, Anthropic API, Gemini]
+    ml: []
+    web: [SSO]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Audit Logs]
+    languages: [Python, SQL]
+    domains: []
+    other: [Power BI, Excel, IT Asset Management, SCIM, Data Retention, ITIL]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11299963'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:36:53.028520'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

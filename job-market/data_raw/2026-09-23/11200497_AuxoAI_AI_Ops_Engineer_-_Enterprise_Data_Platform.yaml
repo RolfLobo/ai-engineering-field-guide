@@ -1,0 +1,130 @@
+job_id: 11200497
+title: AI Ops Engineer - Enterprise Data Platform
+company: AuxoAI
+location: Yelahanka, IND
+work_type: FULL_TIME
+company_size: 289097 Employees
+description: |
+  About AuxoAI
+
+  AuxoAI is a global platform-based services firm. We help
+  companies turn their strategies into practical digital and
+  AI solutions. By understanding how our clients make
+  decisions, we use digital and Artificial Intelligence (AI)
+  technologies to drive growth, enhance operations, improve
+  customer experiences, and provide clear, actionable insights
+  from their data.
+
+  What We Do
+
+  We work across industries such as healthcare, high-tech,
+  consumer packaged goods (CPG), finance, and more across
+  sales, marketing, and customer support functions. We help
+  our clients accelerate their digital and AI journeys
+  through:
+
+  • AI Application Development  • Data, Digital and Cloud
+  acceleration using AI • AI Native Product Engineering
+
+  Location: India Locations (Hyderabad, Bangalore, Mumbai or
+  Gurgaon)
+
+  Level: Senior Associate / Manager
+
+  Required Experience: 5 – 8 years
+
+  Role Summary
+
+  We are looking for a AI Ops Engineer to be part of team
+  managing the end-to-end health of a client's enterprise data
+  estate, operating as the single accountable control tower
+  across a hybrid platform. What distinguishes this role is
+  how you get there: you will build a service that detects,
+  correlates and increasingly resolves on its own, applying
+  AIOps and GenAI to compress triage, predict failure on the
+  critical path, and convert repetitive manual intervention
+  into automation — while keeping human judgement at the
+  decision gates that matter.
+
+  The role requires the candidate to exhibit engagement and
+  technical leadership in equal measure. You will be the face
+  of the service to client IT and business leadership, run the
+  governance cadence and hold the delivery relationship.
+
+  Responsibilities
+
+  - Act as the primary point of accountability for critical data
+    objects and business domains as per assigned
+    responsibilities
+  - Drive service scorecard initiatives: SLA attainment, MTTR,
+    data freshness, repeat-failure rate, pass rate, connector
+    stability and FinOps.
+  - Participate in client meetings during major incidents and
+    own the post-incident review.
+  - Contribute towards the Standard Operating Procedure for the
+    estate — scope, monitoring framework, severity matrix,
+    RACI, escalation paths, notification matrix and closure
+    criteria — and keep it current as the platform evolves.
+  - Drive triage activities for P1 and P2 incidents, assign the
+    resolver domain, run the cross-party bridge
+  - Drive problem management — convert recurring incidents into
+    permanent fixes, and burn down the problem backlog
+  - Maintain the technical standard for the service across
+    legacy and modern technical stacks, mentor juniors in the
+    team
+  - Follow the data architecture standards for the estate,
+    govern the data model — dimensional design, conformed
+    dimensions and business keys, SCD treatment, and semantic
+    consistency
+  - Lead diagnosis on major incidents across domain boundaries —
+    distinguishing an ETL fault from a database fault, a
+    connector fault from a source schema change, a report
+    failure from warehouse contention.
+
+  - Drive initiatives to establish AIOps or intelligent
+    observability
+
+  Requirements
+
+  - Bachelor’s/Master’s degree in Computer Science, Engineering,
+    or related field (or equivalent practical experience).
+  - 5-8 years in data engineering, data warehousing or data
+    operations, with experience of working in managed service
+    or Data Operations function.
+  - Minimum 3 years experience in implementing data pipelines
+    using dbt
+  - Strong SQL and data modelling expertise, including
+    dimensional modelling and warehouse performance tuning.
+  - Demonstrated experience working in high touch operations
+    projects — running governance forums, owning SLAs and
+    service reporting, and managing escalations with senior IT
+    and business stakeholders.
+  - Practical experience with enterprise job scheduling (Tidal,
+    Control-M, Autosys or equivalent) and with ITSM process in
+    ServiceNow
+  - Excellent written and verbal communication — able to
+    translate a technical fault into business impact for an
+    executive audience.
+
+  Preferred
+
+  - Experience in implementing or supporting Snowflake data
+    platforms is preferred
+  - Experience in Informatica PowerCenter and a relational data
+    warehouse platform will be added bonus.
+  - Working knowledge of MicroStrategy or a comparable
+    enterprise BI platform.
+  - Familiarity with Python or PySpark for operational tooling
+    and automation.
+  - Exposure to cloud cost management and FinOps practice,
+    particularly Snowflake credit optimisation.
+  - ITIL certification or equivalent practical grounding in
+    service management.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Consulting
+  - Generative AI
+posted_date: 2026-09-16
+url: "https://builtin.com/job/ai-ops-engineer-enterprise-data-platform/11200497"
+source: Built In

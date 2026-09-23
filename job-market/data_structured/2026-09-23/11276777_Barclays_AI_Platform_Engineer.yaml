@@ -1,0 +1,52 @@
+company:
+  name: Barclays
+  stage: null
+  focus: Global financial services and banking
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a platform engineering lead who deploys and
+      operationalizes LLMs and builds infrastructure (Kubernetes,
+      IaC, CI/CD) rather than shaping model behaviour. No evidence
+      of writing prompts, designing RAG, or evaluating model
+      output quality as core responsibilities.
+  responsibilities:
+  - Lead and manage engineering teams with technical guidance, mentorship, and performance
+    reviews
+  - Lead the SOLD Simplification multiyear initiative covering engineering and development
+  - Coordinate requirement discovery, delivery planning, roadmap, and stakeholder
+    management
+  - Build and operate cloud platform infrastructure including Kubernetes, containerization,
+    and IaC
+  - Deploy and operationalize LLMs with model lifecycle management and AI observability
+  - Enforce DevSecOps practices including CI/CD pipelines, automated testing, and
+    vulnerability remediation
+  - Advise functional leadership and senior management on cross-functional alignment
+    and risk mitigation
+  use_cases:
+  - Simplification and compliance of an AI platform environment
+  - Deployment and operationalization of LLMs on enterprise cloud infrastructure
+  - Hardware refresh and removal of redundant platform functionality
+  - AI platform services supporting Payments and Transaction Banking domains
+  skills:
+    databases: [Vector Databases]
+    domains: []
+    data: [Data Pipelines]
+    web: [APIs]
+    ml: []
+    ops: [Kubernetes, Infrastructure as Code, Terraform, MLOps, AI Observability,
+      DevSecOps, CI/CD, Monitoring]
+    other: [Bicep, Site Reliability Engineering, Responsible AI]
+    cloud: [Azure]
+    languages: [Python, Java]
+    genai: [LLMs, Prompt Orchestration, RAG]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11276777'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:35:25.830699'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking hardware, cybersecurity, and firewalls
+position:
+  title: Software QA Engineer- Networking & Security Protocols, AI, Cloud & Virtualization
+    - 4 to 8 years
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role drives agentic security test flows and builds
+      AI/LLM-based workflows for test generation, failure triage,
+      and log analysis using LLMs (GPT, Claude) — the person
+      designs agent flows and LLM applications themselves, which
+      is shaping, with an LLM/agent component, so ai-first. The
+      QA/networking context does not override the agentic
+      development responsibilities.
+  responsibilities:
+  - Lead design, deployment, and optimization of enterprise Next-Generation Firewalls
+    and cloud-native security services
+  - Drive agentic security autonomous flows and build test automation frameworks using
+    AI technologies
+  - Perform system testing, product security testing, validation, and complex troubleshooting
+    with deep packet analysis and RCA
+  - Use LLM-based workflows for test generation, failure triage, debugging, and log
+    analysis
+  - Partner with engineering teams to file critical software bugs and scope future
+    feature requests
+  - Use host tools and traffic generators to replicate production environments and
+    stress-test firewall capabilities
+  use_cases:
+  - Automated test generation for firewall and security products
+  - AI-driven failure triage, debugging, and log analysis
+  - Autonomous agentic security test workflows
+  - Next-generation firewall system and product security testing
+  - Network anomaly detection and stress testing of firewall capabilities
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [REST APIs]
+    ml: []
+    ops: [Docker, Kubernetes, Automation, Linux]
+    other: [VMware ESXi, Windows, TCP/IP, BGP, OSPF, IPSec, SSL-VPN, NAT, DNS, DHCP,
+      Next-Generation Firewalls, Deep Packet Analysis, CCNP, CCIE]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python]
+    genai: [LLMs, Agentic Workflows, ChatGPT, Anthropic API]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11116192'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:20:04.755843'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

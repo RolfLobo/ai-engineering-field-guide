@@ -1,0 +1,57 @@
+company:
+  name: Extreme Networks
+  stage: null
+  focus: Cloud-driven enterprise networking solutions
+position:
+  title: AI Principal SW Systems Engineer -AI Infra -Distributed Systems,Microservice,
+    AI Infrastructure,Agentic systems -10358
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes building agentic AI systems — designing
+      tool use, planning, memory, retrieval, orchestration, and
+      evaluation of agents — which is directly shaping LLM/agent
+      behaviour, so it is ai-first. Classical distributed systems
+      and data pipeline work are secondary to this.
+  responsibilities:
+  - Define and drive the technical vision for intelligent networking, distributed
+    systems, real-time data processing, agentic AI, and machine learning
+  - Lead the end-to-end software development lifecycle from architecture through deployment
+    and operations, participating hands-on in design and code reviews
+  - Design and build high-performance production services for real-time data and AI
+    platforms, including scalable data pipelines, distributed microservices, and agentic
+    solutions
+  - Integrate agentic AI capabilities with networking systems that process high-volume,
+    high-velocity data
+  - Mentor engineers and establish technical direction across the team
+  - Champion architecture, engineering process, performance, and operational excellence
+    improvements
+  use_cases:
+  - Intelligent networking and network management automation
+  - Autonomous agents that reason, plan, remember, and take action on behalf of users
+  - Real-time processing of large volumes of network telemetry and operational data
+  - Automated network insights and intelligent experiences for enterprise customers
+  skills:
+    genai: [AI Agents, Function Calling, Agentic Workflows, Generative AI, RAG]
+    ml: [Machine Learning]
+    web: [Microservices]
+    databases: []
+    data: [Kafka, Spark, Flink, PySpark, Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Distributed Systems, Event-Driven Architecture]
+    languages: [Python, Java, Go, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10981254'
+  location: IND
+  locations:
+  - IND
+  - Chennai, IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:10:45.920944'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

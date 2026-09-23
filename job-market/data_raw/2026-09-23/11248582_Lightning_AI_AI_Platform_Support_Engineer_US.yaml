@@ -1,0 +1,259 @@
+job_id: 11248582
+title: AI Platform Support Engineer (US)
+company: Lightning AI
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Who We Are
+
+  Lightning AI is the company behind PyTorch Lightning.
+  Founded in 2019, we build an end-to-end platform for
+  developing, training, and deploying AI systems—designed to
+  take ideas from research to production with less friction.
+
+  Through our merger with Voltage Park, a neocloud and AI
+  Factory, Lightning AI combines developer-first software with
+  cost-efficient, large-scale compute. Teams get the tools
+  they need for experimentation, training, and production
+  inference, with security, observability, and control built
+  in.
+
+  We serve solo researchers, startups, and large enterprises.
+  Lightning AI operates globally with offices in New York
+  City, San Francisco, Seattle, and London, and is backed by
+  Coatue, Index Ventures, Bain Capital Ventures, and
+  Firstminute.
+
+  The Way We Work
+
+  The people who thrive here are builders who move fast,
+  communicate openly, take ownership, and continuously improve
+  themselves, their teams, and our company. Here's what that
+  looks like in practice:
+
+  - Move with Urgency: We move quickly, make thoughtful
+    decisions, and keep momentum. We value action over
+    perfection and learn by shipping.
+  - Take Ownership: We own outcomes, not just our individual
+    work. We make decisions that move the company forward and
+    follow through.
+  - Communicate Openly: We communicate directly, seek to
+    understand, and create clarity for others. Honest
+    conversations help us move faster together.
+  - Build Great Teams: We lead by example, empower others, and
+    create healthy teams where people can do their best work.
+  - Raise the Bar: We're always improving ourselves. We learn
+    from feedback, consistently challenge ourselves to grow,
+    and focus on the work that matters most.
+  - Think Long-Term: We design for what's next. We create
+    scalable systems, simplify complexity, and use AI and
+    automation to amplify our impact.
+
+
+
+  What We’re Looking For
+
+  Lightning AI is looking to hire an AI Platform Support
+  Engineer to join our US Customer Experience team, supporting
+  ML engineers running large-scale training and inference
+  workloads across cloud infrastructure, Kubernetes, and GPU
+  platforms in production environments.
+
+  This role sits at the intersection of ML systems, cloud
+  infrastructure, Kubernetes, and customers. You’ll support
+  engineers training models, deploying inference systems, and
+  scaling GPU workloads in production.You are not a ticket
+  router or traditional support engineer. You are a technical
+  partner to ML teams - helping diagnose failures, improve
+  reliability, and guide customers through complex distributed
+  systems problems.
+
+  The problems range from Kubernetes scheduling and GPU
+  orchestration to distributed PyTorch failures, inference
+  latency, networking bottlenecks, storage performance, and
+  platform reliability. You’ll gain exposure to a wide variety
+  of real world AI workloads across industries and help shape
+  the infrastructure powering the next generation of ML
+  applications.
+
+  This role is hybrid out of our Seattle, San Francisco, or
+  New York office hubs, with an in-office requirement of at
+  least 2 days per week and occasional team and company
+  offsites. The role follows a Monday–Friday schedule, with
+  working hours from 8:00 AM to 5:00 PM PST. We are not able
+  to provide visa sponsorship for this role at this time.
+
+  What You'll Do
+
+  Work Directly With ML Engineers
+
+  - Partner directly with customer engineering teams running
+    training and inference workloads in production
+  - Help customers diagnose and resolve complex distributed
+    systems and ML infrastructure issues
+  - Act as a technical advisor during high impact incidents and
+    platform degradation events
+  - Translate infrastructure level issues into actionable
+    guidance for ML engineers
+  - Build credibility with customers through strong technical
+    reasoning and clear communication
+
+  Debug ML Infrastructure & Distributed Workloads
+
+  - Investigate failures involving distributed training,
+    Kubernetes orchestration, GPU allocation, networking, and
+    storage systems
+  - Troubleshoot PyTorch, CUDA, NCCL, and inference serving
+    related issues
+  - Analyze logs, metrics, traces, and system behavior to
+    isolate root causes
+  - Debug containerized workloads running across Kubernetes and
+    bare metal GPU environments
+  - Support customers scaling workloads across multi node GPU
+    systems
+  - Diagnose performance bottlenecks involving compute, memory,
+    networking, or storage
+
+  Improve Reliability & Platform Operations
+
+  - Identify recurring patterns across customer issues and drive
+    long term reliability improvements
+  - Contribute to post incident reviews and operational
+    improvements
+  - Build internal tooling, automation, documentation, and
+    runbooks
+  - Partner closely with infrastructure, networking, and
+    platform engineering teams
+  - Help improve observability, operational visibility, and
+    troubleshooting workflows
+  - Improve the customer experience through better processes and
+    technical guidance
+
+  What This Role Is Not
+
+  To set clear expectations:
+
+  - This is not a traditional help desk or ticket routing
+    support role
+  - This is not purely customer success or account management
+  - This is not a backend engineering role
+  - This is not a passive escalation position
+
+  This role is for engineers who enjoy solving difficult
+  technical problems while working closely with other
+  engineers.
+
+  What You’ll NeedRequired QualificationsInfrastructure &
+  Systems
+
+  - Strong software engineering and systems troubleshooting
+    background
+  - Experience with Kubernetes and containerized environments
+  - Linux systems knowledge, including networking, storage,
+    process management, and performance tuning
+  - Experience with cloud infrastructure and distributed systems
+  - Experience with observability and debugging tools such as
+    Prometheus, Grafana, or OpenTelemetry
+
+  ML Infrastructure Experience
+
+  - Hands on experience operating machine learning workloads in
+    production or research environments
+  - Experience with distributed ML systems and tooling such as
+    PyTorch, CUDA, or NCCL
+  - Familiarity with GPU infrastructure and orchestration
+  - Experience troubleshooting performance, reliability, or
+    scaling issues in ML infrastructure
+  - Understanding of the operational challenges involved in
+    running ML systems at scale
+
+  Collaboration
+
+  - Strong communication skills and ability to work directly
+    with highly technical customers and engineering teams
+  - Comfortable operating in fast moving, highly ambiguous
+    environments
+  - Enjoys solving complex technical problems collaboratively
+
+  Ideal Experience
+
+  - Experience with large scale model training or distributed
+    inference systems
+  - Familiarity with Ray, Kubeflow, Slurm, or similar
+    distributed scheduling platforms
+  - Experience with InfiniBand, RDMA, or high-performance
+    networking
+  - Experience operating bare metal infrastructure
+  - Familiarity with storage systems commonly used in ML
+    environments
+  - Experience working at an AI infrastructure, cloud, MLOps, or
+    developer tooling company
+  - Contributions to platform engineering, developer
+    infrastructure, or operational tooling projects
+  - Experience writing automation, tooling, or scripts in Python
+    or similar languages
+
+  We are committed to offering competitive compensation that
+  reflects the value each team member brings to our mission.
+  Final offers are based on factors such as experience,
+  skills, geographic location, and role expectations. In
+  addition to base salary, our total rewards package for
+  eligible roles includes a discretionary bonus, a meaningful
+  equity component, and comprehensive benefits.
+
+  The anticipated annual base salary range for this role is:
+
+  $115,000—$140,000 USD
+
+  Benefits and Perks
+
+  We offer a comprehensive and competitive benefits package
+  designed to support our employees’ health, well-being, and
+  long-term success:
+
+  - Comprehensive Health Coverage: Medical, dental, and vision
+    coverage for employees and eligible dependents.
+  - Meaningful Equity: RSUs that give employees a stake in the
+    company's long-term success.
+  - Retirement Savings: 401(k) matching (U.S.) and pension
+    contributions (U.K.).
+  - Flexible Time Off: Unlimited PTO, company holidays, and
+    floating holidays to support work-life balance.
+  - Company-Wide Winter Break: Two weeks of company closure each
+    winter to disconnect and recharge.
+  - Paid Parental & Family Leave: Paid leave to support you and
+    your family through life's important moments.
+  - Professional Development: Annual learning and development
+    allowance to support your professional growth.
+  - Wellness Benefits: Wellness and work-from-home stipends to
+    support your physical and mental well-being.
+  - Sabbatical Program: Four weeks of paid sabbatical leave
+    after four years of service.
+  - Flexible Work: Flexible schedules and a hybrid work model
+    for our office-based teams.
+  - In-Office Meals: Complimentary meals at our office hubs.
+
+  Benefits may vary by location, team, and role.
+
+  At Lightning AI, we are committed to fostering an inclusive
+  and diverse workplace. We believe that diverse teams drive
+  innovation and create better products. We provide equal
+  employment opportunities to all employees and applicants
+  without regard to race, color, religion, gender, sexual
+  orientation, gender identity, national origin, age,
+  disability, veteran status, or any other protected
+  characteristic. We are dedicated to building a culture where
+  everyone can thrive and contribute to their fullest
+  potential.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+posted_date: 2026-09-18
+url: "https://builtin.com/job/ai-platform-support-engineer-us/11248582"
+source: Built In

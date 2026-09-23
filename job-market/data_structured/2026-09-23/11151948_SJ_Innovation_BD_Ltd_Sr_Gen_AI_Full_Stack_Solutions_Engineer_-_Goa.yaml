@@ -1,0 +1,47 @@
+company:
+  name: SJ Innovation BD Ltd.
+  stage: null
+  focus: Software development and AI solutions services
+position:
+  title: Sr. Gen AI & Full Stack Solutions Engineer - Goa
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds GenAI applications using OpenAI,
+      LangChain, and Hugging Face, including AI agents, chatbots,
+      and RAG systems — directly shaping LLM-based behavior. This
+      makes it ai-first despite the full-stack components.
+  responsibilities:
+  - Design and build AI-driven applications using Generative AI frameworks such as
+    OpenAI, LangChain, and Hugging Face
+  - Develop full stack web solutions with React.js, Node.js, and MongoDB
+  - Architect scalable, secure, and maintainable systems integrating AI and data-driven
+    logic
+  - Research and propose new AI tools and frameworks aligned with business goals
+  - Collaborate with cross-functional teams including Product, DevOps, QA, and Design
+  - Perform code reviews and ensure engineering best practices are followed
+  use_cases:
+  - AI agents and chatbots
+  - Automation systems powered by AI
+  - Retrieval-augmented generation and semantic search applications
+  - Full stack web applications integrating Generative AI
+  skills:
+    genai: [OpenAI API, LangChain, LlamaIndex, Anthropic API, Generative AI, AI Agents,
+      RAG, Semantic Search]
+    ml: [Hugging Face]
+    web: [React]
+    databases: [Vector Databases, MongoDB]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Node.js, Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151948'
+  location: Verna, IND
+  extracted_at: '2026-09-23T11:22:44.540554'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

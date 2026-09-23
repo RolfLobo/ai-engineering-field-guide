@@ -1,0 +1,113 @@
+job_id: 11222507
+title: "Lead AI Engineer || Immediate Joiner"
+company: Enable Data Incorporated
+location: Bengaluru, IND
+remote: true
+work_type: FULL_TIME
+company_size: 19 Employees
+description: |
+  Solution Architecture/Data Architecture
+
+  - Change Source code to accommodate for various architectural
+    considerations e.g.: Moving MSAL based authentication to
+    JWT based authentication to Databricks X-forwarded headers
+    while using Apps
+  - Sit through Technical reviews for configuring necessary
+    Azure resources for deploying the application.
+  - Prepare Technical/Network Architecture Documentation and
+    send it reviews and approvals for cloud and security teams
+    before going live.
+
+  Databricks
+
+  - Design and build pipelines for ingesting data into
+    Databricks from various sources like SAP, website
+    scraping. Core technical skill will be PySpark and PySQL
+  - Write and do scenario-based testing, edge cases and discuss
+    with the stake holders to finalize the necessary code
+    changes and acceptance criteria.
+  - Understanding of the Databricks Unity Catalog permissions
+    model and how to use OBO tokens and configure Service
+    Principals for Databricks Agents,Genie Spaces, Machine
+    Learning and Foundation Models.
+  - Knowledge of Databricks Apps. Ability to build and Deploy
+    Databricks Apps using Visual Studio Code.
+  - Sending custom notifications from Databricks using APIs to
+    custom Team Channel Webhooks
+
+  AI:
+
+  - Ability to use FastAPI /React front end and build minimal
+    Single Page Applications(SPAs) using Chat UI interfaces
+    and Claude Models/APIs
+  - Ability to use defined System Prompts, User Prompts
+    etc..(i..e,) skills in prompt engineering.
+  - Basic Knowledge of Token Economics and ability use rule
+    enforcement in prompts in addition to standard NLP
+    language.
+  - Ability to reengineer code and see what it does and map it
+    to the requirement specifications from users
+  - Ability to use Graphs to detect inter dependencies between
+    rules and circular references.
+  - Ability to use both Claude Vision API in addition to
+    standard text processing.
+  - Understand and develop Retrieval Augmented Generation
+    specifically to Databricks like AI Search indexes,
+    Hierarchical Chunking etc..
+  - Know how to implement basic guard rails related to AI safety
+  - Understand various caching mechanisms
+
+  Tools:
+
+  - Ability to work with Claude Code and Genie.
+
+  Full Stack Development:
+
+  - Ability to understand how a full stack works frontend,
+    backend, middle ware data layers, routes etc.. and
+    troubleshoot issues if any.
+  - Correct and rewrite code if any related to security findings
+    in addition to standard development.
+  - Ability to Document code through various techniques like
+    TDD,FDD,DFD and SD’s
+
+  DevOps:
+
+  - Create and Automate deployment pipelines(CI/CD) for Teams
+    Bot Deployment ,Web Application Deployments, Databricks
+    Bundle/notebook Deployments through ADO.
+  - Add various validation steps like SnykScans, Linting.
+  - Configuring various various environments based on CI/CD
+    pipelines.
+
+  Communication Skills and Expectations:
+
+  - Ability to work with short descriptions of requirements and
+    collaborating closely with Toxicoloigists, Project
+    Managers from client team.
+  - Ability to deliver work as an Individual Contributor in
+    short sprint cycles.
+
+  Requirements
+
+  Please share your resume to Careers.Apply@enabledata.com for
+  a quick response.
+
+  Along with sharing the profile, kindly share the below
+  details:
+
+  Total Years:
+
+  Relevant Years:
+
+  Current CTC:
+
+  Expected CTC:
+
+  Notice Period: Only immediate Joiners
+industries:
+  - Cloud
+  - Database
+posted_date: 2026-09-17
+url: "https://builtin.com/job/lead-data-engineer-cicd-ai/11222507"
+source: Built In

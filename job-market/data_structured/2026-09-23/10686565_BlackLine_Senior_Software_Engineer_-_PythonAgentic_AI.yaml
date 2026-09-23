@@ -1,0 +1,48 @@
+company:
+  name: BlackLine
+  stage: null
+  focus: Finance and accounting automation SaaS
+position:
+  title: Senior Software Engineer - Python/Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and develops intelligent agents, agentic AI
+      systems, and LLM-driven features, which is directly shaping
+      agent/LLM behavior. No training of classical-only models is
+      the focus; the LLM/agent component dominates.
+  responsibilities:
+  - Design, develop, and deploy intelligent agents and AI-driven features to enhance
+    product capabilities
+  - Build, train, and deploy machine learning models and agentic systems using Python
+  - Design, develop, and scale cloud-based distributed backend and AI-powered services
+  - Collaborate with product management, architects, and engineering teams to define
+    requirements
+  - Support technical design and architecture discussions and drive technical decisions
+  - Research, test, benchmark, and evaluate new tools and technologies for product
+    development
+  - Mentor and coach team members and perform peer code reviews
+  - Perform maintenance, deployment, and release support activities
+  use_cases:
+  - AI agents and AI-driven features for finance automation products
+  - Cloud-based scalable SaaS backend and AI services
+  - ML model and agentic system deployment in a multi-tenant SaaS platform
+  skills:
+    genai: [Agentic Workflows, AI Agents, LLMs]
+    ml: [TensorFlow, PyTorch]
+    web: [REST APIs, Microservices, APIs]
+    databases: [Relational Databases]
+    data: [Kafka, RabbitMQ]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, C#, .NET, SQL]
+    domains: [NLP]
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10686565'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:00:33.719082'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

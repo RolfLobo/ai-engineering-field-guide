@@ -1,0 +1,44 @@
+company:
+  name: Everbridge
+  stage: null
+  focus: Critical event management and public safety software
+position:
+  title: Senior Full-Stack Software Engineer, AI & Data
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The description explicitly says AI is a tool, not the
+      specialty; the engineer does not design retrieval systems or
+      agents but wires pre-built AI components into products. No
+      model-behaviour shaping is described, so this is ai-support.
+  responsibilities:
+  - Build internal tools, services, interfaces, and integrations for company teams
+  - Automate work and unlock insight using AI and data
+  - Wire AI components such as retrieval systems and agents into shipped products
+  - Move fluidly across the stack as priorities shift, taking features from idea to
+    shipped
+  - Build and maintain the software and systems internal teams rely on
+  use_cases:
+  - Internal tooling and automation for company operations
+  - Wiring AI capabilities (retrieval systems, agents) into internal products
+  - Data-driven insight and workflow automation across the company
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11308288'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:37:22.708044'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

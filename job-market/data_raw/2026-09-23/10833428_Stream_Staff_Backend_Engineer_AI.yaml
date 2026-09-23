@@ -1,0 +1,192 @@
+job_id: 10833428
+title: Staff Backend Engineer – AI
+company: Stream
+location: Amsterdam, NLD
+remote: true
+work_type: FULL_TIME
+company_size: 140 Employees
+description: |
+  About Stream
+
+  Stream (GetStream.io)'s SDKs and APIs enable devs to build
+  activity feeds, chat, and voice/video, powering over a
+  billion end users worldwide. Trusted by top brands like
+  Strava, Nextdoor, Patreon, and eBay, we're on a mission to
+  make real-time communication and social experiences seamless
+  for developers and their users.
+
+  We're also the makers of Vision Agents, the open-source
+  Python framework for building low-latency voice and video AI
+  agents: over 8k stars on GitHub, 35+ model integrations, and
+  sub-500ms latency on our global edge network.
+
+  Role Overview
+
+  We're seeking a Staff AI Engineer to own model development
+  on our AI team. You'll build, fine-tune, evaluate, and ship
+  the models that run inside Stream's products, end-to-end,
+  from dataset design through to production. As the technical
+  owner, you will drive key decisions independently, shipping
+  models that directly impact systems serving over a billion
+  users.
+
+  Location: Office in Amsterdam or Remote (Europe). Occasional
+  travel for in-person collaboration and meetups is
+  encouraged.
+
+  Hybrid policy: applicants based in the Netherlands or
+  relocating here, are expected to work in the office in
+  Amsterdam 3 times per week. Exemptions apply to specific
+  cases.
+
+  What will you work on
+
+  - Own the development, fine-tuning, and evaluation of in-house
+    AI models from dataset design through to production
+    deployment.
+  - Run supervised fine-tuning and post-training experiments,
+    establishing the benchmarks and evaluation harnesses that
+    tell us whether a model is actually good enough to ship.
+  - Build and maintain the data pipelines that feed model
+    training, keeping data quality, labelling, and
+    reproducibility to a high standard.
+  - Take models to production on Stream's serving stack, tuning
+    for latency, cost, and reliability at high volume.
+  - Set the technical direction for an intentionally undefined
+    problem space, deciding what to build, what to test, and
+    what to abandon.
+  - Work across the wider engineering organisation, interfacing
+    with Go-based API teams and infrastructure to get models
+    integrated into the product.
+  - Contribute to the open-source ecosystem where relevant, and
+    share work publicly through code, writing, or community
+    engagement.
+  - Raise the bar on engineering standards across the AI team
+    through code review, mentorship, and pragmatic best
+    practices.
+
+  About You
+
+  - 5+ years of production-level Python engineering experience,
+    with code you have shipped and maintained rather than only
+    prototyped.
+  - Hands-on machine learning experience, specifically with
+    supervised fine-tuning and post-training of models.
+  - Familiarity with the modern fine-tuning and serving
+    toolchain, e.g. Unsloth, Fireworks, Baseten, or
+    equivalents.
+  - Cloud experience with at least one major provider (GCP or
+    AWS), including infrastructure-as-code with Terraform.
+  - Experience running ML-based products in production: not just
+    training models, but owning them through deployment,
+    monitoring, retraining, and iteration against real usage.
+  - Experience designing and operating data pipelines for
+    training and evaluation; a data engineering background is
+    a strong route into this role.
+  - Demonstrated ownership: a track record of picking up
+    ambiguous problems and driving them to a result without
+    waiting for direction.
+  - Strong communication skills and comfort working in a small,
+    distributed, fast-moving team.
+
+  Preferred
+
+  - A visible open-source footprint: libraries you have authored
+    or maintained, meaningful GitHub activity, or
+    contributions to AI model repositories.
+  - Experience with Go (all of Stream's APIs use Go, so it helps
+    when interacting with other teams).
+  - Deep understanding of Python's concurrency model and
+    asyncio's limitations in high-throughput systems.
+  - Experience with real-time or low-latency inference systems.
+  - Experience as an early engineer or founder, or otherwise
+    operating at startup pace with an undefined roadmap.
+
+  Why You'll Love This Role
+
+  - Genuine Ownership: You own model development end to end:
+    approach, architecture, evaluation, and what ships. Not a
+    slice of someone else's roadmap.
+  - Your Work Reaches Real Scale Immediately: Models go into
+    production across products serving over a billion end
+    users. You'll know quickly whether something worked,
+    because real traffic will tell you.
+  - Small Team, Short Path: We're small enough that there's no
+    layer between your decisions and their impact. If you want
+    to test something, you test it—not build a case for it
+    over two quarters.
+  - Peers Who Ship: The same AI team built Vision Agents from
+    nothing into a framework thousands of developers rely on.
+    You'll be working next to the people who did it.
+  - Flexibility & Trust: Choose your work style—join us in
+    Amsterdam or work remotely across Europe—with periodic in-
+    person collaboration.
+
+  What we have to offer you
+
+  Stream employees enjoy some of the best job benefits in the
+  industry:
+
+  - A team of exceptional (and friendly) engineers
+  - The chance to work on OSS projects
+  - 28 days paid time off plus paid Dutch holidays
+  - Company equity
+  - A pension scheme
+  - A Learning and Development budget
+  - Commute expenses to Amsterdam covered or the option to use a
+    company bike within the city
+  - Fitness stipend
+  - Monthly in-office chair massages by a professional
+  - MacBook Pro
+  - Healthy team lunches and plenty of snacks
+  - A generous relocation package
+  - An office in the heart of Amsterdam
+
+  Note: this list of job benefits applies to Netherlands-based
+  employees and is adjusted per your location of residence.
+
+  Our culture
+
+  Stream has a casual social culture, our team is diverse and
+  we all have different backgrounds. Now, Stream is a team of
+  over 120 peers from over 35 countries across the globe.
+
+  We value transparency, aim for excellence, and support each
+  other on our way to new victories.
+
+  Our team consists of the strongest talents worldwide, making
+  Stream a great place to learn and improve your skills.
+
+  When it comes to software engineering jobs, our culture is
+  oriented towards ownership and quality: our goal is to
+  deliver stable software.
+
+  Hybrid office policy: applicants based (or relocating to)
+  one of our office locations are expected to work according
+  to the applicable local office attendance policy.
+
+  Equal opportunity employer statement: Stream provides equal
+  employment opportunities to all employees and applicants for
+  employment and prohibits discrimination and harassment of
+  any type without regard to race, color, religion, age, sex,
+  national origin, disability status, genetics, protected
+  veteran status, sexual orientation, gender identity or
+  expression, or any other characteristic protected by
+  federal, state or local laws.
+
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, placement,
+  promotion, termination, layoff, recall, transfer, leaves of
+  absence, compensation and training.
+
+  Note for external recruiters: We currently have this role
+  covered and do not accept unsolicited agency resumes. We are
+  not responsible for any fees related to unsolicited resumes.
+industries:
+  - Cloud
+  - Machine Learning
+  - Other
+  - Software
+posted_date: 2026-08-25
+url: "https://builtin.com/job/staff-backend-engineer-ai/10833428"
+source: Built In

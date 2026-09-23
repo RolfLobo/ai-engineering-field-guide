@@ -1,0 +1,52 @@
+company:
+  name: Banyan Software
+  stage: null
+  focus: |-
+    Acquires and holds software companies serving specialized
+    industries
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and manages an AI platform
+      including AI, ML, and LLM solutions in production, with
+      LLMOps tooling (LangChain, LangFuse, LangSmith), so the
+      engineer shapes LLM-based system behaviour. LLM components
+      are explicitly involved, making it ai-first.
+  responsibilities:
+  - Design, set up, and further develop Anago's AI platform with end responsibility
+  - Build the foundation on which future AI, ML and LLM solutions are developed, rolled
+    out and managed
+  - Steer on security, governance, continuity, cost efficiency and explainability
+    of AI systems
+  - Ensure AI functionality supporting decisions about people is transparent, auditable
+    and reliable
+  - Provide technical leadership and drive AI adoption within Anago and towards customers
+  - Design, build, deploy and manage production AI systems used daily
+  use_cases:
+  - AI platform supporting public sector planning and resource allocation
+  - AI-assisted decision-making for public organisations (transparent and auditable)
+  - Integration of AI, ML and LLM features into government software products
+  - Applications such as faster asylum procedures, preventive healthcare, and education
+    budget allocation
+  skills:
+    genai: [LangChain, LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Airflow]
+    cloud: [Azure]
+    ops: [Langfuse, LangSmith, LLMOps, MLOps, Docker, Kubernetes, CI/CD, Distributed
+        Systems, Automated Testing, Version Control]
+    languages: [Python]
+    domains: []
+    other: [API Design, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11195523'
+  location: Amsterdam, NLD
+  extracted_at: '2026-09-23T11:25:26.633342'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

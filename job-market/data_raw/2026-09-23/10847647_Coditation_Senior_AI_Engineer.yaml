@@ -1,0 +1,109 @@
+job_id: 10847647
+title: Senior AI Engineer
+company: Coditation
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 104 Employees
+description: |
+  Senior AI Engineer
+
+  Pune, India
+
+  About Us
+
+  Coditation was founded by a serial entrepreneur, and a team
+  of young talented technologists with a vision of delivering
+  high-quality, scalable, and best-in-class products at the
+  bleeding edge of technology . We specialize in Machine
+  Learning & AI, Data Engineering, Cloud, and Enterprise
+  Mobility. We have built a team of ninja architects, data
+  scientists, data engineers, and software engineers having
+  decades of collective experience of applying emerging
+  technologies to build cutting edge software products, and
+  are constantly looking to add high-quality and passionate
+  engineers.
+
+  What we are looking for
+
+  We are Seeking a Senior AI Engineer to serve as an embedded
+  technical expert within a client’s engineering team. You
+  will be a key member of the team developing and optimizing
+  advanced, AI-driven solutions for a code modernization
+  platform. This role requires a blend of critical thinking
+  and hands-on development skills to build modular Python
+  systems that leverage state management, workflow
+  orchestration, and large language models (LLMs) to modernize
+  complex software systems.
+
+  What would your day look like?
+
+  ● Agentic & Workflow Engineering: Design and implement
+  modular Python systems using LangGraph and LangChain to
+  manage state, configuration, and complex workflow
+  orchestration.
+
+  ● Code Modernization: Design AI workflows for reverse and
+  forward engineering, including code analysis, summarization,
+  and dependency transformation.
+
+  ● RAG & Vector Operations: Build and maintain high-
+  performance Retrieval-Augmented Generation (RAG) pipelines
+  and database operations for storing dependency matrices and
+  workflow results.
+
+  ● Multi-LLM Integration: Integrate and optimize various LLMs
+  (e.g., Gemini, Claude, GPT-4, Vertex AI) for code analysis
+  and automated generation.
+
+  ● Database Management: Manage data persistence using
+  PostgreSQL with the pgvector extension, including schema
+  management and efficient similarity searches.
+
+  ● Robust Tooling: Develop utilities for file handling, model
+  operations, and ensuring robust logging and error handling
+  across applications. What you will need
+
+  ● Collaboration: Work as a seamless member of the client’s
+  team, collaborating with leads and architects to define
+  requirements and deliver scalable AI solutions.
+
+  ● Quality Standards: Write and maintain comprehensive unit
+  and integration tests for all major components while
+  adhering to Pythonic best practices.
+
+  ● Agile Governance: Participate in SAFe Agile ceremonies and
+  maintain meticulous project tracking and documentation in
+  JIRA for internal and external stakeholders.
+
+  Technical Skills:
+
+  ● Core AI Frameworks: Expert proficiency in LangChain,
+  LangGraph, and agentic AI development; deep understanding of
+  tokenization and prompt engineering.
+
+   ● Programming & Patterns: 5+ years of professional Python
+  development with deep knowledge of packages like PyYAML,
+  python-dotenv, SQLAlchemy, and psycopg2.
+
+  ● Data & Vector Search: Strong background in SQL/NoSQL,
+  specifically PostgreSQL and vector embedding concepts.
+
+  ● Modern Dev Stack: Expert use of VS Code, Git for version
+  control, and YAML/JSON for configuration management.
+
+  Preferred Pluses:
+
+  ● Experience with Knowledge Graphs.
+
+  ● Familiarity with Java and React tech stacks for cross-
+  language workflows.
+
+  ● Prior experience in insurance, finance, or regulated
+  enterprise environments.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+posted_date: 2026-08-26
+url: "https://builtin.com/job/senior-ai-engineer/10847647"
+source: Built In

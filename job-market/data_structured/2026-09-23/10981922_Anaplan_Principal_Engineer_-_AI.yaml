@@ -1,0 +1,54 @@
+company:
+  name: Anaplan
+  stage: null
+  focus: AI-infused scenario planning and analysis platform
+position:
+  title: Principal Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behaviour through prompt
+      engineering, RAG implementation, agentic workflows, fine-
+      tuning LLMs, and building evaluation frameworks for GenAI
+      features, so it is ai-first.
+  responsibilities:
+  - Lead architecture, design, and deployment of scalable Generative AI and ML systems
+    into production
+  - Develop end-to-end GenAI features including backend API services, model integration,
+    monitoring, evaluations, and deployments
+  - Integrate and optimise LLMs for business planning use cases, including prompt
+    engineering and RAG
+  - Build conversational interfaces and agentic workflows for planning tasks via natural
+    language
+  - Implement evaluation frameworks measuring accuracy, latency, and user satisfaction
+    of GenAI features
+  - Design and develop APIs exposing AI capabilities to the platform and third-party
+    integrations
+  - Optimise model inference pipelines for performance, cost, and scalability in production
+  - Collaborate with data scientists to productionise ML models and forecasting algorithms
+  use_cases:
+  - GenAI features within business planning workflows
+  - Conversational interfaces for complex planning tasks via natural language
+  - LLM-powered scenario planning and analysis for enterprise customers
+  - Forecasting and ML models embedded in the planning platform
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Fine-Tuning, Conversational AI, Agentic
+        Workflows, Generative AI, Embeddings]
+    ml: [Machine Learning, Model Training, Model Evaluation, Forecasting]
+    web: [APIs]
+    databases: [Vector Databases, Pinecone, Weaviate, Qdrant]
+    data: [Ray]
+    cloud: []
+    ops: [MLOps, LLMOps, CI/CD, Code Review, vLLM, TensorRT, Monitoring, LangSmith,
+      MLflow, Weights & Biases]
+    languages: [Python]
+    domains: []
+    other: [A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10981922'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:10:38.076875'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

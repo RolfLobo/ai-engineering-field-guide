@@ -1,0 +1,52 @@
+company:
+  name: Nagarro
+  stage: null
+  focus: Digital product engineering and IT consulting services
+position:
+  title: Senior Staff Engineer, Generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior through expert prompt
+      engineering, RAG architecture design, fine-
+      tuning/distillation, GenAI evaluation metrics, and end-to-
+      end Agentic AI solution architecture, with LLM components
+      central. This is squarely ai-first.
+  responsibilities:
+  - Architect and implement scalable GenAI and Agentic AI solutions end-to-end
+  - Convert client business use cases into technical designs that meet requirements
+  - Design and implement RAG patterns and prompt engineering solutions
+  - Perform fine-tuning, distillation, and model evaluation
+  - Productionize AI systems on Azure or AWS with enterprise-grade reliability
+  - Build and expose APIs using FastAPI integrated with databases via ORM
+  - Write and review architecture and design documents, reviewing for extensibility,
+    scalability, and security
+  - Carry out POCs to validate suggested designs and technologies
+  use_cases:
+  - Enterprise GenAI and Agentic AI solutions delivered end-to-end
+  - RAG-based retrieval and generation systems for client business use cases
+  - Fine-tuned and distilled LLM deployments for enterprise workloads
+  - Anomaly detection implementations
+  - Production GenAI deployments on Azure and AWS cloud platforms
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, LangChain, LlamaIndex, LangGraph, Fine-Tuning,
+      GenAI Evaluation Metrics, Agentic Workflows, MCP]
+    ml: [Transformers, Hugging Face, scikit-learn, PyTorch, TensorFlow, Distillation,
+      Model Evaluation, Anomaly Detection]
+    web: [FastAPI]
+    databases: [Snowflake, Vector Databases, Weaviate, Neo4j]
+    data: [Pandas]
+    cloud: [Snowflake Cortex AI, Azure ML, Azure AI Foundry, Azure, AWS]
+    ops: [LangSmith]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11277533'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:34:58.427351'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

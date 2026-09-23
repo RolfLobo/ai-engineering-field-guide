@@ -1,0 +1,55 @@
+company:
+  name: Nexaminds
+  stage: null
+  focus: AI solutions for enterprise transformation
+position:
+  title: AI Forward Deployed Engineer (Sr/Principal)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer adapting and deploying AI/LLM
+      solutions at customer sites with prompting, evaluation,
+      retrieval, tool use, and orchestration work - an explicitly
+      decided ai-first case. The role directly shapes LLM/agent
+      behavior in production.
+  responsibilities:
+  - Work directly with customers as a technical owner to understand their data, workflows,
+    systems, and business requirements
+  - Design and build production-grade AI applications, integrations, pipelines, and
+    workflows connecting Nexaminds' AI/LLM capabilities with customer systems
+  - Rapidly prototype AI solutions with customers and transform successful prototypes
+    into reliable production systems
+  - Integrate LLMs, AI agents, retrieval systems, tools, and orchestration workflows
+    into customer environments
+  - Diagnose and resolve complex technical issues across AI models, infrastructure,
+    and integrations
+  - Lead technical workshops and architecture discussions with customer engineering
+    and technical leadership
+  - Establish reusable technical patterns and best practices across customer deployments
+  - Mentor forward-deployed engineers and translate field learnings into product feedback
+  use_cases:
+  - Customer-deployed AI-powered enterprise applications
+  - LLM and agent integrations into customer systems and workflows
+  - Retrieval and orchestration workflows in production customer environments
+  - Prototyping and productionizing AI solutions for business problems
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Prompt Engineering, LLM Evaluation,
+      RAG, Function Calling, Vector Databases]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Cloud Technologies]
+    ops: [Distributed Systems]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10992326'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:11:40.341804'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

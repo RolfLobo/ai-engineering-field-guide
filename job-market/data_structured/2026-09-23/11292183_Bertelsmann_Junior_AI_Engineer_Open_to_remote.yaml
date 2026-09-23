@@ -1,0 +1,52 @@
+company:
+  name: Bertelsmann
+  stage: null
+  focus: Book publishing with data science and AI capabilities
+position:
+  title: Junior AI Engineer (Open to remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, tests, and improves LLM-based workflows
+      (classification, summarization, extraction, generation,
+      search) and evaluates/refines system quality, which is
+      shaping model behavior — ai-first.
+  responsibilities:
+  - Build tools, automations, and applications supporting internal business needs
+    across marketing, research, and workflow optimization
+  - Design, test, and improve language model based workflows for classification, summarization,
+    extraction, generation, and search support
+  - Partner with Marketing, Product, Data Science, and business teams to translate
+    needs into scalable solutions
+  - Develop Python-based services, APIs, and internal tools integrating AI capabilities
+  - Evaluate and refine system performance for quality, speed, reliability, and cost
+  - Identify edge cases, improve system behavior, and contribute to applied AI best
+    practices
+  - Track the evolving AI landscape and evaluate tools and approaches worth adopting
+  use_cases:
+  - Text classification, summarization, and extraction workflows
+  - Content generation support
+  - Search and book discovery support
+  - Marketing and workflow automation
+  - Pricing, forecasting, and personalization data science applications
+  skills:
+    genai: [LLMs, Claude Code, Codex, Cursor, LangGraph, LangChain, Google ADK, OpenAI
+        API]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLflow, LangSmith, Arize]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11292183'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-09-23T11:34:56.685140'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

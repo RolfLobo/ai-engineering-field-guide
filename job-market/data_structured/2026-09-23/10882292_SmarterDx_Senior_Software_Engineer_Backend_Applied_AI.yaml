@@ -1,0 +1,55 @@
+company:
+  name: SmarterDx
+  stage: null
+  focus: Clinical AI for hospital revenue cycle
+position:
+  title: Senior Software Engineer, Backend (Applied AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production workflows around LLM inference,
+      structured outputs, tool use, retrieval, and agentic
+      workflows, and develops evals and feedback mechanisms —
+      directly shaping LLM behavior. This is application-level LLM
+      engineering, so ai-first.
+  responsibilities:
+  - Design, build, and launch backend services incorporating LLMs, ML models, and
+    other AI systems
+  - Build production workflows around model inference, structured outputs, tool use,
+    retrieval, and agentic workflows
+  - Partner with Data Scientists to take models from exploration into reliable production
+    systems
+  - Develop evaluation, observability, and feedback mechanisms to improve AI system
+    performance
+  - Design systems that gracefully handle probabilistic, non-deterministic model behavior
+  - Work with clinical and operational structured and unstructured data including
+    documents and images
+  - Design and improve backend architecture supporting applications at scale
+  - Support production applications and AI systems with secure coding and data-handling
+    practices
+  use_cases:
+  - Clinical AI recommendations for hospital revenue cycle teams
+  - Revenue recovery and denial reduction for health systems
+  - Interpretation of clinical EHR data including documents and images
+  - Quality metrics improvement and streamlined revenue cycle operations
+  skills:
+    genai: [LLMs, LangChain, LangGraph, RAG, Agentic Workflows, Generative AI, Structured
+        Outputs, Braintrust]
+    ml: [Machine Learning, Computer Vision, Model Evaluation]
+    web: [React]
+    databases: [PostgreSQL]
+    data: [Snowflake]
+    cloud: [AWS]
+    ops: [Kubernetes, Terraform, Datadog, Langfuse]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [OCR, HL7, FHIR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10882292'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:04:51.902293'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

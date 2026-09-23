@@ -1,0 +1,149 @@
+job_id: 11205131
+title: AI Python Engineer – Public-Safety Solutions
+company: DataPilot
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - POL
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  📍 Location: Remote (PL / EU)
+
+  💰 Compensation (B2B): To be agreed (proposed 25–35k PLN net
+  B2B). All travel expenses covered.
+
+  📝 Contract Type:Full-time • B2B
+
+  📈 Seniority Level: Senior / Principal
+
+  🧰 Tech Stack Tags:
+
+  Python · FastAPI · Docker · K8s · LangChain · LlamaIndex ·
+  LLM · HuggingFace · Cursor · Windsurf · Qdrant · gRPC ·
+  Azure/AWS · MLOps
+
+  🏢 About Us
+
+  Join a team building some of the most advanced AI systems in
+  the world.
+
+  We develop core IT solutions supporting federal agencies and
+  law enforcement in the U.S., where technology truly makes a
+  difference.
+
+  Our systems leverage:
+
+  - the latest advancements in natural language processing
+    (NLP),
+  - multimodal AI analyzing text, images, and sound,
+  - and intelligent decision automation enabling real-time
+    response.
+
+  These are systems that detect threats faster, analyze
+  evidence more efficiently, and support humans in making the
+  right calls—when every second counts.
+
+  Our solutions run in high-security environments:
+
+  air-gapped or in private cloud deployments, compliant with
+  CJIS and FISMA standards—ensuring full data privacy and
+  integrity.
+
+  🎯 What You’ll Do
+
+  - Design and maintain microservices (REST/gRPC) exposing AI
+    models via API
+  - Package and deploy models (vLLM, Ollama, HF Transformers)
+    with Docker + CI/CD
+  - Build advanced retrieval pipelines combining RAG and hybrid
+    dense‑sparse search (BM25 + embeddings, multi‑vector,
+    re‑ranking) using Qdrant/Weaviate/Pinecone/Elasticsearch
+    and frameworks like LangChain, LlamaIndex, LangGraph.
+  - Perform fine-tuning, quantization, and RLHF/RLAS on Llama
+    3/4, Qwen, Mistral (datasets, experiments, evaluation)
+  - Create prompt tooling (templates, guardrails, eval
+    harnesses) and benchmarking aligned with CJIS requirements
+  - Implement model quality monitoring (latency, token cost,
+    hallucination rate) and security policies (Guardrails AI,
+    LlamaFirewall)
+  - Integrate with SIEM/SOC systems and databases
+    (Elasticsearch, PostgreSQL)
+  - Co-develop MLOps standards, testing, logging, observability
+    (Prometheus, Grafana)
+  - Work with security teams on audits and certifications (CJIS,
+    FedRAMP)
+  - Optional business travel to Japan (Roppongi Hills, Tokyo)
+    and the United States (Irvine, California).
+
+  🔧 Must-Haves
+
+  - 8+ years Python 3.x (FastAPI / Django / Flask)
+  - 2+ years hands-on with LLMs (OpenAI, Azure OpenAI,
+    Anthropic) and self-hosted models (Llama 3/4, Mistral)
+  - Experience building RAG, hybrid search systems and agents
+    using LangChain / LlamaIndex / LangGraph
+  - Experience with Vector DBs (Qdrant / Milvus / Pinecone) and
+    agent frameworks (LangGraph, CrewAI)
+  - Docker (multi-stage) + Kubernetes, including Helm or
+    Kustomize
+  - Strong understanding of HTTP/REST, CI/CD (GitHub Actions /
+    GitLab CI), and security-by-design principles
+
+  🌟 Nice-to-Haves
+
+  - Helm / Kustomize, Terraform
+  - Azure (AKS, OpenAI Service) or AWS (SageMaker, Bedrock)
+  - gRPC, event-driven architecture (Kafka / RabbitMQ)
+  - Experience with Guardrails AI, LlamaFirewall, PyTorch
+    Lightning
+
+  🤝 Soft Skills
+
+  - Technical ownership and attention to documentation
+  - Clear communication in a distributed team (ENG B2+)
+  - Focus on security, performance, and regulatory compliance
+
+  🎁 What We Offer
+
+  - Real impact — your code will support law enforcement in
+    fighting crime and saving lives
+  - 100% remote work + flexible hours (core overlap 10:00–15:00
+    CET)
+  - Access to a private LLM environment + GPU cluster (for
+    feature-flagged demos)
+  - Training budget + participation in international Python/AI
+    conferences
+industries:
+  - Artificial Intelligence
+  - Security
+  - Software
+posted_date: 2026-09-16
+url: "https://builtin.com/job/ai-python-engineer-public-safety-solutions/11205131"
+source: Built In

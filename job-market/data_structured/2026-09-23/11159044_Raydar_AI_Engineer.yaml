@@ -1,0 +1,50 @@
+company:
+  name: Raydar
+  stage: null
+  focus: Agentic consumer AI travel booking platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns the conversational intelligence layer of an
+      LLM agent product: designing prompts, tool calling, agent
+      loops, retrieval, memory, and evaluation systems. This is
+      directly shaping LLM behavior, so it is ai-first.
+  responsibilities:
+  - Own the full agent architecture including prompts, tool calling, multi-step reasoning,
+    and streaming
+  - Productionize conversational state and memory systems that interpret user preferences
+  - Build ranking, retrieval, and recommendation experiences for personalized results
+  - Improve multi-turn reliability through refinement loops, error recovery, and graceful
+    degradation
+  - Design the rendering layer between agent output and the consumer product experience
+  - Manage model-provider strategy, caching, structured outputs, and fallback behavior
+  - Define and operate evaluation systems for ranking, retrieval, and agent behavior
+  - Debug production failure modes and improve quality using real-user evidence
+  use_cases:
+  - Conversational travel planning and booking
+  - Personalized travel recommendations from user preferences
+  - Agentic multi-turn booking over live travel and hospitality inventory
+  - Ranking and retrieval of verified travel options
+  - Conversational memory for individual user preferences
+  skills:
+    genai: [Prompt Engineering, Function Calling, Agentic Workflows, Embeddings, RAG,
+      Structured Outputs, LLMs, LLM Evaluation, AI Agents]
+    ml: [Model Evaluation]
+    web: [Full-Stack Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11159044'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:22:52.014305'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Talakunchi Networks Private Limited
+  stage: null
+  focus: AI and cybersecurity products and networking solutions
+position:
+  title: AI Developer / AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and integrates LLM solutions (OpenAI,
+      Claude, Gemini), designs prompts, RAG, and vector databases,
+      and fine-tunes AI models, directly shaping model behaviour
+      and output quality. LLM components are central, so it is ai-
+      first.
+  responsibilities:
+  - Design, develop, and deploy AI/ML-based applications and services
+  - Build and integrate LLM solutions using OpenAI, Claude, Gemini, or similar platforms
+  - Develop AI-powered automation workflows, chatbots, recommendation systems, and
+    intelligent assistants
+  - Work on prompt engineering, RAG, vector databases, and AI integrations
+  - Fine-tune and optimize AI models for performance and scalability
+  - Integrate AI modules with backend systems, APIs, and databases
+  - Perform testing, debugging, monitoring, and optimization of AI applications
+  - Maintain technical documentation and code standards
+  use_cases:
+  - AI-powered automation workflows
+  - Chatbots and intelligent assistants
+  - Recommendation systems
+  - Cybersecurity and enterprise AI products
+  - Document AI (OCR, speech-to-text)
+  skills:
+    genai: [OpenAI API, LLMs, LangChain, LlamaIndex, Prompt Engineering, RAG, Fine-Tuning,
+      AI Agents]
+    ml: [Machine Learning]
+    web: [REST APIs, FastAPI, Flask, Django]
+    databases: [Vector Databases, Pinecone, Weaviate, FAISS, SQL, NoSQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, Docker, MLOps, Model Deployment]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151815'
+  location: Mumbai, IND
+  extracted_at: '2026-09-23T11:22:54.414353'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Wissen Technology
+  stage: null
+  focus: Custom product engineering and IT services
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI solutions with multi-agent
+      workflows, tool calling, prompt engineering, and evaluates
+      model output quality—clearly shaping LLM behavior. GenAI/LLM
+      focus makes it ai-first.
+  responsibilities:
+  - Design and develop Generative AI applications using LLMs and modern AI frameworks
+  - Build Agentic AI solutions with autonomous agents, multi-agent workflows, tool
+    calling, and task orchestration
+  - Integrate AI capabilities into enterprise applications and business workflows
+  - Work with data, APIs, knowledge sources, and enterprise systems to build intelligent
+    AI solutions
+  - Design scalable, production-ready AI architectures with focus on performance,
+    reliability, and security
+  - Evaluate AI models and continuously improve accuracy, relevance, and performance
+  - Collaborate with product, engineering, and business teams to translate use cases
+    into AI solutions
+  use_cases:
+  - Generative AI applications for enterprise
+  - Autonomous multi-agent AI workflows with tool calling and task orchestration
+  - AI-augmented enterprise business workflows
+  - AI-powered search over enterprise knowledge sources
+  - Evaluation and improvement of AI model accuracy and performance
+  skills:
+    genai: [Generative AI, LLMs, AI Agents, Multi-Agent Systems, Agentic Workflows,
+      Function Calling, Prompt Engineering, RAG, Embeddings]
+    ml: [Machine Learning]
+    web: [APIs, Microservices]
+    databases: [Vector Databases, Knowledge Graphs, Databases]
+    data: []
+    cloud: [Cloud AI Services]
+    ops: []
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: [IoT, Predictive Analytics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11075464'
+  location: Bengaluru South, IND
+  extracted_at: '2026-09-23T11:17:50.133582'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

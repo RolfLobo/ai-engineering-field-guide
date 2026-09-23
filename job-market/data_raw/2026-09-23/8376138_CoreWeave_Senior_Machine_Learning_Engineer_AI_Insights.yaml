@@ -1,0 +1,275 @@
+job_id: 8376138
+title: Senior Machine Learning Engineer, AI Insights
+company: CoreWeave
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+
+  About CoreWeave
+
+  CoreWeave is an AI hyperscaler building the cloud
+  infrastructure and services that power the next generation
+  of artificial intelligence. Our customers run demanding
+  training, inference, and high-performance workloads, and our
+  teams build the systems needed to operate that
+  infrastructure reliably at scale.
+
+  About the team
+
+  The AI Insights team builds customer-facing AI capabilities
+  across CoreWeave’s Mission Control portfolio. We combine
+  machine learning, observability, and production software
+  engineering to help engineers and customers understand
+  workload health, diagnose infrastructure issues, and
+  identify opportunities to improve efficiency, capacity, and
+  performance.
+
+  Our work spans telemetry from metrics, logs, traces, alerts,
+  and operational events. We are building the intelligence
+  layer that turns this data into trustworthy, actionable
+  insights—grounded in evidence and integrated into the tools
+  where people operate CoreWeave infrastructure.
+
+  This is not a role focused on building a generic chatbot.
+  You will build the ML systems, services, evaluation
+  frameworks, and product capabilities that make AI-powered
+  troubleshooting and optimization reliable in real-world
+  environments.
+
+  About the role
+
+  As a Senior Machine Learning Engineer, you will design,
+  build, and operate machine learning capabilities that power
+  observability, troubleshooting, and optimization
+  experiences. You will work across the full lifecycle of ML
+  development: understanding the problem, preparing data,
+  developing models and algorithms, defining evaluation
+  criteria, integrating with production services, and
+  improving performance based on real-world feedback.
+
+  You will partner with software engineers, product managers,
+  researchers, and infrastructure experts to turn ambiguous
+  problems into reliable systems. You will have meaningful
+  ownership of production components while contributing to the
+  team’s technical direction and engineering practices.
+
+  What you’ll do
+
+  - Build and ship production machine learning systems for
+    infrastructure observability, troubleshooting, and
+    optimization.
+  - Develop approaches for anomaly detection, time-series
+    analysis, event correlation, ranking, recommendation,
+    classification, and root-cause inference across high-
+    volume telemetry.
+  - Create datasets, experiments, and evaluation frameworks to
+    measure model quality, robustness, usefulness, and failure
+    modes.
+  - Build data pipelines, feature-generation workflows,
+    inference services, and feedback loops for continuous
+    improvement.
+  - Integrate ML capabilities with telemetry platforms and
+    customer-facing experiences, including Mission Control,
+    Grafana, and related observability services.
+  - Collaborate with engineers working on metrics, logs, traces,
+    telemetry enrichment, platform APIs, and data
+    infrastructure.
+  - Monitor and improve the quality, latency, reliability, and
+    cost of ML-powered services in production.
+  - Investigate data and model failures, identify root causes,
+    and implement durable fixes.
+  - Make thoughtful trade-offs across model quality,
+    interpretability, operational complexity, latency, and
+    cost.
+  - Contribute to technical designs, code reviews, testing
+    standards, and operational practices for the team.
+  - Partner with Staff engineers and technical leaders to break
+    down complex initiatives and deliver incrementally.
+  - Share knowledge through documentation, mentorship, and
+    collaboration with engineers across CoreWeave.
+
+  What we’re looking for
+
+  - Several years of experience designing and shipping machine
+    learning systems that operate in production.
+  - Strong software engineering skills in Python; experience
+    with Go or another systems-oriented language is a plus.
+  - Solid understanding of machine learning fundamentals,
+    including model selection, feature engineering,
+    experimentation, evaluation, and failure analysis.
+  - Experience working with time-series, event, log, metric,
+    trace, or other operational data.
+  - Experience building reliable data and inference services,
+    not only notebooks or offline prototypes.
+  - Experience defining and implementing evaluation methodology
+    for ambiguous or domain-specific ML problems.
+  - Strong debugging and systems-thinking skills, including the
+    ability to reason about data quality, distributed systems,
+    latency, and operational failure modes.
+  - Experience taking an ML capability from an initial
+    hypothesis through production launch and iteration.
+  - Excellent communication and collaboration skills, with the
+    ability to work effectively across engineering, research,
+    product, and infrastructure teams.
+  - A track record of owning complex technical work and
+    delivering results with appropriate guidance and autonomy.
+
+  Nice to have
+
+  - Experience with observability platforms or technologies such
+    as Grafana, Prometheus, VictoriaMetrics, ClickHouse, Loki,
+    or Kafka.
+  - Experience with Kubernetes and cloud infrastructure,
+    especially for telemetry, logging, or application
+    observability.
+  - Experience with anomaly detection, incident intelligence,
+    search, recommendations, or ranking systems.
+  - Experience with large language model evaluation, post-
+    training, retrieval, tool use, or grounded
+    generation—particularly when combined with structured
+    telemetry and deterministic systems.
+  - Experience building ML products for infrastructure,
+    developer tools, reliability engineering, or other
+    technical users.
+  - Familiarity with human-in-the-loop workflows, access
+    control, auditability, and safety requirements for
+    operational systems.
+
+  Why this role
+
+  - Work on foundational AI capabilities for an AI-native cloud
+    company.
+  - Solve difficult ML problems using high-volume, high-value
+    infrastructure telemetry.
+  - Help engineers and customers understand, troubleshoot, and
+    optimize large-scale AI workloads.
+  - Own meaningful production systems at the intersection of
+    machine learning, observability, and distributed systems.
+  - Work closely with experienced engineers, researchers,
+    product managers, and infrastructure experts.
+  - See your work move from experimentation into products used
+    by CoreWeave engineers and customers.
+
+  Why CoreWeave?
+
+  At CoreWeave, we work hard, have fun, and move fast!  We’re
+  in an exciting stage of hyper-growth that you will not want
+  to miss out on. We’re not afraid of a little chaos, and
+  we’re constantly learning. Our team cares deeply about how
+  we build our product and how we work together, which is
+  represented through our core values:
+
+  - Be Curious at Your Core
+  - Act Like an Owner
+  - Empower Employees
+  - Deliver Best-in-Class Client Experiences
+  - Achieve More Together
+
+  We support and encourage an entrepreneurial outlook and
+  independent thinking. We foster an environment that
+  encourages collaboration and enables the development of
+  innovative solutions to complex problems. As we get set for
+  takeoff, the organization's growth opportunities are
+  constantly expanding. You will be surrounded by some of the
+  best talent in the industry, who will want to learn from
+  you, too. Come join us!
+
+  The base salary range for this role is $165,000 to $242,000.
+  The starting salary will be determined based on job-related
+  knowledge, skills, experience, and market location. We
+  strive for both market alignment and internal equity when
+  determining compensation. In addition to base salary, our
+  total rewards package includes a discretionary bonus, equity
+  awards, and a comprehensive benefits program (all based on
+  eligibility).
+
+  What We Offer
+
+  The range we’ve posted represents the typical compensation
+  range for this role. To determine actual compensation, we
+  review the market rate for each candidate which can include
+  a variety of factors. These include qualifications,
+  experience, interview performance, and location.
+
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs. The benefits below reflect
+  our US-based offerings for full-time employees; for roles in
+  other locations, benefits vary and are shared during the
+  hiring process. These include:
+
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+
+  California Applicants
+
+  California Consumer Privacy Act
+
+  Equal Opportunity & Accommodations
+
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+
+  Export Control Compliance
+
+  This position requires access to export controlled
+  information. To conform to U.S. Government export
+  regulations applicable to that information, applicant must
+  either be (A) a U.S. person, defined as a (i) U.S. citizen
+  or national, (ii) U.S. lawful permanent resident (green card
+  holder), (iii) refugee under 8 U.S.C. § 1157, or (iv) asylee
+  under 8 U.S.C. § 1158, (B) eligible to access the export
+  controlled information without a required export
+  authorization, or (C) eligible and reasonably likely to
+  obtain the required export authorization from the applicable
+  U.S. government agency.  CoreWeave may, for legitimate
+  business reasons, decline to pursue any export licensing
+  process.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-09-08
+url: "https://builtin.com/job/senior-software-engineer-observability-insights/8376138"
+source: Built In

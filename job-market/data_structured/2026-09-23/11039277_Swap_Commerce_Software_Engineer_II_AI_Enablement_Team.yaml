@@ -1,0 +1,50 @@
+company:
+  name: Swap Commerce
+  stage: null
+  focus: AI-native commerce operations infrastructure platform
+position:
+  title: Software Engineer II, AI Enablement Team
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds cost observability tooling, guardrails, and
+      internal enablement for AI adoption - evaluating tools and
+      enabling agentic coding workflows. Guardrails are mentioned,
+      but the core deliverables are observability, tooling, and
+      developer workflow around LLM/agent usage rather than
+      shaping model behaviour (no prompt design, retrieval, or
+      evals of output quality). This matches the AI coding tool
+      rollout edge case: ai-support.
+  responsibilities:
+  - Build cost observability and usage-tracking tooling across LLM and agent workloads
+  - Design and ship internal tooling and guardrails for safe adoption of agentic coding
+    workflows
+  - Evaluate new AI tools, models, and vendors and produce build-vs-buy recommendations
+  - Write production-quality code and automated tests for owned platforms and tools
+  - Review peers' code for correctness, readability, and maintainability
+  - Own end-to-end delivery of projects from scoping through production rollout
+  - Establish and socialise best practices for AI usage across the business
+  use_cases:
+  - AI cost observability and usage tracking across LLM and agent workloads
+  - Safe adoption of agentic coding workflows for engineering and business teams
+  - Build-vs-buy evaluation of AI tools, models, and vendors
+  - Internal developer enablement and AI best practices
+  skills:
+    genai: [AI Agents, Guardrails, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: []
+    domains: []
+    other: [Distributed Data Systems, Automated Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11039277'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:14:00.222936'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

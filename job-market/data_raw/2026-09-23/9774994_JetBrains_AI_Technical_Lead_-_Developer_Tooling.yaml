@@ -1,0 +1,165 @@
+job_id: 9774994
+title: AI Technical Lead - Developer Tooling
+company: JetBrains
+location: DEU
+locations:
+  - DEU
+  - Prague, CZE
+  - Paphos, CYP
+  - Yerevan, ARM
+  - Berlin, DEU
+  - Limassol, CYP
+  - Munich, DEU
+  - Amsterdam, NLD
+  - London, GBR
+  - Warsaw, POL
+  - Madrid, ESP
+  - Belgrade, SRB
+remote: true
+work_type: FULL_TIME
+company_size: 2,209 Employees
+description: |
+  AI is fundamentally changing how developers write,
+  understand, debug, and maintain software.
+
+  At JetBrains, we're exploring what an AI-native development
+  experience should look like for C++ developers. We are
+  looking for a senior technical leader to help shape this
+  future by building AI-powered workflows, integrating coding
+  agents into developer tools, and defining how CLion can
+  become a first-class environment for AI-assisted software
+  development.
+
+  This is a highly hands-on role focused on technical
+  leadership rather than people management. You should expect
+  to spend most of your time prototyping, implementing, and
+  validating AI-powered workflows while helping shape
+  technical direction through hands-on engineering. You'll
+  work at the intersection of developer tools, AI agents, IDE
+  architecture, and product strategy while helping define how
+  software developers work with AI in the future.
+
+  Example problems you'll work on:
+
+  - How can coding agents become more effective when working
+    with large C++ codebases?
+  - How can CLion's debugging, code understanding, and
+    navigation capabilities be integrated into AI-assisted
+    development workflows?
+  - How should AI-powered developer experiences be evaluated and
+    benchmarked in real-world development scenarios?
+  - What capabilities should AI agents have access to inside a
+    modern IDE?
+  - How can we make CLion a better environment for developers
+    who increasingly collaborate with AI tools and agents?
+
+  In this role, you will:
+
+  - Shape and deliver AI-powered features for CLion and C++
+    development workflows.
+  - Design the architecture for AI integrations, agent tools,
+    and C++-specific AI capabilities.
+  - Build practical benchmarks and evaluation frameworks for AI-
+    assisted C++ development scenarios.
+  - Prototype and validate new AI workflows, including
+    debugging, code understanding, refactoring, and project
+    navigation.
+  - Collaborate with product managers, ML engineers, QA
+    engineers, stakeholders, and senior developers to shape
+    and deliver the roadmap.
+  - Work closely with JetBrains AI, ML, and product teams to
+    help define the AI strategy for the C++ ecosystem.
+  - Evaluate and prioritize AI initiatives, bringing new ideas
+    and proposals that align with the broader JetBrains AI
+    strategy.
+  - Contribute hands-on to technical design, software
+    architecture, and implementation in a large, mature
+    codebase.
+  - Help define a technical roadmap for AI agent and tool
+    integrations in C++ development workflows.
+  - Build trust and alignment across the C++ Ecosystem, AI,
+    Product, QA, and ML organizations
+
+  We'd love to talk if you have:
+
+  - Significant software engineering experience as a Staff
+    Engineer, Principal Engineer, Technical Lead, or similar
+    senior technical role.
+  - Strong experience with Kotlin, Java, or other JVM
+    technologies, or the ability to quickly become productive
+    in a JVM-based codebase.
+  - Experience building AI-powered products, developer tools,
+    coding assistants, agents, or LLM-based workflows.
+  - Strong understanding of how modern coding agents operate,
+    including tool calling, context management, MCP, and
+    evaluation techniques.
+  - A track record of driving technical direction in ambiguous
+    and rapidly evolving areas.
+  - Strong product instincts and an ability to balance
+    innovation with practical delivery.
+  - Excellent communication skills and the ability to influence
+    without formal authority.
+
+  Nice to have
+
+  - Experience with C++ development workflows, compilers,
+    debuggers, language tooling, or developer productivity
+    products.
+  - Experience with IDE internals, language servers, code
+    analysis, refactoring systems, or static analysis.
+  - Experience leading small teams or acting as a technical
+    lead.
+  - Experience working on AI-native developer products.
+
+  Why this role is unique
+
+  Rather than building generic chat experiences, you'll be
+  working on challenges such as AI-assisted debugging, agent-
+  powered code understanding, developer workflow automation,
+  and evaluation systems for AI-powered development tools.
+  Your work will directly influence products used by millions
+  of developers worldwide and help shape JetBrains' broader
+  vision for AI-powered software development.
+
+  Why join JetBrains?
+
+  - Strong base salary. We offer competitive pay that reflects
+    your skills and experience.
+  - Flexible work location. Enjoy the freedom to work from home
+    or from the office.
+  - Remote work. Spend up to 30 days per year working remotely
+    from abroad.
+  - Extra time off. More days to relax, recharge, and do the
+    things you love.
+  - Medical insurance allowance. Enjoy peace of mind for you and
+    your family
+  - Learning and development opportunities. Access to
+    conferences, courses, and language classes.
+  - Relocation support. We help make your move as smooth and
+    stress-free as possible. (keep if relevant for the role)
+  - Language classes. Pick up the local language or sharpen your
+    English skills.
+  - Fuel your day. Enjoy a hot meal or receive a lunch allowance
+    on workdays.
+  - Mental health support. To help you feel your best, we
+    provide easy access to professional mental health
+    services.
+  - Sports benefit. Enjoy an on-site gym or sports club stipend.
+  - Internal events. Join company-wide celebrations and team
+    gatherings.
+
+  *Some benefits may vary depending on location.
+
+  #LI-DNI
+
+  We are an equal opportunity employer We know great ideas can
+  come from anyone, anywhere. That’s why we do our best to
+  create an open and inclusive workplace – one that welcomes
+  everyone regardless of their background, identity, religion,
+  age, accessibility needs, or orientation.
+
+  We process the data provided in your job application in
+  accordance with the Recruitment Privacy Policy.
+posted_date: 2026-08-08
+url: "https://builtin.com/job/ai-technical-lead-c-ecosystem/9774994"
+source: Built In

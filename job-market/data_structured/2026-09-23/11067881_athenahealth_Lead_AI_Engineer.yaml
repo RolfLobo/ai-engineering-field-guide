@@ -1,0 +1,51 @@
+company:
+  name: athenahealth
+  stage: null
+  focus: Healthcare IT solutions and services
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production AI agents end to end: LLM
+      orchestration, tool integration, evaluation, guardrails, and
+      observability, using LangGraph/LangChain. This is directly
+      shaping LLM/agent behaviour, making it ai-first.
+  responsibilities:
+  - Lead the technical design and development of the Messaging 3.0 AI platform
+  - Build production-grade AI agents using LLM orchestration, tools, evaluation, guardrails,
+    and observability
+  - Design and build scalable services using Java, Spring Boot, microservices, Kubernetes,
+    and AWS
+  - Design and implement Temporal workflows for long-running, failure-prone processes
+  - Build and productionize the Notification AI Agent and Cadence Outreach AI Agent
+  - Build next-best-action intelligence enabling agents to act autonomously
+  - Solve AI agent reliability and unpredictability issues in production
+  - Provide technical leadership and mentorship to engineers through influence
+  use_cases:
+  - Intelligent patient communication platform (Messaging 3.0)
+  - Notification AI Agent for patient notifications
+  - Cadence Outreach AI Agent for patient outreach campaigns
+  - Next-best-action intelligence for autonomous message handling
+  - Channel selection and personalized patient messaging
+  skills:
+    databases: [PostgreSQL, Redis]
+    domains: []
+    data: [Kafka]
+    web: [Spring Boot, Microservices]
+    ml: []
+    ops: [Kubernetes, Helm, Datadog, Observability, Temporal]
+    other: []
+    cloud: [AWS]
+    languages: [Java]
+    genai: [LangGraph, LangChain, AI Agents, LLMs, LLM Evaluation, Guardrails, Fine-Tuning,
+      Generative AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11067881'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:17:00.976616'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

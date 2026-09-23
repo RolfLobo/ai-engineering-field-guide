@@ -1,0 +1,53 @@
+company:
+  name: OpenAI
+  stage: null
+  focus: AI research and deployment company
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role designs and deploys LLM/agent-based systems with
+      customers, including evaluation harnesses, model choice,
+      retrieval, and agents — shaping model behavior directly.
+      This is forward-deployed engineering at OpenAI, which is ai-
+      first.
+  responsibilities:
+  - Partner with enterprise customers to identify opportunities and translate them
+    into architectures, plans, and evaluation strategies
+  - Design, build, and deploy AI production systems solving customer problems
+  - Write and debug code for prototypes, evaluation harnesses, integrations, and production
+    accelerators
+  - Make technical decisions across models, agents, retrieval, tools, reliability,
+    observability, and governance
+  - Diagnose and resolve complex implementation challenges
+  - Guide customers from prototype to production adoption and scale
+  - Translate deployment experience into product feedback for OpenAI teams
+  - Create reusable architectures, tooling, and playbooks for enterprise deployments
+  use_cases:
+  - Enterprise AI deployments from prototype to production
+  - Customer-specific AI systems with measurable business outcomes
+  - Evaluation systems for AI reliability and safety
+  - Enterprise integrations, security, and governance for AI systems
+  skills:
+    genai: [AI Agents, RAG, LLM Evaluation]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Solutions Architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10498007'
+  location: Mumbai, IND
+  locations:
+  - Mumbai, IND
+  - New Delhi, IND
+  extracted_at: '2026-09-23T10:59:54.529610'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

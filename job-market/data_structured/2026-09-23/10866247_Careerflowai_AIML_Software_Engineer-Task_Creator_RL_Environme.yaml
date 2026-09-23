@@ -1,0 +1,44 @@
+company:
+  name: Careerflow.ai
+  stage: null
+  focus: Human data and RL environments for AI companies
+position:
+  title: AI/ML Software Engineer-Task Creator (RL Environments) (Contract)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation tasks and automatic scoring
+      programs for computer-use AI agents — designing agent
+      scenarios and scoring outputs is building evals that shape
+      model behavior, which is shaping. The targets are LLM
+      agents, so it is ai-first.
+  responsibilities:
+  - Design realistic multi-step scenarios across desktop applications
+  - Assemble task files such as spreadsheets, documents, emails, and data
+  - Write clear, complete instructions for the AI agent
+  - Write Python to set up the environment and automatically score results
+  - Test tasks, run them, and hand over short documentation
+  use_cases:
+  - Computer-use agent benchmarks
+  - RL environments where an agent acts and a program scores the outcome
+  - Automated evaluation of AI agents performing real desktop work
+  skills:
+    genai: [AI Agents]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, Git]
+    languages: [Python]
+    domains: [Reinforcement Learning]
+    other: [Virtual Machines]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10866247'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:42.584837'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

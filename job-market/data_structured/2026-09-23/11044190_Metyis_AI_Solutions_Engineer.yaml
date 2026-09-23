@@ -1,0 +1,52 @@
+company:
+  name: Metyis
+  stage: null
+  focus: Data & analytics solutions for SHV family of companies
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and refines LLM-based systems directly:
+      prompt/context engineering, RAG pipeline architecture,
+      agentic system design, and LLM orchestration frameworks.
+      This is shaping model behavior with LLM components, so ai-
+      first.
+  responsibilities:
+  - Design, implement, and refine AI solutions across the full lifecycle from prototyping
+    to production deployment
+  - Define, create, and maintain the organization's context layer optimized for AI
+    use, including knowledge graphs, ontologies, data lineage, and RAG pipelines
+  - Apply prompt engineering, context engineering, memory engineering, and harness
+    engineering to maximize AI model performance in production
+  - Translate business requirements into AI-transformed use cases and workflows for
+    intelligent automation and augmentation
+  - Contribute to designing agentic AI systems and AI orchestration architectures
+    aligned with enterprise governance
+  - Track AI landscape developments and bring relevant innovations into team practice
+  - Document methodologies, prompt libraries, and context engineering standards
+  use_cases:
+  - Enterprise context layer and knowledge graphs optimized for AI use
+  - RAG pipelines over organizational data
+  - Agentic AI systems and LLM orchestration for business workflows
+  - Intelligent automation and augmentation of operations across SHV group companies
+  skills:
+    genai: [Prompt Engineering, RAG, LLMs, Agentic Workflows, Context Engineering,
+      LangChain, LlamaIndex, LangGraph]
+    ml: [Data Science]
+    web: []
+    databases: [Knowledge Graphs]
+    data: [Data Governance, Data Lineage]
+    cloud: []
+    ops: [Git]
+    languages: [Python]
+    domains: []
+    other: [Ontologies, Semantic Data Models]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11044190'
+  location: Amsterdam, NLD
+  extracted_at: '2026-09-23T11:15:30.824575'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

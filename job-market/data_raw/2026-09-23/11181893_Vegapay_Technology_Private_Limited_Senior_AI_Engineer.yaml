@@ -1,0 +1,125 @@
+job_id: 11181893
+title: Senior AI Engineer
+company: Vegapay Technology Private Limited
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 60 Employees
+description: |
+  The Impact You’ll Drive
+
+  As a Senior AI Engineer, you will be a senior technical
+  voice on the AI & Data Platform team - independently leading
+  the design, development, and deployment of AI/ML systems
+  that power real-time credit decisions, fraud detection,
+  personalised experiences, operational intelligence and
+  productivity improvements at scale. You will own full
+  problem spaces end-to-end, mentor junior engineers, and
+  shape how Vegapay thinks about AI-native product
+  development.
+
+  The Hats You Will Wear
+
+  - Design and build production-grade ML models for credit
+    underwriting, risk scoring, and fraud detection on TB-
+    scale transaction data.
+  - Architect and maintain low-latency AI inference pipelines
+    integrated with UPI payment flows and the CLOU credit
+    lifecycle.
+  - Lead the AI feature roadmap for one or more product domains
+    - from problem framing through deployment and monitoring.
+  - Evaluate and integrate LLM and GenAI capabilities into
+    internal tooling, operations automation, and customer-
+    facing features.
+  - Build and maintain robust data pipelines (ClickHouse, Spark,
+    Kafka) that feed model training and real-time inference.
+  - Define and enforce ML engineering best practices —
+    versioning, experimentation frameworks, model
+    observability, and drift detection.
+  - Collaborate directly with product, credit, and engineering
+    teams to translate business problems into scalable AI
+    solutions.
+  - Mentor L1/L2 engineers; conduct design and code reviews;
+    raise the technical bar across the team.
+
+  The Perfect Fit
+
+  - 5+ years of hands-on software engineering experience with at
+    least 3 years focused on ML/AI systems in production.
+  - Strong foundations in machine learning -
+    supervised/unsupervised learning, gradient boosting
+    (XGBoost, LightGBM), deep learning, and model evaluation.
+  - Proficiency in Python and the ML ecosystem: PyTorch or
+    TensorFlow, scikit-learn, MLflow or similar experiment
+    tracking.
+  - Experience with real-time and batch data infrastructure:
+    Kafka, Spark, Flink, ClickHouse, or equivalent.
+  - Familiarity with LLM APIs, prompt engineering, RAG
+    architectures, and embedding-based systems.
+  - Solid software engineering fundamentals - clean code,
+    distributed systems, REST/gRPC APIs, containerisation
+    (Docker/Kubernetes).st product.
+  - Experience in fintech, payments, lending, or credit is a
+    strong plus — understanding of risk, compliance, and
+    regulated data environments.
+  - Customer obsession - you think about end-user impact, not
+    just model metrics.
+  - Highest standards - you are not satisfied shipping 80%; you
+    care about correctness, reliability, and edge cases.
+  - Full ownership - you treat problems as yours until they are
+    solved, not until the code is merged.
+  - AI-native - you actively use AI tools in your own workflow
+    and push the team to build AI-first by default.
+
+  Edge Over Rest
+
+  - Experience with credit scoring models, bureau data (CIBIL,
+    Experian), or alternative data underwriting.
+  - Contributions to open-source ML projects or published
+    research.
+  - Familiarity with NPCI's UPI ecosystem, RBI regulatory
+    guidelines for digital lending, or CLOU product
+    architecture.
+
+  The Problem We’re Solving
+
+  Financial institutions today are held back by legacy systems
+  that are slow, rigid, and expensive to scale. Launching or
+  evolving credit, lending, and UPI products often takes
+  months, requires heavy engineering effort, and limits the
+  ability to create personalized customer experiences.
+
+  At the same time, customer expectations have changed -
+  speed, flexibility, and tailored financial products are no
+  longer optional. Banks and fintechs need infrastructure that
+  allows them to innovate quickly, adapt continuously, and
+  scale without friction.
+
+  This is where we come in.
+
+  At Vegapay, we are building modern, configurable fintech
+  infrastructure that enables banks, NBFCs, and enterprises to
+  design, launch, and manage credit and payment programs with
+  ease. Our platform brings together flexibility, speed, and
+  control - helping our partners unlock new growth
+  opportunities and deliver personalized banking experiences
+  at scale.
+
+  The Opportunity Ahead
+
+  - Work on real-world, high-scale systems in banking, credit,
+    and payments
+  - Solve complex engineering problems that directly impact
+    millions of end users
+  - Collaborate with strong engineers and product leaders who
+    care about quality and speed
+  - High ownership from day one - build, ship, and see your work
+    in production
+  - Opportunity to shape systems, not just contribute to them
+industries:
+  - Fintech
+  - Payments
+  - Software
+  - Financial Services
+posted_date: 2026-09-15
+url: "https://builtin.com/job/senior-ai-engineer/11181893"
+source: Built In

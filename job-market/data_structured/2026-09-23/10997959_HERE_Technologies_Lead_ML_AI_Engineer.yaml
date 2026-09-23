@@ -1,0 +1,50 @@
+company:
+  name: HERE Technologies
+  stage: null
+  focus: Location data and digital mapping technology platform
+position:
+  title: Lead ML & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds systems using Agentic AI, Generative AI,
+      RAG, vector DBs, LangGraph, LangChain, and CrewAI, which
+      shapes LLM/agent behavior, making it ai-first. It also
+      includes classical ML (CV, deep learning), but roles
+      spanning both LLM and classical ML are ai-first.
+  responsibilities:
+  - Lead design and development of production ML models, pipelines, and services powering
+    NDS HD Live Maps, ADAS, and IVI maps
+  - Own end-to-end ML system architecture including data preprocessing, training,
+    inference, deployment, monitoring, and scaling
+  - Develop models based on computer vision, NLP, deep learning, and machine learning
+  - Build systems using Agentic AI, Generative AI, and foundational ML techniques
+  - 'Implement MLOps practices: CI/CD for ML, model versioning, feature stores, drift
+    detection, experimentation frameworks'
+  - Collaborate with platform and backend teams to integrate ML outputs into map compilation
+    workflows
+  - Conduct code and architecture reviews and share ML engineering best practices
+  use_cases:
+  - High-definition (HD) live maps and ADAS/IVI map production
+  - Automated map data ingestion
+  - Automotive digital map delivery powering IVI, ADAS, and autonomous driving
+  - Map compilation from ML model outputs
+  skills:
+    genai: [Agentic Workflows, Generative AI, RAG, LangGraph, LangChain, CrewAI]
+    ml: [Machine Learning, Deep Learning, Model Training]
+    web: []
+    databases: [Vector Databases, SQL, NoSQL]
+    data: [Data Engineering]
+    cloud: [AWS, AWS S3, AWS Lambda, SageMaker]
+    ops: [Docker, Kubernetes, CI/CD, Jenkins, MLOps]
+    languages: []
+    domains: [Computer Vision, NLP]
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10997959'
+  location: Mumbai, IND
+  extracted_at: '2026-09-23T11:11:39.432730'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,233 @@
+job_id: 11254624
+title: AI Engineer
+company: Norton Rose Fulbright
+location: London, GBR
+work_type: FULL_TIME
+company_size: 8,733 Employees
+description: |
+  Practice Group / Department:
+
+  Legal Innovation, Design & Technology - LondonJob
+  Description
+
+  Norton Rose Fulbright is a global law firm with more than
+  3,000 lawyers advising clients across locations in the
+  United States, Europe, Canada, Latin America, Asia,
+  Australia, Africa and the Middle East. We provide a full
+  scope of legal services to the world’s preeminent
+  corporations and financial institutions.
+
+  Our vision is to be a world class business, profitable,
+  ambitious, cooperative and considerate, supporting our
+  clients and people through our global business principles of
+  Quality, Unity and Integrity.
+
+  With over 7,000 employees worldwide, our culture is the
+  thread that connects us. Our strategy and culture are closed
+  connected – defined by shared ambition, global collaboration
+  and a one-team mindset. We believe pioneering work happens
+  when people are empowered to think beyond boundaries,
+  explore new opportunities and grow through diverse
+  experiences. Alongside the right skills and experience, we
+  are looking for people who are innovative, commercially
+  minded, and motivated by the impact of the work they do –
+  ready to share in our ambition and help shape what comes
+  next.
+
+  Because while individuals can do well, together we achieve
+  something extraordinary.
+
+  Role Purpose
+
+  We are building a new R&D capability focused on developing
+  data-driven and AI-enabled solutions for legal services and
+  the wider business of law.
+
+  The AI Engineer will build end-to-end AI capabilities for
+  R&D products: agentic workflows, retrieval and context,
+  agent and evaluation harnesses, and the user-facing features
+  around them. Working with the Head of R&D, you will
+  translate agreed product and technical designs into secure,
+  observable and maintainable products.
+
+  This is a hands-on full-stack AI engineering role, with
+  applied AI product delivery at its core. You will build AI
+  workflows, tools and integrations, evaluation and
+  observability capabilities, together with the APIs, services
+  and user interfaces needed to ship them reliably.
+
+  This is not a research-only role. You will apply agreed
+  enterprise architecture, security and deployment patterns,
+  while taking practical responsibility for code quality,
+  testing, monitoring and troubleshooting with product, data,
+  technology and security teams.
+
+  You will join a small, hands-on multidisciplinary team. Each
+  team member will work collaboratively across discovery,
+  prototyping, engineering, productionisation and continuous
+  improvement.
+
+  Key Responsibilities
+
+  - Build complete AI-enabled product features across user
+    interface, backend, AI orchestration, retrieval and
+    approved enterprise integrations.
+
+  - Design and build agentic AI workflows using structured
+    outputs, tool calling, workflow orchestration, document
+    processing, human-review steps and appropriate controls.
+
+  - Build reusable agent harnesses: practical runtime patterns
+    around tools, state, context, approvals, traces and test
+    fixtures that make agents consistent, inspectable and safe
+    to use.
+
+  - Build grounded retrieval and context patterns using approved
+    data products, search indexes, document repositories and
+    permission-aware sources; provide evidence and citations
+    where appropriate.
+
+  - Design and operate evaluation harnesses for AI workflows,
+    including curated test sets, representative scenarios,
+    automated and human grading, regression tests, trace
+    review and user-feedback loops.
+
+  - Manage prompts, model configuration, tool schemas and
+    routing as tested product assets, including fallbacks and
+    cost/latency trade-offs.
+
+  - Implement AI observability through traces, logs, metrics and
+    evaluation results, so quality, reliability, failure
+    modes, latency and cost are visible and can be improved.
+
+  - Build clear APIs and integrate AI products with approved
+    data, document, search and business systems.
+
+  - Build usable interfaces that help users understand AI
+    output, inspect supporting evidence, provide feedback and
+    complete review or approval steps.
+
+  - Write maintainable Python and TypeScript code; use Docker,
+    Git, automated testing and CI/CD to make development,
+    testing and deployment repeatable.
+
+  - Apply agreed security, authentication, data-handling,
+    deployment and release patterns, working with the relevant
+    firm technology teams where needed
+
+  Initial Focus
+
+  - End-to-end agentic AI features and reusable harnesses for
+    Radar and other named R&D products.
+
+  - A practical evaluation and test capability that lets the
+    team compare prompts, models, tools and retrieval
+    approaches before and after release.
+
+  - Grounded AI workflows that combine firm data, documents,
+    market or regulatory information and user context into
+    useful, attributable outputs.
+
+  - Interfaces that make AI output, confidence, evidence,
+    controls and next actions clear to lawyers and business
+    users.
+
+  What Success Looks Like
+
+  - R&D products use AI workflows that are grounded in trusted
+    context, observable in operation and understandable to
+    users.
+
+  - AI quality is measured rather than assumed; evaluation
+    results, traces and feedback lead to demonstrable
+    improvements in usefulness, reliability, latency and cost.
+
+  - The engineer can independently take a well-scoped AI
+    workflow from problem definition to controlled deployment.
+
+  - At least one AI component, harness or evaluation capability
+    is reused by a second R&D product or workflow.
+
+  - Promising prototypes have a repeatable path to controlled
+    release, monitoring and improvement.
+
+  Essential Skills and Experience
+
+  - At least three years’ professional experience delivering
+    production AI products, with demonstrable recent
+    experience building AI-enabled products or workflows in a
+    SaaS environment. Experience in legal technology or a law
+    firm is not required, but would be advantageous.
+
+  - Strong Python, plus practical TypeScript or JavaScript. Able
+    to build APIs and services using FastAPI, Flask or
+    comparable technologies, and usable interfaces using
+    React, Next.js or equivalent.
+
+  - Demonstrable experience building AI-enabled products or
+    workflows using LLM APIs, structured outputs, retrieval
+    and embeddings, tool calling, agents or workflow
+    orchestration.
+
+  - Experience building agentic systems using an agent framework
+    or custom orchestration patterns, including tools,
+    state/context management and human-review or approval
+    controls.
+
+  - Experience evaluating AI workflows using representative test
+    sets, scenario design, model or prompt experiments, trace
+    review, user feedback, and automated or human grading.
+
+  - Experience taking AI features from prototype into controlled
+    production, including testing, monitoring, troubleshooting
+    and ongoing improvement.
+
+  - Experience with AI observability, tracing and evaluation
+    tooling.
+
+  - Strong understanding of grounded retrieval, context quality,
+    evidence/citations and the ways in which AI systems fail.
+
+  - Experience designing APIs and integrating with enterprise
+    systems; sound handling of authentication, authorisation,
+    secrets and sensitive data.
+
+  - Comfort with Docker, Git, automated testing and CI/CD. You
+    do not need to be a dedicated platform engineer, but
+    should be able to ship maintainable, repeatable work.
+
+  - Strong debugging and systems-thinking skills, including the
+    ability to diagnose failures across models, prompts,
+    tools, retrieval and integrations.
+
+  - Able to explain AI behaviour, evaluation results and
+    technical trade-offs clearly to technical and non-
+    technical colleagues.
+
+  Diversity, Equity and Inclusion
+
+  To attract the best people, we strive to create a diverse
+  and inclusive environment where everyone can bring their
+  whole selves to work, have a sense of belonging, and realize
+  their full career potential.  Our new enabled work model
+  allows our people to have more flexibility in the way they
+  choose to work from both the office and a remote location,
+  while continuing to deliver the highest standards of
+  service. We offer a range of family friendly and inclusive
+  employment policies and provide access to programmes and
+  services aimed at nurturing our people’s health and overall
+  wellbeing. Find more about Diversity, Equity and Inclusion
+  here.
+
+  We are proud to be an equal opportunities employer and
+  encourage applications from individuals who can complement
+  our existing teams. We strive to create an inclusive and
+  accessible recruitment process for all candidates. If you
+  require any tailored adjustments or accommodations, please
+  let us know here.
+industries:
+  - Legal Tech
+  - Financial Services
+posted_date: 2026-09-18
+url: "https://builtin.com/job/ai-engineer/11254624"
+source: Built In

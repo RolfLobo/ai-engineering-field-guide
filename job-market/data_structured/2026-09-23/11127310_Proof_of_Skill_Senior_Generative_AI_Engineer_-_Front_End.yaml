@@ -1,0 +1,52 @@
+company:
+  name: Proof of Skill
+  stage: null
+  focus: Pharma analytics and business consulting
+position:
+  title: Senior Generative AI Engineer - Front End
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent-facing UI, agentic workflow
+      contracts, and has practical prompting, tool-calling, and
+      RAG fluency with hands-on LangChain/LangGraph work — shaping
+      LLM/agent system behavior, so ai-first.
+  responsibilities:
+  - Build production front-ends for conversational and agentic GenAI applications
+  - Architect real-time streaming layers (WebSockets/SSE, token streaming, agent status,
+    interruptibility)
+  - Design agent-readable interfaces including tool-call visualization and human-in-the-loop
+    controls
+  - Deliver conversational and multimodal UX surfacing memory, state, and reasoning
+  - Build well-architected, accessible React/TypeScript applications with a design
+    system
+  - Design contracts between the app and agent/GenAI orchestration systems across
+    the stack
+  - Act as technical coach and pattern-setter for AI-native interaction patterns
+  - Ensure compliance, security, and regulatory rigor in a regulated pharma environment
+  use_cases:
+  - Conversational chat and agent experiences for pharma analytics products
+  - Real-time streaming agent task interfaces
+  - Human-in-the-loop control over reasoning agents
+  - Generative/adaptive UI grounded in user context
+  - Multimodal (chat/voice) GenAI interfaces
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering, Function Calling, RAG, LangChain,
+      LangGraph, MCP, Agentic Workflows, Generative AI]
+    ml: []
+    web: [React, WebSockets, REST APIs, Event-Driven Architecture]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Observability]
+    languages: [TypeScript]
+    domains: []
+    other: [Figma, Design Systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11127310'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:20:58.509983'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

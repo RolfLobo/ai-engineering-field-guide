@@ -1,0 +1,58 @@
+company:
+  name: Target
+  stage: null
+  focus: 'Retail: enterprise AI/ML systems and technology'
+position:
+  title: Sr Fullstack Engineer- Advanced AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly builds applications that integrate LLM-
+      powered workflows, RAG, and agentic systems, and partners on
+      shaping AI capabilities into applications. Building
+      LLM/RAG/agent-integrated applications with hands-on design
+      involvement indicates shaping LLM behavior, making it ai-
+      first.
+  responsibilities:
+  - Design, build, deploy, and maintain application layers, services, APIs, and user
+    experiences for AI/ML capabilities
+  - Provide hands-on technical leadership for full-stack engineering initiatives across
+    Advanced AI applications
+  - Contribute to architecture and design decisions and build maintainable production-quality
+    code
+  - Establish strong engineering practices across development, testing, deployment,
+    observability, documentation, and support
+  - Ensure applications are secure, reliable, accessible, performant, and aligned
+    to enterprise standards
+  - Partner with AI/ML Engineers and engineering leaders to shape technical approaches
+    and resolve roadblocks
+  - Mentor engineers and raise the quality of full-stack engineering practices within
+    the team
+  use_cases:
+  - Enterprise AI applications that bring AI/ML capabilities into core business workflows
+  - LLM-powered workflows and retrieval-augmented generation systems
+  - Agentic architectures for intelligent automation
+  - Data-driven applications integrating data science outputs
+  - Scalable production-grade AI services, APIs, and user-facing experiences
+  skills:
+    genai: [LLMs, RAG, AI Agents, Agentic Workflows]
+    ml: [Machine Learning, Deep Learning]
+    web: [APIs, Full-Stack Development, Microservices]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [CI/CD, Code Review, Monitoring]
+    languages: [Python, TypeScript, JavaScript, Java, Kotlin, Go]
+    domains: []
+    other: [System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11274751'
+  location: Nagavara, IND
+  locations:
+  - Nagavara, IND
+  - Tiszaújváros, HUN
+  extracted_at: '2026-09-23T11:33:44.985077'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

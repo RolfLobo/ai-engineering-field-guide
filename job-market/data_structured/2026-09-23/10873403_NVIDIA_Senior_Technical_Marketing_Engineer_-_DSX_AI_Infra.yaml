@@ -1,0 +1,59 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: |-
+    GPU-accelerated computing and AI infrastructure hardware and
+    software
+position:
+  title: Senior Technical Marketing Engineer - DSX AI Infrastructure Software
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs and validates infrastructure stacks for AI
+      factories and turns them into content/demos; it tests pre-
+      release software with training and inference workloads but
+      never shapes model behaviour via prompts, retrieval, or
+      training. Serving and operating models others build is ai-
+      support.
+  responsibilities:
+  - Stand up and validate DSX-aligned software stacks on multi-node GPU systems, capturing
+    dependencies, configuration order, and validation steps
+  - Create technical content such as reference architectures, installation guides,
+    troubleshooting runbooks, blogs, whitepapers, and demo videos
+  - Build reusable examples and automation using APIs, scripting, infrastructure-as-code,
+    containers, Kubernetes, Helm, GitOps, and CI/CD
+  - Build demos, labs, and training covering AI factory operations from deployment
+    to upgrades, monitoring, and security
+  - Test pre-release software with representative training and inference workloads
+    and provide feedback to Product and Engineering
+  - Support partners, ISVs, cloud/OEM partners, and field teams through train-the-trainer
+    sessions, demos, and direct engagement
+  - Gather recurring problems from customers and partners to set content priorities
+    and recommend product improvements
+  - Present at customer briefings, partner workshops, industry events, and webinars
+  use_cases:
+  - AI factory infrastructure deployment and operation
+  - Multi-node GPU cluster bring-up and validation
+  - Cluster orchestration, scheduling, and workload enablement
+  - Infrastructure documentation and enablement for partners and customers
+  skills:
+    genai: []
+    ml: [Model Training]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [DGX Cloud]
+    ops: [Kubernetes, Helm, GitOps, CI/CD, Infrastructure as Code, Docker, Linux,
+      Observability, Monitoring]
+    languages: [Python, Bash]
+    domains: []
+    other: [Slurm]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10873403'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:53.172286'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

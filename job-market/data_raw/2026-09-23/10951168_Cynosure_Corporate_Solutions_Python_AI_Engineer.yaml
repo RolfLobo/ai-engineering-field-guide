@@ -1,0 +1,47 @@
+job_id: 10951168
+title: Python AI Engineer
+company: Cynosure Corporate Solutions
+location: Thiruvananthapuram, IND
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Key Responsibilities:
+
+  - Build Agentic AI solutions using LangChain, LangGraph,
+    CrewAI, AutoGen, etc.
+  - Develop multi-agent systems, RAG pipelines, and AI-powered
+    applications.
+  - Integrate LLMs (GPT, Gemini, Llama) with APIs, databases,
+    and enterprise systems.
+  - Design scalable AI workflows, retrieval systems, and
+    enterprise integrations.
+  - Monitor, optimize, and deploy AI solutions for performance
+    and reliability.
+  - Collaborate with stakeholders and prepare technical
+    documentation.
+
+  Required Skills:
+
+  - Bachelor's degree in Computer Science, AI, Data Science, or
+    related field.
+  - Hands-on experience with LLMs, Generative AI, RAG,
+    embeddings, and vector search.
+  - Strong Python programming and API integration skills.
+  - Experience with LangChain, LangGraph, CrewAI, AutoGen, or
+    similar frameworks.
+  - Knowledge of cloud platforms and scalable AI architecture
+    design.
+
+  Good to Have:
+
+  - Experience with vector databases (Pinecone, Chroma,
+    Weaviate, pgvector).
+  - Exposure to MLOps, AI monitoring, and observability tools.
+  - Experience in enterprise software delivery and client-facing
+    projects.
+industries:
+  - HR Tech
+  - Professional Services
+posted_date: 2026-09-01
+url: "https://builtin.com/job/python-ai-engineer/10951168"
+source: Built In

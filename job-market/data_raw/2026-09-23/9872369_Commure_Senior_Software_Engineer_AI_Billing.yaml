@@ -1,0 +1,153 @@
+job_id: 9872369
+title: Senior Software Engineer, AI Billing
+company: Commure
+location: Los Angeles, USA
+work_type: FULL_TIME
+description: |
+  At Commure, we're building the AI Operating System for
+  healthcare, the foundation that defines how care is
+  delivered, documented, and financed. Our platform spans the
+  full care journey: Ambient AI and Dictation eliminating
+  documentation burden at the point of care, intelligent
+  Agents automating patient and revenue workflows, and
+  autonomous RCM processing billions in claims, all on a
+  single AI-native platform integrated with 60+ EHRs.
+
+  Healthcare carries a $1 trillion administrative burden and
+  we're at the center of transforming it. Today, 500,000+
+  clinicians across 500+ healthcare organizations nationwide
+  trust Commure to handle $25B+ in annual claims and support
+  over 200 million patient interactions. Our latest $70M raise
+  at a $7B valuation reflects the confidence the market has
+  placed in this mission. We've also been named to the Fortune
+  Future 50 list and the 2026 AI Breakthrough Awards for
+  “Overall NLP Company of the Year.”
+
+  Our team works directly alongside clinicians, not through
+  layers of process, which means the gap between what you
+  build and its impact on patient care is immediate. We move
+  fast, deploy daily, and take full ownership from early
+  thinking to production. If you're energized by hard
+  problems, high stakes, and a team that holds itself to a
+  high bar, you'll find your people here.
+
+  The future of healthcare is being built right now. Come
+  deliver this transformation.
+
+  About the Role
+
+  The Revenue Cycle Management (RCM) Product Team at Commure +
+  Athelas powers the core operating system for our practices.
+  Our product—Insights—provides practice staff and
+  administrators with everything they need to efficiently
+  manage their practice’s operations. We maintain 150+
+  customer-facing features, ranging from high-level reports
+  and visualizations to workflow automation tools to help the
+  staff boost their practice’s revenue.
+
+  As a Senior Software Engineer Engineer, you will play a key
+  role in scaling and maintaining our website’s
+  infrastructure, ensuring a seamless user experience as we
+  grow to support thousands of practices nationwide.
+
+  Beyond development, this role will help define the technical
+  direction of Insights’ architecture, shaping how and where
+  services are built and deployed. You’ll help foster a
+  culture of continuous improvement, enhancing the
+  reliability, scalability, and performance of our web
+  applications while elevating the technical skills of the
+  entire engineering organization.
+
+  What You’ll Do
+
+  - Drive the technical direction of our practice management
+    platform, Insights, ensuring it scales to support
+    thousands of practices and millions of users
+  - Design, build, and maintain scalable full-stack solutions
+    using ReactJS, Python, and PostgreSQL
+  - Improve system reliability and observability by implementing
+    best practices in monitoring, logging, and alerting
+  - Optimize performance and scalability of our web
+    applications, ensuring seamless user experiences as we
+    rapidly expand
+  - Collaborate with infrastructure and backend teams to ensure
+    high availability and resilience of core functions
+  - Mentor and guide engineers, fostering a culture of technical
+    excellence and continuous learning
+  - Lead and deliver high-impact projects, balancing speed and
+    quality in a fast-paced, high-ownership environment
+  - Conduct in-depth code reviews, uphold best practices, and
+    drive architectural improvements across the stack
+  - Work closely with product and design teams to build
+    intuitive, user-friendly experiences for healthcare
+    providers and staff
+
+  What You Have
+
+  - 5+ years of professional software development experience,
+    with a focus on building scalable full-stack applications
+  - Proficiency in full-stack development with expertise in
+    JavaScript (React/Vue), Python, and PostgreSQL
+  - Strong architectural skills with experience designing and
+    maintaining highly scalable, reliable, and performant web
+    applications
+  - Experience leading multi-month, high-impact projects,
+    balancing trade-offs, and delivering results in a fast-
+    paced environment
+  - Deep understanding of modern front-end engineering—React
+    fundamentals, performance optimization, state management,
+    and component-driven design
+  - Experience working with complex backend systems, including
+    designing APIs and optimizing database performance
+  - Strong debugging and problem-solving skills, with a focus on
+    observability (monitoring, logging, and alerting best
+    practices)
+  - Ability to mentor engineers and drive technical excellence
+    across the organization
+  - Excellent communication skills, with the ability to
+    effectively present technical concepts to leadership and
+    cross-functional teams
+
+  Nice to Have
+
+  - Experience scaling front-end applications in a fast-growing,
+    high-traffic environment
+  - Deep understanding of frontend performance optimizations and
+    ability to diagnose bottlenecks in React applications
+  - Strong product intuition with a track record of influencing
+    UX/UI decisions to improve usability
+  - Background in data visualization and building interactive
+    dashboards for analytics-heavy applications
+  - Experience with developer tooling and CI/CD pipelines for
+    frontend applications
+  - Familiarity with modern API design patterns (GraphQL, REST,
+    gRPC) and best practices in backend-for-frontend (BFF)
+    architectures
+  - Contributions to open-source projects or a strong
+    engineering blog presence
+  - Experience working in highly regulated industries (finance,
+    insurance, government) with a focus on security and
+    compliance
+  - A passion for improving healthcare and healthcare operations
+    in America
+
+  Please be aware that all official communication from us will
+  come exclusively from email addresses ending in
+  @commure.com. Any emails from other domains are not
+  affiliated with our organization.
+
+  Employees will act in accordance with the organization’s
+  information security policies, to include but not limited to
+  protecting assets from unauthorized access, disclosure,
+  modification, destruction or interference nor execute
+  particular security processes or activities. Employees will
+  report to the information security office any confirmed or
+  potential events or other risks to the organization.
+  Employees will be required to attest to these requirements
+  upon hire and on an annual basis.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-08-14
+url: "https://www.builtinla.com/job/senior-software-engineer-rcm-product/9872369"
+source: Built In

@@ -1,0 +1,49 @@
+company:
+  name: Cummins
+  stage: null
+  focus: Engines and power generation technology manufacturer
+position:
+  title: Solution Engineer Senior (Azure + AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a general solution/integration engineer on
+      enterprise solutions; AI appears only in the title with no
+      responsibilities involving shaping model behavior, prompts,
+      retrieval, or training. Step 1 fails, so it is ai-support.
+  responsibilities:
+  - Analyze and gather business and technical requirements to design and document
+    fit-for-purpose solutions
+  - Evaluate technical fit and viability of commercial-off-the-shelf versus custom-built
+    solutions
+  - Develop and maintain technical design documents, workflows, and architecture diagrams
+  - Define and execute test strategy and validate solutions against business objectives
+  - Design and implement data migration solutions ensuring data accuracy and reliability
+  - Work with vendors and IT service providers to resolve technical issues and ensure
+    proper configuration
+  - Participate in design reviews, cybersecurity reviews, and code reviews to ensure
+    standards adherence
+  - Serve as subject matter expert for assigned applications
+  use_cases:
+  - Enterprise solution design and integration on Azure
+  - Data migration and configuration of technology solutions
+  - Application support and continuous improvement of solution performance
+  skills:
+    genai: []
+    ml: []
+    web: [Solution Architecture]
+    databases: []
+    data: [Data Migration]
+    cloud: [Azure]
+    ops: [CI/CD, DevSecOps, Infrastructure as Code]
+    languages: []
+    domains: []
+    other: [Agile, Automated Testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10867510'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:03:35.536238'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

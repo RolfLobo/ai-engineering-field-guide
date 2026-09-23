@@ -1,0 +1,218 @@
+job_id: 11195781
+title: Forward Deployed AI/ML Engineer IV
+company: E Source
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  At E Source, we help utilities make sense of complexity in a
+  rapidly changing landscape, and we’re looking for a Forward
+  Deployed Engineer, AI/ML to help shape how that impact shows
+  up in the world.
+
+  E Source is a research, data/analytics, and technology
+  focused professional services firm focused exclusively on
+  the utility industry in the US and Canada. We help utilities
+  target and serve their customers more effectively, enhance
+  and optimize their grid, and leverage operating best
+  practices and technologies to manage their business more
+  effectively. Headquartered in Texas, we have 450+ employees
+  across the US and Canada. Learn more at www.esource.com
+
+  As a Forward Deployed Engineer, AI/ML, you’ll join our AI
+  and Data Engineering (AIDE) team and embed directly with our
+  utility clients to understand their hardest operational
+  problems, then build and ship the systems that solve them:
+  production code, in the client’s environment, used by their
+  people, and measured against their outcomes. This role
+  focuses on taking AI from a promising demo to a system a
+  utility’s business runs on: grounded, evaluated, monitored,
+  and trusted by the operators who depend on it.
+
+  You’ll own engagements end to end, from technical discovery
+  through architecture, build, deployment, and adoption, with
+  no handoff points in between. Engagements move quickly:
+  expect a useful system running in the client’s environment
+  within weeks, then hardened toward production based on how
+  their teams actually use it. You’ll work closely with client
+  technical teams and executives, and with E Source’s machine
+  learning engineers, data engineers, software engineers, and
+  consultants, to deliver AI solutions for clients and bring
+  field learnings back into our products and practices.
+
+  In this role, you will:
+
+  - Embed with utility clients to design, build, and deploy
+    generative AI (GenAI) and machine learning (ML) systems
+    that solve real operational problems in the client’s
+    environment
+  - Own the technical architecture of each engagement —
+    retrieval, orchestration, model selection, serving,
+    evaluation, and monitoring — and defend it to client
+    architects and security teams
+  - Run technical discovery independently, separate the problem
+    as stated from the underlying need, and say so when the
+    requested solution is the wrong one
+  - Deliver a working, useful system early in each engagement,
+    typically within the first few weeks, then iterate toward
+    production hardening — tactical solutions are legitimate,
+    but undocumented or unowned ones are not
+  - Design task-specific evaluations before building, define
+    what “correct” means with client subject matter experts,
+    and hold every system to those evaluations before release
+  - Build retrieval and grounding systems over client data,
+    including structured, unstructured, and graph-backed
+    knowledge sources
+  - Integrate with client data platforms and business systems,
+    including undocumented and legacy systems
+  - Instrument systems so accuracy, latency, cost, and drift are
+    measured rather than asserted, and hand off operations the
+    client’s team can run without us
+  - Build and deploy the operator-facing application layer —
+    review and approval interfaces, agent and chat front ends,
+    evaluation dashboards, and workflow tools — so delivered
+    systems are usable by client teams, not just their
+    engineers
+  - Set realistic expectations with executives about what AI can
+    and cannot do for their problem
+  - Manage scope, timeline, and expectations against a defined
+    statement of work, and raise risk early
+  - Contribute reusable accelerators, evaluation harnesses, and
+    reference architectures that scale across clients, and
+    share implementation feedback with E Source’s engineering
+    and product teams
+  - Apply AI safety, data privacy, and governance controls
+    appropriate to the utility regulatory context
+
+  You’re likely a great fit if you:
+
+  - Are comfortable owning an engagement end to end — from
+    discovery through architecture, build, deployment, and
+    post-go-live support — rather than a single phase of it
+  - Navigate ambiguity, incomplete data, and objectives that
+    shift mid-engagement without losing traction
+  - Communicate clearly in writing and can whiteboard your
+    thinking for both engineers and executives
+  - Are candid about what didn’t work, why, and what you changed
+    in your practice because of it
+  - Move fast without cutting corners, are comfortable
+    delivering a working system in weeks rather than quarters,
+    and know what to defer
+  - Work well with enterprise clients and can navigate
+    stakeholders ranging from individual contributors to
+    executives
+
+  And even better if you:
+
+  - Hold a master’s degree or PhD in a relevant quantitative
+    field
+  - Have built agent frameworks and tool-calling architectures
+    in production
+  - Bring knowledge graph or semantic layer experience for
+    grounding and reasoning
+  - Have fine-tuning, distillation, or prompt optimization
+    experience — and the judgment to know when they’re not the
+    answer
+  - Bring classical ML experience (forecasting, ranking, anomaly
+    detection) and know when to choose it over a large
+    language model (LLM)
+  - Are fluent in data engineering: Spark, pipeline design, and
+    lakehouse architectures
+  - Have built and deployed Databricks Apps, or comparable
+    operator-facing applications on a modern frontend
+    framework (React, Streamlit, Dash, or Gradio) with REST or
+    GraphQL APIs
+  - Hold Databricks or cloud AI/ML certifications
+
+  Experience and Skills to Qualify Include:
+
+  - Bachelor’s degree in computer science, engineering,
+    statistics, or a related quantitative field
+  - Five or more years of engineering experience, including
+    generative AI (GenAI) or machine learning (ML) systems
+    shipped to production and iterated on based on real usage
+  - Expert proficiency in Python and working proficiency in at
+    least one of TypeScript, Scala, or Java
+  - Hands-on production experience with at least one major model
+    provider or open-weights stack, and one vector or hybrid
+    retrieval system
+  - Experience building and applying evaluation frameworks for
+    large language model (LLM) and ML systems, including
+    retrieval-augmented generation (RAG), agentic or multi-
+    agent systems, structured extraction, or text-to-SQL
+  - Experience with LLM operations (LLMOps): model serving,
+    latency and cost management, prompt and model versioning,
+    monitoring, and regression detection
+  - Working knowledge of at least one major cloud ecosystem
+    (Amazon Web Services (AWS), Azure, or Google Cloud
+    Platform (GCP)); experience with AWS and Databricks
+    strongly preferred
+  - Proficiency with Git, Docker, and continuous integration and
+    continuous delivery (CI/CD) tools
+  - Experience using AI coding assistants and agentic
+    development tools to rapidly prototype, test, and iterate
+    on working software
+  - Experience in the energy or utility industry, or another
+    asset-heavy sector, with working familiarity of the
+    systems, data, and operational constraints utilities face
+  - Experience shipping on compressed timelines, from first
+    conversation to a working system in weeks rather than
+    quarters
+
+  At E Source, you’ll work alongside people who are
+  thoughtful, curious, and deeply knowledgeable about utility
+  and energy systems. We value clarity over jargon, substance
+  over flash, and collaboration over ego. You’ll have the
+  opportunity to grow your skills, contribute to meaningful
+  work, and help shape a company that plays a real role in how
+  the energy future unfolds.
+
+  What you can expect
+
+  - Excellent insurance options, including medical, dental, and
+    vision plans; company-paid life insurance; company-paid
+    long- and short-term disability insurance; medical and
+    dependent-care flexible spending plans, and paid parental
+    leave.
+  - A flexible time off (FTO) policy that provides paid time
+    away from work, approved by your manager, while ensuring
+    business needs, workload commitments, and appropriate
+    coverage are maintained.
+  - A 401(k) plan with a 3% employer match.
+
+  The budgeted salary for this position is $175,000–$200,000
+  USD + annual bonus. Actual pay will be adjusted based on
+  experience.
+
+  This role is remote-based with significant travel to client
+  sites, generally 30 to 50% and varying by engagement,
+  including extended on-site periods during discovery,
+  deployment, and go-live.
+
+  Applicants must be authorized to work for any employer in
+  the US or Canada. We’re unable to sponsor or take over
+  sponsorship of employment visas or Labour Market Impact
+  Assessments (Cdn) at this time.
+
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity, national origin,
+  disability, or status as a protected veteran.
+
+  Employees of E Source are encouraged to apply. To foster a
+  positive work environment and company culture, we support
+  our employees in their career growth at E Source. If you are
+  interested in similar job opportunities in the future, visit
+  the E Source careers page for a listing of all open
+  positions and contact Human Resources.
+
+  We contact applicants directly via email using only our
+  designated company email addresses with the domain of
+  @esource.com. Please do not provide personal information to
+  anyone over email and be wary of other accounts
+  impersonating businesses.
+
+  #LI-Remote
+posted_date: 2026-09-15
+url: "https://www.builtinla.com/job/forward-deployed-ai-ml-engineer-iv/11195781"
+source: Built In

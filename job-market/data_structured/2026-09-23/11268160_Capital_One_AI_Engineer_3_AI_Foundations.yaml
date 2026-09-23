@@ -1,0 +1,64 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: AI Engineer 3 (AI Foundations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM/agent behavior directly: building agents
+      and multi-agent workflows, guardrails, model evaluation,
+      fine-tuning, RAG, and prompt engineering for production AI
+      systems. LLM components are central, so it is ai-first.
+  responsibilities:
+  - Deliver AI-powered products with cross-functional teams of engineers, scientists,
+    and product managers
+  - Design, develop, deploy, and support AI software components including foundation
+    model training, LLM inference, agents, guardrails, and model evaluation
+  - Apply foundation model optimization techniques to improve scalability, cost, latency,
+    and throughput of production AI systems
+  - Lead development and benchmarking of multi-turn conversational and tool-using
+    agent workflows with performance and safety metrics
+  - Build scalable pipelines for training, fine-tuning, and deploying foundation or
+    domain-specific models
+  - Collaborate with research and data engineering teams to curate datasets and improve
+    model evaluation methodologies
+  - Contribute to governance, security, traceability, and version control of deployed
+    AI assets
+  - Mentor junior AI engineers and advocate for engineering excellence and responsible
+    experimentation
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Alerting customers about unusual charges
+  - Conversational agents that answer customer questions in real time
+  - Tool-using agent workflows for associates and customers
+  - Scalable LLM inference and foundation model platforms for teams across the company
+  skills:
+    databases: [Vector Databases, Vector Search]
+    domains: []
+    data: []
+    web: []
+    ml: [Foundation Model Training, PyTorch, Hugging Face, Machine Learning, Model
+        Evaluation, CUDA]
+    ops: [Model Deployment]
+    other: [Responsible AI]
+    cloud: [AWS, GCP, Azure, AWS Ultraclusters]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails, RAG, Prompt Engineering,
+      Fine-Tuning, LLM Evaluation, Red-Teaming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268160'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-09-23T11:33:33.579644'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

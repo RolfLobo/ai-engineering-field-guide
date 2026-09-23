@@ -1,0 +1,164 @@
+job_id: 11134048
+title: Staff Software Engineer, Physical AI Orchestration
+company: Destro AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 9 Employees
+description: |
+  About Destro AI
+
+  Destro AI is building the intelligence layer for robotics —
+  the system that tells robots and humans what to do across
+  complex real-world operations. Founded by former leaders
+  from HAI Robotics, Dexterity, and Matic, Destro is built on
+  a simple thesis: robotics has solved movement, but not
+  decision-making.
+
+  At the core of Destro is MothershipOS, a centralized brain
+  that coordinates robots, humans, and workflows in real time.
+  Unlike traditional systems that rely on local intelligence
+  on each robot, Destro brings global intelligence across the
+  entire operation.
+
+  Destro recently closed its Seed round at one of the highest
+  valuations for a robotics company at this stage, and is
+  already working with large enterprise operators to deploy
+  real systems in production environments.
+
+  Role Overview
+
+  Destro AI is hiring its most senior engineering role to date
+  — a Staff Software Engineer who will define how the company
+  builds, ships, and scales software over the next several
+  years.
+
+  The company reached production quickly. Its current platform
+  consists of several services, each built independently and
+  under deadline pressure to win early customer pilots. These
+  services work in production today, but were not designed as
+  a unified system: there is no shared architecture, no
+  consistent versioning or release process, no automated
+  deployment pipeline, limited test coverage, and insufficient
+  telemetry to detect site degradation before customers notice
+  it.
+
+  This role is responsible for consolidating these services
+  into a single, coherent, production-grade platform that
+  scales across multiple customer sites, and for establishing
+  the version control, release, and deployment discipline
+  required to support it. The approach is incremental —
+  hardening and unifying the existing system in a deliberate
+  sequence, not a rewrite, since the platform runs live
+  customer operations that cannot be interrupted.
+
+  The role begins as a hands-on, individual-contributor
+  position, with the expectation of growing into a leadership
+  role as the engineering team scales.
+
+  What You’ll Do
+
+  Platform Unification & Architecture
+
+  - Bring today’s separate services into one coherent platform
+    with clear service boundaries, shared data contracts, and
+    consistent interfaces
+  - Design for scale: multi-site, multi-tenant, and multi-vendor
+    robot fleets from day one
+  - Eliminate duplicated logic, one-off scripts, and per-site
+    special cases
+  - Own the technical roadmap that takes us from the current
+    architecture to the target one, incrementally and without
+    downtime
+
+  Version Control, Release & Update Delivery
+
+  - Establish real version control discipline: branching
+    strategy, code review standards, semantic versioning,
+    release branches, and change tracking
+  - Build a repeatable, automated path from commit to running on
+    customer hardware
+  - Implement over-the-air update push across cloud and on-site
+    edge compute — staged rollouts, device provisioning,
+    version pinning per site, and a rollback path that works
+    at 4am
+  - Guarantee we always know exactly what version is running
+    where
+
+  Production Readiness & Reliability
+
+  - Stand up CI and meaningful automated test coverage,
+    including simulation and hardware-in-the-loop testing so
+    changes can be validated without a robot on the floor
+  - Build structured logging, metrics, tracing, and alerting
+    across the deployed fleet
+  - Harden the integration surface with customer WMS, WES, and
+    ERP systems — retries, idempotency, schema versioning,
+    graceful degradation when their systems go down
+  - Establish on-call, incident response, runbooks, and
+    postmortem practice
+  - Own uptime, performance, and stability of the platform in
+    production
+
+  Engineering Leadership
+
+  - Define and implement engineering best practices across the
+    software organization — code review, documentation,
+    testing standards, definition of done
+  - Lead cross-functionally with robotics, computer vision,
+    deployment, and product to sequence work and resolve
+    technical tradeoffs
+  - Mentor the engineers already here and raise the bar on every
+    hire after you
+  - Grow into leading the software team as we scale headcount
+    over the next 12 months
+
+  Who You Are
+
+  - 8+ years building software, with a substantial portion of it
+    at robotics companies — AMR/AGV, warehouse automation,
+    manipulation, autonomous vehicles, drones, or comparable
+    fielded robotic systems
+  - You have shipped software that ran on real robots, in real
+    customer environments, at real scale — not in a lab or a
+    research group
+  - You have personally taken a system from pilot-grade to
+    multi-site production, and can walk through what broke and
+    how you fixed it
+  - You have consolidated fragmented services into a unified
+    platform, on a live system, without stopping delivery
+  - You have introduced engineering process to a team that
+    didn’t have any, and gotten people to actually adopt it
+  - Pragmatic about technical debt — you sequence fixes by risk,
+    not by preference
+  - Comfortable owning production, including on-call and live
+    incidents
+  - Able to operate independently in ambiguous, fast-moving
+    startup environments
+  - Strong communicator who can align engineers, deployment
+    teams, and customers on the same technical plan
+  - Wants to build and lead a team, but wants to stay close to
+    the code
+  - High ownership mindset with strong bias for execution
+
+  Technical Skills
+
+  - Deep Python; strong systems fundamentals. C++, Go, or Rust a
+    plus
+  - ROS/ROS2, and direct experience with multi-vendor or
+    heterogeneous robot fleets
+  - Fleet management, teleoperation, or robot observability
+    tooling — whether you used it or built it
+  - Distributed systems, message-based architectures, and the
+    failure modes of intermittently connected edge devices
+  - Git at scale — branching models, monorepo or multi-repo
+    tradeoffs, release management
+  - Containerization, infrastructure-as-code, and modern CI/CD
+  - OTA update systems and fleet device management
+  - Linux/server environments, networking, cloud systems, and
+    edge deployments
+  - Prior integration work against WMS/WES platforms (Manhattan,
+    Blue Yonder, Körber, SAP EWM) or with 3PL operators is a
+    plus
+posted_date: 2026-09-11
+url: "https://builtin.com/job/staff-software-engineer-physical-ai-orchestration/11134048"
+source: Built In

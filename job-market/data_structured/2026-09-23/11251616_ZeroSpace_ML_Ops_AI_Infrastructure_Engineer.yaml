@@ -1,0 +1,51 @@
+company:
+  name: ZeroSpace
+  stage: null
+  focus: Digital agency and real-time 3D production studio
+position:
+  title: ML Ops / AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates ML/AI infrastructure — data
+      ingestion, storage, retrieval, deployment, monitoring, cost
+      optimization — rather than shaping model behavior through
+      prompts, retrieval design, or training choices. Designing
+      fine-tuning and inference infrastructure is hosting/serving
+      capacity work, and agentic systems appear only as a nice-to-
+      have.
+  responsibilities:
+  - Design and build ML infrastructure to ingest, store, index, and retrieve petabyte-scale
+    media datasets
+  - Design and deploy model fine-tuning and inference infrastructure
+  - Build monitoring and observability systems for AI workloads
+  - Build data validation and quality assurance pipelines
+  - Scale data storage and retrieval with high availability and efficiency
+  - Monitor and optimize costs across cloud providers
+  - Develop CI/CD pipelines for backend services
+  - Collaborate with product and creative AI teams on backend requirements
+  use_cases:
+  - Indexing and retrieval of petabyte-scale multimodal media datasets
+  - Generative AI production for film, virtual production, and immersive experiences
+  - Model fine-tuning and inference serving for creative AI workflows
+  - Monitoring and cost management of cloud AI infrastructure
+  skills:
+    genai: []
+    ml: [Fine-Tuning]
+    web: [APIs]
+    databases: []
+    data: [Airflow]
+    cloud: []
+    ops: [Terraform, CloudFormation, Infrastructure as Code, Kubeflow, MLflow, Monitoring,
+      Observability, Distributed Systems, CI/CD, MLOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11251616'
+  location: Brooklyn, USA
+  extracted_at: '2026-09-23T11:31:43.114894'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

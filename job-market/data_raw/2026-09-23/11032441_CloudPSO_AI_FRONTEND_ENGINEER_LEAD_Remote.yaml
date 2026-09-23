@@ -1,0 +1,296 @@
+job_id: 11032441
+title: AI FRONTEND ENGINEER / LEAD (Remote)
+company: CloudPSO
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  This is a remote position.
+
+
+
+   Job timings: Mon - Fri US EST Time zone
+
+
+
+
+
+   Job Location: Pakistan (Remote)
+
+
+
+
+
+   Experience: 5+ years
+
+
+
+
+
+
+
+
+
+
+   PRODUCT CONTEXT
+
+
+
+
+
+
+
+
+
+      CloudPSO's first standardized AI Agent product enables
+  enterprises to deploy intelligent voice assistants for
+  customer support, sales, and internal operations. Its core
+  capabilities include:
+
+
+
+
+
+  - Speech-to-Text (STT): Real-time voice transcription.
+  - Natural Language Understanding (NLU): Intent recognition,
+    context awareness, and conversation control.
+  - Text-to-Speech (TTS): Natural, human-like voice responses.
+  - Enterprise Platform: Cloud-native deployment with
+    scalability, low latency, security, observability, and
+    enterprise-grade reliability.
+
+
+
+      We are looking for an experienced AI Frontend Engineer /
+  Lead to join our product development team and drive the
+  frontend architecture and user experience of this AI-powered
+  voice platform.
+
+
+
+
+
+
+
+
+
+
+   ROLE OVERVIEW
+
+
+
+
+
+
+
+
+
+      The AI Frontend Engineer will be responsible for
+  designing, developing, and leading the frontend experience
+  of the Voice Agent platform. This role focuses on building
+  intuitive, high-performance user interfaces that enable
+  enterprises to configure, monitor, and interact with AI
+  voice agents. The ideal candidate has deep expertise in
+  modern frontend frameworks, real-time communication
+  technologies, and a strong understanding of how to integrate
+  with AI/ML backend services. While the primary focus is
+  frontend leadership, familiarity with AI concepts and
+  backend integration is essential to bridge the gap between
+  user experience and AI capabilities. This role includes
+  leading frontend development efforts, mentoring junior
+  developers, and collaborating closely with AI engineers,
+  backend teams, and product stakeholders.
+
+
+
+
+
+
+
+
+
+
+   KEY RESPONSIBILITIES
+
+
+
+
+
+
+
+
+
+   Frontend Architecture & Leadership
+
+
+
+
+  - Lead Frontend Development: Own the frontend architecture,
+    technology stack, and development roadmap for the Voice
+    Agent platform.
+  - Team Leadership: Mentor and guide frontend developers,
+    conduct code reviews, and establish frontend best
+    practices and coding standards.
+  - UI/UX Design Collaboration: Work closely with UI/UX
+    designers to translate design mockups into responsive,
+    accessible, and pixel-perfect interfaces.
+  - Component Library: Build and maintain a reusable component
+    library to ensure consistency across the product.
+
+
+
+   Real-Time Voice Integration
+
+
+
+
+
+
+
+
+
+  - WebSocket & WebRTC Integration: Implement real-time voice
+    streaming interfaces using WebSocket and WebRTC for live
+    agent interactions.
+  - Audio Handling: Develop frontend components for audio
+    capture, playback, and visualization.
+  - Low-Latency Optimization: Optimize frontend performance to
+    ensure seamless real-time voice experiences with minimal
+    latency.
+
+
+
+   Backend & API Integration
+
+
+
+
+  - API Consumption: Integrate with backend AI services (STT,
+    NLU, TTS) via RESTful APIs and WebSocket connections.
+  - State Management: Implement robust state management
+    solutions for complex voice agent workflows and session
+    handling.
+  - Dashboard Development: Build administrative dashboards for
+    monitoring agent performance, analytics, and system
+    health.
+
+
+
+   Prototyping & Demos
+
+
+
+
+  - Rapid Prototyping: Create interactive prototypes and demos
+    for internal testing and client presentations.
+  - Proof of Concepts: Develop frontend proofs of concept for
+    new AI features and capabilities.
+
+
+
+   Quality & Performance
+
+
+
+
+
+
+
+
+
+   Testing: Implement comprehensive frontend testing
+  strategies (unit, integration, and E2E tests).
+
+
+
+
+
+   Performance Optimization: Ensure fast load times, smooth
+  animations, and responsive interactions.
+
+
+
+
+
+   Accessibility: Build accessible interfaces that comply with
+  WCAG standards.
+
+
+
+
+    Requirements
+
+
+
+
+
+
+   PREFERRED SKILLS
+
+
+
+
+  - AI/ML Familiarity: Basic understanding of AI concepts, STT,
+    NLU, and TTS to effectively collaborate with AI engineers.
+  - Cloud Platforms: Experience with AWS, GCP, or Azure for
+    frontend hosting and deployment.
+  - Audio/Video Processing: Experience with audio visualization,
+    recording, or playback libraries.
+  - Design Tools: Familiarity with Figma, Sketch, or Adobe XD.
+  - Mobile Responsiveness: Experience with responsive design and
+    mobile-first development.
+  - Open-Source Contributions: Contributions to open-source
+    frontend projects.
+  - SIP/PSTN Knowledge: Familiarity with SIP, WebRTC, or PSTN
+    integration (a plus).
+
+
+
+   REQUIRED QUALIFICATIONS
+
+
+
+
+  - Experience: 7–9 years of frontend development experience,
+    with at least 3+ years in a lead or senior role.
+  - Frontend Frameworks (Mandatory): Deep expertise in React
+    (preferred), Vue.js, or Angular.
+  - State Management: Strong experience with Redux, Zustand,
+    Context API, or equivalent state management libraries.
+  - Real-Time Technologies: Hands-on experience with WebSocket
+    and WebRTC for real-time communication.
+  - TypeScript/JavaScript: Strong proficiency in TypeScript and
+    modern JavaScript (ES6+).
+  - UI/UX Sensibility: Strong understanding of UI/UX principles
+    and ability to collaborate effectively with designers.
+  - API Integration: Experience consuming RESTful APIs and
+    working with backend teams to define API contracts.
+  - Build Tools: Experience with Webpack, Vite, or equivalent
+    build tools.
+  - Version Control & CI/CD: Experience with Git and continuous
+    integration and delivery pipelines.
+  - Testing: Experience with testing frameworks such as Jest,
+    React Testing Library, or Cypress.
+  - Containerization: Knowledge of Docker and Kubernetes for
+    frontend deployment.
+
+
+    Benefits
+
+  - Medical insurance
+  - Company gadgets
+  - Paid time off
+  - Stock options (ESOP)
+  - Competitive salary and benefits package.
+  - Opportunities for professional development and growth.
+  - Collaborative and innovative work environment.
+  - Chance to work on cutting-edge cloud projects.
+  - Supportive and inclusive company culture
+industries:
+  - Cloud
+  - Information Technology
+  - Professional Services
+  - Software
+posted_date: 2026-09-05
+url: "https://www.builtinla.com/job/ai-frontend-engineer-lead-remote/11032441"
+source: Built In

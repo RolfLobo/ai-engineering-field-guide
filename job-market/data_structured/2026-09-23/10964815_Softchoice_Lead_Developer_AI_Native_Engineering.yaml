@@ -1,0 +1,57 @@
+company:
+  name: Softchoice
+  stage: null
+  focus: IT solutions, cloud, and AI technology services
+position:
+  title: Lead Developer – AI Native Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role evaluates and rolls out AI-native developer tooling
+      and workflows so other engineering teams ship faster — the
+      deliverable is developer workflow and enablement, not model
+      behaviour. There is no prompt design, retrieval, agent
+      design, or model training owned by this person. Per the edge
+      cases, driving adoption of AI coding tools is ai-support.
+  responsibilities:
+  - Research, evaluate, and prototype emerging AI native engineering tools and platforms
+    for enterprise adoption
+  - Conduct comparative analyses and generate tooling recommendations improving engineering
+    velocity and developer experience
+  - Define and optimize AI-augmented engineering workflows, delivery patterns, and
+    automation strategies
+  - Own and personally deliver AI training initiatives across the IT organization,
+    including documentation, demos, and live sessions
+  - Develop documentation, tutorials, and enablement assets codifying AI native engineering
+    best practices
+  - Lead design and development of proofs of concept and reference architectures for
+    AI native engineering
+  - Support engineers adopting new tools through office hours, troubleshooting, and
+    tailored guidance
+  - Present status updates on training and tooling initiatives to senior leadership
+    including C-suite executives
+  use_cases:
+  - Enterprise adoption of AI-native development tools and workflows
+  - AI training and skills enablement for IT organization
+  - Proof-of-concept demonstrations and reference architectures for AI-assisted engineering
+  - Streamlining software delivery through AI-driven automation patterns
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud-Native Architectures]
+    ops: [DevOps, CI/CD, Automated Testing]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10964815'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:09:18.583588'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

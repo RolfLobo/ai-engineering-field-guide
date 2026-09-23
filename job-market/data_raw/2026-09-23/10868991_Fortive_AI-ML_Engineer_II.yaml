@@ -1,0 +1,133 @@
+job_id: 10868991
+title: AI-ML Engineer II
+company: Fortive
+location: Bengaluru, IND
+locations:
+  - Bengaluru, IND
+  - Bengaluru East, IND
+work_type: FULL_TIME
+company_size: 13,486 Employees
+description: |
+  AI/ML Engineer II
+
+
+
+  3-8 Years Experience
+
+  JOB SUMMARY
+
+  We are seeking a highly capable AI/ML Engineer II to serve
+  as a strong individual contributor within our Artificial
+  Intelligence and Automation team. The ideal candidate has a
+  track record of delivering complex, production-grade Machine
+  Learning and Generative AI systems and can own significant
+  modules end to end with minimal supervision. You will lead
+  the technical design of AI features across LLMs, Agentic AI,
+  Retrieval-Augmented Generation (RAG), MLOps, and Intelligent
+  Automation, and set a high bar for engineering quality.
+
+  You will act as a go-to technical resource on your projects,
+  mentor less-experienced engineers, and collaborate with
+  architects and stakeholders to deliver scalable, reliable AI
+  solutions.
+
+  KEY RESPONSIBILITIES
+
+  - Lead the technical design and delivery of complex ML and
+    Generative AI components, owning them from requirements
+    through production.
+  - Develop, fine-tune, and optimize models and LLM pipelines
+    with strong attention to accuracy, latency, cost, and
+    reliability.
+  - Architect and improve advanced RAG systems, including hybrid
+    retrieval, re-ranking, chunking strategy, and evaluation.
+  - Design and build production Agentic AI and multi-agent
+    workflows with robust tool use, orchestration, and error
+    handling.
+  - Drive engineering quality: establish patterns, conduct
+    thorough code and design reviews, and reduce technical
+    debt.
+  - Build and harden MLOps/LLMOps pipelines — CI/CD, automated
+    evaluation, monitoring, drift detection, and retraining.
+  - Design integrations with enterprise applications, APIs, data
+    platforms, and vector stores at scale.
+  - Define and apply prompt-engineering standards, evaluation
+    frameworks, and guardrails for safe, high-quality LLM
+    systems.
+  - Partner with product and business stakeholders to shape
+    solution scope, estimate effort, and manage delivery risk.
+  - Mentor junior and mid-level engineers, and contribute to
+    reusable frameworks, libraries, and accelerators.
+  - Evaluate emerging models, tools, and techniques and pilot
+    them for practical enterprise use.
+  - Produce high-quality technical documentation, design
+    specifications, and deployment artifacts.
+
+  REQUIRED QUALIFICATIONS
+
+  - Bachelor's or Master's degree in Computer Science,
+    Artificial Intelligence, Data Science, or a related field.
+  - 3-7 years of hands-on experience in AI, Machine Learning, or
+    related software engineering roles, including delivering
+    systems to production.
+  - Advanced Python engineering skills and strong software-
+    design fundamentals.
+  - Deep, practical experience building and optimizing
+    Generative AI and LLM-based applications.
+  - Strong experience with agentic AI frameworks (LangChain,
+    LangGraph, CrewAI, AutoGen) and production RAG
+    architectures.
+  - Solid MLOps experience: CI/CD, model deployment, monitoring,
+    and evaluation.
+  - Proven experience with at least one major cloud platform
+    (Azure, AWS, or Google Cloud), Docker, and containerized
+    deployments.
+  - Demonstrated ability to own complex modules independently
+    and lead technical decisions on a project.
+  - Experience mentoring engineers and driving engineering best
+    practices.
+  - Excellent communication and cross-functional collaboration
+    skills.
+
+  PREFERRED SKILLS
+
+  - Strong proficiency across PyTorch, TensorFlow, Hugging Face,
+    and the broader Python data/ML ecosystem.
+  - Production experience with multiple LLM providers (OpenAI,
+    Anthropic Claude, Azure OpenAI, Gemini) and open-weight
+    models.
+  - Experience with fine-tuning, LoRA/PEFT, and model
+    optimization or serving (vLLM, TGI, Triton).
+  - Advanced experience with vector databases and large-scale
+    retrieval.
+  - Experience with orchestration and workflow tooling such as
+    Kubernetes, Airflow, or Ray.
+  - Experience building LLM evaluation, observability, and
+    guardrail frameworks.
+  - Familiarity with responsible-AI, security, and governance
+    practices.
+  - Open-source contributions, publications, or a strong
+    portfolio of applied AI work.
+
+  WHAT YOU'LL GAIN
+
+  - Technical ownership of complex, high-visibility AI and
+    Automation systems.
+  - A path toward senior and principal technical-leadership
+    roles.
+  - Deep involvement in Agentic AI, LLM, and next-generation AI
+    platform work.
+  - Influence over engineering standards, patterns, and reusable
+    accelerators.
+  - The opportunity to mentor engineers and shape team technical
+    capability.
+industries:
+  - Hardware
+  - Other
+  - Software
+  - Appliances
+  - Industrial
+  - Manufacturing
+posted_date: 2026-08-27
+url: "https://builtin.com/job/ai-ml-engineer-ii/10868991"
+source: Built In

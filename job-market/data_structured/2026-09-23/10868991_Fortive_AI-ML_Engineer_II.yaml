@@ -1,0 +1,61 @@
+company:
+  name: Fortive
+  stage: null
+  focus: Industrial technology and intelligent automation solutions
+position:
+  title: AI-ML Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and shapes LLM behavior directly: RAG
+      architectures, agentic workflows, prompt engineering
+      standards, evaluation frameworks, guardrails, and fine-
+      tuning. LLM/agent components dominate, so it is ai-first.
+  responsibilities:
+  - Lead technical design and delivery of complex ML and Generative AI components
+    from requirements through production
+  - Develop, fine-tune, and optimize models and LLM pipelines balancing accuracy,
+    latency, cost, and reliability
+  - Architect advanced RAG systems including hybrid retrieval, re-ranking, chunking
+    strategy, and evaluation
+  - Build production Agentic AI and multi-agent workflows with tool use, orchestration,
+    and error handling
+  - Build and harden MLOps/LLMOps pipelines including CI/CD, automated evaluation,
+    monitoring, drift detection, and retraining
+  - Define prompt-engineering standards, evaluation frameworks, and guardrails for
+    LLM systems
+  - Design integrations with enterprise applications, APIs, data platforms, and vector
+    stores
+  - Mentor junior and mid-level engineers and contribute to reusable frameworks and
+    accelerators
+  use_cases:
+  - Enterprise Generative AI and LLM applications
+  - RAG-based retrieval and search over enterprise data
+  - Agentic AI and multi-agent workflow automation
+  - Intelligent process automation for enterprise applications
+  - LLM evaluation, monitoring, and guardrails for production safety
+  skills:
+    genai: [LLMs, RAG, AI Agents, Agentic Workflows, Prompt Engineering, LangChain,
+      LangGraph, CrewAI, AutoGen, OpenAI API, Anthropic API, Azure OpenAI, Gemini,
+      LoRA, Guardrails, LLM Evaluation]
+    ml: [PyTorch, TensorFlow, Hugging Face, Fine-Tuning, Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: [Ray]
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, MLOps, LLMOps, Model Deployment, Model Monitoring, Docker, Kubernetes,
+      vLLM, Triton, Airflow]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10868991'
+  location: Bengaluru, IND
+  locations:
+  - Bengaluru, IND
+  - Bengaluru East, IND
+  extracted_at: '2026-09-23T11:03:59.011041'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

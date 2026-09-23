@@ -1,0 +1,53 @@
+company:
+  name: Side
+  stage: null
+  focus: AI-driven insights and recommendation systems
+position:
+  title: AI Quality Engineer (Contract)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role defines AI evaluation criteria, test datasets, and
+      quality metrics, and evaluates LLM/RAG output quality
+      including hallucinations, grounding, and relevance —
+      building evals and judging model output, which is shaping
+      model behavior. The targets are LLMs and RAG systems, so it
+      is ai-first.
+  responsibilities:
+  - Test and validate AI-generated insights, recommendations, and decision-making
+    workflows
+  - Evaluate LLM and RAG systems for accuracy, relevance, consistency, factuality,
+    and hallucinations
+  - Validate retrieval quality, context relevance, grounding, and response quality
+    in RAG systems
+  - Test AI agents and autonomous workflows across functional, negative, and edge-case
+    scenarios
+  - Define AI evaluation criteria, test datasets, quality metrics, and validation
+    processes
+  - Perform regression testing for models, prompts, RAG configurations, and AI workflows
+  - Collaborate with AI/ML engineers to identify issues and improve AI system quality
+  use_cases:
+  - AI-generated insights and recommendations
+  - Decision-making workflows
+  - RAG-based question answering and retrieval quality
+  - AI agents and autonomous workflows
+  - Recommendation systems
+  skills:
+    genai: [LLMs, RAG, AI Agents, Generative AI, LLM Evaluation, Guardrails]
+    ml: [Machine Learning, Model Evaluation]
+    web: [PyTest]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, LangSmith, Monitoring]
+    languages: []
+    domains: []
+    other: [Automated Testing, Performance Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10908846'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:06:17.813278'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

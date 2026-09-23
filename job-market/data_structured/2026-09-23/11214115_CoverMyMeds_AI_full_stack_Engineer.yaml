@@ -1,0 +1,55 @@
+company:
+  name: CoverMyMeds
+  stage: Fortune 10
+  focus: Healthcare products, services, and pharmaceutical solutions
+position:
+  title: AI full stack Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: crafting prompts,
+      maintaining prompt libraries, benchmarking, fine-tuning and
+      serving GPT/Llama models, building RAG, and developing AI
+      agents. LLM/agent components are central, so it is ai-first.
+  responsibilities:
+  - Develop and deliver AI-driven enterprise quality software applications
+  - Build scalable applications integrating LLMs and AI tools (voice recognition,
+    document/image parsing, TTS, RAG) into new and legacy codebases
+  - Design and optimize data pipelines and datasets for AI system development and
+    testing
+  - Craft effective prompts, implement prompt caching, and maintain prompt libraries
+    with performance benchmarks
+  - Fine-tune and serve GPT-family and Llama models
+  - Develop AI agents with Semantic Kernel and prototype copilot experiences and autonomous
+    workflows
+  - Communicate modern AI concepts to non-technical audiences
+  - Collaborate with staff and outside stakeholders on large projects
+  use_cases:
+  - AI-powered healthcare products and services
+  - Voice recognition, document parsing, image parsing, and text-to-speech in enterprise
+    applications
+  - Context-aware LLM applications using RAG and vector databases
+  - Copilot experiences and autonomous AI workflows
+  - Cost-efficient LLM deployment with prompt caching and batching
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, LangChain, LlamaIndex, Semantic Kernel,
+      AI Agents, Fine-Tuning, OpenAI API, Agentic Workflows, GitHub Copilot, Cursor,
+      Codeium]
+    ml: [PyTorch, TensorFlow, Quantization, Model Evaluation]
+    web: [Express.js]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, Docker, Kubernetes, Git]
+    languages: [Python, Node.js]
+    domains: [NLP]
+    other: [DevOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11214115'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:27:53.769619'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

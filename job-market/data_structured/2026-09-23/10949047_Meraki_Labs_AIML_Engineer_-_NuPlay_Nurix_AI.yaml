@@ -1,0 +1,47 @@
+company:
+  name: Meraki Labs
+  stage: null
+  focus: Enterprise conversational AI voice agents
+position:
+  title: AI/ML Engineer - NuPlay (Nurix AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role trains/fine-tunes models, develops Agentic RAG
+      pipelines and LLM orchestration, and builds guardrails and
+      self-learning agents—clearly shaping model behavior.
+      LLM/agent components are central alongside ASR/TTS, so ai-
+      first.
+  responsibilities:
+  - Design, train, and optimize custom ASR/TTS models for multilingual Indian contexts
+  - Build real-time conversational voice agents handling interruptions and natural
+    pauses
+  - Contribute to Voice-to-Voice (V2V) systems using state space models
+  - Develop Agentic RAG pipelines and LLM orchestration for context-aware voice agents
+  - Build self-learning agents that improve from human workflow observation and feedback
+  - Collaborate with MLOps to deploy models in real-time, low-latency production environments
+  use_cases:
+  - Multilingual Indian speech recognition and synthesis
+  - Real-time low-latency voice-to-voice conversational agents
+  - Context-aware agentic voice assistants for enterprises
+  - Autonomous workflow automation for retail, insurance, education, and home services
+  skills:
+    genai: [LLMs, Fine-Tuning, RAG, Agentic Workflows, Guardrails]
+    ml: [ASR, TTS, PyTorch, TensorFlow, JAX, Model Evaluation, Dialogue Systems, State
+        Space Models]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10949047'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:08:48.546827'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

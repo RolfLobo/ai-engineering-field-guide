@@ -1,0 +1,98 @@
+job_id: 10990198
+title: Machine Learning Engineer, Device AI
+company: Apkudo
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Machine Learning Engineer, Device AI
+
+  The Device AI team builds the computer vision and machine
+  learning systems that power automated cosmetic inspection,
+  grading, and quality assessment for devices at scale. As a
+  Machine Learning Engineer, you'll help build and maintain
+  the computer vision and ML pipelines that power our
+  automated inspection systems, working under the guidance of
+  senior engineers on the team. You'll get hands-on experience
+  across the full ML lifecycle — from data exploration and
+  model training through evaluation and production deployment
+  — while growing your skills in a collaborative, production-
+  focused environment.
+
+  What You'll Do
+
+  - Built and maintained components of computer vision and
+    machine learning pipelines for automated visual inspection
+    and quality grading, with guidance from senior team
+    members.
+  - Support model development activities: data exploration and
+    cleaning, feature engineering, model training, and
+    evaluation against defined metrics.
+  - Write clean, well-tested Python code for production systems,
+    following team standards and best practices.
+  - Participate in code review as both a reviewer and reviewee,
+    learning from feedback and building good engineering
+    habits.
+  - Help build and maintain model evaluation and monitoring
+    tooling, and flag performance or data quality issues as
+    they arise.
+  - Work with data labeling and annotation pipelines, helping to
+    improve training data quality under senior guidance.
+  - Collaborate with product and operation partners to
+    understand requirements and translate them into technical
+    tasks.
+  - Document your work clearly, including model experiments,
+    pipeline changes, and design decisions.
+  - Participate in sprint planning, stand-ups, and
+    retrospective, and contribute to estimation for your own
+    work,
+  - Take on increasing ownership over time as you build context
+    on the team’s system and domain.
+
+  What You Bring
+
+  - BS in Computer Science, Data Science, or a related field
+    (equivalent hands-on experience can substitute).
+  - 3-5 years of professional experience as a Machine Learning
+    Engineer, Data Scientist, or in a closely related applied
+    ML role.
+  - Solid Python proficiency, with experience writing production
+    or near-production code (not just research notebooks).
+  - Some hands-on exposure to computer vision, image processing,
+    or applied ML models, including work that reached a
+    production or near-production environment.
+  - Experience with Python image processing libraries, such as
+    OpenCV or PIL. Familiarity with lifecycle concepts and
+    tools in the AWS environment.
+  - Working knowledge of SQL and relational databases
+    (PostGreSQL or equivalent), basic familiarity with cloud
+    infrastructure (AWS or equivalent).
+  - Exposure to ML engineering functions: model evaluation,
+    version control for models/data, and the experimentation-
+    to-production workflow.
+  - Experience with Python image processing libraries, such as
+    OpenCV or PIL.
+  - Working knowledge of SQL and relational databases
+    (PostgreSQL or equivalent); basic familiarity with cloud
+    infrastructure (AWS or equivalent).
+  - Exposure to ML engineering fundamentals: model evaluation,
+    version control for models/data, and the general
+    experimentation-to-production workflow.
+  - Familiarity with Generative AI solutions, agentic systems,
+    and the use of AI in development workflows such as Spec-
+    Driven Development or Intent-Driven Development.
+    Experience with any AI coding tools is a plus.
+  - Some experience working within agile teams (sprint planning,
+    stand-ups, retrospectives).
+  - Good written and verbal communication skills; able to
+    explain your work clearly to teammates.
+  - A collaborative mindset and eagerness to learn from more
+    senior engineers on the team.
+  - Exposure to edge deployment, on-device inference, or
+    hardware-in-the-loop AI systems is a plus, but not
+    required.
+
+  .
+posted_date: 2026-09-02
+url: "https://www.builtinla.com/job/machine-learning-engineer-device-ai/10990198"
+source: Built In

@@ -1,0 +1,57 @@
+company:
+  name: Flosum
+  stage: null
+  focus: Salesforce-native DevOps and data protection platform
+position:
+  title: AI Go-to-Market Engineer (US)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role deploys, trains, and iterates on AI SDR/agent
+      behavior directly — building prompt libraries, training
+      datasets, refinement workflows, and agent orchestration.
+      This is hands-on shaping of LLM/agent output quality, so it
+      is ai-first despite the GTM focus.
+  responsibilities:
+  - Deploy and train AI SDR agents for inbound qualification and outbound prospecting
+    with weekly refinement cycles
+  - Build AI-powered inbound qualification to capture, score, and route leads in real
+    time
+  - Automate CRM hygiene, call summarization, follow-up sequencing, and pipeline updates
+    to increase AE selling time
+  - Architect the AI layer across the GTM stack (Salesforce, Marketo, Outreach, Qualified,
+    Gong) with automated data flows
+  - Build an AI-driven competitive intelligence engine feeding weekly insights to
+    sales and product
+  - Create hyper-personalized multi-channel outbound campaigns at scale using AI research
+    and messaging generation
+  - Instrument closed-loop feedback between BDR activity, pipeline outcomes, and AI
+    agent performance
+  - Deploy AI-assisted customer health scoring and churn prediction models
+  use_cases:
+  - AI SDR agents for inbound lead qualification and outbound prospecting
+  - 'Automated sales admin: call summarization, follow-up sequencing, proposal drafting'
+  - Hyper-personalized multi-channel outbound campaign generation
+  - Competitive intelligence monitoring and structured insights delivery
+  - Customer health scoring and churn prediction for renewals
+  - Conversational website qualification and PLG onboarding assistance
+  skills:
+    genai: [AI Agents, Prompt Engineering, Agentic Workflows]
+    ml: [Churn Prediction, Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Salesforce, Marketo, Outreach, Gong, Qualified, Drift, Salesloft]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11111893'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:19:23.604970'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

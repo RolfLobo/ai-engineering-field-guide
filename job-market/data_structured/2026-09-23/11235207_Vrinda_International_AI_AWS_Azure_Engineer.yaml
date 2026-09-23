@@ -1,0 +1,53 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and cloud/AI solutions staffing
+position:
+  title: AI + AWS + Azure Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds GenAI systems directly: RAG with
+      embeddings and vector search, prompt engineering, AI agents,
+      LLM evaluation and guardrails. These are model-behavior
+      shaping activities on LLMs, so it is ai-first.
+  responsibilities:
+  - Design and build generative AI solutions on AWS and Azure
+  - Develop serverless RAG and event-driven GenAI workflows
+  - Apply prompt engineering and build AI agents using LLMs, embeddings, and vector
+    search
+  - Implement LLM evaluation, observability, and guardrails
+  - Build serverless, event-driven, and distributed cloud architectures
+  - Develop REST APIs in Python using FastAPI or Flask
+  - Manage infrastructure as code, CI/CD pipelines, and MLOps/LLMOps practices
+  - Monitor cloud and AI workloads with observability tooling
+  use_cases:
+  - Serverless RAG pipelines for enterprise knowledge retrieval
+  - Event-driven generative AI workflows in the cloud
+  - AI agents built on AWS Bedrock and Azure OpenAI
+  - LLM applications with evaluation, observability, and guardrails
+  - Production AI workloads on serverless AWS and Azure infrastructure
+  skills:
+    genai: [Generative AI, AWS Bedrock, Azure OpenAI, Azure AI Foundry, LLMs, Embeddings,
+      Vector Search, RAG, Prompt Engineering, AI Agents, LLM Evaluation, Guardrails,
+      Fine-Tuning]
+    ml: [SageMaker, Azure ML, Fine-Tuning]
+    web: [FastAPI, Flask, REST, JSON, OAuth]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, SageMaker, Azure ML, Azure AI Search]
+    ops: [Docker, Kubernetes, Terraform, AWS CDK, AWS SAM, Azure Bicep, CI/CD, GitHub
+        Actions, Azure DevOps, Jenkins, GitLab CI, MLOps, LLMOps, MLflow, CloudWatch,
+      Azure Monitor, Application Insights, OpenTelemetry]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, Serverless Architecture, Event-Driven Architecture, Distributed
+        Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235207'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:30:37.765248'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,305 @@
+job_id: 10727865
+title: Senior Security Engineer, AI Enablement
+company: JLL
+location: Los Angeles, USA
+work_type: FULL_TIME
+description: |
+  JLL empowers you to shape a brighter way.
+
+  Our people at JLL are shaping the future of real estate for
+  a better world by combining world class services, advisory
+  and technology for our clients. We are committed to hiring
+  the best, most talented people and empowering them to
+  thrive, grow meaningful careers and to find a place where
+  they belong.  Whether you’ve got deep experience in
+  commercial real estate, skilled trades or technology, or
+  you’re looking to apply your relevant experience to a new
+  industry, join our team as we help shape a brighter way
+  forward.
+
+  The Senior Security Engineer, AI Enablement is Security's
+  embedded, full-time representative on JLL's Falcon team,
+  owning the product's security architecture for agents, MCP
+  integrations, and identity end-to-end rather than reviewing
+  it after the fact—advancing APEX + 2030's mandate that AI
+  products are built securely by design, not secured after
+  launch. Reporting to the Head of AI Security while sitting
+  day-to-day with Falcon's engineers, this role requires the
+  technical depth to write and review production code,
+  architect agentic identity and permissioning, and represent
+  Falcon's security posture credibly to the broader
+  Cybersecurity organization.
+
+
+
+  KEY RESPONSIBILITIES
+
+
+
+  Embedded Product Security Partnership
+
+  - Sit inside the Falcon team as security's full-time technical
+    representative, participating in planning, design reviews,
+    and sprint work rather than reviewing finished features
+    after the fact.
+
+  - Serve as the primary point of contact between Falcon and the
+    broader Cybersecurity organization—translating security
+    requirements into product decisions the team can act on
+    immediately.
+
+  - Build enough trust and technical credibility with Falcon's
+    engineers that security is treated as a design input, not
+    a release gate.
+
+  Agent, MCP & Identity Architecture
+
+  - Own the security architecture for Falcon's use of agents,
+    MCP servers, and tool integrations, defining permission
+    boundaries, trust boundaries, and blast radius for every
+    agent-to-tool and agent-to-agent interaction.
+
+  - Review and harden the identity model underpinning Falcon's
+    agentic components, including:
+
+  - Service-to-service and agent-to-tool authentication
+
+  - Scoped, least-privilege credentials for every MCP server and
+    tool connection
+
+  - Session and delegation boundaries when agents act on a
+    user's behalf
+
+  - Audit logging sufficient to reconstruct what an agent did
+    and why
+
+  - Design secure patterns for prompt handling, tool-calling,
+    and data flow specific to Falcon's product surface,
+    informed by how the Claude Agent SDK and MCP actually work
+    under the hood.
+
+  - Partner with the Head of AI Security to align Falcon's
+    architecture with enterprise AI security standards without
+    slowing product velocity.
+
+  Product Enablement Ownership
+
+  - Own the security component of Falcon's product enablement
+    work end-to-end, from threat modeling new features to
+    defining the guardrails that ship with them.
+
+  - Write and maintain the security requirements, configuration
+    standards, and secure-by-default patterns that Falcon's
+    engineers build against, rather than producing a review
+    checklist after the fact.
+
+  - Define what "secure enough to ship" means for each Falcon
+    release—balancing genuine risk against the team's delivery
+    timeline.
+
+  Cross-Functional Technical Input
+
+  - Represent Falcon's security posture and roadmap to the
+    broader Cybersecurity organization, including the Head of
+    AI Security and other AI Security team members.
+
+  - Provide deep technical input into cross-functional security
+    discussions, including third-party risk assessments and
+    enterprise AI governance decisions where Falcon's
+    architecture is relevant.
+
+  - Collaborate with identity, cloud security, and application
+    security teams to ensure Falcon's agentic components meet
+    the same bar as any other production system.
+
+  Software Engineering Craft & Technical Depth
+
+  - Write and review code directly, contributing to Falcon's
+    codebase where security-critical components such as auth,
+    permissioning, and agent orchestration are involved,
+    rather than advising from the sidelines.
+
+  - Maintain hands-on fluency with the Claude Agent SDK, MCP,
+    and modern identity protocols, including OAuth, OIDC, and
+    workload identity standards, as Falcon's architecture
+    evolves.
+
+  - Stay current on agentic security research and real-world
+    incidents—bringing relevant lessons back to Falcon before
+    they become the team's problem.
+
+
+
+  REQUIRED QUALIFICATIONS
+
+
+
+  - 6+ years of security engineering experience, including
+    meaningful time embedded directly within a software
+    product or engineering team rather than in a purely
+    advisory security function.
+
+  - Strong software engineering skills, with the fluency to
+    read, write, and review production code alongside the
+    engineers you're partnered with.
+
+  - Hands-on experience with agentic AI architectures, including
+    MCP servers, tool-calling, and the Claude Agent SDK or a
+    comparable agent framework.
+
+  - Deep working knowledge of identity and access concepts,
+    including OAuth/OIDC, service-to-service authentication,
+    and least-privilege credential design for both human and
+    non-human identities.
+
+  - Demonstrated ability to operate as a technical peer to
+    software engineers, not just a reviewer, earning influence
+    through credibility rather than process authority.
+
+  - Excellent cross-functional communication skills—able to
+    represent a single product team's architecture accurately
+    to the broader security organization and vice versa.
+
+
+
+  PREFERRED QUALIFICATIONS
+
+
+
+  - Bachelor's degree in Computer Science, Engineering, or a
+    related field, or equivalent practical experience.
+
+  - Prior experience as an embedded or product security engineer
+    within an agile product team.
+
+  - Direct experience securing multi-agent systems, RAG
+    pipelines, or MCP-based tool integrations in production.
+
+  - Familiarity with the OWASP LLM Top 10, MITRE ATLAS, or
+    comparable agentic and AI threat frameworks.
+
+  - Experience with workload identity frameworks, such as
+    SPIFFE/SPIRE, or modern non-human identity management.
+
+  - Certifications such as CISSP, OSCP, or GIAC credentials
+    focused on application or cloud security.
+
+  This position does not provide visa sponsorship. Candidates
+  must be authorized to work in the United States without
+  sponsorship.
+
+  Expected compensation for this position:
+
+  200,000.00 – 225,000.00 USD per year
+
+  Final compensation packages are determined by various
+  considerations including but not limited to candidate
+  qualifications, location, market conditions, and internal
+  considerations.
+
+  Location:
+
+  Remote –Austin, TX, Chicago, IL, Houston, TX, Los Angeles,
+  CA, New York, NY, San Francisco, CA, Seattle, WA
+
+  If this job description resonates with you, we encourage you
+  to apply, even if you don’t meet all the requirements.
+  We’re interested in getting to know you and what you bring
+  to the table!
+
+  Personalized benefits that support personal well-being and
+  growth:
+
+  JLL recognizes the impact that the workplace can have on
+  your wellness, so we offer a supportive culture and
+  comprehensive benefits package that prioritizes mental,
+  physical and emotional health. Some of these benefits
+  include:
+
+  - 401(k) plan with matching company contributions
+  - Comprehensive Medical, Dental & Vision Care
+  - Paid parental leave at 100% of salary
+  - Paid Time Off and Company Holidays
+  - Early access to earned wages through Daily Pay
+
+  At JLL, we harness the power of artificial intelligence (AI)
+  to efficiently accelerate meaningful connections between
+  candidates and opportunities. Using AI capabilities, we
+  analyze your application for relevant skills, experiences,
+  and qualifications to generate valuable insights about how
+  your unique profile aligns with the specific requirements of
+  the role you're pursuing.
+
+  JLL Privacy Notice
+
+  Jones Lang LaSalle (JLL), together with its subsidiaries and
+  affiliates, is a leading global provider of real estate and
+  investment management services. We take our responsibility
+  to protect the personal information provided to us
+  seriously. Generally the personal information we collect
+  from you are for the purposes of processing in connection
+  with JLL’s recruitment process. We endeavour to keep your
+  personal information secure with appropriate level of
+  security and keep for as long as we need it for legitimate
+  business or legal reasons. We will then delete it safely and
+  securely.
+
+  For more information about how JLL processes your personal
+  data, please view our Candidate Privacy Statement.
+
+  For additional details please see our career site pages for
+  each country.
+
+  For candidates in the United States, please see a full copy
+  of our Equal Employment Opportunity policy here.
+
+  Jones Lang LaSalle (“JLL”) is an Equal Opportunity Employer
+  and is committed to working with and providing reasonable
+  accommodations to individuals with disabilities.  If you
+  need a reasonable accommodation because of a disability for
+  any part of the employment process – including the online
+  application and/or overall selection process – you may email
+  us at HRSCLeaves@jll.com. This email is only to request an
+  accommodation. Please direct any other general recruiting
+  inquiries to our Contact Us page > I want to work for JLL.
+
+  Pursuant to the Arizona Civil Rights Act, criminal
+  convictions are not an absolute bar to employment.
+
+  Pursuant to Illinois Law, applicants are not obligated to
+  disclose sealed or expunged records of conviction or arrest.
+
+  Pursuant to Columbia, SC ordinance, this position is subject
+  to a background check for any convictions directly related
+  to its duties and responsibilities. Only job-related
+  convictions will be considered and will not automatically
+  disqualify the candidate.
+
+  California Residents only
+
+  If you are a California resident as defined in the
+  California Consumer Privacy Act (CCPA) please view our
+  Supplemental Privacy Statement which describes your rights
+  and disclosures about your personal information. If you are
+  viewing this on a mobile device you may want to view the
+  CCPA version on a larger device.
+
+  Pursuant to the Los Angeles Fair Chance Initiative for
+  Hiring Ordinance, JLL will consider for employment all
+  qualified Applicants, including those with Criminal
+  Histories, in a manner consistent with the requirements of
+  applicable state and local laws, including the City of Los
+  Angeles’ Fair Chance Initiative for Hiring Ordinance.
+
+  Pursuant to the San Francisco Fair Chance Ordinance, we will
+  consider for employment qualified applicants with arrest and
+  conviction records.
+
+  Accepting applications on an ongoing basis until candidate
+  identified.
+industries:
+  - Real Estate
+  - Financial Services
+posted_date: 2026-09-18
+url: "https://www.builtinla.com/job/senior-security-engineer-ai-enablement/10727865"
+source: Built In

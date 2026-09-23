@@ -1,0 +1,57 @@
+company:
+  name: Wayve
+  stage: null
+  focus: Embodied AI foundation models for autonomous driving
+position:
+  title: Platform Engineer, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer builds guardrails, governance/safety controls,
+      and reusable agent platform primitives themselves, and
+      contributes standards for designing and deploying agents —
+      that is shaping model behaviour and agent flows, not merely
+      serving an API someone else designed. LLM/agent components
+      are central, so ai-first.
+  responsibilities:
+  - Design, build, and operate infrastructure for safe and cost-effective access to
+    AI models and tools
+  - Build the runtime, services, and developer tooling used to run agentic workflows
+    in production
+  - Create observability across cost, performance, reliability, and usage via metrics,
+    tracing, and logging
+  - Implement governance and safety controls making AI use secure, compliant, and
+    auditable
+  - Develop reusable platform primitives, integrations, and guardrails that reduce
+    one-off solutions
+  - Contribute to standards and best practices for designing, building, and deploying
+    agents
+  - Automate infrastructure and deployment processes to keep the platform reliable
+    and scalable
+  - Partner with Security, IT, and engineering teams and help teams adopt the platform;
+    participate in on-call rotation
+  use_cases:
+  - Governed internal access layer for LLMs and AI agents
+  - Secure production environment for agentic workflows
+  - Cost, performance, and usage observability for AI platform usage
+  - Governance and safety controls for responsible AI use across the company
+  - Reusable patterns and primitives for building and deploying AI agents
+  skills:
+    genai: [LLMs, MCP, Agentic Workflows, RAG, Guardrails]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [Kubernetes, Infrastructure as Code, Observability, Distributed Systems]
+    languages: []
+    domains: []
+    other: [Authentication, Authorization, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11078014'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:18:09.350299'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

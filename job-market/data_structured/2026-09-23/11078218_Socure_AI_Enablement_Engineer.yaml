@@ -1,0 +1,62 @@
+company:
+  name: Socure
+  stage: null
+  focus: Identity verification and fraud prevention infrastructure
+position:
+  title: AI Enablement Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role drives adoption of AI coding tools, standards, and
+      workflows (AIDLC) across engineering — the deliverable is
+      developer workflow and enablement, not shaping any model's
+      behavior. It creates prompt templates for internal content
+      generation, not as a product, so it falls under the AI
+      coding-tool rollout edge case: ai-support.
+  responsibilities:
+  - Serve as primary enablement partner for AI foundations, standards, and framework
+    adoption across engineering
+  - Evangelize AI tooling patterns, standards, and best practices defined by engineering
+    leaders and working groups
+  - Drive the organization toward a standardized AI Development Lifecycle (AIDLC)
+    with explicit workflows and quality bars
+  - Build structured feedback loops with engineers to identify adoption blockers and
+    channel improvements back to standards owners
+  - Create lightweight, high-frequency enablement content such as bite-size recordings,
+    guides, checklists, and templates
+  - Define dashboards and metrics tracking AIDLC adoption, AI tool usage, and productivity
+    impact
+  - Support engineering onboarding by introducing new engineers to approved AI tools
+    and standard workflows
+  - Use AI tools to rapidly convert notes, docs, and meeting recordings into reusable
+    enablement assets
+  use_cases:
+  - Enterprise-wide adoption of AI coding tools and copilots in engineering workflows
+  - Standardized AI Development Lifecycle (AIDLC) across an engineering organization
+  - Reusable prompt libraries and AI-assisted content-generation workflows for enablement
+  - Adoption metrics and dashboards measuring AI tool usage and productivity impact
+  - Engineer onboarding to approved AI tools and standard agent/copilot workflows
+  skills:
+    genai: [Prompt Engineering, AI Agents, ChatGPT, Claude Code, Cursor]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Developer Productivity, Technical Enablement, Notion, Confluence, Slack,
+      Jira, Glean, Gamma, Knowledge Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11078218'
+  location: Seattle, USA
+  locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:17:45.624820'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

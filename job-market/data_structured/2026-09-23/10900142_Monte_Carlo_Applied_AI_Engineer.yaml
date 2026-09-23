@@ -1,0 +1,51 @@
+company:
+  name: Monte Carlo
+  stage: Series D, $236M raised
+  focus: Agent trust platform for data and AI observability
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agent-powered features (agent
+      flows, tool use, autonomy loops), builds eval infrastructure
+      (golden datasets, regression suites, scoring), owns
+      retrieval/context pipelines, and sets guardrails and LLM
+      patterns. This is direct shaping of LLM/agent behaviour, so
+      it is ai-first.
+  responsibilities:
+  - Take open problems end-to-end from research and prototyping through production
+  - Design and ship agent-powered features like root-cause analysis, incident triage,
+    and monitor generation
+  - Build eval infrastructure including golden datasets, regression suites, and offline/online
+    scoring
+  - Own retrieval and context pipelines over customer metadata, lineage, and query
+    history
+  - Instrument agent behavior in production with traces, failure taxonomies, and cost/latency
+    budgets
+  - Set the technical bar for LLM engineering patterns, guardrails, and internal tooling
+  use_cases:
+  - Agent observability and reliability monitoring for production AI systems
+  - Root-cause analysis and incident triage powered by agents
+  - Automatic monitor generation for data and AI pipelines
+  - Retrieval over customer metadata, lineage, and query history
+  skills:
+    genai: [AI Agents, RAG, LLM Evaluation, Guardrails, MCP]
+    ml: [Model Evaluation]
+    web: []
+    databases: [Snowflake]
+    data: [Databricks, dbt, Airflow]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10900142'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:05:46.569867'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

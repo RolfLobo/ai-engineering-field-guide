@@ -1,0 +1,56 @@
+company:
+  name: Helmerich & Payne, Inc.
+  stage: null
+  focus: Drilling and oilfield services technology
+position:
+  title: 'India: AI Engineer'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG pipelines, LLM-powered
+      agents, and applies prompt engineering and agent
+      orchestration frameworks, directly shaping LLM behavior and
+      output quality. It also involves classical ML/NLP, but LLM
+      components make it ai-first.
+  responsibilities:
+  - Design, develop, and implement advanced machine learning models and algorithms
+    to solve complex business problems
+  - Utilize NLP and NLU techniques to extract insights, classify, and process information
+    from unstructured text data in documents
+  - Design, build, and deploy agentic AI and GenAI applications, including RAG pipelines
+    and LLM-powered agents, to automate workflows
+  - Build and maintain full-stack applications (front-end and back-end) that deliver
+    AI/ML and GenAI capabilities to end users
+  - Conduct data analysis, pre-processing, and modeling to drive data-driven decision-making
+  - Implement MLOps practices for development, deployment, and management of AI/ML
+    models
+  - Collaborate with cross-functional teams to translate business requirements into
+    AI/ML solutions
+  - Communicate findings, recommendations, and project progress to stakeholders
+  use_cases:
+  - Intelligent document processing and information extraction from unstructured text
+  - LLM-powered agents and RAG systems to automate workflows
+  - Data-driven decision-making and advanced analytics for business problems
+  - Full-stack applications delivering AI/ML and GenAI capabilities to end users
+  skills:
+    genai: [AI Agents, Generative AI, LLMs, Agentic Workflows, LangChain, LlamaIndex,
+      Semantic Kernel, LangGraph, AutoGen, CrewAI, Prompt Engineering, RAG]
+    ml: [Machine Learning, Deep Learning, CNNs, Transformers, NLTK, spaCy, TensorFlow,
+      PyTorch, scikit-learn, Feature Engineering, Model Evaluation]
+    web: [Full-Stack Development, React, HTML, CSS, FastAPI, Flask, Django, REST APIs,
+      GraphQL]
+    databases: [SQL, NoSQL, Vector Databases, FAISS, Pinecone, Azure AI Search]
+    data: []
+    cloud: [Azure]
+    ops: [MLOps]
+    languages: [Python, JavaScript, TypeScript]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10050514'
+  location: Taleigao, IND
+  extracted_at: '2026-09-23T10:57:39.749130'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

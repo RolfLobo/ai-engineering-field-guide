@@ -1,0 +1,49 @@
+company:
+  name: NAVINYAA SOLUTIONS PRIVATE LIMITED
+  stage: null
+  focus: Maternal-care healthcare platform with clinical data
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimizes multi-agent LLM workflows,
+      orchestrates enterprise LLM APIs, and builds LLM eval
+      frameworks for output quality — clearly shaping LLM
+      behavior. There is also classical ML pattern recognition,
+      but LLM involvement makes it ai-first.
+  responsibilities:
+  - Design, build, and optimize multi-agent LLM workflows using TypeScript/Node.js
+  - Develop Python ML pipelines to detect anomalies and risk indicators in an 11K+
+    clinical escalation corpus
+  - 'Maintain and mature three agents: billing reconciliation/payer eligibility, navigation
+    automation, and clinical pattern recognition'
+  - Integrate structured and unstructured data via Snowflake (Snowpark/Python APIs)
+    with HIPAA compliance
+  - Establish evaluation frameworks for LLM outputs to ensure clinical safety and
+    mitigate hallucinations
+  use_cases:
+  - Automated billing reconciliation and payer eligibility checks (Agent 1)
+  - Healthcare navigation automation (Agent 2)
+  - Clinical pattern recognition and anomaly detection in escalation data (Agent 3)
+  - Triage recommendation quality and hallucination mitigation for maternal care
+  skills:
+    genai: [LLMs, Agentic Workflows, Multi-Agent Systems, LangChain, LlamaIndex, LangGraph,
+      Embeddings, LLM Evaluation]
+    ml: [Machine Learning, Anomaly Detection]
+    web: []
+    databases: [Vector Databases, Snowflake]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript, Node.js]
+    domains: [NLP]
+    other: [Snowpark, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11232362'
+  location: Doddaballapura, IND
+  extracted_at: '2026-09-23T11:29:32.147501'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

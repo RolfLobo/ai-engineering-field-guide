@@ -1,0 +1,52 @@
+company:
+  name: Clifford Chance
+  stage: null
+  focus: Global law firm with legal technology solutions
+position:
+  title: AI Engineer (Manager level)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and improves the firm's generative AI
+      solutions and LLM-driven applications, configuring Azure
+      OpenAI models and monitoring/improving NLU model
+      performance, which shapes model output quality with LLM
+      components. Hence ai-first.
+  responsibilities:
+  - Develop generative AI and NLP applications for internal organisational and service-based
+    use
+  - Monitor and improve the performance of Natural Language Understanding (NLU) models
+  - Lead a range of data analytics efforts within the Data & Analytics, AI team
+  - Develop products as on-premises and cloud-based applications in Python aligned
+    to enterprise architecture
+  - Collaborate on architectural designs and documentation for on-premises and cloud
+    applications
+  - Apply Agile and DevOps practices to ensure maintainable and scalable delivery
+  - Identify emerging technologies relevant to the Data Science Lab and Legal Technology
+    Solutions
+  - Contribute to the execution of data science use cases
+  use_cases:
+  - Generative AI solutions for a global law firm
+  - Natural language understanding of legal and business documents
+  - Document intelligence and intelligent search over legal content
+  - Data science and analytics use cases for legal technology solutions
+  - Internal applications delivered on-premises and in the cloud
+  skills:
+    genai: [LLMs]
+    ml: [Deep Learning, Machine Learning]
+    web: []
+    databases: [Vector Search, Cognitive Search]
+    data: [Databricks, Spark]
+    cloud: [Azure AI Services, Azure Document Intelligence, Azure OpenAI]
+    ops: [Azure CI/CD, DevOps]
+    languages: [Python]
+    domains: [NLP]
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11177256'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:23:43.074695'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

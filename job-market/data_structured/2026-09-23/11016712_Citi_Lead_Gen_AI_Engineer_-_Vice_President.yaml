@@ -1,0 +1,59 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global bank's enterprise Controls Technology platform
+position:
+  title: Lead Gen AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role centers on shaping LLM/agent behavior: context
+      engineering, prompt engineering, RAG, knowledge graphs/Graph
+      RAG, multi-agent orchestration with ADK/LangGraph, and agent
+      guardrails/harnesses. Explicitly not training/fine-tuning,
+      but shaping LLM output quality makes it ai-first.
+  responsibilities:
+  - Design and implement generative and agentic AI solutions for enterprise Controls
+    Technology
+  - Architect context engineering strategies (layering, compression, memory management)
+    for reliability and token efficiency
+  - Build and optimize RAG systems including hybrid search, multi-vector retrieval,
+    and re-ranking pipelines
+  - Design knowledge graphs and Graph RAG architectures for multi-hop reasoning and
+    grounded responses
+  - Architect agentic workflows and multi-agent systems using Google ADK, LangGraph,
+    CrewAI, and similar frameworks
+  - Integrate agents with tools and data via MCP and orchestrate inter-agent collaboration
+    via A2A
+  - Deploy GenAI applications to production with observability, scalability, and compliance
+    guardrails
+  - Mentor junior team members and contribute code reviews
+  use_cases:
+  - Enterprise automation and operational efficiency via agentic AI
+  - Grounded, traceable responses for high-value business domains using Graph RAG
+  - Multi-hop reasoning over enterprise knowledge with relationship-aware retrieval
+  - Reliable long-running agent systems with governance and sandboxing
+  - Real-time and streaming AI solutions for a bank's Controls Technology platform
+  skills:
+    genai: [LLMs, Context Engineering, Prompt Engineering, RAG, Graph RAG, Agentic
+        Workflows, Multi-Agent Systems, Google ADK, LangGraph, CrewAI, Microsoft Agent
+        Framework, OpenAI Agents SDK, MCP, Agent2Agent Protocol, Function Calling,
+      Embeddings, OpenAI API, Gemini, Anthropic API, LangChain, LlamaIndex, Guardrails,
+      Fine-Tuning]
+    ml: [NLP, Responsible AI]
+    web: [APIs]
+    databases: [Knowledge Graphs, Neo4j, ArangoDB, Vector Databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, OpenTelemetry]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11016712'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:13:09.149134'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

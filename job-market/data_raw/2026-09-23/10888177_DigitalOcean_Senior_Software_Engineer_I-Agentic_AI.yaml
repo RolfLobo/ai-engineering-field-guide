@@ -1,0 +1,139 @@
+job_id: 10888177
+title: Senior Software Engineer I-Agentic AI
+company: DigitalOcean
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 1,400 Employees
+description: |
+  Dive in and do the best work of your career at DigitalOcean.
+  Journey alongside a strong community of top talent who are
+  relentless in their drive to build the simplest scalable
+  cloud. If you have a growth mindset, naturally like to think
+  big and bold, and are energized by the fast-paced
+  environment of a true industry disruptor, you’ll find your
+  place here.  We value winning together—while learning,
+  having fun, and making a profound difference for the
+  dreamers and builders in the world.
+
+  About the Role
+
+  DigitalOcean's Agentic AI organisation provides a powerful
+  inference cloud, Managed Agents, and robust Feedback systems
+  that enable customers to run AI inference confidently at
+  scale. We are looking for a Senior Software Engineer I to
+  join our Feedback Systems team. This team is responsible for
+  building the scalable backend infrastructure that tests and
+  evaluates AI agents safely and reliably.
+
+  In this role, you will help design and develop high-
+  throughput backend systems that orchestrate complex
+  execution workflows, interface with isolated execution
+  environments, and process evaluation signals. You will work
+  on solving distributed systems problems at the intersection
+  of infrastructure orchestration and asynchronous data flows,
+  ensuring our platforms are robust, scalable, and highly
+  available.
+
+  What You'll Do:
+
+  - Designing, building, and maintaining robust backend services
+    and highly concurrent asynchronous workflows, primarily in
+    Python and Go.
+  - Integrating backend control planes with isolated, secure
+    execution environments to safely run agents and capture
+    execution artifacts.
+  - Building and operating scalable APIs (gRPC, REST) to serve
+    as the connective tissue across data pipelines, evaluation
+    engines, and internal platforms.
+  - Collaborating closely with cross-functional teams to ensure
+    infrastructure reliably supports complex evaluation
+    scenarios and outcome metrics.
+  - Driving engineering best practices, including code reviews,
+    comprehensive testing, and technical design documentation.
+  - Monitoring system performance, investigating bottlenecks,
+    and ensuring high reliability of orchestration systems.
+
+  What You’ll Add to DigitalOcean:
+
+  - 5+ years of software engineering experience building highly
+    concurrent, fault-tolerant distributed systems.
+  - Deep proficiency in Python and Go (or strong experience in
+    C++/Java with a willingness to master Python and Go
+    quickly).
+  - Hands-on experience with durable workflow orchestration
+    engines for managing distributed state and long-running
+    asynchronous tasks.
+  - Strong working knowledge of containerization,
+    virtualization, or secure workload isolation technologies
+    (e.g., Docker, Kubernetes, or microVMs).
+  - Experience building resilient APIs and handling high-
+    throughput event or message data.
+  - A strong sense of ownership, excellent communication skills,
+    and the ability to work effectively in a globally
+    distributed team.
+  - AI/ML Ecosystem Awareness: While you do not need to be an ML
+    researcher, you possess a strong foundational
+    understanding of interacting with LLM APIs, prompt
+    constraints, and the unique architectural challenges of
+    testing non-deterministic systems.
+
+  This is a hybrid role based out of Hyderabad, India.
+
+  JR: 2026-7988
+
+  #LI-Hybrid
+
+  Why You’ll Like Working for DigitalOcean
+
+  - We innovate with purpose. You’ll be a part of a cutting-edge
+    technology company with an upward trajectory, who are
+    proud to simplify cloud and AI so builders can spend more
+    time creating software that changes the world. As a member
+    of the team, you will be a Shark who thinks big, bold, and
+    scrappy, like an owner with a bias for action and a
+    powerful sense of responsibility for customers, products,
+    employees, and decisions.
+  - We prioritize career development. At DO, you’ll do the best
+    work of your career. You will work with some of the
+    smartest and most interesting people in the industry. We
+    are a high-performance organization that will always
+    challenge you to think big. Our organizational development
+    team will provide you with resources to ensure you keep
+    growing. We provide employees with reimbursement for
+    relevant conferences, training, and education. All
+    employees have access to LinkedIn Learning's 10,000+
+    courses to support their continued growth and development.
+  - We care about your well-being. Regardless of your location,
+    we will provide you with a competitive array of benefits
+    to support you from our Employee Assistance Program to
+    Local Employee Meetups to flexible time off policy, to
+    name a few. While the philosophy around our benefits is
+    the same worldwide, specific benefits may vary based on
+    local regulations and preferences.
+  - We reward our employees. The salary range for this position
+    is based on market data, relevant years of experience, and
+    skills. You may qualify for a bonus in addition to base
+    salary; bonus amounts are determined based on company and
+    individual performance. We also provide equity
+    compensation to eligible employees, including equity
+    grants upon hire and the option to participate in our
+    Employee Stock Purchase Program.
+  - DigitalOcean is an equal-opportunity employer. We do not
+    discriminate on the basis of race, religion, color,
+    ancestry, national origin, caste, sex, sexual orientation,
+    gender, gender identity or expression, age, disability,
+    medical condition, pregnancy, genetic makeup, marital
+    status, or military service.
+
+  Application Limit: You may apply to a maximum of 3 positions
+  within any 180-day period. This policy promotes better role-
+  candidate matching and encourages thoughtful applications
+  where your qualifications align most strongly.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-08-27
+url: "https://builtin.com/job/senior-software-engineer-i-agentic-ai/10888177"
+source: Built In

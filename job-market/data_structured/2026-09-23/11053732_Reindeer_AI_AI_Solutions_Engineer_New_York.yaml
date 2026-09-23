@@ -1,0 +1,53 @@
+company:
+  name: Reindeer AI
+  stage: well-funded, early-stage startup
+  focus: Agentic AI platform for enterprise workflow automation
+position:
+  title: AI Solutions Engineer (New York)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role configures and integrates AI components into
+      tailored agentic workflows for enterprise customers,
+      directly shaping how the AI agents behave in production
+      business environments — similar to a Forward Deployed
+      Engineer. The platform is LLM/agent-based, so this is ai-
+      first.
+  responsibilities:
+  - Engage with customers post-close to understand workflows, operational processes,
+    and deployment requirements
+  - Translate business findings into clear implementation plans for AI-powered solutions
+  - Assess customer data readiness and gather inputs for AI workflows
+  - Configure and integrate AI components into tailored AI-driven workflows
+  - Own end-to-end solution deployment and ensure models meet performance and business
+    value expectations
+  - Lead integrations with enterprise systems (Finance, ERP, email platforms) ensuring
+    scalability and security
+  - Guide customers through security, compliance, and IT approval processes
+  - Define success metrics and drive adoption and expansion post-launch
+  use_cases:
+  - Enterprise workflow transformation into AI-powered operations
+  - Deployment of AI agents into real business environments
+  - Integration of agentic AI with enterprise systems such as Finance, ERP, and email
+    platforms
+  - Post-sale deployment, adoption, and expansion of AI-driven enterprise solutions
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Deployments]
+    ops: []
+    languages: []
+    domains: []
+    other: [Enterprise System Integration, Process Mining, Workflow Mapping, Operational
+        Analytics]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11053732'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:15:17.653797'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

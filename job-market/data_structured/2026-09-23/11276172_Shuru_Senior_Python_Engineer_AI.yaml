@@ -1,0 +1,52 @@
+company:
+  name: Shuru
+  stage: null
+  focus: 'B2B IT services: custom software, CRM, cloud transformation'
+position:
+  title: Senior Python Engineer  (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and integrates AI agents and agent
+      orchestration frameworks using AWS AI services, and
+      establishes foundational AI agent capabilities — designing
+      agent flows is shaping model behavior. There's an LLM/agent
+      component (AWS Bedrock, AgentCore), so it's ai-first.
+  responsibilities:
+  - Design, develop, and maintain scalable cloud-based applications using AWS services
+  - Build and integrate AI/ML-powered features and agents into applications using
+    AWS AI services
+  - Establish foundational capabilities for AI agents and scalable agent orchestration
+    frameworks
+  - Use AI-assisted development tools (AWS Kiro, GitHub Copilot) to accelerate delivery
+    and improve code quality
+  - Implement best practices for cloud architecture, security, and performance
+  - Automate deployment, monitoring, and management of cloud applications
+  - Contribute to front-end and back-end development as a full-stack engineer
+  - Mentor and guide junior engineers
+  use_cases:
+  - AI agents integrated into business applications
+  - Personalization and recommendation features
+  - NLP capabilities in applications
+  - Agent orchestration at scale
+  - AI-assisted software development across the engineering organization
+  skills:
+    genai: [AI Agents, Agentic Workflows, GitHub Copilot, Claude Code, NLP]
+    ml: [Machine Learning]
+    web: [Full-Stack Development]
+    databases: [Relational Databases]
+    data: []
+    cloud: [AWS, AWS Lambda, AWS S3, AWS Bedrock, SageMaker]
+    ops: [Docker, Kubernetes, CI/CD, Jenkins, GitLab CI, CloudFormation, Infrastructure
+        as Code, DevOps, Monitoring, Distributed Systems]
+    languages: [Python, Java, Node.js]
+    domains: []
+    other: [ROSA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11276172'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:34:17.165485'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

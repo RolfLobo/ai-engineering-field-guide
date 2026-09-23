@@ -1,0 +1,51 @@
+company:
+  name: Inviso Corporation
+  stage: null
+  focus: IT consulting and Microsoft partner services
+position:
+  title: FDE Applied AI Engineer - USA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent runtimes, model routing, RAG, tool
+      calling, guardrails, and evaluation for LLM-based systems,
+      directly shaping model behavior and output quality. As an
+      FDE-style client-facing consultant adapting AI solutions, it
+      is ai-first.
+  responsibilities:
+  - Build and operate production AI capabilities across an enterprise platform
+  - Design agent runtimes, orchestration, model routing, and tool/function calling
+  - Implement RAG, grounding, retrieval quality, and context management
+  - Build evaluation harnesses, golden sets, regression checks, and quality gates
+  - Implement guardrails and safety controls for AI systems
+  - Monitor production AI behavior, cost, latency, and reliability
+  - Partner with client product and engineering teams to identify where AI creates
+    value
+  use_cases:
+  - Production AI capabilities for enterprise operational workflows
+  - Agent runtimes with tool calling and orchestration
+  - Grounded retrieval (RAG) for reliable answers
+  - AI quality, safety, and cost-aware production monitoring
+  - Semantic knowledge management with ontologies and knowledge graphs
+  skills:
+    databases: [Knowledge Graphs]
+    domains: []
+    data: []
+    web: []
+    ml: [LLMs, Distillation, Machine Learning]
+    ops: []
+    other: [Model Routing]
+    cloud: []
+    languages: []
+    genai: [RAG, Agentic Workflows, Function Calling, Guardrails, Prompt Engineering,
+      Fine-Tuning, MCP, Multi-Agent Systems, LLM Evaluation, Anthropic API, OpenAI
+        API, Azure OpenAI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10971473'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:10:18.135153'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

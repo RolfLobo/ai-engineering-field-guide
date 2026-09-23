@@ -1,0 +1,78 @@
+job_id: 11005633
+title: AI Engineer (Applied LLM Systems)
+company: Discernis
+location: New York, USA
+work_type: FULL_TIME
+company_size: 7 Employees
+description: |
+  AI Engineer (Applied LLM Systems)
+
+  About Discernis Discernis builds AI driven document
+  intelligence for high stakes legal work. Because our
+  customers handle privileged and regulated matters that most
+  cloud AI cannot touch, we run on premises and in customer
+  controlled environments as well as in the cloud. That makes
+  security, reliability, and reproducibility core product
+  features, not afterthoughts. We work with AmLaw firms and
+  enterprise legal teams where accuracy, explainability, and
+  data control are non negotiable.
+
+  The Role You will lead the design and evolution of the AI
+  systems at the core of our product. Day to day, that means
+  inventing new AI powered workflows that help legal teams
+  understand massive document sets, then making them faster
+  and more reliable, and building the evaluations that tell us
+  we are getting it right. You will reach for whatever
+  technique fits the problem, prompt engineering, agentic
+  orchestration, retrieval, or post-training, and because our
+  customers often cannot send data to external providers, much
+  of this runs on models we host and improve ourselves.
+
+  What You Will Do
+
+  - Design and build new AI powered workflows that solve real
+    problems for legal teams, using whatever gets the best
+    result: agentic and multi step orchestration, prompt
+    engineering, retrieval, and post-training
+  - Improve the quality, reliability, latency, and cost of
+    existing workflows using that same full toolkit
+  - Own and develop our evaluation and benchmarking frameworks
+    so we can measure and improve quality, catch regressions,
+    and know we are moving in the right direction
+  - Design agentic patterns and structured outputs robust enough
+    for complex legal and investigative use cases
+  - Own self hosted model serving and inference optimization
+    across customer deployments
+  - Post-train and adapt models where that is the right lever,
+    including fine tuning, preference optimization, and domain
+    adaptation
+
+  What You Bring
+
+  - Experience building production LLM or ML powered features
+    end to end, with the judgment to know which technique fits
+    which problem
+  - Hands on experience with agentic or multi step LLM
+    orchestration and tool use
+  - Breadth across the modern LLM toolkit: prompt engineering
+    and retrieval, and ideally post-training methods such as
+    fine tuning, DPO, or RLHF
+  - Experience designing and running evaluations for LLM systems
+  - Hands on experience with self hosted model serving such as
+    vLLM, TGI, or similar
+  - Strong Python skills and comfort with concurrent or
+    distributed processing
+  - Bonus: embedding and vector search pipelines, or retrieval
+    augmented generation at scale
+  - Bonus: background in legal tech, document intelligence, or
+    information retrieval
+
+  Tech Environment Python, self hosted inference (vLLM), LLM
+  orchestration and agent frameworks, evaluation tooling.
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Software
+posted_date: 2026-09-13
+url: "https://builtin.com/job/ai-engineer-applied-llm-systems/11005633"
+source: Built In

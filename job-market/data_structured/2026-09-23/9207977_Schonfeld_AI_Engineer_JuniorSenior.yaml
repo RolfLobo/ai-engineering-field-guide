@@ -1,0 +1,52 @@
+company:
+  name: Schonfeld
+  stage: null
+  focus: Global multi-manager hedge fund with proprietary technology
+position:
+  title: AI Engineer (Junior/Senior)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds the firm's agent framework, MCP
+      servers/gateway estate, and evaluation and observability
+      tooling that makes agents testable and safe to release —
+      directly shaping agent behaviour and release quality, an
+      LLM/agent component. It is platform engineering on the
+      agentic AI foundation, not just consuming APIs.
+  responsibilities:
+  - Own a component of the AI platform end-to-end, evaluating vendor options and making
+    build-versus-buy decisions
+  - Build and operate the agent framework, developer tooling, MCP servers and gateway
+    estate, and plugin/skills marketplace
+  - Own the entitlements and authentication layer governing access to platform components
+  - Build evaluation and observability tooling that makes agents testable and safe
+    to release
+  - Partner with the AI Solutions team to turn recurring solution patterns into reusable
+    platform components
+  - Raise the bar on code quality and engineering practice across the platform and
+    development lifecycle
+  use_cases:
+  - Shared AI platform foundation enabling firm-wide agentic AI applications
+  - Agent framework and developer tooling for internal engineering teams
+  - MCP server and gateway estate with plugin and skills marketplace
+  - Entitlements and authentication for access to AI platform components
+  - Evaluation and observability for safe agent releases
+  skills:
+    genai: [Agentic Workflows, MCP, AI Agents, RAG]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Datadog, Observability]
+    languages: []
+    domains: []
+    other: [Platform Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9207977'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:37:45.065757'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

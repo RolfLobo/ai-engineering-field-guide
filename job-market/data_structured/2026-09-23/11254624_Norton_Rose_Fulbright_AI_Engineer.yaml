@@ -1,0 +1,55 @@
+company:
+  name: Norton Rose Fulbright
+  stage: null
+  focus: Global law firm with legal innovation R&D
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic workflows, prompts,
+      retrieval/context patterns, tool calling, and evaluation
+      harnesses—directly shaping LLM output quality. LLM/agent
+      components dominate, so it is ai-first.
+  responsibilities:
+  - Build complete AI-enabled product features across UI, backend, AI orchestration,
+    retrieval and enterprise integrations
+  - Design and build agentic AI workflows with structured outputs, tool calling, human-review
+    steps and controls
+  - Build reusable agent harnesses covering tools, state, context, approvals, traces
+    and test fixtures
+  - Build grounded retrieval and context patterns with evidence and citations from
+    approved data sources
+  - Design and operate evaluation harnesses for AI workflows including test sets,
+    grading and regression tests
+  - Manage prompts, model configuration, tool schemas and routing as tested product
+    assets
+  - Implement AI observability via traces, logs, metrics and evaluation results
+  - Build APIs and user interfaces for AI products; apply security, testing and CI/CD
+    practices
+  use_cases:
+  - Agentic AI features for the Radar R&D product and other legal products
+  - Grounded AI workflows combining firm data, documents, regulatory information and
+    user context into attributable outputs
+  - Evaluation capability to compare prompts, models, tools and retrieval approaches
+  - Interfaces for lawyers to inspect AI output, evidence, confidence and approvals
+  skills:
+    genai: [Agentic Workflows, AI Agents, Structured Outputs, Function Calling, RAG,
+      Embeddings, Prompt Engineering, LLM Evaluation, LLMs]
+    ml: []
+    web: [FastAPI, Flask, React, Next.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Git, CI/CD, Monitoring]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11254624'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:32:36.997073'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

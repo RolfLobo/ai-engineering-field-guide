@@ -1,0 +1,174 @@
+job_id: 10873403
+title: Senior Technical Marketing Engineer - DSX AI Infrastructure Software
+company: NVIDIA
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  NVIDIA has been transforming computer graphics, PC gaming,
+  and accelerated computing for more than 25 years. It’s a
+  unique legacy of innovation that’s fueled by great
+  technology—and amazing people. Today, we’re tapping into the
+  unlimited potential of AI to define the next era of
+  computing. An era in which our GPU acts as the brains of
+  computers, robots, and self-driving cars that can understand
+  the world. Doing what’s never been done before takes vision,
+  innovation, and the world’s best talent. As an NVIDIAN,
+  you’ll be immersed in a diverse, supportive environment
+  where everyone is inspired to do their best work. Come join
+  the team and see how you can make a lasting impact on the
+  world.
+
+  NVIDIA DSX brings together facilities infrastructure,
+  hardware, software, simulation, and partner technologies to
+  build and run efficient AI factories. We are looking for a
+  Senior Technical Marketing Engineer to show and educate our
+  AI factory ecosystem how to bring up and operate the entire
+  stack, ranging from facilities and multi-node GPU
+  infrastructure to provisioning, networking, storage, cluster
+  orchestration, security, observability, and workload
+  enablement.
+
+  What you'll be doing:
+
+  - Stand up and validate complete DSX-aligned software stacks
+    on multi-node GPU systems. Capture the dependencies,
+    configuration order, validation steps, and operational
+    handoffs as you go.
+  - Turn working deployments into useful technical content:
+    reference architectures, quick-starts, installation and
+    upgrade guides, troubleshooting runbooks, code examples,
+    blogs, whitepapers, and demo videos.
+  - Build reusable examples and automation with APIs, Python or
+    shell scripting, infrastructure-as-code, containers,
+    Kubernetes, Slurm, Helm, GitOps or equivalent experience,
+    and CI/CD where they fit.
+  - Build demos, labs, and training that address the practical
+    aspects of operating an AI factory, from initial
+    deployment and tenant setup to upgrades, monitoring,
+    scheduling, fault isolation, remediation, capacity
+    management, and security.
+  - Show how the layers of the stack fit together. Work with
+    TME, Product, Engineering, and Marketing to demonstrate
+    how data center hardware, infrastructure and cluster
+    management software, orchestration, AI platforms, and the
+    workloads on top operate as one system.
+  - Test pre-release software using representative training and
+    inference workloads. Identify rough edges, assess
+    interoperability and resiliency, and provide Product and
+    Engineering with clear feedback before customers face
+    similar issues.
+  - Help solution architects, field teams, cloud and OEM
+    partners, ISVs, and system integrators use the stack
+    successfully through repeatable assets, train-the-trainer
+    sessions, live demos, and direct support on important
+    engagements.
+  - Collaborate with open-source and cloud-native communities to
+    demonstrate practical integration approaches, address
+    documentation and usability shortcomings, and assist
+    partners in expanding and developing the DSX software
+    stack.
+  - Listen for recurring problems from customers, partners, the
+    field, and developers. Use those signals to set content
+    priorities and recommend product improvements, then track
+    whether the work reduces deployment time and improves
+    operational success.
+  - Present your work in customer briefings, partner workshops,
+    industry events, webinars, and internal training. Some
+    travel will be required.
+
+  What we need to see:
+
+  - BS or MS in Computer Science, Computer Engineering,
+    Electrical Engineering, or another technical field, or
+    equivalent experience.
+  - 8+ years of experience in infrastructure engineering,
+    systems engineering, solutions architecture, software
+    engineering, technical marketing engineering, site
+    reliability engineering, or a related role.
+  - Hands-on experience deploying and operating Linux-based data
+    center, cloud, HPC, or AI infrastructure, including multi-
+    node GPU systems and production operational practices.
+  - Strong working knowledge of Kubernetes and/or Slurm,
+    including containers, operators, Helm charts, cluster
+    lifecycle, and workload scheduling.
+  - Experience in several core infrastructure domains, such as
+    bare-metal provisioning, firmware and drivers, compute,
+    Ethernet or InfiniBand networking, storage, identity,
+    multi-tenancy, secrets or certificate management,
+    telemetry, observability, and fleet health.
+  - Ability to automate deployments and operations through
+    scripting, APIs, configuration management, infrastructure-
+    as-code, Git-based workflows, and CI/CD.
+  - Examples of technical work for practitioner audiences, such
+    as deployment guides, documentation, reference
+    architectures, code repositories, demos, workshops, blog
+    posts, conference talks, or training. Links to example
+    contributions are greatly appreciated.
+  - Excellent written, verbal, and visual communication skills.
+    You can explain a complex system and defend a technical
+    recommendation to both business and technical partners.
+  - Ability to balance multiple projects and constituents,
+    prioritize under tight deadlines, and work well across
+    Engineering, Product, Field, Marketing, and partner teams.
+
+  Ways to stand out from the crowd:
+
+  - Experience with NVIDIA DSX, DGX systems, DGX Cloud, NVIDIA
+    AI Enterprise, BlueField DPUs, DOCA, or related NVIDIA
+    infrastructure software.
+  - Experience operating large GPU clusters and diagnosing
+    distributed performance, networking, storage, scheduling,
+    or hardware-health issues.
+  - Experience with AI training and inference workloads and the
+    requirements for operating them dependably on accelerated
+    infrastructure.
+  - Experience connecting infrastructure software to facilities
+    or operational technology systems, including power,
+    cooling, building management systems.
+  - Active participation in cloud-native, HPC, infrastructure
+    automation, or open-source communities, including
+    published examples or project contributions.
+
+  NVIDIA is widely considered one of the technology world's
+  most desirable employers. If you are creative, technically
+  curious, and autonomous, we want to hear from you!
+
+  NVIDIA offers highly competitive salaries and a
+  comprehensive benefits package. As you plan your future, see
+  what we can offer to you and your family
+  www.nvidiabenefits.com/
+
+  #LI-Hybrid
+
+  Your base salary will be determined based on your location,
+  experience, and the pay of employees in similar positions.
+  The base salary range is 160,000 USD - 253,000 USD for Level
+  4, and 200,000 USD - 322,000 USD for Level 5.
+
+  You will also be eligible for equity and benefits.
+
+  Applications for this job will be accepted at least until
+  August 30, 2026.
+
+  This posting is for an existing vacancy.
+
+  NVIDIA uses AI tools in its recruiting processes.
+
+  NVIDIA is committed to fostering an inclusive work
+  environment and proud to be an equal opportunity employer.
+  As we highly value diversity in our current and future
+  employees, we do not discriminate (including in our hiring
+  and promotion practices) on the basis of race, religion,
+  color, national origin, gender, gender expression, sexual
+  orientation, age, marital status, veteran status, disability
+  status or any other characteristic protected by law.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-08-27
+url: "https://www.builtinla.com/job/senior-technical-marketing-engineer-dsx-ai-infrastructure-software/10873403"
+source: Built In

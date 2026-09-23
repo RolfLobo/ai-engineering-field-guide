@@ -1,0 +1,129 @@
+job_id: 11312604
+title: AI Engineer
+company: Simfluent
+location: Noida, IND
+work_type: FULL_TIME
+company_size: 350 Employees
+description: |
+  Role Overview
+
+  We are hiring an AI Engineer to build, fine-tune, deploy,
+  and scale large language model–based systems. The role
+  focuses on LLM optimization, backend API development, and
+  MLOps, including RAG pipelines, efficient model serving, and
+  automated evaluation. You'll work on taking LLMs from
+  experimentation to production-ready, scalable AI solutions.
+
+  ShyftLabs is a growing data product company that was founded
+  in early 2020 and works primarily with Fortune 500
+  companies. We deliver digital solutions built to help
+  accelerate the growth of businesses in various industries,
+  by focusing on creating value through innovation.
+
+
+
+  Responsibilities
+
+  - Design and implement traditional ML and LLM-based systems
+    and applications
+  - Optimize model inference performance and cost efficiency
+  - Fine-tune foundation models for specific use cases and
+    domains
+  - Implement diverse prompt engineering strategies
+  - Build robust backend infrastructure for AI-powered
+    applications
+  - Implement and maintain MLOps pipelines for AI lifecycle
+    management
+  - Design and implement comprehensive traditional ML and LLM
+    monitoring and evaluation systems
+  - Develop automated testing frameworks for model quality and
+    performance tracking
+
+  Requirements
+
+  - Large Language Models (LLMs)
+  - Python
+  - Model Fine-tuning (LoRA, QLoRA)
+  - Inference Optimization
+  - Prompt Engineering
+  - RAG (Retrieval-Augmented Generation)
+  - FastAPI
+  - Flask
+  - RESTful API Design
+  - Vector Databases
+  - AWS
+  - GCP
+  - Azure
+  - Docker
+  - Kubernetes
+  - vLLM
+  - SGLang
+  - TensorRT
+  - MLOps
+  - CI/CD
+  - Airflow
+  - Model Evaluation Frameworks
+  - A/B Testing
+  - PostgreSQL
+  - Redis
+
+  Preferred Skills
+
+  - PyTorch
+  - Transformers
+  - TensorFlow
+  - LangChain
+  - LlamaIndex
+  - LLM-specific Monitoring Tools
+  - Distributed Training
+  - Multi-GPU Setup
+  - Model Compression
+  - Model Distillation
+  - Quantization
+  - High-throughput Systems
+  - Low-latency Systems
+  - LLM Research
+
+  Qualifications
+
+  - 4–8 years of relevant experience in LLMs, Backend
+    Engineering, and MLOps
+  - Experience with parameter-efficient fine-tuning methods
+    (LoRA, QLoRA, adapter layers)
+  - Knowledge of quantization, pruning, caching strategies, and
+    serving optimizations
+  - Prompt design, few-shot learning, chain-of-thought
+    prompting, and retrieval-augmented generation (RAG)
+  - Experience with AI evaluation frameworks and metrics for
+    different use cases
+  - Design of automated evaluation pipelines, A/B testing for
+    models, and continuous monitoring systems
+  - Proficiency in Python, with experience in FastAPI, Flask, or
+    similar frameworks
+  - Design and implementation of RESTful APIs and real-time
+    systems
+  - Experience with vector databases and traditional databases
+  - AWS, GCP, or Azure with focus on ML services
+  - Experience with model serving frameworks (vLLM, SGLang,
+    TensorRT)
+  - Docker and Kubernetes for ML workloads
+  - ML model monitoring, performance tracking, and alerting
+    systems
+  - Building automated evaluation pipelines with custom metrics
+    and benchmarks
+  - CI/CD: MLOps pipelines for automated testing, and deployment
+  - Experience with workflow tools like Airflow
+
+  Benefits
+
+  - Competitive salary
+  - Strong insurance package
+  - Extensive learning and development resources
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Analytics
+posted_date: 2026-09-22
+url: "https://builtin.com/job/ai-engineer/11312604"
+source: Built In

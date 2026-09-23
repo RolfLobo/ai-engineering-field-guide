@@ -1,0 +1,53 @@
+company:
+  name: Harman
+  stage: null
+  focus: Connected car audio and automotive technology
+position:
+  title: Advanced Engineer-AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes SLMs, develops LLM agents and
+      orchestration layers (LangChain, LangGraph, MCP), and works
+      with prompt-driven VLM/VLA models, directly shaping model
+      behavior. LLM/agent components are central, making it ai-
+      first.
+  responsibilities:
+  - Develop and optimize small language models for in-vehicle conversational AI and
+    context-aware intent handling
+  - Fine-tune and deploy models on edge devices (CPU, NPU, GPU)
+  - Work with VLM/VLA models for scene understanding and multi-modal perception
+  - Build AI orchestration layers including intent routing, tool routing, policy engines,
+    and cross-domain context management
+  - Integrate voice (ASR, TTS, NLU), visual perception, and sensor fusion across cockpit,
+    ADAS, and connected services
+  - Design ML pipelines and MLOps workflows covering training, evaluation, deployment,
+    and monitoring
+  - Collaborate with embedded, cloud/data engineering, and HMI integration teams
+  use_cases:
+  - In-vehicle conversational AI and context-aware intent handling
+  - Automotive scene understanding and multi-modal perception via VLM/VLA
+  - Cross-domain intelligence across cockpit, ADAS, and connected vehicle services
+  - Real-time edge plus cloud hybrid AI inference
+  - Voice interaction with ASR, TTS, and NLU in the car
+  skills:
+    genai: [Small Language Models, LLMs, Fine-Tuning, AI Agents, LangChain, LangGraph,
+      AutoGen, Semantic Kernel, MCP, Agentic Workflows, Conversational AI, Function
+        Calling]
+    ml: [Deep Learning, NLP, PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure, AWS, GCP]
+    ops: [Model Deployment, MLOps, CI/CD, NNAPI]
+    languages: [Python, C++]
+    domains: [Computer Vision]
+    other: [AUTOSAR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11047507'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:16:01.717143'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

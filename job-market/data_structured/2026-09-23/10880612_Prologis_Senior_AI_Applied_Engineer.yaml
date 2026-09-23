@@ -1,0 +1,53 @@
+company:
+  name: Prologis
+  stage: null
+  focus: Global logistics real estate and intelligent infrastructure
+position:
+  title: Senior AI Applied Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and evaluates LLM patterns directly: RAG,
+      text-to-SQL, agentic workflows, LLM evaluations, guardrails,
+      and prompt-driven architectures. This is shaping model
+      behavior and output quality, with clear LLM/agent
+      components, so ai-first.
+  responsibilities:
+  - Drive AI innovation and rapid experimentation in agentic workflows, reasoning
+    approaches, and evaluation methods
+  - Design and execute timeboxed hypothesis-driven pilots with success metrics and
+    kill/scale decision points
+  - Enhance enterprise AI patterns including RAG, text-to-SQL, evaluation/observability,
+    and guardrails
+  - Build reference implementations and handoff documents to transition experiments
+    into scalable architectures
+  - Develop within the AWS ecosystem using secure, observable, cost-aware architectures
+  - Communicate findings through demos and readouts connecting technical outcomes
+    to business impact
+  - Evaluate emerging AI tools, frameworks, and vendor offerings and synthesize recommendations
+  use_cases:
+  - Enterprise AI pattern innovation and experimentation
+  - Retrieval-augmented generation for enterprise knowledge access
+  - Natural-language text-to-SQL querying
+  - Agentic workflow evaluation and reliability
+  - Evaluation and observability of LLM applications
+  skills:
+    genai: [Agentic Workflows, RAG, Guardrails, LLM Evaluation, Multi-Agent Systems,
+      Function Calling, MCP, LLMs, Text-to-SQL]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: []
+    data: [Data Modeling]
+    cloud: [AWS, IAM]
+    ops: [LLMOps, Observability]
+    languages: [Python, SQL]
+    domains: []
+    other: [Dataiku]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10880612'
+  location: Los Angeles, USA
+  extracted_at: '2026-09-23T11:04:33.419256'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

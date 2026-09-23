@@ -1,0 +1,61 @@
+company:
+  name: Rimini Street
+  stage: null
+  focus: |-
+    Third-party enterprise software support and Agentic AI ERP
+    solutions
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent behavior systems: multi-agent
+      coordination, dynamic tool selection, reasoning chains,
+      governance boundaries, and agent evaluation frameworks —
+      core shaping of LLM/agent behavior, so ai-first.
+  responsibilities:
+  - Design agent cognitive architecture for reasoning through ambiguous multi-step
+    ERP tasks with governance checkpoints
+  - Build agent personas and behavioral profiles for ERP domains (Finance, Procurement,
+    Supplier Management, Expense, Support)
+  - Architect multi-agent coordination patterns including supervisor/worker hierarchies,
+    A2A communication, and conflict resolution
+  - Design dynamic tool selection strategies where agents choose MCP tools based on
+    context and confidence
+  - Build confidence scoring and autonomy governance frameworks with human-in-the-loop
+    escalation
+  - Design RAG-based knowledge integration and feedback loops that learn from user
+    corrections
+  - Build agent evaluation frameworks and scenario-based testing methodologies
+  - Analyze production agent behavior and refine cognitive architecture in a continuous
+    improvement loop
+  use_cases:
+  - Autonomous AI agents interacting with enterprise ERP systems (Oracle, SAP)
+  - Multi-agent workflows for Finance, Procurement, Supplier Management, Expense and
+    Support domains
+  - Risk-tiered autonomous decision-making with human-in-the-loop escalation in ERP
+    operations
+  - Retrieval-augmented reasoning over institutional knowledge and approval patterns
+  - Agent evaluation and governance for explainable, auditable AI actions
+  skills:
+    genai: [LangChain, LangGraph, Pydantic AI, CrewAI, AutoGen, Semantic Kernel, Anthropic
+        API, OpenAI API, MCP, Function Calling, Agentic Workflows, Multi-Agent Systems,
+      RAG, Prompt Engineering, Structured Outputs, RLHF, LLM Evaluation, TruLens,
+      Ragas, Vector Search, Embeddings, LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: []
+    ops: [Temporal]
+    languages: [Python, Java]
+    domains: []
+    other: [SAP, Oracle EBS, JD Edwards, Quarkus]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10867124'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:04:04.892486'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

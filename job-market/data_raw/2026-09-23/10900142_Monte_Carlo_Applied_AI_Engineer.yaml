@@ -1,0 +1,181 @@
+job_id: 10900142
+title: Applied AI Engineer
+company: Monte Carlo
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Monte Carlo
+
+  Monte Carlo is the agent trust platform that unifies data
+  and agent observability to monitor, troubleshoot, and
+  improve production AI systems. As enterprises prepare to
+  deploy thousands of agents across business-critical use
+  cases, Monte Carlo provides the reliability infrastructure
+  to support them along this AI transformation, from human-
+  guided agents to fully autonomous operations. Founded in
+  2019 and backed by leading investors, Monte Carlo empowers
+  data and AI teams to ship trusted AI at scale. Learn more at
+  montecarlodata.com.
+
+  The Role
+
+  We're building the products that tell enterprises whether
+  their AI agents can be trusted — and we need someone who
+  works end to end, from an ambiguous problem statement
+  through research, prototyping, and production. You'd get the
+  problem, not the spec: research the approaches, prototype,
+  prove what works, build it, and integrate it into the
+  platform alongside our engineering and data science teams.
+  This role exists because agent observability moved from
+  roadmap to revenue faster than anyone predicted, and the
+  work is now on the critical path.
+
+  What You'll Do
+
+  - Take an open problem end-to-end — from research and
+    prototyping through production, killing what doesn't work
+    before it becomes someone's roadmap
+  - Design and ship agent-powered features — root-cause
+    analysis, incident triage, monitor generation — and
+    integrate them into the platform with our engineering team
+  - Build the eval infrastructure that makes those features safe
+    to change: golden datasets, regression suites, offline and
+    online scoring, and the judgment calls about what "good"
+    means
+  - Own retrieval and context pipelines over customer metadata,
+    lineage, and query history, and instrument agent behavior
+    in production — traces, failure taxonomies, cost and
+    latency budgets — to close the loop on quality
+  - Partner with data science on detection quality and
+    experiment design, and with PM on what an agent should do
+    versus what it merely can do
+  - Set the technical bar for how we build with LLMs — patterns,
+    guardrails, and the internal tooling other engineers reuse
+
+  What We're Looking For
+
+  - You've built agents in production with real users. Not
+    integrated a framework. Not worked on a team that had one.
+    Built them — agents with real autonomy and internal loops,
+    where the model uses tools and decides what to do next
+    without a human in the middle, and you kept them running
+    once real users showed up. RAG with a wrapper doesn't
+    count. Neither does a set of MCP tools point at an API.
+  - You've run evals and monitored agents after launch. Agents
+    are non-deterministic, so normal tests don't work on them.
+    You've owned an eval framework — golden datasets,
+    regression suites, offline and online scoring — not a
+    folder of one-off scripts. And you've watched agents in
+    production, not just in dev.
+  - Python, plus an ML or data science background. Python is
+    your daily language and you're solid on the backend,
+    though you don't need to be a distributed systems
+    specialist. You understand models well enough to reason
+    about how they behave — you're not an application engineer
+    calling someone else's API.
+  - You work from a problem, not a spec. Handed an ambiguous
+    problem statement, you design the experiment, build the
+    smallest version to test it, and take what works into
+    production.
+  - You use AI tools every day. Claude or its equivalents are
+    part of how you write code and do research, not something
+    you tried once. This is backend and model layer work, by
+    the way — no frontend.
+  - You'd rather ship than polish. Most of this work needs a
+    good answer quickly, not a perfect one eventually. You can
+    tell which problems are the exception and deserve real
+    depth — and you'll say no to the version that demos well
+    and falls apart in production.
+
+  Nice to have: statistics and hypothesis testing, applied
+  rather than theoretical. Building and maintaining MCP
+  servers. Experience in the data and cloud space — Snowflake,
+  Databricks, dbt, Airflow.
+
+  This Is Not For You If
+
+  - Your AI work is retrieval with a wrapper, or MCP tools
+    pointed at an API — nothing that decides and acts on its
+    own
+  - Your LLM experience is prototypes, notebooks, and demos that
+    never carried production traffic
+  - You need a fully specified problem before you start, or
+    you're uncomfortable with the ambiguity of a category
+    being invented in real time
+
+  Why Monte Carlo
+
+  - We created the data observability category and we're doing
+    it again with agent observability — you'll build where the
+    market is forming, not where it's settled
+  - Series D, $236M raised, backed by Accel, Redpoint, Notable
+    Capital, ICONIQ Growth, and Salesforce Ventures
+  - Customers include HubSpot, Fox, Nasdaq, Toast, and Mercado
+    Libre — your work ships to enterprises with real stakes
+  - Snowflake Partner of the Year and a verified connector in
+    Anthropic's Claude AI directory
+  - Remote-first by design since day one, and recognized as a
+    Best Workplace for it
+  - Competitive compensation, equity, and a remote-first
+    environment.
+
+  #LI-REMOTE
+
+  #BI-REMOTE
+
+  Come As You Are
+
+  Equality is a core tenet of Monte Carlo's culture. We are
+  committed to building an inclusive global team that
+  represents a variety of backgrounds, perspectives, beliefs,
+  and experiences.
+
+  Monte Carlo is an equal-opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees.
+
+  We are proud to be recognized for our world-class employee
+  experience:
+
+  Monte Carlo Named 2025 Databricks Data Governance Partner of
+  the Year
+
+  We were recently recognized as the #1 Data Observability
+  Platform by G2 for the 4th consecutive quarter. See our G2
+  reviews here!
+
+  Monte Carlo Named to G2's Best Software Products of 2026
+
+  Monte Carlo was featured on Database Trends and Applications
+  (DBTA’s) Trend-Setting Products for 2025!
+
+  We are super proud to be named the 2026 Best Place to Work
+  by Built In!
+
+  Beware of Imposter Recruiters and Job Scams
+
+  - All official communication from our recruiting team will
+    come from an @montecarlodata.com email address.
+  - We will never ask candidates to provide sensitive personal
+    information (such as bank details, social security
+    numbers, or payment) at any stage of the recruitment
+    process.
+  - We will never request payment for equipment, training, or
+    application processing.
+  - Our open positions are always listed on our official careers
+    page: https://jobs.ashbyhq.com/montecarlodata.
+
+  If you are contacted by someone claiming to represent Monte
+  Carlo but you’re unsure of their legitimacy, please reach
+  out to us directly at recruiting@montecarlodata.com before
+  sharing any personal information.
+industries:
+  - Big Data
+  - Cloud
+  - Software
+  - Generative AI
+  - Big Data Analytics
+posted_date: 2026-08-28
+url: "https://www.builtinla.com/job/senior-ai-engineer/10900142"
+source: Built In

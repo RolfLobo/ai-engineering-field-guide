@@ -1,0 +1,147 @@
+job_id: 10963289
+title: AI Automation Engineer (Browser Automation + AI Tooling)
+company: QualMinds
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  AI Automation Engineer (Browser Automation + AI Tooling)
+
+  About QualMinds:
+
+  QualMinds is a global technology company dedicated to
+  empowering clients on their digital transformation journey.
+  We help our clients to design & develop world-class digital
+  products, custom software and platforms. Our primary focus
+  is delivering enterprise grade interactive software
+  applications across web, desktop, mobile, and embedded
+  platforms.
+
+  Position Summary:
+
+  We are seeking an AI Automation Engineer to help design and
+  build intelligent automation systems using modern AI tooling
+  and browser automation frameworks such as Stagehand and
+  Playwright. This role focuses on developing automation
+  workflows for testing, quality assurance, monitoring, and
+  operational efficiency across web platforms and digital
+  products. The ideal candidate has strong automation
+  fundamentals and is excited to work with emerging AI-driven
+  automation approaches.
+
+  Key Responsibilities - Automation Development
+
+  - Build and maintain automation workflows using AI-assisted
+    tooling (Stagehand or similar)
+  - Develop browser automation suites using Playwright
+  - Contribute to prompt-driven automation and agent workflows
+  - Support development of reusable automation utilities and
+    frameworks
+
+  Key Responsibilities - QA and Platform Automation
+
+  - Build automated tests for UI, APIs, and data workflows
+  - Support regression and functional automation suites
+  - Help automate monitoring and validation workflows
+  - Integrate automation into CI/CD pipelines
+
+  Key Responsibilities - AI / LLM Integration
+
+  - Assist in integrating LLM APIs into automation workflows
+  - Contribute to prompt design and evaluation workflows
+  - Help implement guardrails and validation checks
+  - Support performance and cost optimization of AI usage
+
+  Key Responsibilities - Observability and Reporting
+
+  - Help build automation reporting dashboards
+  - Instrument automation with logging and metrics
+  - Support troubleshooting automation failures
+
+  Key Responsibilities - Engineering Judgment & AI Usage
+
+  - Understand when to use traditional deterministic automation
+    vs. AI-driven approaches
+  - Recognize scenarios where AI introduces unnecessary
+    complexity or cost
+  - Implement stable, selector-based automation for predictable
+    UI patterns
+  - Reserve AI for truly dynamic or unpredictable scenarios
+  - Balance automation speed, cost, and reliability when
+    choosing implementation approaches
+  - Document automation decisions and trade-offs
+
+  Required Qualifications - Engineering Fundamentals
+
+  - 2–5 years of software engineering, QA automation, or
+    automation engineering experience
+  - Python (required)
+  - TypeScript / JavaScript (preferred for some roles)
+  - Experience with async/await patterns and concurrent
+    programming
+
+  Required Qualifications - Automation Experience
+
+  - Hands-on experience with Playwright or similar browser
+    automation frameworks
+  - Experience automating web application workflows
+  - Ability to write robust CSS selectors and XPath expressions
+  - Experience working with dynamic content and asynchronous
+    page loading patterns
+  - Understanding of when to use deterministic vs. probabilistic
+    automation
+
+  Required Qualifications - AI and Modern Tooling Exposure
+
+  - Exposure to LLMs, AI APIs, or AI automation tooling
+  - Basic understanding of prompt engineering concepts
+  - Ability to recognize when AI should NOT be used: - Stable,
+    predictable UI patterns (use traditional selectors) -
+    Performance-critical paths (AI adds latency) - Cost-
+    sensitive operations (AI calls have API costs) - Scenarios
+    requiring deterministic behavior (compliance, legal)
+  - Understanding of automation cost/benefit trade-offs
+  - Experience balancing speed, reliability, and maintainability
+
+  Required Qualifications - DevOps and Platform Fundamentals
+
+  - Experience working with CI/CD pipelines
+  - Familiarity with containerized or cloud-hosted environments
+  - Familiarity with SQL databases (MySQL, PostgreSQL, etc.)
+
+  Preferred Qualifications
+
+  - Exposure to Stagehand or similar AI agent automation
+    frameworks
+  - Experience working on SaaS or multi-tenant web platforms
+  - Experience with API automation or integration testing
+  - Exposure to observability or monitoring tools
+  - Experience working in production web environments
+  - Experience with email processing, PDF generation, or
+    document workflows
+  - Experience with Salesforce APIs or other CRM integrations
+  - Knowledge of distributed task queues (Celery, RabbitMQ,
+    Redis)
+  - Experience with Kubernetes or container orchestration
+  - Understanding of pytest or similar Python testing frameworks
+  - Experience with observability tools (Sentry, Datadog, etc.)
+
+  Success Metrics (First 6–12 Months)
+
+  - Contribute to production automation workflows
+  - Reduce manual testing through expanded automation coverage
+  - Improve automation reliability and reporting
+  - Help build reusable automation components and patterns
+
+  Work Environment
+
+  - Collaborative engineering and product teams • Modern cloud
+    and automation tooling
+  - Opportunity to work directly with emerging AI technologies
+  - Fast-paced, innovation-focused environment
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-01
+url: "https://builtin.com/job/ai-automation-engineer-browser-automation-ai-tooling/10963289"
+source: Built In

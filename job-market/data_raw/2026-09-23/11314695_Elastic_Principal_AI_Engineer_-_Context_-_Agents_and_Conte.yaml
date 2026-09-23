@@ -1,0 +1,187 @@
+job_id: 11314695
+title: Principal AI Engineer - Context - Agents and Context
+company: Elastic
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 3,222 Employees
+description: |
+  Elastic, the Search AI Company, enables everyone to find the
+  answers they need in real time, using all their data, at
+  scale — unleashing the potential of businesses and people.
+  The Elastic Search AI Platform, used by more than 50% of the
+  Fortune 500, brings together the precision of search and the
+  intelligence of AI to enable everyone to accelerate the
+  results that matter. By taking advantage of all structured
+  and unstructured data — securing and protecting private
+  information more effectively — Elastic’s complete, cloud-
+  based solutions for search, security, and observability help
+  organizations deliver on the promise of AI.
+
+  What is The Role
+
+  The Context Engine team builds the knowledge layer that AI
+  agents use to work with enterprise data in Elasticsearch. We
+  extract knowledge from any data sources into a structured AI
+  Index, serve it to agents through public APIs, MCP tools and
+  framework integrations, and close the loop with agent traces
+  so that what the engine knows improves from real usage. Any
+  agent can use it: Elastic’s own Agent Builder, Claude Code,
+  LangChain and other third-party harnesses.
+
+  As a Principal AI Engineer, you own the improvement loop of
+  this product end to end: how agents, automations and skills
+  behave in production, how we observe them, how we evaluate
+  them, and how we ship changes to them safely. This is a
+  hybrid role at the intersection of engineering, data
+  science, and product. You will write production code, design
+  evaluation and telemetry that product decisions can rest on,
+  and set the technical bar for how the team iterates on
+  agentic behaviour. You will work alongside data scientists,
+  backend engineers, product, and UX, and your work will show
+  up directly in what customers build on top of Elastic.
+
+  The codebase is TypeScript and we build it in the open, so
+  you'll be shipping code, designs and discussions in public
+  alongside the rest of the Elastic Stack.
+
+  What You Will Be Doing
+
+  - Own the production improvement loop for Context Engine:
+    understand how extraction automations, retrieval tools and
+    memory behave, based on offline evaluations and customer
+    conversations and telemetry. You help find the failure
+    modes, fix them, and prove the fix.
+  - Define how we iterate on agents and skills safely:
+    versioning and rollout of prompts, skills and automations,
+    regression coverage, staged and shadow evaluation, and the
+    guardrails that let us change behaviour without breaking
+    customers.
+  - Design the telemetry we need to make data-informed
+    engineering decisions: what to capture from agent traces,
+    tool calls and knowledge retrieval, how it lands in
+    Elasticsearch, and how it feeds evaluation, dashboards and
+    the feedback loop.
+  - Partner with the data science team on evaluation strategy:
+    golden datasets, evaluators to gate on quality, latency
+    and cost.
+  - Raise the bar across the team: review designs and PRs,
+    mentor engineers in eval-driven development, and write the
+    technical proposals that shape the roadmap.
+
+  What You Bring
+
+  - 10+ years of software engineering experience, with the
+    recent years spent shipping and operating AI-driven
+    products on real production traffic, ideally products with
+    public APIs and data models that had to evolve without
+    breaking customers.
+  - A track record of eval-driven product improvement: you have
+    diagnosed agent or LLM behaviour from traces and user
+    feedback, designed the evaluation that exposed the
+    problem, shipped the fix and measured the outcome.
+  - Direct experience building agents with state and memory, and
+    iterating on prompts, skills and tool behaviour safely in
+    production.
+  - Familiarity with MCP, including exposing public MCP servers
+    and tools.
+  - Experience designing telemetry for AI systems, and using it
+    to make engineering and product decisions.
+  - Experience running product experiments end to end:
+    instrumentation, unattended execution, and interpreting
+    results.
+  - Experience building products with public APIs and evolving
+    data models, and the judgement that comes with maintaining
+    external contracts as a product changes.
+  - Strong backend engineering skills in either Python or
+    TypeScript: APIs, stateful workflows, data pipelines and
+    production services.
+  - Comfort working with data scientists, engineers, and product
+    managers as peers, translating between measurement and
+    shipping, and communicating trade-offs clearly.
+  - A pragmatic, low-ego style suited to a distributed, async-
+    first team.
+
+  Bonus Points
+
+  - Experience with agent frameworks such as LangGraph, CrewAI,
+    Claude Agent SDK, or similar.
+  - Agentic retrieval experience, including knowledge
+    representation.
+  - Practical Elasticsearch experience.
+
+  Additional Information - We Take Care of Our People
+
+  As a distributed company, diversity drives our identity.
+  Whether you’re looking to launch a new career or grow an
+  existing one, Elastic is the type of company where you can
+  balance great work with great life. Your age is only a
+  number. It doesn’t matter if you’re just out of college or
+  your children are; we need you for what you can do.
+
+  We strive to have parity of benefits across regions and
+  while regulations differ from place to place, we believe
+  taking care of our people is the right thing to do.
+
+  - Competitive pay based on the work you do here and not your
+    previous salary
+  - Health coverage for you and your family in many locations
+  - Ability to craft your calendar with flexible locations and
+    schedules for many roles
+  - Generous number of vacation days each year
+  - Increase your impact - We match up to $2000 (or local
+    currency equivalent) for financial donations and service
+  - Up to 40 hours each year to use toward volunteer projects
+    you love
+  - Embracing parenthood with minimum of 16 weeks of parental
+    leave
+
+  Different people approach problems differently. We need
+  that. Elastic is an equal opportunity employer and is
+  committed to creating an inclusive culture that celebrates
+  different perspectives, experiences, and backgrounds.
+  Qualified applicants will receive consideration for
+  employment without regard to race, ethnicity, color,
+  religion, sex, pregnancy, sexual orientation, gender
+  perception or identity, national origin, age, marital
+  status, protected veteran status, disability status, or any
+  other basis protected by federal, state or local law,
+  ordinance or regulation.
+
+  We welcome individuals with disabilities and strive to
+  create an accessible and inclusive experience for all
+  individuals. To request an accommodation during the
+  application or the recruiting process, please email
+  candidate_accessibility@elastic.co. We will reply to your
+  request within 24 business hours of submission.
+
+  Applicants have rights under Federal Employment Laws, view
+  posters linked below: Family and Medical Leave Act (FMLA)
+  Poster; Pay Transparency Nondiscrimination Provision Poster;
+  Employee Polygraph Protection Act (EPPA) Poster and Know
+  Your Rights (Poster)
+
+  Elasticsearch develops and distributes technology and
+  information that is subject to U.S. and other countries’
+  export controls and licensing requirements for individuals
+  who are located in or are nationals of the following
+  sanctioned countries and regions: Belarus, Cuba, Iran, North
+  Korea, Syria, or Russia, including the Ukrainian territories
+  annexed by Russia (The Crimea region of Ukraine, The Donetsk
+  People's Republic (DNR), The Luhansk People's Republic
+  (LNR), Kherson or Zaporizhzhia). If you are located in or
+  are a national of one of the listed countries or regions, an
+  export license may be required as a condition of your
+  employment in this role. Please note that national origin
+  and/or nationality do not affect eligibility for employment
+  with Elastic.
+
+  Please see here for our Privacy Statement.
+industries:
+  - Cloud
+  - Security
+  - Software
+  - Generative AI
+posted_date: 2026-09-22
+url: "https://builtin.com/job/principal-ai-engineer-context-agents-and-context/11314695"
+source: Built In

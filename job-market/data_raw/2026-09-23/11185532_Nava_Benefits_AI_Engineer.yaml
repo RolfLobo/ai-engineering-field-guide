@@ -1,0 +1,164 @@
+job_id: 11185532
+title: AI Engineer
+company: Nava Benefits
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Who We Are
+
+  Nava is on a mission to #fixhealthcare. Nearly 160M
+  Americans rely on their employers for healthcare — yet the
+  system is broken, bloated, and dominated by incumbents who
+  resist change. Nava fuses deep benefits expertise with
+  cutting-edge technology to deliver a modern, transparent,
+  and affordable healthcare experience.
+
+  Founded by seasoned entrepreneurs and backed by leading
+  investors, Nava is one of the fastest-growing benefits
+  brokerages in the country. We’re the first to combine
+  brokerage know-how with proprietary tech like HQ: our AI-
+  powered benefits platform, designed to help HR teams take
+  control of renewals, simplify strategy, eliminate
+  spreadsheet chaos, and empower employees to navigate their
+  benefits with ease.
+
+  In a $50B industry hungry for change, Nava is built to win —
+  lowering costs for employers, delighting employees, and
+  reshaping how healthcare works for millions of Americans.
+
+  About This Role & Why It Matters
+
+  We’re hiring an AI Engineer to build and harden the platform
+  underneath Nava’s LLM-based products. Nava sits at the
+  bleeding edge of AI-driven products, and building there has
+  taught us something: what comes out of the box for LLM
+  applications is not enough. Agents run long-running tasks,
+  which changes how we deploy software and manage state.
+  Context has to be shipped into zero-trust sandboxes on
+  different platforms, then retrieved and refreshed on our own
+  terms. Different models need to serve different jobs at a
+  cost we can sustain as usage grows quickly. To ship our
+  products, we built first versions of all of this ourselves,
+  each for the use case in front of us.
+
+  What makes this opportunity unique: you take those first
+  versions and harden them into a platform that every Nava AI
+  team builds on. This is protected work, not a ticket queue.
+  It exists to reduce the unplanned platform work landing on
+  the product engineers at the tip of the spear, and to create
+  the magic that lets the rest of the company move faster with
+  AI. It is LLM-based product engineering at the frontier of
+  current practice, focused on the patterns for building and
+  maintaining an AI ecosystem, with real employers, employees
+  and Nava teams on the other end.
+
+  What You’ll Accomplish in Your First Year
+
+  - Harden the platform for reuse: Take the first-version
+    capabilities built for one product (context management,
+    agent state, sandboxed execution, model routing) and make
+    each reusable across use cases beyond the one it was built
+    for, so new AI features start from the platform instead of
+    rebuilding it.
+  - Make long-running agents safe to run: Design the state
+    management and deployment patterns so an in-flight agent
+    task survives deploys, restarts and retries, and can be
+    resumed, inspected and replayed.
+  - Own context in and out of the sandbox: Build one thoughtful
+    mechanism for packaging context into zero-trust execution
+    environments across platforms, and for ejecting and
+    retrieving new context as an agent works.
+  - Bring cost per task down as we scale: Route the right model
+    to the right job, orchestrate subagents so expensive
+    models do only expensive work, and make token usage
+    measurable and optimized as volume grows.
+  - Give product engineers their time back: Measurably reduce
+    the unplanned platform work interrupting the AI product
+    teams, so their sprints go to features rather than
+    plumbing.
+  - Make the ecosystem maintainable: Document, test, trace and
+    evaluate the shared patterns so a new engineer can adopt
+    them in days and regressions are caught before users
+    notice.
+
+  What You’ll Bring
+
+  We understand that your experience is more than just a list
+  of requirements, so we encourage you to apply even if you
+  don't meet all of the following bullet points.
+
+  - Hands-on ownership of the infrastructure under an LLM-based
+    product that other engineers or users depended on: an
+    agent runtime, context or state management, orchestration,
+    or evaluation and tracing. Internal users and inherited
+    systems count.
+  - Shipping LLM features to production and living with them:
+    imperfect model behavior, latency, cost and the tradeoffs
+    between them.
+  - Modern full-stack development in TypeScript and/or Python,
+    integrating foundation-model APIs, tool calling and human
+    review into an application.
+  - Practical evaluation and tracing habits: you check what the
+    model did and learn from real use.
+  - Explaining your decisions to product, design and domain
+    experts, and turning their problems into reusable
+    capabilities.
+
+  No specific framework, model provider or minimum audience
+  size is required. We assess comparable work and your
+  reasoning.
+
+  Our Stack
+
+  React, Node, TypeScript, Python, Postgres and AWS; multiple
+  foundation-model providers; sandboxed execution environments
+  for agents; Langfuse for tracing and evaluation. Coding
+  agents are part of daily work here, and encouraged but not
+  required in the interview.
+
+  What You’ll Get
+
+  - Protected space to build the AI platform at a company whose
+    products actually run on it, with your patterns
+    multiplying every AI team’s output.
+  - Frontier problems (long-running agents, context management,
+    model routing, token economics) with real users in
+    healthcare, not demos.
+  - A small, senior team and a direct line to the leaders making
+    product and platform decisions.
+  - A remote-first company with a mission to fix healthcare and
+    the tooling to do the best work of your career.
+
+  How We Interview
+
+  A 15-minute introduction with our recruiter, then an
+  approximately 15-minute AI conversation about your most
+  notable LLM-based work, who used it and what you learned
+  from them (voice or typing, camera off). Then two interview
+  days booked together: a 60-minute live coding session on Day
+  1, in your usual environment with any coding agent you like;
+  a 60-minute design conversation and a 60-minute
+  accomplishment discussion on Day 2. Day 2 depends on the Day
+  1 outcome. We send preparation notes ahead of each step.
+  Same questions for every candidate; we score evidence of
+  comparable work, not polish.
+
+  Working at Nava
+
+  As a remote-first company, Nava is committed to building a
+  dynamic and inclusive culture where you have the autonomy to
+  thrive. You’ll be supported by cutting-edge technology, a
+  collaborative team, and a shared mission to revolutionize
+  healthcare.
+
+  Candidates from all backgrounds are encouraged to apply. We
+  believe that solving America's healthcare problem requires
+  leveraging America's greatest strength: our diversity.
+  Healthcare affects everyone – and a team that includes
+  people from all backgrounds and walks of life will be more
+  effective at driving change than a homogeneous one. We are
+  excited to build that kind of team at Nava.
+posted_date: 2026-09-15
+url: "https://www.builtinla.com/job/ai-engineer/11185532"
+source: Built In

@@ -1,0 +1,49 @@
+company:
+  name: Sharp & Tannan Group
+  stage: null
+  focus: |-
+    Professional services group building AI-enabled web
+    applications
+position:
+  title: Associate Developer(Full Stack with AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing and configuring AI agents
+      (OpenClaw/Agentic AI), adding skills to agents, and building
+      orchestrated agentic workflows — shaping LLM/agent behavior.
+      Full-stack work is present but the agent design work makes
+      it ai-first.
+  responsibilities:
+  - Design, develop, and deploy scalable full-stack web applications
+  - Integrate AI/ML models into the application stack
+  - Automate workflows using n8n and integrate applications into unified systems
+  - Develop and maintain AI agents using OpenClaw, adding new skills and configuring
+    job schedules in orchestrated environments
+  - Configure and optimize workflow automation pipelines to reduce manual processes
+  - Conduct unit and integration tests and establish CI/CD best practices
+  - Collaborate with product managers and AI specialists to deliver features
+  use_cases:
+  - AI agents that execute scheduled jobs in orchestrated environments
+  - Workflow automation across integrated business applications
+  - AI-enhanced full-stack web applications
+  - Reducing manual processes through unified automation pipelines
+  skills:
+    databases: [NoSQL, MongoDB, PostgreSQL, MySQL, Relational Databases]
+    domains: []
+    data: [Data Pipelines]
+    web: [React, Angular, Express.js, Django, Ruby on Rails, REST APIs, GraphQL, Microservices]
+    ml: [Machine Learning, PyTorch, TensorFlow]
+    ops: [DevOps, CI/CD, Docker, Kubernetes, Jenkins, Git]
+    other: [Workflow Automation, n8n, Jira]
+    cloud: [AWS, Azure, GCP]
+    languages: [JavaScript, Node.js, HTML, CSS, TypeScript]
+    genai: [Agentic Workflows, AI Agents, OpenClaw]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11044798'
+  location: Vadodara, IND
+  extracted_at: '2026-09-23T11:15:44.031715'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

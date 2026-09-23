@@ -1,0 +1,168 @@
+job_id: 11282375
+title: Principal AI Engineer — ML / MLOps Platform Architect
+company: Ecolab
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 29,154 Employees
+description: |
+  Job Description – Principal Machine Learning Engineer (LLM,
+  Agentic AI & Model Platform)
+
+  Position Summary
+
+  The Principal Machine Learning Engineer is a senior
+  technical leader responsible for architecting, building, and
+  operationalizing enterprise-scale AI, Generative AI, and
+  Agentic AI capabilities across Databricks, Azure AI Foundry,
+  and cloud-native AI platforms. This role will lead the
+  strategy, architecture, and implementation of foundation
+  models, custom models, AI platform services, ModelOps, and
+  Agentic AI frameworks that power enterprise AI solutions.
+
+  The ideal candidate combines deep machine learning expertise
+  with hands-on software engineering, cloud architecture,
+  MLOps, and platform engineering skills. They will drive
+  model lifecycle management, AI gateway architecture, model
+  routing strategies, token optimization, and enterprise AI
+  governance while enabling secure, scalable, and cost-
+  efficient AI adoption across the organization.
+
+  Key Responsibilities
+
+  Enterprise LLM Platform Leadership
+
+  - Own the enterprise strategy for foundation models, frontier
+    models, and custom enterprise models.
+  - Evaluate, benchmark, onboard, and operationalize leading AI
+    models from OpenAI, Anthropic, Google, Azure AI Foundry,
+    Databricks Mosaic AI, and open-source ecosystems.
+  - Define model selection and deployment strategies based on
+    performance, cost, security, latency, and business
+    requirements.
+  - Establish enterprise standards for model consumption and
+    governance.
+
+  Model Lifecycle Management (ModelOps)
+
+  - Architect and implement end-to-end model lifecycle
+    management capabilities.
+  - Lead model training, fine-tuning, evaluation, testing,
+    deployment, monitoring, optimization, and retirement
+    processes.
+  - Build automated ModelOps and MLOps pipelines to support
+    enterprise-scale AI workloads.
+  - Implement model versioning, lineage, experimentation
+    tracking, model monitoring, and drift detection
+    frameworks.
+  - Ensure reproducibility, compliance, governance, and
+    auditability of AI models.
+
+  Agentic AI Architecture
+
+  - Design and implement enterprise Agentic AI architectures and
+    frameworks.
+  - Develop multi-agent orchestration patterns, planning
+    frameworks, tool integration, reasoning workflows, memory
+    management, and contextual intelligence capabilities.
+  - Define AgentOps standards for deployment, monitoring,
+    evaluation, and governance of autonomous agents.
+  - Establish reusable enterprise frameworks supporting scalable
+    agent development and deployment.
+
+  AI Gateway & Model Routing
+
+  - Architect enterprise AI Gateway capabilities for secure
+    model access and governance.
+  - Design LLM routing frameworks that dynamically select
+    optimal models based on workload, cost, latency, and
+    performance requirements.
+  - Define model consumption patterns for applications, APIs,
+    copilots, and intelligent agents.
+  - Enable centralized access, governance, monitoring, and
+    observability across all AI services.
+  - Develop abstraction layers supporting seamless integration
+    of multiple foundation models.
+
+  Token Optimization & AI FinOps
+
+  - Define token optimization strategies to improve AI cost
+    efficiency and performance.
+  - Implement prompt engineering, caching, model tiering,
+    response optimization, and intelligent routing techniques.
+  - Establish monitoring and reporting frameworks for model
+    utilization, token consumption, and AI infrastructure
+    costs.
+  - Drive AI FinOps initiatives and platform optimization
+    strategies.
+
+  AI Platform Engineering
+
+  - Build and scale AI platform capabilities on Databricks,
+    Azure AI Foundry, and Azure cloud platforms.
+  - Architect enterprise-ready model serving, inference, vector
+    search, RAG, and semantic retrieval solutions.
+  - Develop reusable AI platform services, accelerators, SDKs,
+    and reference architectures.
+
+  - Enable secure and governed AI consumption across multiple
+    business domains.
+
+  Cloud Infrastructure & Security
+
+  - Design cloud-native infrastructure for model training, fine-
+    tuning, and large-scale inference workloads.
+  - Build GPU-enabled, highly scalable, resilient, and secure AI
+    environments.
+  - Implement Infrastructure as Code, automated deployments, and
+    platform observability.
+  - Establish security-by-design principles for AI workloads
+    including model security, access controls, secrets
+    management, and responsible AI controls.
+  - Collaborate with Security and Governance teams to ensure
+    compliance with enterprise standards.
+
+  Technical Leadership
+
+  - Serve as the principal technical authority for Machine
+    Learning, LLMs, Agentic AI, and Model Platforms.
+  - Mentor AI Engineers, ML Engineers, Platform Engineers, and
+    Architects.
+  - Lead architecture reviews, platform strategy discussions,
+    and technology evaluations.
+  - Drive innovation through proof-of-concepts and adoption of
+    emerging AI technologies.
+  - Partner with business and technology leaders to accelerate
+    AI transformation initiatives.
+
+  Required Technical Skills
+
+  Qualifications
+
+  - Bachelor's or Master's degree in Computer Science,
+    Artificial Intelligence, Data Science, Engineering, or
+    related field.
+  - 12+ years of experience in Software Engineering, Machine
+    Learning, AI Platform Engineering, or Cloud Architecture.
+  - 5+ years of experience leading enterprise AI/ML platform
+    implementations.
+  - Proven experience deploying and operating large-scale AI,
+    LLM, and Agentic AI solutions in production environments.
+
+  Success Metrics
+
+  - Successful operationalization of frontier and custom
+    foundation models.
+  - AI platform scalability, reliability, security, and
+    governance compliance.
+  - Reduced model deployment timelines through automated
+    ModelOps capabilities.
+  - Optimized AI infrastructure and token consumption costs.
+  - Adoption of reusable AI platform patterns across business
+    domains.
+  - Increased speed, quality, and business impact of AI and
+    Agentic AI solutions
+  - Establishment of enterprise-grade AI architecture standards
+    and engineering excellence.
+posted_date: 2026-09-21
+url: "https://builtin.com/job/principal-ai-engineer-ml-mlops-platform-architect/11282375"
+source: Built In

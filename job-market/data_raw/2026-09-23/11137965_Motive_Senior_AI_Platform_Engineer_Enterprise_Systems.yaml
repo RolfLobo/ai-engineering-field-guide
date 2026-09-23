@@ -1,0 +1,143 @@
+job_id: 11137965
+title: Senior AI Platform Engineer ( Enterprise Systems)
+company: Motive
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 4,000 Employees
+description: |
+  Who we are:
+
+  Motive empowers the people who run physical operations with
+  tools to make their work safer, more productive, and more
+  profitable. For the first time ever, safety, operations and
+  finance teams can manage their drivers, vehicles, equipment,
+  and fleet related spend in a single system. Combined with
+  industry leading AI, the Motive platform gives you complete
+  visibility and control, and significantly reduces manual
+  workloads by automating and simplifying tasks.
+
+  Motive serves nearly 100,000 customers – from Fortune 500
+  enterprises to small businesses – across a wide range of
+  industries, including transportation and logistics,
+  construction, energy, field service, manufacturing,
+  agriculture, food and beverage, retail, and the public
+  sector.
+
+  Visit gomotive.com to learn more.
+
+  About the Role
+
+  Senior engineer who ships production software and AI systems
+  on cloud infrastructure that is reliable, secure, and cost-
+  disciplined. You design applications and services, operate
+  inference platforms and pipelines, and treat unit economics
+  (tokens, GPU-hours, idle capacity) as engineering
+  constraints.
+
+  You partner with product, engineering, and business
+  stakeholders to deliver working software, higher
+  reliability, and lower cost per unit of AI value.
+
+  What You Will Do
+
+  Software development
+
+  - Design, build, and ship production services, APIs, and
+    (where needed) user-facing interfaces.
+  - Own the full lifecycle: implementation, tests, code review,
+    CI/CD, deploy, and maintenance.
+  - Write maintainable code in Python plus one more stack
+    (TypeScript/Node, Go, or Java).
+
+  AI engineering
+
+  - Build and operate production AI systems: RAG, evaluation,
+    fine-tuning, serving, and inference optimization.
+  - Turn prototypes into reusable platform capabilities with
+    CI/CD, eval, and governance.
+
+  Cloud infrastructure
+
+  - Architect AWS/GCP environments with Kubernetes, Terraform,
+    and CI/CD for apps and model pipelines.
+  - Own observability and incident response; partner on SOC
+    2/SOX and least-privilege IAM.
+
+  Cost control
+
+  - Treat cloud and AI spend as an engineering problem:
+    visibility, attribution, budgets, and reduction.
+  - Optimize GPUs, inference routing, model choice, and right-
+    sizing; track cost per request/token and GPU idle.
+
+  What We're Looking For
+
+  Required
+
+  - 5+ years of professional software development, owning
+    production systems (not only scripts or notebooks).
+  - Shipped backend services/APIs and production AI/ML (LLMs,
+    RAG, serving).
+  - Strong Python plus a second stack; PyTorch, TensorFlow, or
+    equivalent serving.
+  - AWS or GCP with Kubernetes, Terraform, and CI/CD.
+  - Proven work reducing or governing cloud/AI spend.
+  - Clear communication of technical and cost tradeoffs; you run
+    what you build.
+
+  Preferred
+
+  - Full-stack (React/Next.js), vector databases, inference
+    optimization, FinOps tooling, SOX/SOC 2, Copilot/Cursor.
+
+  What Success Looks Like
+
+  - Production software and AI with SLOs and real ownership —
+    not demos.
+  - Reliability stays high while GPU and cloud waste trends
+    down.
+  - Cost per unit of AI value is visible and improving; teams
+    reuse libraries, IaC, and cost guardrails.
+
+  Creating a diverse and inclusive workplace is one of
+  Motive's core values. We are an equal opportunity employer
+  and welcome people of different backgrounds, experiences,
+  abilities and perspectives.
+
+  Please review our Candidate Privacy Notice here.
+
+  UK Candidate Privacy Notice here.
+
+  The applicant must be authorized to receive and access those
+  commodities and technologies controlled under U.S. Export
+  Administration Regulations. It is Motive's policy to require
+  that employees be authorized to receive access to Motive
+  products and technology.
+
+  Regarding US-based roles, depending on your role and primary
+  work location, Motive Technologies, Inc. (“Employer”)
+  discloses candidates may be required to execute a non-
+  compete covenant with the Employer. This requirement does
+  not apply to lawyers, interns, or employees working in CA,
+  MN, MT, ND, OK, or where otherwise prohibited by law.
+
+  Non-compete covenant terms in all other jurisdictions will
+  be subject to the applicable statutory requirements,
+  including but not limited to, procedures, industry related
+  prohibitions, or salary and compensation thresholds.
+
+  All job postings are for existing vacancies. Please note;
+  some interviews or new-hire training sessions may be held in
+  person at one of our global offices.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Hardware
+  - Information Technology
+  - Sales
+  - Software
+  - Transportation
+posted_date: 2026-09-11
+url: "https://builtin.com/job/senior-ai-platform-engineer-enterprise-systems/11137965"
+source: Built In

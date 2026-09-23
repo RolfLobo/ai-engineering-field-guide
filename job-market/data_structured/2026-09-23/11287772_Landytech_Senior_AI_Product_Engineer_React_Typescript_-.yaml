@@ -1,0 +1,57 @@
+company:
+  name: Landytech
+  stage: Series B
+  focus: Investment reporting and asset data platform
+position:
+  title: Senior AI Product Engineer (React / Typescript) - UX
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role's stated core problem is directing AI code-
+      generation tools: defining the standards and instructions
+      agents work to, critically evaluating their output, and
+      tightening rules so errors don't recur. That is
+      prompt/specification and eval-style shaping of an LLM's
+      output quality (lives in the repo and tooling), so it
+      qualifies as shaping and involves LLM/generative text-code
+      components, making it ai-first.
+  responsibilities:
+  - 'Own the Sesame product experience end to end: client journey, interaction logic,
+    look and feel, and consistency'
+  - Build the front-end experience layer, especially dense and difficult interfaces,
+    and set patterns for the team
+  - Develop and maintain the in-code design system with a leading voice in what belongs
+    in it
+  - Define the standards and instructions AI tooling and agents work to, critique
+    generated output, and tighten rules to prevent recurring errors
+  - Work directly with investment professionals, family offices, and advisors and
+    act on their feedback
+  - 'Uphold craft in dense financial interfaces: legible virtualised tables, precise
+    numbers, drill-downs that survive load'
+  - Review others' work, teach, and hold quality standards across the team
+  use_cases:
+  - Investment reporting platform for investment managers, asset owners, and advisors
+  - Dense financial interfaces with virtualised tables and drill-downs over real portfolio
+    data
+  - AI-assisted design and engineering of product screens directed by a code-based
+    design system
+  - Client experience journeys for investment professionals across 15+ countries
+  skills:
+    genai: [AI Agents, LLMs]
+    ml: []
+    web: [React, shadcn/ui, Data Visualization]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [Design Systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11287772'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:34:37.102424'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

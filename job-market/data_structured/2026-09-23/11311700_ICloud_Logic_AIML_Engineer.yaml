@@ -1,0 +1,49 @@
+company:
+  name: ICloud Logic
+  stage: null
+  focus: |-
+    IT services company (predictive maintenance/fraud/system
+    monitoring)
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds anomaly detection, time series, and
+      correlation models (classical ML/DL) with no LLM or agent
+      component, so it is ml-first. The engineer shapes model
+      behavior directly via model training and evaluation.
+  responsibilities:
+  - Design and implement multi-variate anomaly detection systems
+  - Build pattern recognition models for complex time series with adaptive thresholding
+  - Develop correlation and causality analysis algorithms across multiple data streams
+  - Create correlation-based clustering and visualization dashboards
+  - Build real-time monitoring pipelines and automated alert prioritization systems
+  - Track model performance and manage production deployments
+  use_cases:
+  - Predictive maintenance
+  - Fraud detection
+  - System monitoring
+  - Real-time anomaly detection and alerting
+  - Correlation and causality analysis across data streams
+  skills:
+    genai: []
+    ml: [Anomaly Detection, Isolation Forest, One-Class SVM, LSTM Autoencoders, Prophet,
+      ARIMA, scikit-learn, TensorFlow, Machine Learning, Time Series Analysis, Model
+        Training, Statsmodels]
+    web: []
+    databases: [Elasticsearch]
+    data: [NumPy, Pandas, SciPy, Spark, Kafka]
+    cloud: []
+    ops: [Grafana, Docker, Kubernetes, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [Kibana, A/B Testing, Hypothesis Testing, DTW, Plotly, D3.js, Granger Causality]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11311700'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:37:38.765892'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

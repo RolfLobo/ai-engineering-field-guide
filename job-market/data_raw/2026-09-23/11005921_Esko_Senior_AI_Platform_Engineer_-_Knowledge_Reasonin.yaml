@@ -1,0 +1,203 @@
+job_id: 11005921
+title: "Senior AI Platform Engineer - Knowledge & Reasoning"
+company: Esko
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 1,654 Employees
+description: |
+  Senior AI Platform Engineer -   Knowledge & Reasoning
+
+  Location: Bangalore (Quarterly once visit to the office for
+  2 weeks) Function: Software Engineering Reports to:
+  Engineering Manager, Esko AI
+
+
+  About the role
+
+  The Esko AI team is a group of specialists focused on
+  leveraging AI to solve valuable and often challenging
+  customer problems that have historically resisted automation
+  via purely rule-based approaches. To succeed, we must ingest
+  and leverage expert knowledge to augment the capabilities of
+  our AI agents and services. This capability will be a key
+  part of Esko’s centralized AI platform, enabling wider teams
+  to build AI into their products using a common base.
+
+  Packaging workflows are governed by knowledge of very
+  different kinds: regulatory requirements (FDA, EMA, QRD),
+  technical specifications, brand guidelines, customer-
+  specific conventions, and practices that currently live in
+  the heads of experts. Some of this knowledge is binding,
+  some advisory, some contradictory, and much of it applies
+  only to a particular customer, brand, or specific range of
+  designs.
+
+  For AI systems to operate reliably in this environment, they
+  must do more than retrieve relevant information. They need
+  to determine which knowledge applies, distinguish mandatory
+  requirements from guidance, handle missing or conflicting
+  evidence, and recognize when human judgement is required.
+
+  We are building knowledge and reasoning as a shared
+  capability of Esko's AI Platform, enabling product teams to
+  create AI-powered workflows grounded in trusted, contextual
+  knowledge. As part of the platform team, you will help shape
+  and build this capability, taking end-to-end ownership of
+  substantial technical areas.
+
+
+
+  What you will do
+
+  - Design the knowledge representation: how constraints,
+    transformations, procedures, and guidelines are modelled
+    so that both agents and deterministic validators can use
+    them, and so that humans can read, curate and correct
+    them.
+
+  - Build and operate platform services for ingesting, curating,
+    retrieving, and versioning knowledge, ensuring it is
+    scoped correctly to the relevant customer and workflow
+    context.
+
+  - Define how semantic retrieval, deterministic validation, and
+    human review work together, including how applicability,
+    uncertainty, conflicting evidence, and escalation are
+    handled.
+
+  - Design and implement reusable APIs and tools that allow AI
+    systems and deterministic services to apply, validate, and
+    explain contextual knowledge.
+
+  - Build evaluation suites covering retrieval quality,
+    applicability, conflict and ambiguity handling, and
+    explanation quality, using measurable results as the
+    primary evidence of progress.
+
+  - Take end-to-end ownership of substantial technical areas,
+    including their security, tenant isolation, reliability,
+    observability, performance, and compatibility for
+    consuming teams.
+
+  - Work directly with domain experts and product engineering
+    teams to turn informal expertise into structured, testable
+    knowledge with clear provenance, citation, and release
+    practices.
+
+
+
+  What we are looking for
+
+  - Strong software engineering experience designing, building,
+    and operating production systems in Python, TypeScript,
+    Java, or a similar language.
+
+  - At least 8 years’ experience in a software engineering role,
+    preferably including ownership of a platform, API or other
+    shared-services product used across multiple internal
+    teams.
+
+  - Experience building knowledge, retrieval, or rule systems
+    that other teams depend on, and the judgement to choose
+    the right formalism for a problem, whether that is a
+    schema, decision table, rules engine, graph, or retrieval.
+
+  - Practical experience with RAG, information extraction, and
+    structured validation (JSON Schema, Pydantic, or
+    equivalent).
+
+  - Sound judgement when reasoning about applicability,
+    exceptions, missing evidence, and ambiguity, including
+    recognizing when a system should decline to answer or
+    require human review.
+
+  - Experience constructing evaluation datasets, and the ability
+    to write clearly about modelling decisions, tradeoffs, and
+    failure modes.
+
+  - Undergraduate, Master’s degree or PhD in Computer Science /
+    Machine Learning / Data Science / Artificial Intelligence,
+    or related disciplines.
+
+  - Comfort operating at the boundary between a platform team
+    and the domain engineering teams that consume it,
+    balancing shared needs and central objectives against
+    individual team priorities and timelines.
+
+  - Excellent written and verbal communication, with the ability
+    to work fluently with both technical and business
+    stakeholders alike.
+
+
+
+  Preferred experience
+
+  - Semantic and symbolic tooling (RDF/OWL, SHACL, Datalog, DMN,
+    production rule engines, policy-as-code).
+
+  - Agentic systems with tools calling and validation-before-
+    action.
+
+  - Multi-tenant SaaS with strict isolation and audit
+    requirements.
+
+  - Experience in a high-accountability domain such as
+    pharmaceutical or food labelling, and legal technology.
+
+  - Experience in packaging graphics or the wider graphic arts
+    industry.
+
+
+
+  What success looks like
+
+  - Delivery of the knowledge module, conforming to agreed
+    specifications and architecture, in a way that delivers
+    measurable improvements in AI agent and service
+    effectiveness (e.g. increased end-user productivity).
+
+  - Product teams build shared knowledge services rather than
+    constructing their own.
+
+  - Agents apply the correct tenant-, market-, and customer-
+    specific constraints with measurably high recall, can
+    explain which knowledge items influenced a recommendation
+    or validation result, and escalate rather than guess when
+    knowledge is ambiguous, conflicting, or absent.
+
+  - Tenant-specific knowledge never crosses tenant boundaries.
+
+  - The knowledge base itself is versioned, tested, legible –
+    and curatable by the humans who must ultimately stand
+    behind it.
+
+  - Delivery of initiatives occurs in line with Esko’s Software
+    Development Lifecycle and in accordance with company
+    policy and security best practices.
+
+  - The knowledge module grows as a coherent whole rather than
+    fragmenting into one-off, team-specific solutions.
+
+  At Veralto, we value diversity and the existence of
+  similarities and differences, both visible and not, found in
+  our workforce, workplace and throughout the markets we
+  serve.  Our associates, customers and shareholders
+  contribute unique and different perspectives as a result of
+  these diverse attributes.
+
+
+  Unsolicited Assistance
+
+  We do not accept unsolicited assistance from any headhunters
+  or recruitment firms for any of our job openings. All
+  resumes or profiles submitted by search firms to any
+  employee at any of the Veralto companies, in any form
+  without a valid, signed search agreement in place for the
+  specific position, approved by Talent Acquisition, will be
+  deemed the sole property of Veralto and its companies. No
+  fee will be paid in the event the candidate is hired by
+  Veralto and its companies because of the unsolicited
+  referral.
+posted_date: 2026-09-03
+url: "https://builtin.com/job/senior-ai-platform-engineer-knowledge-reasoning/11005921"
+source: Built In

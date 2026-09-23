@@ -1,0 +1,53 @@
+company:
+  name: TALPRO INDIA PRIVATE LIMITED
+  stage: null
+  focus: IT staffing and consulting services
+position:
+  title: AI Engineer – Azure GenAI / Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM applications: prompt
+      engineering, RAG, embeddings, vector search, and agentic
+      workflows using Azure AI Foundry. This is directly shaping
+      LLM behavior, so it's ai-first.
+  responsibilities:
+  - Build full-stack LLM-powered AI applications using Azure technologies
+  - Implement prompt engineering, grounding, RAG patterns, embeddings, and vector
+    search
+  - Develop APIs and microservices using Python, .NET/C#, or Node.js
+  - Develop Agentic AI solutions using Azure AI Foundry and Copilot Studio
+  - Implement CI/CD pipelines and deploy to AKS, Azure App Service, and Azure Functions
+  - Build data and feature pipelines using Azure Data Factory, Synapse, or Databricks
+  - Manage prompt versioning, embeddings, model deployments, and production monitoring
+  - Conduct code reviews, audits, and quality reviews following responsible AI and
+    security standards
+  use_cases:
+  - Enterprise-grade LLM-powered AI applications
+  - RAG-based enterprise knowledge retrieval with vector search
+  - Agentic AI solutions built on the Azure AI stack
+  - Enterprise Copilot Studio and Power Platform solutions
+  - AI integration with enterprise systems and user interfaces
+  - Production model operations and monitoring
+  skills:
+    genai: [RAG, Prompt Engineering, Agentic Workflows, Embeddings, PromptFlow, Function
+        Calling]
+    ml: []
+    web: [REST APIs, GraphQL, Microservices, Streamlit, React]
+    databases: [Azure AI Search, Vector Databases, Vector Search]
+    data: [Data Pipelines, Databricks]
+    cloud: [Azure OpenAI, Azure AI Foundry, Azure, Azure ML, Azure Cognitive Services,
+      AKS, Azure App Service, Azure Functions, Azure Data Factory, Synapse, Azure
+        Key Vault, Managed Identity, RBAC]
+    ops: [CI/CD, GitHub Actions, Azure DevOps, Docker, GitHub, MLflow, MLOps, LLMOps]
+    languages: [Python, C#, Node.js, .NET]
+    domains: [NLP]
+    other: [Responsible AI, Copilot Studio, GitHub Copilot, PEP8, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11035813'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:14:01.627578'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

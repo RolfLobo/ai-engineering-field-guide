@@ -1,0 +1,44 @@
+company:
+  name: Tecvesten Consulting LLP
+  stage: null
+  focus: Consulting firm offering AI and automation services
+position:
+  title: AI Prompt Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, tests, and refines prompts and evaluates
+      AI output quality directly, which is shaping model behavior
+      on LLM-based components. It is a clear ai-first prompt
+      engineering role.
+  responsibilities:
+  - Design and optimize prompts for AI models to achieve desired outputs
+  - Test and refine prompts for accuracy, relevance, and efficiency
+  - Collaborate with developers and business teams to understand requirements
+  - Analyze AI-generated responses and improve performance
+  - Create prompt libraries and best practices documentation
+  - Work with AI tools for content generation, automation, and workflows
+  - Monitor and evaluate AI outputs for quality and consistency
+  use_cases:
+  - Content generation
+  - Workflow automation
+  - Prompt library and best practices for AI usage
+  skills:
+    genai: [Prompt Engineering, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11114654'
+  location: Alwarpet, IND
+  extracted_at: '2026-09-23T11:19:37.268691'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

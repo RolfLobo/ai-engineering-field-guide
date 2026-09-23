@@ -1,0 +1,109 @@
+job_id: 11179539
+title: Senior AI Developer
+company: Sitero
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 362 Employees
+description: |
+  Senior AI Developer
+
+  Sitero is a technology-enabled clinical research
+  organization (CRO) and eClinical solutions provider
+  dedicated to accelerating drug development for
+  pharmaceutical manufacturers, emerging biotechs, and medical
+  device companies. Our integrated platform combines expert
+  regulatory consulting, end-to-end clinical trial management,
+  and purpose-built eClinical technology — including
+  electronic data capture (EDC), electronic Trial Master File
+  (eTMF), clinical trial management systems (CTMS), RTSM,
+  Patient Payments, eConsent, pharmacovigilance, quality
+  management, and SiteroAI — all in a single, sponsor-centric
+  business model.
+
+  Sitero is seeking a Senior AI Developer to design, build,
+  and deploy next-generation AI-driven applications. You will
+  bridge the gap between advanced machine learning models and
+  scalable, production-ready enterprise solutions leveraging
+  modern cloud AI platforms.
+
+  Job Title: Senior AI Developer
+
+  Location: Bangalore, Karnataka
+
+  Function: IT and Hosting Services/Engineering
+
+  ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+  - Application Architecture: Design robust, scalable
+    architectures for AI-powered applications natively on the
+    cloud.
+  - Model Orchestration: Deploy and manage foundation models
+    using AWS Bedrock and orchestrate complex prompt
+    workflows.
+  - API Development: Build and maintain secure, high-performance
+    APIs and microservices using Python, Java, or Node.js.
+  - Data Integration: Implement Retrieval-Augmented Generation
+    (RAG) pipelines to connect internal corporate data with
+    language models.
+  - System Optimization: Optimize application latency, token
+    throughput, and overall compute costs for AI inference.
+  - Collaboration & Mentorship: Partner with product teams to
+    build AI agents and mentor junior engineers on engineering
+    best practices.
+
+  EDUCATION AND EXPERIENCE REQUIRED:
+
+  - Education:Bachelor’s or master’s degree in computer science,
+    Engineering, or a related field.
+  - AI & Cloud Platforms:Deep hands-on experience with AWS
+    Bedrock, including model evaluation and agent setup.
+  - AI Ecosystem:Experience with orchestration frameworks like
+    LangChain, LlamaIndex, or the Hugging Face ecosystem.
+  - Core Development:Strong software engineering proficiency in
+    Python, Java, or Node.js.
+  - Data Systems:Experience working with Vector Databases (e.g.,
+    Pinecone, Amazon OpenSearch, Milvus) and SQL/NoSQL
+    systems.
+  - Software Engineering:Solid understanding of CI/CD pipelines,
+    Docker, Kubernetes, and Git workflows.
+
+  Preferred Qualifications
+
+  - Experience with AWS Certified Generative AI
+    Developercredentials or building production-grade
+    enterprise agents.
+  - Familiarity with advanced prompt optimization, guardrails,
+    and model fine-tuning techniques.
+  - 5-8 years experience.
+
+  COMPENSATION & BENEFITS:
+
+  Sitero proudly offers an impressive compensation package and
+  benefits, including a competitive salary, Variable pay, paid
+  time off, and healthcare and retirement benefits.
+
+  EMPLOYMENT TYPE:
+
+  Full Time, Permanent
+
+  COMMITMENTS:
+
+  - Standard Hours 40 hours per week, one hour lunch, Monday –
+    Friday. Additional hours as needed.
+  - Willing to work in shifts as and when needed.
+
+  DISCLAIMER:
+
+  Sitero is an equal opportunity employer and welcomes all job
+  applicants.  All qualified applicants will receive
+  consideration for employment without discrimination on the
+  basis of race, color, religion, sex, sexual orientation,
+  gender identity, national origin, protected veteran status,
+  disability, or any other factors prohibited by law.
+industries:
+  - Information Technology
+  - Software
+  - Biotech
+posted_date: 2026-09-15
+url: "https://builtin.com/job/senior-ai-developer/11179539"
+source: Built In

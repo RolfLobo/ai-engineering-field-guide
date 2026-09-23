@@ -1,0 +1,194 @@
+job_id: 10839499
+title: Sr AI Data Engineer
+company: GE Aerospace
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Job Description SummaryThe Senior Data Engineer designs and
+  builds the AWS-native data foundation behind our enterprise
+  AI applications — knowledge graphs, semantic layers,
+  retrieval corpora, and the pipelines that keep them
+  trustworthy. This role leads both the design strategy for
+  how our AI systems understand enterprise data and the hands-
+  on engineering to make it real. You will set the patterns
+  the rest of the team — including citizen developers building
+  with Agents and MCPs — follow when they access, curate, or
+  extend our data.
+
+  Job Description
+
+  Roles and Responsibilities:
+
+  Knowledge Graph and Semantic Layer (primary focus)
+
+  - Lead the design and evolution of the knowledge graphs and
+    ontologies powering our AI's reasoning, retrieval, and
+    explainability.
+  - Align enterprise data (engineering handbooks, parts, service
+    manuals, DMAIC records, user files) into a coherent,
+    queryable graph with clear provenance across structured,
+    semi-structured, and unstructured sources.
+  - Own the retrieval substrate — graph queries, vector indexes,
+    and hybrid retrieval — and drive measurable improvements
+    in grounding quality.
+
+  AI/ML Data Quality
+
+  - Curate grounding corpora, eval datasets, and retrieval
+    benchmarks for LLM-based features.
+  - Instrument metrics for retrieval quality, grounding
+    accuracy, and freshness; drive regressions down over time.
+  - Shape training and inference data contracts with AI
+    engineers, including feedback loops from user signals.
+
+  Data Modeling and Pipelines on AWS
+
+  - Produce conceptual, logical, and physical data models for
+    operational and analytical workloads; establish modeling
+    standards, naming conventions, and reuse patterns.
+  - Build ingestion and transformation pipelines in Python and
+    SQL using AWS services — Glue, Lambda, Step Functions, S3,
+    Athena, OpenSearch, Neptune — and AI services such as
+    Bedrock and Bedrock Knowledge Bases.
+  - Author infrastructure as code in CloudFormation (CDK
+    welcome) and apply AWS best practices for IAM, security,
+    cost, and observability.
+  - Profile sources, identify data quality gaps, and design
+    automated validation, monitoring, metadata, and lineage.
+
+  Data Governance and Identity Integration
+
+  - Partner with security and platform teams to integrate data
+    access with enterprise identity and access policies, as we
+    look to modernize for AI.
+  - Define data contracts, attributes, and metadata that policy
+    engines can reason over for attribute- and context-based
+    access control.
+  - Contribute to the technical data dictionary, business
+    glossary, and data catalog.
+
+  Technical Leadership
+
+  - Set the design direction for data and semantic modeling
+    across the team.
+  - Mentor engineers and citizen developers on modeling,
+    ontology design, and retrieval engineering.
+  - Communicate tradeoffs and value clearly to product,
+    business, and executive stakeholders
+
+  Required Qualifications:
+
+  - Bachelor's degree in Computer Science, Engineering, or a
+    STEM field
+  - A minimum of three years of data engineering experience
+
+  Eligibility Requirement:
+
+  - Legal authorization to work in the U.S. is required.  We
+    will not sponsor individuals for employment visas, now or
+    in the future, for this job.
+
+  Desired Qualifications:
+
+  - 5+ years of hands-on data engineering with a track record of
+    designing — not just implementing — data models and
+    semantic layers.
+  - Production experience with knowledge graphs and ontologies
+    (Neo4j, Neptune, TigerGraph, RDF/SPARQL, or similar) and
+    graph query languages (Cypher, Gremlin, SPARQL).
+  - Strong AWS proficiency required: CloudFormation (or CDK),
+    Glue, Lambda, Step Functions, S3, IAM, Bedrock, Bedrock
+    Knowledge Bases; OpenSearch and Neptune a plus.
+  - Strong Python and SQL; comfort across relational, graph,
+    vector, and document stores.
+  - Experience supporting AI/ML or LLM systems — RAG pipelines,
+    embeddings, eval datasets, grounding corpora.
+  - Experience integrating data access with enterprise identity
+    and policy systems
+  - Strong cross-functional collaboration and communication,
+    including technical presentations to non-data audiences.
+
+  Leadership Skills:
+
+  - Ability to work effectively with multi-disciplinary teams
+    (e.g., Digital Technology, GE Business teams) and
+    understand the inter-dependencies between them.
+  - Ability to showcase teamwork skills to achieve common goals,
+    provide resolutions and share ideas.
+  - Demonstrate the presentation and influencing skills
+
+  The base pay range for this position is $110,00-145,000. The
+  specific pay offered may be influenced by a variety of
+  factors, including the candidate’s experience, education,
+  and skill set. This position is also eligible for an annual
+  discretionary bonus based on a percentage of your base
+  salary/ commission based on the plan. This posting is
+  expected to close on September 18th, 2026.
+
+  GE Aerospace offers comprehensive benefits and programs to
+  support your health and, along with programs like
+  HealthAhead, your physical, emotional, financial and social
+  wellbeing. Healthcare benefits include medical, dental,
+  vision, and prescription drug coverage; access to a Health
+  Coach from GE Aerospace; and the Employee Assistance
+  Program, which provides 24/7 confidential assessment,
+  counseling and referral services. Retirement benefits
+  include the GE Aerospace Retirement Savings Plan, a 401(k)
+  savings plan with company matching contributions and company
+  retirement contributions, as well as access to Fidelity
+  resources and planning consultants. Other benefits include
+  tuition assistance, adoption assistance, paid parental
+  leave, disability insurance, life insurance, and paid time-
+  off for vacation or illness.
+
+  GE Aerospace (General Electric Company or the Company) and
+  its affiliates each sponsor certain employee benefit plans
+  or programs (i.e., is a “Sponsor”). Each Sponsor reserves
+  the right to terminate, amend, suspend, replace or modify
+  its benefit plans and programs at any time and for any
+  reason, in its sole discretion. No individual has a vested
+  right to any benefit under a Sponsor’s welfare benefit plan
+  or program. This document does not create a contract of
+  employment with any individual.
+
+  This role will require in-person attendance for New Hire
+  Orientation on Day 1
+
+  #LI-JR1
+
+  This role requires access to U.S. export-controlled
+  information. Therefore, employment will be contingent upon
+  the ability to prove that you meet the status of a U.S.
+  Person as one of the following: U.S. lawful permanent
+  resident, U.S. Citizen, have been granted asylee or refugee
+  status (i.e., a protected individual under the Immigration
+  and Naturalization Act, 8 U.S.C. 1324b(a)(3)).
+
+  Additional Information
+
+  GE Aerospace offers a great work environment, professional
+  development, challenging careers, and competitive
+  compensation. GE Aerospace is an Equal Opportunity Employer.
+  Employment decisions are made without regard to race, color,
+  religion, national or ethnic origin, sex, sexual
+  orientation, gender identity or expression, age, disability,
+  protected veteran status or other characteristics protected
+  by law.
+
+  GE Aerospace will only employ those who are legally
+  authorized to work in the United States for this opening.
+  Any offer of employment is conditioned upon the successful
+  completion of a drug screen (as applicable). Employees may
+  also be subject to random and reasonable-suspicion drug and
+  alcohol testing.
+
+  Relocation Assistance Provided: No
+
+  #LI-Remote - This is a remote position
+industries:
+  - Aerospace
+  - Energy
+posted_date: 2026-09-15
+url: "https://www.builtinla.com/job/sr-ai-data-engineer/10839499"
+source: Built In

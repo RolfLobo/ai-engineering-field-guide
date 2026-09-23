@@ -1,0 +1,88 @@
+company:
+  name: Oyster
+  stage: null
+  focus: |-
+    Global employment platform for hiring and paying distributed
+    teams
+position:
+  title: Senior AI Solutions Engineer - GTM
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and improves production AI agents,
+      agentic workflows, and LLM-based solutions directly, which
+      is shaping model behaviour through agent design and
+      orchestration. Customer-facing GTM context doesn't change
+      this. LLM/agent component dominates, so ai-first.
+  responsibilities:
+  - Make GTM teams AI native by reimagaging how Sales, Marketing, Customer Success,
+    Partnerships, and RevOps work with AI
+  - Partner with GTM leaders to shape and prioritize the AI transformation roadmap
+  - Own complex AI solutions end to end from discovery through design, build, deployment,
+    adoption, and improvement
+  - Design, build, test, and continuously improve AI agents, agentic workflows, automations,
+    and integrations using LLMs and orchestration platforms
+  - Drive AI adoption and self-sufficiency across GTM teams through enablement and
+    reusable patterns
+  - Measure and improve adoption, quality, reliability, and business impact of solutions
+    post-launch
+  - Share reusable patterns with other AI Solutions Engineers, mentor colleagues,
+    and raise AI capability across the organization
+  use_cases:
+  - AI agents and agentic workflows automating Sales, Marketing, Customer Success,
+    Partnerships, and Revenue Operations work
+  - Integrations connecting LLM-driven agents to business systems via APIs, webhooks,
+    and enterprise data
+  - Reusable prompts and AI-powered workflows embedded into everyday GTM operations
+  - Post-launch measurement of adoption, quality, and business impact of AI solutions
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, RAG, MCP, AI Evaluation]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, SQL]
+    domains: []
+    other: [n8n, Zapier, Make, Salesforce, HubSpot, Gong, Clay]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11256046'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - CAN
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - BRA
+  - ISL
+  - MEX
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-09-23T11:31:40.196241'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

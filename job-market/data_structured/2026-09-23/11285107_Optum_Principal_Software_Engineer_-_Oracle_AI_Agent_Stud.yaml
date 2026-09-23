@@ -1,0 +1,47 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare services and technology improving health outcomes
+position:
+  title: Principal Software Engineer - Oracle AI Agent Studio, Oracle etc.
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops prompts, workflows, actions, and agent
+      configurations within Oracle AI Agent Studio, directly
+      shaping agent behavior and output quality, with a clear
+      LLM/agent component. So it is ai-first.
+  responsibilities:
+  - Configure and maintain Oracle AI Agents and Agentic Applications
+  - Develop prompts, workflows, actions, and integrations within Oracle AI Agent Studio
+  - Translate business requirements into scalable technical solutions across Oracle
+    applications
+  - Perform testing, debugging, and defect remediation
+  - Support deployments, environment migrations, and production support
+  - Monitor agent performance and investigate production issues
+  - Create technical documentation and implementation artifacts
+  - Collaborate with integration, security, and functional teams
+  use_cases:
+  - AI-enabled workflows and automation across Oracle applications
+  - Agentic applications integrated into Oracle Fusion Cloud enterprise processes
+  - Enterprise AI agents supporting HCM and ERP functions
+  skills:
+    genai: [AI Agents, Prompt Engineering, Agentic Workflows, Generative AI]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, SQL]
+    domains: []
+    other: [Oracle AI Agent Studio, Oracle Fusion Cloud, Oracle HCM, Oracle ERP, Oracle
+        Integration Cloud]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11285107'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:35:23.991088'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

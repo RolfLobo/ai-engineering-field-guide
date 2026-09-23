@@ -1,0 +1,52 @@
+company:
+  name: Meraki Labs
+  stage: null
+  focus: AI tutoring platform for education
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM/agent behavior: builds agentic tutoring
+      flows, designs retrieval/grounding (chunking, embeddings,
+      re-ranking), prompts, evals, and guardrails for a tutoring
+      product. Clear ai-first.
+  responsibilities:
+  - Build agentic tutoring flows including hinting, step-by-step guidance, and misconception
+    detection
+  - Build answer evaluation, grading, and feedback loops
+  - Design retrieval and grounding pipelines (content ingestion, chunking, embedding,
+    re-ranking)
+  - Implement personalization via student memory, progress signals, and difficulty
+    adaptation
+  - Build multimodal pipelines for images and diagrams
+  - Harden prototypes into production systems with latency/cost optimization, evals,
+    observability, and guardrails
+  - Own features end-to-end from PRD to deployment and monitoring
+  use_cases:
+  - AI tutoring with hinting and step-by-step guidance
+  - Misconception detection in student answers
+  - Automated answer grading and feedback
+  - Retrieval-grounded content delivery for education
+  - Personalized learning with student memory and difficulty adaptation
+  - Multimodal tutoring over images and diagrams
+  skills:
+    genai: [AI Agents, RAG, Embeddings, LLMs, OpenAI API, LangChain, Haystack, LLM
+        Evaluation, Guardrails, Prompt Engineering, Multimodal AI]
+    ml: []
+    web: [FastAPI, Flask, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10851457'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:02:37.736636'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

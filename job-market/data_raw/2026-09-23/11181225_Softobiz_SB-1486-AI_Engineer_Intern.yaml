@@ -1,0 +1,136 @@
+job_id: 11181225
+title: SB-1486-AI Engineer Intern
+company: Softobiz
+location: Kochi, IND
+work_type: INTERN
+company_size: 311 Employees
+description: |
+  AI Engineer Intern
+
+  Role Summary
+
+  We are looking for five AI Engineering Interns to learn and
+  contribute to production-grade agentic AI systems alongside
+  our engineers. This is a hands-on, mentored internship
+  centred on multi-agent orchestration, context management,
+  and large language model (LLM) integration. It is open to
+  final-year students and recent graduates — what matters most
+  is outstanding computer-science fundamentals, strong data
+  structures and algorithms (DSA) skills, and hands-on ability
+  with Python.
+
+  You will work under the guidance of senior engineers on
+  agent workflows and the context architecture behind them,
+  contributing to real features while building production-
+  grade skills. The ideal intern has a strong academic record,
+  sharp problem-solving ability, genuine enthusiasm for the
+  agentic AI stack, and the drive to convert this internship
+  into a full-time AI Engineer role.
+
+  Key Responsibilities
+
+  Agent Orchestration & Workflow
+
+  - Assist in designing and implementing multi-agent workflows
+    using LangGraph on Python with Pydantic structured output,
+    under the guidance of senior engineers.
+  - Help model processes as stateful, resumable graphs with
+    branching, looping, retries, and checkpointing.
+  - Support implementation of safe pause/resume and human-in-
+    the-loop (HITL) checkpoints.
+
+  Context Engineering
+
+  - Learn and contribute to context management — layered
+    context, retrieval/indexing, and active working sets.
+  - Help implement context selectors and filters, token-budgeted
+    prompts, and summarisation/compaction of long histories.
+  - Assist in designing typed context schemas so each agent step
+    receives precise, high-signal context.
+
+  LLM Integration & Retrieval
+
+  - Integrate LLM providers (e.g. Anthropic, OpenAI / Azure
+    OpenAI) using prompt engineering, tool calling, and
+    structured output, with mentorship.
+  - Help wire in retrieval — vector search and embeddings — and
+    code-intelligence techniques for working over large
+    codebases.
+  - Contribute to model-routing experiments that balance task
+    type, latency, and cost.
+
+  Quality, Evaluation & Governance
+
+  - Help build evaluation and error-analysis loops; learn to
+    treat failures as feedback that improves reliability.
+  - Assist in implementing verification and validation patterns
+    and deterministic gates for agent outputs.
+  - Help keep agent decisions and context observable, auditable,
+    and reproducible.
+
+  Collaboration
+
+  - Work with platform/infrastructure engineers on deployment,
+    inference, and persistence tasks.
+  - Participate in design reviews, code reviews, and Demo Friday
+    — sharing your work, including failed experiments.
+
+  Required Technical Skills
+
+  DomainSkills & TechnologiesMust / PreferredCS Fundamentals &
+  DSAData structures, algorithms, complexity analysis, strong
+  problem-solvingMustProgrammingPython 3.10+ (async, typing);
+  clean, idiomatic codeMustAgent OrchestrationLangGraph —
+  graphs/state machines, checkpointers, HITL interruptsGood to
+  haveContext EngineeringLayered context, selectors/filters,
+  summarisation & compaction, token budgetingGood to
+  haveAgentic AI DevelopmentMulti-agent design, tool calling,
+  structured output, verification patternsGood to haveLLM
+  IntegrationAnthropic & OpenAI / Azure OpenAI SDKs, prompt
+  engineeringPreferredData ModellingPydantic v2, JSON Schema /
+  typed contractsPreferredRetrievalVector stores (e.g. Qdrant
+  / Azure AI Search), embeddingsPreferredContext ProtocolModel
+  Context Protocol (MCP) — resources/tools, Streamable
+  HTTPPreferredMulti-agent FrameworksCrewAI, Microsoft Agent
+  FrameworkPreferredDurable WorkflowsTemporal (long-running,
+  resumable flows)PreferredInferencevLLM awareness (paged
+  attention, batching, quantisation), model routingPreferred
+
+  Qualifications & Certifications
+
+  - Pursuing or recently completed B.Tech / B.E. / M.Tech / MCA
+    in Computer Science or a related field from a reputable
+    institution (or equivalent).
+  - Final-year students and recent graduates welcome; strong
+    fundamentals matter more than years of experience.
+  - Strong data structures, algorithms, and problem-solving
+    skills — a competitive-programming track record
+    (Codeforces / LeetCode / ICPC / similar) is a strong plus.
+  - Hands-on Python, plus any exposure to LLM / agentic AI
+    through academic projects or self-learning — with clear
+    eagerness to go deep on LangGraph and context engineering.
+
+  Preferred Certifications
+
+  - Any recognised AI/ML or agentic-AI online course or
+    certification (e.g. DeepLearning.AI, Anthropic, Microsoft
+    Azure AI Fundamentals).
+  - Any cloud fundamentals certification (Azure / AWS / GCP) is
+    a plus.
+
+  Soft Skills & Cultural Fit
+
+  - Strong analytical mindset with a structured approach to
+    design, debugging, and root-cause analysis.
+  - Clear written and verbal communication — able to explain
+    your approach to technical and non-technical people.
+  - Eagerness to learn, high coachability, and the ability to
+    take and act on feedback.
+  - Collaborative team player who contributes to shared
+    standards, code reviews, and knowledge sharing.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-15
+url: "https://builtin.com/job/sb-1486-ai-engineer-intern/11181225"
+source: Built In

@@ -1,0 +1,49 @@
+company:
+  name: HighLevel
+  stage: null
+  focus: AI-powered business operating system for agencies and SMBs
+position:
+  title: Senior Software Development Engineer (Social Planner- AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a senior full-stack engineer on a social
+      publishing team. AI appears only as AI-driven recommendation
+      features the product surfaces and AI-assisted coding tools
+      the engineer uses daily; neither involves shaping model
+      behavior themselves. Social listening/NLP is listed as a
+      "big plus," not a responsibility.
+  responsibilities:
+  - Build and operate large-scale distributed systems powering social media publishing
+  - Integrate with 9+ social platform APIs with differing rate limits and change cadences
+  - Build social listening at scale — understanding what the internet says about customers
+    using AI
+  - Engineer large-scale data ingestion, ETL/ELT and analytics over billions of rows
+  - Contribute across the full stack (TypeScript, Node.js, NestJS, Vue.js)
+  - Use AI coding tools daily as part of the development workflow
+  use_cases:
+  - Social media post publishing and scheduling across major platforms
+  - Post automation via CSV uploads, RSS, recurring and category queues
+  - Social listening and sentiment analysis at scale
+  - AI-driven best-time-to-post recommendations
+  - Engagement analytics, comment management and social statistics
+  skills:
+    databases: [ClickHouse, BigQuery, Snowflake]
+    domains: [NLP]
+    data: [Data Pipelines, Data Warehousing]
+    web: [NestJS, Vue]
+    ml: []
+    ops: [Distributed Systems]
+    other: [Sentiment Analysis, Social Listening]
+    cloud: []
+    languages: [TypeScript, Node.js]
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9499601'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:37:43.618455'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

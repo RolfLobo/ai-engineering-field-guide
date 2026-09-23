@@ -1,0 +1,61 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud IT and financial services solutions
+position:
+  title: Senior AI & Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: architecting agentic
+      systems, designing advanced RAG, fine-tuning and evaluating
+      LLMs, and building eval harnesses. Both LLM and classical ML
+      work present, so ai-first. IC role despite "leads" mentoring
+      language; description states individual contributor.
+  responsibilities:
+  - Serve as dual AI & data SME and escalation point for model design, data architecture,
+    and deployment decisions
+  - Architect and deliver agentic AI systems with multi-agent pipelines, tool use,
+    and autonomous orchestration
+  - Design advanced RAG architectures including hybrid search, re-ranking, and query
+    decomposition
+  - Lead LLM evaluation frameworks and fine-tuning/alignment strategies; benchmark
+    Claude, GPT, and Copilot
+  - Own the ML lifecycle end-to-end including MLOps pipelines, drift detection, and
+    model monitoring
+  - Define data architecture, engineering standards, and quality frameworks across
+    Databricks, Microsoft Fabric, and Collibra
+  - Architect end-to-end AI solutions integrating LLMs, ML models, vector stores,
+    and business APIs
+  - Mentor the Applied AI Engineer and AI Data Engineer and define engineering standards
+  use_cases:
+  - Agentic AI systems for autonomous task orchestration and automation
+  - LLM-based intelligence embedded into RPA workflows for unstructured inputs
+  - Enterprise AI-augmented reporting and BI dashboards
+  - ML solutions for NLP, forecasting, anomaly detection, and recommendations in financial
+    services
+  - Governed data platforms powering analytical and AI workloads
+  skills:
+    databases: []
+    domains: []
+    data: [Databricks, Microsoft Fabric, Collibra, Data Pipelines, Data Governance]
+    web: [REST APIs, FastAPI, APIs]
+    ml: [scikit-learn, XGBoost, LightGBM, Transformers, PyTorch, NLP, Model Evaluation,
+      Feature Engineering, Anomaly Detection, Time-Series Forecasting, SHAP, LIME]
+    ops: [MLOps, A/B Testing]
+    other: [Power BI, RPA, Responsible AI, Experimental Design, Causal Inference,
+      Statistical Modelling, Agile]
+    cloud: [Azure, Azure ML, AKS, Azure Functions, APIM]
+    languages: [Python, SQL, TypeScript, JavaScript]
+    genai: [Anthropic API, OpenAI API, Azure OpenAI, Microsoft Copilot, Prompt Engineering,
+      Function Calling, Structured Outputs, LLM Evaluation, Fine-Tuning, LoRA, RLHF,
+      LangChain, LangGraph, AutoGen, Semantic Kernel, CrewAI, Agentic Workflows, RAG,
+      Embeddings, Vector Databases, Vector Search, LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11285913'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:35:36.355281'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

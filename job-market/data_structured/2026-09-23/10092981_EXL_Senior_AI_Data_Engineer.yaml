@@ -1,0 +1,54 @@
+company:
+  name: EXL
+  stage: null
+  focus: Digital operations, analytics and AI solutions
+position:
+  title: Senior AI Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM-powered agentic applications, designs
+      RAG pipelines, writes prompts, implements tool calling, and
+      applies guardrails and evaluation frameworks - directly
+      shaping model behaviour, so ai-first.
+  responsibilities:
+  - Design and develop LLM-powered applications using single and multi-agent patterns
+    for business use cases
+  - Build and optimise end-to-end RAG pipelines including ingestion, embeddings, retrieval,
+    and response synthesis
+  - Implement prompt engineering and orchestration techniques such as prompt chaining,
+    function calling, and structured outputs
+  - Develop production-grade APIs and services with FastAPI, Flask, or Streamlit for
+    GenAI applications
+  - Integrate LLM solutions with enterprise systems, data platforms, and workflows
+  - Apply guardrails and evaluation frameworks to improve response quality and reduce
+    hallucinations
+  - Collaborate with Data Engineering and MLOps teams on pipelines, deployment, monitoring,
+    and scaling
+  use_cases:
+  - LLM-powered business applications
+  - Retrieval-augmented generation over enterprise data
+  - Agentic workflows with tool calling
+  - Response quality and hallucination reduction via guardrails and evaluation
+  - Integration of GenAI with enterprise data platforms
+  skills:
+    databases: [Snowflake]
+    domains: [NLP]
+    data: [PySpark, Databricks, Data Pipelines]
+    web: [FastAPI, Flask, Streamlit, APIs]
+    ml: []
+    ops: [CI/CD, Monitoring, MLOps]
+    other: []
+    cloud: [Azure, AWS, GCP, Azure AI Search]
+    languages: [Python, SQL]
+    genai: [LLMs, RAG, Agentic Workflows, Prompt Engineering, Function Calling, Structured
+        Outputs, Anthropic API, OpenAI API, LangChain, LangGraph, Generative AI, Guardrails,
+      Embeddings, LoRA, Fine-Tuning, Azure OpenAI, Claude Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10092981'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T10:58:00.385930'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

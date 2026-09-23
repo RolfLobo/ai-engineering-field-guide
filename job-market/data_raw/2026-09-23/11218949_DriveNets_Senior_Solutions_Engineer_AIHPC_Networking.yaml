@@ -1,0 +1,134 @@
+job_id: 11218949
+title: Senior Solutions Engineer, AI/HPC Networking
+company: DriveNets
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Description
+
+  Location: US
+
+  WFH-Remote role with travel to customers
+
+  #LI-Remote
+
+  DriveNets is a leader in high-scale networking software for
+  AI infrastructure and service providers. The company
+  pioneered a disaggregated networking architecture that
+  transforms the economics of large-scale networks while
+  maximizing performance, utilization, and operational
+  efficiency. DriveNets-powered networks are deployed by
+  global leaders, including AT&T and Comcast, supporting more
+  than 30% of total U.S. internet traffic. DriveNets AI Fabric
+  delivers full-stack networking for AI infrastructures,
+  providing the highest-performance, Ethernet-based
+  alternative to InfiniBand. The solution is deployed by
+  hyperscalers, NeoClouds, and enterprises worldwide. With
+  over $1B raised, DriveNets continues to push the boundaries
+  of modern networking infrastructure.
+
+  What you’ll be doing:
+
+  - Building robust AI/HPC infrastructure for new and existing
+    customers.
+  - Technical hands-on role in building and supporting
+    NVIDIA/AMD based platforms.
+  - Support operational and reliability aspects of large-scale
+    AI clusters, focusing on performance at scale, training
+    stability, real-time monitoring, logging, and alerting.
+  - Administer Linux systems, ranging from powerful GPU enabled
+    servers to general-purpose compute systems.
+  - Design and plan rack layouts and network topologies to
+    support customer requirements.
+  - Design and evaluate automation scripts for network
+    operations, configuring server and switch fabrics.
+  - Perform Data Center upgrades and ensure smooth deployment of
+    DriveNets solutions.
+  - Install and configure DriveNets products, ensuring optimal
+    performance and customer satisfaction.
+  - Maintain services once they are live by measuring and
+    monitoring availability, latency, and overall system
+    health.
+  - Engage in and improve the whole lifecycle of services from
+    inception and design through deployment, operation, and
+    refinement.
+  - Provide feedback to internal teams such as opening bugs,
+    documenting workarounds, and suggesting improvements.
+  - Engage with sales teams and customers to ensure success with
+    major opportunities and deployments
+  - Introduce new products to the DriveNets’ sales and support
+    teams and to DriveNets’ customers
+  - Deliver technical trainings and TOIs for support/sales
+    engineers, partners, and customers
+  - Collaborate on product definition through customer
+    requirement gathering and roadmap planning
+
+  Requirements
+
+  - BS/MS/PhD in Electrical/Computer Engineering, Computer
+    Science, Physics, or other Engineering fields, or
+    equivalent experience.
+  - 3+ years of network engineering (system/solution)
+    experience.
+  - 3+ years of solution architecture/sales engineering
+    experience, or equivalent, working for a vendor, value-
+    added reseller, or system integrator.
+  - Technical expertise in Data Center or high-end enterprise
+    network design (e.g. BGP, EVPN, VXLAN, QoS, Multicast)
+  - ·  Expertise with datacenter design, including networking,
+    compute, and storage.
+  - ·  Ability to write extensive technical content (white
+    papers, technical briefs, etc.) for external audiences
+    with a balance of technical accuracy, strategy, and clear
+    messaging
+  - Ability to multitask efficiently in a multifaceted
+    environment, ability to work with teams across
+    geographical locations.
+  - Clear written and oral communication skills with the ability
+    to effectively collaborate with executives and engineering
+    teams.
+  - Ability to travel domestic and international up to 20% of
+    the time.
+  - Be Kind!
+
+   Ways to stand out from the crowd:
+
+  - Familiarity with AI-relevant data center infrastructure and
+    networking technologies such as: Infiniband, RoCEv2,
+    lossless Ethernet technologies (PFC, ECN, etc),
+    accelerated computing, GPU, NIC, DPU, etc.
+  - Understanding of AI/HPC networking infrastructure solutions,
+    their advantages and disadvantages (AI/HPC networking
+    design, high-speed interconnect technologies)
+  - Scale-up – NVLink, UALink, etc
+  - Scale-out – Ethernet and Enhanced Ethernet (Scheduled
+    Ethernet, dynamic load balancing and adaptive routing,
+    Spectrum-X, UEC, etc), InfiniBand
+  - Backend storage connectivity
+  - Understanding of data center operations fundamentals in
+    networking, cooling, and power
+  - Familiarity with monitoring tools (e.g., Prometheus,
+    Grafana, ELK Stack) and Telemetry (gRPC, gNMI, OTLP, etc).
+  - Proven experience with one or more Tier-1 Clouds (AWS,
+    Azure, GCP, or OCI) or emerging Neoclouds, as well as
+    cloud-native architectures and software.
+
+  More About DriveNets
+
+   Based in Israel with locations in Romania, US, India and
+  Japan as well as extended teams, DriveNets operations cover
+  more than twelve countries. With recognition by industry
+  analysts and through partnerships with market leaders  such
+  as AMD, Broadcom, Dell and others, DriveNets is pushing
+  market momentum, delivering the scale and efficiency that
+  modern AI workloads demand. Visit our website:
+
+  https://drivenets.com/company/
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+posted_date: 2026-09-16
+url: "https://www.builtinla.com/job/senior-solutions-engineer-ai-hpc-networking/11218949"
+source: Built In

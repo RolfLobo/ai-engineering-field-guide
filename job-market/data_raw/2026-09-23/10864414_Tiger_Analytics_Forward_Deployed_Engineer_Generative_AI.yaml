@@ -1,0 +1,120 @@
+job_id: 10864414
+title: Forward Deployed Engineer (Generative AI)
+company: Tiger Analytics
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Tiger Analytics is looking for experienced Forward Deployed
+  Engineer (Generative AI) with Gen AI experience to join our
+  fast-growing advanced analytics consulting firm. Our
+  employees bring deep expertise in Machine Learning, Data
+  Science, and AI. We are the trusted analytics partner for
+  multiple Fortune 500 companies, enabling them to generate
+  business value from data. Our business value and leadership
+  has been recognized by various market research firms,
+  including Forrester and Gartner.
+
+  We are looking for top-notch talent as we continue to build
+  the best global analytics consulting team in the world.
+
+  Role Overview
+
+  The Forward Deployed Engineer (FDE) drives the on-site
+  deployment, integration, and scaling of our enterprise
+  Generative AI solutions. This role embeds directly within
+  customer engineering teams to operationalize Large Language
+  Models (LLMs) and retrieval systems across Google Cloud
+  Platform(GCP).. You will bridge the gap between AI research
+  and production-grade cloud infrastructure.
+
+  You will collaborate with cross-functional teams and
+  business partners and will have the opportunity to drive
+  current and future strategy by leveraging your analytical
+  skills as you ensure business value and communicate the
+  results.
+
+  Requirements
+
+  Technical Requirements
+
+  - GCP & Vertex AI Architecture: Advanced knowledge of Vertex
+    AI primitives, including Vertex AI Studio, Model Registry,
+    Endpoint deployment, Vertex AI Pipelines (Kubeflow), and
+    Vertex AI Vector Search.
+  - AI Frameworks: Hands-on experience with LLM orchestration
+    tools (LangChain, LlamaIndex, AutoGen) and deep learning
+    frameworks (PyTorch, Hugging Face) optimized for GCP
+    infrastructure.
+  - Vector Databases: Production experience setting up,
+    optimizing, and querying Vertex AI Vector Search, or
+    managed vector stores like Milvus, Pinecone, and pgvector
+    (Cloud SQL/Spanner).
+  - Model Operations (LLMOps): Proficiency in model serving
+    frameworks (vLLM, TGI, Triton Inference Server) deployed
+    via Vertex AI or GKE, alongside robust automated model
+    evaluation pipelines.
+  - Containers & Kubernetes: Deep expertise in Google Kubernetes
+    Engine (GKE) for managing GPU/TPU workloads, autoscaling,
+    and scheduling.
+  - IaC & Automation: Mastery of Terraform to provision secure,
+    complex GCP environments, IAM roles, and Vertex AI
+    resources.
+  - Programming: Strong coding skills in Python (preferred) or
+    Go, with an emphasis on writing clean, concurrent code and
+    utilizing the Google Cloud SDK.
+
+  Key Responsibilities-
+
+  - AI Solution Deployment: Deploy, fine-tune, and optimize
+    large-scale Gen AI models and LLM orchestration frameworks
+    within customer cloud environments.
+  - Infrastructure Engineering: Architect scalable
+    infrastructure for AI workloads utilizing GPU/TPU
+    orchestration, high-performance storage, and low-latency
+    networking.
+  - Data & Retrieval Pipelines: Design and implement high-
+    throughput data ingestion pipelines and Vector Database
+    architectures for Retrieval-Augmented Generation (RAG).
+  - Technical Advocacy: Act as the primary technical consultant,
+    guiding enterprise clients through AI safety, prompt
+    engineering patterns, and inference cost optimization.
+  - Product Collaboration: Feed edge-case deployment insights
+    back to core AI research and platform engineering teams to
+    improve product robustness.
+
+  Soft Skills-
+
+  - AI Consultation: Ability to manage customer expectations
+    around LLM non-determinism, hallucinations, and
+    performance trade-offs.
+  - Rapid Adaptability: Passion for keeping pace with the weekly
+    advancements in the Generative AI landscape.
+  - Critical Debugging: Exceptional skill in isolating errors
+    across complex software layers, from GPU drivers up to
+    prompt engineering logic.
+  - Mobility: Willingness to travel to client sites to lead
+    high-stakes, on-site deployment sprints.
+
+  Benefits
+
+  This position offers an excellent opportunity for
+  significant career development in a fast-growing and
+  challenging entrepreneurial environment with a high degree
+  of individual responsibility.
+
+  Tiger Analytics provides equal employment opportunities to
+  applicants and employees without regard to race, color,
+  religion, age, sex, sexual orientation, gender
+  identity/expression, pregnancy, national origin, ancestry,
+  marital status, protected veteran status, disability status,
+  or any other basis as protected by federal, state, or local
+  law.
+industries:
+  - Big Data
+  - Analytics
+  - Business Intelligence
+  - Big Data Analytics
+posted_date: 2026-08-26
+url: "https://www.builtinla.com/job/forward-deployed-engineer-generative-ai/10864414"
+source: Built In

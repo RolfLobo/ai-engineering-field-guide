@@ -1,0 +1,57 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services, asset and wealth management
+position:
+  title: Software Engineer III - Fullstack (Java, React, Python and AI) Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds full-stack web features and integrates AI-
+      enabled services; AI coding assistants are used as
+      productivity tools and AI initiatives are consumed rather
+      than shaped. There is no prompt engineering, RAG, agent
+      design, or model training done by this person.
+  responsibilities:
+  - Design, develop, test, and maintain full-stack features using Java, Python, React,
+    and AI-enabled services
+  - Build reliable integrations with marketing systems such as CDP/CRM, CMS, campaign
+    management, and attribution systems
+  - Implement and optimize data flows and event-driven pipelines for segmentation,
+    personalization, and measurement
+  - Contribute to AI-enabled initiatives for content generation, experimentation,
+    personalization, and workflow automation
+  - Use enterprise-authorized AI coding assist tools to improve code quality and delivery
+    speed, validating outputs through peer review and automated testing
+  - Collaborate with product, marketing, and partners to translate requirements into
+    technical solutions
+  - Improve engineering excellence through code reviews, test automation, CI/CD, observability,
+    and performance tuning
+  - Ensure solutions meet security, privacy, and compliance standards including consent
+    management and data minimization
+  use_cases:
+  - Personalized customer and internal web platforms
+  - AI-enabled content generation
+  - Marketing experimentation and measurement
+  - Workflow automation
+  - Event-driven segmentation and personalization pipelines
+  skills:
+    genai: []
+    ml: []
+    web: [React, Full-Stack Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Observability, Test Automation]
+    languages: [Java, Python]
+    domains: []
+    other: [Event-Driven Architecture, Personalization, Campaign Management, Attribution
+        Systems, Consent Management, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10310339'
+  location: London, GBR
+  extracted_at: '2026-09-23T10:59:27.393417'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

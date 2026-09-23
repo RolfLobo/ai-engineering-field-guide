@@ -1,0 +1,134 @@
+job_id: 10984392
+title: Staff Software Engineer, AI Foundations (AI Agent Optimization)
+company: Temporal Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Role Summary
+
+  We have an opening to hire a Staff Software Engineer - Agent
+  Optimization
+
+  Temporal provides a reliable foundation powering AI leaders
+  such as OpenAI, NVIDIA, Cursor, Lovable, and others. Its
+  adoption is expanding to users spanning a broad range of AI
+  applications ranging from agents to data pipelines and
+  everything in between.
+
+  The mission of the AI Foundations team is to accelerate
+  Temporal adoption across the entire ecosystem. Our approach
+  combines a deep understanding of use cases with rigorous
+  application of computer systems and software design
+  principles.
+
+  In this role, you will lead our agent optimization efforts.
+  You will design tools and mechanisms to help Temporal users
+  build agents that are optimized for token spend and response
+  time while maintaining result quality. Model routing is a
+  first step, but represents the tip of the iceberg of
+  techniques that we can apply. For example, multi-agent
+  architecture, cache policy, and context management are all
+  relevant. Candidates for this role should have direct
+  experience with this problem domain.
+
+  You will work closely with other AI Foundations team
+  members, e.g., those who focus on agentic development,
+  maintaining a set of agents skills that lift performance of
+  Codex, Claude Code, and similar tools for developers of
+  Temporal applications. Other team members build ecosystem
+  integrations or develop policy and security systems.
+
+  If you thrive on blending theory and practice, then this is
+  the right team for you. We are an action-oriented group that
+  loves to ship fast and solve customer problems. We also seek
+  thorough technical grounding for our work and invest in
+  systems and practices that foster long-term success.
+
+  Most of Temporal’s work is open source—see for yourself
+  here: https://github.com/temporalio [new window]
+
+  What You'll Do
+
+  - Work as a software engineer
+  - Maintain and expand a deep understanding of agentic coding
+  - Design and build agentic coding systems that we can trust to
+    deliver high-quality outputs
+  - Develop a deep understanding of AI application development
+    patterns and techniques, including emerging approaches and
+    architectures.
+  - Take end-to-end ownership of new features, working with
+    other teams to deliver exceptional reliability and a great
+    developer experience.
+  - Work with multiple programming languages: Python and
+    TypeScript, Java, Go.
+  - Serve as a domain expert on AI design patterns,
+    collaborating with field staff to provide best-practices
+    and canonical examples.
+  - Work directly with our developer community to debug issues
+    that need expert attention and get feedback on Temporal
+    features and APIs.
+  - Write public technical documentation describing Temporal
+    concepts and APIs.
+  - Go the extra mile to support a customer in need, on the rare
+    occasion that our teams’ engineering expertise is needed.
+  - Travel to meet your coworkers for a week once or twice a
+    year.
+  - Attend the occasional developer conference to talk about how
+    great Temporal is (optional).
+
+  What You’ll Bring
+
+  - 8+ years of professional work experience.
+  - Proven experience in optimizing AI systems using both
+    machine learning and systems techniques
+  - Experience and passion for harnessing generative AI,
+    particularly for agents and coding.
+  - A deep appreciation for how to use AI to improve quality,
+    not only to increase quantity.
+  - A sense of taste in code and software development practice.
+    Your approach should be opinionated and thoughtful, but
+    not dogmatic.
+  - Fluency in multiple programming languages, and an affinity
+    for learning new ones.
+  - Deep experience with concurrent programming—you should know
+    how to use mutexes, atomics, and other concurrency
+    primitives safely.
+  - Experience designing APIs and writing documentation for
+    publicly-available libraries or modules.
+  - Strong technical communication skills—written and verbal—in
+    English.
+  - BS or MS in Computer Science (or a closely-related degree),
+    or equivalent work experience writing production-grade
+    software.
+
+  Nice to Have
+
+  - Familiarity with Temporal’s programming model (e.g. you’ve
+    written an app on Temporal).
+  - A track record of open source software contributions,
+    including contributions to 3rd party libraries.
+  - Experience contributing to the architecture and design of
+    large-scale distributed systems.
+  - Deep background in machine learning, model training, data
+    science, or machine learning systems.
+  - Graduate degree in Computer Science.
+
+  Temporal Technologies is an Equal Opportunity Employer.
+  Temporal Technologies does not discriminate on the basis of
+  race, religion, color, sex, gender identity, sexual
+  orientation, age, non-disqualifying physical or mental
+  disability, national origin, veteran status, or any other
+  basis covered by appropriate law. All employment is decided
+  on the basis of qualifications, merit, and business need. We
+  embrace and celebrate differences and diversity.
+
+  Temporal is committed to providing access, equal
+  opportunity, and reasonable accommodation for individuals
+  with disabilities in employment, its services, programs, and
+  activities. If you need to request a reasonable
+  accommodation, please let your Recruiter know so we can
+  assist.
+posted_date: 2026-09-02
+url: "https://www.builtinla.com/job/staff-software-engineer-ai-foundations-ai-agent-optimization/10984392"
+source: Built In

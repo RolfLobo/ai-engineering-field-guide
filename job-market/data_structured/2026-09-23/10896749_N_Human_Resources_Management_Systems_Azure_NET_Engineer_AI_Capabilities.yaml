@@ -1,0 +1,55 @@
+company:
+  name: N Human Resources & Management Systems
+  stage: null
+  focus: |-
+    Global IT consulting for SAP, Azure, AI and Cloud
+    modernization
+position:
+  title: Azure & .NET Engineer – AI Capabilities
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates Azure OpenAI (GPT-4, embeddings), builds
+      semantic search and RAG features, and uses prompt
+      engineering and vector databases to shape LLM behavior
+      within applications, so it is ai-first.
+  responsibilities:
+  - Design and develop enterprise applications and APIs on .NET (C#) deployed on Microsoft
+    Azure
+  - Integrate Azure AI services including Azure OpenAI, Cognitive Services, and Azure
+    ML into live application workflows
+  - Build intelligent features such as semantic search, document intelligence, chatbot
+    interfaces, and recommendation engines using Azure AI Foundry
+  - Develop RESTful APIs, microservices, and event-driven architectures using Azure
+    Service Bus, Event Grid, and Azure Functions
+  - Collaborate with data engineers to build pipelines that surface AI/ML insights
+    within .NET applications
+  - Ensure code quality through unit testing, code reviews, and SOLID principles
+  - Participate in architecture discussions and contribute to technical design documentation
+  use_cases:
+  - Semantic search in enterprise applications
+  - Document intelligence
+  - Chatbot interfaces
+  - Recommendation engines
+  - AI/ML insight delivery within .NET enterprise apps for global clients
+  skills:
+    genai: [Azure OpenAI, GPT-4, Embeddings, Semantic Search, Prompt Engineering,
+      RAG, Semantic Kernel, LangChain, AutoGen, Cognitive Services]
+    ml: [Fine-Tuning, Machine Learning, Model Governance]
+    web: [REST APIs, Microservices]
+    databases: [Vector Databases, Pinecone, Azure SQL, Cosmos DB, Azure AI Search]
+    data: []
+    cloud: [Azure, Azure ML, Azure Functions, Azure Service Bus, Event Grid, Azure
+        App Services, Azure AI Foundry, Form Recognizer]
+    ops: [Git, CI/CD, Azure DevOps, GitHub Actions]
+    languages: [C#, .NET, Python]
+    domains: []
+    other: [SOLID Principles, Agile, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10896749'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:05:39.097658'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

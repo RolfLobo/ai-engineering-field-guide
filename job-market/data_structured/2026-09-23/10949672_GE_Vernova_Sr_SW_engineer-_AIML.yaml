@@ -1,0 +1,51 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: Grid software and energy electrification solutions
+position:
+  title: Sr SW engineer- AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG, multimodal LLM features,
+      and agentic workflows directly, shaping LLM behavior and
+      output quality. It also ships APIs/microservices, but the AI
+      component is central and hands-on, making it ai-first.
+  responsibilities:
+  - Identify and deliver reusable AI components for forward-deployed engineers
+  - Ship resilient REST APIs and microservices
+  - Build RAG and multimodal LLM features
+  - Design agentic workflows for autonomous tasks
+  - Lead enterprise full-stack and AI platform architecture across initiatives
+  - Mentor engineers and guide contractors and partners
+  - Balance reliability, performance, and cloud cost for AI systems
+  - Set standards for AI-assisted development
+  use_cases:
+  - Enterprise AI platform for grid software services
+  - Multimodal LLM features at scale for 100k+ users
+  - Enterprise RAG with semantic search and conversation memory
+  - Autonomous task automation via agentic workflows
+  - Reusable AI components supporting forward-deployed engineers
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, LangChain, LlamaIndex, Semantic Search,
+      Embeddings]
+    ml: [AI/ML]
+    web: [REST APIs, Microservices, SOAP]
+    databases: [Milvus, Pinecone, Weaviate, pgvector, Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Java, Go, JavaScript, TypeScript]
+    domains: []
+    other: [MuleSoft, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10949672'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:08:58.342957'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

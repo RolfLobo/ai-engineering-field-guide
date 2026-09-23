@@ -1,0 +1,53 @@
+company:
+  name: Cadence (cadence.care)
+  stage: null
+  focus: Clinical AI for automating chronic disease treatment
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent architectures, RAG pipelines, prompt
+      engineering, tool calling, evals, and guardrails for LLM-
+      powered clinical workflows - directly shaping model
+      behavior, with LLM/agent components throughout.
+  responsibilities:
+  - Design, build, and deploy clinical AI agents that reason over patient context
+    and generate care recommendations
+  - Own reliability, observability, and cost efficiency of LLM-powered workflows at
+    scale
+  - Build and optimize RAG pipelines over clinical knowledge bases, treatment protocols,
+    and real-time patient data
+  - 'Develop evaluation frameworks: offline benchmarks, safety tests, regression suites,
+    and LLM-as-judge pipelines in CI/CD'
+  - 'Design multi-step agent orchestration: planning, memory, tool use, error recovery,
+    and human-in-the-loop escalation'
+  - Collaborate with clinical, product, and engineering teams on AI system design
+  use_cases:
+  - Clinical AI agents synthesizing real-time patient data
+  - Proactive care recommendations for chronic disease treatment
+  - Monitoring chronic care patients and surfacing risks
+  - Retrieval over clinical knowledge bases and treatment protocols
+  - Coordinating actions on behalf of clinicians with human-in-the-loop escalation
+  skills:
+    genai: [OpenAI API, Anthropic API, LLMs, Prompt Engineering, Function Calling,
+      Structured Outputs, RAG, Embeddings, Agentic Workflows, Multi-Agent Systems,
+      Fine-Tuning, RLHF, LoRA]
+    ml: [Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: []
+    domains: []
+    other: [HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11238895'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:31:21.468524'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

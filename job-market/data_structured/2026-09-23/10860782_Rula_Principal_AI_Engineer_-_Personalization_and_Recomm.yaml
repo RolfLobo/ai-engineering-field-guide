@@ -1,0 +1,56 @@
+company:
+  name: Rula
+  stage: null
+  focus: |-
+    Remote mental healthcare platform matching patients and
+    providers
+position:
+  title: Principal AI Engineer - Personalization and Recommendation (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops and fine-tunes LLMs, designs RAG and agent
+      integration patterns, and builds evaluation systems for
+      model quality in addition to classical recommenders. Shaping
+      both LLM and classical ML systems makes it ai-first per the
+      edge case rules.
+  responsibilities:
+  - Own applied AI/ML solutions for patient-provider matching, search ranking, and
+    relevance
+  - Develop and fine-tune models including Learning-to-Rank, embeddings, recommendation
+    algorithms, and LLMs
+  - Apply NLP and generative AI to clinical workflows and patient engagement
+  - Design product-facing AI architectures and core ML infrastructure at scale
+  - Set technical standards for AI safety and how ML is introduced into a high-stakes
+    clinical environment
+  - Unblock complex engineering problems and act as a technical multiplier across
+    product surfaces
+  - Direct personalization and recommendation strategy and foundational ML platforms
+  use_cases:
+  - Patient-provider matching for mental healthcare
+  - Search ranking and relevance
+  - Personalization and recommendation across the platform
+  - Clinical workflow automation via NLP and generative AI
+  - Patient engagement improvements
+  skills:
+    genai: [RAG, Embeddings, LLMs, AI Agents, Fine-Tuning, Prompt Engineering, OpenAI
+        API, Anthropic API, Gemini, Generative AI]
+    ml: [Learning-to-Rank, Collaborative Filtering, Deep Recommender Systems, Model
+        Evaluation, Semantic Vector Search]
+    web: []
+    databases: [Elasticsearch, OpenSearch, Pinecone, Weaviate, FAISS, Milvus]
+    data: [Data Pipelines]
+    cloud: []
+    ops: [MLOps, Distributed Systems]
+    languages: [Python, TypeScript, Java, Go]
+    domains: [NLP]
+    other: [NDCG, MAP, A/B Testing, HIPAA Compliance, GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10860782'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:30.761072'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

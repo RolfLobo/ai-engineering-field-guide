@@ -1,0 +1,51 @@
+company:
+  name: Draftwise
+  stage: Series A (Y Combinator alumni, raised $20M from Index Ventures)
+  focus: Contract drafting, review, and negotiation AI for law firms
+position:
+  title: Forward Deployed AI Engineer, Backend - New York
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role writes and tests prompts, builds retrieval and
+      evaluation scaffolding, and measures LLM output quality on
+      real customer data — that is directly shaping model
+      behavior. An LLM product is involved, and Forward Deployed
+      Engineers adapting AI solutions at customer sites are ai-
+      first. Customer-facing is explicit.
+  responsibilities:
+  - Model firm precedent, playbooks, and preferred language into Draftwise's legal
+    ontology
+  - Build and own backend services for drafting, review, and search features end to
+    end
+  - Write and test LLM prompts and build retrieval and evaluation scaffolding, measuring
+    quality on real customer data
+  - 'Optimize scale and performance: profiling, query tuning, and cost work for large
+    documents under interactive latency'
+  - Own pieces of customer rollouts at elite law firms alongside a senior FDE
+  - Ship occasional frontend changes in the Word add-in and React web app
+  use_cases:
+  - Legal contract drafting and review grounded in firm-specific knowledge
+  - Ontology-based modeling of legal precedent and playbooks
+  - Search and retrieval over large precedent sets within Microsoft Word and browser
+  - LLM-powered drafting and negotiation workflows for law firms
+  - Evaluation of LLM output quality on real legal customer data
+  skills:
+    genai: [Prompt Engineering, RAG, LLM Evaluation, LLMs, Claude Code, AI Agents]
+    ml: []
+    web: [React, APIs]
+    databases: [PostgreSQL, OpenSearch, Graph Databases]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11013878'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:12:28.877699'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

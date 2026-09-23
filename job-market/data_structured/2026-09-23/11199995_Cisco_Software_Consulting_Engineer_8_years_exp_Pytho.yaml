@@ -1,0 +1,54 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking, security, and cloud infrastructure solutions
+position:
+  title: Software Consulting Engineer | 8+ years exp, Python, Cloud technologies and
+    Ai
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a consulting/software engineer delivering Cisco
+      networking solutions for customers. AI appears only as
+      "exposure to" GenAI/agentic frameworks and "adept in
+      efficient usage of AI coding tools" - tools the engineer
+      uses, not model behavior they shape. No prompt design, RAG,
+      or training work described.
+  responsibilities:
+  - Lead software design, optimization, and implementation for customer projects
+  - Support presales and translate business requirements into solution designs
+  - Assist customers with development, integration, and implementation of tools and
+    systems for Cisco technologies
+  - Build customer simulations in internal labs to resolve and validate issues
+  - Deliver customer collateral, documentation, and knowledge transfer including HLDs
+    and implementation plans
+  - Act as focal point for problem resolution on customer engagements
+  - Create and deliver training and mentor junior engineers
+  - Curate and share best practices, success stories, and IP
+  use_cases:
+  - Customer network-centric software solutions and service assurance for Cisco technologies
+  - Presales solution design and Statement of Work scoping
+  - Integration and implementation of tools and systems for customer engagements
+  - Issue validation via customer lab simulations
+  skills:
+    genai: [Generative AI, Agentic Workflows, LLMs]
+    ml: []
+    web: [REST APIs, Microservices, Serverless]
+    databases: [MySQL, PostgreSQL, NoSQL]
+    data: [Kafka, Airflow]
+    cloud: [Cloud]
+    ops: [Kubernetes, Linux, Git, SRE, DevOps, DevSecOps]
+    languages: [Python, REGEX, Go]
+    domains: []
+    other: [Agile, NETCONF, RESTCONF, YANG Modeling, BPMN, Network Fundamentals]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11199995'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:26:05.034638'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

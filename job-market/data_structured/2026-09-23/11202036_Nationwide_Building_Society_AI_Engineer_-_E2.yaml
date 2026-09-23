@@ -1,0 +1,56 @@
+company:
+  name: Nationwide Building Society
+  stage: null
+  focus: UK mutual building society providing banking services
+position:
+  title: AI Engineer - E2
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI, RAG, prompt
+      engineering, and LLM evaluation solutions directly, which is
+      shaping model behaviour and output quality. LLM/agent
+      components dominate, so it is ai-first.
+  responsibilities:
+  - Design, build and deploy AI-powered products for Customer Operations using Azure
+    AI Foundry and Azure OpenAI
+  - Develop intelligent applications using agentic AI, RAG, vector search and machine
+    learning
+  - Collaborate with engineers, data specialists and business stakeholders to take
+    AI solutions from concept to production
+  - Create reusable AI assets, frameworks and best practices to accelerate AI adoption
+    across the organisation
+  - Guide stakeholders on practical AI implementation and promote responsible use
+    of emerging technologies
+  - Deploy AI solutions through CI/CD pipelines with automated testing and release
+    management
+  use_cases:
+  - AI-powered applications enhancing customer and colleague experiences in Customer
+    Operations
+  - Agentic AI and multi-agent solutions for business process improvement
+  - RAG and semantic search applications for information retrieval
+  - Reusable AI frameworks to accelerate organisation-wide AI adoption
+  skills:
+    databases: [Cosmos DB, Vector Search]
+    domains: []
+    data: []
+    web: []
+    ml: [PyTorch, TensorFlow, Keras, scikit-learn, Machine Learning]
+    ops: [LLMOps, Observability, GitHub Actions, Azure DevOps, CI/CD]
+    other: [Responsible AI]
+    cloud: [Azure AI Foundry, Azure OpenAI, Azure AI Search]
+    languages: [Python]
+    genai: [OpenAI API, LLMs, Prompt Engineering, LLM Evaluation, Anthropic API, Multi-Agent
+        Systems, RAG, Embeddings, Semantic Search, Llama, Agentic Workflows]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11202036'
+  location: Swindon, GBR
+  locations:
+  - Swindon, GBR
+  - London, GBR
+  - Northampton, GBR
+  extracted_at: '2026-09-23T11:26:45.833570'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

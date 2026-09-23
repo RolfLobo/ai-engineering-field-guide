@@ -1,0 +1,50 @@
+company:
+  name: ASOS
+  stage: null
+  focus: Online fashion retail content and imagery
+position:
+  title: Senior AI Engineer – Machine Learning (Computer Vision)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role iterates on prompts and workflows for LLM output
+      quality, designs RAG, fine-tunes models, and builds
+      evaluation frameworks. LLM/generative AI components are
+      explicitly involved, so it is ai-first even though computer
+      vision is also present.
+  responsibilities:
+  - Design and develop AI solutions using LLMs and generative AI, iterating on prompts
+    and workflows to improve output quality
+  - Build and maintain scalable data pipelines with best practices in data preparation
+  - Standardise and promote reuse of AI workflows across teams
+  - Apply MLOps principles including CI/CD, monitoring, model management and feature
+    governance
+  - Partner with Cloud Infrastructure teams on secure, cost-effective AI environments
+  - Embed ethical and responsible AI practices, mitigating bias and risk
+  - Fine-tune pre-trained models for specific use cases
+  - Design evaluation frameworks for AI models including automated testing and benchmarking
+  use_cases:
+  - AI-powered image generation for fashion content
+  - Smarter shopping journeys and personalised fashion experiences
+  - Styling signal extraction from product imagery and visual inspiration
+  - AI-powered automation for ASOS Studios content production
+  skills:
+    genai: [LLMs, Generative AI, Prompt Engineering, RAG, Fine-Tuning]
+    ml: [PyTorch, TensorFlow, Hugging Face, Deep Learning, Embeddings, Model Deployment,
+      Model Evaluation]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [MLOps, CI/CD, Monitoring]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11063164'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:16:47.291065'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

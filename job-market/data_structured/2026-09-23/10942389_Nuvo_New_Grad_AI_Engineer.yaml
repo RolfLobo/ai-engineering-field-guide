@@ -1,0 +1,48 @@
+company:
+  name: Nuvo
+  stage: null
+  focus: B2B commerce and payments automation platform
+position:
+  title: New Grad AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM agents, multi-agent workflows, and
+      production-grade LLM features with evals and guardrails —
+      directly shaping model behavior and output quality, so it is
+      ai-first.
+  responsibilities:
+  - 'Build AI systems automating trade workflows: collections, credit decisioning,
+    payments operations'
+  - Turn LLMs and agents into reliable production-grade features with evals and guardrails
+  - Write high-quality, performant code and partner with platform and product engineers
+  - Help shape how the company builds with AI as the field evolves
+  - Run agents on large-scale data
+  use_cases:
+  - Automating B2B trade workflows
+  - Collections automation
+  - Credit decisioning
+  - Payments operations
+  - Running agents on large-scale data
+  skills:
+    genai: [LLMs, AI Agents, Multi-Agent Systems, LLM Evaluation, Guardrails]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10942389'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:08:07.409682'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

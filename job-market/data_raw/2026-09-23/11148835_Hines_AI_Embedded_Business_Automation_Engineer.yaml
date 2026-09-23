@@ -1,0 +1,216 @@
+job_id: 11148835
+title: AI Embedded Business Automation Engineer
+company: Hines
+location: Houston, USA
+locations:
+  - Houston, USA
+  - New York, USA
+work_type: FULL_TIME
+company_size: 4,880 Employees
+description: |
+  Overview
+
+  When you join Hines, you will embark on a career journey
+  fueled by vision and guided by leaders who set the standards
+  of our industry. Our legacy is rooted in innovation and
+  excellence, earning us a spot on Fast Company’s esteemed
+  annual list of the World’s Most Innovative Companies, as
+  well as recognition as one of U.S. News & World Report’s
+  Best Companies to Work For in 2024. Discover endless
+  opportunities to grow and make your mark at Hines.
+
+  Responsibilities
+
+  We are looking for an AI Embedded Business Automation
+  Engineer to work within functional departments across the
+  organization to uncover opportunities where AI, automation,
+  and better system design can meaningfully improve business
+  operations. This role will work directly with the business
+  teams to understand how work happens today, pinpoint manual
+  handoffs, rework, delays, and exception-heavy processes, and
+  then design, prototype, and deliver technical solutions that
+  make day-to-day work faster, smarter, and more scalable.
+
+  As part of IT, this role is expected to build within
+  enterprise standards for infrastructure, data, integration,
+  automation, information security, governance, and production
+  support. The work will range from AI-enabled workflow
+  redesign and secure data pipelines to intelligent agents,
+  system integrations, and automations that are reliable
+  enough to run in production and useful enough to become part
+  of how teams operate. Responsibilities include, but are not
+  limited to:
+
+  - Partner directly with business stakeholders and subject
+    matter experts to understand current workflows, identify
+    manual handoffs, rework, delays, exception-heavy
+    processes, and other improvement opportunities, and
+    prioritize AI automation efforts based on value,
+    feasibility, risk, and scalability.
+  - Co-design AI-enabled process improvements with SMEs,
+    translating operational challenges into practical
+    workflows that improve efficiency, accuracy, user
+    experience, and business capacity.
+  - Translate business requirements into clear technical
+    specifications, solution designs, implementation plans,
+    and delivery milestones, then build agentic and automation
+    solutions end-to-end in partnership with business teams,
+    teammates, and senior engineers.
+  - Rapidly prototype, test, and iterate on AI-driven
+    automations, assistants, agents, and workflow solutions
+    using Python, LLM APIs, RAG patterns, agent frameworks,
+    workflow orchestration, and enterprise platforms.
+  - Develop and maintain integrations with enterprise systems
+    such as SharePoint, Teams, Outlook, ERP platforms,
+    Salesforce, internal applications, APIs, and data sources
+    to enable end-to-end intelligent workflows.
+  - Design and implement trustworthy AI solution components,
+    including prompt orchestration, RAG pipelines, document
+    ingestion, vector search, backend services, automation
+    logic, data pipelines, models, and secure access patterns.
+  - Support adoption through SME enablement, practical training,
+    feedback loops, and usage-based refinement so business
+    teams actively shape and sustain the workflows being
+    introduced.
+  - Embed security, privacy, compliance, and responsible AI
+    controls throughout the solution lifecycle, including data
+    classification, least-privilege access, secrets
+    management, auditability, and safe data handling.
+  - Remain accountable for production quality by deploying,
+    monitoring, troubleshooting, optimizing, and continuously
+    improving AI and automation solutions with a focus on
+    reliability, performance, security, governance, cost
+    management, and real-world usage.
+  - Work cross-functionally with engineering, product, security,
+    legal, and business teams to move solutions from concept
+    through pilot, production launch, adoption, support, and
+    ongoing enhancement.
+  - Document solution architecture, implementation decisions,
+    support procedures, runbooks, and best practices, and
+    create repeatable agent, automation, integration, and data
+    patterns that scale across functions while aligning with
+    IT governance and architecture standards.
+  - Define success metrics and measure solution impact,
+    including cycle-time reduction, quality improvements,
+    adoption, reliability, and unlocked business capacity.
+
+  Qualifications
+
+  Minimum Requirements include:
+
+  - Bachelor’s degree in Computer Science, Engineering,
+    Information Technology, Data Science, Mathematics, or a
+    related field; equivalent practical experience may also be
+    considered.
+  - 3+ years of experience in software engineering, automation
+    engineering, cloud engineering, data engineering,
+    integration development, or related technical roles,
+    including experience delivering AI or Generative AI
+    solutions in a business environment.
+  - Experience building workflow automations, APIs,
+    integrations, copilots, assistants, or AI-enabled business
+    applications using Microsoft, Azure, OpenAI, ChatGPT
+    Enterprise, or comparable enterprise platforms.
+  - Experience supporting production systems, partnering with
+    cross-functional stakeholders, and translating business
+    needs into secure, scalable technical solutions.
+  - Strong product judgment, communication skills, and delivery
+    orientation, with the ability to release useful increments
+    quickly, recognize when a more durable solution is needed,
+    and write specs, docs, and updates that are clear without
+    additional explanation.
+  - Demonstrated ability to deliver reliable code, services,
+    integrations, or automations used in day-to-day business
+    operations.
+  - Required coding proficiency in Python, with the ability to
+    write clean, tested, maintainable code and contribute
+    effectively to shared production codebases.
+  - Hands-on experience applying LLMs and Generative AI to real
+    business problems, including prompt engineering, LLM APIs,
+    retrieval-augmented generation, AI-enabled workflows,
+    prototypes, assistants, or agents.
+  - Experience using AI-assisted development tools and building
+    tool-using workflows or custom agents that leverage MCP or
+    similar agent integration patterns and connect securely to
+    enterprise systems, APIs, data sources, and business
+    applications.
+  - Demonstrated ability to turn business problems into
+    technical specifications, solution designs, implementation
+    plans, and working software that can be explained clearly
+    to non-technical partners.
+  - Working knowledge across several core enterprise engineering
+    areas, including cloud infrastructure, data engineering,
+    SQL, pipelines, integration patterns, automation tooling,
+    IAM, APIs, and enterprise application development.
+  - Familiarity with information security fundamentals,
+    including authentication, authorization, encryption,
+    secrets management, safe data practices, least-privilege
+    access, auditability, and responsible AI guardrails.
+  - Experience with Microsoft and OpenAI tools such as Azure
+    OpenAI Service, OpenAI APIs, ChatGPT Enterprise, Microsoft
+    Copilot Studio, Azure AI Foundry, Semantic Kernel, OpenAI
+    Agent SDK, Power Platform, or comparable platforms.
+  - Familiarity with advanced agent, retrieval, and
+    orchestration patterns, including vector search, iPaaS
+    tools, LangGraph, LangChain, LlamaIndex, or similar
+    frameworks, is a plus.
+  - Familiarity with TypeScript, JavaScript, Go, or Java is a
+    plus.
+  - Experience designing AI-enabled business process automations
+    across functions such as finance, legal, operations, or
+    other enterprise teams.
+  - Compensation: New York City - $130,000 - $175,900; Houston -
+    To be determined based on experience
+
+  The successful candidate will:
+
+  - Build trust with functional SMEs by understanding their
+    workflows in depth and turning business challenges into
+    practical AI-enabled solutions.
+  - Deliver secure, scalable, production-ready AI and automation
+    solutions that improve how work is performed across
+    business functions.
+  - Move quickly from discovery to prototype to production while
+    balancing speed, quality, governance, reliability,
+    performance, and cost efficiency.
+  - Drive measurable impact through adoption, cycle-time
+    reduction, quality improvement, reusable delivery
+    patterns, and additional business capacity.
+
+  Closing
+
+  At Hines, we strive for excellence as a leading global real
+  estate investment manager, driven by our by our belief that
+  real estate is fundamentally about people. Our diverse
+  portfolio spans $93.2 billion¹ of assets across such
+  property types as living, office, retail, mixed-use,
+  logistics and life science projects – all designed to
+  enhance value, connection and inspiration. Our strategic
+  approach integrates local expertise with global knowledge,
+  taking calculated risks aligned with our convictions to
+  exceed expectations and tailor solutions to our clients'
+  needs.
+
+  While our projects are renowned for enhancing cities and
+  pioneering sustainable practices, we recognize that the true
+  driving force behind Hines' success is our 5,000 dedicated
+  employees in 30 countries who draw on our 65-year history to
+  build the world forward. This is why we prioritize investing
+  in our people, offering comprehensive training, competitive
+  compensation, robust benefits and generous vacation
+  packages. By centering our focus on the growth and wellbeing
+  of our team, we cultivate an inclusive environment where
+  everyone, including our clients, can thrive.
+
+  Hines is proud to be named to Fast Company’s prestigious
+  annual list of the World’s Most Innovative Companies for
+  2024. ¹Includes both the global Hines organization and RIA
+  AUM as of December 31, 2023.
+
+  We are an equal opportunity employer and support workforce
+  diversity.
+
+  No calls or emails from third parties at this time please.
+posted_date: 2026-09-12
+url: "https://builtin.com/job/ai-embedded-business-automation-engineer/11148835"
+source: Built In

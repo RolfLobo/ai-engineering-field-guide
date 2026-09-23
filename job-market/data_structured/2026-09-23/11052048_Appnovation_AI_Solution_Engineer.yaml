@@ -1,0 +1,52 @@
+company:
+  name: Appnovation
+  stage: null
+  focus: Global full-service digital consulting partner
+position:
+  title: AI Solution Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI design tools (v0.dev, bolt.new, Lovable)
+      and workflow automation to accelerate the development
+      lifecycle; it does not shape model behaviour through
+      prompts, retrieval, or fine-tuning itself. The deliverable
+      is developer workflow and application delivery, so it is ai-
+      support.
+  responsibilities:
+  - Direct adoption of AI design tools (v0.dev, bolt.new, Lovable) to compress the
+    development lifecycle
+  - Define and enforce technical standards for production-ready full-stack applications
+  - Lead integration of Figma-based design systems with AI-driven development for
+    automated handoff
+  - Manage ticket-driven workflow in Jira and optimize team velocity
+  - Bridge Strategy, Creative, and Technology departments for AI-powered solutions
+  - Oversee backend services (Supabase, SQL/NoSQL) and authentication frameworks (OAuth,
+    JWT)
+  - Design and implement RESTful APIs and backend services using platforms like Supabase
+  - Collaborate with UX Designers, AI Builders, and Innovation Leads throughout the
+    lifecycle
+  use_cases:
+  - AI-augmented rapid prototyping of enterprise applications
+  - Automated design-to-development handoff from Figma design systems
+  - Full-stack application delivery with AI design tools
+  - Backend services and authentication for production applications
+  skills:
+    databases: [Supabase, SQL, NoSQL]
+    domains: []
+    data: []
+    web: [OAuth, JWT, REST APIs, React, Vue, Nuxt, Tailwind, GraphQL, Design Systems]
+    ml: []
+    ops: []
+    other: [v0.dev, Figma, Jira, n8n, Workflow Automation]
+    cloud: [AWS, Azure, GCP]
+    languages: [TypeScript, Python, PHP, Node.js]
+    genai: [Bolt.new, Lovable]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11052048'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:16:19.986784'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

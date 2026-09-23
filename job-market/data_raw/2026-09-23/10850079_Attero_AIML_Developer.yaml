@@ -1,0 +1,126 @@
+job_id: 10850079
+title: AI/ML Developer
+company: Attero
+location: Noida, IND
+work_type: FULL_TIME
+company_size: 718 Employees
+description: |
+  Job Title: AI/ML Developer
+
+  Location: Noida
+
+  As an AI/ML Developer, you will be responsible for
+  designing, building, and deploying AI-powered solutions that
+  solve real business problems across manufacturing, supply
+  chain, operations, recycling, and enterprise workflows. You
+  will work closely with Product Managers, Engineering, and
+  business teams to convert operational challenges into
+  production-ready AI systems.
+
+  This role requires someone who enjoys solving complex
+  problems using machine learning, LLMs, computer vision, and
+  data engineering rather than simply experimenting with
+  models.
+
+  Key Responsibilities
+
+  - Design, develop, and deploy AI/ML solutions to solve
+    business problems across operations, manufacturing, supply
+    chain, and enterprise applications.
+  - Build production-grade applications using Large Language
+    Models (LLMs), Retrieval Augmented Generation (RAG), AI
+    agents, and modern AI frameworks.
+  - Develop and optimize machine learning, computer vision, NLP,
+    and predictive analytics models based on business
+    requirements.
+  - Collaborate with Product Managers and business stakeholders
+    to understand problems, identify AI opportunities, and
+    translate them into scalable solutions.
+  - Prepare, clean, and engineer datasets for training,
+    evaluation, and production deployment.
+  - Build APIs and AI services that integrate seamlessly with
+    web applications, mobile applications, ERPs, and
+    enterprise systems.
+  - Evaluate emerging AI models, frameworks, and technologies to
+    continuously improve solution quality and business impact.
+  - Monitor model performance, accuracy, latency, and
+    reliability, and continuously improve deployed AI systems.
+  - Document AI architectures, experiments, and deployment
+    pipelines while following engineering best practices.
+
+  Qualifications & Skills RequiredEducation
+
+  - Bachelor’s degree in Computer Science, Artificial
+    Intelligence, Data Science, Engineering, or a related
+    field (B.Tech./B.E. preferred).
+
+  Experience
+
+  - 1–3 years of experience developing AI/ML applications in
+    production environments.
+  - Strong hands-on experience with Python (mandatory).
+  - Experience with machine learning libraries such as Scikit-
+    Learn, TensorFlow, PyTorch, or XGBoost.
+  - Experience building applications using modern LLMs (OpenAI,
+    Claude, Gemini, Llama, etc.).
+  - Hands-on experience with LangChain, LangGraph, LlamaIndex,
+    or similar AI orchestration frameworks.
+  - Strong SQL skills and experience working with structured and
+    unstructured datasets.
+  - Experience building REST APIs using FastAPI, Flask, or
+    similar frameworks.
+  - Familiarity with cloud platforms such as AWS, Azure, or GCP.
+
+  Technical Skills
+
+  - Python
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Large Language Models (LLMs)
+  - Retrieval Augmented Generation (RAG)
+  - AI Agents
+  - Prompt Engineering
+  - NLP
+  - Computer Vision
+  - Vector Databases
+  - SQL
+  - Git
+  - Docker
+  - API Development
+
+  Preferred Qualifications
+
+  - Experience deploying AI solutions into production
+    environments.
+  - Experience with OCR, document intelligence, or multimodal AI
+    systems.
+  - Experience with computer vision applications using OpenCV,
+    YOLO, or related frameworks.
+  - Familiarity with MLOps tools such as MLflow, Airflow,
+    Kubeflow, or similar platforms.
+  - Experience working with manufacturing, logistics, industrial
+    automation, or supply chain datasets.
+  - Exposure to IoT, robotics, or sensor data is an added
+    advantage.
+
+  What We’re Looking For
+
+  - Strong analytical and problem-solving skills with a first-
+    principles approach.
+  - Curiosity to experiment with emerging AI technologies while
+    maintaining engineering discipline.
+  - Ability to independently own AI projects from idea to
+    production deployment.
+  - Strong communication skills and the ability to explain AI
+    concepts to non-technical stakeholders.
+  - Passion for building practical AI solutions that create
+    measurable business impact rather than proof-of-concepts.
+industries:
+  - Greentech
+  - Energy
+  - Industrial
+  - Manufacturing
+posted_date: 2026-08-26
+url: "https://builtin.com/job/ai-ml-developer/10850079"
+source: Built In

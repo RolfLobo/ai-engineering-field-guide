@@ -1,0 +1,47 @@
+company:
+  name: Neuralgo Software India Private Limited
+  stage: null
+  focus: |-
+    Machine Learning platforms and Generative AI services for
+    enterprises
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG, LLM-based architectures, fine-tunes
+      pre-trained LLMs, and evaluates model output quality —
+      shaping LLM behavior directly, so it is ai-first.
+  responsibilities:
+  - Design and develop Generative AI solutions using RAG, transformers, and LLM-based
+    architectures
+  - Fine-tune pre-trained LLMs for domain- and task-specific use cases
+  - Build and maintain data pipelines for training and inference workflows
+  - Evaluate, analyze, and benchmark model performance and quality
+  - Own end-to-end ML/GenAI pipelines from training to production deployment
+  - Apply model optimization and compression techniques
+  - Monitor deployed models and continuously improve performance and reliability
+  use_cases:
+  - Enterprise GenAI solutions
+  - Domain- and task-specific LLM applications
+  - Productionized ML/GenAI systems for business outcomes
+  - Model training, deployment, and monitoring pipelines
+  skills:
+    genai: [RAG, LLMs, Fine-Tuning, Transformers, Generative AI]
+    ml: [Machine Learning, Model Evaluation]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS]
+    ops: [Git, Docker, Linux, MLOps, Model Deployment, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10958496'
+  location: Coimbatore, IND
+  extracted_at: '2026-09-23T11:09:26.702430'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Senior AI/ML Engineer - Bangalore
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and shapes LLM behavior directly: building
+      agentic workflows, RAG, prompt engineering, function
+      calling, eval frameworks, and guardrails for production
+      generative AI systems, in addition to classical ML modeling.
+      With LLM/agent components involved, this is ai-first.
+  responsibilities:
+  - Research, design, and develop machine learning and deep learning models to address
+    business challenges
+  - Build and maintain robust data pipelines for data gathering, cleaning, and preprocessing
+  - Train, test, and validate ML models, running experiments to optimize performance
+  - Deploy models to production and implement MLOps practices for monitoring, retraining,
+    and updating
+  - Design, develop, and optimize LLM-powered applications and agentic workflows including
+    RAG, prompt engineering, function calling, and multi-step orchestration
+  - Establish LLM evaluation frameworks, guardrails, and structured output validation
+    for production reliability
+  - Collaborate with data scientists, engineers, and product managers to integrate
+    AI/ML models into applications
+  use_cases:
+  - Healthcare data-driven predictive models improving health outcomes
+  - LLM-powered generative AI features for healthcare products and services
+  - RAG-based intelligent applications with tool/function calling and multi-step orchestration
+  - Production ML/AI systems with reliability, guardrails, and cost-efficiency monitoring
+  skills:
+    genai: [LangGraph, LangChain, Anthropic API, OpenAI API, Azure OpenAI, RAG, Prompt
+        Engineering, Embeddings, Fine-Tuning, LLM Evaluation]
+    ml: [TensorFlow, PyTorch, Keras, scikit-learn, Machine Learning, Deep Learning,
+      Model Deployment]
+    web: []
+    databases: [Vector Databases, Pinecone, FAISS, Chroma]
+    data: [Databricks, Pandas, NumPy]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, MLOps]
+    languages: [Python, R, Java, SQL]
+    domains: []
+    other: [Pydantic]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11212213'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:27:10.386368'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

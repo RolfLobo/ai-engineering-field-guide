@@ -1,0 +1,55 @@
+company:
+  name: PwC
+  stage: null
+  focus: Professional services and assurance
+position:
+  title: AIT - AI Senior Developer Manager
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds scalable AI-enabled applications using LLM
+      integrations and RAG pipelines, which involves designing
+      retrieval and model integration - shaping LLM behavior.
+      Management duties (mentoring, coaching) exist, but the
+      technical work includes LLM/RAG design, making it ai-first.
+  responsibilities:
+  - Lead development and implementation of innovative software solutions for digital
+    transformation
+  - Manage and mentor a team of software engineers
+  - Design, code, and test applications to enhance user experiences and meet client
+    needs
+  - Build scalable AI-enabled applications with LLM integrations and RAG pipelines
+  - Oversee application lifecycle management including planning, development, and
+    maintenance
+  - Implement CI/CD practices to streamline software deployment
+  - Conduct code reviews and quality assurance testing
+  - Coach and develop team members through feedback and skill enhancement
+  use_cases:
+  - AI-enabled applications for digital transformation
+  - LLM-integrated applications in the Assurance practice
+  - RAG-based data retrieval pipelines
+  - Scalable enterprise software solutions
+  skills:
+    genai: [LLMs, RAG, Function Calling]
+    ml: []
+    web: [Microservices, API Management, REST APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Observability, CI/CD]
+    languages: []
+    domains: []
+    other: [Software Project Management, Business Process Improvement, Acceptance
+        Test Driven Development]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '10393970'
+  location: Tampa, USA
+  locations:
+  - Tampa, USA
+  - New York, USA
+  - Boston, USA
+  extracted_at: '2026-09-23T10:59:26.006523'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

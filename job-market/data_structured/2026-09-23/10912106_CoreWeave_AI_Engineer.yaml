@@ -1,0 +1,52 @@
+company:
+  name: CoreWeave
+  stage: 'publicly traded (Nasdaq: CRWV)'
+  focus: AI cloud infrastructure and GPU compute platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns agent logic, retrieval design,
+      safeguards/guardrails, and evaluation of LLM output quality
+      for support agents - clear shaping of LLM/agent systems, so
+      ai-first. It involves building and operating agents that
+      investigate customer issues, with retrieval over historical
+      support data and quality measurement.
+  responsibilities:
+  - Design and build AI agents that investigate and act on real customer issues
+  - Build safeguards including grounding model output in authoritative data, human
+    approval steps, and stop conditions
+  - Build and evaluate retrieval over historical support data against expert baselines
+  - Determine the optimal balance between AI and deterministic logic
+  - Instrument systems for quality, cost, and adoption to guide next steps
+  - Deploy and operate services on Kubernetes and support them in production
+  - Partner with support engineers and domain experts, sitting in on live investigations
+  use_cases:
+  - AI agents that investigate and resolve customer support issues
+  - Retrieval over historical support data to assist incident diagnosis
+  - Safeguarded automation acting on live production infrastructure
+  - Tooling for engineers to diagnose customer issues faster during incidents
+  skills:
+    genai: [Function Calling, Agentic Workflows, RAG, LLMs, Guardrails]
+    ml: [Fine-Tuning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, CI/CD, Observability]
+    languages: [Go, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10912106'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Livingston, USA
+  - Sunnyvale, USA
+  extracted_at: '2026-09-23T11:06:40.260146'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

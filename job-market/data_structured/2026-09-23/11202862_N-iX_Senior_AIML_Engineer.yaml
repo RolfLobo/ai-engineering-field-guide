@@ -1,0 +1,85 @@
+company:
+  name: N-iX
+  stage: null
+  focus: IT services and software development company
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, implements, evaluates, and optimizes
+      LLM/NLP and RAG solutions with prompt engineering,
+      embeddings, and retrieval strategies — directly shaping
+      model behavior and output quality via an LLM component.
+      Classical ML work is also present, which maps to ai-first
+      when both are shaped.
+  responsibilities:
+  - Design and develop AI/ML solutions for predictive analytics, classification, forecasting,
+    and AI-assisted workflows within Palantir Foundry
+  - Design, implement, evaluate, and optimize LLM/NLP and RAG solutions using Palantir
+    AIP, including prompt engineering, embeddings, retrieval strategies, and vector
+    search
+  - Own the end-to-end lifecycle of AI solutions from experimentation through deployment,
+    monitoring, and continuous improvement
+  - Collaborate with data engineers on data sources, data quality, and scalable data
+    processing approaches
+  - Integrate AI solutions into production workflows and optimize for accuracy, reliability,
+    latency, scalability, and cost
+  - Contribute to technical architecture and design decisions including model, framework,
+    and tool selection
+  - Translate business needs into production-ready AI solutions and communicate decisions
+    to non-technical stakeholders
+  use_cases:
+  - Predictive analytics, classification, and forecasting
+  - AI-assisted workflow automation within Palantir Foundry
+  - LLM/NLP and RAG solutions for text processing and summarization
+  - Enterprise AI solutions integrated into production workflows
+  skills:
+    genai: [LLMs, Generative AI, Prompt Engineering, Embeddings, RAG]
+    ml: [Machine Learning, scikit-learn, XGBoost, TensorFlow, PyTorch, Feature Engineering,
+      Model Evaluation]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Model Deployment, Monitoring, Docker, Kubernetes]
+    languages: [Python]
+    domains: [NLP]
+    other: [Palantir Foundry, Palantir AIP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11202862'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-09-23T11:26:59.628803'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

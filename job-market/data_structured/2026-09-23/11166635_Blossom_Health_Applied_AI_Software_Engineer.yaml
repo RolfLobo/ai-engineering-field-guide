@@ -1,0 +1,51 @@
+company:
+  name: Blossom Health
+  stage: Series A
+  focus: |-
+    AI-native mental healthcare platform for clinicians and
+    patients
+position:
+  title: Applied AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM-powered systems and agents, works
+      across prompts, retrieval, tool calling, and builds
+      evaluation and monitoring systems for AI output quality —
+      squarely shaping model behavior, so ai-first.
+  responsibilities:
+  - Build and ship AI-native product experiences used directly by clinicians and patients
+  - Design and develop LLM-powered systems and agents that automate and augment healthcare
+    workflows
+  - Own AI features end-to-end from prototyping through production deployment, evaluation,
+    and iteration
+  - Build evaluation, monitoring, and feedback systems to improve AI quality, reliability,
+    and performance
+  - Work across models, prompts, tools, retrieval systems, and application infrastructure
+  - Collaborate with clinicians and engineers to identify where AI can have the greatest
+    impact
+  use_cases:
+  - Automating and augmenting mental healthcare clinical workflows
+  - AI-native care platform for psychiatrists
+  - LLM agents supporting clinicians and patients in care delivery
+  - Expanding access to affordable, timely mental healthcare
+  skills:
+    genai: [LLMs, OpenAI API, AI Agents, Function Calling, RAG, Structured Outputs,
+      LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11166635'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:23:11.417096'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

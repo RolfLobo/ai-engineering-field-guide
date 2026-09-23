@@ -1,0 +1,53 @@
+company:
+  name: Root
+  stage: null
+  focus: Technology-driven direct-to-consumer auto insurance
+position:
+  title: Staff Software Engineer, AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds the platform infrastructure, tooling, and
+      operating patterns that let other teams use AI reliably and
+      securely. It does not itself write prompts, design
+      retrieval, train, or evaluate models — the deliverable is
+      capacity and governance, not model behaviour. Guiding AI/LLM
+      architecture at the platform level without shaping model
+      output is ai-support.
+  responsibilities:
+  - Define multi-quarter technical direction for making AI a trusted company-wide
+    capability
+  - Lead cross-team initiatives turning AI strategy into durable platform architecture
+    and shared services
+  - Make technical tradeoffs balancing security, reliability, observability, cost,
+    and maintainability
+  - Unblock critical work across AI Platform, product engineering, data, security,
+    and infrastructure
+  - Establish standards and feedback loops to monitor, govern, and improve AI-enabled
+    systems
+  - Drive technical investments that unlock the company's next stage of AI adoption
+  - Develop engineers and technical leaders through mentorship and architecture guidance
+  use_cases:
+  - AI platform infrastructure enabling reliable, secure AI use across insurance products
+    and operations
+  - Monitoring, governance, and observability for AI-enabled systems
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10941898'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:08:05.586894'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

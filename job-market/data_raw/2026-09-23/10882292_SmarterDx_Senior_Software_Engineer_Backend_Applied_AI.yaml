@@ -1,0 +1,163 @@
+job_id: 10882292
+title: Senior Software Engineer, Backend (Applied AI)
+company: SmarterDx
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  SmarterDx is transforming how health systems use clinical AI
+  to capture the full value of patient care delivered. Built
+  by physician-data scientists and trained on clinically-
+  validated EHR data, our clinical AI platform interprets the
+  nuances behind every patient story and makes clinically-
+  sound recommendations for revenue cycle teams — helping
+  hospitals recover earned revenue, improve quality metrics,
+  reduce denials, and streamline revenue cycle operations. As
+  a Smartian, you’ll help build technology that makes
+  healthcare more accurate, sustainable, and effective for
+  everyone. Learn more at smarterdx.com/careers.
+
+  Role
+
+  We are looking for a backend-oriented Senior Software
+  Engineer with applied AI experience to help build the
+  systems that power SmarterDx’s clinical AI products. This
+  role sits at the intersection of backend engineering,
+  machine learning, and product development. You’ll build
+  production applications that combine traditional software
+  systems with machine learning and increasingly LLM-driven
+  capabilities. You’ll work closely with Data Scientists and
+  other Product engineers to turn models, experiments, and
+  emerging AI techniques into reliable product experiences
+  used by healthcare teams. The ideal candidate has strong
+  backend engineering fundamentals and has previously built
+  and operated LLM-heavy applications in production. You don’t
+  need to be an ML infrastructure specialist, but you should
+  be comfortable working directly with models, understanding
+  their behavior and limitations, and designing the
+  application architecture around them. Experience with
+  traditional machine learning is valuable, particularly if
+  you have more recently worked on applications powered by
+  LLMs, multimodal models, or other modern AI systems.
+
+  **This role is fully remote within the US**
+
+  What You’ll Do
+
+  - Design, build, and launch backend services and product
+    capabilities that incorporate LLMs, machine learning
+    models, and other AI systems
+  - Build production-grade workflows around model inference,
+    structured outputs, tool use, retrieval, agentic
+    workflows, and other LLM application patterns
+  - Partner closely with Data Scientists to take models and
+    experimental approaches from exploration into reliable,
+    maintainable production systems
+  - Develop evaluation, observability, and feedback mechanisms
+    to understand and improve AI system performance in
+    production
+  - Design systems that gracefully handle the probabilistic and
+    non-deterministic behavior of AI models
+  - Work with clinical and operational data across structured
+    and unstructured formats, including documents and images
+  - Collaborate across engineering, product, data science, and
+    clinical disciplines to understand users and rapidly
+    iterate on new ideas
+  - Design and improve the backend architecture that supports
+    SmarterDx’s applications at scale
+  - Protect patients’ privacy and security through secure coding
+    and data-handling practices
+  - Research and advocate for improved techniques,
+    architectures, and development practices as the applied AI
+    ecosystem evolves
+  - Support SmarterDx’s applications and AI systems in
+    production
+
+  What You Bring
+
+  - 5+ years of software development experience, with
+    significant experience building backend and cloud-based
+    systems
+  - Expertise in Python and/or TypeScript, with strong software
+    engineering fundamentals
+  - Experience building LLM-powered applications that have been
+    deployed to production
+  - Experience integrating models into larger software systems
+    rather than working exclusively on model training or ML
+    infrastructure
+  - Experience collaborating closely with Data Scientists,
+    Machine Learning Engineers, or research-oriented teams
+  - Experience designing APIs, services, data models, and
+    asynchronous or event-driven workflows
+  - Experience working with Postgres or a similar relational
+    database
+  - Experience building cloud-native distributed systems
+  - Familiarity with evaluating, debugging, and monitoring AI
+    systems in production
+  - Strong judgment around reliability, testing, observability,
+    and failure handling in systems that incorporate
+    probabilistic model outputs
+  - Experience working in a security-conscious environment
+  - Excellent communication and cross-functional collaboration
+    skills
+  - Bachelor’s or Master’s in Computer Science, Engineering, or
+    a related field, or equivalent experience
+
+  Nice To Haves
+
+  - Experience with both traditional machine learning models and
+    modern generative AI / LLM applications
+  - Experience with LLM application frameworks or orchestration
+    tools such as LangChain or LangGraph
+  - Experience with LLM observability and evaluation platforms
+    such as Langfuse, Braintrust, or similar tools
+  - Experience building retrieval-augmented generation, tool-
+    calling, agentic, or multi-step AI workflows
+  - Experience with computer vision, multimodal models, document
+    understanding, or OCR pipelines
+  - Experience designing evaluation datasets, automated
+    evaluations, human-in-the-loop workflows, or model
+    feedback loops
+  - Experience at a scale-up or rapid-growth technology company
+  - Experience in health tech, particularly with clinical data
+    or hospital billing systems
+  - Experience working with Kubernetes
+  - Experience with HL7 / FHIR and other EHR-related
+    technologies
+  - Experience with Snowflake
+  - Experience with Datadog
+
+  Our Stack
+
+  Python, TypeScript, React, Kubernetes, Postgres, DBOS, AWS,
+  Terraform, Snowflake, Datadog, Braintrust, EasyLLM
+
+  Compensation
+
+  $190K to $230K base salary
+
+  #LI-DNI
+
+  Benefits
+
+  - Medical, Dental & Vision – Comprehensive plans with leading
+    insurance providers, covering 75% of your premiums,
+    depending on the plan.
+  - Paid Parental Leave – Generous paid leave to support
+    families through birth or adoption: Up to 12 weeks for
+    parents.
+  - Remote-First Team – Work from anywhere in the U.S.
+  - Unlimited PTO & 11 Holidays – So you can relax and recharge.
+  - 401(k) with Traditional & Roth Options – Tax-advantaged
+    retirement savings through Fidelity with a 4% match.
+  - Minimal Bureaucracy – A fast-moving, high-impact environment
+    where you can focus on what matters.
+  - Incredible Teammates! – Work alongside smart, supportive,
+    and mission-driven colleagues.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Software
+posted_date: 2026-08-27
+url: "https://www.builtinla.com/job/senior-software-engineer-backend-applied-ai/10882292"
+source: Built In

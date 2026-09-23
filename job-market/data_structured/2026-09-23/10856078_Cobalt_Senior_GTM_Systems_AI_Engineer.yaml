@@ -1,0 +1,64 @@
+company:
+  name: Cobalt
+  stage: null
+  focus: Offensive security testing (pentesting) SaaS platform
+position:
+  title: Senior GTM Systems & AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly includes designing and building AI-
+      enabled workflows and agents for GTM processes, and
+      evaluating AI-powered solutions for data quality, insights,
+      and prioritization — agent/workflow design is shaping model
+      behaviour. However, the bulk of the role is traditional GTM
+      systems administration, so this is a secondary component;
+      the agent-building responsibility tips it into ai-first.
+  responsibilities:
+  - Serve as primary technical owner and administrator of Salesforce, including architecture,
+    Flows, automation, permissions, integrations, and reporting
+  - Own the broader GTM technology ecosystem, including integrations between Salesforce,
+    HubSpot, Customer Success platforms, and enrichment tools
+  - Administer HubSpot, including workflows, lifecycle stages, lead scoring and routing,
+    campaigns, and Salesforce data synchronization
+  - Own GTM data quality and enrichment infrastructure, including deduplication, normalization,
+    matching logic, and data governance
+  - Build scalable workflow automation using native platform capabilities, APIs, webhooks,
+    and tools such as n8n or Zapier
+  - Evaluate and implement AI-powered solutions and AI-enabled workflows and agents
+    that improve GTM productivity and efficiency
+  - Support Customer Success platform administration and post-sale lifecycle processes
+    such as health scoring and renewals
+  - Own systems governance, monitoring, documentation, and technical initiatives end-to-end
+    from discovery through deployment
+  use_cases:
+  - GTM revenue operations automation across Marketing, Sales, and Customer Success
+  - CRM data enrichment, deduplication, and governance for accurate account and contact
+    data
+  - Lead scoring, routing, and Marketing-to-Sales handoff workflows
+  - Signal-based GTM workflows using intent, engagement, and buying triggers
+  - AI-enabled workflows and agents improving GTM productivity, research, and prioritization
+  - Post-sale customer lifecycle support including health scoring, renewals, and churn
+    risk
+  skills:
+    genai: [AI Agents]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [SQL, Python, JavaScript, TypeScript]
+    domains: []
+    other: [Salesforce, HubSpot, n8n, Zapier, Make, Data Governance, Data Quality
+        Monitoring, Lead Scoring, Workflow Automation, Apollo, Clay, LeanData, ZoomInfo,
+      6sense, Gong, Outreach, Clari, Planhat]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10856078'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:08.981546'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

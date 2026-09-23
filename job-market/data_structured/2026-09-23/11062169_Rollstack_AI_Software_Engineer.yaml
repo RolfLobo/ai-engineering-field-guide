@@ -1,0 +1,46 @@
+company:
+  name: Rollstack
+  stage: backed by Insight Partners and Y Combinator
+  focus: Automating slide decks and document creation
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI-powered product features using LLM
+      frameworks (LangChain, RAG, LlamaIndex), develops LLM
+      agents, and fine-tunes LLMs in production — directly shaping
+      LLM behaviour and output quality.
+  responsibilities:
+  - Build AI-powered features automating data sharing through slides and documents
+  - Leverage LLM frameworks like LangChain, RAG, and LlamaIndex for production data
+    analysis and content generation
+  - Optimize system performance, reliability, and time-to-market
+  - Develop LLM agents for data analysis and content generation
+  - Fine-tune large language models in production environments
+  - Collaborate with designers and software engineers on user adoption and engagement
+  use_cases:
+  - Automated generation of slide decks and documents
+  - AI-driven data analysis and insights
+  - Content generation for business reporting
+  - Automating document creation for leadership, clients, and partners
+  skills:
+    genai: [LangChain, RAG, LlamaIndex, AI Agents, Fine-Tuning, OpenAI API, Gemini]
+    ml: [Machine Learning, LLMs]
+    web: [React, Node.js]
+    databases: [Prisma ORM]
+    data: [Temporal Workflows]
+    cloud: [AWS]
+    ops: [Kubernetes, ArgoCD, Langfuse]
+    languages: [Python, TypeScript]
+    domains: [NLP]
+    other: [Sentry, PostHog]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11062169'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:15:40.118872'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

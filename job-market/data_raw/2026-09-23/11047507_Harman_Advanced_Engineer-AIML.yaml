@@ -1,0 +1,188 @@
+job_id: 11047507
+title: Advanced Engineer-AI/ML
+company: Harman
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 22,291 Employees
+description: |
+  HARMAN’s engineers and designers are creative, purposeful
+  and agile. As part of this team, you’ll combine your
+  technical expertise with innovative ideas to help drive
+  cutting-edge solutions in the car, enterprise and connected
+  ecosystem. Every day, you will push the boundaries of
+  creative design, and HARMAN is committed to providing you
+  with the opportunities, innovative technologies and
+  resources to build a successful career.
+
+  A Career at HARMAN
+
+  As a technology leader that is rapidly on the move, HARMAN
+  is filled with people who are focused on making life better.
+  Innovation, inclusivity and teamwork are a part of our DNA.
+  When you add that to the challenges we take on and solve
+  together, you’ll discover that at HARMAN you can grow, make
+  a difference and be proud of the work you do everyday.
+
+  Introduction: A Career at HARMAN Automotive
+
+  We’re a global, multi-disciplinary team that’s putting the
+  innovative power of technology to work and transforming
+  tomorrow. At HARMAN Automotive, we give you the keys to
+  fast-track your career.
+
+  - Engineer audio systems and integrated technology platforms
+    that augment the driving experience
+  - Combine ingenuity, in-depth research, and a spirit of
+    collaboration with design and engineering excellence
+  - Advance in-vehicle infotainment, safety, efficiency, and
+    enjoyment
+
+  About the Role
+
+  We are looking for a high-impact AI/ML Engineer with up to
+  5-7 years of experience to build next-generation Automotive
+  AI systems, aligned with HARMAN AES’s vision of agentic,
+  cross-domain automotive intelligence.
+
+  This role focuses on developing and deploying SLMs (Small
+  Language Models), VLA/VLM models, and AI orchestration
+  layers across edge and cloud environments, enabling
+  intelligent cockpit, ADAS, and connected vehicle
+  experiences.
+
+
+
+  What You Will Do
+
+  1. AI/ML Model Development, Domain Specific Finetuning &
+  Deployment
+
+  - Develop and optimize SLMs (Small Language Models) for:
+    - In-vehicle conversational AI
+    - Context-aware reasoning and intent handling
+  - Deploy model on Edge Device (CPU, NPU, GPU)
+  - Work with VLM/VLA models for:
+    - Scene understanding, multi-modal perception, and interaction
+  - Implement edge + cloud AI pipelines for real-time inference
+    and hybrid execution
+
+  2. Agentic AI & Orchestration Systems
+
+  - Develop AI orchestration layers:
+    - Intent routing and tool routing
+    - Policy engines, scheduling, and coordination
+    - Cross-domain context management
+
+  3. Multi-Modal & Cross-Domain Intelligence
+
+  - Build systems integrating:
+    - Voice (ASR, TTS, NLU)
+    - Visual perception (VLM/VLA)
+    - Sensor fusion signals
+  - Enable cross-domain intelligence across cockpit, ADAS, and
+    connected services
+
+  4. Data, MLOps
+
+  - Design ML pipelines and MLOps workflows:
+    - Model training, evaluation, deployment, monitoring
+  - Ensure compliance with:
+    - Safety, cybersecurity, and automotive standards
+
+  5. Collaboration & Engineering Integration
+
+  - Work with:
+    - Embedded software teams
+    - Cloud/data engineering teams
+    - HMI and system integration teams
+  - Contribute to end-to-end automotive AI platforms and
+    solutions
+
+
+
+  Bonus Points if You Have
+
+  - Automotive domain exposure (ADAS, cockpit, connectivity)
+  - Speech AI (ASR, TTS, conversational systems)
+  - Knowledge of:
+    - AUTOSAR / embedded systems
+    - Vehicle data platforms
+  - Experience with:
+    - Simulation environments
+    - Digital twin / validation platforms
+  - Seamless integration of in-vehicle AI solutions
+  - End-to-end AI engine development on edge devices leveraging
+    NPU, CPU, and GPU capabilities
+  - AI/ML model inference on edge devices using C++ APIs or
+    NNAPI for optimized performance
+
+
+
+  What Makes You Eligible
+
+  Core AI/ML
+
+  - Strong experience in:
+    - Deep learning, NLP, and computer vision
+    - LLM/SLM fine-tuning and optimization
+  - Exposure to VLM/VLA or multi-modal AI models
+
+  Agentic AI & Orchestration
+
+  - Hands-on experience with:
+    - AI agents / tool-using LLMs
+    - Orchestration frameworks (LangChain,
+      Langgraph/Autogent/Semantic Kernel, custom pipelines)
+    - MCP Servers
+
+  Edge + Cloud AI
+
+  - Experience deploying models on:
+    - Embedded / edge platforms
+    - Cloud environments (Azure, AWS, GCP)
+
+  Programming & Frameworks
+
+  - Python (mandatory), C++ (preferred)
+  - PyTorch / TensorFlow
+  - API-based AI integration
+
+  MLOps & Data
+
+  - Experience with:
+    - Model lifecycle management
+    - CI/CD pipelines
+    - Data pipelines
+
+
+
+  What We Offer
+
+  - Access to employee discounts on world-class products (JBL,
+    HARMAN Kardon, AKG, and more)
+  - Extensive training opportunities through our own HARMAN
+    University
+  - Competitive wellness benefits
+  - Tuition reimbursement
+  - “Be Brilliant” employee recognition and rewards program
+  - An inclusive and diverse work environment that fosters and
+    encourages professional and personal development
+  - A hybrid work environment that balances flexibility with in-
+    person collaboration, with most office-based roles onsite
+    three days a week.
+
+  HARMAN is proud to be an Equal Opportunity / Affirmative
+  Action employer. All qualified applicants will receive
+  consideration for employment without regard to race,
+  religion, color, national origin, gender (including
+  pregnancy, childbirth, or related medical conditions),
+  sexual orientation, gender identity, gender expression, age,
+  status as a protected veteran, status as an individual with
+  a disability, or other applicable legally protected
+  characteristics.
+industries:
+  - Consumer Web
+  - Information Technology
+posted_date: 2026-09-08
+url: "https://builtin.com/job/advanced-engineer-ai-ml/11047507"
+source: Built In

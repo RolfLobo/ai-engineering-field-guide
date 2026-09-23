@@ -1,0 +1,50 @@
+company:
+  name: MUFG
+  stage: null
+  focus: Global banking and financial services group
+position:
+  title: AVP, AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and delivers Generative AI solutions
+      including RAG architectures, prompt engineering, and agentic
+      systems, directly shaping LLM behavior and output quality.
+      LLM/agent components are central, so it is ai-first.
+  responsibilities:
+  - Collaborate with Digital Transformation teams and business stakeholders to capture
+    requirements and define success measures for AI initiatives
+  - Investigate and evaluate AI models, platforms, and technologies based on business
+    value, cost, risk, and strategic alignment
+  - Design and deliver production-grade Generative AI solutions including RAG and
+    agentic architectures in a regulated environment
+  - Follow SDLC, governance, architecture, and engineering standards in planning,
+    documentation, and release readiness
+  - Provide L1, L2, and L3 support for services owned by the AI Engineering team
+  - Track outcomes, costs, and ROI with business owners to improve or scale AI solutions
+  - Champion best practices in RAG architectures and agentic systems
+  use_cases:
+  - Generative AI solutions for digital transformation across EMEA
+  - Retrieval augmented generation for organisational processes in financial services
+  - Agentic AI systems for business operations
+  - Predictive analytics for business applications
+  skills:
+    genai: [Generative AI, RAG, Prompt Engineering, Vector Databases, LLM Evaluation,
+      LangChain, LangGraph, LLMs, Agentic Workflows]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS]
+    ops: [LLMOps]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11307058'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:36:58.964649'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

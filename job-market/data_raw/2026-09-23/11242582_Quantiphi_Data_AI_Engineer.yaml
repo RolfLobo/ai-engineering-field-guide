@@ -1,0 +1,202 @@
+job_id: 11242582
+title: "Data & AI Engineer"
+company: Quantiphi
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  While technology is the heart of our business, a global and
+  diverse culture is the heart of our success. We love our
+  people and we take pride in catering them to a culture built
+  on transparency, diversity, integrity, learning and growth.
+  If working in an environment that encourages you to innovate
+  and excel, not just in professional but personal life,
+  interests you- you would enjoy your career with Quantiphi!
+
+  About Quantiphi:
+
+  Quantiphi is an award-winning, AI-First digital engineering
+  and consulting company focused on delivering high-impact
+  Services and Solutions that help organizations solve what
+  truly matters. We partner with enterprises to reimagine
+  their businesses through intelligent, scalable, and
+  transformative AI driving measurable outcomes at the very
+  core of their operations.
+
+  Since our founding in 2013, Quantiphi has tackled some of
+  the world’s most complex business challenges by combining
+  deep industry expertise, disciplined cloud and data
+  engineering practices, and cutting-edge applied AI research.
+  Our work is rooted in delivering accelerated, quantifiable
+  business value, not just technology for technology’s sake.
+
+  Headquartered in Boston, Quantiphi is a global organization
+  with 4,000+ professionals serving clients across key
+  industry verticals, including BFSI, Healthcare & Life
+  Sciences, CPG, MFG, TME etc.
+
+  As an Elite and Premier partner to leading cloud and AI
+  platforms such as NVIDIA, Google Cloud, AWS, and Snowflake,
+  we build and deliver enterprise-grade AI services and
+  solutions that create real-world impact.
+
+  Our industry recognition includes:
+
+  - 21x Google Cloud Partner of the Year awards in the last 8
+    years.
+  - 3x AWS AI/ML award wins.
+  - 3x NVIDIA Partner of the Year titles.
+  - 2x Snowflake Partner of the Year awards.
+  - Top analyst recognitions from Gartner, ISG, and Everest
+    Group.
+  - Consecutive certifications as a Great Place to Work.
+
+  Be part of a trailblazing team that’s shaping the future of
+  AI, ML, and cloud innovation.
+
+  Your next big opportunity starts here!
+
+  Work Location: USA - Remote
+
+  Experience Level: 6+ years
+
+  Type: Contract (C2C)
+
+  Role:
+
+  We are seeking an experienced Senior Data & AI Engineer to
+  join our team in. In this role, you will be a key driver in
+  building and modernizing our enterprise data and AI
+  ecosystem. You will architect and deploy scalable real-time
+  streaming pipelines, modern data products, semantic layers,
+  knowledge graphs, and GenAI/Agentic data infrastructure. The
+  ideal candidate blends deep expertise in large-scale data
+  engineering with cutting-edge hands-on skills in AI
+  engineering, RAG architectures, and automated data quality
+  systems to power next-generation business capabilities.
+
+  Key Responsibilities
+
+  - Senior Data and AI Engineering professional for large and
+    complex data ecosystem leveraging data domains, data
+    products, cloud and modern technology stack
+  - Real-Time Data Streaming: Design, build and maintain
+    scalable and robust real-time data streaming pipelines
+    using technologies such as Apache Kafka, AWS Kinesis,
+    Spark streaming, or similar.
+  - Senior Data and AI Engineering professional responsible for
+    Implementing Data and AI pipelines that bring together
+    structured, semi-structured and unstructured data to
+    support AI and Agentic solutions. This Includes pre-
+    processing with extraction, chunking, embedding and
+    grounding strategies to get the data ready.
+  - Design and Develop Data and AI-driven systems to improve
+    data capabilities, ensuring compliance with industry best
+    practices.
+  - Design and Develop data domains and data products for
+    various consumption archetypes including Reporting, Data
+    Science, AI/ML, Analytics etc.
+  - Design and Implement efficient Retrieval-Augmented
+    Generation (RAG) architectures and integrate with
+    enterprise data infrastructure.
+  - Collaborate with cross-functional teams to integrate
+    solutions into operational processes and systems
+    supporting various functions.
+  - Stay up to date with industry advancements in GenAI and
+    apply modern technologies and methodologies to our
+    systems. This includes leading prototypes (POCs),
+    conducting experiments, and recommending innovative tools
+    and technologies to enhance data capabilities enabling
+    business strategy.
+  - Model domain entities, relationships, and business logic in
+    knowledge graphs (e.g., Neo4j, Amazon Neptune, RDF).
+    Integrate data from multiple sources, ensuring canonical
+    representation and semantic consistency.
+  - Synthetic data generation: Develop and validate synthetic
+    data to simulate rare events and edge cases, supporting
+    robust agent evaluation. Integrate synthetic data
+    workflows with automated testing frameworks to ensure
+    consistent, scalable agent performance assessment.
+  - Identify and Champion AI driven Data Engineering
+    productivity improvements capabilities accelerating end-
+    to-end data delivery lifecycle. This includes researching
+    and implementing innovative solutions such as AI-driven
+    auto-generation of data pipelines, advanced DevOps
+    practices (AI augmented self-healing data pipelines) for
+    data and automated data quality frameworks.
+  - Semantic layer and Real time analytics: Design and implement
+    scalable semantic layer with dynamic query translation to
+    deliver real time insights for conversational analytics.
+  - Integrate the semantic layers with AI/LLM platforms to
+    provide low-latency, secure, and context-rich data access,
+    optimized for high concurrency and aligned with enterprise
+    governance standards.
+  - Ensure the reliability, availability, and scalability of
+    data pipelines and systems through effective monitoring,
+    alerting, and incident management.
+  - Implement best practices in reliability engineering,
+    including redundancy, fault tolerance, and disaster
+    recovery strategies.
+  - Collaborate closely with DevOps and infrastructure teams to
+    ensure seamless deployment, operation, and maintenance of
+    data systems.
+  - Mentoring junior team members and leading communities of
+    practice to deliver high-quality data and AI solutions
+    while promoting best practices, standards, and adoption of
+    reusable patterns.
+  - Design and Develop graph database solutions for complex data
+    relationships supporting AI systems, this also includes
+    developing and optimizing queries (e.g., Cyhper, SPARQL)
+    to enable complex reasoning, relationship discovery, and
+    contextual enrichment for AI agents.
+  - Design and Apply GenAI solutions to insurance-specific data
+    use cases and challenges.
+  - Partner with architects and stakeholders to influence and
+    implement the vision of the AI and data pipelines while
+    safeguarding the integrity and scalability of the
+    environment.
+
+  Skills Required:
+
+  - 6+ years of hands-on data engineering experience building
+    large-scale, complex enterprise data ecosystems on cloud
+    platforms (AWS, Azure, or GCP).
+  - Deep technical expertise in streaming platforms (Apache
+    Kafka, AWS Kinesis, Spark Streaming) and distributed
+    processing frameworks.
+  - Proven track record in RAG architectures, vector search
+    systems, chunking/embedding techniques, and data pipelines
+    built specifically for LLM and Agentic AI consumption.
+  - Experience with graph databases (Neo4j, Amazon Neptune) and
+    query languages (Cypher, SPARQL, or Gremlin).
+  - Proficiency in domain-driven data design, dimensional
+    modeling, semantic layer integration, and building
+    reusable data products.
+  - High proficiency in Python, Scala, or Java, alongside SQL,
+    DataOps, CI/CD, and containerized deployments.
+  - Experience in the Financial Industry handling complex,
+    multi-structured domain data is strongly preferred.
+  - Soft Skills: Exceptional leadership, stakeholder
+    communication, and cross-functional collaboration skills
+    with a track record of mentoring team members.
+
+  What is in it for you:
+
+  - Be part of the fastest-growing AI-first digital
+    transformation and engineering company in the world
+  - Be a part of an energetic team of highly dynamic and
+    talented individuals
+  - Exposure to working with fortune 500 companies and
+    innovative market disruptors
+  - Exposure to the latest technologies related to artificial
+    intelligence and machine learning, data and cloud
+
+  If you like wild growth and working with happy, enthusiastic
+  over-achievers, you'll enjoy your career with us!
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Machine Learning
+posted_date: 2026-09-17
+url: "https://www.builtinla.com/job/data-ai-engineer/11242582"
+source: Built In

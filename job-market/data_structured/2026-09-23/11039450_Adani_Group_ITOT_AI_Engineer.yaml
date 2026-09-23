@@ -1,0 +1,59 @@
+company:
+  name: Adani Group
+  stage: null
+  focus: Industrial IoT and OT digital transformation solutions
+position:
+  title: IT/OT AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys IoT/OT and industrial automation solutions,
+      with AI/ML and computer vision named as solution areas but
+      no responsibilities describing shaping model behavior - no
+      prompt engineering, RAG, training, or eval design by the
+      person. AI is listed as one component among broader
+      integration and deployment work, and the description is too
+      vague on actual ML work to classify as ml-first shaping.
+  responsibilities:
+  - Develop and deploy end-to-end solutions using embedded systems, PLCs, controllers,
+    sensors, cameras, edge devices, gateways, networking, and cloud platforms
+  - Design and implement IoT, OT, industrial automation, machine vision, AI/ML, and
+    remote diagnostics solutions
+  - Build dashboards, analytics applications, portals, and business intelligence solutions
+    using Power BI, databases, APIs, and web technologies
+  - Execute proofs of concept, pilot projects, field deployments, testing, troubleshooting,
+    and integration of hardware, software, and enterprise applications
+  - Collaborate with business units, OEMs, vendors, and stakeholders to develop scalable
+    digital solutions
+  - Maintain technical documentation and support rollout and maintenance across multiple
+    locations
+  use_cases:
+  - Industrial automation and Industry 4.0 solutions
+  - IoT and OT monitoring with remote diagnostics
+  - Machine vision and CCTV analytics
+  - Data acquisition and business intelligence dashboards for industrial operations
+  - Field deployment and integration of hardware, networking, and enterprise systems
+  skills:
+    genai: []
+    ml: [AI/Machine Learning]
+    web: [APIs, Web Application Development]
+    databases: []
+    data: [Data Engineering]
+    cloud: [Azure, AWS]
+    ops: []
+    languages: []
+    domains: [Computer Vision]
+    other: [IoT, Operational Technology, Industrial Automation, Machine Vision, Embedded
+        Systems, Microcontrollers, Hardware Integration, Power BI, System Integration,
+      Networking, Troubleshooting & Field Deployment, Technical Documentation, Edge
+        Computing, Industry 4.0, CCTV Analytics, Server Administration, Access Control
+        Systems, Digital Solution Architecture, Remote Monitoring & Diagnostics, Vendor
+        & OEM Management, Project Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11039450'
+  location: Mundra, IND
+  extracted_at: '2026-09-23T11:15:06.343712'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

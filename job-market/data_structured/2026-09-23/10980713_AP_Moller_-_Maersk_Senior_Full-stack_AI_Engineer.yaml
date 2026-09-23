@@ -1,0 +1,54 @@
+company:
+  name: A.P. Moller - Maersk
+  stage: null
+  focus: Global shipping and logistics company
+position:
+  title: Senior Full-stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs, designs multi-agent workflows,
+      builds RAG pipelines, and sets up evaluation of model output
+      quality — all direct shaping of LLM behaviour, making it ai-
+      first. Full-stack work is secondary to these AI
+      responsibilities.
+  responsibilities:
+  - Design and build scalable full-stack web applications with React/Next.js frontends
+    and Python/FastAPI/Node.js backends
+  - Integrate LLMs, SLMs, and multi-agent workflows via APIs and custom orchestration
+    frameworks
+  - Manage relational databases and vector stores supporting RAG and real-time context
+    retrieval
+  - Design AI-first user experiences including streaming responses and error handling
+    for non-deterministic behavior
+  - Implement CI/CD pipelines, containerization, and monitoring for model performance,
+    latency, and cost
+  - Lead discussions with business users and translate needs into solution designs
+  - Set up evaluations measuring accuracy, cost per request, token usage, and response
+    time
+  use_cases:
+  - AI-powered applications with LLM and agent integration
+  - Retrieval-augmented generation over enterprise knowledge
+  - Streaming conversational AI user experiences
+  - Production AI systems with cost and latency monitoring
+  - Solutions for business users including SAP-adjacent workflows
+  skills:
+    genai: [LLMs, Agentic Workflows, RAG, OpenAI API, Anthropic API, Prompt Engineering,
+      Multi-Agent Systems, LangChain, LangGraph, LlamaIndex, Fine-Tuning]
+    ml: []
+    web: [React, Next.js, FastAPI, Flask]
+    databases: [Vector Databases, Pinecone, pgvector, Milvus]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Docker, Kubernetes, Monitoring, MLOps, LangSmith, Arize, Prometheus]
+    languages: [Python, Node.js, TypeScript, JavaScript]
+    domains: []
+    other: [SAP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10980713'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:10:32.964796'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

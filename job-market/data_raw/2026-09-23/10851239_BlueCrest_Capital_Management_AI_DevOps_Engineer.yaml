@@ -1,0 +1,121 @@
+job_id: 10851239
+title: AI DevOps Engineer
+company: BlueCrest Capital Management
+location: London, GBR
+work_type: FULL_TIME
+company_size: 491 Employees
+description: |
+  Department Overview:
+
+  Our Technology Infrastructure team operates globally and is
+  responsible for every aspect of the firm's hybrid platform.
+  This ranges from our EUC/Office environments to Trading and
+  Core service Co-Location Data Centres, and extends to Public
+  Cloud, delivering top-tier technology services to a dynamic
+  and demanding Trading organisation. In addition to meeting
+  the round-the-clock operational demands of the platforms, we
+  continuously evolve and transform our platforms to maintain
+  a competitive edge that our business requires. We innovate
+  to provide valuable solutions and leverage our skilled
+  Technology teams to deliver against rapidly changing
+  business requirements.
+
+  Role Overview:
+
+  The AI DevOps Engineer is a very technical, hands-on role,
+  responsible for end to end delivery and operations of our
+  DevOps environments. They will be joining the team as we
+  lead an ambitious technology modernisation journey, moving
+  to greater adoption of AI, microservices and public cloud.
+  We’re continuing to evolve our global infrastructure -
+  spanning multiple global data centres - into a modern hybrid
+  architecture that leverages both existing on-prem and multi-
+  cloud environments and capabilities across Azure and AWS.
+
+  Over the past four years, we've modernised our core trading
+  systems and introduced a range of key technologies including
+  AI, Kubernetes, Kafka, ELK, Prometheus, and more. As we
+  expand and enhance the platforms, our focus is on automating
+  and standardising to ensure consistency, scalability and
+  reliability across all environments.
+
+  Experiences and Skills Required:
+
+  Experience, skills required:
+
+  Must have:
+
+  - Very good understanding of AIOps and DevOps:
+    - AgentOps/DataOps frameworks (e.g. LangGraph, Dagster) and
+      OpenTelemetry
+    - Predictive operations tools (e.g. Prophet, Dynatrace)
+    - AI tool integration, including embedding LLM APIs and agents
+      into pipelines
+  - Strong expertise across Azure and AWS, with a solid
+    understanding of AI-native services:
+    - Experience with Azure AI Foundry and Amazon Bedrock
+    - Cloud automation experience
+  - AI Automation:
+    - Experience building and deploying AI agents
+  - Infrastructure as Code (IaC):
+    - Experience with Terragrunt, Terraform, and Ansible
+  - Strong Python skills
+  - Excellent understanding of containerisation technologies,
+    ideally Kubernetes
+  - Experience with GitHub Actions
+  - Delivery-focused mindset, with priorities aligned to
+    business needs.
+
+  Nice to have, but willing to learn otherwise:
+
+  - Experience integrating DevOps infrastructure with MCPs
+  - Experience with infrastructure testing frameworks
+    (Terratest, Terraform Test, Molecule, JUnit, pytest)
+  - Kubernetes engineering and support across on-prem, VMware,
+    AKS and EKS environments
+  - Linux and Windows administration and network automation
+  - Java and/or C# troubleshooting capability
+  - CI/CD experience with GitHub Actions and/or TeamCity
+  - Artifact repository management (Nexus, Artifactory)
+  - Observability, monitoring and tracing (OpenTelemetry,
+    Prometheus, ELK, Tempo, Jaeger)
+  - Platform engineering on Azure and/or AWS
+  - Data platform experience (Kafka, Redis)
+  - Chaos engineering and resilience testing (Gremlin,
+    LitmusChaos)
+
+  About You:
+
+  We’re looking for a very strong individual contributor who
+  is passionate about emerging technologies. You’ll need to be
+  comfortable working in a very dynamic, fast-paced
+  environment. Enabling the business is our number one
+  priority – this means working on any part of the delivery
+  stack, from routine o/s IaC, to documentation,
+  instrumentation all the way to automating work through
+  Python microservices or LangChain based agents.
+
+  You should be passionate about AI and other emerging
+  technology trends, innovations and directions, and eager to
+  suggest and implement new solutions to enhance our
+  technology performance. You should also understand the need
+  for rapid delivery while appreciating business risk and
+  constraints to ensure adherence to service levels. The
+  candidate should have extensive experience working both
+  independently and as part of a diverse team, meeting both
+  broad and specific project/BAU objectives. This role
+  requires excellent organisational skills, open
+  communication, and a collaborative approach. Your commitment
+  to continuous improvement should be evident, both in
+  learning from others and sharing knowledge to enhance our
+  team's capability and function.
+
+  BlueCrest is committed to providing an inclusive environment
+  for its workforce. As an employer, we provide equal
+  opportunities to all people regardless of their gender,
+  marital or civil partnership status, race, religion or
+  ethnicity, disability, age, sexual orientation or
+  nationality.
+posted_date: 2026-08-26
+url: "https://builtin.com/job/ai-devops-engineer/10851239"
+source: Built In

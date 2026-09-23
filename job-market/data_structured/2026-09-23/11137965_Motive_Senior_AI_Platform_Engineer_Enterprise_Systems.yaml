@@ -1,0 +1,52 @@
+company:
+  name: Motive
+  stage: null
+  focus: Fleet management and physical operations automation platform
+position:
+  title: Senior AI Platform Engineer ( Enterprise Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and operates production AI systems including
+      RAG, LLM evaluation, fine-tuning, and inference
+      optimization, which is directly shaping model behavior and
+      output quality. LLM components are explicitly involved, so
+      ai-first applies despite the platform/infra framing.
+  responsibilities:
+  - Design, build, and ship production services, APIs, and user-facing interfaces
+  - 'Build and operate production AI systems: RAG, evaluation, fine-tuning, serving,
+    and inference optimization'
+  - Turn AI prototypes into reusable platform capabilities with CI/CD, eval, and governance
+  - Architect AWS/GCP environments with Kubernetes, Terraform, and CI/CD for apps
+    and model pipelines
+  - Own observability, incident response, and compliance (SOC 2/SOX, least-privilege
+    IAM)
+  - 'Manage and reduce cloud and AI spend: visibility, attribution, budgets, GPU right-sizing,
+    cost per token'
+  use_cases:
+  - Production RAG-based AI systems
+  - LLM evaluation and fine-tuning pipelines
+  - Model serving and inference optimization
+  - Cloud cost governance and GPU utilization optimization for AI workloads
+  - Fleet and physical operations automation powered by AI
+  skills:
+    genai: [RAG, LLMs, Fine-Tuning, LLM Evaluation]
+    ml: [PyTorch, TensorFlow, Inference Optimization]
+    web: [React, Next.js]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, IAM]
+    ops: [Kubernetes, Terraform, CI/CD, Observability, Model Deployment, FinOps, GitHub
+        Copilot]
+    languages: [Python, TypeScript, Node.js, Go, Java, SQL]
+    domains: []
+    other: [SOC 2, SOX, Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11137965'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:21:22.118904'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

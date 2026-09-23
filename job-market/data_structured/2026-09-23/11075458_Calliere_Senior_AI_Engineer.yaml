@@ -1,0 +1,45 @@
+company:
+  name: Calliere
+  stage: null
+  focus: Backing and building AI-native ventures
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds end-to-end agentic AI systems including
+      agents, retrieval/RAG, orchestration, and evaluation suites,
+      directly shaping LLM behavior. This is ai-first per Step 2.
+  responsibilities:
+  - 'Build end-to-end agentic AI systems: agents, retrieval, orchestration, tool integrations
+    from blank repo to production'
+  - Take products from rough scope to shipped, cutting to the smallest viable version
+    then hardening for production
+  - Extract reusable patterns and primitives from each build
+  - Work with product and design partners to shape what gets built
+  - Operate and maintain AI systems after launch with real users
+  - Move across different product contexts and handle ambiguity
+  use_cases:
+  - Agentic AI products with agents, retrieval, and orchestration
+  - 0-to-1 AI-native venture products
+  - Tool integrations for agent systems
+  - Production AI systems operated post-launch
+  skills:
+    genai: [LLMs, Agentic Workflows, RAG, Retrieval]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment, LLM Evaluation, CI/CD, Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11075458'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:17:54.798123'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

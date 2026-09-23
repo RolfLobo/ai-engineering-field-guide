@@ -1,0 +1,58 @@
+company:
+  name: PwC
+  stage: null
+  focus: Professional services, risk and regulatory consulting
+position:
+  title: AML and Sanctions- AI Engineer- Manager
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role centers on data-driven analytics and data
+      visualization for AML/sanctions clients; AI is mentioned
+      only as a general solution area with no model-shaping
+      responsibilities (no prompts, RAG, training, or evals).
+      Manager duties and client delivery dominate.
+  responsibilities:
+  - Lead development and implementation of data-driven solutions to optimize business
+    performance
+  - Guide teams in strategic planning and execution of analytics initiatives
+  - Utilize advanced analytics techniques to provide strategic insights for clients
+  - Build and maintain stakeholder relationships to identify and address data challenges
+  - Develop scalable data visualization and analytics solutions
+  - Validate data integrity, security, and compliance within analytics frameworks
+  - Mentor team members and manage performance
+  - Manage project planning, budgeting, execution, and completion
+  use_cases:
+  - Anti-money laundering (AML) analytics
+  - Sanctions compliance
+  - Financial crime detection and investigation
+  - Regulatory risk analytics for clients
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Data Analytics, Data Visualization, Spotfire, Business Intelligence Development
+        Studio]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11147318'
+  location: Tampa, USA
+  locations:
+  - Tampa, USA
+  - Atlanta, USA
+  - Chicago, USA
+  - New York, USA
+  - Boston, USA
+  - Charlotte, USA
+  - Philadelphia, USA
+  - Washington, USA
+  extracted_at: '2026-09-23T11:21:45.441790'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

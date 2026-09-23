@@ -1,0 +1,52 @@
+company:
+  name: Lattice Semiconductor
+  stage: null
+  focus: Low-power programmable FPGA and semiconductor solutions
+position:
+  title: Senior Staff Engineer - AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds RAG pipelines, agentic AI systems, and fine-
+      tunes LLMs, directly shaping model behavior and output
+      quality. LLM/agent components dominate, so it is ai-first.
+  responsibilities:
+  - Define and execute AI strategies for RAG-based retrieval, code generation, and
+    AI-assisted software engineering
+  - Develop RAG pipelines and optimize retrieval mechanisms for context-aware responses
+  - Build and optimize agentic AI systems interacting with APIs, databases, and development
+    environments
+  - Fine-tune LLMs for domain-specific applications and optimize prompt engineering
+    for code quality
+  - Develop AI-driven test case generation tools and integrate AI code assistants
+    into IDE and CI/CD workflows
+  - Architect and deploy scalable AI models and retrieval pipelines using cloud-based
+    MLOps
+  - Mentor a team of 3-5 AI engineers and establish best practices for AI-assisted
+    development
+  use_cases:
+  - AI-assisted software engineering for internal development
+  - Code and test case generation
+  - AI-powered search and knowledge retrieval for engineers
+  - Chatbots and decision-support tools for software engineers
+  - Domain-specific LLM applications for programmable logic development
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: [Hugging Face Trainer, Fairseq, Machine Learning, Model Training]
+    ops: [MLOps, CI/CD, Docker, Kubernetes]
+    other: []
+    cloud: [AWS, GCP, Azure]
+    languages: []
+    genai: [RAG, LangChain, OpenAI API, AI Agents, LLMs, Prompt Engineering, Fine-Tuning,
+      GPT, Llama, Mistral, Anthropic API, Gemini]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11044352'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:15:40.105985'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

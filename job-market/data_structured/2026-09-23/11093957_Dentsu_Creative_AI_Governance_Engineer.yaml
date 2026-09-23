@@ -1,0 +1,59 @@
+company:
+  name: Dentsu Creative
+  stage: null
+  focus: Global marketing and advertising network
+position:
+  title: AI Governance Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role manages AI product adoption through governance
+      reviews, program management, and enterprise onboarding. It
+      does not shape model behavior — no prompt design, retrieval,
+      training, or evals. It coordinates compliance and
+      implementation of tools built by others, so it is ai-
+      support.
+  responsibilities:
+  - Receive and review each approved submission package and own it through the cross-functional
+    governance review process
+  - Project-manage submissions in AIRS and TPSA, tracking deadlines, reviewer actions,
+    and open items
+  - Maintain the AI Concierge Program Tracker and report status, progress, and blockers
+    to the Service Lead
+  - Coordinate with Legal, Information Security, Data Privacy, Emerging Technology,
+    and Procurement reviewers
+  - Escalate and document risk-flagged items and drive resolution of blockers
+  - Own end-to-end implementation of approved AI products including Cloud, Okta, ServiceNow,
+    and CSDM registration
+  - Confirm data processing agreements, ICPAs, and procurement steps before rollout
+    and conduct post-implementation check-ins
+  - Improve review orchestration processes and document onboarding playbooks for common
+    tool categories
+  use_cases:
+  - Enterprise AI product adoption governance
+  - Cross-functional risk and compliance review of AI tools
+  - Onboarding and registering approved AI products across enterprise platforms
+  - AI product landscape tracking and reporting
+  - Process improvement for AI governance workflows
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: [Machine Learning]
+    ops: []
+    other: [Responsible AI, Vendor Risk Assessment, NIST AI RMF, EU AI Act, ISO 42001,
+      GDPR, CCPA, Okta, ServiceNow, CMDB, CSDM, Coupa, OneTrust, AIRS, Microsoft Copilot,
+      PMP]
+    cloud: [Cloud Infrastructure]
+    languages: []
+    genai: [Generative AI, Claude Enterprise, Gemini]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11093957'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:57.538978'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

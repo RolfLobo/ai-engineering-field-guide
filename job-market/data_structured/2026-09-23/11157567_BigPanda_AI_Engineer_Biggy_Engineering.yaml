@@ -1,0 +1,58 @@
+company:
+  name: BigPanda
+  stage: null
+  focus: Agentic AI automation for IT operations
+position:
+  title: AI Engineer, Biggy Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer designs and implements AI-native capabilities
+      directly: prompting, tool calling, agent orchestration, RAG,
+      embeddings, and structured outputs — clearly shaping LLM
+      behavior. This is a hands-on IC product engineering role on
+      a GenAI platform.
+  responsibilities:
+  - Build production-grade software across backend services, APIs, web applications,
+    workflow systems, AI agents, enterprise integrations, and automation platforms
+  - Architect and implement AI-native capabilities using LLMs, prompting, tool calling,
+    agent orchestration, RAG, vector search, knowledge graphs, and embeddings
+  - Write high-quality prompts for product behavior, agent execution, data extraction,
+    and reasoning workflows
+  - Own features end to end from customer discovery through design, implementation,
+    launch, and iteration
+  - Work directly with customers, GTM, product, and engineers to identify high-value
+    problems
+  - Use AI coding platforms such as Cursor and Claude Code as a core part of the development
+    workflow
+  - Respond rapidly to bugs, regressions, and customer-impacting issues
+  - Build and contribute to internal tools and processes to raise team velocity
+  use_cases:
+  - AI-powered IT incident response and prevention
+  - Automated workflow execution for enterprise IT operations
+  - Knowledge retrieval and enterprise knowledge modeling with RAG and knowledge graphs
+  - Slack and Microsoft Teams AI experiences for IT teams
+  - ServiceNow, ITSM, and monitoring integrations for operational intelligence
+  - Agentic automation that detects, responds to, and prevents IT incidents
+  skills:
+    genai: [LLMs, RAG, AI Agents, Prompt Engineering, Context Engineering, Function
+        Calling, Agentic Workflows, Embeddings, Structured Outputs, Cursor, Claude
+        Code, Codex, ChatGPT, Generative AI]
+    ml: []
+    web: [React, Next.js, APIs, OAuth, Microservices]
+    databases: [Vector Databases, Vector Search, Knowledge Graphs]
+    data: [Data Pipelines]
+    cloud: [AWS, AWS Lambda, AWS S3]
+    ops: [LangSmith, Distributed Systems]
+    languages: [TypeScript, Node.js]
+    domains: []
+    other: [ServiceNow, Code Review]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11157567'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:22:53.190691'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

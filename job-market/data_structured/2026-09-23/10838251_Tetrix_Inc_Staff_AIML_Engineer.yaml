@@ -1,0 +1,53 @@
+company:
+  name: Tetrix Inc
+  stage: null
+  focus: |-
+    AI-native platform for private markets investment data and
+    analytics
+position:
+  title: Staff AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, evaluation frameworks,
+      and LLM-based extraction/normalization pipelines that shape
+      model behavior and output quality. Agents and LLMs are
+      explicitly central, so it is ai-first.
+  responsibilities:
+  - Design and improve agentic AI workflows for automated document retrieval from
+    private portals
+  - Build and own the proprietary extraction and normalization engine processing complex
+    PDFs, Excels, and reports
+  - Develop intelligent validation with full audit trails and pipelines turning unstructured
+    private market data into structured real-time insights
+  - Shape AI strategy, model choices, and evaluation frameworks
+  - Pitch customers, design features, and solicit client feedback
+  - Champion best practices and mentor future team members
+  use_cases:
+  - Automated document retrieval from private market portals
+  - AI-powered data extraction and normalization from complex documents
+  - Portfolio analytics for institutional investors
+  - Real-time insights from unstructured private market data
+  - AI chat features for investor insights
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [LLM Evaluation]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10838251'
+  location: Montréal, CAN
+  locations:
+  - Montréal, CAN
+  - New York, USA
+  extracted_at: '2026-09-23T11:01:53.099597'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

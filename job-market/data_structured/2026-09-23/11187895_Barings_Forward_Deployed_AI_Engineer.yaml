@@ -1,0 +1,58 @@
+company:
+  name: Barings
+  stage: null
+  focus: Global asset management and investment firm
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed AI Engineer who designs and ships AI-
+      powered solutions including prompt-engineering patterns,
+      agentic workflow design, and LLM integrations with business
+      stakeholders. They shape LLM behavior via prompts, agents,
+      and integrations; per the edge case, forward deployed
+      engineers adapting AI solutions are ai-first.
+  responsibilities:
+  - Embed with Investment, Client & Support teams to understand workflows and build
+    AI-powered solutions
+  - Design, prototype, and deliver solutions spanning automation, workflow orchestration,
+    and client-facing tooling
+  - Write production code and build custom integrations on top of the Barings AI platform
+  - Own the technical relationship with business teams and identify high-value AI
+    use cases
+  - Generalize engagement learnings into reusable platform capabilities with engineering
+    and product
+  - Deliver hands-on training, demos, and documentation on effective and responsible
+    AI use
+  - Contribute to AI platform architecture standards including prompt-engineering
+    patterns and agentic workflow design
+  - Champion responsible AI usage and ensure adherence to data security, model governance,
+    and compliance policies
+  use_cases:
+  - Automating investment and operational workflows with AI
+  - Client-facing tooling for asset management teams
+  - Document intelligence over credit agreements and lease documents
+  - Enterprise AI enablement and adoption across the firm
+  - Workflow orchestration integrating business data sources and document management
+    systems
+  skills:
+    genai: [LLMs, Prompt Engineering, Agentic Workflows, LangChain, LangGraph, AutoGen,
+      MCP, Claude Code, GitHub Copilot, Microsoft 365 Copilot, Copilot Studio, Hebbia]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [Cloud Platforms]
+    ops: []
+    languages: []
+    domains: []
+    other: [Asset Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11187895'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:24:46.214044'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

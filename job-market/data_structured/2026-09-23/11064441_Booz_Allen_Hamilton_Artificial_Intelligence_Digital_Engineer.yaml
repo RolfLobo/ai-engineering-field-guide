@@ -1,0 +1,46 @@
+company:
+  name: Booz Allen Hamilton
+  stage: null
+  focus: Management and IT consulting for government missions
+position:
+  title: Artificial Intelligence Digital Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a software engineer building AI/ML-driven
+      digital engineering solutions, but the description only
+      requires knowledge of AI/ML models and offers LLM frameworks
+      as nice-to-have. There is no evidence the person shapes
+      model behavior through prompts, retrieval, agents, or
+      training, so it classifies as ai-support.
+  responsibilities:
+  - Design, develop, and implement software programming applications
+  - Create and implement end-to-end solutions that modernize AI-driven digital engineering
+    capability
+  - Ensure solutions consider the broader ecosystem, operating environment, and future
+    enhancements
+  - Apply leading-edge principles and concepts to deliver innovative solutions
+  - Build skills in LLM frameworks, DevSecOps, and digital engineering
+  use_cases:
+  - AI-driven digital engineering for government mission systems
+  - Modernizing systems engineering with AI/ML technology
+  - Increasing organizational efficiency and enabling better decision-making
+  skills:
+    genai: [LLMs]
+    ml: [Machine Learning]
+    web: [Full-Stack Development]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Linux, DevSecOps]
+    languages: []
+    domains: []
+    other: [Model-Based Systems Engineering, Agile, Shell Scripting]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11064441'
+  location: El Segundo, USA
+  extracted_at: '2026-09-23T11:16:41.985115'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: Associate AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys AI-powered solutions using
+      prompt engineering, agent frameworks, multi-agent
+      orchestration, RAG, guardrails, and model choice - directly
+      shaping LLM/agent behavior. This is ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI-powered solutions using no-code, low-code, and
+    advanced platforms
+  - Build agentic AI systems with multi-agent orchestration, RAG pipelines, and function
+    calling
+  - Implement responsible AI guardrails including safety, prompt injection protection,
+    and tool access control
+  - Integrate AI solutions with enterprise systems, CRM, conversational AI platforms,
+    and IVR/voice systems
+  - Add telemetry, logging, tracing, and monitoring KPIs for AI systems
+  - Engage in full software development lifecycle including coding, testing, debugging,
+    and deployment
+  - Collaborate with team members on design reviews, Scrum meetings, and release readiness
+  - Support QA, UAT, and release phases via defect analysis and change maintenance
+  use_cases:
+  - Enterprise agentic AI applications for healthcare workflows and decision-making
+  - Conversational AI across chat and IVR/voice channels with human escalation
+  - Retrieval-augmented generation with vector search for knowledge access
+  - Multi-agent orchestration with task routing and planner-executor patterns
+  - Enterprise integrations with CRM and backend systems via AI-powered workflows
+  skills:
+    genai: [OpenAI API, Azure OpenAI, Anthropic API, Gemini, Prompt Engineering, AI
+        Agents, LangChain, LangGraph, CrewAI, AutoGen, Agentic Workflows, Multi-Agent
+        Systems, MCP, Function Calling, RAG, Agent Memory, Guardrails, Conversational
+        AI]
+    ml: []
+    web: [Spring Boot, REST APIs, Angular, Microservices]
+    databases: [Vector Databases, Pinecone, FAISS, pgvector, Weaviate, Qdrant, MySQL]
+    data: [Prefect, Airflow]
+    cloud: [AWS Bedrock, Azure, Vertex AI]
+    ops: [OpenTelemetry, LangSmith, Docker, Kubernetes, Monitoring]
+    languages: [Python, Java]
+    domains: []
+    other: [Temporal, Responsible AI, Prompt Injection Protection, IVR Systems, Enterprise
+        Integrations, Nomad, Data Governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11212087'
+  location: Noida, IND
+  extracted_at: '2026-09-23T11:27:40.613782'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

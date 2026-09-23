@@ -1,0 +1,54 @@
+company:
+  name: PwC
+  stage: null
+  focus: 'Professional services: risk and regulatory consulting'
+position:
+  title: AML and Sanctions - AI Developer - Senior Associate
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The title and responsibilities mention "AI solutions" but
+      only generically; there is no evidence of shaping model
+      behavior (prompts, RAG, fine-tuning, evals) nor of specific
+      AI tooling. The concrete work is data analytics with Python,
+      dashboards, and data pipelines for AML/sanctions clients, so
+      the AI type cannot be determined from the text.
+  responsibilities:
+  - Develop and implement AI solutions to optimize business performance for clients
+  - Leverage data analytics to provide strategic insights and drive decision-making
+  - Build and maintain client relationships and anticipate client needs
+  - Use Python and data science techniques to analyze complex data sets
+  - Design and manage data architecture and pipelines for analytics initiatives
+  - Create and deploy data visualization tools and dashboards
+  - Engage with stakeholders to gather requirements and deliver tailored solutions
+  use_cases:
+  - AML and sanctions compliance analytics
+  - Financial crime risk insights for clients
+  - Business performance optimization through data analytics
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Science, Data Pipelines, Data Analytics]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Data Visualization]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11147310'
+  location: Dallas, USA
+  locations:
+  - Dallas, USA
+  - Chicago, USA
+  - New York, USA
+  - Boston, USA
+  - Charlotte, USA
+  - Philadelphia, USA
+  - Washington, USA
+  extracted_at: '2026-09-23T11:21:42.297710'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

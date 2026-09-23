@@ -1,0 +1,59 @@
+company:
+  name: Wells Fargo
+  stage: null
+  focus: |-
+    Large bank driving Zero Touch Production AIOps
+    transformation
+position:
+  title: Lead Software Engineer - AIOps/Gen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds AIOps operations - observability,
+      automation, self-healing remediation, event-driven
+      architectures - using off-the-shelf AIOps tools (BigPanda,
+      Splunk, AppDynamics) and classical techniques (anomaly
+      detection, event correlation). GenAI/LLM appears only as
+      "familiarity" with LLM-assisted operations, and there is no
+      evidence the person shapes prompts, retrieval, or model
+      behaviour. The deliverable is operational capacity and
+      resilience, not model output quality.
+  responsibilities:
+  - Lead complex, companywide technology initiatives within the Zero Touch Production
+    (ZTP) transformation
+  - Develop standards and companywide best practices for large-scale engineering solutions
+  - Design, code, test, debug, and document projects and programs
+  - Define and deliver intelligent, autonomous operations leveraging AI/ML, observability,
+    automation, and event-driven architectures
+  - Build self-healing systems and closed-loop remediation workflows to minimize manual
+    intervention
+  - Define target-state architecture, operating models, and roadmaps for AIOps adoption
+  - Collaborate with senior engineering, platform, SRE, and business leaders
+  - Mentor peers and lead project teams
+  use_cases:
+  - Autonomous, zero-touch IT production operations
+  - Anomaly detection and intelligent alerting for IT operations
+  - Event correlation and forecasting in production ecosystems
+  - Self-healing systems and closed-loop remediation workflows
+  - LLM-assisted incident summarization and automated runbook generation
+  - Operational resilience and risk reduction across the enterprise
+  skills:
+    genai: [LLMs]
+    ml: [Anomaly Detection, Machine Learning]
+    web: [Microservices]
+    databases: []
+    data: [Kafka, Data Pipelines]
+    cloud: []
+    ops: [Prometheus, AppDynamics, Splunk, ITRS Geneos, BigPanda, OpenTelemetry, Ansible,
+      Terraform, Kubernetes, Git]
+    languages: []
+    domains: []
+    other: [AIOps, Event-Driven Architecture, SRE]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11294695'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:36:23.726715'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

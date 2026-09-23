@@ -1,0 +1,131 @@
+job_id: 11255015
+title: Senior Software Engineer, AI Team
+company: Standard Bots
+location: New York, USA
+work_type: FULL_TIME
+company_size: 130 Employees
+description: |
+  About Standard Bots Standard Bot's mission is to
+  significantly lower the barrier to entry to real-world
+  automation, bringing the power of bits to the world of atoms
+  and unlocking productivity for entire new industries and
+  users. Our user-facing applications and APIs directly
+  empower individuals and developers to jump directly into
+  solving their challenges without the need for a background
+  in robotics or automation. A relentless focus on simplicity
+  and ease of use brings this revolutionary potential to new
+  users and industries.
+
+  What You'll Do We're looking for a seasoned, broad software
+  engineer to join our AI team and build the systems our
+  models depend on. Our AI researchers push the modeling
+  frontier; this role owns nearly everything around it — the
+  data that goes in, the infrastructure that trains and
+  evaluates, the perception plumbing that connects cameras to
+  the robot, and the product surfaces that put all of it in a
+  customer's hands.
+
+  The AI team is small, so the surface area is wide and the
+  ownership is real. You may move between adding functionality
+  to the data ingestion pipeline, a camera calibration bug,
+  and a customer-facing feature in the same month — and you'll
+  decide which of those matters most this week.
+
+  Location and Benefits This role is hybrid with 3 days/week
+  onsite in our NYC office, centrally located near Grand
+  Central Station. The office is fully equipped with robots
+  for demos and testing!
+
+  Responsibilities
+
+  - Identify, scope, and drive high impact technical and user
+    facing projects across the AI team's stack
+  - Ship the product surfaces that expose AI capabilities to
+    users — the applications and APIs customers actually touch
+  - Mentor and advise other engineers as well as peers on
+    technical and personal advancement
+  - Drive technical decision making and implementation through
+    hands-on and technically deep work
+
+  Plus ownership of one or more of these, depending on where
+  your experience is strongest:
+
+  - Data pipelines: the flywheel for end-to-end AI — ingestion
+    of teleop and demonstration data, labeling and curation
+    tooling, dataset quality metrics
+  - Training and evaluation infrastructure: training pipelines,
+    experiment tracking, GPU orchestration, model versioning,
+    and deployment out to robots
+  - Perception integration: camera calibration, vision
+    pipelines, and getting model outputs into the robot
+    runtime reliably
+
+  Tech Stack
+
+  - Front-end: React, TypeScript
+  - Back-end: Node.js, Python, C++
+  - ML: PyTorch
+  - Kubernetes
+  - Docker
+  - GitHub Actions
+
+  Who You Are We do not require a background in robotics.
+  We're looking for engineers who are self driven, optimistic,
+  creative, and resourceful. We have no requirements for a
+  background in robotics, but find most success with engineers
+  excited by the domain and looking to apply their expertise
+  and experience in a new area. Our ideal candidate will be
+  open to doing approximately 70% back-end and 30% front-end
+  work with flexibility to sway more towards one or the other,
+  depending on current projects and team needs. This is a
+  generalist role first — but on the AI team, so we're looking
+  for someone whose breadth already reaches into at least one
+  AI-adjacent domain.
+
+  Skills You'll Bring
+
+  - Experience: You have a strong technical background,
+    including 5-10 years of experience working in complex
+    environments
+  - AI-adjacent depth (strongly preferred): You have
+    professional experience in at least one of ML Ops, data
+    pipelines, or computer vision — for example building
+    training or inference infrastructure, running large-scale
+    data ingestion and curation, or shipping a vision pipeline
+    to production. You don't need to have trained the models
+    yourself.
+  - Growth + Optimism: You are excited by new domains and
+    challenges, and eager to pick up new context to accelerate
+    your impact
+  - Clarity of Communication: You excel in written and verbal
+    communication and enjoy leveraging your skills to support
+    your peers
+  - Impact Driven: You relentlessly seek user impact and value
+    execution over technical idealism
+  - Proactive Simplicity: You prioritize simplicity,
+    reliability, and velocity and proactively identify
+    opportunities to improve proposed implementations or
+    incumbent systems
+  - Excelling in Ambitious Environments: You excel in dynamic
+    and ambitious environments, working with a diverse group
+    of individuals and backgrounds
+
+  Compensation and Benefits The base salary range for this
+  role is $180,000 to $210,000, depending on experience. Base
+  salary is just one part of the overall compensation at
+  Standard Bots. All Full-Time Employees are eligible for
+  Employee Stock Options. We also offer a package of benefits
+  including paid time off, medical/dental/vision insurance,
+  life insurance, disability insurance, and 401(k) to regular
+  full-time employees.
+industries:
+  - Artificial Intelligence
+  - Productivity
+  - Robotics
+  - Industrial
+  - Generative AI
+  - Automation
+  - Manufacturing
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-software-engineer-ai-team/11255015"
+source: Built In

@@ -1,0 +1,48 @@
+company:
+  name: Thomson Reuters
+  stage: null
+  focus: Legal, tax, risk and compliance information and software
+position:
+  title: Senior Software Engineer - AI I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architecting and implementing RAG pipelines, custom
+      AI agents with multi-step reasoning, and tailoring LLM
+      solutions for legal/tax domains directly shapes model
+      behaviour via retrieval and agent design. LLMs are central,
+      making it ai-first.
+  responsibilities:
+  - Architect and implement AI systems including multi-component pipelines, RAG, and
+    custom AI agents with multi-step reasoning
+  - Integrate AI models into production software via APIs and scalable data pipelines
+  - Adapt AI models to specialized domains such as legal, tax, and compliance
+  - Evaluate and prototype cutting-edge AI techniques and run proof-of-concept projects
+  - Contribute to MLOps and LLMOps practices in design and implementation
+  - Implement testing frameworks and monitoring for AI model performance
+  - Optimize AI system performance for latency and resource usage
+  - Mentor junior engineers and facilitate technical discussions
+  use_cases:
+  - AI-powered expert solutions for legal, tax, risk, and compliance professionals
+  - Domain-tailored AI systems for legal, tax, and compliance
+  - Custom AI agents with multi-step reasoning
+  - Retrieval-augmented generation for specialized knowledge domains
+  skills:
+    genai: [RAG, AI Agents, OpenAI API, Anthropic API, Embeddings, LLMs]
+    ml: [PyTorch, TensorFlow, Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, LLMOps, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10517789'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:00:06.356415'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

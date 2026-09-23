@@ -1,0 +1,287 @@
+job_id: 10855736
+title: Senior Vice President, AI / Machine Learning Software Engineer
+company: BNY
+location: New York, USA
+work_type: FULL_TIME
+company_size: 41,739 Employees
+description: |
+  Senior Vice President AI/ML Software Engineer
+
+  At BNY, our culture allows us to run our company better and
+  enables employees’ growth and success. As a leading global
+  financial services company at the heart of the global
+  financial system, we influence nearly 20% of the world’s
+  investible assets. Every day, our teams harness cutting-edge
+  AI and breakthrough technologies to collaborate with
+  clients, driving transformative solutions that redefine
+  industries and uplift communities worldwide.
+
+  Recognized as a top destination for innovators and champions
+  of inclusion, BNY is where bold ideas meet advanced
+  technology and exceptional talent. Together, we power the
+  future of finance – and this is what #LifeAtBNY is all
+  about. Join us and be part of something extraordinary.
+
+  We’re seeking a future team member for the role of Senior
+  Vice President AI/ML Software Engineer  to lead the
+  architecture and delivery of production-grade AI systems
+  built on agentic frameworks, retrieval-augmented generation
+  (RAG), and LLM orchestration. This is a hands-on technical
+  leadership role responsible for a team of engineers building
+  autonomous AI pipelines that extract, validate, and reason
+  over complex unstructured documents. You will own the
+  technical vision for a multi-agent ecosystem -- designing
+  pipeline orchestration engines, embedding/vectorization
+  strategies, knowledge retrieval systems, and AI-assisted
+  code generation tooling. You will lead a VP-level engineer
+  and a broader team of 4-8 developers. This role is in New
+  York, NY
+
+  What Sets This Role Apart - You build the agent framework,
+  not just configure one -- custom orchestration engine, not a
+  LangChain wrapper - Production AI with real consequences --
+  extraction accuracy directly impacts financial operations -
+  Full RAG ownership -- from raw OCR bytes through embedding,
+  retrieval, and generation - Evaluation-driven culture --
+  golden-truth datasets, automated regression, measurable
+  quality gates - Greenfield AI + enterprise integration --
+  build new AI-native systems that plug into established
+  platforms
+
+  In this role, you'll have the opportunity to impact on our
+  organization in the following ways:
+
+  Technical Leadership & Architecture
+
+  Architect agentic AI systems: multi-agent orchestration,
+  tool-use patterns, planning/reasoning loops, and autonomous
+  decision chains - Design and evolve RAG infrastructure --
+  chunking strategies, embedding pipelines, vector store
+  selection, retrieval ranking, and context window
+  optimization - Define vectorization strategy: embedding
+  model selection, dimensionality trade-offs, hybrid search
+  (dense + sparse), and re-ranking approaches - Own the AI
+  pipeline orchestration framework -- blocks, inlets/outlets,
+  blackboards, memory stores, and content policy enforcement -
+  Make build-vs-buy decisions across the AI toolchain (vector
+  databases, agent frameworks, evaluation harnesses, model
+  gateways) - Establish patterns for prompt engineering at
+  scale: prompt versioning, chain-of-thought decomposition,
+  few-shot management, and guardrails
+
+  Agentic & RAG Systems
+
+  Design multi-agent architectures with shared memory,
+  blackboard patterns, and inter-agent communication protocols
+  - Build autonomous extraction agents capable of planning,
+  tool selection, self-correction, and validation - Implement
+  knowledge graph construction from unstructured documents --
+  entity extraction, relationship mapping, and graph-based
+  retrieval - Develop evaluation frameworks: retrieval
+  precision/recall, extraction accuracy, agent task completion
+  rates, and hallucination detection - Design feedback loops:
+  human-in-the-loop correction, reinforcement from golden-
+  truth datasets, and continuous prompt refinement
+
+  Team Leadership
+
+  Lead, mentor, and grow a team of 4-8 engineers (AI/ML,
+  backend, full-stack) - Directly manage a VP-level AI
+  engineer; provide technical guidance and career development
+  - Drive architecture reviews, design sessions, and technical
+  decision-making - Own sprint planning, technical backlog,
+  and delivery commitments - Foster a culture of rapid
+  experimentation balanced with production rigor
+
+  Hands-On Engineering -
+
+  Implement core agentic components: agent loops, tool
+  registries, memory persistence, and reasoning traces - Build
+  embedding pipelines -- document preprocessing, chunk
+  boundary detection, metadata enrichment, and vector index
+  management - Develop scoring and validation systems
+  (Bayesian confidence, cross-agent consensus, golden-truth
+  comparison) - Contribute to platform services (Java/Spring
+  Boot) and AI service layer (Python/FastAPI) - Build AI-
+  assisted developer tooling: code generation workflows,
+  automated test generation, and intelligent code review
+
+  Delivery & Operations
+
+  Own CI/CD pipelines, containerized deployments, and
+  environment promotion - Define observability: agent
+  execution traces, token usage tracking, retrieval quality
+  metrics, and pipeline telemetry - Manage schema evolution
+  and data stores (relational + vector) - Coordinate cross-
+  team dependencies with platform engineering, data
+  engineering, and infrastructure
+
+  To be successful in this role, we’re seeking the following:
+
+  Bachelor's degree or Advanced degree  in computer science
+  engineering or a related discipline, or equivalent work
+  experience required.  10+ years of professional software
+  engineering experience - 3+ years leading or technically
+  mentoring engineering teams - Deep expertise in AI/ML
+  systems: - LLM orchestration, prompt engineering, chain-of-
+  thought reasoning - RAG architectures: chunking, embedding,
+  retrieval, re-ranking, context assembly - Agentic patterns:
+  ReAct, tool-use, planning loops, multi-agent coordination -
+  Vector databases and embedding models (OpenAI embeddings,
+  sentence-transformers, FAISS, Pinecone, Weaviate, or
+  similar) - Strong Python (3.11+): FastAPI, async/await,
+  Poetry, Pydantic, pytest - Solid Java experience: Java 21,
+  Spring Boot 3.x, microservice architecture - Production AI
+  delivery: not just prototypes -- systems handling real
+  workloads with observability, error recovery, and audit
+  trails - Document intelligence: OCR pipelines, NLP,
+  structured extraction from unstructured text - Testing &
+  evaluation: golden-truth validation, retrieval metrics (MRR,
+  NDCG), extraction F1 scores, agent success rates -
+  Enterprise architecture: API design, circuit breakers,
+  caching, event-driven patterns
+
+  Preferred Qualifications
+
+  Experience building custom agent frameworks (not just using
+  LangChain/CrewAI out-of-the-box) - Knowledge of graph-based
+  retrieval -- knowledge graphs, graph RAG, entity-
+  relationship extraction - Experience with code AI: AI-
+  assisted development tools, code generation pipelines,
+  automated refactoring - Familiarity with model fine-tuning,
+  LoRA/QLoRA, or RLHF techniques - Exposure to evaluation-
+  driven development -- automated prompt regression testing,
+  A/B testing of retrieval strategies - Angular/TypeScript
+  experience for full-stack visibility - Capital markets or
+  financial services domain knowledge - Familiarity with
+  enterprise AI governance: content policies, PII handling,
+  data residency
+
+  Technology Stack
+
+  AI/Agentic- LLM orchestration, multi-agent systems, ReAct
+  patterns, tool-use, autonomous pipelines
+
+  RAG & Vectors- Embedding models, vector stores, hybrid
+  search, re-ranking, chunk optimization
+
+  LLM- Azure OpenAI, GPT-4o, enterprise model gateways, prompt
+  versioning
+
+  Python- Python 3.12/3.13, FastAPI, Poetry, Pydantic, async
+  pipelines
+
+  Java- Java 21, Spring Boot 3.x, Maven, Resilience4j,
+  Hazelcast
+
+  Frontend- Angular 19, TypeScript, D3.js, ECharts
+
+  Database- Oracle, PostgreSQL, vector databases
+
+  Infrastructure- Docker, GitLab CI/CD, Artifactory
+
+  Observability- Agent traces, token tracking, retrieval
+  quality metrics, audit pipelines
+
+  Our Benefits and Rewards:
+
+  BNY offers highly competitive compensation, benefits, and
+  wellbeing programs rooted in a strong culture of excellence
+  and our pay-for-performance philosophy. We provide access to
+  flexible global resources and tools for your life’s journey.
+  Focus on your health, foster your personal resilience, and
+  reach your financial goals as a valued member of our team,
+  along with generous paid leaves, including paid volunteer
+  time, that can support you and your family through moments
+  that matter.
+
+  BNY is an Equal Employment Opportunity/Affirmative Action
+  Employer - Underrepresented racial and ethnic
+  groups/Females/Individuals with Disabilities/Protected
+  Veterans.
+
+   This position is at-will and the Company reserves the right
+  to modify base salary (as well as any other discretionary
+  payment or compensation) at any time, including for reasons
+  related to individual performance, change in geographic
+  location, Company or individual department/team performance,
+  and market factors.
+
+  About Us
+
+  At BNY, our culture allows us to run our company better and
+  enables employees’ growth and success. As a leading global
+  financial services company at the heart of the global
+  financial system, we influence nearly 20% of the world’s
+  investible assets. Every day, our teams harness cutting-edge
+  AI and breakthrough technologies to collaborate with
+  clients, driving transformative solutions that redefine
+  industries and uplift communities worldwide.
+
+  Recognized as a top destination for innovators, BNY is where
+  bold ideas meet advanced technology and exceptional talent.
+  Together, we power the future of finance – and this is what
+  #LifeAtBNY is all about. Join us and be part of something
+  extraordinary.
+
+  About the Team
+
+  At BNY, our culture speaks for itself, check out the latest
+  BNY news at BNY Newsroom & BNY LinkedIn
+
+   Here’s a few of our recent awards:
+
+  - America’s Most Innovative Companies, Fortune, 2025
+  - World’s Most Admired Companies, Fortune 2025
+  - “Most Just Companies”, Just Capital and CNBC, 2025
+
+  Our Benefits and Rewards:
+
+  BNY offers highly competitive compensation, benefits, and
+  wellbeing programs rooted in a strong culture of excellence
+  and our pay-for-performance philosophy. We provide access to
+  flexible global resources and tools for your life’s journey.
+  Focus on your health, foster your personal resilience, and
+  reach your financial goals as a valued member of our team,
+  along with generous paid leaves, including paid volunteer
+  time, that can support you and your family through moments
+  that matter.
+
+  BNY is an Equal Employment Opportunity/Affirmative Action
+  Employer - Underrepresented racial and ethnic
+  groups/Females/Individuals with Disabilities/Protected
+  Veterans.
+
+  BNY assesses market data to ensure a competitive
+  compensation package for our employees. The expected base
+  salary for this position when employment commences can be
+  found in the Job Info section at the bottom of the posting.
+
+  Base salary offered may vary depending on multiple
+  individualized factors, including market location, job-
+  related knowledge, skills, and experience. Base salary is
+  only part of the total rewards package, which may include
+  eligibility for an annual discretionary incentive award.
+  Subject to the terms and conditions of the applicable plans
+  then in effect, eligible employees may enroll in a 401(k)
+  plan as well as participate in Company-sponsored medical,
+  dental, vision, and basic life insurance plans for the
+  employee and the employee’s eligible dependents. Eligible
+  employees also may receive other benefits (including various
+  paid time off benefits, such as vacation and sick time),
+  dependent on the position offered. Details of participation
+  in these benefit plans will be provided if an employee
+  receives an offer of employment.
+
+  If hired, the employee will be in an “at will” position and
+  the Company reserves the right to modify base salary (as
+  well as any other discretionary payments or compensation
+  programs) at any time, including for reasons related to
+  individual performance, Company or individual
+  department/team performance, and market factors.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-08-26
+url: "https://builtin.com/job/senior-vice-president-ai-machine-learning-software-engineer/10855736"
+source: Built In

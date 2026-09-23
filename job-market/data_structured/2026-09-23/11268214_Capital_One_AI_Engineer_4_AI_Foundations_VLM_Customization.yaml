@@ -1,0 +1,62 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML personalization
+position:
+  title: AI Engineer 4 (AI Foundations, VLM Customization)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI systems including LLM
+      inference, agents and multi-agent workflows, guardrails,
+      model evaluation, and foundation model training/optimization
+      - all shaping model behavior, with LLM/agent components
+      front and center. Hence ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, and deploy AI components including foundation model training,
+    LLM inference, agents, guardrails, and model evaluation
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Own end-to-end architecture for complex AI systems ensuring maintainability, observability,
+    and ethical alignment
+  - Define and maintain SLOs for AI reliability including latency, uptime, and model
+    performance drift
+  - Collaborate with infrastructure engineering to optimize GPU/TPU utilization and
+    accelerate inference pipelines
+  - Lead cross-functional technical reviews ensuring security, data governance, and
+    compliance
+  - Mentor Principal and Senior Associates on scalable design and research-to-production
+    translation
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - AI assistants answering customer questions in real time
+  - Fraud detection informing customers of unusual charges
+  - Internal AI tools changing how associates work
+  - Platform capabilities empowering teams across the company to add AI to products
+  skills:
+    databases: [Vector Databases, Vector Search]
+    domains: []
+    data: []
+    web: []
+    ml: [Foundation Model Training, Model Evaluation, Hugging Face, PyTorch, CUDA,
+      Model Training]
+    ops: [Distributed Systems, MLOps]
+    other: []
+    cloud: [AWS, GCP, Azure]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268214'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-09-23T11:34:20.515652'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

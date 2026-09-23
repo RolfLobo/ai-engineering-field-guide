@@ -1,0 +1,61 @@
+company:
+  name: Soda
+  stage: null
+  focus: Data quality monitoring and data observability platform
+position:
+  title: AI Content Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds multi-step LLM content pipelines with
+      structured outputs and evals, doing serious prompt
+      engineering to shape output quality and voice — clearly
+      shaping LLM behavior. Explicitly not a traditional marketing
+      or software engineering role; the LLM pipeline is the core
+      deliverable.
+  responsibilities:
+  - 'Own Soda''s content end to end: website, technical blogs, webinars, and product
+    videos'
+  - Build an AI-powered content engine that extracts expertise from founders, customer
+    engineers, and customers and publishes it at scale
+  - Design multi-step LLM pipelines with structured outputs and evals that produce
+    non-slop content in distinct voices
+  - Judge and reject lifeless output, diagnose pipeline failures, and fix them
+  - Write code daily (Python/TypeScript, APIs, webhooks) to stay autonomous without
+    engineering support
+  - Build a personal technical profile and following as validation of the content
+    engine
+  - Work with founders on category positioning and messaging
+  use_cases:
+  - AI-driven technical content generation at scale with distinct authorial voices
+  - Extracting and publishing internal expert knowledge (founders, field engineers,
+    customers)
+  - Automated blog, webinar, video, and website content production
+  - Content quality evaluation and anti-slop filtering pipelines
+  skills:
+    genai: [Prompt Engineering, LLMs, Structured Outputs, LLM Evaluation, Agentic
+        Workflows, Claude Code, MCP, AI Agents]
+    ml: []
+    web: [APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11195042'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - Amsterdam, NLD
+  - New York, USA
+  - San Francisco, USA
+  - London, GBR
+  remote: true
+  extracted_at: '2026-09-23T11:24:46.117152'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

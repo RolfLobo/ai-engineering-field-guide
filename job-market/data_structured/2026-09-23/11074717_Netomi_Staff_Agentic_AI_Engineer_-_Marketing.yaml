@@ -1,0 +1,55 @@
+company:
+  name: Netomi
+  stage: null
+  focus: Agentic AI platform for enterprise customer experience
+position:
+  title: Staff Agentic AI Engineer - Marketing
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds production agentic LLM systems:
+      agent orchestration, tool selection, RAG, guardrails, and
+      LLM evaluation. This is directly shaping LLM behavior,
+      making it ai-first.
+  responsibilities:
+  - Design and build production-grade AI agentic systems for web and chat experiences
+    using grounded structured data
+  - Architect agent workflows with reasoning, tool use, retrieval, guardrails, escalation
+    paths, and monitoring
+  - Evaluate agent orchestration frameworks and patterns for marketing-oriented use
+    cases
+  - Build and maintain LLM evaluation systems including LLM-as-judge, regression evals,
+    and guardrail testing
+  - Diagnose agent performance issues across prompts, retrieval, latency, cost, and
+    failure modes
+  - Design RAG and embedding-based capabilities for enterprise knowledge access
+  - Build scalable Python services deployed in AWS
+  - Establish engineering best practices for continuous optimization of agentic systems
+  use_cases:
+  - Agentic automation of enterprise marketing use cases
+  - AI agents for customer experience across the customer journey
+  - Marketing-oriented brand interaction experiences in web and chat
+  - Enterprise knowledge access and automation via RAG
+  - LLM evaluation and quality monitoring for production agents
+  skills:
+    genai: [AI Agents, LangGraph, LangChain, Agentic Workflows, RAG, Embeddings, Guardrails,
+      LLM Evaluation, Prompt Engineering, Function Calling, LLMs, Claude Code, Codex,
+      Cursor]
+    ml: [Machine Learning, Data Science]
+    web: []
+    databases: [Vector Databases, Knowledge Graphs]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: [Adobe Experience Platform, Adobe Analytics, Observability]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11074717'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:17:21.287831'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

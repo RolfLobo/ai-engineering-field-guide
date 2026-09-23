@@ -1,0 +1,55 @@
+company:
+  name: Camunda
+  stage: null
+  focus: |-
+    Enterprise platform for agentic orchestration and process
+    automation
+position:
+  title: Senior GTM Systems AI and Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships AI agents, LLM integrations, RAG,
+      prompt engineering, function calling, structured outputs,
+      and evaluations with guardrails — directly shaping LLM
+      behavior — making it ai-first.
+  responsibilities:
+  - Design, build and operate AI agents, LLM integrations and automations connecting
+    Salesforce and the GTM stack
+  - 'Own the architecture of the GTM Systems AI layer: MCP servers, APIs, retrieval
+    pipelines, reusable agent tools, and serverless services on GCP'
+  - Ship production LLM capabilities (prompt engineering, RAG, function calling, structured
+    outputs, evaluations) with guardrails and human escalation
+  - Partner with GTM leaders to identify, prioritize and deliver automation opportunities
+    iteratively
+  - 'Raise engineering standards: code review, testing, CI/CD, observability, documentation'
+  - Design and deploy workflows on orchestration platforms like Camunda and Clay and
+    create enablement playbooks
+  use_cases:
+  - Automating manual go-to-market workflows across Sales, Customer Success, Marketing,
+    Partnerships and Account Development
+  - Connecting Salesforce and GTM business systems via AI agents and integrations
+  - Retrieval and context pipelines feeding LLM agents for revenue operations
+  - Governed LLM automations with validation, fallbacks and human escalation for internal
+    GTM teams
+  skills:
+    genai: [AI Agents, LLMs, MCP, RAG, Prompt Engineering, Function Calling, Structured
+        Outputs, LLM Evaluation, Guardrails, Embeddings]
+    ml: []
+    web: [Salesforce, REST APIs, React, Slack Block Kit]
+    databases: [Vector Databases, pgvector, Pinecone, Weaviate]
+    data: []
+    cloud: [GCP, BigQuery, Cloud Run, Cloud Functions, IAM]
+    ops: [CI/CD, Git, Code Review, LangSmith, Weights & Biases, Observability]
+    languages: [Python, JavaScript, TypeScript, Node.js]
+    domains: []
+    other: [Gainsight, HubSpot, Clay, Apex, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11011060'
+  location: DEU
+  remote: true
+  extracted_at: '2026-09-23T11:12:59.514133'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

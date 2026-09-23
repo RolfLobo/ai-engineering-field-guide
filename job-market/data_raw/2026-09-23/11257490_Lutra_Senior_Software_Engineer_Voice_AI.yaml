@@ -1,0 +1,141 @@
+job_id: 11257490
+title: Senior Software Engineer, Voice AI
+company: Lutra
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Your opportunity
+
+  Our client is a mission-driven, well financed, seed-stage
+  startup modernizing emergency response communications,
+  reducing 911 call wait times and improving public safety
+  outcomes. It’s a Canadian corporation that operates with
+  remote teams distributed across North America. Their core
+  product is an agentic platform, with humans in the loop,
+  that enhances emergency response operators’ ability to field
+  and triage incoming calls for government services, with an
+  acute focus on public‑safety and city‑service hotlines.
+
+  The company is a freshly funded, mission-driven SaaS GovTech
+  led by accomplished, repeat co-founders committed to
+  impacting communities by relieving a critical bottleneck in
+  emergency response communications. The leadership team
+  brings decades of startup experience, multiple exits through
+  both IPO and M&A, and relevant tours of duty in public
+  service and research to the venture. As of October 2025, the
+  company has approximately 12 team members total, and this
+  hire will take the engineering team from 6 to 7 software
+  engineers. The rest of the team serves in sales/go-to-
+  market, operations and leadership roles.
+
+  The platform utilizes commercially available and open-source
+  models to provide a sophisticated voice agent capable of
+  triaging 911 calls, automating routine and non-emergent 911
+  calls, and handling 311 and government service calls. The
+  company differentiates itself from the competitive landscape
+  by offering an AI-native product experience, focusing
+  exclusively on 911/311 calls and integrating with existing
+  emergency call‑center and dispatch workflows.
+
+  R&D is organized into a single cross-functional delivery
+  team led by a co-founder. Following the close of their seed
+  round, the company is investing in their product velocity
+  and is seeking a senior software engineer to join their
+  budding engineering team.
+
+  Key responsibilities
+
+  - Software architecture and engineering: Design and implement
+    event‑driven, real‑time, highly concurrent systems
+    leveraging advanced concurrency patterns, asynchronous
+    messaging, and performance optimizations to ensure
+    low‑latency, high‑throughput and fault‑tolerance
+  - Systems architecture and engineering: Collaborate on
+    cloud‑native architecture, infrastructure as code, CI/CD
+    pipelines, autoscaling and load‑balancing strategies,
+    security best practices, and observability efforts
+  - AI platform engineering: Integrate LLMs and other emerging
+    AI technologies, select and potentially fine‑tune models,
+    orchestrate deployments, and monitor performance
+  - Audio processing: Design, implement, and optimize
+    audio‑processing pipelines for capabilities such as
+    speech‑to‑text, text‑to‑speech, voice‑activity detection,
+    endpointing, noise filtering, and emotion detection
+  - Technical leadership and mentoring: Guide architecture and
+    design decisions, conduct code reviews, establish best
+    practices, and coach team members to accelerate their
+    technical growth while reinforcing a culture of continuous
+    improvement
+
+  Tech stack
+
+  - Back-end: Python, Go, Elixir, Ruby
+  - Database: PostgreSQL, vector databases (e.g. Pinecone,
+    Qdrant, Chroma)
+  - Cloud provider: Azure
+  - Machine Learning & AI services: LiveKit, OpenAI, LangChain
+  - Infrastructure as code / containerization: Terraform, Docker
+  - Monitoring, alerting & observability: New Relic, incident.io
+
+  Your know-how
+
+  - You have experience integrating and deploying AI-enabled
+    features using commercially available or open-source
+    models into market-ready products
+  - You have 4+ years of experience in back-end or full-stack
+    software engineering
+  - You have an adaptable, resilient disposition suited to a
+    dynamic startup environment
+  - You have experience with natural language processing (NLP)
+
+  It’s a bonus if
+
+  - You have helped build or scale an enterprise SaaS venture
+  - You have developed and/or integrated voice‑AI or
+    audio‑processing solutions in production (ideally
+    utilizing LiveKit)
+  - You have designed and implemented highly concurrent,
+    fault‑tolerant services using Elixir, Erlang, Haskell, Go
+    or another equivalent language
+  - You have experience with telephony systems (PSTN, SIP
+    protocols, PBX architectures)
+  - You have experience with WebRTC technologies (peer-to-peer
+    media streaming, signaling protocols, ICE/STUN/TURN for
+    NAT traversal, data channels, and client-server
+    integration)
+  - You have experience with Vector databases and similarity
+    search pipelines
+  - You have an acute interest in building impact-oriented
+    technology and saving lives with software
+
+  Interested in learning more?
+
+  Please upload your resume or a .pdf export of your LinkedIn
+  profile using the following “Apply and save” button, or send
+  your resume or LinkedIn profile URL to
+  talent@lutrapartners.com with “Senior Software Engineer,
+  Voice AI” as the subject line. One of our partners will be
+  in contact shortly.
+
+  If you require an accommodation, please share the details of
+  your request with your talent partner upon their outreach
+  and we will make all reasonable efforts to ensure
+  accommodation requests are met throughout the recruitment
+  process.
+
+  Compensation
+
+  The base pay range for this role in Canada is CA$130,000 –
+  CA$220,000 per year.
+
+  The base pay range for this role in the United States is
+  $110,000 – $200,000 per year.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Professional Services
+  - Software
+posted_date: 2026-09-18
+url: "https://www.builtinla.com/job/senior-software-engineer-voice-ai/11257490"
+source: Built In

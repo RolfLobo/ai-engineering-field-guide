@@ -1,0 +1,50 @@
+company:
+  name: Royal KPN N.V.
+  stage: null
+  focus: Dutch telecom network operator building autonomous networks
+position:
+  title: AI Engineer - Network
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI systems that observe,
+      decide, and act, including agent design, monitoring, and
+      governance for agent behavior in production - this is
+      shaping LLM/agent outputs. Agent component clearly present,
+      so ai-first.
+  responsibilities:
+  - Build, develop, and maintain agentic AI systems enabling autonomous network optimization
+    and decision-making
+  - Design systems, validate software quality, and own production ownership of agentic
+    solutions
+  - Build and maintain scalable AI/ML pipelines focused on reliability and performance
+  - Define and implement monitoring, testing, and governance strategies for agentic
+    AI in production
+  - Collaborate with network domain experts, data engineers, and software teams to
+    integrate agents into real-time network environments
+  - Translate network objectives into self-adapting models using reinforcement learning
+    and emerging AI tools
+  use_cases:
+  - Autonomous telecom network optimization and decision-making
+  - Broadband disruption detection and resolution agent
+  - On-site technician support agent for field mechanics
+  - Real-time network performance optimization in operational processes
+  skills:
+    genai: [AI Agents, Agentic Workflows]
+    ml: [Reinforcement Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Model Deployment, Model Monitoring, CI/CD, Distributed Systems]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11249364'
+  location: Amsterdam, NLD
+  extracted_at: '2026-09-23T11:31:09.125570'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

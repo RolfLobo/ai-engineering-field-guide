@@ -1,0 +1,54 @@
+company:
+  name: Porch Group
+  stage: 'Publicly traded (Nasdaq: PRCH)'
+  focus: Home services SaaS and homeowners insurance platform
+position:
+  title: Senior DevOps Cloud Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a DevOps/cloud infrastructure engineer that
+      integrates AI-powered observability and DevOps tools and
+      runs/host AI/ML platforms, but never shapes model behaviour
+      — no prompt design, RAG, evals, or training. AI is a tool
+      and platform support concern, so the role is ai-support.
+  responsibilities:
+  - Design, build, and operate scalable, secure cloud infrastructure on GCP and AWS
+  - Integrate AI-powered tools into DevOps workflows for predictive monitoring, anomaly
+    detection, intelligent alerting, and auto-remediation
+  - Build and maintain self-healing systems using AI-based observability platforms
+  - Implement Infrastructure as Code with Terraform and automate CI/CD pipelines with
+    GitHub Actions
+  - Configure and manage Cloudflare services including DNS, CDN, load balancing, WAF,
+    and Zero Trust
+  - Manage, patch, and monitor MySQL and SQL Server databases in AWS and GCP
+  - Provide 24x7 monitoring, incident response, on-call support, and root cause analysis
+  - Mentor junior engineers and collaborate with business, analytics, software, InfoSec,
+    and data science teams
+  use_cases:
+  - AI-powered predictive monitoring and anomaly detection for cloud infrastructure
+  - Intelligent alerting and auto-remediation for self-healing systems
+  - AI/ML-driven optimization of CI/CD pipelines, deployments, and infrastructure
+    cost
+  - Cloud infrastructure modernization and centralization across AWS and GCP
+  skills:
+    genai: [LLMs]
+    ml: [Machine Learning]
+    web: []
+    databases: [MySQL, SQL Server, Vector Databases]
+    data: []
+    cloud: [GCP, AWS]
+    ops: [Kubernetes, Linux, Terraform, CI/CD, GitHub Actions, Infrastructure as Code,
+      Observability, Monitoring, GitHub]
+    languages: [Bash]
+    domains: []
+    other: [Cloudflare, Microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11137288'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:21:12.302396'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

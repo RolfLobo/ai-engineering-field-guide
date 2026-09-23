@@ -1,0 +1,62 @@
+company:
+  name: Belmont Lavan Ltd
+  stage: null
+  focus: Agentic AI applications and enterprise workflow automation
+position:
+  title: AI Application Engineer - LangGraph & Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role centers on shaping LLM behavior: designing agentic
+      workflows in LangGraph, prompt strategies, RAG, tool
+      calling, guardrails, and evaluation of LLM output quality.
+      LLM/agent components dominate, so it is ai-first.
+  responsibilities:
+  - Design and develop AI applications using LangGraph and LLM technologies
+  - Build single-agent and multi-agent solutions executing complex, stateful business
+    processes
+  - Develop prompt strategies, structured outputs, tool calling, and context-management
+    approaches
+  - Design and implement RAG solutions connected to enterprise documents, databases,
+    APIs, and knowledge repositories
+  - Implement guardrails, human-in-the-loop approvals, and exception handling in AI
+    workflows
+  - Develop evaluation frameworks and automated tests for prompts, agents, tools,
+    and end-to-end workflows
+  - Deploy and operate AI applications with monitoring, logging, tracing, and CI/CD
+    practices
+  - Collaborate with product, business, and engineering stakeholders to identify and
+    deliver agentic AI use cases
+  use_cases:
+  - Agentic automation of multi-step business processes
+  - Enterprise knowledge retrieval and question answering via RAG
+  - Human-in-the-loop workflow approvals and exception handling
+  - AI agents interacting with tools, APIs, and enterprise systems
+  - Business process transformation combining LLM reasoning with deterministic logic
+  skills:
+    genai: [LangGraph, LLMs, Prompt Engineering, Structured Outputs, Function Calling,
+      RAG, Embeddings, Guardrails, Multi-Agent Systems, Agentic Workflows, LangChain,
+      LLM Evaluation]
+    ml: []
+    web: [APIs, FastAPI]
+    databases: [Vector Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [LangSmith, Monitoring, Kubernetes, Docker, MLOps, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11194941'
+  location: Amsterdam, NLD
+  locations:
+  - Amsterdam, NLD
+  - London, GBR
+  - Stuttgart, DEU
+  - Nérac, FRA
+  remote: true
+  extracted_at: '2026-09-23T11:25:38.203039'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

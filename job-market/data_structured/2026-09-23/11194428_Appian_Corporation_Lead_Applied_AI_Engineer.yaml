@@ -1,0 +1,53 @@
+company:
+  name: Appian Corporation
+  stage: null
+  focus: AI-powered process automation platform for enterprises
+position:
+  title: Lead Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agents and orchestration (planning, tool
+      use, memory, state), builds retrieval/application
+      intelligence, and builds LLM evaluation and CI pipelines to
+      gate quality — all direct shaping of LLM behavior and output
+      quality. Lead/IC role mentoring juniors is technical
+      leadership, not management.
+  responsibilities:
+  - Architect, build, and optimize production AI systems with a strong hands-on technical
+    presence
+  - Design reliable agents and orchestration including planning, tool use, memory,
+    and state with permission-aware boundaries
+  - Derive requirements and executable specifications from source, metadata, tests,
+    and runtime behavior and map them to Appian's object model
+  - Build semantic and dependency models and retrieval to give AI accurate context
+    across large application estates
+  - Build evaluation and CI pipelines that gate quality and catch regressions
+  - Engineer reliability, latency, and efficiency at enterprise scale
+  - Use AI coding assistants fluently to ship faster while maintaining quality
+  - Mentor junior engineers and publish technical documentation
+  use_cases:
+  - AI automation of enterprise business processes
+  - Agents that reason about and rebuild enterprise applications
+  - Specification extraction from legacy codebases and systems
+  - Application intelligence and retrieval across large application estates
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [CI/CD, Observability, Distributed Systems]
+    languages: []
+    domains: []
+    other: [Salesforce, ServiceNow]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11194428'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:24:36.391122'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

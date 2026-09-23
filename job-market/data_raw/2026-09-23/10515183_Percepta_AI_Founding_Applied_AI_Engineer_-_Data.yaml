@@ -1,0 +1,142 @@
+job_id: 10515183
+title: Founding Applied AI Engineer - Data
+company: Percepta AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 3 Employees
+description: |
+  Who We Are
+
+  Percepta’s mission is to transform critical institutions
+  with applied AI. We care that industries that power the
+  world (e.g. healthcare, manufacturing, energy) benefit from
+  frontier technology.
+
+  To make that happen, we embed with industry-leading
+  customers to drive AI transformation. We bring together:
+
+  - Forward-deployed expertise in engineering, product, and
+    research
+  - Mosaic, our in-house toolkit for rapidly deploying agentic
+    workflows
+  - Strategic partnerships with Anthropic, McKinsey, AWS,
+    companies within the General Catalyst portfolio, and more
+
+  Our team is a quickly growing group of Applied AI Engineers,
+  Embedded Product Managers and Researchers motivated by
+  diffusing the promise of AI into improvements we can feel in
+  our day to day lives.
+
+  Percepta is a direct partnership with General Catalyst, a
+  global transformation and investment company.
+
+  About The Role
+
+  We're hiring one of the founding members of Percepta's data
+  team — a role that lives across the full spectrum from data
+  engineering to data science to ML engineering. You won't be
+  boxed into one of those; the best person here has a center
+  of gravity in one and real range across the others.
+
+  The job has two halves, and you'll do both:
+
+  - Be the data person. Build the pipelines, models, analysis,
+    "data packs," and ontology that turn messy enterprise data
+    into something AI can actually use — and do it fast,
+    inside real customer environments.
+  - Build the product around that. Build the tooling,
+    abstractions, and increasingly agentic/automated systems
+    that make the first half faster and compounding across
+    every customer we work with. This is where you set the
+    taste and help form our strategy for how Percepta does
+    data — not as a one-off, but as something that gets better
+    every time we do it.
+
+  As a founding hire, you're not inheriting a playbook —
+  you're writing it.
+
+  What You'll Do
+
+  - Build end-to-end pipelines and models that turn fragmented,
+    messy enterprise data into high-leverage, AI-ready assets
+  - Structure and normalize noisy datasets — defining the data
+    packs and ontology that our AI engineers build on top of
+  - Build the internal product and tooling that makes data work
+    faster and repeatable across customers, so each engagement
+    compounds rather than starts from zero
+  - Work directly with operators and product/AI engineers to
+    turn high-value use cases into production data workflows
+  - Form strong technical opinions on data models, storage,
+    orchestration, and infra tradeoffs — and make the calls
+
+  What We're Looking For
+
+  You might come from any point on the spectrum — a strong
+  data engineer; a software engineer who's done real data
+  work; someone who's done data science and software; or an ML
+  engineer who now wants to build more. What's common: you can
+  build in ambiguity, you form opinions and ship, and you care
+  about building leverage, not just outputs.
+
+  - Strong experience around some combination of Data Science,
+    Data Engineering, Machine Learning.
+  - A product instinct for the second half of the job — you want
+    to build the thing that makes the work easier, not just do
+    the work
+  - Intuition for what modern AI/ML and LLM systems actually
+    need from data (features, retrieval, context, embeddings)
+  - High ownership and strong communication — you're comfortable
+    embedded directly with customer teams
+
+  Nice To Have
+
+  - Experience building agentic or automated data-engineering
+    tooling
+  - Hands-on experience with modern cloud data platforms (e.g.,
+    Databricks)
+  - Experience with health-system data (EHR, claims, and other
+    operational healthcare datasets) or other complex,
+    regulated enterprise data
+  - Prior startup, founding, or forward-deployed experience
+
+  We’re working against an incredibly ambitious mission. It
+  won’t be easy, but it will likely be the most fulfilling
+  work of your career. If this excites you, let's chat, even
+  if you don't meet all of the qualifications above.
+
+  Our Values
+
+  Dream bigger: We have the unique privilege of taking on the
+  most ambitious problems and we should chase them with
+  optimism, responsibility, and genuine belief that we can
+  make it happen. We have to embrace the hard things when no
+  one else will. Heart in the game: What we're doing matters
+  and we have to give a shit. Internally, that means fixing
+  badness when you find it. Externally, it means honoring the
+  trust our customers place in us with their most important
+  problems. This isn’t a 9-5, nor is it a job we’re ever going
+  to monitor your hours. We promise to put work in front of
+  you that matters and in return, we ask you to promise to
+  care. Win for the customer: Everyone is an engineer and the
+  job of an engineer is to deliver outcomes, not outputs.
+  Everything we do—the products we build, the partnerships we
+  launch, the strategy we set—exists to make our customers
+  successful. Delivery is the strategy. Make the call:
+  Organizations are only as strong as the pace at which they
+  make decisions. Everyone at Percepta should feel empowered
+  to commit and shape the ambiguity in front of them. But
+  "make the call" cuts both ways: make the decision and make
+  the phone call. High-agency decision-making only works with
+  high-bandwidth communication and we commit to never operate
+  in silos. Intensity with kindness: We believe in excellence
+  in execution, candor in feedback, ruthlessness in
+  prioritization, and survivalist urgency. We also believe you
+  don't need to be an asshole to deliver on any of this. The
+  trust built through shared kindness and vulnerability is
+  what makes the intensity sustainable.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-08-13
+url: "https://builtin.com/job/founding-data-engineer/10515183"
+source: Built In

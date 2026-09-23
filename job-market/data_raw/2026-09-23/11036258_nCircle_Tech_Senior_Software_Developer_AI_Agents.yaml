@@ -1,0 +1,131 @@
+job_id: 11036258
+title: Senior Software Developer (AI Agents)
+company: nCircle Tech
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 289097 Employees
+description: |
+  ABOUT THE ROLE  The Data + Automation team at nCircle Tech
+  builds the data and automation infrastructure behind
+  decision making across the business. Our platform runs on
+  Databricks and AWS. We're hiring a strong software engineer
+  to design, build, and ship production services — including
+  LLM-powered agents and the tooling around them. This is a
+  hands-on, code-first role.
+
+  WHAT YOU'LL WORK ON
+
+  ● Designing, building, and productionizing LLM agents: tool-
+  use loops, retrieval, orchestration,  evaluation, and
+  guardrails
+
+  ● Writing the production-grade services and APIs around
+  those agents in Python and Node/TypeScript
+
+  ● Deploying and operating on AWS — provisioning with IaC,
+  wiring CI/CD, owning your code from  commit to production
+
+  ● Contributing to a shared codebase with feature branches,
+  code review, and Conventional Commits
+
+  REQUIRED
+
+  Software Engineering (the core)
+
+  ● Strong Python and Node/TypeScript — writes clean, tested,
+  production-grade code, not scripts
+
+  ● Solid fundamentals: data structures, API design, error
+  handling, testing, debugging real systems
+
+  ● Feature branches and PRs; comfortable both giving and
+  receiving code review; meaningful commit  messages
+
+  ● Follows engineering standards (12-factor, testing,
+  documentation) without hand-holding
+
+  AWS + IaC
+
+  ● Real AWS experience — the environment our services run on
+
+  ● Deploys with Infrastructure as Code (Terraform, CDK, or
+  equivalent) rather than clicking through  consoles
+
+  ● Comfortable with CI/CD, environment promotion, and AWS
+  basics (S3, IAM, networking)
+
+  LLM Agents (non-negotiable)
+
+  This is a hard requirement, not a nice-to-have. We are a
+  small team and cannot train this skill on the job  — you
+  must already know how to build agents and be able to
+  contribute to real work quickly.
+
+  ● Has built and shipped LLM agents to production — not demos
+  or prototypes; systems that ran and  were relied on
+
+  ● Can explain the agent loop from experience: how the model
+  decides to call a tool, observes the result,  and re-decides
+  across multiple steps 1 Senior Software Engineer, AI Agents
+
+  ● Has designed retrieval (RAG) end-to-end — chunking,
+  indexing, hybrid or re-ranked retrieval — and  can justify
+  each choice ● Has a real evaluation story: how they measured
+  whether the agent was correct, and the worst failure mode
+  they hit in production and fixed
+
+  ● Knows when NOT to use an agent — where a plain LLM call or
+  deterministic code is the better answer
+
+  ● Framework-agnostic — LangChain, CrewAI, Databricks Agent
+  Framework, or raw tool-use loops all  fine; what matters is
+  that you've shipped real agents
+
+  Databricks (working proficiency)
+
+  Our platform runs on Databricks, so this is required — but
+  working proficiency, not mastery. You should  be able to
+  build and ship in Databricks unaided; you don't need to be a
+  Spark-tuning specialist.
+
+  ● Comfortable building and running Databricks notebooks and
+  Jobs (task chains, parameters,  schedules) end-to-end
+
+  ● Understands the Unity Catalog three-part namespace
+  (catalog.schema.table) and works within it
+
+  ● Has written Delta Lake operations beyond basic reads —
+  e.g. MERGE, overwrite, schema evolution
+
+  ● Can navigate and debug an existing pipeline, not only
+  write greenfield code
+
+  GOOD TO HAVE
+
+  ● Deeper Databricks / Spark depth — performance tuning,
+  advanced Unity Catalog governance
+
+  ● MCP (Model Context Protocol) exposure
+
+  ● Agent observability and tracing tools in production
+
+  ● Construction, AEC, or project-based industry experience  ●
+  Jira
+
+  GENERAL BAR
+
+  ● 5+ years writing code, not configuring tools
+
+  ● Ships independently: scopes work, executes, communicates
+  progress
+
+  ● Can ramp on an unfamiliar system by reading docs and
+  asking targeted questions
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Professional Services
+  - Software
+posted_date: 2026-09-07
+url: "https://builtin.com/job/senior-software-developer-ai-agents/11036258"
+source: Built In

@@ -1,0 +1,50 @@
+company:
+  name: Avoca
+  stage: Series B
+  focus: AI voice agents for home services customer engagement
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and deploys AI voice agents end-
+      to-end at customer sites (forward-deployed pattern),
+      directly shaping agent behavior and shipping LLM-based
+      conversational systems. This is a Forward Deployed Engineer
+      role, which is ai-first.
+  responsibilities:
+  - Embed with customers to understand their business and design and deploy AI voice
+    agents that work from day one
+  - Build production integrations into customer CRM/FSM systems via APIs, webhooks,
+    and data flows
+  - Build monitoring and feedback loops to keep customer deployments healthy
+  - Translate real-world business requirements into technical architecture and shipped
+    code
+  - Turn patterns across deployments into reusable tooling and product improvements
+  - Serve as the on-site technical presence and technical owner for strategic accounts
+    through go-live
+  use_cases:
+  - AI voice agents handling inbound calls for home service companies
+  - Automated job booking and lead qualification over the phone
+  - Customer engagement automation replacing human call centers
+  - Production integrations between voice agents and CRM/FSM systems
+  - Monitoring and feedback loops for live call-handling deployments
+  skills:
+    genai: [LLMs, Prompt Engineering, AI Agents]
+    ml: []
+    web: [Next.js, React, Fastify, REST APIs, Webhooks]
+    databases: [Vector Databases, PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [TypeScript, JavaScript, Node.js]
+    domains: []
+    other: [Voice AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10910620'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:06:30.449136'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

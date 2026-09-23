@@ -1,0 +1,48 @@
+company:
+  name: Wells Fargo
+  stage: null
+  focus: Large diversified banking and financial services
+position:
+  title: Senior Software Engineer - Python, Gen AI, LLM, Open AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires experience with LangGraph, ADK, agent
+      orchestration, multi-model LLM integration, and AI
+      evaluation frameworks, meaning the engineer designs agent
+      flows and evaluates model output quality. This is LLM/agent
+      shaping work, so it is ai-first.
+  responsibilities:
+  - Lead moderately complex initiatives and deliverables within technical domain environments
+  - Contribute to large-scale planning of strategies
+  - Design, code, test, debug, and document projects including upgrades and deployments
+  - Review and resolve moderately complex technical challenges
+  - Resolve client needs while leveraging understanding of policies and compliance
+    requirements
+  - Collaborate with peers and mid-level managers to resolve technical challenges
+  - Lead projects, act as escalation point, and provide guidance to less experienced
+    staff
+  use_cases:
+  - Enterprise generative AI platform engineering at a large bank
+  - Multi-model LLM integration behind API gateways
+  - Agent orchestration with LangGraph and ADK
+  - Secure, observable AI API access with OAuth2, mTLS, and rate limiting
+  skills:
+    genai: [OpenAI API, LangGraph, Google ADK, Agentic Workflows, LLMs, LLM Evaluation]
+    ml: []
+    web: [OpenAPI, OAuth]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kong, Apigee, OpenTelemetry, Distributed Systems]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11246291'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:30:48.652577'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

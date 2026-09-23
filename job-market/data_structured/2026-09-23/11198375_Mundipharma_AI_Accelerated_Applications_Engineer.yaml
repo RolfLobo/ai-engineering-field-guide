@@ -1,0 +1,59 @@
+company:
+  name: Mundipharma
+  stage: null
+  focus: |-
+    Global pharmaceutical company developing innovative patient
+    treatments
+position:
+  title: AI Accelerated Applications Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and delivers GenAI applications and agents,
+      with explicit exposure to developing AI agents, harnesses,
+      and workflows via Copilot Studio and AI Foundry, which is
+      shaping agentic LLM components. AI coding tools are also
+      mentioned but the agentic AI development makes it ai-first.
+  responsibilities:
+  - Collaborate on requirement definitions with customers and business partners, leveraging
+    AI to add value and improve processes and workflows
+  - Design software, AI, BI, and data integration solutions producing high- and low-level
+    documents and test plans
+  - Manage contracted workers and third parties to ensure delivery follows design
+    and architecture principles
+  - Govern applications and automations to ensure alignment with Mundipharma standards
+    and supportability
+  - Research, assess, and justify new tools and emerging technologies, advising on
+    technical strategy and lifecycle
+  - Assess internal processes and solutions for simplification, developing data and
+    AI solutions to increase efficiency
+  - Provide operational monitoring, after-care, and continual service improvement
+    for delivered solutions
+  use_cases:
+  - GenAI application delivery within the Data & AI team
+  - AI agents and automation workflows for business processes
+  - AI-accelerated software development with coding tools
+  - BI and data integration solutions in a pharmaceutical environment
+  skills:
+    genai: [GitHub Copilot, Claude Code, Cursor, AI Agents, Agentic Workflows, Copilot
+        Studio]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, Azure, Azure Functions, Azure Logic Apps]
+    ops: [Azure DevOps, GitHub]
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: [GxP, GDPR]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11198375'
+  location: London, GBR
+  locations:
+  - London, GBR
+  - Cambridge, GBR
+  extracted_at: '2026-09-23T11:25:43.105368'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

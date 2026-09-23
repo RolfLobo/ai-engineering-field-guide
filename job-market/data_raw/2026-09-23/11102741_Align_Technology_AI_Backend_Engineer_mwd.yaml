@@ -1,0 +1,172 @@
+job_id: 11102741
+title: AI Backend Engineer (m/w/d)
+company: Align Technology
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 10,001 Employees
+description: |
+  Role summary
+
+  This position is ideal for a mid-level software engineer
+  specializing in cloud-native backend development to join the
+  exocad Machine Learning team as a Backend Engineer, owning
+  the production services that put ML models in front of
+  users. Working closely with ML researchers, frontend
+  engineers, and product teams across sites, you'll extend and
+  operate the model serving layer behind exocad's dental CAD
+  workflows: inference APIs, deployment and rollout
+  automation, versioning, monitoring, and the performance and
+  cost tuning that keeps them healthy under real workloads.
+  You'll also contribute to the upstream training and labeling
+  infrastructure that feeds them. This role focuses on the
+  engineering that turns research prototypes into reliable,
+  observable, traceable production systems, and on the
+  operational discipline that keeps model behavior predictable
+  release over release.
+
+  Key Responsibilities
+
+  - Maintain, extend, and operate the production services that
+    serve exocad’s ML models as part of the exocad AI Design
+    product.
+  - Own model deployment end to end: containerized builds,
+    versioning, staged rollout, rollback, and reproducible
+    release artifacts.
+  - Automate provisioning and deployment with Terraform and AWS-
+    native tooling so environments stay consistent and
+    releases repeatable.
+  - Build monitoring into serving systems for latency,
+    throughput, resource utilization, and error rates, and act
+    on what the telemetry shows.
+  - Collaborate with engineering, and product teams to deliver
+    compliant and business-aligned cloud and data solutions.
+  - Own deployments in both our AWS global and AWS China
+    environments, partnering with our regional experts on data
+    residency requirements.
+
+  Skills, Knowledge & Expertise
+
+  - Education: Bachelor’s degree in Computer Science, Software
+    Engineering, or a related field, or similar education.
+  - Experience: 4+ years in backend engineering, including 2+
+    years of hands-on experience designing and operating
+    systems on AWS.
+  - Skills: Strong proficiency in Python, and C#; solid
+    grounding in systems design and distributed systems; solid
+    understanding of AWS services (SageMaker, EC2, Lambda, S3,
+    CloudWatch, RDS); experience with infrastructure-as-code
+    (Terraform) and CI/CD automation (Jenkins); hands-on
+    experience with Docker and containerized services.
+  - Communication: Ability to clearly document and explain
+    technical concepts to diverse audiences.
+  - Teamwork: Proven ability to collaborate effectively across
+    global, cross-functional teams.
+  - Product Mindset: Ability to understand what our customers
+    really need and build accordingly.
+
+  Complementary skills
+
+  - General understanding of machine learning concepts, training
+    and evaluation workflows.
+  - Experience with GitHub Actions.
+  - Familiarity with Kubernetes, and container orchestration.
+  - Experience with monitoring, logging, and observability tools
+    such as Splunk, Datadog, or Prometheus.
+
+  Job Benefits
+
+  - Exciting and varied tasks in a dynamic and growing software
+    company
+  - Flat hierarchies and fast decision-making
+  - A positive working environment that values both freedom and
+    responsibility
+  - Strong team spirit and a very pleasant atmosphere
+  - Modern offices, workstations and the latest technologies
+  - Flexible working hours
+  - Training and development opportunities
+  - Company events
+  - Sports activities and work-life balance initiatives
+  - Free drinks, fruit and snacks
+  - Canteen with in-house cook
+  - Good transport connections
+  - JobTicket / JobRad
+
+  About Your growth and well-being:At Align, every smile
+  matters. We’re committed to helping you thrive by supporting
+  the health, growth, and well-being of our team members
+  through a variety of tools and programs. While specific
+  offerings may vary by location and role, Align employees can
+  typically expect:Health and well-being programs to keep you
+  thriving in both body and mind.Employee-exclusive discounts
+  on Invisalign products.Learning opportunities through online
+  learning resources and support for your individual
+  development plans.Inclusive, global workplace that fosters
+  collaboration, recognition and belonging.Country and/or role
+  specific details will be shared with you by your recruiter
+  during the interview process. Discover Align:We are a global
+  community of game-changers and smart team players, united by
+  our belief in the power of a smile. Our dynamic team of
+  exceptional employees is dedicated to transforming the
+  industry and creating extraordinary outcomes every
+  day.Align’s core values of agility, customer, and
+  accountability are more than words to work by, they are
+  words we live by. The actions we take every day speak to who
+  we are as a company and our focus on being truly impactful.
+  We celebrate our differences, and the many ways we support
+  one another— ultimately creating a more inclusive
+  organization and world as we continue transforming smiles
+  and changing lives.We foster a culture where thinking
+  differently and seeking new experiences are not just
+  encouraged but celebrated. With the Align Mindset, we
+  empower each other, ensuring every voice is heard and valued
+  in an inclusive environment that inspires creativity and
+  collaboration.At Align, we believe in the power of a smile,
+  and we know that every smile is as unique as our employees.
+  As we grow, we are committed to building a workforce rich in
+  diverse cultural backgrounds and life experiences, fostering
+  a culture of open-mindedness and compassion. We live our
+  company values by promoting healthy people and healthy
+  communities, all with the intent of changing millions of
+  lives, one unique smile at a time. As part of our commitment
+  to innovation, Align Technology includes exocad and
+  Cubicure, companies that enhance our offerings and extend
+  our impact to industry transformation.Eager to learn how we
+  embrace our global differences and nurture employee well-
+  being? Explore Align's culture here!Want to discover more
+  about exocad and Cubicure? Click on their names for
+  additional information.
+industries:
+  - Healthtech
+  - Biotech
+posted_date: 2026-09-10
+url: "https://builtin.com/job/ai-backend-engineer-m-w-d/11102741"
+source: Built In

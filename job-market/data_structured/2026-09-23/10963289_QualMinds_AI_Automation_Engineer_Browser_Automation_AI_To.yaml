@@ -1,0 +1,56 @@
+company:
+  name: QualMinds
+  stage: null
+  focus: |-
+    Digital products, custom software and enterprise application
+    development
+position:
+  title: AI Automation Engineer (Browser Automation + AI Tooling)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly includes contributing to prompt design
+      and evaluation workflows, agent workflows, and implementing
+      guardrails and validation checks for LLM usage in
+      automation, which is shaping LLM behavior/output quality.
+      The LLM integration is central enough to the automation
+      systems that this is ai-first rather than ai-support.
+  responsibilities:
+  - Build and maintain automation workflows using AI-assisted tooling such as Stagehand
+  - Develop browser automation suites using Playwright and selector-based automation
+    for predictable UI patterns
+  - Contribute to prompt-driven automation and agent workflows
+  - Integrate LLM APIs into automation workflows
+  - Contribute to prompt design and evaluation workflows, including guardrails and
+    validation checks
+  - Build automated tests for UI, APIs, and data workflows and integrate automation
+    into CI/CD pipelines
+  - Build automation reporting dashboards with logging and metrics for observability
+  - Decide when to use deterministic vs AI-driven automation, balancing speed, cost,
+    and reliability
+  use_cases:
+  - Automated testing and QA for web platforms and digital products
+  - Regression and functional automation suites
+  - Automated monitoring and validation workflows
+  - Operational efficiency through intelligent automation
+  - Email processing, PDF generation, and document workflows
+  - CRM integration testing via Salesforce APIs
+  skills:
+    genai: [Stagehand, AI Agents, Prompt Engineering, LLMs, Guardrails, LLM Evaluation]
+    ml: []
+    web: [Playwright]
+    databases: [SQL, MySQL, PostgreSQL, Redis]
+    data: [RabbitMQ]
+    cloud: []
+    ops: [CI/CD, Kubernetes, Sentry, Datadog]
+    languages: [Python, TypeScript, JavaScript, asyncio]
+    domains: []
+    other: [pytest, CSS Selectors, XPath, Salesforce APIs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10963289'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:09:17.677227'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

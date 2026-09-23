@@ -1,0 +1,59 @@
+company:
+  name: Ping Identity
+  stage: null
+  focus: Cloud identity and access management security platform
+position:
+  title: Staff QA Engineer (AI Enabled)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI-driven testing capabilities themselves:
+      using LLMs to generate test scenarios, analyze failures, and
+      building automated validation and evaluation of AI agents,
+      MCP servers, and agentic workflows. Building evals/output-
+      quality tests for AI agents and shaping LLM-based test
+      generation is shaping model behavior, making this ai-first.
+  responsibilities:
+  - Design, develop, and maintain QA automation frameworks and test suites for Identity
+    Governance capabilities such as certifications, lifecycle management, workflows,
+    and SoD
+  - Build AI/LLM-driven test automation that generates test scenarios, expands coverage,
+    identifies defects, and analyzes failures
+  - Create automated validation for AI agents, tools, MCP servers, workflows, APIs,
+    and enterprise integrations
+  - Develop automated tests validating AI agent performance, usage, security, reliability,
+    and operational health
+  - Leverage AI coding assistants and agentic development tools to improve test automation
+    productivity and coverage
+  - Develop intelligent automation for failure analysis, root-cause identification,
+    and regression analysis
+  - Collaborate with Engineering, Product, Security, and customer-facing teams on
+    troubleshooting and regression coverage
+  - Evaluate emerging AI testing and agentic automation frameworks, including MCP
+    and Agent-to-Agent interoperability standards
+  use_cases:
+  - AI-driven test scenario generation and defect detection for QA automation
+  - Automated validation of AI agents, MCP servers, and agentic workflows
+  - Identity governance testing including certifications, lifecycle management, and
+    Separation of Duties
+  - Intelligent test failure analysis and root-cause identification
+  - Enterprise AI governance and compliance validation
+  skills:
+    genai: [LLMs, AI Agents, MCP]
+    ml: [Model Evaluation]
+    web: [Playwright]
+    databases: []
+    data: []
+    cloud: [GCP, AWS]
+    ops: [Jenkins, Monitoring, Observability]
+    languages: [JavaScript, TypeScript, Java]
+    domains: []
+    other: [Cypress, Jest]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11223932'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:28:34.709728'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

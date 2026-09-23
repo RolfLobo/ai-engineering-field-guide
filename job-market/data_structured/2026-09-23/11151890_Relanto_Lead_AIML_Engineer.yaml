@@ -1,0 +1,49 @@
+company:
+  name: Relanto
+  stage: null
+  focus: AI and data consulting services
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures, builds LLM applications
+      with LangChain/LlamaIndex, and evaluates/improves LLM-based
+      models, which is directly shaping LLM behavior and output
+      quality. Hence ai-first.
+  responsibilities:
+  - Design, develop, and implement end-to-end AI/ML models and solutions for complex
+    business problems
+  - Build and work with LLM, Generative AI, and RAG architectures
+  - Build and optimize ML pipelines using TensorFlow, PyTorch, and Hugging Face Transformers
+  - Leverage vector databases (FAISS, Pinecone, ChromaDB) for similarity search and
+    retrieval
+  - Integrate LangChain or LlamaIndex for context-aware LLM applications
+  - Deploy, monitor, and maintain ML models on AWS, GCP, or Azure
+  - Research and apply NLP, deep learning, and machine learning algorithms
+  - Build data pipelines with ETL/ELT tools, Spark, and cloud data services
+  use_cases:
+  - Context-aware LLM applications for complex business problems
+  - Retrieval-Augmented Generation for enterprise data retrieval
+  - Similarity search over vector databases
+  - Production ML model deployment and monitoring on cloud
+  - Big data pipelines and data warehousing for AI systems
+  skills:
+    databases: [Vector Databases, FAISS, Pinecone, Chroma, Data Warehousing]
+    domains: [NLP]
+    data: [Data Pipelines, Spark]
+    web: []
+    ml: [PyTorch, TensorFlow, Hugging Face, Deep Learning, Machine Learning]
+    ops: []
+    other: []
+    cloud: [AWS, GCP, Azure, AWS S3, Data Factory, Dataflow]
+    languages: [Python]
+    genai: [LLMs, Generative AI, RAG, LangChain, LlamaIndex]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151890'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:21:54.813287'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

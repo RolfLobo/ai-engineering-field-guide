@@ -1,0 +1,56 @@
+company:
+  name: Anaplan
+  stage: null
+  focus: AI-infused business scenario planning and analysis platform
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves prompt engineering, RAG implementation,
+      agentic workflows, LLM fine-tuning, and building GenAI
+      evaluation frameworks, directly shaping model behavior and
+      output quality. LLMs are central to the position.
+  responsibilities:
+  - Lead architecture, design, and deployment of scalable Generative AI and ML systems
+    into production
+  - Develop end-to-end GenAI features including backend API services, model integration,
+    monitoring, evaluations, and deployments
+  - Integrate and optimize LLMs for business planning use cases, including prompt
+    engineering and RAG implementation
+  - Build conversational interfaces and agentic workflows for natural-language planning
+    tasks
+  - Implement evaluation frameworks measuring accuracy, latency, and user satisfaction
+    of GenAI features
+  - Design and develop APIs exposing AI capabilities to the platform and third-party
+    integrations
+  - Optimize model inference pipelines for performance, cost, and scalability
+  - Implement monitoring, logging, and observability for GenAI systems; collaborate
+    with data scientists to productionize ML models
+  use_cases:
+  - Natural-language conversational interfaces for business planning tasks
+  - GenAI features embedded in scenario planning and analysis workflows
+  - RAG-based LLM assistance for enterprise business planning
+  - ML forecasting and planning algorithms productionized in the platform
+  - AI capabilities exposed via APIs to platform and third-party integrations
+  skills:
+    genai: [Prompt Engineering, RAG, Agentic Workflows, Conversational AI, LLMs, Fine-Tuning,
+      Generative AI, Embeddings]
+    ml: [Machine Learning, Model Training, Model Evaluation]
+    web: [APIs]
+    databases: [Vector Databases, Pinecone, Weaviate, Qdrant]
+    data: []
+    cloud: []
+    ops: [MLOps, LLMOps, CI/CD, Code Review, vLLM, TensorRT, Ray, LangSmith, Weights
+        & Biases, MLflow]
+    languages: [Python]
+    domains: []
+    other: [A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10981914'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:10:45.298666'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

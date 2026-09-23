@@ -1,0 +1,56 @@
+company:
+  name: Kyndryl
+  stage: null
+  focus: |-
+    Enterprise IT infrastructure and mission-critical technology
+    services
+position:
+  title: Forward Deployed Engineer - Lead AI & Agentic Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic AI applications, multi-
+      agent workflows, RAG pipelines, and LLM/MCP tooling,
+      directly shaping model behavior and output quality. Forward
+      Deployed Engineers adapting AI at customer sites are ai-
+      first, and LLM/agent components dominate.
+  responsibilities:
+  - Design and build agentic AI applications and multi-agent workflows with the frameworks
+    that run them for enterprise use cases
+  - Build RAG pipelines and integrate LLM APIs, vector databases, and MCP tooling
+  - Write production-grade Python services (FastAPI) with testing, code review, and
+    CI/CD
+  - Model and serve data behind AI applications using relational and graph databases
+    (Postgres, Neo4j)
+  - Define AI governance and responsible-use guardrails including policy enforcement
+    (OPA/Rego)
+  - Instrument AI applications for observability (OpenTelemetry, Prometheus)
+  - Translate enterprise requirements into AI solution roadmaps for senior stakeholders
+  - Provide architectural oversight, mentor engineers hands-on, and codify reusable
+    agentic patterns
+  use_cases:
+  - Enterprise agentic AI applications and multi-agent workflow automation
+  - RAG-based knowledge retrieval from unstructured enterprise data
+  - Ontology and structured knowledge extraction from unstructured sources
+  - AI governance and responsible-use policy enforcement in production systems
+  - Observability and cost monitoring of production AI applications
+  skills:
+    genai: [Agentic Workflows, RAG, LLMs, MCP, LangGraph, CrewAI, AutoGen, Semantic
+        Kernel, Google ADK, Guardrails, Ontology Extraction]
+    ml: [TensorFlow, PyTorch, Hugging Face, OCR]
+    web: [FastAPI]
+    databases: [PostgreSQL, Neo4j, Graph Databases, Vector Databases]
+    data: []
+    cloud: []
+    ops: [CI/CD, Git, GitHub, OpenTelemetry, Prometheus, MLOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: [OPA/Rego, Claude Code, Codex, Cursor]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11179638'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:23:33.669021'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

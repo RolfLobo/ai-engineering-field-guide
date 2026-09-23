@@ -1,0 +1,93 @@
+job_id: 11307523
+title: Sr. AI/ML Developer
+company: Ecosmob Technologies
+location: Ahmedabad, IND
+work_type: FULL_TIME
+company_size: 310 Employees
+description: |
+  Key Responsibilities
+
+  - Team Leadership: Lead, guide, and mentor a team of AI/ML
+    engineers and data scientists, fostering a collaborative,
+    innovative, and productive work environment.
+  - Clean Code & Development: Write clean, maintainable, and
+    error-free Python code for developing robust machine
+    learning systems.
+  - Model Engineering: Efficiently design, build, and deploy
+    machine learning models and end-to-end solutions.
+  - Cross-Functional Collaboration: Work closely with diverse
+    technical teams to ensure timely and efficient delivery of
+    AI/ML projects.
+  - Data Science Lifecycle: Implement end-to-end data science
+    processes, including data preprocessing, exploratory
+    analysis, modeling, evaluation, and deployment.
+  - Database Management: Work proficiently with SQL and NoSQL
+    databases to manage and retrieve data effectively.
+  - API Development: Develop and integrate RESTful APIs using
+    Python web frameworks (e.g., Flask, Django).
+  - Debugging & Optimization: Diagnose issues and optimize
+    existing code for performance improvements.
+  - Agile Methodologies: Follow Agile/Scrum software development
+    lifecycle practices consistently.
+  - LLM & RAG Implementation: Design, develop, fine-tune, and
+    deploy AI models focusing on Large Language Models (LLMs)
+    and Retrieval-Augmented Generation (RAG).
+  - Model Validation & Evaluation: Conduct training, validation,
+    and evaluation experiments, refining models based on
+    statistical analysis and performance metrics.
+  - Security & Compliance: Ensure that AI/ML solutions adhere to
+    security best practices and data privacy regulations
+    (e.g., GDPR).
+
+  Technical Qualifications
+
+  - Python Expertise: 3–5 years of hands-on experience with
+    Python programming.
+  - ML/DL Experience: 3–5 years of experience building,
+    training, and deploying Machine Learning and Deep Learning
+    models.
+  - Deep Learning Frameworks: Proficiency with TensorFlow,
+    PyTorch, and Keras.
+  - Web Frameworks: Solid experience with Python web frameworks
+    (Flask, Django) for API development.
+  - Core Libraries: Strong expertise in NumPy, Pandas,
+    Matplotlib, Scikit-learn, SpaCy, NLTK, and HuggingFace
+    Transformers.
+  - Algorithms & Techniques: Deep understanding of ML/DL
+    algorithms, with advanced techniques in NLP and/or
+    Computer Vision.
+  - Production-Grade AI: Proven experience designing and
+    deploying AI solutions leveraging LLMs and RAG.
+  - NLP & Conversational AI: Hands-on expertise in text
+    representation, semantic extraction, sentiment analysis,
+    and conversational AI.
+  - Concurrency: Practical knowledge of multithreading,
+    concurrency, and asynchronous programming in Python.
+  - Database Proficiency: Advanced skills in SQL (PostgreSQL,
+    MySQL, SQLite, MariaDB) and NoSQL (MongoDB) databases.
+  - Deployment & MLOps: Experience with containerization
+    (Docker/Kubernetes), cloud platforms (AWS, Azure, GCP),
+    and familiarity with MLOps principles for CI/CD,
+    monitoring, and logging.
+  - Version Control: Proficient understanding of Git and
+    Bitbucket for software version control.
+  - C++: Experience with C++ development is a plus.
+
+  Soft Skills
+
+  - Analytical Thinking: Strong analytical and structured
+    problem-solving capabilities.
+  - Proactive Problem-Solving: Logical reasoning and a hands-on
+    approach to debugging and optimization.
+  - Team Collaboration: Effective interpersonal skills to work
+    seamlessly with cross-functional teams.
+  - Clear Communication: Excellent ability to articulate
+    technical concepts to diverse audiences.
+  - Continuous Learning: Commitment to staying current on
+    emerging trends in AI/ML, NLP, and Computer Vision.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-22
+url: "https://builtin.com/job/sr-ai-ml-developer/11307523"
+source: Built In

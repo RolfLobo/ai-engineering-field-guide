@@ -1,0 +1,230 @@
+job_id: 11289973
+title: Applied AI Engineer
+company: Groundswell
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Who Are We?  Groundswell is a premier technology integrator
+  and solution provider, resolutely committed to solving the
+  most complex challenges facing federal agencies today. Our
+  name, Groundswell, represents our commitment to be an
+  unstoppable, seismic change in government. Ours is a small
+  company culture with big company reach and results.  Are you
+  ready to be audacious, be bold and drive change at a rapid
+  pace?  Join us, where we’ll make a greater impact together.
+
+
+  What You'll do:
+
+  We are looking for an engineer who can take a business
+  problem, define both the requirements and the technical
+  approach, and deliver the result, including recognizing when
+  AI is not the right solution.
+
+  This is a hands-on role with substantial autonomy. You will
+  own capabilities end to end, covering the discovery
+  conversation, the design, the build, the evidence that the
+  capability performs, and its operation after release. You’ll
+  work ahead of the direction you are given rather than
+  waiting for it.
+
+  The work spans client delivery, internal product
+  development, rapid proofs of concept, and internal
+  enablement. You should be comfortable moving between them,
+  and comfortable being the most AI-literate person in a room
+  that includes engineers, executives, and end users.
+
+  This is an emerging leadership role. You will be the person
+  engineers consult when they are new to AI, and the person
+  clients ask about what is coming next. Maintaining current
+  knowledge of the field is part of the role rather than
+  something done on your own time.
+
+  Responsibilities
+
+  - Lead requirements conversations with business and technical
+    stakeholders, covering the workflow, the decision being
+    supported, the current standard for acceptable results,
+    and the constraints that were not raised initially.
+
+  - Define the technical approach and defend it. Select the AI
+    pattern appropriate to the problem, such as extraction,
+    classification, summarization, retrieval, or an agentic
+    workflow, rather than defaulting to the most sophisticated
+    option available.
+
+  - Recommend against AI when a simpler solution is the right
+    one. Rules, process changes, and improved interfaces are
+    often the correct answer, and identifying that early is
+    part of the job.
+
+  - Define measurable success criteria before building,
+    including accuracy targets, human review thresholds,
+    acceptance conditions, and the definition of failure.
+
+  - Build the complete capability rather than the AI components
+    alone. This includes prompt and retrieval design,
+    structured outputs, tool and function definitions, API
+    integration, data handling, error states, and the user
+    interface. Adoption usually depends on these supporting
+    elements as much as on model performance.
+
+  - Build evaluation sets from real data and measure against
+    them. Iterate based on results rather than intuition, and
+    determine when a capability is ready for deployment.
+
+  - Make and defend architecture decisions within your scope,
+    weighing quality, cost, latency, security, and
+    authorization constraints.
+
+  - Operationalize capabilities in the client environment,
+    including governance, logging, and traceability
+    requirements. Monitor quality, cost, latency, and drift
+    after launch, and optimize as better or less expensive
+    options become available.
+
+  - Help clients understand what is possible. Anticipate needs,
+    shape the next phase of work, and build the proof of
+    concept that supports the case.
+
+  - Mentor engineers who are new to AI through code review,
+    pairing, and guidance toward the appropriate pattern for a
+    given problem.
+
+  - Maintain current knowledge of models, tooling, and
+    techniques, and bring back what proves useful as reusable
+    patterns for the team.
+
+  - Move between client delivery, internal product work, rapid
+    proofs of concept, and internal enablement as the work
+    requires.
+
+  - Produce clear documentation covering what the solution does,
+    its known limitations, how it was validated, and what
+    happens when it produces an incorrect result.
+
+  Required qualifications
+
+  - 4+ years building and shipping production software.
+
+  - At least 1 year of hands-on experience building applications
+    that integrate large language models, including prompt
+    engineering, retrieval-augmented generation, structured
+    extraction, tool use, and agent patterns.
+
+  - Demonstrated ability to own a capability end to end, from an
+    ambiguous requirement through to something in production
+    that people rely on.
+
+  - Demonstrated experience evaluating AI system quality,
+    including building test sets, defining metrics, and making
+    deployment decisions based on evidence.
+
+  - Strong programming ability in a general-purpose language
+    such as Python, TypeScript, or SQL, applied across the
+    full application rather than the AI layer alone.
+
+  - Proven ability to lead requirements conversations with non-
+    technical stakeholders and translate what you hear into a
+    technical approach.
+
+  - Sound judgment on tradeoffs between accuracy, cost, latency,
+    and complexity, with the ability to explain those
+    tradeoffs to both engineers and executives.
+
+  - Excellent written communication. This role produces client-
+    facing documentation and design rationale.
+
+  - Ability to work independently through ambiguous
+    requirements, define an appropriate technical approach,
+    and drive work through implementation and delivery with
+    minimal direction.
+
+  - Willingness to teach. Developing the capability of others is
+    valued alongside individual delivery.
+  - U.S. Citizenship required. Ability to obtain and maintain
+    any federal government background investigation,
+    suitability determination, or security clearance required
+    by assigned client engagements.
+
+  Preferred qualifications
+
+  - Master’s degree in a relevant field such as Data Science,
+    Business Analytics, Mathematics, or Computer Science.
+
+  - Experience with a low-code or application platform such as
+    Appian, OutSystems, Mendix, Microsoft Power Platform,
+    ServiceNow, or Salesforce.
+
+  - Public sector or regulated-industry delivery experience,
+    including compliance and authorization processes.
+
+  - Experience with cloud AI services such as AWS Bedrock or
+    Azure OpenAI.
+
+  - Familiarity with LLM evaluation or observability tooling.
+
+  - Prior consulting, solutions engineering, professional
+    services, or embedded client work.
+
+  Skills:
+
+  Certification:
+
+  Why You’ll Never Want to Leave:
+
+  - Comprehensive medical, dental, and vision plans
+  - Flexible Spending Account
+  - 4% 401K Match (immediate vesting)
+  - Paid Time Off
+  - Tuition reimbursement, certification programs, and
+    professional development
+  - Flexible work schedule
+  - On-site gym and childcare option
+
+  The salary range for this role takes into account the wide
+  range of factors that are considered in making compensation
+  decisions, including but not limited to skill sets,
+  experience and training; licensure and certifications; and
+  other business and organizational needs. The disclosed range
+  estimate has not been adjusted for any applicable geographic
+  differential associated with the location at which the
+  position may be filled. At Groundswell, it is not typical
+  for an individual to be hired at or near the top of the
+  range for their role, and compensation decisions are
+  dependent on the facts and circumstances of each case. A
+  reasonable estimate of the current range is:
+
+  $88,177.00 - $171,637.00
+
+  NOTE: Groundswell does not accept unsolicited resumes
+  through or from search firms or staffing agencies. All
+  unsolicited resumes will be considered the property of
+  Groundswell, and Groundswell will not be obligated to pay a
+  placement fee.
+
+  Equal Opportunity Employer. All qualified applicants will
+  receive consideration for employment without regard to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, age, pregnancy, genetic information,
+  disability, status as a protected veteran, or any other
+  protected category under applicable federal, state, and
+  local laws.
+
+  Read a copy of the Company’s Non-Discrimination Policy
+  Statement. Additional Resources:
+
+  - EO 13496 Notification of Employee Rights under NLRA
+  - Know your rights: Workplace Discrimination is Illegal
+
+  Disability Accessibility Accommodation: If you are an
+  individual with a disability and would like to request a
+  reasonable accommodation as part of the employment selection
+  process, please contact us at hr@gswell.com or 703-639-1777.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-21
+url: "https://www.builtinla.com/job/applied-ai-engineer/11289973"
+source: Built In

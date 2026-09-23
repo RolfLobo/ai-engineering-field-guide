@@ -1,0 +1,55 @@
+company:
+  name: Arcesium
+  stage: null
+  focus: |-
+    Financial technology and data solutions for financial
+    institutions
+position:
+  title: Forward Deployed Engineer - AI Transformation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent architectures, prototypes with LLMs
+      and agent frameworks, and ships agent-based automations,
+      which is directly shaping LLM/agent behavior. It is a
+      forward deployed engineer adapting AI solutions, classified
+      ai-first.
+  responsibilities:
+  - Partner with business and functional teams to identify high-impact AI use cases
+  - Convert ambiguous operational problems into structured problem statements and
+    system designs
+  - Build agents, workflow automations, and internal applications on corporate data
+    systems and enterprise tools
+  - Rapidly prototype using LLMs, agent frameworks, and MCPs, iterating on user feedback
+  - Design agent architectures that complete business tasks reliably
+  - Move prototypes into scalable, maintainable production solutions with engineering
+    and security teams
+  - Evaluate build-vs-buy options for AI workflows
+  - Create reusable components, templates, and playbooks; define KPIs and drive adoption
+  use_cases:
+  - Internal workflow automation
+  - AI-assisted decision-making
+  - Agent-driven automation of manual business processes
+  - Internal tools built on corporate data and enterprise systems
+  skills:
+    genai: [LLMs, AI Agents, MCP]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10595706'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:00:12.443839'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

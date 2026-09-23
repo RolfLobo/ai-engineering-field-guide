@@ -1,0 +1,125 @@
+job_id: 11147296
+title: "Full Stack Developer – Microsoft Fabric & AI Integration"
+company: EbizON
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 345 Employees
+description: |
+  Full Stack Developer – Microsoft Fabric & AI Integration
+
+  Experience: 3+ Years Primary Skills: Python/.NET, Microsoft
+  Fabric, REST APIs, Azure, SQL Secondary Skills: AI/LLM
+  Integration, RAG, Power BI
+
+  Role Overview
+
+  We are looking for a Full Stack Developer with 3+ years of
+  experience in building enterprise applications and
+  integrations, with hands-on exposure to Microsoft Fabric and
+  Azure technologies.
+
+  The ideal candidate should have strong backend development
+  experience using Python, .NET/C# or similar technologies,
+  along with experience building REST APIs, integrating
+  enterprise systems and working with modern data platforms.
+  Experience with Microsoft Fabric, AI/LLM applications and
+  RAG-based solutions will be highly preferred.
+
+  Key Responsibilities
+
+  - Design and develop scalable enterprise applications using
+    Python, .NET/C# or similar backend technologies.
+  - Develop and integrate REST APIs and enterprise applications.
+  - Build integrations between applications, databases, APIs and
+    Microsoft/Azure services.
+  - Develop data solutions using Microsoft Fabric, including
+    Lakehouse, OneLake, Data Warehouse and Data Pipelines.
+  - Work with SQL databases and modern data architectures.
+  - Build and maintain ETL/ELT workflows for application and
+    analytics use cases.
+  - Integrate LLMs and generative AI capabilities into
+    enterprise applications.
+  - Develop or support RAG-based applications using enterprise
+    data sources.
+  - Work with Azure services for application hosting,
+    integration, storage and data processing.
+  - Collaborate with product, data, AI and business teams to
+    translate requirements into technical solutions.
+  - Troubleshoot application, API, integration and data-pipeline
+    issues.
+  - Follow software engineering best practices including Git,
+    code reviews, testing and CI/CD.
+
+  Required Skills
+
+  - 3+ years of Full Stack / Backend Development experience
+  - Strong development experience in Python, .NET/C# or similar
+    backend technology
+  - REST API design, development and integration
+  - SQL and relational database experience
+  - Enterprise application and system integration
+  - Hands-on experience or strong working knowledge of Microsoft
+    Fabric
+  - Fabric Data Factory / Data Pipelines
+  - OneLake / Lakehouse / Data Warehouse concepts
+  - Azure cloud services
+  - Git and CI/CD
+  - Strong debugging and problem-solving skills
+
+  AI & Data Experience
+
+  Candidates should have exposure to one or more of the
+  following:
+
+  - RAG (Retrieval-Augmented Generation) applications
+  - LLM/API integration
+  - Azure OpenAI or similar AI platforms
+  - Vector databases / embeddings
+  - Python-based AI application development
+  - Microsoft Fabric data engineering
+  - PySpark and Fabric Notebooks
+
+  Front-End Experience
+
+  Working knowledge of a modern front-end framework such as:
+
+  - React
+  - Angular
+  - JavaScript / TypeScript
+  - HTML/CSS
+
+  The role is backend and integration heavy, so deep front-end
+  specialization is not mandatory.
+
+  Good to Have
+
+  - Power BI and Fabric Semantic Models
+  - Direct Lake
+  - Azure Functions / App Service
+  - Azure DevOps
+  - Azure Data Factory or Synapse
+  - Docker/containerization
+  - Microsoft Fabric or Azure certifications
+  - Experience developing AI-enabled enterprise applications
+
+  Ideal Candidate Profile
+
+  The ideal candidate is a Full Stack Developer who can bridge
+  application development, data engineering and AI
+  integration.
+
+  We are specifically looking for someone who can build
+  enterprise applications and APIs while also working
+  comfortably with Microsoft Fabric, Azure data services and
+  AI/LLM integrations. Pure front-end developers or candidates
+  whose Fabric experience is limited to
+  certification/theoretical knowledge would not be the right
+  fit.
+industries:
+  - eCommerce
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-12
+url: "https://builtin.com/job/full-stack-developer-microsoft-fabric-ai-integration/11147296"
+source: Built In

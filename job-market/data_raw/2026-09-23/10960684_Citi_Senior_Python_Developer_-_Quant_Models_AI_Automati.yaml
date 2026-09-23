@@ -1,0 +1,198 @@
+job_id: 10960684
+title: Senior Python Developer - Quant Models AI Automation - Vice President
+company: Citi
+location: New York, USA
+work_type: FULL_TIME
+company_size: 223,850 Employees
+description: |
+  We are seeking a Senior Python Developer within Risk
+  Technology to join a multi-year strategic initiative: the
+  design and delivery of AI-enabled automation across the end-
+  to-end quantitative model lifecycle, covering all market
+  risk and credit risk models.
+
+  This is a hands-on engineering role at the core of the
+  program. You will design and build the tooling and services
+  that power AI-assisted model documentation, automated model
+  testing and validation workflows, large-scale risk data
+  analysis, and model lifecycle management. You will work
+  closely with quantitative analysts, model validators, data
+  engineers, and the program leadership to translate workflow
+  automation requirements into robust, production-grade
+  solutions.
+
+
+  Key Responsibilities:
+
+  Engineering & Delivery:
+
+  - Design, develop, and maintain Python-based services,
+    pipelines, and tools supporting automation of the
+    quantitative model lifecycle across market risk and credit
+    risk model families.
+  - Build and operate automated testing and validation
+    frameworks for quantitative models, including test
+    orchestration, result capture, benchmarking, and
+    reporting.
+  - Develop data analysis and reconciliation tooling over large-
+    scale risk datasets, ensuring data quality, lineage, and
+    traceability across risk platforms.
+  - Contribute to model lifecycle management tooling: model
+    inventory, workflow orchestration, approvals, periodic
+    reviews, and audit-ready evidence generation.
+
+  AI Enablement:
+
+  - Implement AI/ML components within the model workflow,
+    including LLM-based automation for model documentation
+    generation and updating, intelligent data quality checks,
+    and workflow assistance.
+  - Integrate AI tooling into a controlled, auditable,
+    production-grade environment, with appropriate testing,
+    monitoring, and governance controls.
+  - Stay current with developments in applied AI/ML and evaluate
+    their applicability to risk technology use cases.
+
+  Collaboration & Standards:
+
+  - Work within a cross-functional agile team alongside quants,
+    validators, data engineers, and program management.
+  - Promote engineering best practices: code quality, testing,
+    CI/CD, documentation, and secure, scalable design.
+  - Mentor junior developers and contribute to technical design
+    reviews.
+
+  Required Qualifications:
+
+  - 7+ years of professional software development experience,
+    with deep expertise in Python and its data/engineering
+    ecosystem (e.g., pandas, NumPy, FastAPI, orchestration
+    tools).
+  - Proven track record of delivering production-grade
+    automation, data pipelines, or testing frameworks in a
+    complex enterprise environment; financial services
+    experience strongly preferred.
+  - Solid AI/ML knowledge, including practical experience with
+    machine learning libraries and/or LLM-based application
+    development (e.g., API integration, prompt engineering,
+    RAG-style document workflows).
+  - Strong experience with test automation, CI/CD, and modern
+    software engineering practices (Git, code review,
+    containerization).
+  - Experience working with large datasets, data
+    quality/linearity checks, and SQL; familiarity with
+    enterprise data platforms.
+  - Ability to work effectively in a cross-functional, global
+    team and communicate technical concepts to non-technical
+    stakeholders
+
+  Preferred Qualifications:
+
+  - Exposure to quantitative risk models (market risk and/or
+    credit risk) and the model lifecycle: development,
+    validation, documentation, and ongoing monitoring.
+  - Familiarity with the model risk regulatory landscape and
+    governance expectations in banking.
+  - Experience with workflow orchestration platforms, cloud
+    environments (AWS/Google Cloud), and container
+    orchestration (Docker/Kubernetes).
+  - Background in quantitative finance, statistics, or data
+    science; an advanced quantitative degree is a plus.
+  - Experience mentoring engineers and leading small technical
+    workstreams.
+
+  Education
+
+  - STEM degree (Computer Science, Engineering, Mathematics,
+    Statistics, Physics, or related); Master's degree
+    preferred.
+
+  ------------------------------------------------------
+
+  Job Family Group: Technology
+
+  ------------------------------------------------------
+
+  Job Family:Applications Development
+
+  ------------------------------------------------------
+
+  Time Type:Full time
+
+  ------------------------------------------------------
+
+  Primary Location:New York New York United States
+
+  ------------------------------------------------------
+
+  Primary Location Full Time Salary Range:$142,320.00 -
+  $213,480.00
+
+  In addition to salary, Citi’s offerings may also include,
+  for eligible employees, discretionary and formulaic
+  incentive and retention awards. Citi offers competitive
+  employee benefits, including: medical, dental & vision
+  coverage; 401(k); life, accident, and disability insurance;
+  and wellness programs. Citi also offers paid time off
+  packages, including planned time off (vacation), unplanned
+  time off (sick leave), and paid holidays. For additional
+  information regarding Citi employee benefits, please visit
+  citibenefits.com. Available offerings may vary by
+  jurisdiction, job level, and date of hire.
+
+  ------------------------------------------------------
+
+  Most Relevant Skills Please see the requirements listed
+  above.
+
+  ------------------------------------------------------
+
+  Other Relevant Skills For complementary skills, please see
+  above and/or contact the recruiter.
+
+  ------------------------------------------------------
+
+  Anticipated Posting Close Date:Sep 08, 2026
+
+  ------------------------------------------------------
+
+  Automated Processing and AI
+
+  We use automated processing, including artificial
+  intelligence, for our legitimate business interests (or our
+  reasonable and appropriate business purposes) to identify
+  and align the candidate's skills and abilities with a
+  specific job opening. Additionally, if you so choose, or
+  consent, we can match your skills and abilities to other
+  suitable roles at Citi.
+
+  Importantly, all our hiring processes and decisions,
+  including determining your suitability for a role, are
+  conducted, checked, and decided by individuals. Our
+  automated processing and AI do not involve relying on
+  automatic or autonomous decision-making. Please refer to any
+  Jurisdictional Considerations, with specific provisions for
+  your country (where relevant) for further details.
+
+  Illinois residents – AI Notice and Right
+
+  ------------------------------------------------------
+
+  Citi is an equal opportunity employer, and qualified
+  candidates will receive consideration without regard to
+  their race, color, religion, sex, sexual orientation, gender
+  identity, national origin, disability, status as a protected
+  veteran, or any other characteristic protected by law.
+
+
+
+  If you are a person with a disability and need a reasonable
+  accommodation to use our search tools and/or apply for a
+  career opportunity review Accessibility at Citi. View Citi’s
+  EEO Policy Statement and the Know Your Rights poster.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-09-01
+url: "https://builtin.com/job/senior-python-developer-quant-models-ai-automation-vice-president/10960684"
+source: Built In

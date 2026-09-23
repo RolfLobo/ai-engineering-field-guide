@@ -1,0 +1,162 @@
+job_id: 10731089
+title: Python Engineer (AI/Platform/Modelling/Data)
+company: Modo Energy
+location: London, GBR
+work_type: FULL_TIME
+company_size: 40 Employees
+description: |
+  About Modo Energy
+
+  The energy transition is the biggest infrastructure buildout
+  in human history. Modo Energy is the data platform at the
+  centre of it.
+
+  We build the benchmarking, forecasting, and valuation tools
+  that the world's most serious energy investors, developers,
+  and operators depend on to make decisions. If a battery gets
+  financed, built, or traded anywhere in the world, there's a
+  good chance Modo data was in the room.
+
+  Founded in 2019, we're 90+ people across London, New York,
+  Sydney, and Madrid; $30M Series B, AI-native, and moving
+  fast.
+
+  This is a rare chance to join a category-defining company at
+  the moment it's scaling globally.
+
+  The Role
+
+  Modo Energy's engineering team builds the systems behind the
+  Modo Terminal, the data, research, and agentic platform that
+  energy market professionals rely on every day. We're growing
+  fast, and our ambitions are growing faster: from serving
+  data and research to letting users (and their AI agents)
+  query, forecast, and act on it directly.
+
+  We're hiring backend Python engineers to join one of our
+  product teams: Terminal, Data, Ko (our AI Analyst), or
+  Modelling. Each team owns a business capability end-to-end,
+  including its own APIs, data pipelines, AWS infrastructure,
+  and developer tooling. Wherever you land, you'll be building
+  production systems from day one, with ownership over what
+  you ship and how.
+
+  We're looking for engineers who learn fast and go wide. You
+  won't be boxed into a single layer of the stack; the best
+  people on our teams move fluidly between building a feature,
+  hardening a pipeline, fixing an infra issue, and automating
+  away the next one. If you're the kind of engineer who picks
+  up a new tool, library, or part of the codebase without
+  needing much of a runway, this is built for you.
+
+  What You'll Do
+
+  - Build and maintain backend services and APIs, on Django,
+    FastAPI, or similar, that power a live product used daily
+    by energy market professionals.
+  - Design and operate data pipelines that ingest, transform,
+    and serve energy market data reliably and at scale.
+  - Own AWS infrastructure and deployment end-to-end using
+    Terraform, from local development through to production.
+  - Build the monitoring, observability, and alerting that let
+    your team catch problems before customers do.
+  - Split your time between shipping new features and keeping
+    the platform healthy. Maintenance, performance, and
+    production issues are a normal, expected part of the job,
+    not an interruption to it.
+  - Design internal tools such as CLIs, APIs, and MCP servers
+    that make your team and others faster, and that let both
+    humans and AI agents work with our data safely and
+    effectively.
+  - Work directly with the people who understand the domain
+    (energy analysts, data scientists, modellers) to make sure
+    what you build is accurate and actually useful.
+  - Contribute to the infrastructure behind our LLM-powered AI
+    Analyst as needed: retrieval pipelines, tool-calling, and
+    the plumbing that lets models work with real energy market
+    data.
+  - Cross into the parts of the stack outside your core comfort
+    zone when the team needs it, whether that's a bit of
+    frontend or a bit of deeper infra, and pick up what you
+    don't already know.
+
+  What We’re Looking For
+
+  The Essentials
+
+  - 3+ years of professional Python experience, with strong
+    backend fundamentals. You write clean, well-structured
+    code and are comfortable owning something end-to-end, from
+    design through deployment and monitoring.
+  - Real, hands-on experience with AWS and infrastructure-as-
+    code (Terraform). You've run production infrastructure,
+    not just experimented with it.
+  - Proficiency with Django, FastAPI, or a comparable async
+    Python framework.
+  - Experience with data pipelines and relational databases
+    (PostgreSQL), and building systems that serve data
+    reliably at scale.
+  - Expert-level use of AI coding tools (Cursor, Claude Code,
+    GitHub Copilot, or similar). You know when to trust them,
+    when to intervene, and how to get real leverage from them.
+    We write a lot of code this way.
+  - A fast learner with good judgement, comfortable making calls
+    on system design and what's good enough to ship, and
+    genuinely energized by picking up unfamiliar tools,
+    stacks, or problem areas rather than staying in one lane.
+  - Comfortable in a small, fast-moving team where you're
+    expected to figure things out, make trade-offs, and ship,
+    with real autonomy over how.
+
+  Nice to have
+
+  - Experience with LLM-powered applications: RAG pipelines,
+    tool-calling architectures, or agentic systems.
+  - Experience designing external-facing APIs, including
+    versioning, backwards compatibility, and OpenAPI/REST
+    standards.
+  - Familiarity with data infrastructure such as Airflow, Spark,
+    Iceberg, or Kafka.
+  - Experience with energy markets.
+
+  Equal Opportunity
+
+  Modo Energy is an equal opportunity employer. Employment
+  decisions are made on the basis of qualifications, merit,
+  and business need. We do not discriminate on the basis of
+  race, colour, religion, national origin, sex, age,
+  disability, sexual orientation, gender identity or
+  expression, pregnancy, or any other characteristic protected
+  by law.
+
+  If you require assistance or a reasonable accommodation
+  during the application or interview process, please contact
+  us at careers@modoenergy.com.
+
+  What You Can Expect From Us
+
+  At Modo Energy, we believe that exceptional work deserves
+  exceptional reward. We're a high-performance team;
+  ambitious, collaborative, and genuinely motivated by the
+  scale of what we're trying to build.
+
+  You'll have real ownership from day one, work alongside some
+  of the brightest people in the industry, and be part of a
+  company that's defining a new category in the global energy
+  market. We're hybrid: everyone works Tuesday to Thursday in
+  office, with Monday and Friday flexible. We offer top-of-
+  market compensation, equity for every employee, and the
+  space to take your career wherever you want it to go.
+
+  We're looking for people who want to do the best work of
+  their careers. If that's you, we want to talk.
+industries:
+  - Fintech
+  - Information Technology
+  - Payments
+  - Consulting
+  - Energy
+  - Financial Services
+posted_date: 2026-08-18
+url: "https://builtin.com/job/python-engineer-terminal-modelling-data/10731089"
+source: Built In

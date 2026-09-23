@@ -1,0 +1,48 @@
+company:
+  name: IFS
+  stage: null
+  focus: |-
+    Enterprise AI-native software for asset and operations
+    management
+position:
+  title: Full Stack Engineer - AI Engineering - New Capabilities
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is software engineering, optimization modeling
+      (constraint/linear programming), and customer-embedded
+      delivery on a scheduling platform. AI appears only as AI-
+      assisted and agentic coding workflows the engineer uses to
+      ship faster, which is explicitly not shaping model behavior,
+      so this is ai-support despite the AI-first branding.
+  responsibilities:
+  - Partner directly with customers to translate real-world scheduling and planning
+    problems into optimization models
+  - Configure, extend, and debug the core scheduling engine and related components
+    against live customer datasets
+  - Build and iterate on new solutions with customer teams under tight deadlines
+  - Feed field learnings back to core product and engineering teams
+  - Diagnose and resolve optimizer performance and quality issues
+  use_cases:
+  - Enterprise resource planning and scheduling optimization
+  - Workforce scheduling for large organisations
+  - Field service and asset operations management
+  skills:
+    genai: [Agentic Workflows]
+    ml: [Constraint Programming, Linear Programming]
+    web: [Angular]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, Automated Testing, DevOps]
+    languages: [C#, TypeScript]
+    domains: []
+    other: [.NET, Heuristics, Algorithm Development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11178667'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:23:22.671015'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,173 @@
+job_id: 10959368
+title: AI Acceleration Engineer
+company: Decagon
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 49 Employees
+description: |
+  About Decagon
+
+  Decagon is the leading conversational AI platform empowering
+  every brand to deliver concierge customer experiences.
+
+  Our technology enables industry-defining enterprises like
+  Avis Budget Group, Block’s Cash App and Square, Chime, Oura
+  Health, and Hunter Douglas to deploy AI agents that power
+  personalized, deeply satisfying interactions across voice,
+  chat, email, SMS, and every other channel.
+
+  We’re building a future where customer experiences are being
+  redefined from support tickets and hold music to faster
+  resolutions, richer conversations, and deeper relationships.
+  We’re proud to be backed by world-class investors who share
+  that vision, including a16z, Accel, Bain Capital Ventures,
+  Coatue, and Index Ventures, along with many others.
+
+  We’re an in-office company, driven by a shared commitment to
+  excellence and velocity. Our values — Just Get It Done,
+  Invent What Customers Want, Winner’s Mindset, and The
+  Polymath Principle — shape how we work and grow as a team.
+
+  About the Team
+
+  This role rolls up into the AI Acceleration team, within the
+  broader Finance Org today - though our mandate reaches far
+  beyond it. We're pushing to leverage AI across the entire
+  organization, creating multiples of efficiency in how every
+  function operates. We partner closely across Finance,
+  Accounting, People, Legal, and Sales to develop solutions in
+  a meaningful way. We execute and deliver at extremely fast
+  velocity.
+
+
+
+  About the Role
+
+  Decagon is growing fast, and we're looking for an AI
+  Acceleration Engineer to build the systems the company runs
+  on and make AI a practical part of how every team works.
+
+  You'll extend the platform that already serves as our source
+  of truth for contracts and customers, automate the billing,
+  collections, and close work that still takes days of manual
+  effort each month, and replace processes running on
+  spreadsheets with systems people can trust. You'll also AI-
+  pill the rest of the company, giving them the MCP servers,
+  skills, agents, and artifacts to automate their own work.
+
+  This isn't a role about evaluating tools and writing decks.
+  It's a hands-on technical role: you'll own what you build
+  and keep owning it, working directly with the people whose
+  processes you're changing. Because this space moves every
+  few weeks, you'll be the one deciding what's worth adopting
+  and getting it into people's hands. If you see manual
+  processes as problems to engineer away, and have the range
+  to do it, this role was built for you.
+
+
+
+  In this role, you will
+
+  - Own projects end to end, from requirements gathering and
+    solution design through development, testing, deployment,
+    and ongoing maintenance.
+  - Build and maintain the web applications and integrations
+    internal teams run on, from existing systems such as our
+    internal contract and revenue platform to new tools you
+    design and stand up from scratch.
+  - Work with stakeholders across Finance, Accounting, Legal,
+    People, and Recruiting to surface new use cases and areas
+    to automate, and determine whether each calls for a custom
+    build, an AI vendor, or a hybrid approach.
+  - Take on major workstreams as they come up: billing, revenue
+    recognition, usage data ingestion, and reconciliation
+    across our internal data, the ERP, and Salesforce.
+  - Build the interfaces that let others work with our systems
+    through AI, including MCP servers, skills, and agent-
+    facing tooling, and enable power users across the business
+    to handle the simpler automations themselves.
+  - Measure and communicate impact back to leadership: time
+    saved, cost reduced, errors eliminated.
+
+
+
+  Your background looks something like this
+
+  - You have 6+ years of hands-on experience building the
+    internal tools, systems, and automations that business
+    teams rely on — internal tooling, business systems, and/or
+    revenue and finance operations.
+  - You have owned projects across the full lifecycle, from
+    requirements gathering through deployment and ongoing
+    maintenance.
+  - You're technical enough to build production-quality internal
+    tools, but you're not looking for a product engineering
+    role — the work here is solving business problems, and
+    that's where you want to spend your time.
+  - You're a strong generalist who could go deep on billing one
+    quarter and rebuild a recruiting workflow the next.
+  - You have sound instincts for how systems should be built —
+    how data flows, where things break, and what it takes for
+    someone else to maintain your work. Fundamentals matter
+    more here than familiarity with any particular tool.
+  - You know when a workflow calls for an agentic/AI approach
+    and when a deterministic pipeline is the better answer.
+  - You have hands-on experience with AI-native coding tools
+    such as Claude Code, Codex, Cursor and have used them to
+    ship production solutions. Coding experience is preferred:
+    Python, TypeScript, or JavaScript; working with APIs; and
+    deploying what you build.
+  - You build trust quickly with Finance, Accounting, Legal, and
+    People, and can independently drive complex projects under
+    ambiguity without needing formal authority to get things
+    done.
+
+
+
+  Even better if you have
+
+  - You've led AI acceleration / transformation initiatives —
+    you know the common failure modes and how to avoid them.
+  - You have a product mindset: you don't just build
+    automations, you build things people actually adopt and
+    love using.
+  - You have hands-on GCP experience — Cloud Run, BigQuery,
+    Cloud Functions, Pub/Sub — and have built custom MCP
+    servers, not just used them.
+  - You've worked on billing or revenue systems, or been through
+    an ERP implementation
+
+
+
+  Compensation $180K - $220K + Equity
+
+  Benefits
+
+  We proudly offer the following benefits for our full-time
+  employees:
+
+  - Medical, Dental, and Vision benefits for you and your family
+  - Life Insurance and Disability Benefits
+  - Retirement Plan (e.g., 401K, pension)
+  - Parental Leave
+  - Fertility and family building benefits through Carrot
+  - Monthly stipend to support your wellness, lifestyle, and
+    work-life balance
+  - Daily lunches and snacks in the office to keep you at your
+    best
+  - Take what you need vacation policy (subject to local
+    requirements; UK employees receive 25 days of statutory
+    leave)
+
+  These benefits are described in more detail in Decagon’s
+  policies, may vary by location, and can change at any time
+  according to applicable compensation and benefits plans.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-09-01
+url: "https://builtin.com/job/ai-acceleration-engineer/10959368"
+source: Built In

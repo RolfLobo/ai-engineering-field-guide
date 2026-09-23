@@ -1,0 +1,52 @@
+company:
+  name: Elliptic
+  stage: null
+  focus: Blockchain analytics and crypto financial crime compliance
+position:
+  title: Senior AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, agents, tool
+      integrations, retrieval pipelines, prompt engineering, and
+      LLM evaluation frameworks — all direct shaping of LLM
+      behavior, so ai-first.
+  responsibilities:
+  - Design and build agentic workflows and AI-powered features for Elliptic's copilot
+    using LangChain/LangGraph
+  - Lead design of agents, tool integrations, and retrieval pipelines over blockchain
+    data
+  - Build and own evaluation frameworks measuring quality, reliability, and latency
+    of LLM outputs
+  - Design and build backend services, APIs, and event-driven systems in TypeScript/Node.js
+  - Drive technical design reviews and architecture decisions for AI workstreams
+  - Mentor junior engineers through pairing, code review, and design feedback
+  - Promote practices in testing, observability, and AI system reliability
+  - Influence cross-team decisions on integrating AI capabilities with the platform
+  use_cases:
+  - Copilot helping compliance investigators trace blockchain fund flows
+  - Surfacing patterns and risk signals in financial crime investigations
+  - Turning complex blockchain data into useful answers via agents and retrieval
+  - Real-time risk response for crypto compliance
+  skills:
+    genai: [LangChain, LangGraph, Agentic Workflows, AI Agents, Function Calling,
+      RAG, Prompt Engineering, Structured Outputs, LLM Evaluation, LLMs, Multi-Agent
+        Systems, Fine-Tuning, Anthropic API, OpenAI API]
+    ml: []
+    web: [APIs]
+    databases: [PostgreSQL, NoSQL, Vector Databases, pgvector, Pinecone]
+    data: []
+    cloud: [AWS, AWS Lambda, ECS, AWS S3]
+    ops: [LangSmith, Langfuse, Datadog, Terraform, Kubernetes, Infrastructure as Code,
+      Observability]
+    languages: [TypeScript, Node.js, SQL]
+    domains: []
+    other: [Event-Driven Architecture, GitHub Copilot, Cursor, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11252603'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:32:53.581979'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

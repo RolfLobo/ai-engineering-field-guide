@@ -1,0 +1,156 @@
+job_id: 10927001
+title: Staff Engineer - AI Technology
+company: Syngenta Group
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 56,000 Employees
+description: |
+  Company Description
+
+  About Syngenta At Syngenta Group, we're a global community
+  of 56,000 innovators across 90 countries, united by a
+  250-year legacy of agricultural excellence. As the world's
+  most local agricultural technology partner, we create
+  tailor-made solutions that transform farming while
+  protecting our planet, driven by our commitment to
+  innovation, ethics, and integrity. Through our inclusive
+  environment and diverse perspectives, we pioneer
+  breakthrough solutions for farmers, society, and future
+  generations. Join our worldwide teams of agricultural
+  pioneers in creating a more resilient and equitable food
+  system for all.
+
+  Job Description
+
+  Position Summary :
+
+  At Syngenta, our goal is to build the most collaborative and
+  trustworthy team in agriculture, providing top-quality seeds
+  and innovative crop protection solutions that improve
+  farmers' success. To support this mission, Syngenta’s Data &
+  Analytics is seeking a Staff Engineer- AI in Pune. This role
+  will be responsible for designing and implementing a robust,
+  scalable, and maintainable solution em-powering our
+  organization scale and innovate with AI.  This platform will
+  support engineering teams across Syngenta to leverage
+  resources from hyper scalers, internal Data Science teams,
+  as well as building core re useable services.
+
+  You will work closely with our Product Manager, Product
+  Designer, and Engineering teams to design the platform,
+  define best practices, and guide technical decisions
+  ensuring the overall quality and performance of the platform
+
+  The ideal candidate will have a strong background as a Staff
+  Engineer or as an Architect and some experience implementing
+  and using AI (LLM or otherwise) based solutions.
+
+  Accountabilities:
+
+  - Lead the design and architecture of the AI Innovation
+    Platform ensuring scalability, maintainability, and
+    performance.
+  - Collaborate with development teams to understand
+    requirements and provide architectural guidance and
+    support.
+  - Define and promote best practices for software development
+    utilizing AI helping to upskill our teams with new design
+    and architectural patterns.
+  - Stay up to date on latest trends and new technologies in the
+    AI space, evaluate their potential to introduce into our
+    ecosystem based on their potential impact.
+  - Work closely with Product and Business stakeholders to
+    understand the needs of the business and engineering teams
+    ensuring the platform meets the needs of the users.
+  - Define implementation approaches, algorithms, and code
+    structures to meet requirements.
+  - Architect experience and responsibility includes defining,
+    prototyping and recommending the technology solutions,
+    detailing the implementation design and identifying
+    interfaces with other products for integration.
+  - Derive architecturally significant software requirements
+    both functional and quality attributes.
+  - Technical discussions with project partners in globally
+    distributed team.
+
+  Qualifications
+
+  Required Qualifications:
+
+  - Education & Experience: Graduate with 10–12 years of
+    experience in design and development, with strong Object-
+    Oriented Programming fundamentals and excellent
+    troubleshooting, written, and verbal communication skills.
+  - Architecture & Design Principles: Hands-on experience with
+    design patterns, Domain-Driven Design (DDD), Spec-Driven
+    Design (SDD), microservices, serverless architectures, and
+    containerization/orchestration using Docker and
+    Kubernetes.
+  - Cloud & Database Expertise: Proficiency in AWS (preferred)
+    for deploying and managing scalable applications, with
+    working knowledge of SQL and NoSQL databases including
+    PostgreSQL, MySQL, Redis, MongoDB, and DynamoDB.
+  - DevOps & Automation: Proven ability to implement CI/CD
+    pipelines and automation strategies for build, test,
+    deployment, and monitoring using tools like Jenkins,
+    GitHub Actions, or CircleCI.
+  - Performance, Quality & API Standards: Strong grasp of
+    performance optimization (profiling, caching, resource
+    management), code quality frameworks (Jest, Mocha,
+    Jasmine, static analysis), and RESTful/GraphQL API design
+    with a focus on clean, maintainable code.
+  - AI Awareness & Emerging Technologies: Up to date with the
+    latest AI technologies and tools, with the ability to
+    evaluate and recommend appropriate solutions aligned to
+    project requirements.
+
+  Desired Qualifications:
+
+  - Architecture Depth & Design Thinking: Strong grasp of
+    advanced design patterns, DDD, SDD, microservices, and
+    serverless architectures, with hands-on experience in
+    service decomposition, containerization (Docker), and
+    orchestration (Kubernetes) at scale.
+  - DevOps, Quality & Performance Engineering: Experience
+    building end-to-end CI/CD pipelines (Jenkins, GitHub
+    Actions, CircleCI), implementing quality metrics (code
+    coverage, static analysis, automated testing), and
+    applying performance optimization techniques including
+    profiling, caching, and resource management.
+  - Cloud, Data & API Proficiency: Expertise in AWS for
+    deploying scalable applications, with broad database
+    experience (SQL and NoSQL) and strong command of RESTful
+    and GraphQL APIs, backed by a benchmarking and clean-code
+    mindset.
+  - AI & Emerging Technology Fluency: Stays current with
+    evolving AI tools and technologies, with the ability to
+    critically evaluate and select the right stack based on
+    project context and business need.
+  - Stakeholder Engagement & Communication: Confident
+    communicator at both team and senior leadership levels,
+    able to translate technical concepts for business
+    audiences, manage ambiguity, set expectations clearly, and
+    operate with integrity.
+  - Adaptability & Customer-Centric Mindset: Self-motivated,
+    curious, and creative; comfortable in fast-paced, changing
+    environments with the ability to balance competing
+    priorities while keeping business objectives and
+    stakeholder needs at the center.
+
+  Additional Information
+
+  Syngenta is an Equal Opportunity Employer and does not
+  discriminate in recruitment, hiring, training, promotion or
+  any other employment practices for reasons of race, color,
+  religion, gender, national origin, age, sexual orientation,
+  marital or veteran status, disability, or any other legally
+  protected status.
+
+  #LI-Hybrid
+industries:
+  - Biotech
+  - Agriculture
+  - Chemical
+posted_date: 2026-08-31
+url: "https://builtin.com/job/staff-engineer-ai-technology/10927001"
+source: Built In

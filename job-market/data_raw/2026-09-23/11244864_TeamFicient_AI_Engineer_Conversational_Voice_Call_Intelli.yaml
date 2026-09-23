@@ -1,0 +1,148 @@
+job_id: 11244864
+title: "AI Engineer — Conversational, Voice & Call Intelligence (Project Based)"
+company: TeamFicient
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  This is a remote position.
+
+
+
+   AI Engineer — Conversational, Voice & Call Intelligence
+  (Project Based)  Covers: AI Call Outbound + Chatbot
+  (Tech/Sales Support) + AI Call Audit & Evaluation Company:
+  TeamFicient Location: Remote Employment Type: Contract —
+  Project-Based, Fixed-Scope Rate: Proposed by candidate via
+  RFQ (rate, timeline, and estimated hours) Work Schedule:
+
+
+
+  - Self-directed, solo execution of the full project scope
+  - IT agent touchpoints and management check-ins only as needed
+    to review progress
+  - Timeline and hours are proposed by the candidate in their
+    RFQ
+
+
+
+  Why Join Us?  At TeamFicient, our team spans multiple
+  countries and regions, and we stay connected by operating
+  within EST, CST, and PST time zones.
+
+
+
+  - Work Without Borders: Collaborate daily with experts from
+    worldwide and gain international exposure.
+  - Built for Remote: Join a fully remote culture designed for
+    autonomy, flexibility, and trust.
+  - Diverse Perspectives: Be part of a multicultural team where
+    different backgrounds are our greatest strength.
+  - Grow Globally: Expand your career on a global stage,
+    learning how business works across different cultures and
+    continents.
+
+
+
+  About the Role  TeamFicient is looking for an AI Engineer to
+  build our conversational-AI stack: outbound voice, chatbot,
+  and call-audit/intelligence systems. All three projects
+  share the same core stack — LLM integration, telephony/audio
+  pipelines, and CRM/API integration — so a strong
+  conversational-AI/ML engineer can move across all three.
+  This is a solo, fixed-scope engagement: you own execution
+  end to end, with IT touchpoints and management check-ins
+  only as needed. You'll submit your own RFQ (proposed
+  approach, timeline, hours, and cost) as part of the process.
+
+
+
+  Core Responsibilities  Voice & Chat Build
+
+
+
+  - Design dynamic (non-scripted) conversation flows for
+    outbound sales/follow-up calls and a support/sales
+    chatbot, including intent handling, objection handling,
+    and human escalation logic
+  - Build knowledge-base structures and content-update processes
+    for the chatbot
+
+
+
+  Call Intelligence
+
+
+
+
+  - Transcribe and evaluate existing calls (Zoom Phone / AWS
+    workflow) — scoring tone, sentiment, professionalism, and
+    compliance against defined QA criteria
+
+
+
+  Integration & Architecture
+
+
+
+
+  - Integrate call/chat outcomes, transcripts, and summaries
+    with GoHighLevel and/or CRM systems
+  - Design for future portability across telephony providers
+    (8x8, Vonage, RingCentral, Ooma) and future client-facing
+    deployment
+  - Maintain restricted access and data-protection standards for
+    customer call data
+
+
+
+  Candidate Qualifications  Must-Haves
+
+
+
+  - Experience building conversational AI systems (voice and/or
+    chat) on an LLM platform — not just scripted IVR/decision-
+    tree bots
+  - Experience with audio transcription and speech-based AI
+    pipelines (OpenAI, Gemini, AWS, or similar)
+  - CRM/telephony API integration experience (GoHighLevel or
+    comparable)
+  - Strong understanding of data security/restricted-access
+    handling for call recordings
+
+
+
+  Good to Haves
+
+
+
+
+  - Experience with sentiment/speech analytics tooling
+    specifically
+  - Prior work productizing an internal AI tool for
+    external/client use
+  - VoIP/telephony API experience (Twilio, Vonage, etc.) beyond
+    GHL
+
+
+
+  Application Requirements  To apply for this project, please
+  be prepared to submit:
+
+
+
+  - A portfolio of relevant, comparable work
+  - An RFQ (Request for Quotation) covering:
+  - Willingness to sign an NDA and Project Agreement before
+    receiving full project details and credentials
+  - Willingness to undergo a background check
+
+
+
+  Work Location: Remote
+industries:
+  - Professional Services
+  - Consulting
+posted_date: 2026-09-18
+url: "https://www.builtinla.com/job/ai-engineer-conversational-voice-call-intelligence-project-based/11244864"
+source: Built In

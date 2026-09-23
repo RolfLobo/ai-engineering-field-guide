@@ -1,0 +1,45 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT consulting and AI engineering services
+position:
+  title: AI Engineer (Agentic AI | GenAI | LLM)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents and multi-agent systems with
+      LangChain/LangGraph, does prompt engineering and model fine-
+      tuning, directly shaping LLM behavior, making it ai-first.
+  responsibilities:
+  - Develop agentic AI, GenAI, and LLM-based solutions
+  - Build AI agents and multi-agent systems using frameworks such as LangChain, LangGraph,
+    Semantic Kernel, or AutoGen
+  - Apply prompt engineering, model fine-tuning, and performance optimization
+  - Develop backend services with Python, FastAPI, and Flask
+  - Deploy solutions using Docker, Kubernetes, and cloud platforms
+  - Work with SQL, NoSQL, and vector databases
+  use_cases:
+  - Agentic AI and multi-agent systems
+  - Generative AI and LLM applications
+  - NLP-based solutions
+  skills:
+    genai: [Agentic Workflows, Generative AI, LLMs, LangChain, LangGraph, Semantic
+        Kernel, AutoGen, AI Agents, Multi-Agent Systems, Prompt Engineering, Fine-Tuning,
+      Embeddings]
+    ml: [BERT, spaCy, NLTK, Word2Vec, GloVe]
+    web: [FastAPI, Flask]
+    databases: [SQL, NoSQL, Vector Databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, MLOps]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234852'
+  location: Renapur, IND
+  extracted_at: '2026-09-23T11:29:55.831548'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

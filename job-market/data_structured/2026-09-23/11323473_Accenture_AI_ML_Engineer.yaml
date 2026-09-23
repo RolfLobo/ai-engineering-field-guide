@@ -1,0 +1,51 @@
+company:
+  name: Accenture
+  stage: null
+  focus: Global professional services and technology consulting
+position:
+  title: AI / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires proficiency in LLMs, Generative AI, and
+      Agentic AI, and involves designing and building applications
+      that apply GenAI models, chatbots, and conversational
+      agents. This is shaping LLM/agent behavior, so it is ai-
+      first.
+  responsibilities:
+  - Design and build advanced applications and systems leveraging AI technologies
+    including LLMs and Agentic AI
+  - Integrate cloud-based or on-premises pipelines to ensure solutions are production-ready
+    and scalable
+  - Apply generative AI models to enhance system capabilities
+  - Develop deep learning frameworks, neural network architectures, conversational
+    agents, and image processing tools
+  - Lead the design and implementation of AI-driven projects ensuring alignment with
+    organizational goals
+  - Mentor junior team members to foster skill development and knowledge sharing
+  - Coordinate cross-functional efforts to integrate AI solutions into existing systems
+  - Engage with multiple teams and contribute to key decisions
+  use_cases:
+  - Conversational agents and chatbots
+  - Image processing tools
+  - Generative AI-powered application enhancement
+  - Production-ready AI application pipelines
+  skills:
+    genai: [LLMs, Generative AI, Agentic Workflows]
+    ml: [Deep Learning, Neural Networks, Conversational AI, Model Deployment]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud AI Services]
+    ops: []
+    languages: []
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11323473'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:37:03.241103'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

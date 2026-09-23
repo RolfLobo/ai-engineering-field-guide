@@ -1,0 +1,89 @@
+company:
+  name: Yuno
+  stage: null
+  focus: |-
+    AI-native global payments infrastructure and orchestration
+    platform
+position:
+  title: Staff AI Engineer, Payments Intelligence
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-step AI agents with tool
+      use, orchestration, memory, RAG, plus prompts, evals, and
+      guardrails — directly shaping LLM/agent behavior in
+      production. It is an IC technical leadership role, not
+      management.
+  responsibilities:
+  - Own the architecture of Yuno's AI agents (AIDA, NOVA) and intelligence systems
+  - Design multi-step agents with tool use, orchestration, memory, and RAG for reliability
+    at scale
+  - Build conversational, multilingual agents across channels (phone, WhatsApp) in
+    70+ languages
+  - Define evaluation, observability, and guardrails for agent quality and safety
+  - Architect client-intelligence systems turning payment data into merchant insight
+  - Build AI-driven automation for internal operations and support
+  - Mentor engineers and partner cross-functionally with Product, Data Science, and
+    Staff Engineers
+  use_cases:
+  - Payment data retrieval and technical question answering for support and operations
+    (AIDA)
+  - Revenue recovery by turning failed payments into multilingual customer conversations
+    (NOVA)
+  - AI-driven automation of internal operations and customer support
+  - Merchant-facing client intelligence surfacing insights from payment data
+  - Fraud prevention and payment optimization across global markets
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, RAG, Prompt Engineering, Guardrails,
+      LLM Evaluation, Fine-Tuning, RLHF, MCP, Conversational AI, Embeddings]
+    ml: [Model Deployment]
+    web: [REST APIs]
+    databases: [Vector Databases, Pinecone, Weaviate, FAISS, PostgreSQL, Redis, Snowflake,
+      BigQuery]
+    data: [Kafka, Data Pipelines, Airflow, Prefect, Databricks]
+    cloud: [AWS]
+    ops: [Langfuse, LangSmith, Braintrust, MLflow, CI/CD, Kubernetes, Docker, Terraform,
+      Datadog, OpenTelemetry, GitHub Actions, ArgoCD, Git, Observability]
+    languages: [Python, Go, Kotlin]
+    domains: []
+    other: [Speech-to-Text, Text-to-Speech, SQS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10946289'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LTU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Prague, CZE
+  - London, GBR
+  remote: true
+  extracted_at: '2026-09-23T11:07:47.283796'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

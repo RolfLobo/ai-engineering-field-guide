@@ -1,0 +1,65 @@
+job_id: 10843443
+title: AI Engineer
+company: KeyValue Software Systems
+location: Kochi, IND
+work_type: FULL_TIME
+company_size: 400 Employees
+description: |
+  We're seeking a talented AI Engineer to join our team and
+  play a key role in integrating existing LLM APIs and
+  deploying open-source LLMs into our applications. You'll be
+  responsible for understanding LLM functionalities, crafting
+  effective prompts, and seamlessly integrating these powerful
+  models into our workflows, potentially leveraging frameworks
+  like LangChain for advanced capabilities.
+
+  What you will do:
+
+  - Evaluate and select appropriate LLM APIs or open-source LLMs
+    based on project requirements
+  - Develop a deep understanding of the chosen LLM's
+    capabilities and limitations
+  - Craft effective prompts to achieve desired outcomes from the
+    LLM (e.g., text generation, translation, question
+    answering)
+  - Design and implement efficient pipelines for integrating the
+    LLM with our existing infrastructure, potentially
+    leveraging LangChain for complex workflows
+  - Analyze and interpret LLM outputs, ensuring accuracy and
+    relevance
+  - Monitor and maintain the integrated LLM solution,
+    identifying and addressing potential issues
+  - Collaborate with data scientists, software engineers, and
+    product managers to bring LLM-powered solutions to life
+  - Stay up-to-date on the latest advancements in LLM technology
+    and best practices for prompting
+
+  What makes you a great fit
+
+  - 2-5 years of experience in working with AI models, (at least
+    1 year of experience in working with LLMs)
+  - Strong understanding of LLM architecture and functionalities
+    (e.g., transformers, attention mechanisms)
+  - Expertise in crafting effective prompts to achieve specific
+    goals from an LLM
+  - Proficiency in programming languages like Python and
+    experience with API integration tools
+  - Experience with frameworks like LangChain
+  - Excellent problem-solving, analytical, and communication
+    skills
+  - Ability to work effectively in a cross-functional team
+    environment
+
+  Bonus Points:
+
+  - Experience in deploying and managing cloud-based AI
+    solutions
+  - Experience with specific LLM APIs or open-source LLMs
+    relevant to the company's needs
+industries:
+  - Information Technology
+  - Software
+  - Consulting
+posted_date: 2026-08-26
+url: "https://builtin.com/job/ai-engineer/10843443"
+source: Built In

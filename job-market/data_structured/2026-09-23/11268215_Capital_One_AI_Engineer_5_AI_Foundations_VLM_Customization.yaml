@@ -1,0 +1,62 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML
+position:
+  title: AI Engineer 5 (AI Foundations, VLM Customization)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds foundation model training, LLM inference,
+      agents and multi-agent workflows, guardrails, and model
+      evaluation — clearly shaping LLM/agent behavior.
+      Optimization of training/inference internals also confirms
+      shaping, with LLM components dominant.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, and deploy AI components including foundation model training,
+    LLM inference, agents and multi-agent workflows, guardrails, and model evaluation
+  - Optimize foundation model performance (scalability, cost, latency, throughput)
+    for large-scale production AI systems
+  - Design and optimize multi-model orchestration pipelines integrating LLMs, vector
+    search, and domain-specific models
+  - Lead cost-performance governance reviews tracking GPU utilization, model throughput,
+    and inference cost efficiency
+  - Lead design councils and design reviews for AI engineering standards compliance
+  - Mentor Principal and Manager-level AI engineers
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges
+  - Real-time customer question answering
+  - AI-powered products changing how associates work and customers interact with the
+    bank
+  - Multi-model orchestration pipelines integrating LLMs, vector search, and domain-specific
+    models into unified production systems
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Multi-Agent Systems, Guardrails, LLM
+        Evaluation, RAG]
+    ml: [PyTorch, Hugging Face, Model Training, CUDA, Fine-Tuning, Model Evaluation,
+      Model Compression]
+    web: []
+    databases: [Vector Databases, Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Model Monitoring, Observability]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268215'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-09-23T11:33:59.817153'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

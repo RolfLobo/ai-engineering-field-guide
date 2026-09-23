@@ -1,0 +1,125 @@
+job_id: 11202498
+title: Software Engineer 2 - AI Transformation Engineering
+company: Abnormal Security
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 175 Employees
+description: |
+  The Opportunity
+
+  Abnormal AI is the most AI-native company in cybersecurity —
+  and we're building the internal platform that makes that
+  real. Every function at Abnormal runs on AI-powered
+  workflows that compound human leverage instead of replacing
+  it. Nora is our internal AI platform, and we're investing in
+  the engineering muscle to extend it across every record-
+  keeping system and operational surface inside the company.
+
+  We're hiring a Software Engineer II on the AI Transformation
+  Engineering team to build that platform. If you're
+  passionate about cutting-edge AI infrastructure, scalable
+  systems, and shipping software that moves real business
+  numbers, this is your opportunity.
+
+  What You'll Do as a Software Engineer II
+
+  As part of our Transformation Engineering team, you will:
+
+  - Build the Nora platform — Ship the services, factories, and
+    sandboxes that internal teams use to deploy AI workflows.
+    Own real platform components end-to-end.
+  - Weave AI into our internal systems — Build the connectors,
+    services, and integrations that bring AI into the record-
+    keeping and operational systems Abnormal already runs on
+    (Salesforce, Jira, data warehouses, internal apps). The
+    hard problem is making AI useful where work actually
+    happens.
+  - Stand up net-new infrastructure — When a transformation
+    requires capabilities that don't exist yet, you build
+    them. Spec, ship, and harden the platform so other teams
+    can build on top.
+  - Design for handoff — Build the platform, then transition
+    long-term ownership to a permanent home (often a platform
+    team in R&D). Write the docs, define SLOs, and pick the
+    next owner before you ship.
+  - Own outcomes, not just output — Every engineer on this team
+    owns a measurable contribution to a business outcome —
+    revenue, cost saved, hours returned to the business, or
+    capabilities unblocked for the teams building on top of
+    you.
+
+  Technical Requirements
+
+  We're looking for engineers who have:
+
+  - 3+ years of professional experience in software development.
+  - Strong backend experience with Python.
+  - Fluency with the AI development stack — Claude, Codex,
+    Gemini, Anthropic APIs, OpenAI APIs, and the surrounding
+    tooling (APIs, MCP, agents). Bonus for building plugins,
+    skills, or integrations against them.
+  - A track record of shipping platforms others build on — APIs,
+    services, or SDKs that survived contact with other teams.
+  - Experience building scalable, enterprise-grade applications.
+  - Knowledge of cloud platforms (AWS, GCP, or Azure) and
+    containerization (Docker, Kubernetes).
+  - Strong fundamentals in computer science, distributed
+    systems, and performance optimization.
+  - Operator empathy — can sit with a Sales Ops or Marketing Ops
+    lead, watch them work, and design a factory that fits the
+    real workflow.
+  - A bias for handoff — you write docs, define SLOs, and pick
+    the next owner before you ship.
+
+  Why Abnormal AI?
+
+  - Build the platform that makes an AI-native company actually
+    work — Not a demo, not a pilot. The production substrate
+    that 2,000+ employees run on every day.
+  - Workflow ROI is the bar, even for platform work — No vanity
+    metrics, no permanent "foundational" projects. If it
+    doesn't move a number, we kill it or hand it off.
+  - Direct line to impact — When you ship infrastructure,
+    Marketing, Sales, or Support starts running on it within
+    weeks. The feedback loop is days, not quarters.
+  - Solve complex challenges at scale — Internal AI platform
+    serving every function, built to the same standard as our
+    customer-facing security products.
+  - Join a high-caliber team — Collaborate with industry-leading
+    engineers, AI researchers, security experts, and operators
+    who treat AI leverage as a first-class engineering
+    discipline.
+  - Impact Fortune 500 enterprises — The factories you build are
+    how Abnormal scales protection for the world's largest
+    companies from sophisticated cyber attacks.
+
+  #LI-FS1
+
+  A note on AI in our process:  Abnormal AI uses AI-assisted
+  tools to help our recruiting team prepare for candidate
+  interviews. These tools analyze resume content and role
+  requirements to suggest interview questions and areas for
+  the interviewer to explore.They do not make hiring decisions
+  or screen candidates automatically. Every decision about a
+  candidacy is made by a person. Further, if your application
+  is successful and Abnormal AI makes a conditional offer of
+  employment, we will carry out pre-employment checks which
+  must be successfully completed to progress to a final offer.
+  All processes and pre-employment checks are in line with
+  prevailing legislation and Abnormal AI's policies relevant
+  to our security and privacy standards.
+
+  Abnormal AI is an equal opportunity employer. Qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, national origin,
+  disability, protected veteran status or other
+  characteristics protected by law. For our EEO policy
+  statement please click here. If you would like more
+  information on your EEO rights under the law, please click
+  here.
+industries:
+  - Security
+  - Cybersecurity
+posted_date: 2026-09-16
+url: "https://builtin.com/job/software-engineer-2-ai-transformation-engineering/11202498"
+source: Built In

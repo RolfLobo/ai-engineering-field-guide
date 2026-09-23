@@ -1,0 +1,59 @@
+company:
+  name: JLL
+  stage: null
+  focus: |-
+    Global commercial real estate and investment management
+    services
+position:
+  title: Senior Security Engineer, AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs secure patterns for prompt handling, tool-
+      calling, agent orchestration, and builds guardrails and
+      permission boundaries for Falcon's agent/MCP architecture,
+      which is shaping LLM/agent system behavior. It writes
+      production code for agent orchestration and auth components,
+      not merely auditing an AI API. Hence ai-first.
+  responsibilities:
+  - Serve as security's embedded full-time technical representative on the Falcon
+    product team, participating in planning, design reviews, and sprint work
+  - Own security architecture for agents, MCP integrations, and tool integrations,
+    defining permission and trust boundaries
+  - Review and harden the identity model for agentic components including agent-to-tool
+    authentication, least-privilege credentials, and audit logging
+  - Design secure patterns for prompt handling, tool-calling, and data flow based
+    on the Claude Agent SDK and MCP internals
+  - Own security enablement end-to-end, from threat modeling new features to defining
+    guardrails and shipping standards
+  - Write and review production code for security-critical components such as auth,
+    permissioning, and agent orchestration
+  - Represent Falcon's security posture to the broader Cybersecurity organization
+    and in AI governance decisions
+  use_cases:
+  - Secure agent and MCP-based tool integrations for the Falcon AI product
+  - Least-privilege identity and permissioning for agent-to-tool and agent-to-agent
+    interactions
+  - Secure-by-design agentic workflows for enterprise real estate operations
+  - Audit logging to reconstruct agent actions
+  - AI governance and threat modeling for enterprise AI products
+  skills:
+    genai: [AI Agents, MCP, Claude Code, Function Calling, Guardrails, Prompt Engineering,
+      RAG, Multi-Agent Systems]
+    ml: []
+    web: [OAuth]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [OIDC, SPIFFE/SPIRE, OWASP LLM Top 10, MITRE ATLAS, Threat Modeling, CISSP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10727865'
+  location: Los Angeles, USA
+  extracted_at: '2026-09-23T11:01:00.855349'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

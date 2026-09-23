@@ -1,0 +1,54 @@
+company:
+  name: Dave Inc.
+  stage: null
+  focus: |-
+    Consumer fintech app offering banking, cash advances, and
+    credit products
+position:
+  title: Staff AI Acceleration Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs MCP servers, function-calling frameworks,
+      agent evaluation frameworks, and retrieval/governance
+      patterns connecting LLMs to enterprise data—directly shaping
+      agent and LLM behavior and architecture. LLM/agent
+      components are central, so ai-first.
+  responsibilities:
+  - Define architecture and technical strategy for Dave's AI Agent Factory including
+    reusable frameworks, evaluation patterns, deployment standards, and observability
+  - Design MCP server architecture and AI-ready data access layer enabling LLMs to
+    securely reason over governed enterprise data
+  - Architect integrations between AI agents and Dave's semantic layer for business
+    definition consistency
+  - Establish governance-by-design patterns for authentication, authorization, auditability,
+    PII protection, and responsible AI
+  - Design evaluation frameworks measuring agent quality, reliability, and operational
+    performance
+  - Partner across Engineering, Data, Security, and Product to establish technical
+    standards for AI adoption
+  use_cases:
+  - AI Agent Factory platform for building trusted agents across the company
+  - Secure LLM reasoning over governed enterprise data via MCP servers
+  - Semantic-layer-consistent AI experiences across analytics and reporting
+  - Governed AI agent deployment with PII protection and auditability
+  skills:
+    genai: [LLMs, AI Agents, MCP, Function Calling, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [dbt, Airflow, Kafka]
+    cloud: []
+    ops: [Kubernetes, CI/CD, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10902810'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:05:57.071623'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

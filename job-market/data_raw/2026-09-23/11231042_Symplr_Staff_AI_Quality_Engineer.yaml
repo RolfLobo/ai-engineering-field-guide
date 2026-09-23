@@ -1,0 +1,84 @@
+job_id: 11231042
+title: Staff AI Quality Engineer
+company: Symplr
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 1,517 Employees
+description: |
+  Overview
+
+  We are seeking an experienced and talented AI QE Engineer to
+  join our team. In this role, you will be responsible for
+  validating cutting-edge artificial intelligence solutions
+  across various domains, including generative AI,
+  conversational AI, and predictive AI.
+
+  The application, hosted in AWS, includes EC2, S3, Lambda,
+  Athena, DymanoDB, OpenSearch, CloudWatch, GLUE, Bedrock,
+  SageMaker, Kendra, Amazon Q, Claude from Anthropic Titan
+  Embeddings from in AWS, Python, Langchain, and Streamlit
+  technologies.
+
+  Duties & Responsibilities
+
+  - Experience in testing and validating AI/ML solutions
+    including Generative AI, Conversational AI, and Predictive
+    models
+  - Strong understanding of how ML models are built end-to-end
+    (data preparation, feature engineering, training,
+    validation, tuning)
+  - Knowledge of core ML algorithms and model types (regression,
+    classification, clustering, tree-based models, neural
+    networks, transformers)
+  - Proficiency in Python for AI test automation, data analysis,
+    and model output validation
+  - Hands-on experience with pandas, NumPy, and scikit-learn for
+    data and model validation
+  - Experience in data quality analysis, profiling, and feature
+    validation
+  - Understanding of model evaluation metrics and validation of
+    performance results
+  - Ability to interpret model behavior and explainability
+    outputs
+  - Experience testing AI APIs and services built using FastAPI
+    or Flask
+  - Familiarity with cloud-based AI deployments, preferably AWS
+    SageMaker
+  - Understanding of production ML lifecycle, including
+    deployment validation and monitoring
+  - Strong analytical, problem-solving, and communication skills
+    for cross-functional collaboration
+
+  Desirable:
+
+  - Hands-on experience testing Generative AI prompts,
+    hallucinations, and response quality
+  - Familiarity with Responsible AI, bias, fairness, and safety
+    validation
+  - Knowledge of MLOps pipelines and CI/CD validation for ML
+    systems Experience with performance, latency, and
+    scalability testing for AI services
+  - Exposure to adversarial testing and edge-case validation for
+    AI models
+  - Experience testing AI systems in regulated or high-risk
+    domains
+
+  Skills Required
+
+  - Bachelor’s degree (B.E.) from four-year college or
+    university, or equivalent combination of education and
+    experience.
+  - 9+ years of experience in deploying and testing AI
+    solutions, particularly in the areas of generative AI,
+    conversational AI, and predictive AI.
+  - Strong proficiency in Python and experience with AI/ML
+    libraries such as PyTorch, NumPy, scikit-learn,
+    TensorFlow, and Keras
+  - Familiarity with LangChain and other NLP frameworks for
+    building conversational agents and language models
+industries:
+  - Healthtech
+  - Information Technology
+posted_date: 2026-09-17
+url: "https://builtin.com/job/staff-ai-quality-engineer/11231042"
+source: Built In

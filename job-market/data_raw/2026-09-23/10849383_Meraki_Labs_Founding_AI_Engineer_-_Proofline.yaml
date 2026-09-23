@@ -1,0 +1,91 @@
+job_id: 10849383
+title: Founding AI Engineer - Proofline
+company: Meraki Labs
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  About Us
+
+  Meraki Labs (founded by Mukesh Bansal & Peeyush Ranjan)
+  builds and rapidly scales AI-first, "moonshot" startups.
+  We're looking for a high-velocity, production-grade engineer
+  to build 0-to-1 products alongside founders. About the role
+
+  Proofline is live in production with institutional pilots
+  underway. This role owns the capability end-to-end, from
+  ingestion to retrieval quality, connecting across multiple
+  sources of information for research institutions and
+  enterprise research teams.
+
+  Founding AI Engineer — Retrieval & Knowledge (RAG)
+
+  Location: HSR, Bengaluru (5 days, on-site)
+
+  Experience: 7+ years
+
+  Responsibilities
+
+  • Own the retrieval pipeline: document ingestion, chunking,
+  embeddings, hybrid search, reranking.
+
+  • Build dual-corpus retrieval across published literature
+  and private institutional documents, with provenance.
+
+  • Build citation and identifier resolution (DOI/arXiv-class)
+  and large-corpus onboarding.
+
+  • Own retrieval evaluation: build the harness, set the
+  metrics, prove improvement release over release.
+
+  Requirements
+
+  • ML/backend engineering with production RAG, search, or IR
+  systems experience.
+
+  • Strong Python; hands-on with embeddings, vector stores,
+  and rerankers; graph databases a plus.
+
+  • Demonstrated evaluation rigour: you can show how you
+  measured and improved retrieval quality.
+
+  • Comfort with scientific or technical document corpora is a
+  plus. How We Work
+
+  Small team, high trust, written decisions. Designs get
+  adversarial review before code; PRs get automated review
+  driven to zero open findings; features aren't done until
+  verified on a live system. AI agents do a large share of the
+  implementation—your leverage is judgment: framing the
+  problem, freezing the right design, and knowing when the
+  machine is wrong.
+
+  You Should Apply If
+
+  • You enjoy turning messy problems into concrete solutions.
+
+  • You thrive in fast-moving, low-process environments.
+
+  • You're excited about production engineering (monitoring,
+  reliability, cost, latency).
+
+  You Should Not Apply If
+
+  • You want remote/hybrid (this is onsite Bangalore only).
+
+  • You prefer narrow tickets and minimal ambiguity.
+
+  • You prefer highly structured, slow-moving product
+  organizations.
+
+
+
+  The Recruiter for this role is Ritesh Kalvellu. Apply to the
+  role directly, and he will get back to you if your profile
+  is relevant to the hiring requirements.
+industries:
+  - Angel or VC Firm
+  - Co-Working Space or Incubator
+posted_date: 2026-08-26
+url: "https://builtin.com/job/founding-ai-engineer-proofline/10849383"
+source: Built In

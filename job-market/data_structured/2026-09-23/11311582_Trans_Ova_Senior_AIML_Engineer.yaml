@@ -1,0 +1,55 @@
+company:
+  name: Trans Ova
+  stage: null
+  focus: Dairy farm management software and data solutions
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly: fine-tuning and
+      monitoring models, building behavioral tests for agents,
+      hallucination tracking, benchmarking agent orchestration
+      frameworks, and agentic/MCP work — all with an explicit
+      LLM/agent component, so ai-first.
+  responsibilities:
+  - Build scalable real-time production-grade AI/ML applications delivering actionable
+    intelligence for dairy farms
+  - Serve as an AI technical SME, conducting R&D and driving AI strategy and adoption
+    across the organization
+  - Establish AI governance frameworks and guardrails covering compliance, security,
+    privacy, and ethics
+  - Build unit and behavioral tests for agents, tools, and workflows; develop trace
+    analysis and hallucination tracking tooling
+  - Integrate, deploy, fine-tune, and monitor models in production on cloud platforms
+  - Set up agent logging, observability dashboards, and recovery workflows
+  - Perform feature engineering, model selection, and rigorous experimental evaluation
+    on messy legacy farm data
+  - Collaborate on or build user-facing front-end components with React and TypeScript
+  use_cases:
+  - Actionable intelligence from decades of longitudinal dairy farm data
+  - Predictive and prescriptive analytics for herd and farm management
+  - Agentic AI workflows for on-farm operational efficiency
+  - AI-powered customer applications and engineering tooling
+  - Real-time production applications driven by AI/ML models
+  skills:
+    genai: [Generative AI, Agentic Workflows, MCP, Fine-Tuning]
+    ml: [Machine Learning, Feature Engineering, Model Evaluation, Deep Learning, Neural
+        Networks]
+    web: [React]
+    databases: []
+    data: [Databricks]
+    cloud: [AWS]
+    ops: [MLOps, Observability]
+    languages: [TypeScript]
+    domains: []
+    other: [Experiment Design, Operations Research]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11311582'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:36:14.132997'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

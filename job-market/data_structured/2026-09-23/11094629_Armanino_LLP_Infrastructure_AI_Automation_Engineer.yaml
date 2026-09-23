@@ -1,0 +1,63 @@
+company:
+  name: Armanino LLP
+  stage: null
+  focus: CPA and business consulting services firm
+position:
+  title: Infrastructure & AI Automation Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily ServiceNow and IT infrastructure
+      automation. AI is applied as a tool ("AI-driven automation,
+      copilots, agents") to improve operational processes; there
+      is no evidence of the person shaping model behavior via
+      prompts, RAG, or fine-tuning.
+  responsibilities:
+  - Design, build, test, and support ServiceNow automation solutions for ITSM, End
+    User Support, and infrastructure operations
+  - Develop workflows, integrations, catalog automations, scripts, and reusable components
+    using ServiceNow tools
+  - Automate enterprise IT processes across provisioning, access management, endpoint
+    services, cloud operations, monitoring, patching, backup, and security workflows
+  - Apply AI and automation technologies to improve triage, routing, knowledge management,
+    fulfillment, and reporting
+  - Integrate ServiceNow with enterprise platforms including cloud, identity, HR,
+    CRM, and financial systems
+  - Improve automation reliability through error handling, logging, retry logic, and
+    data quality controls
+  - Monitor and optimize automation performance, scalability, and user adoption
+  - Support production environments and document automation solutions and troubleshooting
+    procedures
+  use_cases:
+  - ITSM and end user support automation
+  - IT process automation for provisioning, access management, and patching
+  - AI-assisted triage, routing, and knowledge management
+  - Enterprise system integration and orchestration via ServiceNow
+  - Infrastructure and cloud operations monitoring and reliability
+  skills:
+    genai: [Copilots, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: []
+    languages: []
+    domains: []
+    other: [ServiceNow, Flow Designer, IntegrationHub, MID Server, ITSM, Service Catalog,
+      Scripting, CMDB, Microsoft 365, Entra ID, Intune, Low-Code/No-Code Platforms,
+      Workflow Automation, Identity Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11094629'
+  location: Irvine, USA
+  locations:
+  - Irvine, USA
+  - Pasadena, USA
+  - El Segundo, USA
+  - Los Angeles, USA
+  - Woodland Hills, USA
+  extracted_at: '2026-09-23T11:18:43.232067'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

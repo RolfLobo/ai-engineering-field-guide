@@ -1,0 +1,62 @@
+company:
+  name: American Express Global Business Travel
+  stage: null
+  focus: Corporate travel management and business travel services
+position:
+  title: IAM Engineer - AI Security
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an IAM/security governance role that secures AI
+      agent access, MCP integrations, and non-human identities.
+      The person builds identity and authorization infrastructure
+      around AI systems, but never shapes model behavior through
+      prompts, retrieval, or training. Python/LLM engineering is
+      explicitly a nice-to-have, not the job.
+  responsibilities:
+  - Design and implement IAM/IGA solutions securing AI agents, MCP integrations, service
+    accounts, and non-human identities
+  - Govern non-human identities and machine access, including discovery and identification
+    of shadow AI usage
+  - Deploy AI-aware access controls including runtime authorization, contextual access
+    boundaries, and DLP for AI workflows
+  - Drive migration of AI and machine workloads toward credential-less authentication
+    (federated identity, token exchange, ephemeral credentials)
+  - Implement security controls over MCP integrations ensuring fail-closed behaviour
+    and least-privilege data boundaries
+  - Assess and mitigate security risks from AI adoption and investigate AI-related
+    security incidents
+  - 'Administer the IGA platform (e.g., Saviynt): provisioning, access certifications,
+    SOD rules, and compliance reporting'
+  - Support AI-assisted IAM automation such as access triage, anomaly detection, and
+    audit evidence collection
+  use_cases:
+  - Securing AI agent and non-human identity access across the enterprise
+  - Governance of MCP and model-connectivity integrations with least-privilege data
+    boundaries
+  - Detection and mitigation of shadow/unsanctioned AI usage
+  - Runtime and intent-aware authorization for AI agent access to backend systems
+  - Identity lifecycle management and compliance reporting in the IGA platform
+  - AI-assisted automation of IAM operations (triage, anomaly detection, audit evidence)
+  skills:
+    genai: [MCP, AI Agents, LLMs]
+    ml: []
+    web: [REST, SOAP]
+    databases: []
+    data: [JSON]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [IAM, Identity Governance and Administration, Saviynt, Single Sign-On,
+      Multi-Factor Authentication, Privileged Access Management, Federated Identity,
+      SOC2, SOX, PCI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11200288'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:25:34.481115'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

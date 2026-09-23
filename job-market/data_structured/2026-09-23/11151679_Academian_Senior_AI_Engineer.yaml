@@ -1,0 +1,56 @@
+company:
+  name: Academian
+  stage: null
+  focus: |-
+    EdTech services, learning development, and custom software
+    solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: fine-tuning open-
+      source LLMs, building RAG systems, prompt engineering, and
+      designing agent workflows with LangGraph/LangChain.
+      Classical ML (CV/NLP) work exists too, but a role shaping
+      both is ai-first.
+  responsibilities:
+  - Design, train, and deploy AI models for Computer Vision, NLP, and Generative AI
+    use cases
+  - Fine-tune and deploy open-source and private LLMs for EdTech applications
+  - Implement RAG systems combining retrieval with generative models
+  - Build agent orchestration and stateful multi-step workflows using LangGraph and
+    LangChain
+  - Develop real-time data pipelines and event-driven architectures with Kafka and
+    Spark
+  - Build cloud-native AI solutions on AWS Bedrock, SageMaker, Vertex AI, Azure ML,
+    and AKS
+  - Implement MLOps/LLMOps pipelines for deployment, monitoring, and scaling of AI
+    models
+  - Mentor junior engineers and promote best practices across AI teams
+  use_cases:
+  - Generative AI and LLM-powered applications for education
+  - RAG-based retrieval over educational content
+  - Adaptive learning systems and educational content pipelines
+  - AI models for Computer Vision and NLP in EdTech
+  - Real-time data processing for K-12, higher education, and corporate learning
+  skills:
+    databases: [Graph Databases]
+    domains: [Computer Vision, NLP]
+    data: [Kafka, Spark, PySpark, Databricks, Data Pipelines, Data Modeling]
+    web: []
+    ml: [Fine-Tuning, Hugging Face, Transformers, TensorFlow, PyTorch, scikit-learn]
+    ops: [MLOps, LLMOps, MLflow, CI/CD, Docker, Kubernetes]
+    other: [LTI, xAPI, QTI, SCORM]
+    cloud: [AWS Bedrock, SageMaker, Vertex AI, Azure ML, AWS, GCP, Azure]
+    languages: [Python, SQL]
+    genai: [Generative AI, LLMs, RAG, LangGraph, LangChain, Prompt Engineering, OpenAI
+        API, MCP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151679'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:22:28.720345'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

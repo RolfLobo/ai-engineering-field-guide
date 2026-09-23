@@ -1,0 +1,126 @@
+job_id: 11020673
+title: Software Engineering Tech Lead (SRE + AI)
+company: Cisco
+location: London, GBR
+work_type: FULL_TIME
+company_size: 77,500 Employees
+description: |
+  Meet the Team
+
+  The Collaboration Technology Group is redefining the future
+  of teamwork, building services that connect people
+  effortlessly across devices, locations and time zones.
+
+  Our team builds, runs and continuously improves the platform
+  services behind Cisco’s collaboration products, operating at
+  global scale across numerous datacentres. We’re a
+  passionate, collaborative team focused on reliability,
+  innovation and engineering excellence.
+
+  Your impact
+
+  As a Technical Leader, you will drive the architectural
+  vision and implementation of our next-generation AI-powered
+  Production Intelligence platform. You will combine Site
+  Reliability Engineering practices with modern agentic AI
+  (reusable Skills, Model Context Protocol (MCP), and LLM
+  tooling) to transform how engineering and leadership teams
+  monitor, diagnose, and auto-remediate global SaaS
+  infrastructure.
+
+  What you'll do
+
+  - Technical Leadership & Architecture: Define the technical
+    roadmap and architecture for AI-assisted observability,
+    automated incident response, and self-healing cloud
+    infrastructure.
+  - Agentic Workflows & Tooling: Design and build production-
+    grade AI agents, MCP tool integrations, and deterministic
+    evaluation pipelines for automated operational decision
+    support.
+  - Telemetry & Insights: Architect ingestion and correlation
+    pipelines across distributed logs, metrics, OpenTelemetry
+    traces, change events, and runbooks to accelerate Mean
+    Time to Detection (MTTD) and Resolution (MTTR).
+  - Safe Production Automation: Develop proactive anomaly
+    detection and Human-in-the-Loop (HITL) remediation
+    workflows with rigorous safety, security, and quality
+    guardrails.
+  - Reliability & Scalability Engineering: Partner with
+    application and infrastructure teams to define SLIs/SLOs,
+    handle error budgets, and lead deep-dive post-incident
+    reviews (PIRs).
+  - Mentorship & Collaboration: Mentor senior and mid-level
+    engineers, establish engineering best practices, and drive
+    alignment across global development and operations teams.
+  - You’ll manage priorities and deadlines, communicate progress
+    clearly and work across teams to turn production needs
+    into reliable software and AI-assisted capabilities.
+
+  Minimum qualifications
+
+  - Bachelor’s degree + 8 years of related experience, Master’s
+    + 6 years, or PhD + 3 years in Computer Science, Software
+    Engineering, or a related technical field.
+  - Proven record as a Technical Lead or Lead SRE/Software
+    Engineer delivering distributed, high-availability SaaS
+    platforms at scale.
+  - Strong proficiency in Python, Go, Java, or C++ with
+    experience designing microservices, APIs, and production
+    automation.
+  - Deep experience with Kubernetes, Docker, and container
+    orchestration in large-scale multi-cluster environments.
+  - Proven background in SRE practices: SLI/SLO design,
+    observability platforms (metrics/logs/traces), incident
+    management, and automated RCA.
+
+  Preferred Qualifications
+
+  - AI & Agentic Systems: Hands-on experience building LLM
+    pipelines, AI Agents, Model Context Protocol (MCP)
+    servers/clients, RAG architectures, and evaluation
+    frameworks.
+  - Observability & Telemetry: Experience with OpenTelemetry
+    (OTel), Prometheus, Grafana, Splunk, ThousandEyes, or
+    distributed tracing systems.
+  - Cloud & Infrastructure: Expertise in public cloud providers
+    (AWS, GCP, Azure), Terraform/IaC, and GitOps/CI/CD
+    pipelines (Jenkins, GitHub Actions).
+  - Safe Automation & Guardrails: Experience implementing
+    responsible AI guardrails, deterministic fallback logic,
+    and policy-driven remediation engines.
+  - Data & Messaging: Experience with streaming and data
+    platforms (Kafka, Redis, PostgreSQL, Elasticsearch/Vector
+    DBs).
+
+  CollabHiring
+
+  Why Cisco?
+
+  At Cisco, we’re revolutionizing how data and infrastructure
+  connect and protect organizations in the AI era – and
+  beyond. We’ve been innovating fearlessly for 40 years to
+  create solutions that power how humans and technology work
+  together across the physical and digital worlds. These
+  solutions provide customers with unparalleled security,
+  visibility, and insights across the entire digital
+  footprint.
+
+  Fueled by the depth and breadth of our technology, we
+  experiment and create meaningful solutions. Add to that our
+  worldwide network of doers and experts, and you’ll see that
+  the opportunities to grow and build are limitless. We work
+  as a team, collaborating with empathy to make really big
+  things happen on a global scale. Because our solutions are
+  everywhere, our impact is everywhere.
+
+  We are Cisco, and our power starts with you.
+industries:
+  - Cloud
+  - Information Technology
+  - Internet of Things
+  - Professional Services
+  - Software
+posted_date: 2026-09-04
+url: "https://builtin.com/job/software-engineering-tech-lead-sre-ai/11020673"
+source: Built In

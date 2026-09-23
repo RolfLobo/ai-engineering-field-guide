@@ -1,0 +1,57 @@
+company:
+  name: NewRocket
+  stage: null
+  focus: |-
+    ServiceNow consulting partner delivering enterprise AI
+    solutions
+position:
+  title: AI/ML Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes Hugging Face transformer models and LLMs
+      for NLP tasks and develops agentic AI systems with
+      autonomous agents, which is directly shaping model
+      behaviour. LLM/agent components are central, making it ai-
+      first.
+  responsibilities:
+  - Develop, train, and deploy machine learning models for predictive analytics, classification,
+    and clustering
+  - Integrate and fine-tune Hugging Face transformer models for NLP tasks such as
+    text classification, summarization, and sentiment analysis
+  - Build AI automation solutions including chatbots using Microsoft Teams and Azure
+    AI
+  - Work with LLMs including fine-tuning, training, and deploying for conversational
+    AI, text generation, and summarization
+  - Develop and implement Agentic AI systems enabling autonomous decision-making agents
+  - Design and optimize ETL pipelines for data quality management and transformation
+  - Process large-scale data using big data technologies and manage databases
+  - Create interactive data visualizations using Tableau and Power BI
+  use_cases:
+  - Predictive analytics, classification, and clustering
+  - NLP tasks including text classification, summarization, and sentiment analysis
+  - Conversational AI chatbots on Microsoft Teams
+  - AI-driven text generation and summarization with LLMs
+  - Autonomous agentic AI systems for real-time task optimization
+  - Large-scale data processing and analytics with visualization
+  skills:
+    databases: [MySQL, PostgreSQL, MongoDB]
+    domains: [NLP]
+    data: [Spark, Snowflake, Data Pipelines]
+    web: []
+    ml: [TensorFlow, PyTorch, scikit-learn, Hugging Face, Transformers, Fine-Tuning,
+      Model Training, Model Deployment, Pandas, NumPy, Matplotlib, Machine Learning]
+    ops: []
+    other: [Tableau, Power BI, Microsoft Teams, ServiceNow]
+    cloud: [AWS, SageMaker, AWS Lambda, AWS S3, Azure, Vertex AI, Azure OpenAI]
+    languages: [Python, SQL]
+    genai: [LLMs, Agentic Workflows, Conversational AI, Prompt Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11068280'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:16:03.185513'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

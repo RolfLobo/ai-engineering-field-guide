@@ -1,0 +1,57 @@
+company:
+  name: Attero
+  stage: null
+  focus: |-
+    Recycling and e-waste management with manufacturing and
+    supply chain operations
+position:
+  title: AI/ML Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds production applications using LLMs, RAG, and
+      AI agents, and evaluates emerging AI models and their output
+      quality, which is shaping LLM behavior. It also includes
+      classical ML/CV, but roles spanning both LLM and classical
+      ML are ai-first.
+  responsibilities:
+  - Design, develop, and deploy AI/ML solutions for operations, manufacturing, supply
+    chain, and enterprise applications
+  - Build production-grade applications using LLMs, RAG, AI agents, and modern AI
+    frameworks
+  - Develop and optimize machine learning, computer vision, NLP, and predictive analytics
+    models
+  - Prepare, clean, and engineer datasets for training, evaluation, and production
+    deployment
+  - Build APIs and AI services integrating with web, mobile, ERP, and enterprise systems
+  - Evaluate emerging AI models, frameworks, and technologies to improve solution
+    quality
+  - Monitor model performance, accuracy, latency, and reliability of deployed AI systems
+  - Document AI architectures, experiments, and deployment pipelines
+  use_cases:
+  - AI solutions for manufacturing and industrial operations
+  - Supply chain and logistics optimization
+  - Recycling and operations workflows
+  - Computer vision for industrial applications (OCR, document intelligence)
+  - Predictive analytics on enterprise and sensor data
+  - Enterprise workflow automation with LLMs and RAG
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, Prompt Engineering, OpenAI API, Claude
+        Code, Gemini, Llama, LangChain, LangGraph, LlamaIndex]
+    ml: [Machine Learning, Deep Learning, scikit-learn, TensorFlow, PyTorch, XGBoost]
+    web: [APIs, FastAPI, Flask, REST APIs]
+    databases: [Vector Databases]
+    data: [Airflow]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, Docker, MLflow, Kubeflow]
+    languages: [Python, SQL]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10850079'
+  location: Noida, IND
+  extracted_at: '2026-09-23T11:02:39.662046'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

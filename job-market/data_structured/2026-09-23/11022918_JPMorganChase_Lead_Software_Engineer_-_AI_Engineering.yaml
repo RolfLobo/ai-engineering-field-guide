@@ -1,0 +1,56 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and investment banking
+position:
+  title: Lead Software Engineer - AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs, Generative AI, RAG, and agentic
+      workflows (LangChain, LangGraph) into production systems,
+      designs experiments, validates results, and works with AI
+      evals - directly shaping model behaviour and output quality.
+      Hence ai-first.
+  responsibilities:
+  - Architect, design, and develop secure, high-quality production software systems
+    using Java or Python, integrating LLMs, Generative AI, and coding assistants
+  - Lead a local team of software engineers and applied AI/ML practitioners, driving
+    accountability and engagement
+  - Collaborate with product and business teams to set technical vision and execute
+    strategic roadmaps for AI-driven solutions
+  - Translate business requirements into software and AI/ML specifications, define
+    milestones, and deliver using Agile methodologies
+  - Design experiments, implement algorithms, validate results, and productionize
+    scalable, trustworthy AI/ML solutions
+  - Drive team adoption of enterprise-authorized AI-assisted engineering practices
+    to improve code quality and delivery speed
+  - Establish consistent validation standards including secure coding, peer review,
+    and automated testing
+  - Identify opportunities to automate and remediate recurring issues, improving system
+    reliability
+  use_cases:
+  - AI-driven software solutions for financial services
+  - Integration of LLMs and Generative AI into production banking systems
+  - AI-assisted engineering practices to improve code quality and delivery speed
+  - NLP and RAG-based applications for the Commercial & Investment Bank
+  skills:
+    genai: [LLMs, Generative AI, RAG, LLM Evaluation, Agentic Workflows, LangChain,
+      LangGraph, Auto-GPT]
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD]
+    languages: [Java, Python]
+    domains: [NLP]
+    other: [Agile, System Design, Responsible AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11022918'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:13:33.894133'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

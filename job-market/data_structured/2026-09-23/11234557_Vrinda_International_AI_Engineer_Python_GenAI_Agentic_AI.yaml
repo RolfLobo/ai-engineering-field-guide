@@ -1,0 +1,46 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: Technology staffing and enterprise AI solutions
+position:
+  title: AI Engineer (Python + GenAI + Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly via prompt
+      engineering, RAG design, agentic workflows, model
+      selection/evaluation, and guardrails. LLM/agent components
+      dominate, so it is ai-first.
+  responsibilities:
+  - Build enterprise-grade AI solutions using Python and LLMs
+  - Design and implement RAG pipelines with search strategies
+  - Build AI agents and agentic workflows using frameworks like LangChain, LangGraph,
+    CrewAI, or AutoGen
+  - Perform LLM model selection, optimization, and evaluation
+  - Apply AI safety measures, guardrails, and hallucination mitigation
+  - Design end-to-end AI/LLM system architecture
+  use_cases:
+  - Enterprise-grade AI solutions powered by LLMs
+  - Retrieval-augmented generation for search and knowledge access
+  - Agentic AI workflows and automation
+  - Safe, hallucination-mitigated LLM applications
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, Prompt Engineering, Embeddings, LangChain,
+      LangGraph, CrewAI, AutoGen, Guardrails, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234557'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:29:03.849737'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

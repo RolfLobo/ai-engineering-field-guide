@@ -1,0 +1,240 @@
+job_id: 10966810
+title: Senior AI Engineer – Agentic Platform
+company: Amtech Software
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 144 Employees
+description: |
+  About Vista Equity Partners
+
+  Vista Equity Partners is a leading global investment firm
+  focused exclusively on enterprise software, data, and
+  technology-enabled businesses. With over $100B in assets
+  under management and a portfolio of 90+ software product
+  companies worldwide, Vista accelerates growth through
+  operational excellence, shared expertise, and long-term
+  partnership. In India, Vista’s presence continues to expand
+  with 45+ portfolio companies employing more than 17,000
+  professionals across technology, product, customer success,
+  and operations — reinforcing India’s strategic role as a hub
+  of innovation and talent within the Vista ecosystem.
+
+  Through its Agentic AI Factory, Vista is embedding
+  Generative AI across its global portfolio — enabling
+  companies to integrate intelligent, responsible AI into
+  products, operations, and decision-making. This initiative
+  is strengthened through portfolio-wide learning programs,
+  leadership workshops, and AI hackathons that foster
+  innovation, build fluency, and accelerate practical AI
+  adoption across teams. About Amtech
+
+  Amtech LLC is a leading provider of enterprise software
+  solutions for the packaging and manufacturing industries,
+  helping businesses streamline operations, improve
+  productivity, and drive sustainable growth. With a strong
+  focus on innovation and customer success, Amtech continues
+  to expand its global footprint and deliver technology that
+  empowers teams around the world.
+
+  Our Employee Value Proposition
+
+  At Amtech, our people are our greatest differentiator. We
+  create an environment where you can:
+
+  Purpose
+
+  Shape the future of manufacturing and supply chain
+  operations by delivering mission-critical enterprise
+  software used by industry-leading organizations.
+
+  Growth
+
+  Access continuous learning, leadership development, and
+  cross-portfolio opportunities through Vista’s global network
+  — accelerating both technical and managerial career paths.
+
+  Culture
+
+  Work in a collaborative, transparent, and people-first
+  environment where values, accountability, and integrity
+  guide every decision.
+
+  Innovation
+
+  Engage with cutting-edge technologies, including AI-driven
+  automation, and contribute to modernizing financial systems
+  and operational processes across the business.
+
+  Role Description
+
+  Amtech LLC is seeking a Senior AI Engineer to build and
+  scale the Agentic Platform behind Amtech AI Intelligence — a
+  headless, MCP-native intelligence layer across packaging and
+  labels, and data that is callable by any AI, on any screen.
+  This role takes Amtech's first production agent pattern and
+  turns it into a reusable platform component that extends
+  cleanly to EnCore, LabelTraxx, Siteline, Scorekeeper, and
+  future use cases, rather than building a one-off solution
+  per product. This is a senior, largely self-directed role:
+  you'll set technical direction for the platform, make build-
+  vs-buy calls on agent tooling, and be a technical reference
+  point for the Forward Deployed Engineers embedding it into
+  product pods. Curiosity about emerging agentic AI and LLM
+  tooling, and comfort operating close to production systems
+  and governed customer data, are essential.
+
+  Job Description
+
+  Headless, MCP-Native Architecture
+
+  - Build business logic that runs independent of any screen —
+    the same capability must work for a person in the UI, an
+    AI agent, or an automated job.
+  - Expose Amtech capabilities as MCP-described tools so any AI
+    model can call them.
+
+  Orchestration and Agent Execution
+
+  - Build and maintain the LLM orchestration layer that turns
+    model output into safe, governed, tool-using actions.
+  - Implement and extend agent workflows using frameworks such
+    as LangChain/LangGraph and the Model Context Protocol
+    (MCP).
+
+  Retrieval and Model Integration
+
+  - Build and tune RAG pipelines for grounding agent responses
+    in Amtech's own data.
+  - Integrate model-agnostic LLM providers — Claude, OpenAI,
+    Azure OpenAI, AWS Bedrock, and whatever model leads next —
+    via a common provider abstraction, avoiding vendor lock-
+    in.
+
+  Governed On-Prem Data Access (the Data Agent)
+
+  - Build and maintain the Data Agent — new technology that
+    reads EnCore and other customer data directly for
+    inferencing, with no dependency on legacy point-to-point
+    APIs.
+  - Ensure every agent action passes governed approval gates
+    before it executes, with a complete, queryable audit trail
+    — customer data stays in the customer's environment while
+    still enabling cloud-LLM reasoning over it.
+
+  Building Amtech AI Intelligence Capabilities
+
+  - Extend the platform into concrete delivered capabilities
+    such as Schedule Intelligence (watching schedules,
+    flagging conflicts and trim-loss, proposing re-
+    sequencing), Order & Customer Intelligence (full-context
+    status across specs, history, and dates), Docs & Knowledge
+    (cited, grounded answers with stale-document detection),
+    and Forecast & KPI Intelligence (plain-language questions
+    over throughput, waste, and OTIF).
+
+  Plugging Into Amtech's Broader Agent Portfolio
+
+  - Amtech already runs 10+ active agents company-wide — this
+    role's platform work is what lets patterns from those
+    efforts be reused instead of rebuilt.
+  - Directly support the Utilization mandate to extend
+    engineering's agent-building cadence to Sales, Support,
+    and Customer Success, so new agents in those functions can
+    be built on the same governed orchestration, RAG, and
+    audit foundation rather than one-off tooling.
+
+  Scaling the Platform Pattern Across Product Lines
+
+  - Turn Amtech's first production agent pattern into a reusable
+    platform component that other product pods can adopt
+    without a rebuild.
+  - Partner with Forward Deployed Engineers embedded in product
+    pods to validate the platform against real workflows and
+    feed field learnings back into the roadmap.
+
+  Deployment, Monitoring, and Cost Control
+
+  - Deploy agents and inference endpoints on AWS (e.g., Lambda,
+    ECS/EKS, SageMaker) and integrate them into existing APIs
+    and microservices.
+  - Set up evals, cost controls, and basic observability to
+    catch regressions, drift, or runaway spend before they
+    reach customers.
+
+  Bridging into ML Engineering and MLOps
+
+  - Bring enough classical ML engineering and MLOps fluency
+    (feature stores, model registries, CI/CD for models, drift
+    monitoring) to partner effectively with the Data Science,
+    ML Engineering, and MLOps functions, not just the
+    agentic/LLM side of the platform.
+  - As a senior technical voice on the team, weigh in on
+    production practices — deployment, monitoring, retraining
+    — across both agentic and classical ML workloads as the
+    org scales toward a lead role.
+
+  Required Qualifications
+
+  - Bachelor's Degree in Computer Science, Software Engineering,
+    Data Science, or related field.
+  - 6+ years of software engineering experience, including 2+
+    years hands-on building production systems with large
+    language models.
+  - Demonstrated experience setting technical direction and
+    reviewing the work of other engineers, even if not a
+    formal people-management role.
+  - Strong Python programming skills.
+  - Practical experience with prompt engineering, tool/function
+    calling, and agent frameworks (e.g., LangChain,
+    LangGraph).
+  - Experience integrating at least one major LLM provider API
+    (OpenAI, Anthropic, Azure OpenAI, or AWS Bedrock).
+  - Hands-on AWS experience (e.g., Lambda, ECS/EKS, S3, IAM,
+    CloudWatch) deploying and operating production workloads
+    in the cloud.
+  - Experience with model inferencing — real-time and batch —
+    including optimizing latency, throughput, and cost for LLM
+    or ML workloads.
+  - Experience building or consuming RAG pipelines and working
+    with vector databases.
+  - Working knowledge of classical ML engineering and MLOps
+    practices (e.g., feature stores, model registries,
+    MLflow/Kubeflow-style CI/CD for models) — enough to
+    partner with Data Science, ML Engineering, and MLOps, not
+    necessarily hands-on ownership.
+  - Familiarity with Docker and containerized deployment.
+  - Working knowledge of Git and CI/CD practices.
+
+  Preferred Qualifications
+
+  - Experience with the Model Context Protocol (MCP) or similar
+    agent-tool integration standards.
+  - Experience building governed, read-only data access layers
+    (audit logging, guardrails, least-privilege access).
+  - Exposure to Kubernetes and cloud AI/inferencing platforms
+    (AWS Bedrock, AWS SageMaker); AWS certification is a plus,
+    not a requirement.
+  - Experience working with ERP, MES, or other
+    industrial/manufacturing data environments.
+  - Prior experience embedding directly with a product team or
+    customer-facing engineering effort.
+  - Familiarity with performance monitoring tools (e.g.,
+    Prometheus, Grafana, Datadog).
+
+  Why Join Amtech
+
+  At Amtech, you will drive meaningful financial impact in a
+  growing enterprise software organization while benefiting
+  from Vista’s world-class ecosystem. You’ll collaborate with
+  talented peers, leverage cross-portfolio learning programs,
+  and help shape the future of Amtech’s financial operations
+  and systems. Build your career with Amtech — backed by the
+  strength, scale, and innovation culture of Vista.
+industries:
+  - Information Technology
+  - Productivity
+  - Software
+  - Manufacturing
+posted_date: 2026-09-01
+url: "https://builtin.com/job/senior-ai-engineer-agentic-platform/10966810"
+source: Built In

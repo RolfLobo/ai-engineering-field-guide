@@ -1,0 +1,56 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global financial services and banking
+position:
+  title: Senior AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-agent systems, RAG
+      architectures, and prompt/context engineering, directly
+      shaping model behavior and output quality with LLMs and
+      agents. This is clearly ai-first.
+  responsibilities:
+  - Design and orchestrate multi-agent systems where autonomous agents collaborate
+    and delegate tasks to solve business problems
+  - Implement advanced planning and reasoning using knowledge graphs, rule-based/symbolic
+    reasoning, and planning/search algorithms
+  - Develop resilient agent architectures with feedback-driven improvement, error
+    recovery, self-correction, and dynamic replanning
+  - Integrate LLMs, predictive models, and reasoning frameworks to improve decision
+    quality
+  - Design and optimize RAG architectures including embeddings, vector databases,
+    reranking, and context management
+  - Develop APIs, tools, and microservices integrating AI capabilities with enterprise
+    platforms
+  - Optimize AI systems for latency and throughput with streaming, caching, and token
+    usage optimization
+  - Drive AI technical strategy for Funds Transfer Pricing and Financial Hedging and
+    mentor junior engineers
+  use_cases:
+  - Funds Transfer Pricing automation
+  - Financial Hedging platform automation
+  - Automating complex financial workflows
+  - Enhancing critical decision-making in finance
+  skills:
+    genai: [Agentic Workflows, Multi-Agent Systems, Knowledge Graphs, RAG, Embeddings,
+      MCP, LLMs, Prompt Engineering, Context Engineering, LangChain, LlamaIndex, LangGraph,
+      Google ADK, AutoGen, CrewAI]
+    ml: []
+    web: [APIs, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10885901'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:04:33.363080'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

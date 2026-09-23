@@ -1,0 +1,51 @@
+company:
+  name: Stryker
+  stage: null
+  focus: Medical devices and healthcare communication technology
+position:
+  title: Engineer, Automations (AI/ML),Technical support
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds automation scripts and internal support
+      tools; AI tools (Cursor, Copilot) are used as development
+      assistants, and the description does not show the person
+      shaping any model's behavior through prompts, retrieval,
+      fine-tuning, or evals. AI/ML named as experience but
+      responsibilities are software automation and tooling.
+  responsibilities:
+  - Scope, design, and build internal tools and automation with stakeholders from
+    Support, Quality, and Engineering
+  - Support tools (CAFI, ASL, CI/CD data pipelines) used to gather and analyze customer
+    log files for troubleshooting
+  - Develop automation scripts to eliminate manual processes and drive operational
+    efficiency
+  - Deliver innovative solutions and features within project timelines
+  - Collaborate with other development teams to ensure features and enablers are effective
+  - Follow software engineering best practices and document designs and product capabilities
+  use_cases:
+  - Internal tools and automation for Technical Support troubleshooting of Vocera
+    medical device products
+  - Automated gathering and analysis of customer log files
+  - Eliminating manual processes to improve operational efficiency
+  - AI/ML solutions supporting the Technical Support team
+  skills:
+    databases: [SQL, NoSQL, Elasticsearch]
+    domains: []
+    data: [Data Modeling, NumPy, Pandas, Airflow, Data Pipelines, PySpark]
+    web: [Flask, FastAPI, React, Angular]
+    ml: []
+    ops: [Git, Jenkins, Ansible, Terraform]
+    other: [Jira, BitBucket, Confluence, VMware, Tableau, Apache Superset, Power BI,
+      Code Review, Agile]
+    cloud: []
+    languages: [Java, Python, JavaScript, HTML, CSS, Bash]
+    genai: [Cursor, GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11006209'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:12:10.281338'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

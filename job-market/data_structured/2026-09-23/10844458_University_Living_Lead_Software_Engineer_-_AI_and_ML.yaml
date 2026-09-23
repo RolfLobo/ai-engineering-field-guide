@@ -1,0 +1,47 @@
+company:
+  name: University Living
+  stage: null
+  focus: Student accommodation platform building conversational AI
+position:
+  title: Lead Software Engineer - AI and ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes LLMs, implements RAG, and designs
+      conversational agent architectures, directly shaping model
+      behaviour. LLM/agent components are central, so it is ai-
+      first.
+  responsibilities:
+  - Lead end-to-end development of AI models for a conversational human-like calling
+    agent
+  - Define and implement ML and LLM model architectures
+  - Fine-tune pre-trained models and integrate RAG techniques
+  - Integrate voice APIs such as Twilio and Vonage
+  - Deploy models on cloud infrastructure and optimize performance and scalability
+  - Collaborate on data preparation, feature engineering, and model training workflows
+  - Mentor junior team members and guide research into new AI technologies
+  use_cases:
+  - Human-like conversational calling agent
+  - Voice-based customer interactions
+  - Response accuracy and relevance via RAG
+  - Scalable cloud AI deployment
+  skills:
+    genai: [LLMs, Fine-Tuning, RAG, OpenAI API, Conversational AI]
+    ml: [NLP, Machine Learning, PyTorch, TensorFlow, Model Training, Feature Engineering,
+      Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: [Twilio, Vonage]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10844458'
+  location: Noida, IND
+  extracted_at: '2026-09-23T11:02:20.694243'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

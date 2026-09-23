@@ -1,0 +1,44 @@
+company:
+  name: Filevine
+  stage: null
+  focus: Legal AI case management software platform
+position:
+  title: Software Development Engineer in Test (SDET) - Immigration AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is an SDET owning quality/testing for an
+      immigration AI product, but the description's
+      responsibilities and qualifications sections are empty. No
+      evidence of shaping model behavior (prompting, RAG, evals,
+      fine-tuning); testing and quality assurance of an AI product
+      built by others is ai-support.
+  responsibilities:
+  - Own quality across the Immigration AI team's engineering foundation and feature
+    development
+  - Drive rigorous backend and API testing
+  - Validate customer-facing applications
+  - Invent new approaches to test systems that resist conventional UI-driven automation
+  use_cases:
+  - Immigration case preparation and management platform for legal practices
+  - Automating legal operations workflows
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11024490'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:13:45.225132'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

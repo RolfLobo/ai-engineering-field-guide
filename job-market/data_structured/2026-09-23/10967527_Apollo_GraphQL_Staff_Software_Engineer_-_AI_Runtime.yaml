@@ -1,0 +1,53 @@
+company:
+  name: Apollo GraphQL
+  stage: null
+  focus: GraphQL platform and AI agent API control plane
+position:
+  title: Staff Software Engineer - AI Runtime
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic systems directly: tool-calling
+      frameworks, agent orchestration, and agent
+      evaluation/observability (LLM-as-judge), plus owning
+      retrieval quality in RAG-like API discovery/ranking —
+      squarely shaping agent and LLM behavior, so ai-first. It
+      also engages with enterprise customers piloting
+      Constellation.
+  responsibilities:
+  - Design and build systems for API discovery, schema understanding, and safe agent-to-API
+    orchestration at enterprise scale
+  - Own search, ranking, relevance, and query-planning problems for how agents find
+    and use the right APIs and data
+  - Prototype quickly, evaluate multiple algorithmic approaches, and iterate based
+    on customer pilot feedback
+  - 'Build and evaluate agentic systems: tool-calling frameworks, agent orchestration,
+    and observability/evaluation tooling'
+  - Engage with select enterprise customers piloting Constellation to understand real
+    usage patterns
+  - Communicate technical tradeoffs to technical leadership and help shape the roadmap
+  use_cases:
+  - API discovery and schema understanding for AI agents
+  - Safe agent-to-API orchestration at enterprise scale
+  - Search, ranking, and query planning for agents finding the right APIs and data
+  - Agent observability and evaluation to make agent behavior trustworthy
+  skills:
+    genai: [Agentic Workflows, Function Calling, LLM Evaluation, RAG]
+    ml: [Search, Ranking]
+    web: [GraphQL]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Tracing]
+    languages: [Rust]
+    domains: [Distributed Systems]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10967527'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:10:11.523510'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

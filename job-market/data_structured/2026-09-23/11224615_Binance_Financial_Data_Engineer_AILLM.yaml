@@ -1,0 +1,77 @@
+company:
+  name: Binance
+  stage: null
+  focus: Global digital asset and stock trading platform
+position:
+  title: Financial Data Engineer, AI/LLM
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines that feed Binance's AI
+      business scenarios and knowledge engineering pipelines, but
+      it does not shape any model's behavior — no prompting, RAG
+      design, fine-tuning, or evals. AI appears only as a
+      downstream consumer and as AI-assisted development tooling,
+      so it is ai-support.
+  responsibilities:
+  - Research, evaluate, ingest, integrate, and cleanse financial market data including
+    securities master data, real-time and historical market data, fundamentals, corporate
+    actions, and indices
+  - Deliver content-type data (announcements, news, research reports) to knowledge
+    engineering pipelines
+  - Design scalable unified data models and integration frameworks across markets,
+    handling trading calendars, currencies, identifiers, and data corrections
+  - Build and optimize batch-stream unified data pipelines centered on Flink
+  - Establish data quality frameworks with reconciliation, anomaly detection, monitoring,
+    backfill, and fault recovery
+  - Evaluate data sources and vendors and drive primary/backup source strategies with
+    product, procurement, legal, and compliance teams
+  - Define data semantics and service contracts with trading product, data platform,
+    AI engineering, and algorithm teams
+  - Drive data engineering efficiency via metadata, data lineage, automated testing,
+    CI/CD, and task orchestration
+  use_cases:
+  - Financial market data foundation for user-facing stock trading products
+  - Data supply for Binance AI business scenarios and knowledge engineering pipelines
+  - Real-time and historical stock market data services across global markets
+  - Data quality governance for reliable trading and analytics
+  skills:
+    genai: []
+    ml: [Anomaly Detection]
+    web: []
+    databases: []
+    data: [Flink, Data Pipelines, Data Governance, Data Modeling]
+    cloud: []
+    ops: [CI/CD, Monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11224615'
+  location: TJK
+  locations:
+  - TJK
+  - MYS
+  - MDV
+  - JPN
+  - LAO
+  - IND
+  - TUR
+  - TWN
+  - KHM
+  - PAK
+  - PHL
+  - MNG
+  - THA
+  - HKG
+  - BGD
+  - KOR
+  - USA
+  - Singapore, SGP
+  - Taipei City, TWN
+  remote: true
+  extracted_at: '2026-09-23T11:28:07.052801'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

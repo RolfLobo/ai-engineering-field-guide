@@ -1,0 +1,48 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Edge-to-cloud enterprise IT and HPC solutions
+position:
+  title: HPC & AI Software - Engineering Resolution Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a support/troubleshooting role for HPC networking
+      software (Slingshot interconnects). The person resolves
+      software issues and escalates to R&D; there is no shaping of
+      any AI/ML model behavior - no prompts, retrieval, training,
+      or evals. AI appears only in the product context, not in the
+      work.
+  responsibilities:
+  - Analyze, reproduce, isolate and resolve issues with Slingshot software
+  - Provide Level 3 technical support for customer-reported issues
+  - Escalate unresolved issues to HPE R&D and external partners and track to closure
+  - Perform selected product pre-release testing and system upgrades
+  - Document and communicate issue resolution processes and customer notices
+  - Provide after-hours and on-call support including maintenance windows and outages
+  - Mentor less-experienced staff members
+  use_cases:
+  - Troubleshooting and resolution of HPC interconnect software issues
+  - Level 3 support for supercomputing networking products
+  - Pre-release testing of HPC software
+  - System upgrades and maintenance for exascale supercomputing environments
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, System Monitoring]
+    languages: [Bash, Python]
+    domains: []
+    other: [HPC, HPE Cray EX, Slingshot Interconnects, InfiniBand, High-Speed Ethernet,
+      Parallel Filesystems, Cluster Management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11321566'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:38:22.934267'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

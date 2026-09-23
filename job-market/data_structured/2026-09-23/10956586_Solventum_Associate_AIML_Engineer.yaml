@@ -1,0 +1,59 @@
+company:
+  name: Solventum
+  stage: null
+  focus: Healthcare technology spun off from 3M
+position:
+  title: Associate AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents and multi-agent
+      systems with LangGraph, LangChain, AutoGen, and CrewAI, and
+      works with LLMs, Prompt Engineering, and RAG — directly
+      shaping model behaviour, so it is ai-first. It also covers
+      classical ML (forecasting, anomaly detection), but LLM/agent
+      work dominates.
+  responsibilities:
+  - Assist in designing, developing, and deploying Machine Learning models and AI
+    solutions for supply chain business challenges
+  - Build, test, and deploy AI Agents and multi-agent systems using LangGraph, LangChain,
+    AutoGen, or CrewAI
+  - Develop data ingestion, transformation, and feature engineering pipelines for
+    structured and unstructured enterprise data
+  - Support integration of knowledge repositories, knowledge graphs, vector databases,
+    and intelligent document processing
+  - Deploy and maintain AI/ML applications on AWS and Azure with MLOps and LLMOps
+    pipelines including CI/CD and monitoring
+  - Evaluate and monitor ML models and LLMs, improving accuracy and reducing inference
+    latency
+  - Collaborate with supply chain stakeholders, data scientists, cloud architects,
+    and product managers to translate business requirements into AI solutions
+  use_cases:
+  - Supply chain forecasting and optimization
+  - Predictive analytics and anomaly detection in supply chain
+  - Intelligent automation of business processes via AI agents
+  - Contextual AI insights over enterprise knowledge repositories and documents
+  - Operational decision-making support for supply chain functions
+  skills:
+    databases: [Vector Databases, Knowledge Graphs]
+    domains: []
+    data: [Data Pipelines, Intelligent Document Processing, Databricks]
+    web: [APIs, Microservices]
+    ml: [Machine Learning, Forecasting, Predictive Analytics, Anomaly Detection, Feature
+        Engineering, Model Evaluation]
+    ops: [MLOps, LLMOps, CI/CD, Docker, Kubernetes, MLflow, LangSmith, Prometheus,
+      Grafana, OpenTelemetry, Model Deployment, Model Monitoring, Azure Monitor]
+    other: [Responsible AI]
+    cloud: [AWS, Azure, Azure ML, Azure AI Foundry, CloudWatch]
+    languages: [Python, SQL]
+    genai: [Generative AI, AI Agents, Multi-Agent Systems, Agentic Workflows, LangGraph,
+      LangChain, AutoGen, CrewAI, LLMs, Prompt Engineering, RAG, LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10956586'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:09:18.270584'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

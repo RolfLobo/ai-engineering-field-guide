@@ -1,0 +1,46 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: R&D lab building AI/ML and Generative AI solutions
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG pipelines and LLM/Generative
+      AI applications, directly shaping model behavior and output,
+      so it is ai-first. Classical ML (TensorFlow/PyTorch) is also
+      present, but LLM involvement dominates.
+  responsibilities:
+  - Design, develop and deploy scalable AI/ML solutions
+  - Build and integrate Generative AI and LLM-based applications
+  - Develop RAG pipelines and AI-powered solutions
+  - Optimize AI/ML models for production environments
+  - Work with engineering and R&D teams on POCs and production solutions
+  - Drive technical architecture and solution design
+  - Mentor engineers and provide technical leadership
+  - Ensure scalability, reliability and performance of AI applications
+  use_cases:
+  - Generative AI and LLM-based applications
+  - RAG pipelines for AI-powered solutions
+  - Production AI/ML model deployment and optimization
+  - Scalable AI solutions for POCs and production
+  skills:
+    genai: [Generative AI, LLMs, RAG, LangChain, LlamaIndex]
+    ml: [Machine Learning, Deep Learning, TensorFlow, PyTorch, Hugging Face]
+    web: [REST APIs, FastAPI]
+    databases: [Vector Databases, SQL, NoSQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Model Deployment, Git, CI/CD, MLOps, Model Monitoring]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235294'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:29:45.230870'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

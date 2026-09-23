@@ -1,0 +1,97 @@
+job_id: 11201115
+title: "Python Developer – Generative AI & AWS"
+company: Trackmind
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 70 Employees
+description: |
+  We are looking for an experienced Python Developer with
+  strong expertise in AWS, Generative AI, LLMs, and
+  Microservices Architecture. The ideal candidate should have
+  hands-on experience developing scalable Python applications,
+  integrating AWS services, and building AI-powered solutions
+  using Large Language Models such as GPT and Cohere.
+
+  The role involves developing scalable backend services,
+  implementing LLM-based applications and RAG solutions,
+  building document-processing pipelines, and supporting
+  automated CI/CD deployments in a cloud environment.
+
+  Key Responsibilities:
+
+  - Design, develop, test, and maintain scalable backend
+    applications and REST APIs using Python.
+  - Integrate Python applications with AWS services including
+    Lambda, S3, API Gateway, ECS, EKS, EC2, DynamoDB, RDS,
+    SQS, SNS, CloudWatch, and IAM.
+  - Develop AI-powered applications using LLMs such as GPT and
+    Cohere.
+  - Build and optimize prompt workflows, embeddings, semantic
+    search, and Retrieval-Augmented Generation (RAG)
+    solutions.
+  - Implement document-processing pipelines using chunking,
+    segmentation, tokenization, and metadata enrichment
+    techniques.
+  - Design and optimize different document chunking strategies,
+    including fixed-size, recursive, semantic, and context-
+    aware chunking, based on data type and use case.
+  - Develop and maintain RESTful APIs and event-driven
+    microservices.
+  - Design scalable and reliable backend services using
+    microservices architecture.
+  - Package and deploy applications using Docker and container
+    orchestration platforms such as ECS/EKS where applicable.
+  - Develop and maintain CI/CD pipelines for automated testing,
+    deployment, and release management.
+  - Monitor application performance and troubleshoot production
+    issues to improve reliability, scalability, and
+    performance.
+  - Follow secure coding practices and AWS best practices for
+    IAM, access control, logging, monitoring, and application
+    security.
+  - Write and maintain unit, integration, and end-to-end tests.
+  - Collaborate with AI/ML engineers, Data Scientists, DevOps
+    teams, Product Managers, and other stakeholders.
+  - Prepare and maintain clear technical documentation, API
+    documentation, and architecture details.
+
+  Required Skills
+
+  - Strong hands-on experience with Python.
+  - Good knowledge of OOP, data structures, and backend
+    development.
+  - Strong experience developing REST APIs and microservices.
+  - Hands-on experience with AWS cloud services.
+  - Experience with Generative AI, LLMs, GPT, Cohere,
+    embeddings, and RAG.
+  - Strong understanding of prompt engineering and LLM
+    integration.
+  - Experience with document processing, chunking, segmentation,
+    tokenization, and semantic search.
+  - Experience with Docker and CI/CD pipelines.
+  - Good understanding of cloud security, IAM, monitoring, and
+    logging.
+  - Experience with SQL and relational databases, preferably
+    PostgreSQL.
+
+  Good to Have
+
+  - Working knowledge of React.js.
+  - Working knowledge of Angular.
+  - Experience with PostgreSQL and database optimization.
+  - Experience with vector databases such as Pinecone, Qdrant,
+    Weaviate, or similar.
+  - Experience with LangChain, LangGraph, or similar GenAI
+    frameworks.
+  - Knowledge of Kubernetes and cloud-native application
+    development.
+  - Experience with event-driven architectures using SQS, SNS,
+    Kafka, or similar messaging platforms.
+
+  Preferred Candidate Profile
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-16
+url: "https://builtin.com/job/python-developer/11201115"
+source: Built In

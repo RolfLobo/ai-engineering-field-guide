@@ -1,0 +1,246 @@
+job_id: 11267305
+title: Applied AI Engineer
+company: Dwelly
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 11 Employees
+description: |
+  About Dwelly
+
+  Dwelly is building the AI operating system for residential
+  lettings. Its growing network of agencies provides its AI
+  with real-world data, continuous feedback, and control over
+  complete workflows, making exceptional service the standard
+  for landlords and tenants. Today, Dwelly operates more than
+  15,000 properties and $470 million in GMV, making it one of
+  the UK’s ten largest lettings operators. The company has
+  raised $263 million.
+
+  We’re a fast-growing, product-focused company, backed by
+  top-tier investors and led by a team with deep experience in
+  real estate, technology, and operations.
+
+  Position Summary
+
+  We’re looking for an Applied AI Engineer to help build the
+  agentic infrastructure that powers automation across Dwelly.
+  Our growth model is acquisition. Every agency we acquire
+  brings new operational workflows, legacy processes, and
+  manual work. If we manage each new agency manually, the
+  economics of the model break. Our ability to scale depends
+  on turning complex operational processes into reliable AI-
+  driven and automated systems.
+
+  We already have successful AI-driven flows running in Tenant
+  Find and Property Management. They work and deliver real
+  business results. But they were built quickly and as
+  separate systems.
+
+  The next challenge is to bring these approaches together:
+  build reusable agentic infrastructure, establish a robust
+  evaluation and observability layer, and create systems that
+  allow us to automate new workflows quickly and reliably as
+  Dwelly scales.
+
+  This is not an AI research role. You will be building AI
+  systems that operate inside a real business and are expected
+  to work reliably in production.
+
+  We’re hiring remotely across the UK, Ireland, and European
+  time zones. Candidates should be based within these
+  regions/time zones to enable effective collaboration with
+  the wider team.
+
+  Key Responsibilities1. Agentic infrastructure
+
+  - Design and build the core primitives behind our agentic
+    systems, including memory, context management, tool-
+    calling, orchestration, and feedback loops.
+  - Move us from one-off AI solutions toward reusable
+    infrastructure where new workflows can be introduced
+    quickly and with predictable reliability.
+
+  2. Evaluation & observability
+
+  - Build the evaluation framework that allows us to understand
+    how our agents perform and why they succeed or fail.
+  - Make testing, tracing, debugging, and evaluating AI systems
+    as fundamental to our engineering process as unit testing
+    traditional software.
+  - Develop the systems that allow us to confidently assess an
+    agentic workflow before deploying it into production.
+
+  3. Agentic development
+
+  - Push forward how we use LLMs to build software itself.
+  - Create workflows where coding agents and specialized
+    subagents can explore repositories, implement changes,
+    review architecture, check conventions, run evaluations,
+    and iterate with minimal human coordination.
+  - Use agentic engineering workflows extensively in your own
+    day-to-day development.
+
+  4. Orchestration
+
+  - Design systems where specialized agents, tools,
+    deterministic software, and humans work together
+    effectively.
+  - Understand when a problem should be solved with an LLM, when
+    traditional software is the better solution, and when
+    multiple coordinated agents can materially improve the
+    outcome.
+
+  5. Operational automation
+
+  - Act as the bridge between complex operational workflows and
+    engineering.
+  - Work closely with our operational and product teams to
+    understand how work actually happens across acquired
+    agencies, identify the highest-leverage opportunities for
+    automation, and turn them into reliable production
+    systems.
+
+  6. Architectural influence
+
+  - Help define the architectural patterns we use for agentic
+    systems as the company scales.
+  - You won’t be joining as engineer #20 on an established AI
+    platform. You will be an early core member of the team
+    with significant influence over our technical approach,
+    tooling, and engineering standards.
+
+  Qualifications and Preferred Background
+
+  - Strong software engineering background with experience
+    independently delivering complex systems from idea through
+    to production
+  - Hands-on experience building AI or agentic systems that have
+    operated in production
+  - Experience dealing with real-world AI challenges such as
+    reliability, latency, context management, failure modes,
+    evaluation, and observability
+  - Strong understanding of agents, tool use, structured
+    outputs, context management, orchestration, evaluation,
+    and feedback loops
+  - Advanced practical use of modern LLMs — not simply using
+    ChatGPT or Claude occasionally, but understanding how to
+    build reliable workflows around probabilistic systems
+  - Experience using coding agents and agentic development
+    workflows as part of your own engineering process
+  - Experience decomposing complex engineering tasks across
+    agents or specialized subagents and designing mechanisms
+    for them to verify and improve their outputs
+  - Strong architectural judgment and ability to decide when to
+    use LLMs, deterministic software, human intervention, or a
+    combination of approaches
+  - Experience with TypeScript / Node.js, or strong experience
+    building AI systems in Python with the ability and
+    willingness to apply that knowledge in a TypeScript-first
+    environment
+  - High autonomy, ownership, and comfort making decisions under
+    ambiguity
+  - Strong product judgment and ability to connect technical
+    decisions to operational and business outcomes
+  - Strong communication skills and fluency in English
+  - Startup mentality: resilience, adaptability, and ability to
+    thrive in a fast-paced environment
+
+  What We Don't Mean by “AI Experience”
+
+  For this role, AI experience does not mean:
+
+  - Using ChatGPT to generate snippets of code
+  - Adding a single LLM API call to an application
+  - Building a prompt wrapper and calling it an agent
+  - Blindly accepting whatever a coding agent generates
+
+  We are looking for engineers who think in terms of agents,
+  tools, context, orchestration, evaluation, feedback loops,
+  and human-machine collaboration — and who already apply
+  these concepts in their day-to-day engineering work.
+
+  What Success Looks Like
+
+  Within your first 12 months:
+
+  - Reliability: We can deploy a new agentic workflow and
+    understand how it will perform before it reaches
+    production because we have robust evaluation and
+    observability systems in place.
+  - Speed: Integrating processes from newly acquired agencies
+    takes days rather than weeks because we have a
+    standardized library of reusable agentic primitives.
+  - Efficiency: A significant amount of repetitive operational
+    work has been automated, allowing our teams to focus on
+    the areas where human judgment and interaction create the
+    most value.
+  - Engineering leverage: Agentic development workflows
+    materially increase the speed and quality at which our
+    engineering team can build, test, and evolve software.
+
+  Technology Stack
+
+  TypeScript (Primary) · Node.js · PostgreSQL · LLM
+  Orchestration · Agentic Workflows
+
+  Why This Might Not Be for You
+
+  This role is probably not the right fit if:
+
+  - You primarily want to research new models, read the latest
+    papers, or train custom models. We are pragmatic builders
+    rather than an AI research lab.
+  - You prefer working from a clearly defined backlog where
+    someone else determines what should be built.
+  - You enjoy prototyping AI systems but are less interested in
+    the less glamorous work required to make them reliable —
+    evaluation, logging, error handling, observability,
+    infrastructure, and operational edge cases.
+  - You see AI primarily as a feature rather than a new way of
+    designing and building software systems.
+
+  Compensation and benefits
+
+  - The role is fully remote, providing flexibility and enabling
+    seamless collaboration with our geographically distributed
+    team
+  - Competitive salary with the potential for equity options
+    based on performance, recognising exceptional
+    contributions to our integration success
+
+  What is it like being a Dwell-er
+
+  Feel free to check out Dwelly Core Principles. That’s about
+  what we believe in, how we operate and make decisions
+
+  What we offer is not a fancy office or a static workplace.
+  Instead, this is solving one of the world’s most complex
+  problems in the largest consumer industry in the world
+  (residential rentals), to improve the experience for over
+  30% of households (more than 5 million in the UK, and over
+  100 million including EU and US) that live in rental homes
+
+  This is about disrupting the largest, most antiquated
+  industry in the world, with one of the strongest operational
+  and technical teams that exist in the UK and the EU. We work
+  hard, and we shoot for extremely ambitious results. But we
+  want people to be proud of what they’ve built and be able to
+  look back and say one day “hell yeah, that was me that did
+  it all”
+
+  - Customer obsession rather than competitive focus
+  - Passion for invention
+  - Operational excellence
+  - Long-term thinking
+
+  By applying for this position, you consent to the processing
+  and storage of your personal data for recruitment purposes
+  for up to 365 days, in accordance with our data retention
+  policy and applicable data protection laws.
+industries:
+  - Artificial Intelligence
+  - Real Estate
+posted_date: 2026-09-19
+url: "https://builtin.com/job/applied-ai-engineer/11267305"
+source: Built In

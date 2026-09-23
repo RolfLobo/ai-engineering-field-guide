@@ -1,0 +1,54 @@
+company:
+  name: IFS
+  stage: null
+  focus: |-
+    AI-native enterprise software for asset and operations
+    management
+position:
+  title: Forward Deployed Engineer — Platform (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role at an AI-native
+      platform, which is explicitly ai-first per the edge cases.
+      The role embeds with product teams and customers to design
+      and deploy production AI solutions on a platform combining
+      LLMs and agentic AI, though the listed stack is mostly
+      platform engineering.
+  responsibilities:
+  - Embed directly with product teams and customer organisations to maximise developer
+    velocity and reduce GTM timelines
+  - Lead technical discovery to identify actual bottlenecks
+  - 'Design and build production-grade solutions on the IFS Cloud platform: workflows,
+    integrations, event-driven patterns, and data pipelines'
+  - Champion and implement event-driven architecture patterns across product teams
+  - Build tooling, patterns, and reference implementations accelerating adoption of
+    Kairos and Nexus
+  - Ship working first versions fast, then harden with monitoring and iteration
+  - Drive requirements for the Internal Developer Platform (IDP)
+  - Work directly with customer architects, IT leads, and business stakeholders
+  use_cases:
+  - Enterprise AI platform adoption at customer sites
+  - Developer velocity and internal developer platform for AI products
+  - Event-driven workflows, integrations, and data pipelines on IFS Cloud
+  - Production AI systems combining LLMs and agentic AI for enterprise asset and operations
+    management
+  skills:
+    genai: []
+    ml: []
+    web: [React, Next.js]
+    databases: [PostgreSQL]
+    data: [Kafka, RedPanda]
+    cloud: []
+    ops: [Kubernetes, GitOps, Infrastructure as Code, Monitoring, Docker]
+    languages: [Go]
+    domains: []
+    other: [Event-Driven Architecture, Distributed Systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11070205'
+  location: Staines-upon-Thames, GBR
+  extracted_at: '2026-09-23T11:16:43.474679'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

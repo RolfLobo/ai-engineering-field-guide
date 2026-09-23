@@ -1,0 +1,56 @@
+company:
+  name: Cisco
+  stage: null
+  focus: Networking and AI infrastructure solutions
+position:
+  title: Software Engineering Technical Leader | AI Cluster Orchestrator & Automation
+    Engineer | 15+ years
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role automates AI/GPU cluster infrastructure bring-up,
+      configuration, and lifecycle management. No LLM or model
+      behavior shaping (no prompts, RAG, evals, or training) is
+      involved; the deliverable is cluster capacity and
+      reliability, not model behavior.
+  responsibilities:
+  - Design and implement repeatable end-to-end automation for AI cluster bring-up,
+    configuration, validation, lifecycle management, and teardown
+  - Build idempotent orchestration workflows for GPU nodes, service nodes, network
+    fabrics, and storage
+  - Automate PXE, NVIDIA BCM, DHCP, Redfish, BIOS, firmware, OS, Kubernetes/operators,
+    and Slurm integration
+  - Coordinate dependencies across compute, Cisco networking, storage/Vast, GPU platforms,
+    and service nodes
+  - Implement health checks, configuration drift detection, validation gates, rollback,
+    failure recovery, and operational observability
+  - Document runbooks, APIs, interfaces, and support handoffs
+  use_cases:
+  - Automated bring-up and teardown of AI GPU clusters
+  - Lifecycle management and configuration validation across compute, network, and
+    storage
+  - Configuration drift detection, health checking, and failure recovery for AI infrastructure
+  - Benchmarking and certification of curated AI infrastructure reference architectures
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, Redfish]
+    databases: []
+    data: []
+    cloud: [NVIDIA BCM]
+    ops: [Kubernetes, Linux, Infrastructure as Code, CI/CD, Observability, Network
+        Automation, Telemetry]
+    languages: [Python]
+    domains: []
+    other: [Slurm, PXE, DHCP, Cisco UCS, Supermicro Systems, Vast Storage]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11225029'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:28:41.332058'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

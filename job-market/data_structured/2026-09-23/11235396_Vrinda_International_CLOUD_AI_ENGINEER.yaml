@@ -1,0 +1,43 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: Cloud and AI engineering services
+position:
+  title: CLOUD & AI ENGINEER
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and deploys production AI/GenAI applications
+      and cloud infrastructure, but the description gives no
+      evidence the person shapes model behavior via prompts,
+      retrieval design, agent flows, or training. Serving and
+      deploying models others build is ai-support.
+  responsibilities:
+  - Develop and maintain cloud-native solutions across AWS and Azure
+  - Build and deploy production-grade AI/GenAI applications
+  - Design and implement scalable serverless architectures
+  - Develop event-driven and distributed cloud solutions
+  - Troubleshoot complex cloud and AI systems
+  - Ensure applications are scalable, secure and reliable
+  - Support cloud architecture and technical design decisions
+  - Collaborate with cross-functional teams to deliver cloud and AI solutions
+  use_cases: []
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning, AI/ML Engineering]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, Serverless Architecture, Cloud Architecture]
+    ops: [Event-Driven Architecture, Distributed Systems]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235396'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:29:49.958334'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

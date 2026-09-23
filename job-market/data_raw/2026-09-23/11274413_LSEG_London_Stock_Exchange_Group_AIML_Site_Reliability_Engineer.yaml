@@ -1,0 +1,173 @@
+job_id: 11274413
+title: AI/ML Site Reliability Engineer
+company: LSEG (London Stock Exchange Group)
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 15,967 Employees
+description: |
+  Corporate Engineering AI (CE AI) Team
+
+  The Corporate Engineering AI team is the central enablement
+  and platform delivery function for LSEG’s internal agentic
+  AI ecosystem. The team’s mission is to scale safe,
+  high‑quality AI capabilities across the enterprise by
+  providing shared platforms, patterns, governance, and
+  delivery support.
+
+  CE AI owns and operates core AI platforms including LSEG AI
+  Assist, the Question Answering Service (QAS), and the
+  Internal MCP Gateway. Rather than delivering individual
+  business use cases end‑to‑end, the team enables product
+  engineering groups across LSEG to expose knowledge, data,
+  and actions to AI agents in a consistent, governed, and
+  repeatable way.
+
+  The team operates a Central MCP Delivery model: building
+  critical MCP tools and services “for” product teams where
+  required, while simultaneously defining standards, patterns,
+  and platform capabilities that allow teams to progressively
+  move towards self‑service contribution.
+
+  LSEG AI Assist / Internal MCP Programme of Work
+
+  This programme delivers an LSEG‑owned, production‑grade
+  agentic AI platform with MCP as its extensibility layer.
+
+  The scope of work includes:
+
+  *   Building and operating LSEG AI Assist, an in‑house
+  agentic experience capable of reasoning, planning, and
+  tool‑calling.
+
+  *   Operating QAS, the enterprise RAG and search layer used
+  to ground agent responses in approved data sources.
+
+  *   Delivering a production Internal MCP Gateway providing
+  discovery, security, policy enforcement, observability, and
+  lifecycle management for MCP tools and Skills.
+
+  *   Designing and building MCP servers and Skills that
+  expose internal and vendor systems safely to agents.
+
+  *   Establishing evaluation, quality control, and governance
+  mechanisms so MCP tools and Skills can be promoted through
+  PTB/PTO and operated with confidence at scale.
+
+  The programme follows a “build for” model today, with a
+  strong emphasis on defining the future product and platform
+  experience, patterns, and contribution pathways that will
+  enable federated scale over time. Site Reliability Engineers
+  – Responsibilities & Skills
+
+  Responsibilities
+
+  *   Build, operate, and harden the Internal MCP Gateway and
+  related platform services.
+
+  *   Define and implement observability, monitoring, and
+  audit capabilities for agent tool‑calling and MCP traffic.
+
+  *   Ensure MCP platform components meet availability,
+  performance, and reliability targets.
+
+  *   Support secure hosting and runtime environments for MCP
+  servers and related services.
+
+  *   Partner with ML and Quality Engineers to support
+  testing, evaluation, and safe rollout of platform changes.
+
+  *   Contribute to service management, incident response, and
+  operational readiness for production AI platforms.
+
+  *   Help shape the long‑term platform architecture
+  supporting federated MCP scale.
+
+  Skills
+
+  *   Strong Python experience for platform services and
+  operational tooling.
+
+  *   Experience with observability and monitoring stacks
+  (metrics, tracing, logging, dashboards).
+
+  *   SQL skills for operational analysis, reporting, and
+  audit queries.
+
+  *   Hands‑on experience operating services on AWS.
+
+  *   Knowledge of cloud‑native reliability patterns and
+  service lifecycle management.
+
+  *   Experience supporting platforms subject to audit,
+  compliance, and regulated delivery processes.
+
+  We're proud to have been recognised as a Great Place to
+  Work® in India ‘25
+
+  Career Stage:
+
+  Senior Associate
+
+  London Stock Exchange Group (LSEG) Information:
+
+  Join us and be part of a team that values innovation,
+  quality, and continuous improvement. If you're ready to take
+  your career to the next level and make a significant impact,
+  we'd love to hear from you.
+
+  LSEG is a leading global financial markets infrastructure
+  and data provider. Our purpose is driving financial
+  stability, empowering economies and enabling customers to
+  create sustainable growth.
+
+  Our purpose is the foundation on which our culture is built.
+  Our values of Integrity, Partnership, Excellence and Change
+  underpin our purpose and set the standard for everything we
+  do, every day. They go to the heart of who we are and guide
+  our decision making and everyday actions.
+
+  Working with us means that you will be part of a dynamic
+  organisation of 25,000 people across 65 countries. However,
+  we will value your individuality and enable you to bring
+  your true self to work so you can help enrich our diverse
+  workforce.
+
+  We are proud to be an equal opportunities employer. This
+  means that we do not discriminate on the basis of anyone’s
+  race, religion, colour, national origin, gender, sexual
+  orientation, gender identity, gender expression, age,
+  marital status, veteran status, pregnancy or disability, or
+  any other basis protected under applicable law. Conforming
+  with applicable law, we can reasonably accommodate
+  applicants' and employees' religious practices and beliefs,
+  as well as mental health or physical disability needs.
+
+  You will be part of a collaborative and creative culture
+  where we encourage new ideas. We are committed to
+  sustainability across our global business and we are proud
+  to partner with our customers to help them meet their
+  sustainability objectives. Our charity, the LSEG Foundation
+  provides charitable grants to community groups that help
+  people access economic opportunities and build a secure
+  future with financial independence. Colleagues can get
+  involved through fundraising and volunteering.
+
+  LSEG offers a range of tailored benefits and support,
+  including healthcare, retirement planning, paid volunteering
+  days and wellbeing initiatives.
+
+  Please take a moment to read this privacy notice carefully,
+  as it describes what personal information London Stock
+  Exchange Group (LSEG) (we) may hold about you, what it’s
+  used for, and how it’s obtained, your rights and how to
+  contact us as a data subject.
+
+  If you are submitting as a Recruitment Agency Partner, it is
+  essential and your responsibility to ensure that candidates
+  applying to LSEG are aware of this privacy notice.
+industries:
+  - Fintech
+  - Analytics
+posted_date: 2026-09-21
+url: "https://builtin.com/job/ai-ml-site-reliability-engineer/11274413"
+source: Built In

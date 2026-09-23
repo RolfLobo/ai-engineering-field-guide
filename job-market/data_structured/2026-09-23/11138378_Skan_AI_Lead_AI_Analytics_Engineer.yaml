@@ -1,0 +1,54 @@
+company:
+  name: Skan AI
+  stage: null
+  focus: Process intelligence software for enterprise work
+position:
+  title: Lead AI Analytics Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role explicitly uses LLM/NLP tooling as an accelerant
+      for analysis ("using-AI-as-a-tool requirement, not a model-
+      building one") and partners with data science when model
+      depth is needed. It shapes no model behavior, so it is ai-
+      support.
+  responsibilities:
+  - Architect and build Power BI and Superset dashboards delivering descriptive and
+    prescriptive analytics
+  - Run deep-dive analyses using Skan.ai's AI/LLM and NLP tooling to surface patterns
+    in unstructured process and customer data
+  - Monitor health of reporting data pipelines including schema drift, freshness,
+    volume anomalies, and quality checks
+  - Configure, tune, and scale the SQL/Superset/Power BI stack for very large data
+    volumes
+  - Troubleshoot production data and database issues, plan capacity upgrades, and
+    prevent outages
+  - Partner directly with customers on tailored analytics solutions and with cross-functional
+    teams on roadmap
+  - Build and mentor a high-performing analytics team
+  use_cases:
+  - Descriptive and prescriptive analytics for enterprise business outcomes
+  - Analysis of unstructured process and customer data using AI/LLM and NLP tooling
+  - Process intelligence and automation of complex enterprise processes
+  - Production data pipeline health and observability for customer-facing reporting
+  skills:
+    genai: [LLMs]
+    ml: [NLP]
+    web: []
+    databases: [SQL, Databases, Snowflake]
+    data: [Data Pipelines, Databricks]
+    cloud: []
+    ops: [Monitoring]
+    languages: []
+    domains: []
+    other: [Power BI, Superset, Data Observability, Tableau, Data Visualization, Business
+        Intelligence, Process Mining]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '11138378'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:21:39.744591'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

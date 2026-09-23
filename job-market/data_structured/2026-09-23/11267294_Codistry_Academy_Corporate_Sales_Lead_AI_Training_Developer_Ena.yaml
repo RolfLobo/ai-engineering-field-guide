@@ -1,0 +1,49 @@
+company:
+  name: Codistry Academy
+  stage: null
+  focus: |-
+    AI-driven software development training and developer up-
+    skilling
+position:
+  title: Corporate Sales Lead – AI Training & Developer Enablement
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a corporate sales role selling AI training programs;
+      the person never shapes model behaviour, writes prompts, or
+      builds AI systems. AI is only the subject matter of the
+      product being sold, so per Step 1 the answer is no and the
+      role is ai-support.
+  responsibilities:
+  - Own end-to-end corporate sales for the U.S. market
+  - Engage decision-makers at small, mid-market, and enterprise companies
+  - Understand client goals and translate them into tailored training solutions
+  - Sell multi-day training programs and ongoing enablement
+  - Build long-term client relationships rather than one-off deals
+  - Collaborate directly with leadership and instructors
+  - Help shape pricing, packaging, and go-to-market strategy
+  use_cases:
+  - Consultative selling of AI-driven software development training to corporate clients
+  - Tailored team up-skilling and developer enablement programs
+  - Capability upgrades for teams from startups to enterprises
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [B2B Sales, Enterprise Sales, Consultative Sales, Sales Pipeline Management,
+      Go-to-Market Strategy]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11267294'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:32:37.806686'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

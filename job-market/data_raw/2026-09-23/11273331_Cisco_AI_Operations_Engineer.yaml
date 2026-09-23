@@ -1,0 +1,176 @@
+job_id: 11273331
+title: AI Operations Engineer
+company: Cisco
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 77,500 Employees
+description: |
+  Meet the Team
+
+  Join Cisco’s Commerce Operations Engineering Center (COEC)
+  as an AI Engineer, where you will be part of a dynamic team
+  driving innovation through AI-powered automation.
+  Collaborate with multi-functional AI, engineering, and
+  operations teams to transform sophisticated operational
+  challenges into reliable, scalable AI solutions that advance
+  Cisco’s AI-first future.
+
+
+  Your Impact
+
+  As an AI Engineer in COEC, you will design, build, and
+  operate production-ready AI agents that power Cisco’s
+  Commerce Operations. You will translate complex operational
+  needs into automated workflows by orchestrating LLM
+  reasoning, tool/function calling, retrieval, enterprise
+  integrations, and agent-to-agent communication. You will be
+  responsible for the full lifecycle of AI agent delivery—from
+  solution design, guardrails, and system integration to
+  evaluation, deployment, monitoring, and continuous
+  improvement. Your work will help eliminate manual tasks,
+  improve speed and accuracy, and drive operational
+  excellence.
+
+
+  What You’ll Do
+
+  - Design and build AI agents that automate manual and
+    repetitive Commerce Operations tasks.
+  - Implement agent orchestration using frameworks such as
+    LangGraph, LangChain, AutoGen, CrewAI, or equivalent.
+  - Build agent-to-agent integrations using emerging standards
+    such as A2A and MCP to enable reliable coordination and
+    delegation.
+  - Design secure API integrations with commerce platforms and
+    enterprise data sources using REST, GraphQL, webhooks,
+    event-driven services, authentication, rate limiting, and
+    error handling.
+  - Build and optimize retrieval-augmented generation (RAG)
+    pipelines using documents, structured data, and knowledge
+    repositories.
+  - Implement guardrails, human approval gates, LLM routing, and
+    failover mechanisms to ensure reliability, safety, and
+    cost control.
+  - Apply prompt and context engineering to ensure AI agents
+    deliver accurate, safe, and consistent outcomes.
+  - Build evaluation and observability capabilities, including
+    offline test sets, online monitoring, tracing, audit
+    logging, and quality regression detection.
+  - Own deployment and production operations, including CI/CD,
+    progressive rollout, rollback, monitoring, model/version
+    control, and cost tracking.
+  - Supervise AI solution performance and report business impact
+    through critical metrics such as efficiency gains, cycle-
+    time reduction, incident reduction, and operational
+    accuracy.
+  - Continuously improve AI workflows, tools, and methodologies
+    to increase reliability, scalability, and business value.
+  - Partner with Commerce Operations, application development,
+    infrastructure, and business teams to integrate AI
+    solutions into existing systems and workflows.
+
+  Minimum Qualifications
+
+  - 7+ years of experience in software engineering or a related
+    field within an enterprise environment.
+  - Shown experience building and deploying LLM-powered or
+    agentic AI applications in production.
+  - Strong Python skills and tactical experience with LLM/agent
+    frameworks such as LangChain, LangGraph, AutoGen, CrewAI,
+    OpenAI SDK, Anthropic SDK, or equivalents.
+  - Practical expertise in retrieval-augmented generation (RAG),
+    prompt engineering, tool/function calling, agent
+    orchestration, and multi-agent communication or workflow
+    orchestration.
+  - Experience with API and system integrations, including REST,
+    GraphQL, event-driven services, authentication, and
+    enterprise data sources.
+  - Demonstrated ability to lead technical delivery and
+    collaborate effectively with multi-functional business and
+    engineering teams.
+
+  Preferred Qualifications
+
+  - Experience with agent interoperability standards and
+    protocols, including A2A, Model Context Protocol (MCP),
+    and OpenAPI-based tool integration.
+  - Skilled in designing enterprise-grade multi-agent systems,
+    human-in-the-loop workflows, and implementing agent
+    guardrails.
+  - Validated experience with agent evaluation and observability
+    tools such as eval harnesses, tracing, LangSmith,
+    Langfuse, or equivalent AgentOps/LLMOps platforms.
+  - Knowledge of vector databases and sophisticated retrieval
+    methods, including hybrid search, reranking, multimodal
+    retrieval, and knowledge-graph grounding.
+  - Familiarity with AI governance and safety practices,
+    including RBAC, audit logging, PII handling, and controls
+    for high-risk automated actions.
+  - Experience with cloud platforms (AWS, GCP, Azure) and
+    MLOps/LLMOps practices, including cost-aware LLM routing
+    and FinOps.
+  - Understanding of commerce platforms, commerce operations, or
+    supply chain operations.
+  - Consistent record of leading end-to-end AI or agentic AI
+    delivery in sophisticated enterprise environments.
+  - Advanced degree in AI, Machine Learning, Computer Science,
+    or related field preferred.
+
+  Why Cisco?
+
+  At Cisco, we’re revolutionizing how data and infrastructure
+  connect and protect organizations in the AI era – and
+  beyond. We’ve been innovating fearlessly for 40 years to
+  create solutions that power how humans and technology work
+  together across the physical and digital worlds. These
+  solutions provide customers with unparalleled security,
+  visibility, and insights across the entire digital
+  footprint.
+
+  Fueled by the depth and breadth of our technology, we
+  experiment and create meaningful solutions. Add to that our
+  worldwide network of doers and experts, and you’ll see that
+  the opportunities to grow and build are limitless. We work
+  as a team, collaborating with empathy to make really big
+  things happen on a global scale. Because our solutions are
+  everywhere, our impact is everywhere.
+
+  We are Cisco, and our power starts with you.
+
+  Disclaimer
+
+  To ensure that we hire the best talent in the right way, we
+  follow a strict hiring process and recently, Cisco has been
+  made aware of fraudulent recruiters claiming to be from the
+  company. Please be advised that any communication from Cisco
+  about careers will:
+
+  - be in direct response to an application you have submitted
+    through the company career site
+  - begin with screening or an interview
+  - originate from a Cisco email address, and
+  - be conducted across email, phone, or WebEx
+
+  Cisco will never make a job offer without conducting an
+  interview process or ask you for money in any way. If you
+  have been requested to apply for a role or have received an
+  offer from a site other than https://careers.cisco.com or
+  cisco.wd5.myworkday.com, do not provide any personal
+  identifying information, including your Aadhaar or other
+  personal identifying number, birth certificate, banking
+  information, driver's license, or passport.
+
+  If you are the target of a recruiting scam, consider filing
+  a report with your local law enforcement authorities. Cisco
+  bears no responsibility, and cannot be held liable, for any
+  claims, damages, expenses, or other inconvenience resulting
+  from or in any way connected to recruiting scams.
+industries:
+  - Cloud
+  - Information Technology
+  - Internet of Things
+  - Professional Services
+  - Software
+posted_date: 2026-09-21
+url: "https://builtin.com/job/ai-operations-engineer/11273331"
+source: Built In

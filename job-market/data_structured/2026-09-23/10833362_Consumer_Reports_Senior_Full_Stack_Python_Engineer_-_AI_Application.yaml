@@ -1,0 +1,47 @@
+company:
+  name: Consumer Reports
+  stage: null
+  focus: Nonprofit consumer product testing, ratings, and advocacy
+position:
+  title: Senior Full Stack Python Engineer - AI Applications
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role consumes AI/ML services ("as a consumer of those
+      services") and explicitly states it is product engineering,
+      not model training. It connects RAG pipelines and model
+      endpoints that others design, so it does not shape model
+      behaviour.
+  responsibilities:
+  - Build full-stack applications, data APIs, and AI-powered dashboards
+  - Develop backend services in Python (FastAPI/Django) and Node.js
+  - Integrate with Databricks and AWS SageMaker
+  - Create responsive frontends with React, Next.js, and TailwindCSS
+  - Deploy cloud-native applications on AWS, GCP, or Azure
+  - Connect RAG pipelines, vector databases, and model endpoints
+  - Implement authentication, data access, and API management
+  - Build CI/CD pipelines, testing, and performance optimization
+  use_cases:
+  - AI-powered consumer-facing products used by millions
+  - AI-powered dashboards and internal employee tools
+  - Consumer value and responsible AI initiatives
+  - Data APIs and production AI application experiences
+  skills:
+    genai: [RAG]
+    ml: []
+    web: [FastAPI, Django, Node.js, React, Next.js, TailwindCSS]
+    databases: [Vector Databases, NoSQL]
+    data: [Databricks]
+    cloud: [SageMaker, AWS, GCP, Azure]
+    ops: [CI/CD]
+    languages: [Python, JavaScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10833362'
+  location: Yonkers, USA
+  extracted_at: '2026-09-23T11:01:42.008587'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

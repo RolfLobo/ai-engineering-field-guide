@@ -1,0 +1,96 @@
+job_id: 10876515
+title: Senior Libraries Engineer – AI and HPC
+company: NVIDIA
+location: ESP
+locations:
+  - ESP
+  - HUN
+  - POL
+  - DEU
+  - CHE
+  - Warsaw, POL
+remote: true
+work_type: FULL_TIME
+company_size: 21,960 Employees
+description: |
+  Join our multidisciplinary team and help build and improve
+  GPU and CPU accelerated data processing software libraries.
+  Projects like DALI or nvImageCodec are used in all kinds of
+  processing workflows and support NVIDIA's vision and growth.
+
+  Starting from powering AI, data analytics, image processing,
+  computer vision, and scientific simulations for leading
+  commercial and academic organizations worldwide. In this
+  role, you will design, develop, and optimize pioneering
+  algorithms. Ideal candidates will have experience with
+  accelerated computing and a passion for advancing the state-
+  of-the-art in various computing domains. If this sounds
+  exciting, we would love to meet you!
+
+  What you’ll be doing:
+
+  - Developing scalable library software using modern tools and
+    languages for various numerical method.
+  - Performance tuning, optimization, and benchmarking of
+    algorithms on various architectures.
+  - Working closely with leadership team and other internal and
+    external partners to understand feature and performance
+    requirements and contribute to the technical roadmaps of
+    libraries.
+  - Providing technical leadership and guidance to library
+    engineers working with you.
+  - Find opportunities to improve user experience and library
+    performance.
+
+  What we need to see:
+
+  - PhD or MSc’s degree in Computational Science, Computer
+    Science, Applied Math, or related science or engineering
+    field of study is preferred (or equivalent experience).
+  - 5+ years experience developing, debugging, and optimizing
+    high-performance parallel numerical applications on modern
+    computing platforms, with GPU acceleration using CUDA.
+  - C/C++ programming and software development skills.
+  - Proven experience in leading and completing software
+    development projects.
+  - Strong collaboration, communication, and documentation
+    habits.
+
+  Ways to stand out from the crowd:
+
+  - Good knowledge of CPU and/or GPU hardware architecture,
+  - Experience with software development practices such as CI/CD
+    systems and project management tools such as JIRA,
+  - Experience with working in a distributed organization,
+  - Debugging, profiling, and testing skills for accuracy and
+    performance,
+  - Fluency with Python.
+
+  NVIDIA is widely considered to be one of the technology
+  world’s most desirable employers. We have some of the most
+  forward-thinking and hardworking people in the world working
+  for us. If you're creative and autonomous, we want to hear
+  from you!
+
+  NVIDIA is committed to fostering a diverse work environment
+  and proud to be an equal opportunity employer. As we highly
+  value diversity in our current and future employees, we do
+  not discriminate (including in our hiring and promotion
+  practices) on the basis of race, religion, color, national
+  origin, gender, gender expression, sexual orientation, age,
+  marital status, veteran status, disability status or any
+  other characteristic protected by law.
+
+  Your base salary will be determined based on your location,
+  experience, and the pay of employees in similar positions.
+  For Poland: The base salary range is 221,250 PLN - 383,500
+  PLN for Level 3, and 292,500 PLN - 507,000 PLN for Level 4.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-08-27
+url: "https://builtin.com/job/senior-libraries-engineer-ai-and-hpc/10876515"
+source: Built In

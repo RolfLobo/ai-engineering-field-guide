@@ -1,0 +1,158 @@
+job_id: 10853578
+title: Forward Deployed AI Engineer (Senior)
+company: AZX
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About AZX
+
+  Our mission is to accelerate positive impact in critical
+  industries through AI transformation.
+
+  We’re growing quickly and already work with category-leaders
+  in real estate (CBRE), energy (LevelTen Energy), logistics
+  (Flexe) and utilities.
+
+  We’re a public benefit corporation, founded in 2024 and have
+  been profitable from inception.
+
+  We work on challenges in clean energy, decarbonization,
+  climate risk, energy systems and global economics. We’re
+  building our company for long term success and aim to build
+  the ultimate place to work if you’re passionate about AI and
+  positive impact.
+
+  About the Role
+
+  We are seeking a Forward Deployed Engineer to join a team
+  that scopes, builds, deploys, and measures AI systems inside
+  client environments — utilities, commercial real estate, and
+  logistics. Your software runs in the client's cloud, under
+  their identity provider and toolchain, inside their
+  compliance framework, integrated with their systems of
+  record — you bring the right mix of models and tools for the
+  job rather than working around it. The work is agentic AI
+  with a correctness envelope: think document intelligence
+  with deterministic, auditable validation where money or
+  compliance is on the line, voice-of-customer AI, cognitive
+  digital twins of a client's customers, and human-in-the-loop
+  agentic workflows, all measured against real before/after
+  baselines rather than left as shelf-ware. You won't be
+  handed a finished spec — you'll sit with the client's
+  operators and executives to find the real problem, design
+  the solution with their architects, build it with your pod,
+  and prove it worked with numbers both companies stand
+  behind. You bring a strong area of expertise and expect to
+  use it, and work closely with our team across DevOps,
+  infrastructure, data pipelines, front end, and back end as
+  the engagement requires — you are the engineering face of
+  AZX.
+
+  Responsibilities:
+
+  - Own your client's technical delivery end to end — discovery
+    support, solution design, build, deployment into the
+    client's environment, and a handover their team can
+    actually run.
+  - Build the trust machinery behind every system you ship: eval
+    harnesses, replay loops, guardrails, cost/latency budgets,
+    monitoring, and a defined "what happens when it's unsure"
+    path.
+  - Extract structured facts from messy documents (like
+    contractor bids or engineering forms) and build the
+    deterministic checks that gate money- or compliance-
+    sensitive answers, making "cannot determine" fail closed
+    rather than open.
+  - Optimize pipelines for cost and quality — for example,
+    moving a step from a frontier model to a fine-tuned small
+    model or a deterministic rule, then proving quality held
+    with a replay harness.
+  - Design and ship high-stakes systems like after-hours
+    voicemail triage, defining the right autonomy boundary for
+    the risk involved.
+  - Agree on and track the measurement story with the client —
+    KPIs, baselines, and instrumentation for cost,
+    performance, and quality — in writing before deployment
+    and validated after.
+  - Maintain client-facing engineering presence: working
+    sessions with their IT/security teams, demos, POCs that
+    derisk the next engagement, and a feedback loop that
+    carries field-learned requirements back to the platform
+    team.
+
+  Core Qualifications:
+
+  - 5 + years of full-stack delivery skills: Python/FastAPI
+    backends, React/TypeScript front ends, deployment,
+    monitoring, real test coverage, and careful data handling
+    since your pod is the whole team..
+  - Experience shipping LLM/agentic systems to production users,
+    not prototypes, with structured outputs, tool use,
+    retrieval, guardrails, and an eval loop you can defend to
+    a skeptic.
+  - A well-stocked technical toolkit and the judgment to use it:
+    small task models (OCR, ASR, classification, reranking),
+    classical NLP, fine-tuning/distillation, deterministic
+    rules, caching, and a frontier model only where it earns
+    its cost.
+  - Experience deploying inside someone else's cloud, identity
+    provider, repos, and compliance regime, and negotiating
+    their IT constraints without losing the design.
+  - Strong stakeholder skills; running discovery with front-line
+    operators, delivering executive readouts, and pushing back
+    plainly (with a cheaper or safer alternative already
+    sketched) when the ask is wrong.
+  - Comfort with ownership under ambiguity given a vague problem
+    and a deadline, you return with a working thing or a good
+    question
+  - Practical fluency across our stack Python
+    (async/FastAPI/Pydantic), TypeScript/React,
+    Postgres/pgvector, Redis, LLM provider APIs, RAG/hybrid
+    retrieval, and agent frameworks (LangGraph/AutoGen/CrewAI-
+    class or hand-rolled loops).
+  - Familiarity with enterprise deployment concerns: Docker,
+    Terraform/Bicep, Azure and/or AWS, enterprise SSO
+    (SAML/OIDC, Entra), and observability/cost tracking.
+  - A track record with enterprise integrations (SharePoint,
+    Salesforce, SAP/ERP-class systems)
+  - Domain exposure to utilities, commercial real estate, or
+    logistics is a plus
+  - Bachelor's Degree; Master's is a plus
+
+  Why AZX!
+
+  - Be part of a fast-growing, profitable, mission-driven
+    company with industry-leading clients tackling the massive
+    opportunity of AI transformation in critical industries.
+  - Competitive early-stage startup compensation (based on
+    capabilities, experience, and location)
+  - Bonus eligibility
+  - Health insurance with meaningful coverage for dependents
+  - Flexible paid time off
+  - Equity
+  - Fully remote culture with a cluster of teammates in Seattle
+
+  Additional Information:
+
+  - Must be willing to travel to Seattle area for final
+    interview and travel 2x/year for company summits
+  - Applicants must be currently authorized to work in the
+    United States on a full-time basis.
+  - We are unable to sponsor or take over sponsorship of
+    employment visas at this time.
+  - Please note that our interview process includes a written
+    take-home assignment followed by a live two-hour technical
+    session with our engineering team, so if that format isn't
+    a good fit, we'd ask that you not apply
+
+  Next Steps:
+
+  If this job sounds like a great fit but don’t check ALL of
+  these qualification boxes, we’d still love to hear from you!
+industries:
+  - Artificial Intelligence
+  - Industrial
+posted_date: 2026-08-26
+url: "https://www.builtinla.com/job/software-engineer-client-solutions/10853578"
+source: Built In

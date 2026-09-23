@@ -1,0 +1,52 @@
+company:
+  name: Navan
+  stage: null
+  focus: Corporate travel and expense management
+position:
+  title: Sr. Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, prompt/tool contracts,
+      structured LLM outputs, guardrails, and adversarial evals -
+      directly shaping LLM behavior in production. This is clearly
+      ai-first.
+  responsibilities:
+  - Design and develop agentic workflows for viewing, understanding, connecting, and
+    managing loyalty programs via chat, wallet surfaces, and recommendations
+  - Build production LLM-powered flows with structured outputs, tool calling, guardrails,
+    human confirmation, evals, and monitoring
+  - Own agent and workflow quality through scenario tests, adversarial evals, prompt/tool
+    contracts, and quality metrics
+  - Integrate across frontend, backend, and AI orchestration layers including wallet
+    APIs, streaming chat, and UI components
+  - Transform loyalty balances, membership data, and trip context into personalized
+    recommendations and next-best actions
+  - Collaborate with product, design, backend, data, and platform teams
+  - Champion maintainable code, strong tests, observability, documentation, and operational
+    ownership
+  use_cases:
+  - Loyalty program management via conversational AI agents
+  - Personalized travel recommendations and next-best actions
+  - Insights from loyalty balances, tiers, and membership data
+  - Safe handling of PII and financial guidance in AI interactions
+  skills:
+    genai: [Agentic Workflows, LLMs, Structured Outputs, Function Calling, Guardrails,
+      RAG, Prompt Engineering, AI Agents, LLM Evaluation]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Observability, Monitoring]
+    languages: [TypeScript, Node.js, Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10910136'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:06:24.731890'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

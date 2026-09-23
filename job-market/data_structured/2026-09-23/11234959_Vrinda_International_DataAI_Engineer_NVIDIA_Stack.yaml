@@ -1,0 +1,45 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and consulting
+position:
+  title: Data/AI Engineer | NVIDIA Stack
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs and scales GPU inference via NVIDIA NIM,
+      optimizes GPU scheduling, and builds data pipelines — the
+      deliverable is capacity and data plumbing, not shaping model
+      behaviour. There is no prompt work, retrieval design, or
+      training/evaluation of models.
+  responsibilities:
+  - Deploy and run GPU-accelerated AI inference workloads using NVIDIA NIM microservices
+  - Build and maintain data engineering pipelines feeding AI/OCR document processing
+  - Configure, schedule, and right-size GPU resources for optimal utilization
+  - Implement parallel and concurrent processing for high-throughput inference
+  - Containerize and orchestrate services with Docker and Kubernetes
+  - Maintain CI/CD pipelines for deployment and operations
+  use_cases:
+  - GPU-accelerated model inference serving
+  - Document processing and OCR extraction
+  - High-throughput AI data pipelines
+  skills:
+    genai: []
+    ml: [OCR, Document AI]
+    web: []
+    databases: []
+    data: [Data Engineering, Data Pipelines]
+    cloud: []
+    ops: [NVIDIA NIM, GPU-Accelerated AI Inference, Docker, Kubernetes, GPU Scheduling,
+      CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Parallel Processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234959'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:29:26.203487'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,46 @@
+company:
+  name: Coditation
+  stage: null
+  focus: ML/AI, data engineering, cloud product development services
+position:
+  title: Gen AI application developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic applications, works with RAG,
+      embeddings, fine-tuning, and implements evals and guardrails
+      - directly shaping LLM behavior and output quality.
+  responsibilities:
+  - Build, ship, and maintain end-to-end agentic applications
+  - Develop agents in the cloud and maintain delivery pipelines
+  - Translate problem statements into AI-powered features
+  - Work with LLM APIs, RAG, embeddings, and fine-tuning
+  - Implement evaluation metrics and guardrails for AI output quality and safety
+  - Optimize for latency, cost efficiency, and data security
+  - Write clean, maintainable, well-instrumented code
+  use_cases:
+  - End-to-end agentic web applications
+  - AI-powered business features
+  - Retrieval-augmented generation and embedding-based search
+  - AI output quality evaluation and safety guardrails
+  - Cloud-deployed agent pipelines
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, Anthropic API, RAG, Embeddings, Fine-Tuning,
+      Guardrails, LLMs]
+    ml: []
+    web: [React, Next.js, Streamlit, ExpressJS, FastAPI]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Cursor]
+    languages: [Node.js, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10847601'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:02:28.514840'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

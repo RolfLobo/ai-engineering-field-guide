@@ -1,0 +1,48 @@
+company:
+  name: Kumaran Systems
+  stage: null
+  focus: IT services and software solutions
+position:
+  title: Python AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes applying GenAI/LLM techniques (GPT,
+      Llama2, Gemini) including prompt engineering, integrating
+      models, and evaluating outputs to iterate — shaping LLM
+      behavior. Combined with ML model training, the LLM component
+      makes it ai-first.
+  responsibilities:
+  - Design and develop robust Python services and RESTful APIs using Flask
+  - Build data processing pipelines and analytics workflows using Pandas and NumPy
+  - Implement, train, and optimize ML models with PyTorch and integrate them into
+    production
+  - Apply GenAI/LLM techniques (GPT, Llama2, Gemini) for real-world use cases and
+    evaluate outputs
+  - Write and optimize SQL for Oracle, MySQL, and PostgreSQL
+  - Ensure code quality with testing (pytest), logging, and CI-friendly structures
+  - Collaborate with product and data teams to deliver scalable solutions
+  use_cases:
+  - Data-driven applications with RESTful APIs
+  - Data processing pipelines and analytics workflows
+  - ML models integrated into production services
+  - GenAI/LLM-powered features for real-world use cases
+  skills:
+    genai: [LLMs, Prompt Engineering]
+    ml: [Pandas, NumPy, PyTorch, Fine-Tuning]
+    web: [Flask, REST APIs]
+    databases: [Oracle, MySQL, PostgreSQL]
+    data: []
+    cloud: [GCP]
+    ops: [pytest]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10908872'
+  location: Chennai, IND
+  extracted_at: '2026-09-23T11:06:25.397980'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

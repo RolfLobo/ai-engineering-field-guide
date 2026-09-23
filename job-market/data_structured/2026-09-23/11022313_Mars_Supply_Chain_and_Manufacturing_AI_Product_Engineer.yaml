@@ -1,0 +1,60 @@
+company:
+  name: Mars
+  stage: null
+  focus: 'Consumer goods: global supply chain and manufacturing'
+position:
+  title: Supply Chain and Manufacturing AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and tunes RAG pipelines, semantic search
+      indices, and multi-agent workflows using LLM APIs, directly
+      shaping model behavior/output quality for Generative AI
+      components. It is a forward deployed AI prototyping role
+      with customer-facing frontline engagement.
+  responsibilities:
+  - Shadow frontline teams at manufacturing sites and warehouses to discover operational
+    bottlenecks
+  - Translate user feedback into user stories, functional specs, and process flows
+  - Write clean Python code to build, refine, and test AI-enabled prototypes
+  - Construct and tune RAG pipelines, semantic search indices, and multi-agent workflows
+    under senior guidance
+  - Build and configure APIs connecting AI applications to shop floor platforms and
+    document repositories
+  - Prepare unstructured documents, telemetry feeds, and SQL exports for AI system
+    ingestion
+  - Iterate prototypes based on immediate feedback from factory and warehouse operators
+  use_cases:
+  - SOP assistants for hands-free lookup of technical guidelines
+  - Manufacturing knowledge assistants indexing equipment manuals for maintenance
+  - Procurement intelligence tools extracting key terms from supplier contracts
+  - Workflow automation generating shift handover reports for logistics teams
+  skills:
+    genai: [OpenAI API, Gemini, RAG, LangChain, LlamaIndex, LangGraph, Semantic Search,
+      Multi-Agent Systems, LLMs]
+    ml: []
+    web: [REST APIs, APIs]
+    databases: [Relational Databases]
+    data: [Pandas, NumPy]
+    cloud: [GCP, Vertex AI, Azure]
+    ops: [Git, Docker]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11022313'
+  location: CAN
+  locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - GBR
+  - Mars, USA
+  - Singapore, SGP
+  remote: true
+  extracted_at: '2026-09-23T11:12:55.595117'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

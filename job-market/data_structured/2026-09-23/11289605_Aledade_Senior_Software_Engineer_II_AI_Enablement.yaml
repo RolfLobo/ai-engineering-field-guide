@@ -1,0 +1,59 @@
+company:
+  name: Aledade
+  stage: null
+  focus: Healthcare IT supporting primary care practices
+position:
+  title: Senior Software Engineer II (AI Enablement)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer owns model routing decisions and builds
+      benchmarks and harness/evaluations that determine model
+      choice, which is evaluating models on output quality and
+      shaping behavior. They also build MCP gateway and agent
+      tooling directly. LLM/agent components are central, so ai-
+      first.
+  responsibilities:
+  - Own and extend the MCP Gateway and connector platform, building MCP server integrations
+    with auth, scopes, tenancy, rate limiting, and policy enforcement
+  - Run the marketplace publishing pipeline including versioning, CI/CD, plugin PR
+    review, and developer tooling sync
+  - Build and maintain shared plugins, skills, hooks, and Spec-Driven Development
+    tooling consumed across teams
+  - Define model routing and build benchmarks and harness/evaluations for evidence-based
+    model selection
+  - Extend the usage-rollup and telemetry pipeline for adoption, tool-call health,
+    and inference spend attribution
+  - Build infrastructure for mapping agent outputs into a browsable, searchable, commentable
+    collaboration surface
+  - Mentor engineers on agentic-coding and plugin-authorship patterns and run office
+    hours and brownbags
+  - Carry on-call for marketplace-published artifacts and gateway availability
+  use_cases:
+  - Brokered tool calling between AI agents and internal enterprise systems via an
+    MCP gateway
+  - Distribution of agentic capabilities to engineers and non-engineers through a
+    plugin marketplace
+  - Cost-optimized, evidence-based model routing and inference strategy
+  - Telemetry and cost attribution for AI adoption by team, workload, and model
+  - Browsable and searchable surface for agent outputs with collaboration features
+  skills:
+    genai: [MCP, AI Agents, LLM Evaluation, Prompt Engineering]
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Databricks]
+    cloud: []
+    ops: [CI/CD, Observability, Monitoring]
+    languages: []
+    domains: []
+    other: [Glean, Salesforce, Slack, Jira, Tableau, Telemetry]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11289605'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:35:44.988827'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,106 @@
+job_id: 11249067
+title: Junior AI Engineer
+company: WonderBotz
+location: Ahmedabad, IND
+work_type: FULL_TIME
+company_size: 265 Employees
+description: |
+  Developer Role and Responsibilities
+
+  In this role, you will help design, build, and deploy
+  Generative AI and Agentic AI solutions that automate
+  business processes and augment enterprise workflows, working
+  under the guidance of senior engineers. You will support
+  work across the delivery lifecycle — from solution design
+  and prompt/agent development through testing and deployment
+  — partnering closely with automation, data, and platform
+  teams. Responsibilities will include hands-on coding of LLM-
+  powered components, contributing to technical documentation,
+  and building your expertise in GenAI engineering best
+  practices. You will work closely with our team of award-
+  winning business and technical specialists and leaders.
+
+  Key Responsibilities:
+
+  - Assist in designing and developing LLM-powered applications,
+    including RAG (Retrieval-Augmented Generation) pipelines,
+    agentic workflows, and simple multi-step agents using
+    frameworks such as LangChain and LangGraph, under senior
+    engineer guidance
+  - Build and maintain retrieval components using vector
+    databases (e.g., ChromaDB) and semantic search to help
+    ground LLM responses in enterprise data
+  - Apply prompt engineering techniques, with support from
+    senior team members, to improve the accuracy and
+    reliability of LLM-based solutions using hosted (OpenAI
+    API) and offline/self-hosted models
+  - Support technical discussions with internal stakeholders on
+    solution feasibility and implementation approach,
+    escalating complex decisions to senior engineers
+  - Help integrate GenAI components with existing enterprise
+    systems via REST APIs, webhooks, and cloud services (AWS
+    Lambda, Azure)
+  - Contribute to modernizing existing RPA/automation assets
+    (e.g., Blue Prism, code-based automation frameworks) by
+    assisting with AI-driven decisioning features
+  - Assist in the development and documentation of AI solution
+    deliverables (solution design documents, test/evaluation
+    reports, deployment notes)
+  - Support CI/CD and monitoring practices for AI applications
+    using tools such as Git, GitHub Actions, Jenkins, and
+    Splunk
+  - Help identify and flag risks related to model performance,
+    data quality, and security to senior engineers and project
+    leads
+
+  Qualifications and Skills
+
+  - Bachelor's degree in Computer Science, Information
+    Technology, Engineering, or equivalent education and
+    experience
+  - 0–3 years of professional software development experience;
+    internships, academic projects, or personal projects
+    involving GenAI/LLMs are a strong plus
+  - Foundational understanding of LLM concepts, prompt
+    engineering, and RAG architectures; hands-on exposure to
+    LangChain or LangGraph is a plus
+  - Proficiency in Python; working knowledge of C#, JavaScript,
+    or SQL is a plus
+  - Basic understanding of REST APIs and cloud platforms (AWS,
+    Azure)
+  - Familiarity with Git/GitHub and basic CI/CD concepts
+  - Exposure to RPA or process automation tools (Blue Prism,
+    UiPath, or Automation Anywhere) is a plus but not required
+  - Willingness to learn IT delivery methodologies (Agile, Lean,
+    ITIL)
+  - Strong problem-solving fundamentals and eagerness to grow
+    technical and delivery skills
+
+  Desired Characteristics in Candidates
+
+  - Self-motivated with a strong eagerness to learn and grow in
+    the GenAI/Agentic AI space
+  - Good communicator, comfortable asking questions and seeking
+    feedback from senior team members
+  - Detail-oriented and methodical approach to coding, testing,
+    and documentation
+  - Curious, proactive, and receptive to feedback and mentorship
+  - Team-oriented, collaborating well with senior engineers and
+    cross-functional peers
+  - Adaptable to changing priorities in a fast-evolving
+    technology area
+  - Strong work ethic and ownership of assigned tasks
+
+  Compensation and Start Dates
+
+  - Hiring now for immediate start
+  - Salary: Competitive base and bonus determined by level and
+    experience
+  - Benefits: Group Medical, Vacation, Holidays
+  - Location: Ahmedabad and Work from Office
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-18
+url: "https://builtin.com/job/junior-ai-engineer/11249067"
+source: Built In

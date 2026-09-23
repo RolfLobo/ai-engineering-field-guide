@@ -1,0 +1,56 @@
+company:
+  name: Syngenta Group
+  stage: null
+  focus: Agricultural technology and crop protection solutions
+position:
+  title: AI Security Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role operates and optimizes vendor-provided AI security
+      platforms, enforces policy, manages posture, and coordinates
+      incident response. It tests/monitors AI agents for security
+      rather than shaping model behavior through prompts,
+      retrieval, or training, so it is governance/QA oversight,
+      not ai-first.
+  responsibilities:
+  - Manage and optimize security controls across endpoints, SaaS, and run-time environments
+    to monitor AI agent behaviors and prevent data exfiltration
+  - Maintain AI asset discovery and posture management with continuous visibility
+    across AWS, Azure, and GCP
+  - Integrate automated AI red-teaming tests into CI/CD pipelines for internally developed
+    AI agents
+  - Act as primary technical contact for the AI Security Platform vendor and influence
+    their product roadmap
+  - Ensure the AI security architecture scales with enterprise growth while minimizing
+    latency
+  - Partner with the SOC to develop AI-specific threat response playbooks
+  - Collaborate with functional, regional, and business unit teams to improve AI cybersecurity
+    tooling and incident response
+  - Maintain documentation of the AI Security Platform, procedures, and security findings
+  use_cases:
+  - Monitoring AI agent behaviors to prevent data exfiltration
+  - Inventory and security posture of public and private AI tools across cloud environments
+  - Automated security and policy-compliance red-teaming of internally developed AI
+    agents
+  - Incident response to AI-specific cyber threats
+  - Securing generative AI prompts and LLM interactions via DLP
+  skills:
+    genai: [LLMs, RAG, MCP, AI Agents, Guardrails, Prompt Engineering]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, DevSecOps]
+    languages: []
+    domains: []
+    other: [SIEM, Data Loss Prevention, OWASP LLM Top 10, EU AI Act]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11274325'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:35:10.448078'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

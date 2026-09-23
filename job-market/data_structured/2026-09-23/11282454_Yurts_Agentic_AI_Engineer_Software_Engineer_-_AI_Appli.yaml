@@ -1,0 +1,49 @@
+company:
+  name: Yurts
+  stage: null
+  focus: Secure agentic AI platform for government and enterprise
+position:
+  title: Agentic AI Engineer / Software Engineer - AI Applications (Remote US)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, tool integrations, and
+      agent orchestration, directly shaping LLM/agent behavior for
+      customer-facing applications. This is clearly shaping
+      agentic AI components, so it is ai-first.
+  responsibilities:
+  - Build agentic applications that solve real customer use cases using platform capabilities
+  - Design agentic workflows, plugins, and tool integrations that deliver measurable
+    customer value
+  - Translate ambiguous problems into intuitive AI experiences
+  - Rapidly build new applications, gather feedback, and iterate to production-ready
+    solutions
+  - Partner with platform engineers to inform abstractions and reusable components
+  - Identify common patterns across customer deployments and evolve them into reusable
+    products
+  - Own customer-facing quality including UX, reliability, performance, and evaluation
+  use_cases:
+  - Customer-facing agentic AI applications
+  - Agentic workflows and tool orchestration for enterprise systems
+  - Integration of AI agents with enterprise data sources and external systems
+  - Reusable AI application patterns across customer deployments
+  skills:
+    genai: [AI Agents, Agentic Workflows, MCP, Guardrails]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [RBAC]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11282454'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:34:12.322184'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

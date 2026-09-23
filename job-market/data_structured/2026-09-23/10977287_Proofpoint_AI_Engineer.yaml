@@ -1,0 +1,58 @@
+company:
+  name: Proofpoint
+  stage: null
+  focus: Cybersecurity protecting people, data, and AI agents
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and evaluates autonomous AI agents
+      and multi-agent systems with tool use, prompting, RAG, and
+      eval frameworks, directly shaping LLM behavior in
+      production. LLM/agent components are central, so it's ai-
+      first.
+  responsibilities:
+  - Design, build, evaluate, and deploy autonomous AI agents and multi-agent systems
+    for security detection and response
+  - Build reliable, cost-efficient agentic pipelines optimized for latency, accuracy,
+    stability, and tool-use fidelity
+  - Develop orchestration frameworks for LLM-based agents with tool use, memory, planning,
+    and multi-step reasoning
+  - Experiment with techniques such as ReAct, chain-of-thought prompting, structured
+    output, RAG, and agentic memory architectures
+  - Partner with security researchers to turn detection and triage logic into agent-powered
+    automated workflows
+  - Measure and optimize agent performance across success rate, cost-per-run, latency,
+    and reliability
+  - Contribute to evaluation frameworks, ground-truth datasets, and agent benchmarking
+    workflows
+  - Monitor production agents and improve robustness, observability, and failure recovery
+  use_cases:
+  - Autonomous security threat detection and response
+  - Automated alert triage and security workflows
+  - Automated detection and response in high-throughput SOC environments
+  - Phishing and email security detection (nice-to-have domain)
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, Agentic Workflows, ReAct, Prompt Engineering,
+      Structured Outputs, RAG, LangGraph, AutoGen, CrewAI, LLMs, OpenAI API, Anthropic
+        API, Gemini, Hugging Face, Vector Databases, Semantic Search, Embeddings,
+      Function Calling, Fine-Tuning, Guardrails, LLM Evaluation]
+    ml: []
+    web: []
+    databases: [FAISS, Weaviate, Pinecone, pgvector]
+    data: []
+    cloud: []
+    ops: [LangSmith, OpenTelemetry, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10977287'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:10:20.974724'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

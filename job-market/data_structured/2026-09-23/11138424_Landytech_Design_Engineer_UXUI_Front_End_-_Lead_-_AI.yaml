@@ -1,0 +1,55 @@
+company:
+  name: Landytech
+  stage: Series B
+  focus: Investment reporting platform (Sesame) for asset managers
+position:
+  title: Design Engineer (UX/UI & Front End) - Lead - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Beyond front-end work, the core remit is shaping how
+      generative AI agents behave when building interfaces:
+      defining the standards and instructions the tools work to,
+      critically evaluating generated output, and tightening rules
+      so errors don't recur — this lives in the repo and tooling
+      that agents operate within. Directing LLM-based code/UI
+      generation at depth is prompt/spec-driven shaping of an LLM
+      system, making it ai-first.
+  responsibilities:
+  - Build the front-end experience layer, especially dense and difficult financial
+    interfaces
+  - Develop and maintain a code-based design system with the front-end team
+  - Define and uphold the product's look, feel, and consistency through review and
+    tooling
+  - Own the client journey by working directly with investment professionals, family
+    offices, and advisors
+  - Define the standards and instructions AI tools work to, critically review generated
+    output, and tighten rules to prevent recurring errors
+  - Set design patterns others follow and mentor/enable other engineers
+  use_cases:
+  - Investment reporting for asset managers, asset owners, and advisors
+  - 'Dense financial interfaces: legible tables, precise numbers, and drill-downs
+    over real portfolios'
+  - Coherent end-to-end product experience for the Sesame platform
+  - AI-assisted design and engineering pipeline producing consistent screens from
+    a code-based design system
+  skills:
+    genai: [AI-Assisted Development]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [shadcn/ui, Design Systems, Data-Dense Interfaces, Virtualized Tables,
+      Charting]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11138424'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:20:36.935959'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

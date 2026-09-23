@@ -1,0 +1,51 @@
+company:
+  name: Motorway
+  stage: Series C backed (£143m raised)
+  focus: |-
+    UK online car-selling marketplace connecting sellers and
+    dealers
+position:
+  title: Lead Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns architecture for product-facing GenAI work
+      including retrieval, agentic orchestration, evaluation
+      infrastructure, and fine-tuning - directly shaping LLM
+      system behavior and output quality. Lead is player-coach IC,
+      not management.
+  responsibilities:
+  - Set the architecture standard for complex GenAI work across the Data and AI function
+  - Hold sign-off on materially complex AI systems, catching architectural, safety
+    and reliability problems
+  - 'Own shared foundations: retrieval patterns, evaluation infrastructure, data pipelines
+    and tooling'
+  - Build the hardest pieces of work directly and act as technical escalation point
+  - 'Design for production reliability: graceful degradation, fallbacks, cost and
+    latency at scale'
+  - Develop senior engineers through harder problems and honest feedback
+  - Shape hiring and review processes for the AI function
+  use_cases:
+  - Agentic workflows in the car-selling customer journey
+  - LLM-powered tooling for the dealer network
+  - AI features shaping buyer and seller marketplace experience
+  - Retrieval and evaluation platform powering GenAI features
+  skills:
+    genai: [Prompt Engineering, RAG, Agentic Workflows, LLM Evaluation, Fine-Tuning]
+    ml: [Multimodal]
+    web: []
+    databases: [Vector Databases, SQL]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [MLOps, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10976928'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:10:41.720298'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

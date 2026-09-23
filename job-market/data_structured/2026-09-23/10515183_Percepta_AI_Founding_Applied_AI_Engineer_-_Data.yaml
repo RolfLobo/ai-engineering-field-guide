@@ -1,0 +1,53 @@
+company:
+  name: Percepta AI
+  stage: null
+  focus: |-
+    Applied AI transformation for critical industries like
+    healthcare and energy
+position:
+  title: Founding Applied AI Engineer - Data
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds data pipelines, ontologies, and data packs
+      that AI engineers build on top of; the person primarily
+      prepares and structures data for someone else's AI systems
+      rather than shaping model behavior via prompts, retrieval
+      design, or training. Agentic tooling is only a nice-to-have,
+      so the core work is data plumbing, making it ai-support.
+  responsibilities:
+  - Build end-to-end data pipelines and models that turn fragmented enterprise data
+    into AI-ready assets
+  - Structure and normalize noisy datasets, defining data packs and ontologies for
+    AI engineers to build on
+  - Build internal product and tooling that makes data work faster and repeatable
+    across customers
+  - Work directly with operators and product/AI engineers to turn high-value use cases
+    into production data workflows
+  - Make technical decisions on data models, storage, orchestration, and infrastructure
+    tradeoffs
+  - Help form Percepta's data strategy as a founding hire
+  use_cases:
+  - Turning messy enterprise data into AI-ready assets
+  - Healthcare data including EHR and claims datasets
+  - Data preparation for retrieval and context in LLM systems
+  - Repeatable data tooling that compounds across customer engagements
+  skills:
+    genai: [LLMs, Embeddings]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Engineering, Data Pipelines, Data Modeling, Data Science, Databricks]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Ontologies]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10515183'
+  location: New York, USA
+  extracted_at: '2026-09-23T10:59:58.351658'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

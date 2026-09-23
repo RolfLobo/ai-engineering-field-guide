@@ -1,0 +1,50 @@
+company:
+  name: Scale AI
+  stage: Series F
+  focus: AI data foundry powering model training and evaluation
+position:
+  title: Forward Deployed Engineer, Gen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      Note: the description does not show this engineer adapting
+      or shaping model behaviour themselves; the deliverable is
+      data infrastructure. Building datasets and pipelines that
+      feed someone else's training runs is ai-support even at an
+      AI lab.
+  responsibilities:
+  - Deliver critical data solutions for leading AI innovators and government agencies
+  - Interact daily with technical customers to understand challenges and translate
+    them into solutions
+  - Design, build, and deploy features across the entire stack from front-end to back-end
+    and infrastructure
+  - Deliver high-quality experiments quickly and iterate to meet customer needs
+  - Shape engineering culture, values, and processes
+  - Work on projects spanning large-scale system architecture to customer-facing front-end
+    application design
+  use_cases:
+  - High-quality data generation and delivery for advanced LLMs
+  - RLHF and human data production pipelines
+  - Model evaluation, safety, and alignment data
+  - Customer- and operator-specific data infrastructure with fast turnaround
+  - Data solutions for AI research labs and government agencies
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Large-Scale Data Processing]
+    cloud: [Cloud-Based Infrastructure]
+    ops: [Distributed Systems]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11083390'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:18:10.720181'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

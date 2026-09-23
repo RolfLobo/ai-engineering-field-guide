@@ -1,0 +1,48 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and financial services
+position:
+  title: Data Engineer - Python, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and maintains NLP pipelines using BERT,
+      Flair, and LLM-based models, and develops inference APIs for
+      them, which involves choosing and applying LLM components to
+      shape model behaviour/output. This makes it ai-first rather
+      than a pure data engineering (ai-support) role.
+  responsibilities:
+  - Develop and optimize ETL/data processing jobs using PySpark, Pandas, and PyArrow
+  - Build and maintain NLP pipelines using Flair, BERT, and LLM-based models
+  - Develop scalable ingestion and data transformation pipelines for AI and analytics
+    use cases
+  - Build and maintain Flask-based APIs for model inference and service integrations
+  - Manage and deploy ML models using MLflow for tracking and versioning
+  - Support CI/CD workflows, deployments, and Autosys job scheduling
+  - Monitor application and system health using ITRS Geneos
+  - Write unit tests with PyTest/unittest and work with cloud services (AWS ECS, boto3)
+  use_cases:
+  - NLP pipelines for text processing in banking applications
+  - Model inference services exposed via Flask APIs
+  - Large-scale data ingestion and transformation for AI and analytics
+  - Automated job scheduling and operational monitoring of data services
+  skills:
+    databases: [Redis]
+    domains: [NLP]
+    data: [PySpark, Pandas, PyArrow, Data Pipelines, Polars, Dask, Airflow, Prefect]
+    web: [Flask, FastAPI, REST APIs, Microservices]
+    ml: [Flair, BERT, Hugging Face, PyTest, PyTorch, TensorFlow]
+    ops: [MLflow, CI/CD, GitHub, Linux, Docker, Kubernetes]
+    other: [Autosys, ITRS Geneos]
+    cloud: [AWS, ECS, boto3]
+    languages: [Python]
+    genai: [LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11201764'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:26:39.584437'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

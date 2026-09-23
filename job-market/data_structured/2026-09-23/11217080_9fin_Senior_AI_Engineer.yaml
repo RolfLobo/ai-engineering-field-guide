@@ -1,0 +1,48 @@
+company:
+  name: 9fin
+  stage: null
+  focus: AI platform for global debt markets data
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM/generative AI applications: designing
+      generative AI apps for financial/legal workflows, retrieval
+      (chunking, embedding models, re-rankers, graphRAG), agentic
+      frameworks, and building evals. LLM components are clearly
+      involved, so it is ai-first.
+  responsibilities:
+  - Design and build generative AI applications for financial and legal workflows
+  - Drive the end-to-end model development lifecycle including experimentation, training,
+    testing, monitoring, and deployment
+  - Collaborate cross-functionally to understand business problems and mentor teammates
+  - Apply state-of-the-art research techniques with rapid iteration
+  - Lead and push adoption of AI throughout 9fin
+  use_cases:
+  - Streamlining financial and legal decision-making workflows in debt markets
+  - Information retrieval and semantic search over credit data
+  - Entity and relationship extraction from financial documents
+  - Knowledge graph construction and graphRAG inference
+  - Recommendation, ranking, and personalization for financial data products
+  skills:
+    genai: [Embeddings, RAG, Generative AI, Agentic Workflows]
+    ml: [Model Training, Feature Engineering, Fine-Tuning, Deep Learning, Machine
+        Learning, Anomaly Detection, Model Evaluation, Learning to Rank, XGBoost,
+      Neural Networks]
+    web: []
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: [AWS]
+    ops: [Model Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11217080'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:27:28.908766'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

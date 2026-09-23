@@ -1,0 +1,159 @@
+job_id: 11191783
+title: Principal Engineer, AI Platform
+company: Ridgeline
+location: Reno, USA
+locations:
+  - Reno, USA
+  - New York, USA
+  - San Ramon, USA
+remote: true
+work_type: FULL_TIME
+company_size: 276 Employees
+description: |
+  Are you a technical leader who thrives at architecting
+  agentic AI systems and shipping them in production? Do you
+  want to help define how autonomous, tool-using AI agents get
+  built into a real, customer-facing product? If so, we invite
+  you to apply to join our AI Platform team, where we're
+  building the future of investment management software.
+
+  As a Principal Engineer on the AI Platform team, you will
+  guide the architecture and development of Ridgeline's
+  agentic AI platform while also directly contributing to
+  product delivery. You'll help drive the design of the
+  agentic systems, workflows, and capabilities that power our
+  product, including how those agents access external data and
+  use models efficiently, all in close partnership with the
+  engineers who built the platform's foundation. This role
+  offers broad, cross-company impact, working across teams
+  throughout the firm to shape how AI capabilities are built
+  and adopted, in a collaborative, high-agency team culture.
+
+  What will you do?
+
+  - Define and drive technical strategy and architecture for
+    Ridgeline's AI platform and shared AI capabilities across
+    the company.
+  - Lead technical decisions that enable engineering teams
+    across the firm to use AI platform capabilities in
+    scalable, reliable, secure, and responsible ways.
+  - Identify and resolve systemic technical obstacles that limit
+    the availability, usability, extensibility, or reliability
+    of the AI platform, including proactively engaging teams
+    building one-off AI solutions to bring them onto the
+    shared platform.
+  - Establish engineering standards and architectural approaches
+    that help teams make sound decisions as AI technologies
+    and capabilities evolve, including reliability and
+    evaluation standards for AI models in production.
+  - Partner across Engineering, Product, Data, and other
+    functions to connect AI platform investments to company
+    priorities and customer outcomes, adapting your working
+    style to collaborate with diverse engineering squads.
+  - Architect solutions for integrating external data via
+    retrieval-augmented generation, including connections to
+    third-party data stores, and build systems for token-
+    efficient AI usage such as model routing and code
+    execution.
+  - Propose and evaluate new AI features to advance the
+    platform's capabilities, and resolve technical debates to
+    align teams around the right approach.
+
+  Desired Skills and Experience
+
+  - 15+ years of software engineering experience, with deep
+    expertise in systems architecture.
+  - Significant experience building and shipping an AI-powered
+    product in production, including agentic loop design,
+    structured responses, tool calling, Model Context Protocol
+    (MCP), and retrieval-augmented generation (RAG).
+  - Proven ability to design scalable, efficient system
+    architectures and evaluate the right technologies for AI
+    system components.
+  - Experience establishing software development best practices
+    and reliability/evaluation standards for AI models in
+    production.
+  - Full-stack experience across front-end and back-end AI
+    product development; proficiency in Kotlin, TypeScript,
+    and React.
+  - Experience working with both Anthropic and/or OpenAI models
+    and APIs.
+  - Track record of driving technical or architectural decisions
+    and aligning stakeholders across teams, especially amid
+    competing viewpoints.
+  - Demonstrated success integrating third-party data sources
+    and delivering measurable improvements in AI model
+    performance and token efficiency in production.
+
+  Bonus
+
+  - Experience with multi-agent systems, AI agent orchestration,
+    or advanced model evaluation techniques.
+  - Background in financial services or investment management.
+  - Contributions to open-source AI/ML projects or publications
+    in the space.
+
+  About Ridgeline
+
+  Ridgeline is the first front-to-back system of record for
+  investment managers. Founded by visionary entrepreneur Dave
+  Duffield (co-founder of both PeopleSoft and Workday), the
+  company was created to modernize an industry held back by
+  outdated, disconnected technology. Powered by a single,
+  real-time data set and embedded AI, Ridgeline helps firms
+  automate complexity, accelerate collaboration, and deliver
+  tailored client experiences at scale, without added
+  headcount or risk. Ridgeline is headquartered in Lake Tahoe,
+  with offices in New York, Reno, the Bay Area, Dublin
+  Ireland. Ridgeline is recognized by Fast Company as a “Best
+  Workplace for Innovators,” by Frost & Sullivan as a
+  “Technology Innovation Leader,” and by The Software Report
+  as a “Top 100 Software Company.
+
+  Ridgeline is proud to be a community-minded, discrimination-
+  free equal opportunity workplace.
+
+  Ridgeline processes the information you submit in connection
+  with your application in accordance with the Ridgeline
+  Candidate Privacy Policy. Please review the Ridgeline
+  Candidate Privacy Policy in full to understand our privacy
+  practices and contact us with any questions.
+
+  This posting is for an existing vacancy.
+
+  Compensation and Benefits
+
+  The typical starting salary range for new hires in this role
+  is listed below.  In select locations (including, the San
+  Francisco Bay Area, CA, and the New York City Metro Area),
+  an alternate range may apply as specified below.
+
+  The typical starting salary range for this role is:
+  $253,000-$316,000.
+
+  The typical starting salary range for this role in the
+  select locations listed above is: $278,000-$347,500.
+
+  Final compensation amounts are determined by multiple
+  factors, including candidate experience and expertise, and
+  may vary from the amount listed above.
+
+  As an employee at Ridgeline, you’ll have many opportunities
+  for advancement in your career and can make a true impact on
+  the product.
+
+  In addition to the base salary, Ridgeline employees can
+  participate in our Company Stock Plan subject to the
+  applicable Stock Option Agreement. We also offer rich
+  benefits that reflect the kind of organization we want to
+  be: one in which our employees feel valued and are inspired
+  to bring their best selves to work. These include unlimited
+  vacation, educational and wellness reimbursements, and $0
+  cost employee insurance plans. Please check out our Careers
+  page for a more comprehensive overview of our perks and
+  benefits.
+
+  #LI-Remote
+posted_date: 2026-09-16
+url: "https://builtin.com/job/principal-engineer-ai-platform/11191783"
+source: Built In

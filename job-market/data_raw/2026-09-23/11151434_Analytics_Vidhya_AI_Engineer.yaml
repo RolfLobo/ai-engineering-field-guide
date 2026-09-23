@@ -1,0 +1,112 @@
+job_id: 11151434
+title: AI Engineer
+company: Analytics Vidhya
+location: Gurugram, IND
+work_type: FULL_TIME
+company_size: 439 Employees
+description: |
+  We are looking for an AI Engineer to design, build, and ship
+  AI models and AI-native features that power the next wave of
+  learning at
+
+  Analytics Vidhya — adaptive curricula, intelligent tutors,
+  automated assessments, and content generation. You will own
+  ideas end-to-end
+
+  and use AI-powered dev tools like Claude Code and Codex to
+  ship faster than a traditional ML team.
+
+  WHAT YOU 'LL DO
+
+  • Build AI models — fine-tune and deploy LLMs, embedding
+  models, and classical ML to power tutoring, recommendations,
+
+  assessments, and content generation across our Ed-Tech
+  products.
+
+  • Prototype to production — translate fuzzy product ideas
+  into working prototypes in days, then harden them into
+  reliable services
+
+  with proper evals, guardrails, and monitoring.
+
+  • AI-native engineering — use Claude Code, Codex, and Cursor
+  as daily drivers to design, refactor, and test code;
+  orchestrate agents
+
+  and tool-use for non-trivial workflows.
+
+  • Retrieval & agents — design RAG pipelines, vector search,
+  and agentic systems over our learning content, course
+  catalogs, and user
+
+  signals.
+
+  • Evals & quality — build evaluation harnesses, golden sets,
+  and A/B experiments to keep model quality measurable and
+  improving.
+
+  • Collaborate cross-functionally — partner with product,
+  design, and content teams to scope problems, define success
+  metrics, and
+
+  ship learner-facing impact.
+
+  MUST HAVE
+
+  • 2–6 years building and shipping AI / ML systems in
+  production (not just notebooks).
+
+  • Hands-on fluency with AI-powered dev tools — Claude Code,
+  Codex, Cursor — and the judgment to know when to lean on
+  them vs.
+
+  write it yourself.
+
+  • Strong Python; solid grasp of modern LLM stacks (OpenAI,
+  Anthropic, Hugging Face, LangChain / LlamaIndex or
+  equivalents).
+
+  • Experience with prompt engineering, fine-tuning, RAG,
+  embeddings, and at least one vector DB (pgvector, Pinecone,
+  Weaviate,
+
+  Qdrant).
+
+  • Comfort with cloud (AWS / GCP / Azure), Docker, and basic
+  MLOps — model serving, versioning, observability.
+
+  • Bachelor's in CS, ML, or related field; bias for shipping,
+  strong written communication, and clear thinking under
+  ambiguity.
+
+  BONUS POINTS
+
+  • Built or shipped AI features in Ed-Tech, data science, or
+  analytics platforms.
+
+  • Experience with multi-agent systems, MCP, tool-use, or
+  evaluation frameworks (e.g., Inspect, Promptfoo, Ragas).
+
+  • Open-source contributions, public AI projects, or
+  technical writing on LLMs and applied ML
+
+  .
+
+  WHY JOIN US
+
+  Shape AI products used by millions of learners · high
+  ownership with product & leadership · fast, learning-driven
+  culture · competitive
+
+  compensation and growth.
+
+  Apply now and help build the future of AI-native learning
+industries:
+  - Artificial Intelligence
+  - Edtech
+  - Analytics
+  - Big Data Analytics
+posted_date: 2026-09-12
+url: "https://builtin.com/job/ai-engineer/11151434"
+source: Built In

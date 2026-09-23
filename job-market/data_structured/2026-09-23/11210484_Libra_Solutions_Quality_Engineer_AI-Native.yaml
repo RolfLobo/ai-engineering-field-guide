@@ -1,0 +1,56 @@
+company:
+  name: Libra Solutions
+  stage: null
+  focus: Personal injury legal and medical funding services platform
+position:
+  title: Quality Engineer, AI-Native
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a QA automation engineer who uses AI tools
+      (Copilot, Claude) to generate tests and reviews AI-generated
+      code — but the deliverable is test coverage, not shaping a
+      model's behaviour. There's no prompt engineering, RAG, or
+      model output-quality work that feeds back into a model; AI
+      is a tool in the workflow.
+  responsibilities:
+  - Design and maintain automated UI and end-to-end test suites using Playwright and
+    TypeScript
+  - Write automated API tests against C#/ASP.NET Core REST endpoints
+  - Build integration tests validating service interactions and data flows including
+    SQL Server/Azure SQL data validation
+  - Design test data strategy with repeatable setup and teardown for parallel test
+    execution
+  - Use AI-assisted tools (GitHub Copilot, Claude) with structured prompts to accelerate
+    test scaffolding
+  - Critically evaluate AI-generated tests for coverage completeness and assertion
+    quality before committing
+  - Contribute to Azure DevOps CI/CD pipelines with automated suites as mandatory
+    quality gates
+  - Track bugs/defects in Jira and partner with engineers on resolution
+  use_cases:
+  - Automated quality gates for an AI-native delivery model where AI agents generate
+    code and tests at scale
+  - End-to-end test coverage of personal injury case management platform front-ends
+  - API contract and business logic validation for legal/medical/financial workflow
+    services
+  skills:
+    databases: [SQL Server]
+    domains: []
+    data: []
+    web: [Playwright, React, Angular, REST APIs]
+    ml: []
+    ops: [xUnit, GitHub Copilot, Azure DevOps, CI/CD, NUnit]
+    other: [Jira]
+    cloud: [Azure SQL]
+    languages: [TypeScript, C#, ASP.NET Core, SQL]
+    genai: [Anthropic API, ChatGPT]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11210484'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:27:26.630429'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

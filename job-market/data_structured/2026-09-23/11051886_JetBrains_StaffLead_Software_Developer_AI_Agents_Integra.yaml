@@ -1,0 +1,63 @@
+company:
+  name: JetBrains
+  stage: null
+  focus: Developer tools and IDEs
+position:
+  title: Staff/Lead Software Developer (AI Agents & Integrations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes AI agent behavior directly: designing agent
+      tools, tool calling, context management, MCP integrations,
+      and building evaluation frameworks for AI-assisted
+      development. This is hands-on LLM/agent work, not merely
+      consuming an API.
+  responsibilities:
+  - Shape and deliver AI-powered features for CLion and C++ development workflows
+  - Design architecture for AI integrations, agent tools, and C++-specific AI capabilities
+  - Build benchmarks and evaluation frameworks for AI-assisted C++ development scenarios
+  - Prototype and validate AI workflows including debugging, code understanding, refactoring,
+    and navigation
+  - Contribute hands-on to technical design, software architecture, and implementation
+    in a large codebase
+  - Define technical roadmap for AI agent and tool integrations in C++ development
+  - Collaborate with JetBrains AI, ML, product, and QA teams on AI strategy
+  use_cases:
+  - AI-assisted debugging in C++ IDE
+  - Agent-powered code understanding and navigation
+  - Integrating coding agents into developer tools (CLion)
+  - Evaluation and benchmarking of AI-assisted development
+  - Developer workflow automation for C++
+  skills:
+    genai: [AI Agents, Function Calling, MCP, LLMs, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Monitoring]
+    languages: [Kotlin, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11051886'
+  location: DEU
+  locations:
+  - DEU
+  - Prague, CZE
+  - Paphos, CYP
+  - Yerevan, ARM
+  - Berlin, DEU
+  - Limassol, CYP
+  - Munich, DEU
+  - Amsterdam, NLD
+  - London, GBR
+  - Warsaw, POL
+  - Madrid, ESP
+  - Belgrade, SRB
+  remote: true
+  extracted_at: '2026-09-23T11:15:32.386026'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

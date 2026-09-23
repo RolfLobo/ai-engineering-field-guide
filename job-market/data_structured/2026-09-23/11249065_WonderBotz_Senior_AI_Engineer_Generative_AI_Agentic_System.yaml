@@ -1,0 +1,53 @@
+company:
+  name: WonderBotz
+  stage: null
+  focus: Enterprise automation and RPA consulting
+position:
+  title: Senior AI Engineer (Generative AI & Agentic Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM applications themselves: RAG
+      pipelines, agentic workflows, prompt engineering, and
+      evaluation — directly shaping model behavior, with LLM/agent
+      components throughout.
+  responsibilities:
+  - Design and develop LLM-powered applications including RAG pipelines and agentic
+    workflows using LangChain and LangGraph
+  - Build and optimize retrieval architectures using vector databases and semantic
+    search
+  - Apply prompt engineering techniques to improve accuracy, reliability, and cost-efficiency
+    of LLM solutions
+  - Serve as technical point of contact for clients and internal stakeholders on AI
+    solution design
+  - Integrate GenAI solutions with enterprise systems via REST APIs, webhooks, and
+    cloud services
+  - Extend RPA/automation assets with AI-driven decisioning and self-healing capabilities
+  - Establish CI/CD and monitoring practices for AI applications
+  - Mentor junior developers on GenAI best practices and coordinate solution deliverables
+  use_cases:
+  - Automating complex business processes with Generative AI and agentic systems
+  - Grounding LLM responses in enterprise data via RAG and semantic search
+  - Multi-step autonomous agents for enterprise workflow augmentation
+  - AI-driven decisioning and self-healing for existing RPA automations
+  skills:
+    genai: [LangChain, LangGraph, RAG, Agentic Workflows, Prompt Engineering, OpenAI
+        API, Claude Code, LLMs, Semantic Search, Generative AI]
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: [Chroma, Vector Databases, DynamoDB]
+    data: []
+    cloud: [AWS Lambda, Azure]
+    ops: [Git, GitHub Actions, Jenkins, Splunk, CI/CD]
+    languages: [Python, C#, JavaScript, SQL]
+    domains: []
+    other: [Blue Prism, UiPath, Automation Anywhere, Agile, ITIL]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11249065'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:32:17.859196'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

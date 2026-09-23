@@ -1,0 +1,51 @@
+company:
+  name: Vetcove
+  stage: null
+  focus: |-
+    Veterinary software, procurement marketplace, and pet
+    healthcare platforms
+position:
+  title: AI Integrations Staff Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role selects and evaluates AI models, builds evaluation
+      frameworks and observability for AI performance, and fine-
+      tunes models for product use — directly shaping model
+      behaviour and output quality. Agent SDKs and fine-tuning of
+      existing LLMs point to ai-first.
+  responsibilities:
+  - Evaluate and select AI models for products based on business needs
+  - Design evaluation frameworks and configure observability platforms for monitoring
+    AI performance in production
+  - Collaborate with data science team to fine-tune AI models for product performance
+  - Develop and maintain AI-powered application features using Python
+  - Test and validate AI model performance in real-world scenarios and troubleshoot
+    issues
+  - Identify opportunities for AI innovation within products
+  - Work with CTO, engineering, and cross-functional teams to evolve the platform
+  use_cases:
+  - AI-enhanced veterinary procurement marketplace
+  - AI-powered home delivery ecommerce experience
+  - AI features in veterinary practice management systems
+  - Improving user experience for veterinary hospitals and pet parents
+  skills:
+    genai: [AI Agents, Fine-Tuning]
+    ml: [Model Evaluation]
+    web: [Web Frameworks]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10910908'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:06:08.370624'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

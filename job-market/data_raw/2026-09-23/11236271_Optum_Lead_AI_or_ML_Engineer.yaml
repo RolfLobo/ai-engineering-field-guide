@@ -1,0 +1,109 @@
+job_id: 11236271
+title: Lead AI or ML Engineer
+company: Optum
+location: Gurugram, IND
+work_type: FULL_TIME
+company_size: 160,000 Employees
+description: |
+  Requisition Number: 2380668 Optum is a global organization
+  that delivers care, aided by technology to help millions of
+  people live healthier lives. The work you do with our team
+  will directly improve health outcomes by connecting people
+  with the care, pharmacy benefits, data and resources they
+  need to feel their best. Here, you will find a culture
+  guided by inclusion, talented peers, comprehensive benefits
+  and career development opportunities. Come make an impact on
+  the communities we serve as you help us advance health
+  optimization on a global scale. Join us to start Caring.
+  Connecting. Growing together. Primary Responsibilities:
+
+  - Lead product ionization of AI/ML systems on Azure and other
+    cloud platforms, supporting the full journey from
+    experimentation to deployment
+  - Define architecture and standards for data pipelines,
+    learning workflows, and model-serving APIs across AI/ML
+    systems
+  - Design, deploy, and operate production model-serving APIs
+    across batch and real-time serving patterns, with clear
+    SLAs for latency, throughput, and availability
+  - Build and maintain Python-based automation, tooling, and
+    services supporting AI/ML workflows and deployments
+  - Define and maintain CI/CD pipelines and engineering
+    standards for AI/ML workflows (code, data, and models)
+  - Containerize and orchestrate AI/ML workloads using Docker
+    and Kubernetes, with infrastructure managed as code
+  - Own the design and maintenance of Dev / Stage / Prod
+    environments on Azure
+  - Govern management of model artifacts, registries, and
+    feature/representation stores
+  - Lead monitoring of system health, data drift, and model
+    drift with alerting and remediation strategies
+  - Own post-deployment support, incident response, and
+    continuous improvement
+  - Comply with the terms and conditions of the employment
+    contract, company policies and procedures, and any and all
+    directives (such as, but not limited to, transfer and/or
+    re-assignment to different work locations, change in teams
+    and/or work shifts, policies in regards to flexibility of
+    work benefits and/or work environment, alternative work
+    arrangements, and other decisions that may arise due to
+    the changing business environment). The Company may adopt,
+    vary or rescind these policies and directives in its
+    absolute discretion and without any limitation (implied or
+    otherwise) on its ability to do so
+
+  Required Qualifications:
+
+  - Undergraduate degree or equivalent experience
+  - 8+ years of experience building and operating production
+    systems with real-world constraints
+  - Hands-on experience with Azure cloud services,
+    infrastructure management, and cloud-native deployment
+  - Experience designing and operating production APIs and
+    model-serving endpoints under defined SLAs and failure
+    modes
+  - Experience building CI/CD pipelines (e.g., GitHub Actions)
+    and managing model versioning and registries
+  - Experience implementing observability for production
+    systems: logging, metrics, alerting, and drift detection
+  - Solid software engineering fundamentals in Python, with
+    solid software design, automation, and debugging skills
+  - Proficiency with Docker, Kubernetes, and workflow
+    orchestration for containerized workloads
+
+  Preferred Qualifications:
+
+  - Infrastructure as Code experience (Terraform, Bicep, or
+    equivalent)
+  - Experience with vector and NoSQL databases, RAG pipelines,
+    and GenAI platform engineering
+  - Experience with distributed systems and streaming/event
+    platforms (e.g., Kafka)
+  - Experience operating AI/ML systems in a regulated or
+    healthcare environment
+  - Working knowledge of AI/ML lifecycles, model deployment
+    patterns, and MLflow or equivalent tooling
+
+  At UnitedHealth Group, our mission is to help people live
+  healthier lives and make the health system work better for
+  everyone. We believe everyone-of every race, gender,
+  sexuality, age, location and income-deserves the opportunity
+  to live their healthiest life. Today, however, there are
+  still far too many barriers to good health which are
+  disproportionately experienced by people of color,
+  historically marginalized groups and those with lower
+  incomes. We are committed to mitigating our impact on the
+  environment and enabling and delivering equitable care that
+  addresses health disparities and improves health outcomes -
+  an enterprise priority reflected in our mission.  #Exectech
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Healthtech
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-09-17
+url: "https://builtin.com/job/lead-ai-or-ml-engineer/11236271"
+source: Built In

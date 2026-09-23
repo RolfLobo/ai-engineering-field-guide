@@ -1,0 +1,48 @@
+company:
+  name: Google Operations Center
+  stage: null
+  focus: |-
+    Outsourced support and operations for Google users and
+    customers
+position:
+  title: Full Stack Developer Specialist - Applied AI and Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds business process automation tools and
+      frameworks; AI/ML is listed only as one of several possible
+      automation technologies. There is no work shaping model
+      behaviour, prompts, retrieval, or agent flows, so it is ai-
+      support.
+  responsibilities:
+  - Build and design automation frameworks and new automation solutions
+  - Execute automation opportunities to maximize business value and operational efficiency
+  - Build new tools and automation across business areas with a long-term view
+  - Lead automation initiatives to improve process efficiency
+  - Own and track automation initiatives through closure and communicate business
+    gains
+  - Coordinate with different engineering groups across geographies
+  use_cases:
+  - Business process automation across Google operations
+  - Operational efficiency improvements in support processes
+  - Internal tooling and dashboards for business areas
+  skills:
+    genai: []
+    ml: [AI/ML]
+    web: [REST APIs]
+    databases: [Databases]
+    data: []
+    cloud: [GCP, Cloud]
+    ops: [DevOps]
+    languages: [Python, JavaScript, Java]
+    domains: []
+    other: [Agile, Lean, Six Sigma]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9234577'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:39:04.796707'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

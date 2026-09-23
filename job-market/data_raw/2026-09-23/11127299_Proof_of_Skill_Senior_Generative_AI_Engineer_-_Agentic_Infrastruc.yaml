@@ -1,0 +1,91 @@
+job_id: 11127299
+title: Senior Generative AI Engineer - Agentic Infrastructure
+company: Proof of Skill
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 15 Employees
+description: |
+  About Chryselys
+
+  Chryselys is a Great Place to Work Certified Pharma
+  Analytics & Business consulting company that delivers data-
+  driven insights leveraging AI-powered, cloud-native
+  platforms to achieve high-impact transformations. We
+  specialize in digital technologies and advanced data science
+  techniques that provide strategic and operational insights.
+
+  Role Summary
+
+  We are seeking a Generative AI Engineer to design and build
+  the infrastructure that enables reliable, scalable, and
+  intelligent agentic applications. This role focuses on the
+  systems behind AI agents — including memory, context
+  management, agent-to-agent communication, orchestration, and
+  runtime operations. You will partner with application,
+  platform, and product teams to develop the foundations that
+  allow agents to collaborate, retain relevant information,
+  use tools effectively, and operate securely in enterprise
+  environments.
+
+  Responsibilities
+
+  - Design and build agentic infrastructure for memory, context,
+    state, and session management.
+  - Develop patterns for short-term and long-term agent memory,
+    retrieval, summarization, and context optimization.
+  - Implement agent-to-agent communication using protocols such
+    as A2A, MCP, and event-driven APIs.
+  - Build and operate agent workflows using AWS services and AWS
+    AgentCore.
+  - Integrate agents with tools, enterprise data sources, APIs,
+    and identity systems.
+  - Establish standards for agent observability, tracing,
+    evaluation, reliability, latency, and cost management.
+  - Design guardrails for security, privacy, authorization, and
+    responsible agent behavior.
+  - Collaborate with application engineers to define interfaces
+    between agent runtimes and user-facing products.
+  - Contribute to reusable frameworks, reference architectures,
+    and engineering best practices for production GenAI
+    systems.
+
+  Qualifications
+
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related field, with 5+ years of software engineering
+    experience.
+  - Experience building production-grade GenAI, agentic, or
+    distributed systems.
+  - Strong programming skills in Python, TypeScript, Java, or a
+    similar language.
+  - Hands-on experience with agent orchestration frameworks such
+    as LangGraph, LangChain, or comparable technologies.
+  - Practical experience with AWS, preferably including AWS
+    AgentCore and related services.
+  - Understanding of agent memory, context windows, retrieval,
+    embeddings, vector databases, and state management.
+  - Familiarity with A2A, MCP, REST, event-driven architectures,
+    and asynchronous communication patterns.
+  - Experience with cloud-native development, APIs, containers,
+    CI/CD, and observability.
+  - Strong understanding of reliability, security, scalability,
+    and operational requirements for enterprise systems.
+
+  Preferred Qualifications
+
+  - Experience deploying multi-agent systems in production.
+  - Familiarity with agent evaluation, simulation, and automated
+    testing.
+  - Experience in healthcare, pharmaceuticals, finance, or
+    another regulated industry.
+  - Knowledge of IAM, encryption, data governance, and
+    enterprise security practices.
+  - Ability to communicate complex technical concepts clearly
+    across engineering, product, and business teams.
+industries:
+  - HR Tech
+  - Information Technology
+  - Software
+posted_date: 2026-09-11
+url: "https://builtin.com/job/senior-generative-ai-engineer-agentic-infrastructure/11127299"
+source: Built In

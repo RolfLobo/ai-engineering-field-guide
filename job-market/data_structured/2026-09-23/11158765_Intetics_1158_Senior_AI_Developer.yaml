@@ -1,0 +1,53 @@
+company:
+  name: Intetics
+  stage: null
+  focus: Custom software development and digital solutions
+position:
+  title: 1158 Senior AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM applications, RAG
+      architectures, and multi-agent orchestration frameworks
+      itself, directly shaping model behavior and output quality.
+      LLM/agent components dominate, so it is ai-first.
+  responsibilities:
+  - Design and develop AI-powered applications using Large Language Models
+  - Build RAG solutions using embeddings, vector databases, and enterprise knowledge
+    sources
+  - Develop Agentic AI applications with autonomous planning, reasoning, and tool
+    usage
+  - Design and implement multi-agent orchestration frameworks
+  - Deploy and manage AI solutions using Azure AI Foundry, Azure OpenAI, Azure AI
+    Search, and Azure App Service
+  - Build APIs and backend services using Python
+  - Collaborate with architects, product teams, and business stakeholders to deliver
+    production-ready AI solutions
+  - Participate in architecture discussions and contribute to AI best practices
+  use_cases:
+  - AI-powered applications built on large language models
+  - Enterprise knowledge retrieval via RAG with vector databases
+  - Autonomous agents with planning, reasoning, and tool usage
+  - Multi-agent collaboration on complex workflows
+  - Cloud-deployed AI services on the Azure AI stack
+  skills:
+    genai: [LLMs, Generative AI, RAG, Agentic Workflows, Multi-Agent Systems, LangChain,
+      LangGraph, Semantic Kernel, AutoGen, CrewAI, Embeddings, Prompt Engineering]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Azure AI Foundry, Azure OpenAI, Azure]
+    ops: [CI/CD, Docker, GitHub Actions, Azure DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11158765'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:23:06.078539'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

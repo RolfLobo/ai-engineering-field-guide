@@ -1,0 +1,55 @@
+company:
+  name: Anaplan
+  stage: null
+  focus: AI-infused scenario planning and analysis platform
+position:
+  title: Senior QA Automation Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs evaluation frameworks, prompt regression
+      suites, red-teaming, and quality metrics for LLM-powered and
+      agentic applications. Building evals and guardrails for LLM
+      output quality is shaping model behaviour, so it is ai-
+      first.
+  responsibilities:
+  - Design test plans, evaluation frameworks, and quality metrics for LLM-powered
+    applications and agentic workflows
+  - Develop end-to-end automated test suites in Python covering evaluations, API,
+    UI, and performance tests
+  - Create automated prompt testing systems and regression suites to detect unintended
+    changes in model behaviour
+  - Establish multi-dimensional evaluation criteria for accuracy, relevance, safety,
+    consistency, and latency
+  - Perform adversarial testing (red-teaming) to identify hallucinations, biases,
+    and security vulnerabilities
+  - Build internal tools and frameworks for engineering teams to validate GenAI implementations
+  - Deploy real-time monitoring and alerting to detect AI quality degradation in production
+  - Own quality and testing strategy for the workstream, including golden-example
+    test datasets and QA best practices
+  use_cases:
+  - Quality assurance for LLM-powered features in a scenario planning platform
+  - Regression and prompt testing to detect unintended model behaviour changes
+  - Red-teaming to surface hallucinations, bias, and safety issues in GenAI features
+  - Production monitoring of AI feature quality degradation
+  - Golden-example datasets for evaluating non-deterministic AI systems
+  skills:
+    genai: [LLMs, Prompt Engineering, Agentic Workflows, LLM Evaluation, Guardrails,
+      Generative AI]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Monitoring]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [Selenium, Pytest, Postman, REST Assured]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11231819'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:29:32.116471'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

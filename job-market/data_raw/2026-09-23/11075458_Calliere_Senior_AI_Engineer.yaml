@@ -1,0 +1,87 @@
+job_id: 11075458
+title: Senior AI Engineer
+company: Calliere
+location: New York, USA
+work_type: FULL_TIME
+company_size: 3 Employees
+description: |
+  Build the thing, then build the company around it.
+
+  Our client backs and builds AI-native ventures from the
+  ground up, and they're looking for a Senior AI Engineer who
+  wants to be a core builder, not employee #400. You'll take
+  validated concepts and turn them into real products with
+  real users, then keep going as those products find their
+  footing. If you've shipped end-to-end AI systems to
+  production, built things nobody asked you to build, and want
+  genuine ownership in what you create, keep reading.
+
+  You're probably a strong engineer from a demanding technical
+  environment with an entrepreneurial itch. Someone who's
+  tired of incremental work on someone else's platform and
+  wants to see their own fingerprints on something that ships.
+
+  What you'll do
+
+  - Build end-to-end agentic AI systems: agents, retrieval,
+    orchestration, tool integrations. From a blank repo
+    through product-market fit
+  - Take a product from rough scope to shipped, cutting hard to
+    the smallest version that proves value, then hardening it
+    for production
+  - Pull reusable patterns and primitives out of each build so
+    the next one starts further down the road
+  - Work shoulder-to-shoulder with product and design partners
+    to shape what gets built, not just how
+  - Move fluidly across very different product contexts, and
+    treat ambiguity as the job rather than an obstacle
+
+  Requirements
+
+  What you bring
+
+  - Several years of experience at an environment known for
+    engineering rigor. A top quantitative trading firm or a
+    high-bar technology company, with individual output you
+    can clearly point to as your own
+  - A track record shipping AI systems to production and
+    operating them after launch: real users, real failure
+    modes, a real post-launch story. Not demos, notebooks, or
+    research prototypes.
+  - A visible entrepreneurial streak: a side project, a startup,
+    a founding or early role, or a genuine 0→1 effort inside a
+    larger org. Evidence you don't just execute what's handed
+    to you.
+  - A STEM degree (CS, Math, Physics, Engineering) from a strong
+    program.
+  - Commercial EQ: you can hold your own with non-technical
+    stakeholders, customers, and partners, not only other
+    engineers.
+
+  Tech you'll work with
+
+  Python, LLMs, agentic AI frameworks, RAG and retrieval
+  systems, model serving, evaluation and regression suites,
+  CI/CD, observability and monitoring.
+
+  Who tends to thrive here
+
+  - Engineers from AI-native startups, or founding/early
+    engineers who've shipped real product to real users
+  - Quant or quant-adjacent engineers with an entrepreneurial
+    background who want to move into building product
+
+  Probably not the right fit
+
+  - Researchers who want to build models with no commercial
+    responsibility or product ownership.
+  - Engineers whose experience is incremental improvements to
+    established systems, with no 0→1 signal.
+  - Short-tenure pattern.
+industries:
+  - Agency
+  - Information Technology
+  - Professional Services
+posted_date: 2026-09-09
+url: "https://builtin.com/job/senior-ai-engineer/11075458"
+source: Built In

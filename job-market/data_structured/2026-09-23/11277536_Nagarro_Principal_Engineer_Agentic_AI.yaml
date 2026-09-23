@@ -1,0 +1,57 @@
+company:
+  name: Nagarro
+  stage: null
+  focus: Digital product engineering and IT consulting services
+position:
+  title: Principal Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM-based systems directly: agentic
+      frameworks, multi-agent orchestration, RAG pipelines, prompt
+      design standards, and LLM evaluation. This is shaping model
+      behavior and output quality, with LLMs involved, so ai-
+      first.
+  responsibilities:
+  - Convert client business use cases and technical requirements into technical designs
+  - Design end-to-end AI/ML architectures including ML, Deep Learning, and LLM systems
+    and establish reusable AI platform best practices
+  - Design scalable backend platforms for LLM inference, RAG pipelines, and agent-based
+    orchestration
+  - Lead design and implementation of complex GenAI workflows combining LLMs, tools,
+    APIs, structured data, and user context
+  - Establish engineering standards for prompt design, model integration, evaluation,
+    and observability
+  - Drive GenAI platformisation by building reusable components, SDKs, and frameworks
+    across teams
+  - Lead technical discovery, client/executive-facing workshops, and architecture
+    reviews
+  - 'Ensure enterprise readiness: security, privacy, compliance, governance, and responsible
+    AI'
+  use_cases:
+  - Production-grade Generative AI applications at enterprise scale
+  - RAG pipelines and agent-based orchestration platforms
+  - Multi-agent GenAI workflows combining LLMs, tools, and APIs
+  - Reusable GenAI platforms, SDKs, and frameworks across products
+  - Scalable ML systems and production pipelines
+  skills:
+    genai: [LangGraph, CrewAI, AutoGen, Multi-Agent Systems, Generative AI, LLMs,
+      RAG, Agentic Workflows]
+    ml: [Machine Learning, Deep Learning, Neural Networks]
+    web: [Microservices, APIs]
+    databases: [BigQuery]
+    data: [Databricks]
+    cloud: [Vertex AI, GCP]
+    ops: [MLOps, CI/CD, Model Monitoring, MLflow, Kubeflow, GitHub Copilot, Claude
+        Code]
+    languages: [Python]
+    domains: []
+    other: [Statistical Modeling, System Design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11277536'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:34:03.649439'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

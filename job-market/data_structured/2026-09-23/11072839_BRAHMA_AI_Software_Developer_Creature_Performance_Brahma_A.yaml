@@ -1,0 +1,50 @@
+company:
+  name: BRAHMA AI
+  stage: null
+  focus: AI-powered VFX and animation technology
+position:
+  title: Software Developer, Creature Performance (Brahma AI - A DNEG Dedicated Unit
+    of Brahma)
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The role builds VFX creature technology (deformers, rigging,
+      solvers) with C++/Python and Maya/Houdini SDKs. No LLM,
+      agent, or AI model work is described, and no model output
+      quality shaping or ML training is present, so the AI type
+      cannot be classified as ai-first, ml-first, or ai-support;
+      despite the company name, this is a graphics software role.
+  responsibilities:
+  - Develop technologies for deformers, kinematics, solvers and frameworks for rigging,
+    Creatures FX, crowds and animation
+  - Ensure creature technologies interoperate to deliver a consistent ecosystem and
+    user experience for artists
+  - Apply and expand algorithms to improve performance and quality of creature systems
+  - Communicate between technical developers, non-technical artists and end users
+  - Design, support, maintain and integrate software into the existing pipeline
+  - Work with Product Owners and Stakeholders under Agile methodologies to deliver
+    bespoke software products
+  use_cases:
+  - Digital creature rigging and deformers for VFX
+  - Creatures FX solvers and kinematics
+  - Crowd simulation and animation tooling
+  - Feature Animation and VFX production pipelines
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C++, Python]
+    domains: []
+    other: [Geometry Processing, Maya SDK, Houdini SDK, GPU Programming, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11072839'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:17:49.258337'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

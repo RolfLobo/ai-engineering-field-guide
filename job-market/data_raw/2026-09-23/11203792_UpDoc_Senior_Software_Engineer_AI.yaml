@@ -1,0 +1,79 @@
+job_id: 11203792
+title: Senior Software Engineer, AI
+company: UpDoc
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About UpDoc
+
+  At UpDoc, we are building the first clinically validated,
+  physician-supervised AI agent that manages chronic diseases.
+  We are an early-stage startup founded by Stanford
+  physicians.
+
+  We are seeking a talented and motivated senior engineer to
+  join our team. You will primarily work on UpDoc’s patient-
+  facing conversational agent. This is a fully remote
+  position.
+
+  Who You Are
+
+  You’re an experienced senior engineer with a backend tilt.
+  You’re well-versed in all things web and have experience
+  building LLM applications end-to-end, even if not in a
+  professional context. You follow the AI/LLM space closely,
+  play with new technologies as they come out, and are excited
+  to use these technologies to build safe, reliable medical AI
+  systems.
+
+  What You'll Do
+
+  - Lead the development of our patient-facing conversational
+    agent
+  - Implement a scalable, low-latency system for
+    voice/multimodal conversations
+  - Implement rigorous prompt engineering processes and develop
+    useful metrics for system evaluation
+  - Identify where fine-tuning and alignment might be valuable,
+    and create data pipelines to enable fast experimentation
+  - Work with other backend engineers to deploy AI models and
+    chat/voice APIs
+  - Help identify, evaluate, and implement emerging LLM
+    technologies, tools and frameworks
+  - Collaborate with clinical experts to validate performance
+    and medical accuracy
+  - Work on developing backend services using FastAPI and
+    Pydantic
+
+  What You’ll Need
+
+  - 5+ years of professional software development experience,
+    including 2+ years of experience with backend web
+    development
+  - Experienced and comfortable working with type-hinted, modern
+    Python
+  - 2+ years of experience building end-to-end LLM applications,
+    personally or professionally
+    - Experience integrating/optimizing LLMs in production
+      environments
+    - Knowledge of evaluation frameworks
+    - Knowledge and experience with MLOps/LLMOps best practices
+    - Experience building AI infrastructure from 0 -> 1
+  - Experience with cloud platforms (especially Azure) and
+    containerization technologies
+
+  Highly Desired
+
+  - Professional experience building end-to-end LLM-powered
+    applications
+  - Experience with model fine-tuning/alignment
+  - Experience in an early stage startup environment
+  - Experience with healthcare industry standards, such as FHIR,
+    and regulations, including HIPAA and SOC 2
+industries:
+  - Healthtech
+  - Telehealth
+posted_date: 2026-09-16
+url: "https://www.builtinla.com/job/senior-software-engineer-ai/11203792"
+source: Built In

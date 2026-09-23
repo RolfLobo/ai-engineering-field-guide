@@ -1,0 +1,55 @@
+company:
+  name: Workday
+  stage: Fortune 500
+  focus: Enterprise cloud platform for HR, finance, and AI
+position:
+  title: Sr. AI Deployment Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects end-to-end AI solutions with LLMs, RAG,
+      prompt design, and agent orchestration across Workday Agent
+      Platform and Sana, shaping model behavior through retrieval,
+      prompts, and configuration, so it is ai-first. As a
+      deployment engineer adapting AI solutions at customer sites,
+      the forward-deployed edge case also applies.
+  responsibilities:
+  - Architect end-to-end AI solutions across the Workday ecosystem, including data
+    flows, integration patterns, and technical controls connecting Native Agents,
+    custom agents on the Workday Agent Platform, and Sana
+  - Advise C-suite and senior technical leaders, translating AI architecture choices
+    into business value, risk considerations, and transformation roadmaps
+  - Lead technical delivery for AI workstreams, overseeing configuration, integrations,
+    data preparation, privacy and security controls, and model-related tuning
+  - Partner with Product and Engineering to share customer deployment insights informing
+    the Agent Platform, AI tooling, and Sana capabilities
+  - Design and validate patterns for how Workday AI interacts with third-party systems
+    and external LLMs, ensuring data integrity, security, and ethical AI adherence
+  use_cases:
+  - Enterprise deployment of native AI agents and custom agents for HCM and finance
+    customers
+  - Knowledge and content capabilities via Sana assistant
+  - Integration of Workday AI with third-party systems and external LLMs
+  - AI-driven enterprise workflows with secure data flows
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Agentic Workflows, AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Workday, Enterprise Software Implementation, Technical Architecture, Integrations]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11045300'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - Munich, DEU
+  extracted_at: '2026-09-23T11:15:11.388545'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: MARLOWE COMPANIES INC.
+  stage: null
+  focus: Tech-enabled business services, CX/BPO and cloud solutions
+position:
+  title: AI Prompt Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role's core work is designing, testing, and refining
+      prompts for Generative AI systems, directly shaping LLM
+      output quality. This is prompt engineering and AI output
+      evaluation, which is shaping an LLM.
+  responsibilities:
+  - Design and refine prompts that improve AI-generated outputs
+  - Develop prompt templates and reusable prompting structures
+  - Test prompt variations and evaluate performance outcomes
+  - Assess AI responses against quality standards and recommend improvements
+  - Collaborate with AI Engineers, Product Managers, and business stakeholders to
+    translate requirements into prompting solutions
+  - Maintain prompt documentation, libraries, and guidelines
+  - Research emerging prompting methodologies and AI tools
+  use_cases:
+  - Customer support AI
+  - Content generation
+  - Workflow automation
+  - Knowledge management
+  - Productivity solutions
+  skills:
+    genai: [Prompt Engineering, LLMs, Generative AI, RAG, OpenAI API, Anthropic API,
+      Gemini, Conversational AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11080231'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:23.493756'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

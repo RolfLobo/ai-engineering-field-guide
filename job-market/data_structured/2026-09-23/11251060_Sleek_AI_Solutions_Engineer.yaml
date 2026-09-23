@@ -1,0 +1,58 @@
+company:
+  name: Sleek
+  stage: Series B
+  focus: |-
+    Back-office automation and accounting services for micro
+    SMEs
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and deploys LLM-based systems, AI agents,
+      and agentic workflows into production, directly shaping
+      model behaviour through prompting, agent/tool-calling
+      design, and evaluation. This is squarely ai-first.
+  responsibilities:
+  - Deliver end-to-end AI automations from discovery and specification through coding,
+    deployment, monitoring, support and handover
+  - Build against real business systems including LLM APIs and SDKs, databases, warehouses,
+    accounting APIs, Slack and document-generation workflows
+  - Stabilise and improve existing automations to ensure reliability and maintainability
+  - Establish ROI baselines and track usage, costs and adoption of automation portfolio
+  - Design low-code/config-driven interfaces enabling non-technical teams to operate
+    workflows safely
+  - Conduct discovery with subject-matter experts and turn ambiguous requirements
+    into practical specifications
+  - Communicate technical concepts to non-technical colleagues and senior leadership
+    across business functions
+  use_cases:
+  - Automating accounting, bookkeeping and corporate secretarial processes for SMEs
+  - Document-generation and document-processing workflows
+  - Cross-team business automations for sales, marketing, HR and finance
+  - Slack and business-system integrations for operational workflows
+  - Scheduled data-driven automation jobs across accounting APIs and data warehouses
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, Claude Code, Cursor,
+      Codex, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [BigQuery]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11251060'
+  location: IND
+  locations:
+  - IND
+  - PHL
+  remote: true
+  extracted_at: '2026-09-23T11:32:44.949443'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

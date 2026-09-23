@@ -1,0 +1,58 @@
+company:
+  name: Hitachi Solutions America
+  stage: null
+  focus: IT consulting and systems integration services
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts with schema-constrained output,
+      builds RAG pipelines, develops MCP servers, and defines eval
+      harnesses scoring model output fidelity — clearly shaping
+      LLM behavior and output quality. It is an individual
+      contributor with leadership duties, not management.
+  responsibilities:
+  - Own end-to-end architecture of the AI-assisted migration platform including agent/skill/harness
+    design and Azure cloud architecture
+  - Drive AI/ML strategy including build-vs-buy, model selection, fine-tuning vs prompting
+    trade-offs, and evaluation metrics
+  - Develop AI/LLM components including prompt engineering with schema-constrained
+    output and LLM API integration
+  - Build RAG or classification pipelines mapping legacy workflow actions to modern
+    equivalents
+  - Integrate solutions via REST APIs, webhooks, Azure AD authentication flows, and
+    MCP server endpoints
+  - Build and maintain the parsing/conversion engine that reads Nintex workflow definitions
+    and generates Power Automate flows
+  - Own quality through automated workflow validation tests and eval harnesses scoring
+    model output fidelity
+  - Lead and mentor a 3-8 person AI/automation engineering team and manage stakeholder
+    delivery
+  use_cases:
+  - AI-assisted migration of legacy Nintex workflows to Power Automate
+  - Mapping legacy workflow actions to modern equivalents via RAG or classification
+  - Automated conversion of XML/JSON workflow definitions into equivalent flow logic
+  - Fidelity scoring and gap analysis of LLM-generated migration output
+  - Schema-constrained code/workflow generation bounded by AI-in-the-loop harness
+  skills:
+    genai: [Prompt Engineering, Structured Outputs, Anthropic API, OpenAI API, Azure
+        OpenAI, RAG, MCP, Claude Code, GitHub Copilot, LLM Evaluation, Fine-Tuning]
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: []
+    data: []
+    cloud: [Azure, Azure Functions, IAM]
+    ops: []
+    languages: [Node.js, TypeScript, Python]
+    domains: []
+    other: [Azure CLI, XML Parsing, JSON Parsing, AST, Rule Engines, Regex, Test Automation,
+      Power Automate, Nintex, SharePoint]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11046217'
+  location: Chennai, IND
+  extracted_at: '2026-09-23T11:15:57.020991'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: T. Rowe Price
+  stage: null
+  focus: Global asset management and investment solutions
+position:
+  title: Senior AI Software Engineer — T. Rowe Price Lab (NY or MD)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic workflows, tool calling, retrieval
+      systems, prompt/context engineering, structured outputs, and
+      evals for LLM-based AI agents — directly shaping model
+      behavior, making it ai-first.
+  responsibilities:
+  - Own end-to-end design and delivery of production-grade AI agents and intelligent
+    systems
+  - Design agentic workflows with orchestration, tool integration, retrieval, structured
+    outputs, and human-in-the-loop patterns
+  - Establish evaluation and testing approaches for non-deterministic AI systems,
+    including quality metrics and production monitoring
+  - Lead technical workstreams from rapid experimentation through production adoption
+  - Make engineering trade-offs across models, prompts, context, tools, latency, cost,
+    and reliability
+  - Partner with product owners and business stakeholders to translate needs into
+    scalable AI solutions
+  - Mentor engineers and lead code and design reviews
+  - Support the Build-Operate-Transfer model for long-term ownership by business-aligned
+    teams
+  use_cases:
+  - AI agents solving complex asset management business problems
+  - Intelligent workflows with retrieval and tool use for investment domain
+  - Incubation of new AI products for firm-wide adoption
+  - AI solutions transferred to business-aligned technology teams for scale
+  skills:
+    genai: [LLMs, Agentic Workflows, Function Calling, RAG, Prompt Engineering, Context
+        Engineering, Structured Outputs, LLM Evaluation, Guardrails, AI Agents]
+    ml: []
+    web: [Microservices, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability, Monitoring, Docker, Continuous Delivery]
+    languages: [Python, Java, JavaScript, TypeScript]
+    domains: []
+    other: [Code Review, Automated Testing, Cloud-Native Architectures]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11167219'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Baltimore, USA
+  extracted_at: '2026-09-23T11:22:39.790222'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

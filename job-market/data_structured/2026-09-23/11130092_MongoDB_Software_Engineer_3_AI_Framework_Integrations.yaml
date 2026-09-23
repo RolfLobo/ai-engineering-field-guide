@@ -1,0 +1,58 @@
+company:
+  name: MongoDB
+  stage: null
+  focus: Database platform and cloud data services
+position:
+  title: Software Engineer 3, AI Framework Integrations
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds integrations connecting MongoDB to third-
+      party AI frameworks (LangChain, LlamaIndex, n8n). The
+      engineer ships connectors and maintains them, but does not
+      themselves shape model behaviour through prompts, retrieval
+      design, or agent flows — they consume frameworks others
+      designed. The deliverable is data-platform connectivity, not
+      model output quality.
+  responsibilities:
+  - Build, test, and ship MongoDB integrations across AI framework ecosystems including
+    LangChain, LangGraph, LlamaIndex, n8n, and Mastra
+  - Own well-scoped projects end to end from design through release on weekly-to-quarterly
+    timelines
+  - Contribute high-quality code upstream to third-party repositories through external
+    maintainer review cycles
+  - 'Maintain team engineering practices: CI/CD, automated testing across framework
+    and server versions, version compatibility checks, and release steps'
+  - 'Keep integrations healthy: monitor upstream breaking changes, handle upgrades,
+    triage issues, and follow through after release'
+  - Coordinate with adjacent teams (e.g. DBX) when integrations need driver, platform,
+    or product capability
+  - Collaborate with product management and design to understand user needs for integrations
+  - Write documentation, give code reviews, and develop expertise in Python and TypeScript
+    AI builder ecosystems
+  use_cases:
+  - MongoDB integrations with AI frameworks like LangChain, LangGraph, LlamaIndex,
+    n8n, and Mastra
+  - Developer tooling for AI builder workflows using MongoDB as the data layer
+  - Vector search and embedding pipelines on MongoDB
+  - Agentic AI application integrations including MCP servers and plugins
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, Agentic Workflows, RAG, Embeddings,
+      MCP, AI Agents]
+    ml: []
+    web: [n8n]
+    databases: [Vector Search, MongoDB]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Docker, Kubernetes]
+    languages: [Python, TypeScript, Java, Go, C#, Rust]
+    domains: []
+    other: [Jira, Open Source, Mastra]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11130092'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:20:06.200038'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

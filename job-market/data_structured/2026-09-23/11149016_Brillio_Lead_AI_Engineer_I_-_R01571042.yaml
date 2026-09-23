@@ -1,0 +1,51 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and engineering services
+position:
+  title: Lead AI Engineer I  - R01571042
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI applications with multi-agent
+      systems, agent orchestration tools, prompt engineering, and
+      RAG — directly shaping LLM/agent behavior. No model training
+      is involved, so it is ai-first rather than ml-first.
+  responsibilities:
+  - Design and develop end-to-end full-stack applications covering frontend, backend,
+    and APIs
+  - Build and deploy agentic AI applications using multi-agent systems and autonomous
+    workflows
+  - Implement scalable backend systems with microservices and event-driven architectures
+  - Develop cloud-native solutions on Azure, AWS, and GCP
+  - Integrate LLM-based frameworks and agent orchestration tools for intelligent workflows
+  - Enforce best practices in code quality, testing, observability, security, and
+    scalability
+  - Collaborate with cross-functional teams and contribute to design reviews and architectural
+    decisions for AI-driven systems
+  use_cases:
+  - Autonomous multi-agent AI workflows
+  - LLM-driven intelligent business applications
+  - Full-stack applications enhanced with agentic AI capabilities
+  - Scalable cloud-native intelligent solutions
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, Agentic Workflows, LangChain, LlamaIndex,
+      Semantic Kernel, AutoGen, CrewAI, Prompt Engineering, RAG, LLMs]
+    ml: [Federated Learning, TensorFlow]
+    web: [React, Angular, Vue, Node.js, Spring Boot, FastAPI, Django, REST APIs, Microservices,
+      Event-Driven Architecture]
+    databases: [FAISS, Pinecone]
+    data: [Kafka, Pub/Sub, Databricks ML, Domino Data Lab]
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Observability]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11149016'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:22:21.993224'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

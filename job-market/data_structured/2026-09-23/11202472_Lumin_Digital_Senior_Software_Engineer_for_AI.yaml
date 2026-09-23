@@ -1,0 +1,50 @@
+company:
+  name: Lumin Digital
+  stage: null
+  focus: Cloud-native digital banking platform for credit unions
+position:
+  title: Senior Software Engineer for AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role integrates LLMs into production with prompt
+      engineering, output validation, safety guardrails, and
+      evaluation of AI outputs — direct shaping of LLM behaviour.
+      Hence ai-first.
+  responsibilities:
+  - Design and build AI-powered features across the digital banking platform
+  - Integrate LLMs and AI APIs into production systems with prompt engineering, output
+    validation, and safety guardrails
+  - Evaluate AI outputs for accuracy, reliability, and regulatory compliance
+  - Collaborate cross-functionally with product, design, QE, and engineering to deliver
+    end-to-end AI features
+  - Champion security and compliance in AI feature development
+  - Contribute to internal AI knowledge base and best practices
+  - Evaluate and recommend new AI tools and frameworks
+  - Participate in code reviews for AI-related work
+  use_cases:
+  - Natural language interfaces for digital banking
+  - Intelligent assistants for credit union and bank members
+  - Automated workflows in a fintech platform
+  - AI-powered developer tooling
+  skills:
+    genai: [LLMs, Anthropic API, OpenAI API, Prompt Engineering, Function Calling,
+      Guardrails]
+    ml: [Machine Learning]
+    web: [REST APIs, Microservices]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [TypeScript, Node.js]
+    domains: []
+    other: [SOC 2]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11202472'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:26:51.898251'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

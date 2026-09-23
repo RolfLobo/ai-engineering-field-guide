@@ -1,0 +1,56 @@
+company:
+  name: QAD
+  stage: null
+  focus: |-
+    Cloud-based enterprise software for manufacturing and supply
+    chain
+position:
+  title: Principal AI Go-to-Market Operations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds proprietary LLM-based tools, develops
+      agentic workflows, builds prompt libraries, and orchestrates
+      AI agents for GTM operations. These directly shape model
+      behavior and output, with clear LLM/agent components.
+  responsibilities:
+  - Design, code, and deploy custom AI integrations connecting CRM, sales engagement,
+    and tech stack components
+  - Build internal LLM-based tools for account/contact enrichment and outbound messaging
+    automation
+  - Develop agentic workflows to automate administrative tasks like CRM data upkeep,
+    meeting summaries, and scheduling
+  - Audit the GTM tech stack with RevOps and Marketing Ops to replace redundant vendors
+    with AI
+  - Implement predictive modeling for high-intent pipeline identification and Next
+    Best Action recommendations
+  - Build AI-driven retention loops and automated renewal triggers with Customer Success
+  - Train GTM teams on prompting and using deployed AI tools
+  use_cases:
+  - Account and contact enrichment automation
+  - Outbound messaging for early/mid-funnel prospects
+  - Automated CRM data maintenance, meeting summaries, and follow-up scheduling
+  - Predictive pipeline identification and Next Best Action sales recommendations
+  - AI-driven customer retention and renewal triggers
+  - AI-driven content distribution and performance marketing to lower CAC
+  - Revenue forecasting from a single source of truth
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [APIs]
+    ml: [Predictive Modeling, Machine Learning]
+    ops: []
+    other: [Salesforce, Clay, Outreach, Gong, Chorus]
+    cloud: []
+    languages: [Python, JavaScript, HTML]
+    genai: [LLMs, AI Agents, Agentic Workflows, Prompt Engineering, Anthropic API]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11130115'
+  location: Pune, IND
+  remote: true
+  extracted_at: '2026-09-23T11:20:37.276098'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

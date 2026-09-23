@@ -1,0 +1,193 @@
+job_id: 11041243
+title: GenAI / AI-ML Engineer
+company: CloudThat
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 375 Employees
+description: |
+  Role summary
+
+  We are seeking an experienced GenAI / AI-ML Engineer to
+  design, build, deploy and operate production-grade AI/ML and
+  Generative AI solutions on AWS. The role requires strong
+  Python engineering, solid understanding of conventional
+  machine-learning algorithms, practical experience with LLMs,
+  RAG and agentic AI, and strong hands-on expertise with AWS
+  AI/ML and Generative AI services.
+
+  The engineer will be responsible for taking AI solutions
+  from problem definition and solution design through
+  development, evaluation, production deployment and
+  optimization. The candidate should be capable of making
+  architecture and technology decisions based on scalability,
+  latency, reliability, security, model quality and cost.
+
+  The role also requires a strong understanding of LLM token
+  consumption, model pricing and AWS service/infrastructure
+  costing, with the ability to design solutions that balance
+  business requirements, technical performance and operational
+  cost.
+
+  Key responsibilities
+
+  • Translate business problems into measurable AI/ML and
+  Generative AI objectives, solution approaches and evaluation
+  criteria.
+
+  • Design and implement production-grade LLM, RAG,
+  conversational AI and agentic AI solutions on AWS.
+
+  • Build RAG pipelines including document ingestion,
+  chunking, embeddings, metadata filtering, vector retrieval,
+  reranking and generation.
+
+  • Design and implement Amazon Bedrock Agents and Bedrock
+  AgentCore-based agentic solutions, including tool use,
+  memory/state, runtime execution and orchestration as
+  applicable.
+
+  • Work with Amazon Bedrock foundation models and evaluate
+  models based on quality, latency, token consumption and
+  cost.
+
+  • Build integrations between LLMs/agents and enterprise
+  APIs, databases, applications, tools and knowledge sources.
+
+  • Develop and evaluate supervised, unsupervised and deep-
+  learning models based on business requirements.
+
+  • Apply appropriate machine-learning algorithms for
+  classification, regression, clustering, anomaly detection
+  and other relevant use cases.
+
+  • Perform data preprocessing, feature engineering, model
+  training, validation, hyperparameter tuning and error
+  analysis.
+
+  • Use Amazon SageMaker for appropriate ML development,
+  training, experimentation, deployment and model lifecycle
+  requirements.
+
+  • Establish evaluation mechanisms for LLM response quality,
+  retrieval quality, groundedness, hallucination, latency and
+  cost.
+
+  • Analyze and optimize LLM input/output token consumption,
+  context size and model selection to control GenAI costs.
+
+  • Estimate and optimize AWS infrastructure and service costs
+  across model inference, compute, storage, APIs, vector
+  search and other components.
+
+  • Design end-to-end AWS architectures using appropriate
+  managed AI/ML, compute, data, integration and security
+  services.
+
+  • Implement security, access control, logging, monitoring,
+  observability and operational controls for production AI
+  systems.
+
+  • Deploy and operate AI/ML solutions on AWS and troubleshoot
+  latency, scalability, reliability, model quality,
+  infrastructure and cost issues.
+
+  • Monitor deployed ML models for performance, drift,
+  reliability and business-aligned metrics.
+
+  • Collaborate with data engineers, software engineers,
+  architects and product teams to build reliable production
+  solutions.
+
+  • Produce reusable components, technical documentation,
+  architecture decisions and implementation guidance for
+  delivery teams.
+
+  Required qualifications and experience
+
+  • 5+ years of relevant experience in AI/ML engineering,
+  machine learning, Generative AI, applied data science or
+  software engineering.
+
+  • Strong hands-on Python development experience with good
+  understanding of object-oriented design, API integration,
+  debugging and production engineering.
+
+  • Demonstrable experience taking AI/ML or GenAI solutions
+  from POC/experimentation through production deployment.
+
+  • Mandatory hands-on AWS experience implementing and
+  deploying AI/ML or GenAI solutions.
+
+  • Strong hands-on experience with Amazon Bedrock and
+  foundation models.
+
+  • Hands-on experience with Amazon Bedrock AgentCore and/or
+  Bedrock Agents for agentic AI solutions.
+
+  • Hands-on experience with Amazon SageMaker for ML model
+  development, training, deployment or lifecycle management.
+
+  • Experience with AWS services supporting GenAI
+  architectures, including Amazon S3, Amazon OpenSearch
+  Service/Serverless, AWS Lambda, API Gateway, Step Functions,
+  CloudWatch, IAM, KMS and Secrets Manager.
+
+  • Strong understanding of LLMs, embeddings, vector search,
+  prompt/context engineering and RAG.
+
+  • Working experience with agentic AI, tool/function calling,
+  agent orchestration and state management.
+
+  • Strong understanding of conventional machine-learning
+  algorithms, model evaluation and statistical reasoning.
+
+  • Ability to select appropriate algorithms, models and AWS
+  services based on the business problem.
+
+  • Strong understanding of trade-offs between model quality,
+  accuracy, latency, scalability, reliability and cost.
+
+  • Understanding of LLM token economics, including
+  input/output tokens, context consumption and model pricing.
+
+  • Ability to understand and estimate AWS
+  service/infrastructure costs for an AI/ML solution.
+
+  • Ability to translate business requirements into secure,
+  scalable, maintainable and cost-effective AWS AI/ML
+  architectures.
+
+  Mandatory Skills
+
+  - Python, Pandas, NumPy, Scikit-learn
+  - Conventional ML – Classification, Regression, Clustering,
+    Anomaly Detection
+  - Feature Engineering, Model Training & Evaluation
+  - Cross-validation, Hyperparameter Tuning, Error Analysis
+  - AWS – Bedrock, SageMaker, Knowledge Bases,
+    OpenSearch/OpenSearch Serverless
+  - RAG, Embeddings, Vector Retrieval
+  - Agentic Workflows, Tool/Function Calling, State Management
+  - LLM Evaluation, Groundedness, Hallucination Mitigation
+  - LLM Token Consumption & Cost Estimation
+  - AWS Service/Infrastructure Cost Estimation & Optimization
+
+  Good-to-Have Skills
+
+  - Docker, CI/CD, Kubernetes/EKS
+  - MLflow / SageMaker MLflow
+  - PyTorch/TensorFlow
+  - Advanced MLOps & Model Monitoring
+  - Fine-tuning, PEFT, LoRA, QLoRA
+  - Advanced NLP, Computer Vision, Forecasting
+  - Bedrock Agents / AgentCore
+  - Multimodal GenAI
+  - Voice AI / Conversational AI
+  - GraphRAG / Knowledge Graphs
+  - Bedrock Guardrails / Evaluation
+  - MCP / A2A & Agent Interoperability
+  - Advanced LLM Observability & Evaluation
+  - Advanced Multi-Agent Architectures
+posted_date: 2026-09-07
+url: "https://builtin.com/job/genai-ai-ml-engineer/11041243"
+source: Built In

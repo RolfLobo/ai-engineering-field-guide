@@ -1,0 +1,52 @@
+company:
+  name: Mercor
+  stage: Series C
+  focus: |-
+    AI data platform connecting human experts to frontier model
+    training
+position:
+  title: Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds data pipelines, synthetic data generation,
+      benchmarks, and evaluation frameworks for LLM post-training,
+      and prototypes with researchers to measure model performance
+      - this shapes model output quality and evaluations for LLM
+      targets, making it ai-first. It is customer-facing with
+      frontier AI labs, but that does not change the
+      classification.
+  responsibilities:
+  - Partner with frontier AI labs to understand data, post-training, and evaluation
+    needs
+  - Build and operate scalable data pipelines for post-training workflows and model
+    evaluations
+  - Design scalable systems for synthetic data generation and data quality
+  - Work directly with customers to gather requirements and develop technical solutions
+  - Prototype new data types, benchmarks, and evaluation frameworks
+  - Improve model-adjacent infrastructure and take projects from experiment to production
+  - Lead technical discussions with customers
+  use_cases:
+  - Data pipelines for LLM post-training
+  - Model evaluation benchmarks and frameworks
+  - Synthetic data generation and data quality systems
+  - Translating frontier AI lab requirements into production data infrastructure
+  skills:
+    genai: [LLMs]
+    ml: [Model Training, Model Evaluation, Statistical Analysis, Synthetic Data]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Model Deployment]
+    languages: [Python, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11029543'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:13:48.131359'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

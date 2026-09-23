@@ -1,0 +1,50 @@
+company:
+  name: BNY
+  stage: null
+  focus: Global financial services and securities custody bank
+position:
+  title: Director, AI / Machine Learning Software Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The description says the person leads ML initiatives and
+      builds AI-enabled solutions, but never specifies whether
+      they shape LLM behavior (prompts, RAG, agents) or train
+      classical ML models, nor do they merely consume an AI API.
+      The responsibilities are too vague to apply the shaping test
+      confidently.
+  responsibilities:
+  - Lead complex machine learning initiatives with direct strategic impact
+  - Build AI-enabled solutions from concept to production use
+  - Connect data, models, and systems across the broader technology ecosystem
+  - Improve quality, usability, and reliability of AI outcomes for users
+  - Create reusable components, skills, and patterns that accelerate future delivery
+  - Provide organizational leadership and develop strategic proposals
+  - Build partnerships with internal and external stakeholders
+  - Conduct studies and analysis to support informed strategic decisions
+  use_cases:
+  - AI-enabled solution delivery across an enterprise ecosystem
+  - Connectivity across platforms, datasets, and AI capabilities
+  - Integrated AI outcomes in financial services
+  skills:
+    genai: []
+    ml: []
+    web: [Angular]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11038936'
+  location: London, GBR
+  locations:
+  - London, GBR
+  - Manchester, GBR
+  extracted_at: '2026-09-23T11:14:30.331673'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

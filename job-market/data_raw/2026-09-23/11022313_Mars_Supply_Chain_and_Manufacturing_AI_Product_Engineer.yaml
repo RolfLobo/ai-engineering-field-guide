@@ -1,0 +1,146 @@
+job_id: 11022313
+title: Supply Chain and Manufacturing AI Product Engineer
+company: Mars
+location: CAN
+locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - GBR
+  - Mars, USA
+  - Singapore, SGP
+remote: true
+work_type: FULL_TIME
+company_size: 41,866 Employees
+description: |
+  Job Description:
+
+  We are seeking an energetic and technically sharp Junior
+  Forward Deployed AI Engineer to support the rapid
+  prototyping, discovery, and proof-of-concept (PoC) delivery
+  of AI-powered solutions across our global Supply Chain and
+  Manufacturing functions.
+
+  This is a dynamic, fast-paced role where you will work
+  alongside senior engineers to bridge the gap between AI
+  development and real-world shop floor operations. You will
+  spend time embedding directly with frontline teams—visiting
+  manufacturing sites and warehouses—to understand their day-
+  to-day challenges, and then turn those insights into
+  working, AI-enabled software prototypes.
+
+  The ideal candidate is a proactive builder who is
+  comfortable working with Python, eager to learn cutting-edge
+  GenAI frameworks, and excited about collaborating directly
+  with operational business teams.
+
+  Key Responsibilities
+
+  Frontline Engagement & Discovery
+
+  - Frontline Shadowing: Participate in site visits and shadow
+    frontline teams (Logistics, Manufacturing, Procurement) to
+    understand operational bottlenecks first-hand.
+  - Requirements Translation: Support senior engineers in
+    translating user feedback and "messy" real-world problems
+    into structured user stories, functional specs, and
+    process flows.
+  - Active Scrum Participant: Maintain and update the team's
+    agile backlog, actively participate in daily standups, and
+    assist in coordinating sprint planning.
+
+  Rapid AI Prototyping & Development
+
+  - Hands-on Coding: Write clean, documented, and functional
+    Python code to build, refine, and test AI-enabled
+    prototypes.
+  - Support RAG & Agentic Systems: Work under the guidance of
+    senior engineers to construct and tune Retrieval-Augmented
+    Generation (RAG) pipelines, semantic search indices, and
+    multi-agent system workflows.
+  - Iterate & Refine: Actively modify prototypes based on
+    immediate feedback from factory floor workers and
+    warehouse operators.
+  - Adopt Best Practices: Learn and apply enterprise software
+    development standards to ensure prototype code is
+    structured for eventual production handoff.
+
+  Systems Integration & Data Engineering
+
+  - API Configuration: Assist in building and configuring APIs
+    to connect AI applications to shop floor platforms (e.g.,
+    Poka, Weaver) and document repositories.
+  - Data Wrangling: Clean, structure, and prepare unstructured
+    documents, telemetry feeds, and SQL database exports for
+    ingestion into AI systems.
+
+  Typical Use Cases
+
+  - Standard Operating Procedure (SOP) Assistants designed to
+    help operators look up technical guidelines hands-free.
+  - Manufacturing Knowledge Assistants that index equipment
+    manuals to speed up machine maintenance.
+  - Procurement Intelligence Tools that extract and summarize
+    key terms from supplier contracts.
+  - Workflow Automation Tools to help administrative logistics
+    teams auto-generate shift handover reports.
+
+  Career Growth:
+
+  This role will be an excellent fit for someone who:
+
+  - Enjoys solving varied, real-world problems.
+  - Likes interacting with customers and understanding business
+    needs.
+  - Wants to work on cutting-edge AI applications rather than
+    purely research.
+  - Thrives in fast-paced environments where you own projects
+    from design to deployment.
+
+  Required Qualifications
+
+  - Education: Bachelor’s degree in Computer Science, Data
+    Science, Software Engineering, or a related technical
+    discipline.
+  - Experience: 1–3 years of professional experience in software
+    engineering, data engineering, or digital technology
+    delivery.
+  - Coding Foundation: Robust baseline experience writing Python
+    (Pandas, NumPy, requests) and a strong understanding of
+    software engineering fundamentals (OOP, REST APIs).
+  - AI Familiarity: Hands-on experience (which can include
+    academic projects, bootcamps, or personal portfolios)
+    using LLM APIs (OpenAI, Gemini) and basic RAG
+    architectures.
+  - Data Skills: Proficient with SQL and comfortable querying
+    relational databases.
+  - Soft Skills & Mobility: Excellent communication skills with
+    the confidence to converse with factory operators. Highly
+    curious, eager to learn, and willing to travel
+    occasionally to manufacturing facilities.
+
+  Preferred Qualifications
+
+  - Basic experience with AI frameworks such as LangChain,
+    LlamaIndex, or LangGraph.
+  - Familiarity with cloud platforms (e.g., Google Cloud
+    Platform/Vertex AI, Microsoft Azure).
+  - Familiarity with version control (Git/GitHub) and
+    containerization (Docker).
+  - Academic background or brief exposure to Supply Chain,
+    Manufacturing, or Logistics environments.
+
+  Success Measures
+
+  - Technical Growth: Rapid ramp-up on advanced enterprise AI
+    architectures and frameworks (e.g., LangGraph, Vertex AI).
+  - Prototype Delivery Velocity: Successfully completing
+    assigned development tasks within the sprint cycle.
+  - User-Centric Execution: Translating frontline operator
+    feedback into functional code modifications.
+
+  #TBdigital
+posted_date: 2026-09-04
+url: "https://builtin.com/job/supply-chain-and-manufacturing-ai-product-engineer/11022313"
+source: Built In

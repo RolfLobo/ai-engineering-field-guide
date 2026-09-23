@@ -1,0 +1,59 @@
+company:
+  name: Everpure
+  stage: null
+  focus: Enterprise data storage and AI data platform
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role advises on and prototypes end-to-end AI deployments
+      — model selection, fine-tuning strategies, inference
+      optimization, and evaluation/alignment frameworks — directly
+      shaping how LLM-based systems behave for customers,
+      analogous to a Forward Deployed Engineer. LLMs and agentic
+      systems are explicitly named, making it ai-first.
+  responsibilities:
+  - Lead technical discovery and advisory engagements with enterprise customers to
+    identify high-value AI use cases
+  - 'Advise on end-to-end AI deployment: model selection, fine-tuning strategies,
+    inference optimization, data pipeline design, and evaluation/alignment/safety
+    frameworks'
+  - Develop proof-of-value prototypes that translate technical performance into business
+    outcomes
+  - Create AI enablement content for field teams, partners, and customers including
+    workshops and vertical-specific frameworks
+  - Present at industry conferences, publish technical content and peer-reviewed research,
+    and represent the company with strategic partners (NVIDIA, AMD, cloud providers)
+  - Work cross-functionally across Solutions, Marketing, Alliances, Engineering, Enablement,
+    and Sales to align go-to-market initiatives
+  - Operate autonomously in ambiguous environments, scoping and driving high-impact
+    initiatives
+  use_cases:
+  - Enterprise AI use case discovery across industry verticals
+  - Model selection, training and fine-tuning advisory optimized for the company's
+    data platform
+  - Inference optimization and production AI deployment
+  - AI evaluation, alignment, and safety frameworks
+  - Proof-of-value prototypes demonstrating business outcomes from AI systems
+  skills:
+    genai: [LLMs, AI Agents, LLM Evaluation]
+    ml: [PyTorch, XGBoost, Distributed Training, Inference Optimization, Fine-Tuning,
+      Machine Learning, Deep Learning]
+    web: []
+    databases: [Snowflake]
+    data: [Ray, Spark, Kafka]
+    cloud: []
+    ops: [Kubernetes, vLLM]
+    languages: []
+    domains: []
+    other: [GPU Clusters, Salesforce]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11209060'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:26:51.153728'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

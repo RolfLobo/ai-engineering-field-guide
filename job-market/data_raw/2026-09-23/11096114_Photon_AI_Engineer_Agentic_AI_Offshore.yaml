@@ -1,0 +1,81 @@
+job_id: 11096114
+title: "AI Engineer – Agentic AI | Offshore"
+company: Photon
+location: IND
+locations:
+  - IND
+  - Chennai, IND
+remote: true
+work_type: FULL_TIME
+company_size: 5,017 Employees
+description: |
+  - Responsibilities
+  - Design and develop AI agents, super-agent/sub-agent
+    architectures, and agentic workflows using Python,
+    LangChain, and LangGraph.
+  - Build production-ready AI solutions using Amazon Bedrock.
+  - Design and implement super-agent and sub-agent patterns for
+    complex, multi-step business workflows.
+  - Develop agents capable of tool calling, API invocation,
+    information retrieval, and multi-step task execution.
+  - Design prompts, tool definitions, structured outputs, agent
+    state, and workflow orchestration.
+  - Integrate AI agents with REST APIs, databases, enterprise
+    applications, and external services.
+  - Build RAG-based solutions using embeddings, vector
+    databases/search, and enterprise knowledge sources.
+  - Implement reliability mechanisms including error handling,
+    retries, validation, fallback strategies, and guardrails.
+  - Test, evaluate, and improve agent responses for accuracy,
+    reliability, and consistency.
+  - Develop clean, scalable, and maintainable Python services
+    and APIs.
+  - Work with senior engineers and architects to integrate and
+    deploy AI solutions into AWS cloud environments.
+  - Required Skills
+  - Approximately 5 years of software development experience.
+  - Strong Python programming skills.
+  - Hands-on experience building Generative AI / LLM
+    applications.
+  - Practical experience building and implementing AI agents or
+    agentic workflows.
+  - Mandatory hands-on experience with Amazon Bedrock.
+  - Strong understanding of super-agent and sub-agent concepts,
+    architectures, and orchestration.
+  - Experience with LangChain and/or LangGraph.
+  - Experience integrating LLMs through APIs.
+  - Hands-on experience with RAG, embeddings, vector databases,
+    and vector search.
+  - Strong understanding of:
+    - Prompt engineering
+    - Function/tool calling
+    - Structured LLM outputs
+    - Agent state and workflow orchestration
+    - Super-agent/sub-agent patterns
+    - RAG fundamentals
+    - Embeddings and vector search
+    - LLM response validation and error handling
+  - Experience building and consuming REST APIs.
+  - Strong understanding of software engineering fundamentals,
+    Git, testing, debugging, and code quality.
+  - Preferred Skills
+  - Experience with Amazon Bedrock AgentCore.
+  - Experience with AWS services such as:
+    - AWS Lambda
+    - Amazon S3
+    - API Gateway
+    - DynamoDB
+    - IAM
+    - CloudWatch
+  - Experience deploying AI applications using Docker and AWS
+    cloud services.
+  - Exposure to MCP (Model Context Protocol) or similar AI tool-
+    integration protocols.
+  - Experience with LLM evaluation, observability, tracing, or
+    agent performance monitoring.
+industries:
+  - Agency
+  - Information Technology
+posted_date: 2026-09-10
+url: "https://builtin.com/job/ai-engineer-agentic-ai-offshore/11096114"
+source: Built In

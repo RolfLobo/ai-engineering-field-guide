@@ -1,0 +1,49 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking and financial services technology
+position:
+  title: Senior Gen AI Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimizes RAG systems and builds
+      features on GenAI APIs, directly shaping LLM behavior
+      through retrieval design. LLM involvement makes it ai-first.
+  responsibilities:
+  - Manage Applications Development teams, including hiring, performance evaluations,
+    and resource allocation
+  - Provide technical oversight and review proposed technical solutions across systems
+  - Design, develop, and maintain scalable Python code for Generative AI applications
+  - Integrate GenAI APIs such as OpenAI and Gemini to build features
+  - Implement and optimize RAG systems for contextually relevant AI responses
+  - Develop backend services with Python frameworks like FastAPI, Flask, or Django
+  - Write unit and integration tests, participate in code reviews, and optimize performance
+    and security
+  - Contribute to compliance, risk management, and adherence to firm policies
+  use_cases:
+  - AI-powered features and products built on GenAI APIs
+  - RAG systems providing contextually relevant responses
+  - Scalable backend services supporting GenAI applications
+  skills:
+    genai: [Generative AI, OpenAI API, Gemini, RAG]
+    ml: []
+    web: [FastAPI, Flask, Django]
+    databases: [NoSQL]
+    data: []
+    cloud: [ECS]
+    ops: [Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11208503'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Chennai, IND
+  extracted_at: '2026-09-23T11:27:24.071408'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Shuru
+  stage: null
+  focus: |-
+    AI, product and technology engineering services for startups
+    and enterprises
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI agents, agentic workflows, RAG, prompt
+      engineering, and function calling — directly shaping LLM
+      behavior. Step 1 yes, LLM-focused, so ai-first.
+  responsibilities:
+  - Build AI agents with reasoning, tool usage, knowledge retrieval, and multi-step
+    task execution
+  - Design and ship production-grade AI workflows and automations around real business
+    problems
+  - Develop backend services, APIs, and integrations connecting AI systems to databases
+    and third-party platforms
+  - Build knowledge-driven and memory-based AI experiences
+  - Build AI-powered automations for domain-heavy workflows such as legal operations
+  - Ensure reliability through evaluation, monitoring, error handling, and observability
+  - Collaborate with product, engineering, and business stakeholders to translate
+    ambiguous requirements into solutions
+  use_cases:
+  - AI agents for reasoning, tool usage, and multi-step task execution
+  - Knowledge retrieval and memory-based AI experiences
+  - Business process automation including legal operations
+  - AI-powered applications integrated with business systems and third-party platforms
+  skills:
+    genai: [LLMs, Prompt Engineering, Function Calling, Structured Outputs, RAG, Agentic
+        Workflows, AI Agents, LangGraph, LangChain, CrewAI, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: [Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11183844'
+  location: Mumbai, IND
+  extracted_at: '2026-09-23T11:23:58.697918'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

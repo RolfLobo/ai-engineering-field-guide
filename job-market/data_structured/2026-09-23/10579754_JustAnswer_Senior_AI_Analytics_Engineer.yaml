@@ -1,0 +1,60 @@
+company:
+  name: JustAnswer
+  stage: null
+  focus: |-
+    AI for professional services connecting customers with
+    experts
+position:
+  title: Senior AI & Analytics Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships LLM-powered analytics
+      applications, AI agents, agentic workflows, RAG, MCP, and
+      prompt engineering, directly shaping model behavior and
+      output quality. LLMs and agents are central, so it is ai-
+      first.
+  responsibilities:
+  - Build proactive analytics and AI solutions that surface actionable business insights
+    and enable smarter decision-making
+  - Design AI-powered analytics tools including conversational natural-language data
+    query interfaces
+  - Build semantic data models and reusable analytics products optimized for LLM reasoning
+  - Design, develop, and deploy LLM-powered applications, AI agents, and agentic workflows
+    using RAG and MCP
+  - Develop data pipelines, APIs, and backend services in Python and SQL for production
+    AI and analytics
+  - Evaluate, test, and optimize AI models, prompts, and solutions to improve reliability
+    and accuracy
+  - Partner with Product, Engineering, and business stakeholders to identify AI automation
+    opportunities
+  - Serve as Analytics AI SME, mentoring on AI development, prompt engineering, evaluation,
+    and Responsible AI
+  use_cases:
+  - Conversational analytics copilots for natural-language business data querying
+  - Proactive insights surfacing and decision-support for business users
+  - Enterprise data semantic modeling optimized for LLM reasoning
+  - Intelligent automation of business processes and operations
+  - AI agent-driven analytics applications for the enterprise
+  skills:
+    genai: [LangGraph, Semantic Kernel, CrewAI, AutoGen, OpenAI API, RAG, MCP, Prompt
+        Engineering, LLMs, AI Agents, Agentic Workflows, Function Calling, AI Evaluation,
+      Semantic Search, Vector Databases, Responsible AI]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Databricks, Snowflake, Power BI, Vector Databases]
+    data: [Data Pipelines]
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [Semantic Data Modeling, Microsoft Fabric]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10579754'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:00:26.282908'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

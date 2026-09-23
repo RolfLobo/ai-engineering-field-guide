@@ -1,0 +1,59 @@
+company:
+  name: Itineris
+  stage: null
+  focus: Cloud software (UMAX) for water and energy utilities
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic LLM applications, owns
+      prompt and orchestration architecture, designs RAG
+      pipelines, and builds evaluation frameworks for agent output
+      quality - all directly shaping LLM behavior, so ai-first.
+  responsibilities:
+  - Design and build AI-powered applications with agentic orchestration, RAG pipelines,
+    and LLM integrations
+  - Own prompt and system prompt architecture, tool/function definitions, context
+    management, and orchestration flow design
+  - Design evaluation frameworks for agent output quality and run structured experiments
+    on prompt strategies and orchestration patterns
+  - Own Azure infrastructure and deployment pipelines for AI workloads, including
+    containerized/serverless deployments and IaC with Bicep
+  - Build and maintain CI/CD pipelines with Azure DevOps including security scanning
+    and automated testing
+  - Monitor, debug, and improve AI applications in production and drive incidents
+    to resolution
+  - Research the LLM and agentic AI landscape and evaluate relevance to UMAX's architecture
+  - Write clean, well-tested code, participate in code reviews, and document experiments
+    and design decisions
+  use_cases:
+  - Agentic capabilities for UMAX utility software via an agent harness and orchestration
+    layer
+  - AI-powered customer engagement for water and energy utilities
+  - Automating utility business processes with AI applications
+  - RAG-based retrieval over utility domain knowledge
+  - LLM agent evaluation and experimentation in production
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, LLMs, Prompt Engineering, Function
+        Calling, LangChain, Semantic Kernel, AutoGen, MCP, Copilot Studio, Claude
+        Code, GitHub Copilot, LLM Evaluation]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [Azure Storage]
+    data: [Monitoring]
+    cloud: [Azure, Azure AI Foundry, Azure Cognitive Services, AKS]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, Azure DevOps, Infrastructure as Code,
+      Observability]
+    languages: [Python, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11162835'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:23:08.890669'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

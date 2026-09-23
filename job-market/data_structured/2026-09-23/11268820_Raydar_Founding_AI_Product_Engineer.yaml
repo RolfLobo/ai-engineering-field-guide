@@ -1,0 +1,47 @@
+company:
+  name: Raydar
+  stage: null
+  focus: Industrial software company
+position:
+  title: Founding AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns platform areas like agent execution,
+      extraction pipelines, and evaluation systems, and requires
+      production AI experience with agents and retrieval — these
+      are shaping model behaviour and building LLM/agent systems,
+      making it ai-first. Customer visits make it customer-facing;
+      it is an IC product engineering role.
+  responsibilities:
+  - Own a platform area such as agent execution, extraction pipelines, integrations,
+    or evaluation systems
+  - Consolidate overlapping implementations into reusable services
+  - Partner with customer-facing engineers on requirements needing new capabilities
+  - Build production AI workflows and cloud infrastructure
+  - Visit customer facilities to understand users and improve the product
+  - Turn customer-specific solutions into a reusable platform across deployments
+  use_cases:
+  - Agent execution platform for industrial customers
+  - Document/data extraction pipelines
+  - Integrations across customer deployments
+  - Evaluation systems for AI workflows
+  skills:
+    genai: [AI Agents, RAG, LLM Evaluation, Generative AI]
+    ml: [Reinforcement Learning]
+    web: [Next.js, React]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11268820'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:34:13.555721'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

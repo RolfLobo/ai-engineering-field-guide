@@ -1,0 +1,176 @@
+job_id: 11265300
+title: GTM AI Engineer -Deal Desk
+company: Motive
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Who we are:
+
+  Motive empowers the people who run physical operations with
+  tools to make their work safer, more productive, and more
+  profitable. For the first time ever, safety, operations and
+  finance teams can manage their drivers, vehicles, equipment,
+  and fleet related spend in a single system. Combined with
+  industry leading AI, the Motive platform gives you complete
+  visibility and control, and significantly reduces manual
+  workloads by automating and simplifying tasks.
+
+  Motive serves nearly 100,000 customers – from Fortune 500
+  enterprises to small businesses – across a wide range of
+  industries, including transportation and logistics,
+  construction, energy, field service, manufacturing,
+  agriculture, food and beverage, retail, and the public
+  sector.
+
+  Visit gomotive.com to learn more.
+
+  About the Role:
+
+  As a GTM Engineer on the Deal Desk team, you’ll build and
+  own practical AI-powered workflows, automations, and agents
+  that improve how our Sales and GTM teams operate. You will
+  be an operational Builder, continually scanning Deal Desk
+  workflows for AI-solvable problems, turning team and
+  stakeholder challenges into scalable, repeatable tools.
+  You’ll partner with Deal Desk, Product, ESYS, and business
+  stakeholders to identify high-value use cases, prototype
+  solutions, launch secure production tools, and measure
+  adoption and business impact for teams ranging from SMB to
+  Strategic. You will own the full development lifecycle for
+  internal Deal Desk AI tools, from initial prototyping and
+  proof-of-concept development through production scaling,
+  beta testing with end users, ongoing maintenance, and
+  continuous improvement. The ideal candidate has practical
+  business experience on a GTM or RevOps team.
+
+  We're looking for someone with an experimentation
+  mindset—eager to prototype, learn quickly from failure, and
+  explore new ideas. You should be passionate about AI’s
+  potential to transform work and have a strong grasp of
+  concepts like context windows, token usage, compute costs,
+  chunking, and performance benchmarks. Experience with
+  scripting, SQL/SOQL, Python basics, and prompt engineering
+  using models like ChatGPT, Gemini, Claude, etc., via web and
+  API is essential. Familiarity with the evolving agentic
+  ecosystem, and the ability to explain technical topics to
+  non-technical audiences, especially in a GTM context, is
+  key.
+
+  What You'll Do:
+
+  - Operate with the default question: “How can I use AI to
+    solve this?”, consistently identifying Deal Desk
+    bottlenecks to automate in order to provide the best
+    possible experience for our stakeholders.
+  - Design robust human-in-the-loop validation, audit trails,
+    and fallback rules for Deal Desk agents to ensure complete
+    compliance with revenue recognition policies and pricing
+    approval matrices.
+  - Own the full development cycle of prototyping / developing
+    proof of concepts, scaling prototypes for production use,
+    beta testing with end users, and performing ongoing
+    maintenance for internal AI tools that support our
+    GTM/Deal Desk and Sales partners. This includes building
+    agents and workflows using Glean, Salesforce—including
+    Agentforce and ClaudeForce—and n8n; developing front-end
+    applications using Retool, Cursor, React, or similar
+    tools; integrating enterprise data and APIs securely; and
+    creating prompts and workflows for models such as Gemini,
+    ChatGPT, Claude, and Perplexity.
+  - Ensure agents and applications follow UX best practices and
+    can be easily leveraged by a less technical business
+    audience
+  - Manage a cost envelope for production use cases, testing
+    different LLM models to balance performance with token
+    consumption cost
+  - Create and maintain documentation around launched solutions
+  - Train end-users on the usage of launched tools
+
+  What We're Looking For:
+
+  - 5-7 years of hands-on Deal Desk or RevOps experience,
+    including solving business challenges with tooling,
+    building and deploying internal tools, automations, data
+    products, or AI-enabled workflows in an enterprise
+    environment. Relevant backgrounds may include AI/ML
+    engineering, Salesforce or business systems, data,
+    software development, or workflow automation.
+  - Hands-on experience with CPQ and CLM platforms
+  - Strong understanding of AI fundamentals such as context
+    windows, token consumption, compute cost, chunking, and
+    performance benchmarks
+  - Understanding of API usage, limitations, and how to leverage
+    API’s to aggregate data across multiple source platforms.
+    This includes an understanding of rate limits scalable API
+    use as it pertains to both data sources and LLM’s
+  - Understanding of scripting, SQL / SOQL, and Python
+    fundamentals
+  - Experience leveraging foundational models (Gemini, ChatGPT,
+    Perplexity, Claude, Grok and others), both through the web
+    interface and via the API
+  - Familiarity with the rapidly evolving agentic landscape,
+    including orchestration layers, MCP, Agent2Agent, and
+    Salesforce-native agent platforms such as Agentforce and
+    ClaudeForce. Experience building agents, workflows, or
+    React-based user interfaces directly within Salesforce is
+    preferred.
+
+  Pay Transparency Your compensation may be based on several
+  factors, including education, work experience, and
+  certifications. For certain roles, total compensation may
+  include restricted stock units. Motive offers benefits
+  including health, pharmacy, optical and dental care
+  benefits, paid time off, sick time off, short term and long
+  term disability coverage, life insurance as well as 401k
+  contribution (all benefits are subject to eligibility
+  requirements). Learn more about our benefits by visiting
+  Motive Perks & Benefits. The compensation range for this
+  position will depend on where you reside. For this role, the
+  compensation range is:
+
+  United States
+
+  $140,000—$160,000 USD
+
+  Creating a diverse and inclusive workplace is one of
+  Motive's core values. We are an equal opportunity employer
+  and welcome people of different backgrounds, experiences,
+  abilities and perspectives.
+
+  Please review our Candidate Privacy Notice here.
+
+  UK Candidate Privacy Notice here.
+
+  The applicant must be authorized to receive and access those
+  commodities and technologies controlled under U.S. Export
+  Administration Regulations. It is Motive's policy to require
+  that employees be authorized to receive access to Motive
+  products and technology.
+
+  Regarding US-based roles, depending on your role and primary
+  work location, Motive Technologies, Inc. (“Employer”)
+  discloses candidates may be required to execute a non-
+  compete covenant with the Employer. This requirement does
+  not apply to lawyers, interns, or employees working in CA,
+  MN, MT, ND, OK, or where otherwise prohibited by law.
+
+  Non-compete covenant terms in all other jurisdictions will
+  be subject to the applicable statutory requirements,
+  including but not limited to, procedures, industry related
+  prohibitions, or salary and compensation thresholds.
+
+  All job postings are for existing vacancies. Please note;
+  some interviews or new-hire training sessions may be held in
+  person at one of our global offices.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Hardware
+  - Information Technology
+  - Sales
+  - Software
+  - Transportation
+posted_date: 2026-09-22
+url: "https://www.builtinla.com/job/gtm-ai-engineer-deal-desk/11265300"
+source: Built In

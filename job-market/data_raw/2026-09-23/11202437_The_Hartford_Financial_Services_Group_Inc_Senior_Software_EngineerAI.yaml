@@ -1,0 +1,111 @@
+job_id: 11202437
+title: Senior Software Engineer/AI
+company: The Hartford Financial Services Group, Inc.
+location: Manikonda, IND
+work_type: FULL_TIME
+company_size: 205000 Employees
+description: |
+  IND Senior Software Engineer - GCC024
+
+  We’re determined to make a difference and are proud to be an
+  insurance company that goes well beyond coverages and
+  policies. Working here means having every opportunity to
+  achieve your goals – and to help others accomplish theirs,
+  too. Join our team as we help shape the future.
+
+  Position Summary
+
+  The AI Engineer will be responsible for designing, building,
+  and deploying Agentic AI solutions using Google ADK,
+  LangGraph/Langchain and Agent Engine on GCP. This role
+  requires deep expertise in GenAI, hands-on experience with
+  Vertex AI, and strong knowledge of GCP services such as
+  Cloud Run, ECS, and Vertex AI Search Engine. The engineer
+  will collaborate with cross-functional teams to deliver AI-
+  driven solutions that align with enterprise architecture and
+  business objectives.
+
+  Key Responsibilities
+
+  AI Solution Development and Delivery
+
+  - Design and implement Agentic AI solutions using Google ADK,
+    LangGraph/Langchain and Agent Engine.
+  - Build and deploy AI models leveraging Vertex AI capabilities
+    (e.g., Model Garden, AutoML, Generative AI APIs).
+  - Integrate AI agents with enterprise applications and
+    workflows for automation and decision-making.
+  - Develop scalable and secure AI services using Cloud Run,
+    ECS, and other GCP components.
+  - Optimize AI pipelines for performance, cost efficiency, and
+    reliability.
+  - Innovation and Strategy
+  - Drive adoption of GenAI and Agentic AI frameworks across
+    business units.
+  - Conduct proof-of-concepts (POCs) for emerging AI
+    technologies and frameworks.
+  - Collaborate with enterprise architects to ensure AI
+    solutions align with technology strategy and reference
+    architectures.
+  - Stay current with AI trends, frameworks, and best practices
+    to propose innovative solutions.
+
+  Collaboration and Enablement
+
+  - Work closely with data scientists, architects, and product
+    teams to deliver AI-driven business capabilities.
+  - Provide technical guidance and mentorship to junior
+    engineers on AI development practices.
+  - Document AI solution architectures, patterns, and reusable
+    components.
+
+  Expected Results
+
+  - Delivered production-grade Agentic AI solutions aligned with
+    enterprise strategy.
+  - Successfully integrated AI agents into business or technical
+    workflows for automation and enhanced decision-making.
+  - Improved operational efficiency and customer experience
+    through AI-driven innovation.
+  - Established reusable AI patterns and best practices for
+    enterprise adoption.
+
+  Required Skills
+
+  - Experience: 2 to 4 years in Software Engineering, with at
+    least 2+ years in GenAI and Agentic AI development.
+  - Project Delivery: Must have delivered at least one GenAI or
+    Agentic AI project end-to-end.
+  - Strong proficiency in Google ADK, LangGraph/Langchain, Agent
+    Engine, and Vertex AI.
+  - Hands-on experience with GCP services: Cloud Run, ECS,
+    Vertex AI Search Engine, IAM, and networking.
+  - Solid understanding of GenAI patterns, LLM fine-tuning, and
+    prompt engineering.
+  - Programming Skills: Python, Java, or similar languages for
+    AI development.
+  - Strong problem-solving, communication, and collaboration
+    skills.
+
+  Nice to Have Skills
+
+  - Cloud Certifications: GCP Professional Machine Learning
+    Engineer or GCP Professional Cloud Architect preferred.
+
+  What We Offer
+
+  - Opportunity to work on advanced cloud automation and AI
+    technologies.
+  - Collaborative and innovative work environment.
+  - Competitive compensation and comprehensive benefits.
+  - Continuous learning and professional development
+    opportunities.
+
+  About Us | Our Culture | What It’s Like to Work Here
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-software-engineer-ai/11202437"
+source: Built In

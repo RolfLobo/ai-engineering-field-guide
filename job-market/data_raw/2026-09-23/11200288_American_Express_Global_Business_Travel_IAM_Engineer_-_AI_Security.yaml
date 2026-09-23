@@ -1,0 +1,202 @@
+job_id: 11200288
+title: IAM Engineer - AI Security
+company: American Express Global Business Travel
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 18,000 Employees
+description: |
+  Amex GBT is a place where colleagues find inspiration in
+  travel as a force for good and – through their work – can
+  make an impact on our industry. We’re here to help our
+  colleagues achieve success and offer an inclusive and
+  collaborative culture where your voice is valued.
+
+  We need an IAM engineer who doesn't think like a traditional
+  security engineer. This role sits at the intersection of
+  IAM, AI/agentic systems, and product thinking, for someone
+  who's as comfortable designing a scalable access model for
+  AI agents as they are challenging why a control exists in
+  the first place. We need someone who can look at how AI
+  agents, copilots, and autonomous workflows are being adopted
+  across the business, understand the actual product and
+  business intent behind them, and build security and identity
+  architecture that enables adoption safely rather than just
+  implementing it.
+
+  The IAM Engineer – AI Security's primary responsibilities
+  are to implement security principles within the IAM IGA
+  (Identity Governance & Administration) platform, with a
+  specific focus on securing AI across the enterprise,
+  including AI agents, MCPs, and the non-human identities and
+  access pathways that support them, while maintaining rules
+  and controls, least-privilege safeguards, and aligning GBT
+  IAM policies to protect data and reduce risk.
+
+  What You'll Do
+
+  AI Security & Agent Guardrails
+
+  - Design, implement, and maintain identity and access
+    management solutions that secure AI usage across the
+    organization, including AI agents, MCPs, service accounts,
+    and applications, ensuring secure authentication and
+    authorization across enterprise infrastructure.
+  - Support the discovery, inventory, and governance of non-
+    human identities and machine access used by AI agents and
+    automated systems, including identifying unsanctioned or
+    "shadow" AI usage.
+  - Partner with security architecture and InfoSec teams to
+    evaluate and deploy AI-aware access controls, including
+    runtime authorization, contextual access boundaries, and
+    data loss prevention for AI-driven workflows.
+  - Support the evaluation and rollout of intent-aware
+    authorization capabilities that assess AI agent behaviour
+    against intended use before granting access to backend
+    systems and data.
+  - Contribute to the organization's transition of AI and
+    machine workloads away from static credentials toward
+    modern, credential-less authentication models (e.g.,
+    federated identity, token exchange, ephemeral
+    credentials).
+  - Implement and maintain security controls over Model Context
+    Protocol (MCP) and similar model-connectivity
+    integrations, ensuring safe data access, fail-closed
+    behaviour, and least-privilege data boundaries.
+  - Partner with InfoSec and AI Security teams on proof-of-
+    concept evaluations and vendor assessments for AI and
+    agent governance platforms.
+  - Identify and assess security risks associated with AI
+    adoption (e.g., unsanctioned AI usage, credential misuse,
+    unintended agent behaviour); implement mitigation
+    strategies and ensure compliance with industry regulations
+    and emerging AI governance frameworks.
+  - Support AI-assisted automation for IAM operations, including
+    access request triage, entitlement anomaly detection, and
+    audit evidence collection.
+  - Assist the implementation of remediation processes for AI
+    related risks and issues at stages of discovery, ownership
+    assignment, and tracking.
+  - Investigate and respond to security incidents involving AI
+    systems and the identities and access tied to them.
+
+  Core IAM & Governance
+
+  - Design, implement, and manage IGA platform solutions (e.g.,
+    Saviynt) to ensure effective access controls, identity
+    lifecycle management, and compliance; handle user
+    provisioning, de-provisioning, and account modifications.
+  - Configure and deploy IGA modules and connectors for various
+    applications, platforms, and systems.
+  - Execute access certification and review campaigns; perform
+    entitlement clean-up and configure segregation-of-duties
+    (SOD) rules.
+  - Establish monitoring mechanisms for IAM activities and
+    generate regular reports for audit and compliance
+    purposes.
+  - Work closely with customers and internal stakeholders to
+    understand business requirements and translate them into
+    IAM and AI security solutions.
+  - Collaborate with other IAM team members, contributing to
+    system support and knowledge sharing.
+  - Execute reports and capture data for metrics; assist with
+    tracking and producing IAM and AI governance KPIs.
+
+  What We're Looking For
+
+  - Minimum 5 years of professional, hands-on experience in IAM,
+    including experience with an IGA platform (e.g., Saviynt,
+    SailPoint IdentityNow/IdentityIQ, Oracle Identity Manager,
+    or similar).
+  - Working knowledge of AI agent and non-human identity
+    governance concepts: discovery, credential lifecycle
+    management, runtime authorization, intent/behavioural
+    validation, and AI-specific compliance frameworks.
+  - Familiarity with modern authentication protocols and
+    credential-less architectures, federated identity, short-
+    lived/ephemeral tokens, and workload identity models.
+  - Exposure to Model Context Protocol (MCP) or similar
+    machine/model connectivity standards is a plus.
+  - Hands-on experience onboarding connected and disconnected
+    applications, including request forms, dynamic attributes,
+    mapping, and data types.
+  - Hands-on experience with REST & SOAP connectors, including
+    JSON building, mapping, reconciliation, and provisioning
+    use cases.
+  - General understanding of Single Sign-On, Multi-Factor
+    Authentication (MFA), and Privileged Access Management
+    (PAM) & cloud technologies and tools.
+  - Familiarity with industry regulations and standards (e.g.,
+    SOC2, ISO, SOX, PCI) and emerging AI governance
+    frameworks.
+  - Excellent analytical and problem-solving skills.
+  - Prior AI/ML engineering exposure (e.g., Python, LLM or agent
+    frameworks) is a nice-to-have but not required, and
+    experience in coding / development of software
+    applications is preferred.
+
+
+
+  Location
+
+  India
+
+
+
+  The #TeamGBT Experience
+
+  Work and life: Find your happy medium at Amex GBT.
+
+  - Flexible benefits are tailored to each country and start the
+    day you do. These include health and welfare insurance
+    plans, retirement programs, parental leave, adoption
+    assistance, and wellbeing resources to support you and
+    your immediate family.
+  - Travel perks: get a choice of deals each week from major
+    travel providers on everything from flights to hotels to
+    cruises and car rentals.
+  - Develop the skills you want when the time is right for you,
+    with access to over 20,000 courses on our learning
+    platform, leadership courses, and new job openings
+    available to internal candidates first.
+  - We strive to champion Inclusion in every aspect of our
+    business at Amex GBT. You can connect with colleagues
+    through our global INclusion Groups, centered around
+    common identities or initiatives, to discuss challenges,
+    obstacles, achievements, and drive company awareness and
+    action.
+  - And much more!
+
+  All applicants will receive equal consideration for
+  employment without regard to age, sex, gender (and
+  characteristics related to sex and gender), pregnancy (and
+  related medical conditions), race, color, citizenship,
+  religion, disability, or any other class or characteristic
+  protected by law.
+
+  Click Here for Additional Disclosures in Accordance with the
+  LA County Fair Chance Ordinance.
+
+  Furthermore, we are committed to providing reasonable
+  accommodation to qualified individuals with disabilities.
+  Please let your recruiter know if you need an accommodation
+  at any point during the hiring process. For details
+  regarding how we protect your data, please consult the Amex
+  GBT Recruitment Privacy Statement.
+
+  What if I don’t meet every requirement? If you’re passionate
+  about our mission and believe you’d be a phenomenal addition
+  to our team, don’t worry about “checking every box;" please
+  apply anyway. You may be exactly the person we’re looking
+  for!
+industries:
+  - Fintech
+  - Software
+  - Travel
+  - Business Intelligence
+  - Consulting
+  - App development
+  - Big Data Analytics
+posted_date: 2026-09-16
+url: "https://builtin.com/job/iam-engineer-ai-security/11200288"
+source: Built In

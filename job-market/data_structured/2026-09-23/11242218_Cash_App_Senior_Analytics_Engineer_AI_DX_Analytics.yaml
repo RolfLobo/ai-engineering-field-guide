@@ -1,0 +1,57 @@
+company:
+  name: Cash App
+  stage: null
+  focus: Financial technology and commerce (Block/Cash App)
+position:
+  title: Senior Analytics Engineer, AI & DX Analytics
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds telemetry, data pipelines, and dashboards
+      that measure AI usage and developer experience. AI coding
+      agents and LLM classification tooling are used as tools, not
+      shaped by this role; model behaviour, prompts, and retrieval
+      are not designed here. The deliverable is analytics and
+      reporting, so this is ai-support.
+  responsibilities:
+  - Instrument and extend raw telemetry about AI usage, code changes, CI/CD activity,
+    and spend
+  - Partner with data engineers on production ETL pipelines with freshness monitoring,
+    backfills, and alerting into governed tables
+  - Define and validate new metrics from ambiguous signals and reconcile them for
+    stakeholder trust
+  - Build executive-facing dashboards and visualizations for decision-ready reporting
+  - Run analyses, anticipate executive questions, and present recommendations with
+    defended methodology
+  - Use AI coding agents as a default part of writing, testing, and maintaining pipelines,
+    dashboards, and analyses
+  - Partner across data engineering, applied AI, and data science teams to keep telemetry
+    connected end to end
+  - Flag where AI spend or developer friction is costly and push tooling, process,
+    or investment changes
+  use_cases:
+  - Measuring AI usage and spend across engineering teams
+  - Tracking developer experience and engineering productivity
+  - Executive reporting on AI ROI and investment decisions
+  - Telemetry on code changes, CI/CD activity, and AI agent sessions
+  - Surfacing opportunities to improve AI tooling and reduce developer friction
+  skills:
+    databases: [Snowflake]
+    domains: []
+    data: [Data Pipelines, dbt]
+    web: [React]
+    ml: []
+    ops: [Git, CI/CD]
+    other: [AI Coding Agents, LookML, Dashboards, Data Visualization]
+    cloud: []
+    languages: [SQL, Python, TypeScript]
+    genai: [LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11242218'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:30:26.759178'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

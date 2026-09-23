@@ -1,0 +1,127 @@
+job_id: 10911459
+title: Staff or Senior Software Engineer, AI-Native SDLC
+company: HubSync
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Why this role exists
+
+  HubSync builds the platform the top CPA firms in the country
+  run on, and we are building AI into everything: the product
+  (Halo, our agent platform) and the company itself. This role
+  owns the second half: the AI-native SDLC, the entire
+  lifecycle of how software gets planned, written, reviewed,
+  tested, shipped, and operated here. We believe internal
+  agents should be treated like product: an AI reviewer tuned
+  to each repo's real failure patterns that earns the right to
+  gate merges, a QA agent that tests every pull request
+  against its ticket's acceptance criteria, agents that
+  sharpen tickets and specs before an engineer touches them,
+  that turn found bugs into fixes, that write the docs, that
+  watch production and draft the RCA. The first of these are
+  already running and the direction is set. What does not
+  exist is the person on the ground making it real, because
+  embedding with every team, building credibility engineer by
+  engineer, contributing to their actual backlogs, and
+  removing their actual blockers is a full-time job in itself.
+  That is this role: the change happens because you are in the
+  room driving it.
+
+  What you'll do
+
+  - Build internal agents as products, across the whole
+    lifecycle. Plan: agents that turn rough asks into well-
+    specified tickets and keep specs honest. Write: the shared
+    harness layer (skills, context, MCP servers, per-repo
+    configuration) that makes every engineer's agent
+    dramatically better than stock. Review: tuned AI code
+    reviewers, codified review rules mined from our own PR
+    history, and the measurement that lets them earn merge
+    authority. Test: PR-triggered QA agents on ephemeral
+    preview environments, exploratory bug hunters, generated
+    deterministic Playwright suites. Ship and operate: CI/CD
+    gates, deploy verification, incident triage and RCA
+    drafting. GitHub Actions, GitHub Apps, Claude Code /
+    Cursor and whatever tool is actually best this quarter.
+
+  - Embed and convert, team by team. This is the core of the
+    job. Sit with each squad and service, lead by example on
+    their own backlog (pick up their tickets and ship them the
+    AI-native way, visibly), showcase what is possible, and
+    remove the friction that stops adoption: permissions,
+    infra, environments, harness config, prompt and context
+    engineering. Success is their throughput, not your demo,
+    and it has to land as a better day-to-day for the
+    developers, not a mandate they resent.
+
+  - Own the measurement. Cycle time, review latency, escaped
+    defects, cost per feature, and developer experience. The
+    goal is a step-change in every team's throughput that the
+    developers thems elves would fight to keep.
+
+  - Make the standard real. Our doctrine: individual tool choice
+    stays free, the shared layer does not. You build and
+    maintain the harnesses and playbooks, wire the gates (no
+    PR ships unreviewed or untested), sharpen the doctrine
+    with what you learn in the field, and bring the taste to
+    know when an agent is the wrong tool.
+
+  What makes you a fit
+
+  - You are demonstrably, unusually productive with AI coding
+    tools today, and you have already lived this transition
+    somewhere: been there, done that, seen what works and what
+    backfires. Not "I use Copilot": you run multiple agents in
+    parallel, you have opinions about harnesses and context
+    management, and you can show real PRs, tools, or
+    automations from the last month that prove it.
+
+  - Strong engineering fundamentals under the leverage: CI/CD,
+    testing strategy, GitHub platform internals,
+    infrastructure enough to unblock yourself (AWS), and the
+    judgment to ship a working V1 in a day and harden it in
+    week two.
+
+  - You get more satisfaction from making a team 3x faster than
+    from being the fastest person in the room, and you have
+    the patience and credibility to win over skeptics with
+    working software instead of arguments. Show, don't tell is
+    how you already operate.
+
+  - Comfortable being measured on adoption and dollars saved,
+    not tickets closed.
+
+  What this role is not
+
+  - Not manual QA management, and not a QA-only role: quality
+    automation is the first battleground because that is where
+    we are bleeding today, but the mandate is the full SDLC.
+
+  - Not developer-relations or an evangelist seat. You ship,
+    every week.
+
+  - Not a research position, and not a decks-and-frameworks
+    seat. The value lands inside the teams, on current-
+    generation models and tools, every week.
+
+  Level
+
+  Staff or Senior depending on how much of the drive you can
+  carry yourself: Staff runs the team-by-team motion across
+  the org with minimal direction; Senior does the same work on
+  fewer fronts at a time, with more of the sequencing done for
+  them.
+
+  We are an equal opportunity employer. All applicants will be
+  considered for employment without attention to race, color,
+  religion, sex, sexual orientation, gender identity, national
+  origin, veteran or disability status
+industries:
+  - Information Technology
+  - Professional Services
+  - Software
+  - Financial Services
+posted_date: 2026-08-28
+url: "https://www.builtinla.com/job/staff-or-senior-software-engineer-ai-native-sdlc/10911459"
+source: Built In

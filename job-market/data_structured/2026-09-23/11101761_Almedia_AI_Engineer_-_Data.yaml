@@ -1,0 +1,45 @@
+company:
+  name: Almedia
+  stage: null
+  focus: Rewarded marketing and user acquisition platform
+position:
+  title: AI Engineer - Data
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and ships agentic systems, RAG, retrieval,
+      and evaluation to shape LLM behavior — building an agentic
+      reward design system. Clear LLM/agent shaping work.
+  responsibilities:
+  - Build the agentic AI behind the rewards engine, generating and evaluating tailored
+    offers
+  - Take open-ended AI problems across data verticals from vague brief to shipped
+    agentic systems
+  - Design agents, pipelines, retrieval and evaluation systems
+  - Set standards, patterns and tooling for how AI gets built across the data team
+  - Collaborate with Staff Data Scientists, CTO and leadership on AI direction
+  use_cases:
+  - Agentic reward design system generating tailored offers for games
+  - Offer evaluation before going live
+  - AI solutions for payer structures and user acquisition
+  - Agentic pipelines and retrieval across data verticals
+  skills:
+    genai: [LLMs, Agentic Workflows, LangChain, LangGraph, LlamaIndex, RAG, Vector
+        Search, LLM Evaluation, Prompt Engineering, Context Engineering]
+    ml: [Applied ML]
+    web: []
+    databases: [BigQuery]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11101761'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:19:22.852399'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

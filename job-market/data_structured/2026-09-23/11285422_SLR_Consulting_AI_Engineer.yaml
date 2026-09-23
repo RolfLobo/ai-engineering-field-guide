@@ -1,0 +1,50 @@
+company:
+  name: SLR Consulting
+  stage: null
+  focus: Environmental and sustainability consulting services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements LLM-powered systems
+      including RAG, agents, tool-use/function-calling
+      architectures, and prompt engineering, directly shaping
+      model behavior and output quality.
+  responsibilities:
+  - Design and implement production-grade LLM-powered applications and intelligent
+    agents
+  - Build agent orchestration and tool-use frameworks with function calling
+  - Develop MCP-style integration layers connecting models to tools, APIs, and data
+    sources
+  - Implement retrieval systems and knowledge layers including RAG pipelines and indexing
+  - Build and operate AI infrastructure including API services, observability, and
+    scalable backends
+  - Ship production code from prototype to deployment and iterate on user feedback
+  - Collaborate with product, engineering, and data teams
+  use_cases:
+  - LLM-powered applications and intelligent agents
+  - Model orchestration and tool-use systems
+  - Retrieval and knowledge layers for enterprise data
+  - MCP-style integrations connecting models to tools and data sources
+  - Scalable production AI infrastructure
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, RAG, MCP, Prompt Engineering, Function
+        Calling, OpenAI API, Anthropic API, LLM Evaluation, Embeddings]
+    ml: []
+    web: [REST APIs]
+    databases: [Vector Databases, Pinecone, Weaviate, pgvector, Knowledge Graphs]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, CI/CD, Observability, Monitoring, Distributed Systems]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Streaming, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11285422'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:34:48.811858'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

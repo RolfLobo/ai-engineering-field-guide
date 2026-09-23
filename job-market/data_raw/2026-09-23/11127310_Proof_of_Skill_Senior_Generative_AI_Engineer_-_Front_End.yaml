@@ -1,0 +1,141 @@
+job_id: 11127310
+title: Senior Generative AI Engineer - Front End
+company: Proof of Skill
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 15 Employees
+description: |
+  About Chryselys
+
+  Chryselys is a Great Place to Work Certified Pharma
+  Analytics & Business consulting company that delivers data-
+  driven insights leveraging AI-powered, cloud-native
+  platforms to achieve high-impact transformations. We
+  specialize in digital technologies and advanced data science
+  techniques that provide strategic and operational insights.
+
+  Role Summary
+
+  A Generative AI Application Specialist builds what users
+  actually touch: the conversational, agentic, and GenAI-
+  workflow applications that turn our AI capabilities into
+  products people trust and rely on. This is a front-end-led,
+  full-stack role for the age of AI. You will own the
+  experience layer where reasoning agents, streaming
+  responses, and generative interfaces meet real users, and
+  you will partner closely with infrastructure and product
+  teams to make those experiences fast, legible, and reliable.
+  We are not looking for a traditional data scientist, a UI-
+  only developer, or someone who only “vibe-codes” with an
+  assistant. We are looking for a strong engineer who is
+  redefining what front-end means when the interface is a
+  living, reasoning system.
+
+  Responsibilities
+
+  - Build AI-Native Applications: Design and ship production
+    front-ends for conversational and agentic experiences —
+    chat, multimodal, and generative/adaptive UI — that make
+    complex GenAI workflows feel simple, transparent, and
+    trustworthy.
+  - Master Real-Time & Streaming Interaction: Architect the
+    real-time layer (WebSockets/SSE, token streaming, live
+    agent status, interruptibility, optimistic and latency-
+    aware UI) so conversations and long-running agent tasks
+    feel responsive and alive.
+  - Design the UI as an Agent Surface: Build interfaces that
+    agents can read and act on — tool-call visualization,
+    human-in-the-loop controls, and “UI-as-context” patterns
+    that let assistants ground their answers in what the user
+    is actually seeing.
+  - Deliver Conversational & Multimodal UX: Craft chat and (over
+    time) voice/multimodal interactions, surfacing memory,
+    state, and reasoning in ways that build user trust and
+    keep humans in control.
+  - Own Front-End Craft & Engineering Fundamentals: Deliver
+    well-architected, accessible, performant React/TypeScript
+    applications backed by a real component and design system.
+    This is solid, durable front-end engineering — not
+    throwaway prototypes or assistant-generated code you
+    cannot stand behind.
+  - Bridge Front-End and Agentic Systems: Partner with
+    infrastructure and orchestration teams to design the
+    contracts between the app and the agents/GenAI workflows
+    behind it, shaping how state, memory, and context flow
+    across the full stack.
+  - Set Direction & Elevate AI Literacy: Act as a technical
+    coach and pattern-setter, influencing technical priorities
+    and elevating how the wider organization thinks about
+    interaction, trust, and transparency in AI-native
+    products.
+  - Operate with Rigor in a Regulated Environment: Manage high-
+    stakes internal and external partnerships while ensuring
+    all work adheres to global compliance, security, and
+    regulatory standards.
+
+  Who You Are
+
+  - Bachelor's degree and 5+ years of experience building
+    software, with a strong emphasis on front-end and
+    application engineering.
+  - Front-End Engineering Depth: Expert-level React and
+    TypeScript (or an equivalent modern framework), with deep
+    command of component architecture, state management,
+    accessibility, and performance — a real engineer who
+    writes and reviews production code, not solely AI-
+    generated output.
+  - Real-Time & Streaming Experience: Hands-on experience with
+    WebSockets, SSE, and streaming interfaces (e.g., token-by-
+    token responses, live status, and interruptible or long-
+    running tasks).
+  - GenAI Application Fluency: 3+ years building GenAI-powered
+    or conversational products, with practical understanding
+    of agents, prompting, tool-calling, RAG, and the trade-
+    offs of GenAI workflow design.
+  - Conversational & Generative UI: Experience designing chat,
+    multimodal, and/or adaptive/generative interfaces, and a
+    thoughtful approach to keeping humans in the loop,
+    building trust, and grounding responses in what is on
+    screen.
+  - AWS Full-Stack Range: Comfort reaching into the agent and
+    orchestration layer (LangChain, LangGraph, AWS AgentCore)
+    when the experience requires it.
+  - API & Systems Integration: Comfort integrating front-ends
+    with agent/LLM backends and APIs (REST, event-driven
+    patterns, MCP/A2A), and reasoning about cost, latency,
+    reliability, and observability across the AI system end to
+    end.
+  - Communication & Collaboration: Ability to partner with
+    product, design, and infrastructure teams and to translate
+    complex technical trade-offs for non-technical
+    stakeholders.
+
+  Preferred
+
+  - AI-Native Interaction Patterns: A point of view on how
+    front-end is evolving in the age of AI — generative UI,
+    agent-readable interfaces, UI-as-context, and novel
+    interaction models beyond the chatbox.
+  - Design & Craft: Strong design sensibility and fluency with
+    design-to-code workflows (Figma), motion/polish, and
+    building and maintaining a design system.
+  - Voice & Multimodal: Experience with voice and other
+    multimodal GenAI interfaces.
+  - Industry Experience: Experience in healthcare,
+    pharmaceutical, or other highly regulated industries.
+  - Security Protocols: Familiarity with common security
+    protocols and building software under regulatory
+    constraints.
+  - Enterprise Navigation: Proven ability to influence technical
+    priorities and manage partnerships within a large-scale,
+    global corporate structure.
+  - Resilience & Risk Management: Experience leading “fail-
+    forward” initiatives where rapid prototyping and business-
+    value trade-offs are prioritized.
+industries:
+  - HR Tech
+  - Information Technology
+  - Software
+posted_date: 2026-09-11
+url: "https://builtin.com/job/senior-generative-ai-engineer-front-end/11127310"
+source: Built In

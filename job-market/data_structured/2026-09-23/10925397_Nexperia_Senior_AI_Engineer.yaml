@@ -1,0 +1,57 @@
+company:
+  name: Nexperia
+  stage: null
+  focus: Semiconductor manufacturing and digital enablement
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architecturally shapes agent behavior: designing
+      reasoning loops, planning, tool-calling, memory, multi-agent
+      orchestration, prompting standards and evals — all LLM/agent
+      components, so ai-first. It is hands-on and individual-
+      contributor despite mentoring juniors.
+  responsibilities:
+  - 'Design agent architecture: reasoning loops, planning, tool-calling, and memory/context
+    management'
+  - Build multi-step orchestration with task decomposition, tool selection and error
+    recovery
+  - 'Build user-facing surfaces for copilot-style products: chat UI, IDE extensions
+    and CLI tools'
+  - Build backend APIs connecting surfaces to agent and LLM services, including streaming
+    and session state
+  - Review code and agent designs from Junior AI Engineers and mentor them
+  - Define agent quality bar with MLOps/eval function, plus CI/CD, monitoring and
+    observability
+  - Own governance bar and publish standards for citizen-built agents across spoke
+    teams
+  - Design self-service component catalog and support model for citizen developers
+  use_cases:
+  - Copilot-style internal assistants for engineers (chat UI, IDE extensions, CLI
+    tools)
+  - Agent-driven automation of internal workflows in a semiconductor manufacturer
+  - 'Developer enablement: tooling and self-service agent catalog for non-specialist
+    citizen developers'
+  - IDE integration of AI agents into developer workflows
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, MCP, LangGraph,
+      AutoGen, Claude Code, Prompt Engineering, LLM Evaluation, Copilot Studio, Embeddings]
+    ml: [Machine Learning, Feature Engineering]
+    web: [REST APIs, GraphQL, WebSockets, React]
+    databases: []
+    data: []
+    cloud: [AWS, AWS Bedrock, Azure, Azure AI Foundry]
+    ops: [CI/CD, GitHub Actions, Jenkins, Docker, Kubernetes, GCP, Datadog, Prometheus,
+      Grafana, LangSmith, Arize, LLMOps, Observability]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10925397'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:06:39.611037'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

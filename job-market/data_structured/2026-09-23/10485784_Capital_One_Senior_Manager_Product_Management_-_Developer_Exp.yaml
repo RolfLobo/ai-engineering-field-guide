@@ -1,0 +1,62 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with technology focus
+position:
+  title: Senior Manager, Product Management - Developer Experience, AI Coding Tools
+    & Developer Research
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a product management role that measures the impact
+      and utilization of AI coding tools others use; the person
+      never shapes model behavior, writes prompts, or designs
+      retrieval/agents. AI is the subject of telemetry and metrics
+      products, not the deliverable being shaped, so it is ai-
+      support.
+  responsibilities:
+  - Own the enterprise developer productivity measurement platform (CODE Metrics)
+    and define metrics that guide engineering investment
+  - Own the unified AI Telemetry framework measuring risk, utilization, and impact
+    of AI coding tools across the SDLC
+  - Own the in-house Flight Attendant telemetry platform and developer experience
+    research program covering 14K+ developers
+  - Build data products that quantify developer productivity and turn telemetry into
+    actionable enterprise insights
+  - Partner with Distinguished Engineers on measurement methodology and drive CODE
+    Metrics framework expansion
+  - Influence how Capital One builds software faster, with higher quality and less
+    friction, through measurement
+  use_cases:
+  - Measuring developer productivity across 14K+ developers
+  - Telemetry and impact measurement for AI coding tools (Claude Code, Windsurf, Copilot)
+    across the SDLC
+  - Developer experience research and insights platform
+  - Data products quantifying software development speed, quality, and friction
+  skills:
+    genai: [Claude Code, GitHub Copilot]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [CI/CD, DevOps, Metrics Design]
+    languages: [SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '10485784'
+  location: Plano, USA
+  locations:
+  - Plano, USA
+  - McLean, USA
+  - Chicago, USA
+  - Richmond, USA
+  - New York, USA
+  - Riverwoods, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T10:59:50.148903'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

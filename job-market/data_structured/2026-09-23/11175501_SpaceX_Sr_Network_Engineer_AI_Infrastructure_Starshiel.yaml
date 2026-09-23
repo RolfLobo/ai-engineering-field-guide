@@ -1,0 +1,50 @@
+company:
+  name: SpaceX
+  stage: null
+  focus: |-
+    National security satellite networks using Starlink
+    technology
+position:
+  title: Sr. Network Engineer, AI Infrastructure (Starshield)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates the datacenter network
+      infrastructure serving GPU training clusters; it never
+      shapes model behavior, prompts, retrieval, or training
+      itself. Deliverable is network capacity and reliability, so
+      it is ai-support.
+  responsibilities:
+  - Manage network infrastructure and deployments to Top Secret data centers
+  - Design and validate high-speed copper and optical connectivity solutions for 100k+
+    GPU scale AI clusters
+  - Collaborate with ML training teams to translate workload communication patterns
+    into interconnect topology requirements
+  - Improve network performance, reliability, capacity planning, and failure detection/remediation
+  - Build network automation and deployment tools (ZTP/custom provisioning)
+  - Lead network integration and troubleshooting efforts
+  - Mentor and train junior network engineers
+  use_cases:
+  - High-speed networking for large-scale AI training clusters
+  - Top Secret datacenter network operations for national security missions
+  - Optical and copper connectivity for 100k+ GPU scale infrastructure
+  skills:
+    genai: []
+    ml: [NVIDIA GPU Deployment Stacks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Network Automation]
+    languages: []
+    domains: []
+    other: [InfiniBand, NVLink, DWDM, Optical Fiber, Ethernet, IPv4, IPv6, MPLS, BGP,
+      OSPF, VXLAN, Network Security, Cisco, Juniper, Arista]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11175501'
+  location: Hawthorne, USA
+  extracted_at: '2026-09-23T11:23:37.263931'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

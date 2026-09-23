@@ -1,0 +1,112 @@
+job_id: 10946375
+title: AI Engineer
+company: Centre for Computational Technologies Pvt. Ltd. (CCTech)
+location: Ahmedabad, IND
+work_type: FULL_TIME
+company_size: 167 Employees
+description: |
+  The AI Engineer designs, builds, and operationalises machine
+  learning and generative AI systems, taking them from
+  prototype to production. The role covers model development,
+  LLM and agentic application engineering, and the data and
+  deployment pipelines that keep these systems accurate,
+  scalable, and reliable.
+
+  Key Responsibilities:
+
+  • Build, evaluate, and deploy machine learning and deep
+  learning models for production.
+
+  • Develop LLM-based and agentic applications, including RAG
+  pipelines and tool use.
+
+  • Fine-tune and optimise models for accuracy, latency, and
+  cost using PEFT and quantisation.
+
+
+  • Design evaluation frameworks, benchmarks, and guardrails
+  to safeguard model quality.
+
+  • Build and automate data pipelines for training, inference,
+  and model monitoring.
+
+
+  • Package and serve models as scalable APIs with
+  containerisation, CI/CD, and MLOps.
+
+  • Stay updated with advancements in AI/ML and apply them to
+  practical use cases.
+
+  Requirements
+
+  Educational Qualifications:
+
+  • B.E./B.Tech, M.Tech, B.Sc., M.Sc., MCA, or an equivalent
+  degree in Computer Science, Information Technology,
+
+  Engineering, Mathematics, Statistics, or a related
+  quantitative
+
+  field.
+
+  • Relevant certifications in cloud, AI/ML, or software
+
+  engineering are a plus.
+
+  Skillset:
+
+  • Strong programming skills in Python.
+
+  • Experience with ML/DL frameworks (e.g., scikit-learn,
+  PyTorch,
+
+  or TensorFlow).
+
+  • Hands-on experience with LLM APIs, prompt engineering, and
+
+  agent frameworks (e.g., LangChain, LangGraph, MCP).
+
+  • Working knowledge of RAG, embeddings, and vector
+
+  databases (e.g., pgvector, FAISS, or Pinecone).
+
+  • Experience serving models as APIs (FastAPI, Docker) with
+
+  MLOps practices (MLflow, model versioning, monitoring).
+
+  • Proficiency with SQL and data pipeline tooling for large
+
+  datasets.
+
+  • Experience with at least one cloud platform (AWS, Azure,
+  or
+
+  GCP).
+
+  Soft Skills:
+
+
+  • Adaptability in a fast-evolving technology landscape.
+
+  • Strong problem-solving ability with a structured, hands-on
+
+  approach.
+
+  • Critical thinking to evaluate trade-offs and validate AI
+
+  generated outputs.
+
+  Benefits
+
+  - Opportunity to work with a dynamic and fast-paced
+    engineering IT organization.
+  - Be part of a company that is passionate about transforming
+    product development with technology.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+  - Industrial
+posted_date: 2026-09-01
+url: "https://builtin.com/job/ai-engineer/10946375"
+source: Built In

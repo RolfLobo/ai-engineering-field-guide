@@ -1,0 +1,54 @@
+company:
+  name: Rula
+  stage: null
+  focus: |-
+    Mental healthcare telehealth platform matching patients to
+    care
+position:
+  title: Sr. Staff Engineer - Applied AI, Patient  (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops and improves production ML and AI-powered
+      systems, evaluating whether problems are best solved with
+      custom ML or foundation models/AI services, and hands-on
+      operating GenAI systems including evaluation and
+      reliability. It shapes both classical ML (ranking,
+      recommendations) and foundation-model systems, and a role
+      shaping both LLM and classical ML systems is ai-first.
+  responsibilities:
+  - Develop and improve production ML models and AI-powered patient experiences
+  - Build and scale matching, ranking, recommendations, onboarding, and personalization
+    systems
+  - Build reusable ML infrastructure and capabilities shared across teams
+  - Partner with Rula's ML team on shared infrastructure, models, standards, and architecture
+  - Decide whether problems are best solved with custom ML, foundation models, deterministic
+    software, or hybrids
+  - Operate foundation model/GenAI systems in production with attention to evaluation,
+    reliability, latency, cost, and safety
+  use_cases:
+  - Patient-therapist matching
+  - Ranking and relevance of care options
+  - Recommendations and personalization for patient experiences
+  - Intelligent patient onboarding
+  - Hybrid AI/ML-powered patient-facing features in mental healthcare
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning, Model Training, Model Evaluation, Feature Engineering]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Model Deployment, Model Monitoring, Monitoring, MLOps]
+    languages: [Python]
+    domains: []
+    other: [Recommendation Systems, Personalization, Ranking Systems, Matching Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11314200'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:37:50.253934'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

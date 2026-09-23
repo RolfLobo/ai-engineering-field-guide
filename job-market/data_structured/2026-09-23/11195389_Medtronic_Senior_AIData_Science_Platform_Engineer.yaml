@@ -1,0 +1,46 @@
+company:
+  name: Medtronic
+  stage: null
+  focus: Healthcare technology and medical devices
+position:
+  title: Senior AI/Data Science Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates cloud/on-prem infrastructure
+      and the MLOps platform used by ML engineers and data
+      scientists; it does not shape model behavior or output
+      quality. ML knowledge is only a plus. Infrastructure/serving
+      work is ai-support by the rules.
+  responsibilities:
+  - Design, develop and maintain cloud (AWS) and on-prem infrastructure for ML engineers
+    and data scientists
+  - Support ML engineers by responding to platform service requests and troubleshooting
+    issues
+  - Improve reliability and usability of the MLOps platform
+  - Operate production systems including incident diagnosis and safe change management
+  - Build relationships across engineering teams to align stakeholders
+  - Communicate technical ideas and trade-offs in design docs, PRs, and reviews
+  use_cases:
+  - MLOps platform for medical product development
+  - Operating room connectivity, edge computing, and decision support
+  - Computer vision and data science for a comprehensive view of surgery
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: [Machine Learning]
+    ops: [Kubernetes, Helm, GitOps, Terraform, Docker, Observability]
+    other: [OpenTofu, Kanban, Agile]
+    cloud: [AWS, IAM]
+    languages: []
+    genai: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11195389'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:25:07.992935'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

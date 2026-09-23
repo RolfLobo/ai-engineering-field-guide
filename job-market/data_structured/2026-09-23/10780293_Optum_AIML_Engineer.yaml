@@ -1,0 +1,48 @@
+company:
+  name: Optum
+  stage: null
+  focus: Healthcare technology and care delivery services
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires understanding of LLMs, RAG architecture,
+      OpenAI APIs, and deploying LLMs, and builds NLP/AI solutions
+      for business problems. Shaping LLM/RAG-based systems makes
+      it ai-first despite the classical ML (NLP, deep learning)
+      also listed.
+  responsibilities:
+  - Develop and deploy innovative AI solutions to business problems using cutting-edge
+    AI technologies
+  - Research and evaluate new data sources, AI technology trends, and methodologies
+    to enhance data science capabilities
+  - Perform data analysis, pre-processing, and feature engineering to ensure quality
+    and reliability of AI models
+  - Optimize AI models for performance and robustness
+  - Set up NLP pipelines for testing new ideas
+  use_cases:
+  - NLP solutions for healthcare business problems
+  - Text classification, entity recognition, and entity extraction
+  - Question answering systems
+  - LLM deployment and RAG-based solutions
+  skills:
+    genai: [LLMs, RAG, OpenAI API]
+    ml: [Machine Learning, Reinforcement Learning, Deep Learning, PyTorch, Hugging
+        Face, Feature Engineering]
+    web: [Streamlit, Flask, FastAPI, REST APIs]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Model Deployment]
+    languages: [Python, SQL]
+    domains: [NLP, Text Classification, Entity Recognition, Question Answering]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10780293'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:01:12.002868'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

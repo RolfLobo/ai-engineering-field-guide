@@ -1,0 +1,49 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: Cloud engineering and data analytics services
+position:
+  title: Sr. Engineer I - Cloud Engg & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a DevOps/cloud infrastructure engineer focused
+      on CI/CD, IaC, and cloud resource management. Despite "AI"
+      in the title, no responsibilities involve shaping model
+      behavior, prompts, retrieval, or model training; AI is
+      effectively absent from the actual duties.
+  responsibilities:
+  - Design, author, and manage infrastructure as code using Terraform for Azure and
+    AWS environments
+  - Build and optimize CI/CD pipelines in Azure DevOps and GitHub Actions
+  - Provision, monitor, and optimize Azure and AWS cloud resources
+  - Manage GitHub repositories, branching strategies, pull requests, and code reviews
+  - Integrate security best practices into pipelines and IaC, including IAM and secrets
+    handling
+  - Set up and maintain monitoring, logging, and alerting frameworks
+  - Provide Level 2/3 support for infrastructure incidents and root cause analysis
+  - Author documentation for infrastructure architectures and operational procedures
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure, AWS, IAM, AKS, EKS, CloudFormation, AWS Lambda, AWS S3]
+    ops: [Terraform, Azure DevOps, GitHub Actions, GitHub, Linux, Kubernetes, Ansible,
+      Monitoring, Infrastructure as Code, CI/CD]
+    languages: [Python, Bash, PowerShell]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10845799'
+  location: Ahmedabad, IND
+  locations:
+  - Ahmedabad, IND
+  - Hyderabad, IND
+  extracted_at: '2026-09-23T11:01:58.739550'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

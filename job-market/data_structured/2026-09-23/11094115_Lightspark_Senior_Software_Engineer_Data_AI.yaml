@@ -1,0 +1,50 @@
+company:
+  name: Lightspark
+  stage: null
+  focus: |-
+    Open, instant global payments infrastructure (Bitcoin Money
+    Grid)
+position:
+  title: Senior Software Engineer, Data & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds the agent harness, MCP servers, tool
+      integrations, and context/access services for Lighthouse,
+      directly designing agent flows and tool calling — shaping
+      model behavior with LLMs, so ai-first.
+  responsibilities:
+  - 'Build and own the internal AI platform: agent harness, MCP servers, tool integrations,
+    context and access services, sandboxed execution, and cost/usage tracking'
+  - Embed with Finance, Sales Ops, Compliance, and onboarding to understand workflows
+    and ship systems that replace manual work
+  - 'Extend data infrastructure with the Staff Data Engineer: dbt models, BigQuery,
+    orchestration, and production pipelines'
+  - Share ownership of monitoring, alerting, and data reliability for systems that
+    unblock product launches
+  - Partner with Engineering to optimize their dev systems and tooling
+  - Scope problems directly from supported teams, ship solutions, and ensure adoption
+  use_cases:
+  - Internal data and AI platform (Lighthouse) powering all company functions
+  - AI agents running workflows for Sales, Finance, Ops, Legal, Compliance, and Partnerships
+  - Analytics automation replacing manual data team work
+  - Governed source-of-truth data feeding agent workflows
+  skills:
+    genai: [LLMs, AI Agents, MCP, Agentic Workflows]
+    ml: []
+    web: []
+    databases: [BigQuery, Snowflake]
+    data: [Databricks, dbt, Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [TypeScript, Node.js, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11094115'
+  location: Los Angeles, USA
+  extracted_at: '2026-09-23T11:19:03.851783'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Pragmatike
+  stage: null
+  focus: Enterprise cybersecurity for AI agents and LLMs
+position:
+  title: Backend Engineer (Go) – AI Security Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds backend infrastructure (Go services,
+      proxies, pipelines) for an AI security product; it does not
+      shape any model's behavior via prompts, retrieval, or
+      training. AI appears as tooling the engineer uses (coding
+      assistants) and as traffic being inspected by the security
+      gateway, both of which are ai-support signals.
+  responsibilities:
+  - Design, build, and operate production Go services with high performance, reliability,
+    and multi-tenancy
+  - Design APIs and data models, owning service contracts, idempotency, retries, and
+    back-pressure
+  - Build event-driven pipelines and integrations with cloud providers, internal systems,
+    or AI/agent frameworks
+  - Own service reliability through testing, observability, CI/CD, and production
+    readiness
+  - Use Python for tooling, testing, migrations, automation, and data workflows
+  - Collaborate with AI engineers, security researchers, and product teams on threat
+    models and enforcement logic
+  - Use AI coding assistants as part of daily development, testing, and debugging
+    workflow
+  use_cases:
+  - Real-time policy enforcement for AI agent actions, tool calls, and data access
+  - High-performance LLM security gateway with inline inspection, DLP, rate limiting,
+    and streaming
+  - Cloud discovery of AI agents, model endpoints, and AI-enabled applications across
+    AWS, Azure, and GCP
+  - Forensic ingestion, indexing, and querying of agent traces and security events
+  - Event-driven integration of AI security products with existing data security infrastructure
+  - Tooling and testing harnesses for AI agent attack research
+  skills:
+    genai: [Claude Code, Cursor, GitHub Copilot, Codex, LLMs, AI Agents]
+    ml: []
+    web: [gRPC, REST APIs, Protobuf, API Gateways]
+    databases: [NoSQL, Relational Databases, Elasticsearch, OpenSearch, ClickHouse]
+    data: [Kafka]
+    cloud: [AWS, GCP, Azure, IAM]
+    ops: [Docker, Kubernetes, Service Mesh, Distributed Systems]
+    languages: [Go, Python]
+    domains: []
+    other: [OPA, Cedar, Multi-Tenant SaaS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11226859'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:29:04.366637'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

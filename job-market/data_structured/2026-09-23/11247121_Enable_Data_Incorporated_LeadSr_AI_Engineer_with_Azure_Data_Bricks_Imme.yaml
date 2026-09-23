@@ -1,0 +1,54 @@
+company:
+  name: Enable Data Incorporated
+  stage: null
+  focus: Data and AI consulting services on Azure Databricks
+position:
+  title: Lead/Sr AI Engineer with Azure Data Bricks || Immediate Joiner
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior: designs RAG pipelines,
+      writes prompts, fine-tunes LLMs with LoRA/QLoRA, implements
+      guardrails and vector retrieval — clearly LLM-related
+      shaping, so ai-first. Pipeline/deployment duties are
+      secondary.
+  responsibilities:
+  - Design and build end-to-end data and AI pipelines on Azure Databricks
+  - Develop ETL/ELT workflows using Python (PySpark) and SQL
+  - Develop and deploy ML and Generative AI models (LLMs, embeddings, RAG pipelines)
+  - Fine-tune LLMs using LoRA/QLoRA and integrate with Azure OpenAI or Hugging Face
+    models
+  - Implement vector search and retrieval pipelines using FAISS or Azure Cognitive
+    Search
+  - Build chat UI SPAs with FastAPI/React using Claude models and prompt engineering
+    skills
+  - Implement CI/CD, logging, monitoring, and error handling for production pipelines
+  - Ensure responsible AI practices including bias detection and model governance
+  use_cases:
+  - Production GenAI applications (LLMs, embeddings, RAG) on Azure Databricks
+  - Conversational chat interfaces powered by Claude models
+  - NLP, computer vision, and predictive analytics workloads
+  - Vector search and retrieval over enterprise data
+  - Data ingestion pipelines from sources like SAP and web scraping
+  - Governed, cost-efficient AI deployment with monitoring and bias detection
+  skills:
+    databases: [Vector Search, FAISS]
+    domains: [NLP, Computer Vision]
+    data: [Azure Databricks, PySpark, Data Pipelines, Airflow]
+    web: [FastAPI, React, APIs]
+    ml: [Hugging Face, Machine Learning, Generative AI]
+    ops: [CI/CD, Azure DevOps, MLOps, MLflow, Monitoring, Terraform]
+    other: [Webhooks, Unity Catalog, Responsible AI]
+    cloud: [Azure, AWS S3, Azure OpenAI, Azure Functions, Azure ML, IAM]
+    languages: [Python, SQL]
+    genai: [LLMs, RAG, Embeddings, Fine-Tuning, LoRA, Prompt Engineering, Anthropic
+        API, Guardrails, LangChain]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11247121'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:30:56.006447'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

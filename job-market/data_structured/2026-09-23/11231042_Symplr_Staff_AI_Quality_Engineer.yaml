@@ -1,0 +1,52 @@
+company:
+  name: Symplr
+  stage: null
+  focus: Healthcare compliance and workforce software solutions
+position:
+  title: Staff AI Quality Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role validates generative AI, conversational AI, and
+      prompt-driven systems, including testing prompts,
+      hallucinations, and response quality, which is judging and
+      shaping LLM output behavior via validation and evals. This
+      QA/validation work on LLM systems classifies as ai-first
+      rather than ai-support.
+  responsibilities:
+  - Validate AI/ML solutions across generative AI, conversational AI, and predictive
+    AI domains
+  - Develop Python-based test automation for AI APIs, data analysis, and model output
+    validation
+  - Perform data quality analysis, profiling, and feature validation
+  - Interpret model evaluation metrics and validate performance results
+  - Test AI services built with FastAPI or Flask and cloud deployments on AWS SageMaker
+  - Validate MLOps pipelines, CI/CD for ML systems, and production deployment monitoring
+  - Test generative AI prompts, hallucinations, and response quality including bias
+    and safety validation
+  use_cases:
+  - Validation of generative AI applications including prompt, hallucination, and
+    response quality testing
+  - Testing conversational AI systems built with LangChain and LLMs
+  - Validation of predictive ML models for healthcare compliance software
+  - Quality assurance for cloud-based AI services deployed on AWS
+  skills:
+    genai: [Generative AI, Conversational AI, LangChain, Anthropic API, Embeddings]
+    ml: [Machine Learning, scikit-learn, PyTorch, TensorFlow, Keras, Feature Engineering,
+      Model Evaluation, Neural Networks, Transformers, NLP]
+    web: [FastAPI, Flask, Streamlit]
+    databases: [DynamoDB, OpenSearch]
+    data: [Pandas, NumPy, AWS Glue]
+    cloud: [AWS, SageMaker, AWS Bedrock, AWS S3, AWS Lambda, Amazon Q, Amazon Kendra]
+    ops: [MLOps, CI/CD, CloudWatch, Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11231042'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:29:24.704833'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

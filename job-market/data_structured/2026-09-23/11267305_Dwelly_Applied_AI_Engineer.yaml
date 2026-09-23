@@ -1,0 +1,55 @@
+company:
+  name: Dwelly
+  stage: null
+  focus: AI operating system for residential lettings
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic infrastructure: orchestration, tool
+      calling, memory/context management, and evaluation
+      frameworks for LLM agents in production. This directly
+      shapes LLM behavior via agent design and evals, making it
+      ai-first.
+  responsibilities:
+  - Design and build core agentic primitives including memory, context management,
+    tool calling, orchestration, and feedback loops
+  - Build evaluation and observability frameworks to test, trace, debug, and assess
+    agent performance before production
+  - Create agentic development workflows using coding agents and specialized subagents
+    to accelerate engineering
+  - Design systems where agents, tools, deterministic software, and humans coordinate
+    effectively
+  - Bridge operational workflows and engineering, identifying high-leverage automation
+    opportunities across acquired agencies
+  - Define architectural patterns and engineering standards for agentic systems as
+    the company scales
+  use_cases:
+  - Automating residential lettings workflows such as Tenant Find and Property Management
+  - Reusable agentic infrastructure for rapidly onboarding workflows from acquired
+    agencies
+  - Coding agents and subagents for software development acceleration
+  - Human-machine collaborative automation of operational work
+  - Evaluation and observability of agentic workflows in production
+  skills:
+    genai: [Agentic Workflows, AI Agents, Function Calling, Structured Outputs, LLMs,
+      LLM Evaluation, Context Engineering]
+    ml: []
+    web: []
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [TypeScript, Node.js, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11267305'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:33:42.184890'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

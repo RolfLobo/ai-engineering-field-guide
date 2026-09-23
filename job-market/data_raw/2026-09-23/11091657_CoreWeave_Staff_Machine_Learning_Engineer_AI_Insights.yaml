@@ -1,0 +1,273 @@
+job_id: 11091657
+title: Staff Machine Learning Engineer, AI Insights
+company: CoreWeave
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+
+  About CoreWeave
+
+  CoreWeave is an AI hyperscaler building the cloud
+  infrastructure and services that power the next generation
+  of artificial intelligence. Our customers run demanding
+  training, inference, and high-performance workloads, and our
+  teams build the systems needed to operate that
+  infrastructure reliably at scale.
+
+  About the team
+
+  The AI Insights team builds customer-facing AI capabilities
+  across CoreWeave’s Mission Control portfolio. We combine
+  machine learning, observability, and production software
+  engineering to help engineers and customers understand
+  workload health, diagnose infrastructure issues, and
+  identify opportunities to improve efficiency, capacity, and
+  performance.
+
+  Our work spans telemetry from metrics, logs, traces, alerts,
+  and operational events. We are building the intelligence
+  layer that turns this data into trustworthy, actionable
+  insights—grounded in evidence and integrated into the tools
+  where people operate CoreWeave infrastructure.
+
+  This is not a role focused on building a generic chatbot.
+  You will help build the underlying ML systems, services,
+  evaluation frameworks, and product capabilities that make
+  AI-powered troubleshooting and optimization reliable in
+  real-world environments.
+
+  About the role
+
+  As a Staff Machine Learning Engineer, you will be a
+  technical leader on the AI Insights team. You will define
+  and implement the machine learning systems that power
+  anomaly detection, signal correlation, incident
+  understanding, recommendations, and other intelligence
+  capabilities across CoreWeave’s observability and cloud
+  platforms.
+
+  You will work across the full lifecycle: framing problems,
+  developing models and algorithms, designing evaluation
+  methodology, building data and inference services,
+  integrating with production systems, and operating the
+  result at scale. You will partner closely with software
+  engineers, product managers, researchers, and domain experts
+  to turn promising ideas into reliable customer experiences.
+
+  What you’ll do
+
+  - Lead the technical design and delivery of production machine
+    learning systems for infrastructure observability,
+    troubleshooting, and optimization.
+  - Develop approaches for anomaly detection, time-series
+    analysis, event correlation, ranking, recommendation,
+    classification, and root-cause inference across high-
+    volume telemetry.
+  - Build evaluation frameworks and datasets that measure
+    accuracy, usefulness, robustness, and safety in real
+    operational scenarios.
+  - Translate research and prototypes into maintainable,
+    scalable services with clear operational ownership.
+  - Design data pipelines, feature-generation workflows, model-
+    serving paths, and feedback loops for continuous
+    improvement.
+  - Integrate ML capabilities with telemetry platforms and
+    customer-facing experiences, including Mission Control,
+    Grafana, and related observability services.
+  - Establish practical standards for experimentation, offline
+    and online evaluation, monitoring, reproducibility, and
+    model lifecycle management.
+  - Make thoughtful trade-offs across model quality, latency,
+    cost, interpretability, reliability, and ease of
+    operation.
+  - Work with teams responsible for metrics, logs, traces,
+    telemetry enrichment, and platform APIs to create coherent
+    cross-system intelligence.
+  - Mentor engineers and raise the technical bar for machine
+    learning and production engineering across the
+    organization.
+  - Communicate technical decisions clearly and influence
+    roadmaps across teams without relying on formal authority.
+
+  What we’re looking for
+
+  - Significant experience designing and shipping machine
+    learning systems that operate in production.
+  - Strong software engineering skills in Python; experience
+    with Go or another systems-oriented language is a plus.
+  - Deep understanding of machine learning fundamentals,
+    including model selection, feature engineering,
+    experimentation, evaluation, and failure analysis.
+  - Experience working with time-series, event, log, metric,
+    trace, or other operational data at meaningful scale.
+  - Demonstrated ability to define evaluation methodology for
+    ambiguous or domain-specific ML problems.
+  - Strong systems thinking and the ability to reason about
+    distributed systems, data quality, latency, observability,
+    and operational failure modes.
+  - Excellent communication and collaboration skills, including
+    the ability to work effectively with research, product,
+    infrastructure, and customer-facing teams.
+  - A track record of technical leadership, mentorship, and
+    influence across organizational boundaries.
+
+  Nice to have
+
+  - Experience with observability platforms or technologies such
+    as Grafana, Prometheus, VictoriaMetrics, ClickHouse, Loki,
+    or Kafka.
+  - Experience with Kubernetes and cloud infrastructure,
+    especially for telemetry, logging, or application
+    observability.
+  - Experience with anomaly detection, incident intelligence,
+    search, recommendations, or ranking systems.
+  - Experience with large language model evaluation, post-
+    training, retrieval, tool use, or grounded
+    generation—particularly when combined with structured
+    telemetry and deterministic systems.
+  - Experience building ML products for infrastructure,
+    developer tools, reliability engineering, or other
+    technical users.
+  - Familiarity with human-in-the-loop workflows, access
+    control, auditability, and safety requirements for
+    operational systems.
+
+  Why this role
+
+  - Work on foundational AI capabilities for an AI-native cloud
+    company.
+  - Solve difficult ML problems using high-volume, high-value
+    infrastructure telemetry.
+  - Help define how engineers and customers understand,
+    troubleshoot, and optimize large-scale AI workloads.
+  - Influence the technical direction of a growing team at the
+    intersection of machine learning, observability, and
+    distributed systems.
+  - Turn applied research and engineering ideas into production
+    products used by CoreWeave engineers and customers.
+  - Lead by example while helping establish the team’s
+    engineering and ML practices.
+
+  Why CoreWeave?
+
+  At CoreWeave, we work hard, have fun, and move fast!  We’re
+  in an exciting stage of hyper-growth that you will not want
+  to miss out on. We’re not afraid of a little chaos, and
+  we’re constantly learning. Our team cares deeply about how
+  we build our product and how we work together, which is
+  represented through our core values:
+
+  - Be Curious at Your Core
+  - Act Like an Owner
+  - Empower Employees
+  - Deliver Best-in-Class Client Experiences
+  - Achieve More Together
+
+  We support and encourage an entrepreneurial outlook and
+  independent thinking. We foster an environment that
+  encourages collaboration and enables the development of
+  innovative solutions to complex problems. As we get set for
+  takeoff, the organization's growth opportunities are
+  constantly expanding. You will be surrounded by some of the
+  best talent in the industry, who will want to learn from
+  you, too. Come join us!
+
+  The base salary range for this role is $188,000 to $250,000.
+  The starting salary will be determined based on job-related
+  knowledge, skills, experience, and market location. We
+  strive for both market alignment and internal equity when
+  determining compensation. In addition to base salary, our
+  total rewards package includes a discretionary bonus, equity
+  awards, and a comprehensive benefits program (all based on
+  eligibility).
+
+  What We Offer
+
+  The range we’ve posted represents the typical compensation
+  range for this role. To determine actual compensation, we
+  review the market rate for each candidate which can include
+  a variety of factors. These include qualifications,
+  experience, interview performance, and location.
+
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs. The benefits below reflect
+  our US-based offerings for full-time employees; for roles in
+  other locations, benefits vary and are shared during the
+  hiring process. These include:
+
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+
+  California Applicants
+
+  California Consumer Privacy Act
+
+  Equal Opportunity & Accommodations
+
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+
+  Export Control Compliance
+
+  This position requires access to export controlled
+  information. To conform to U.S. Government export
+  regulations applicable to that information, applicant must
+  either be (A) a U.S. person, defined as a (i) U.S. citizen
+  or national, (ii) U.S. lawful permanent resident (green card
+  holder), (iii) refugee under 8 U.S.C. § 1157, or (iv) asylee
+  under 8 U.S.C. § 1158, (B) eligible to access the export
+  controlled information without a required export
+  authorization, or (C) eligible and reasonably likely to
+  obtain the required export authorization from the applicable
+  U.S. government agency.  CoreWeave may, for legitimate
+  business reasons, decline to pursue any export licensing
+  process.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-09-09
+url: "https://builtin.com/job/staff-machine-learning-engineer-ai-insights/11091657"
+source: Built In

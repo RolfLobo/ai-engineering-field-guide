@@ -1,0 +1,190 @@
+job_id: 11167154
+title: AI Engineer- Applied AI
+company: Guidewire Software
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Summary
+
+  About the Product Concierge is Guidewire's omnichannel AI
+  agent for P&C carriers. It answers the phone when a
+  policyholder has just had an accident, takes first notice of
+  loss, asks the questions a good adjuster would ask, and
+  writes a clean claim into ClaimCenter. It runs in production
+  today with real carriers and real policyholders, not as a
+  demo. Two things make this harder than a typical chatbot.
+  First, it has synchronous voice: latency is a product
+  requirement, not a metric on a dashboard. Second, FNOL is a
+  regulated event where the quality of the intake determines
+  the eventual cost of the claim. A missed question early is a
+  bigger loss reserve later. The Role: You will build,
+  evaluate, and harden the agent itself: the orchestration,
+  the context it sees, the tools it can call, and the evals
+  that tell us whether a change made it better or just
+  different. Our rollout philosophy is a dimmer, not a light
+  switch. We widen the agent's autonomy one notch at a time,
+  and every notch has to be earned with evidence. Much of your
+  work is producing that evidence, then acting on what it
+  says.
+
+  Job Description
+
+  What you'll do
+
+  - Own end-to-end slices of the agent: prompt and context
+    architecture, retrieval over policy and coverage data,
+    tool and API calls into core claims systems, and handoff
+    to a human when the agent should stop.
+  - Build and run the eval loop, golden sets, trajectory
+    evaluation, LLM-as-judge, error analysis on real
+    production call traces, and make it the thing that gates
+    releases.
+  - Drive containment and resolution rates up without trading
+    away accuracy, and instrument the system well enough that
+    we can tell which of the two moved.
+  - Work directly on the voice path: turn-taking, interruption,
+    latency budgets, and the telephony layer underneath
+    (LiveKit, SIP).
+  - Sit in on carrier calls and listen to recordings. The best
+    fixes usually come from hearing where the conversation
+    went sideways, not from reading the logs.
+
+  What we're looking for
+
+  1. Building and deploying AI applications. You've shipped an
+  LLM application that real users depend on, and you know that
+  the hard part is that the output is not predictable. You're
+  fluent in the building blocks LLMs, context engineering,
+  RAG, agentic workflows, and you have real ML and deep
+  learning depth underneath that fluency. Most importantly,
+  you know how to make an unpredictable system behave
+  predictably enough to trust: disciplined evals, error
+  analysis, and statistical measurement rather than vibes and
+  a handful of spot checks.
+
+  2. Software engineering fundamentals. You can reason about
+  cost, latency, reliability, and scalability as tradeoffs
+  rather than goals, and you know which ones you're making.
+  You've designed data stores and distributed systems, you
+  write tests, and you take security and privacy seriously
+  while advocating CI/CD process automation.  We handle claims
+  data, recorded calls, and PII under carrier and regulatory
+  scrutiny.
+
+  3. Using coding agents. You work with coding agents daily
+  and you're good at it: managing their context, deciding when
+  a spec is worth writing and when it isn't, giving them
+  verifiers so they can close their own loops, and knowing
+  when to intervene versus leave them alone. You also keep
+  changing how you work as the tooling changes, rather than
+  settling into a 2025 workflow.
+
+  4. Shaping the build. You won't be handed a finished spec.
+  You'll be in the room where we decide what the agent should
+  do next, which means you need product sense and enough
+  insurance context to argue about it. You'll know when to put
+  an MVP in front of a carrier next week and when a claims
+  workflow demands that we slow down and get it right the
+  first time.
+
+  Underneath all four: you keep learning. This field looks
+  different every six months and we expect to keep changing
+  our minds.
+
+  Nice to have
+
+  - Real-time or streaming voice systems (ASR, TTS, telephony,
+    SBC/SIPREC)
+  - Insurance, claims, or another regulated domain where being
+    wrong has a cost attached
+  - Experience building internal eval or observability tooling
+    other engineers actually adopted.
+  - Experience in Machine learning principles, or have
+    experience in model experimentations, training and
+    deploying models in Productions.
+  - Experience in P&C Insurance or exposure to Guidewire
+    products and services.
+  - Prompt or pipeline optimization frameworks (DSPy, GEPA)
+    applied to a production system
+
+  How to apply
+
+  Send a short note about something you shipped where the
+  model's unpredictability was the central problem, and what
+  you did about it. We care more about that than about a list
+  of frameworks.
+
+  Guidewire is an equal opportunity employer. We welcome
+  applicants from all backgrounds.
+
+  The US base salary range for this full-time position is - .
+  Your base pay will depend on your experience, skills,
+  education, training, and location among other factors. All
+  full-time positions or part-time roles working 30 hours or
+  more a week at Guidewire are eligible for benefits that
+  support their health and well-being including health,
+  dental, and vision insurance, paid time off, and a company
+  sponsored retirement plan. In addition, some roles may be
+  eligible for the annual company bonus plan, commissions,
+  and/or long term incentive awards which are contingent on a
+  variety of factors including, but not limited to, company
+  and employee performance.
+
+  Disability Accommodations and Guidewire’s Appeals Process.
+  Guidewire provides accommodations to the hiring process to
+  create a fair opportunity for candidates with disabilities
+  to contend for open positions. Accommodation requests should
+  be directed to Accommodations@guidewire.com. If things do
+  not go as hoped, we invite you to use our appeals process.
+  Guidewire promises to independently review any denied
+  accommodation and any decision not to offer you the
+  position. The appeals process is the same in either case.
+  Within five business days of receiving a notice of denial of
+  an accommodation, or receiving a notice of your non-
+  selection for a vacancy, e-mail Accommodations@guidewire.com
+  to make an appeal. Guidewire will assign a new decision-
+  maker to review the request and/or hiring decision, who will
+  then notify you in writing of a decision within 10 business
+  days.
+
+  About Guidewire
+
+  Guidewire is the platform P&C insurers trust to engage,
+  innovate, and grow efficiently. We combine digital, core,
+  analytics, and AI to deliver our platform as a cloud
+  service. More than 540+ insurers in 40 countries, from new
+  ventures to the largest and most complex in the world, run
+  on Guidewire.
+
+  As a partner to our customers, we continually evolve to
+  enable their success. We are proud of our unparalleled
+  implementation track record with 1600+ successful projects,
+  supported by the largest R&D team and partner ecosystem in
+  the industry. Our Marketplace provides hundreds of
+  applications that accelerate integration, localization, and
+  innovation.
+
+  For more information, please visit www.guidewire.com and
+  follow us on Twitter: @Guidewire_PandC.
+
+  Guidewire Software, Inc. is proud to be an equal opportunity
+  and affirmative action employer. We are committed to an
+  inclusive workplace, and believe that a diversity of
+  perspectives, abilities, and cultures is a key to our
+  success. Qualified applicants will receive consideration
+  without regard to race, color, ancestry, religion, sex,
+  national origin, citizenship, marital status, age, sexual
+  orientation, gender identity, gender expression, veteran
+  status, or disability. All offers are contingent upon
+  passing a criminal history and other background checks where
+  it's applicable to the position.
+industries:
+  - Cloud
+  - Information Technology
+  - Insurance
+  - Software
+  - Analytics
+posted_date: 2026-09-17
+url: "https://www.builtinla.com/job/ai-engineer-applied-ai/11167154"
+source: Built In

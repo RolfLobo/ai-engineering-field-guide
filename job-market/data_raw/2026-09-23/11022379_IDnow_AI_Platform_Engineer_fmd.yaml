@@ -1,0 +1,142 @@
+job_id: 11022379
+title: AI Platform Engineer (f/m/d)
+company: IDnow
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - München, DEU
+work_type: FULL_TIME
+company_size: 500 Employees
+description: |
+  IDnow is a leader in digital identity and fraud prevention
+  in Europe with a mission to transform trust into the most
+  powerful asset in the digital world, empowering enterprises
+  with AI-driven, SaaS-based identity solutions that deliver
+  scalable security, adaptive compliance, and real-time fraud
+  prevention. Through its broad portfolio of digital identity
+  and fraud prevention solutions, IDnow establishes, maintains
+  and enriches trust throughout the customer journey, ensuring
+  businesses can confidently and securely operate while
+  leveraging digital identity to drive growth, security and
+  scalability.
+
+  The company has offices in Germany, United Kingdom, Romania
+  and France, and is backed by renowned institutional
+  investors, including Corsair Capital and Seventure Partners.
+  Its portfolio of international clients spans a wide range of
+  end markets including financial services,
+  telecommunications, travel & mobility, gaming, and other
+  industries.
+
+  This role is based in Berlin/Munich, Germany or Rennes,
+  France.
+
+
+
+  IDnow is seeking a highly skilled AI Platform Engineer with
+  strong software development capabilities and emerging
+  expertise in AI-driven integration. In this role, you will
+  architect, implement, and optimise integrations across cloud
+  platforms, data systems, and application environments. You
+  will also design and operationalise AI workflows—leveraging
+  automation, machine learning services, and intelligent data
+  pipelines—to enhance business processes and system
+  interoperability. You will work closely with
+  cross‑functional teams to implement automation, build
+  reliable integration processes, integrate data services, and
+  deliver robust infrastructure-as-code solutions.
+
+  This position blends integration engineering, DevOps
+  practices, AI tooling, and practical software development,
+  offering the opportunity to shape our next-generation
+  automation and intelligent integration capabilities.
+
+  Key Responsibilities
+
+  - Design and maintain scalable integrations across enterprise
+    systems, SaaS platforms, and internal applications.
+  - Build and enhance GitLab based CI/CD pipelines to support
+    application integration and infrastructure automation.
+    ‑based CI/CD pipelines to support application
+  - Use Terraform (or other Infrastructure as Code tools) to
+    design and provision cloud infrastructure—primarily on
+    AWS.
+  - Develop automation scripts and workflows to reduce manual
+    operational overhead and improve reliability.
+  - Integrate machine learning and approved AI‑based services
+    into operational workflows and data pipelines.
+  - Implement data integration pipelines using APIs, event-
+    driven architectures, and messaging systems.
+  - Develop and maintain AI‑driven middleware using Node.js
+    and/or Python to enhance decisioning, routing, or workflow
+    logic.
+  - Manage, deploy, and troubleshoot MCP (Node.js‑based) servers
+    used for programmatic control, middleware, or message
+    processing.
+  - Collaborate with software engineers, data teams, and cloud
+    engineers to deliver end‑to‑end integration solutions.
+  - Ensure integrations are secure, well‑documented, and
+    compliant with organisational standards.
+  - Write clean, modular, well‑tested code following engineering
+    best practices.
+  - Participate in code reviews, architectural discussions, and
+    continuous improvement efforts.
+  - Monitor, tune, and optimise system performance and
+    reliability across integration layers.
+
+  Preferred Experience
+
+  - 5+ years in an IT Integration, DevOps, or Software
+    Engineering role.
+  - Strong hands-on experience with GitLab, including pipeline
+    creation, runners, artifacts, and CI/CD orchestration.
+  - Proficiency with Infrastructure as Code, particularly
+    Terraform, and experience deploying resources in AWS.
+  - Solid experience in automation using scripting languages
+    such as Python, Bash, or JavaScript/Node.js.
+  - Experience building and maintaining data integrations (APIs,
+    webhooks, ETL, messaging queues, or event-driven systems).
+  - Working knowledge of MCP (Node.js) servers, including
+    configuration, extension development, and deployment.
+  - Solid understanding of AI/ML concepts, model APIs, prompt
+    engineering, and integrating LLMs into backend services.
+  - Strong backend development experience (Node.js, Python, or
+    similar).
+  - Knowledge of networking, identity/access management, and
+    security best practices.
+  - Familiarity with containerisation (Docker) and orchestration
+    (Kubernetes) is a plus.
+  - Excellent communication, documentation, and cross‑team
+    collaboration skills.
+
+  Perks & Benefits
+
+  - Health & Wellbeing: Use your full access to the mental
+    health platform nilo, including 1on1 sessions.
+  - We value personal and professional development: make full
+    use of Udemy, our training platform with 24/7 access and
+    unlimited content/course consumption incl. certification.
+  - We make your remote work comfy: we provide support on
+    equipment and offer flexible working hours.
+  - We value collaboration & love to come together: regular
+    onsite gatherings, internal initiatives and summer parties
+    to connect outside of work.
+  - May your family require your attention or other reasons
+    apply: use the benefit of our paid special leave days.
+  - Enjoy the possibility to combine work with a longer stay at
+    your holiday destination or extend a weekend with our
+    Workcation possibilities.
+  - In addition to the perks & benefits above, we offer specific
+    benefits that differ between our locations
+
+  IDnow applies the principles of non-discrimination and
+  equality: We strive to establish, maintain, and promote an
+  open and inclusive recruitment process and working
+  environment by respecting the principles of equal
+  opportunities. Including but not limited to: race or ethnic
+  origin, religion or convictions, gender identity or
+  expression, citizenship, marital status, disability, age, or
+  sexual orientation.
+posted_date: 2026-09-04
+url: "https://builtin.com/job/it-integration-engineer-f-m-d/11022379"
+source: Built In

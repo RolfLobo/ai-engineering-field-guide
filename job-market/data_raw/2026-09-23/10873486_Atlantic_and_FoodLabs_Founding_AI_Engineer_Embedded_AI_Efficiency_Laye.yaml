@@ -1,0 +1,136 @@
+job_id: 10873486
+title: Founding AI Engineer @ Embedded AI Efficiency Layer, Berlin
+company: Atlantic and FoodLabs
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 85422 Employees
+description: |
+  This is an Atlantic portfolio venture.
+
+  About the Venture
+
+  AI is being integrated into more products every month, and
+  every interaction consumes tokens. As usage scales, costs
+  add up quickly. The first race was adoption. The next is
+  efficiency: inference costs increasingly determine what
+  companies can afford to build and ship.
+
+  We’re building the efficiency layer for production AI. Our
+  systems make AI dramatically leaner, reducing token usage
+  and lowering the cost of every interaction without
+  compromising the quality standards that matter. Over time,
+  we aim to improve both cost and quality, so companies can do
+  more with AI rather than choose between better performance
+  and a healthier bottom line.
+
+  We closed our pre-seed in just three weeks and are now
+  preparing our first customer pilots. The pace is high and
+  the timelines are ambitious. We are aiming for something
+  big, and that requires a lot of input from every member of
+  our early team.
+
+  About the Role
+
+  You’ll join as our first AI engineer and work directly with
+  the founders to build the core product from the ground up.
+  You’ll own major areas of product development, help define
+  our architecture and technical direction, and turn complex
+  research and engineering problems into reliable production
+  systems.
+
+  This role requires someone who can think deeply about AI
+  systems and write the code to build them. You’ll work across
+  AI infrastructure, backend systems, evaluation and
+  enterprise deployments, with substantial ownership over the
+  technical decisions behind the product.
+
+  What You’ll Do
+
+  - Research, invent and productionise systems for AI cost
+    efficiency, context optimisation and token reduction.
+  - Build across context selection, compression, caching, model
+    routing, tool-call reduction, retry control and output
+    budgets.
+  - Develop APIs, an OpenAI-compatible gateway and integrations
+    with model providers and enterprise AI applications.
+  - Create reproducible cost-quality evaluations, regression
+    tests and quality gates.
+  - Own production reliability across monitoring, deployments,
+    incidents, capacity, availability and latency.
+  - Build secure enterprise infrastructure with tenant
+    isolation, access controls, secrets management and
+    protected customer data.
+  - Optimise distributed-system performance across throughput,
+    caching, rate limits, resource usage and failure handling.
+  - Translate early customer requirements into reliable product
+    capabilities.
+  - Take on the broad day-to-day engineering work required to
+    move an early product forward.
+
+  About You
+
+  You’re an experienced AI engineer who combines strong
+  software engineering with original thinking about how
+  production AI systems can become more efficient. You can
+  reason from first principles about where cost and quality
+  are lost, test new approaches rigorously and turn the
+  strongest ideas into production-grade code.
+
+  - You have substantial experience in software engineering,
+    backend systems and API development.
+  - You are highly proficient in python or TypeScript or at
+    least some coding languages and comfortable working across
+    them.
+  - You understand the foundations of modern LLM systems,
+    including tokenisation, context management, inference
+    behaviour, model evaluation and the trade-offs between
+    cost, latency and quality.
+  - You have hands-on experience building with LLM APIs and
+    understand the behaviour, cost and reliability challenges
+    of production AI systems.
+  - You have practical experience designing experiments and
+    evaluations that measure both model quality and system
+    performance.
+  - You have worked with cloud infrastructure, PostgreSQL and
+    Docker. Kubernetes experience is a strong advantage.
+  - Experience with vLLM, SGLang, LiteLLM or similar AI
+    infrastructure is highly relevant.
+  - You understand distributed-system performance, including
+    latency, throughput, caching, rate limits and failure
+    handling.
+  - You can independently research difficult problems, test
+    hypotheses and translate technical ideas into working
+    systems.
+  - You write clear, reliable code and are comfortable owning
+    systems through deployment and production.
+  - Fluent English is required. German is an advantage.
+
+  We do not expect you to have worked on every system or
+  technology listed above. We do expect deep experience in
+  some of these areas, strong software engineering
+  fundamentals and the ability to develop genuine technical
+  depth in the rest.
+
+  Why Join
+
+  You’ll join at the earliest stage and help shape the
+  product, architecture and company strategy. You’ll invent
+  core technology directly with the founders and receive
+  meaningful equity in what you help build.
+
+  The pace is demanding and the technical bar is high, but the
+  scope and opportunity are significant. This role suits an AI
+  engineer who wants substantial ownership and the chance to
+  work on difficult, commercially important infrastructure
+  problems.
+
+  This is a full-time role based in our Berlin office five
+  days a week, with a start date as soon as possible.
+industries:
+  - Angel or VC Firm
+  - Food
+  - Healthtech
+  - Agriculture
+posted_date: 2026-08-27
+url: "https://builtin.com/job/founding-ai-engineer-embedded-ai-efficiency-layer-berlin/10873486"
+source: Built In

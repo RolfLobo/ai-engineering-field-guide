@@ -1,0 +1,45 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: Enterprise underwriting platform development
+position:
+  title: AI Agentic Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI architectures, designs prompts,
+      RAG/knowledge retrieval, and uses agent frameworks
+      (LangChain/LangGraph) — directly shaping LLM/agent behavior.
+      Therefore ai-first.
+  responsibilities:
+  - Build and operationalize the agentic execution layer for an enterprise underwriting
+    platform
+  - Design prompts and agentic AI architectures
+  - Implement RAG and knowledge retrieval systems with vector databases
+  - Develop backend services with REST APIs and event-driven architectures
+  - Build cloud-native microservices
+  use_cases:
+  - Agentic execution for enterprise underwriting
+  - Knowledge retrieval to support underwriting decisions
+  - AI agents orchestrating underwriting workflows
+  skills:
+    genai: [LLMs, Prompt Engineering, Agentic Workflows, RAG, Knowledge Retrieval,
+      LangChain, LangGraph]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Cloud-Native Development]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234756'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:29:49.506740'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

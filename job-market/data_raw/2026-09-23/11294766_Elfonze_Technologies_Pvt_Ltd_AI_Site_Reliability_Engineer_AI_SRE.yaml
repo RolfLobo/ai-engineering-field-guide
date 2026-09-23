@@ -1,0 +1,136 @@
+job_id: 11294766
+title: AI Site Reliability Engineer (AI SRE)
+company: Elfonze Technologies Pvt Ltd
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 286 Employees
+description: |
+  AI Site Reliability Engineer (AI SRE) Senior Associate |
+  7-10 Years of Experience Role AI Site Reliability Engineer
+  (AI SRE) Level Senior Associate Experience 7-10 years Role
+  Summary We are seeking an experienced AI Site Reliability
+  Engineer to ensure the reliability, scalability, security,
+  observability, and operational excellence of production AI
+  platforms and AI-enabled applications. The role combines
+  Site Reliability Engineering, DevOps, MLOps, LLMOps, and
+  cloud platform engineering to operate machine learning,
+  Generative AI, Retrieval-Augmented Generation (RAG), and
+  agentic AI workloads at enterprise scale. As a Senior
+  Associate, you will own production reliability outcomes,
+  lead incident response and problem management, define
+  service-level objectives, automate operational workflows,
+  and partner with AI engineers, platform teams, security
+  teams, product owners, and business stakeholders. You are
+  expected to be hands-on while also guiding junior engineers
+  and influencing engineering standards. Key Responsibilities
+  AI Reliability & Production Operations Own the reliability,
+  availability, performance, and operational readiness of
+  AI/ML, GenAI, RAG, and agentic AI services in production.
+  Define and manage service-level indicators (SLIs), service-
+  level objectives (SLOs), error budgets, capacity plans, and
+  reliability scorecards. Monitor end-to-end AI service
+  health, including APIs, inference endpoints, model behavior,
+  prompts, retrieval pipelines, vector stores, agent
+  workflows, data dependencies, and user experience. Lead
+  incident response, triage, stakeholder communication,
+  recovery, root-cause analysis, and corrective and preventive
+  actions for production issues. Create and maintain runbooks,
+  support procedures, troubleshooting guides, escalation
+  paths, and disaster recovery practices. Observability,
+  Evaluation & AI Quality Implement metrics, logs, traces,
+  dashboards, alerts, and distributed tracing across cloud
+  infrastructure and AI application stacks. Establish
+  monitoring for latency, throughput, availability, token
+  usage, cost, rate limits, model drift, retrieval quality,
+  groundedness, hallucination risk, safety signals, and agent
+  execution failures. Build automated evaluation and
+  regression testing for prompts, models, RAG pipelines,
+  tools, agents, and release candidates. Detect anomalies,
+  reduce alert noise, improve mean time to detect and recover,
+  and convert recurring incidents into engineering
+  improvements. Platform Engineering, Automation & Release
+  Reliability Build and operate secure, scalable AI
+  infrastructure using containers, Kubernetes, cloud services,
+  APIs, event-driven components, and managed AI platforms.
+  Develop CI/CD and GitOps pipelines for application code,
+  infrastructure, model and prompt configurations, evaluation
+  suites, and deployment approvals. Automate provisioning,
+  configuration, rollback, patching, backup, recovery,
+  certificate and secret rotation, and routine operational
+  tasks. Implement safe deployment patterns such as canary,
+  blue-green, shadow, and controlled model or prompt rollouts.
+  Apply Infrastructure as Code and policy-as-code to ensure
+  repeatability, traceability, and environment consistency.
+  Security, Governance & Cost Management Partner with
+  security, privacy, risk, and architecture teams to implement
+  access controls, secrets management, network security,
+  auditability, data protection, and responsible AI controls.
+  Ensure operational processes support model, prompt, data,
+  and configuration lineage, change control, and production
+  evidence requirements. Monitor and optimize cloud, GPU,
+  inference, storage, observability, and model-consumption
+  costs while protecting reliability and performance.
+  Participate in on-call support and planned production
+  activities in accordance with the agreed support model.
+  Collaboration & Technical Leadership Collaborate with AI
+  engineers, data scientists, cloud/platform engineers,
+  application teams, and product owners to design systems for
+  operability from inception. Conduct production readiness
+  reviews, architecture reviews, reliability testing, and
+  operational acceptance before go-live. Mentor junior
+  engineers, review automation and infrastructure code, and
+  contribute reusable patterns, standards, and accelerators.
+  Communicate technical risks, incidents, service health, and
+  remediation plans clearly to engineering leaders and
+  business stakeholders. Required Skills & Experience 7-10
+  years of experience in Site Reliability Engineering, DevOps,
+  cloud operations, platform engineering, production support,
+  MLOps, or a related engineering discipline. Demonstrated
+  experience operating business-critical distributed systems
+  and cloud-native applications in production. Strong
+  proficiency in Python and/or Go, plus scripting with Bash or
+  PowerShell for automation and troubleshooting. Hands-on
+  experience with Kubernetes, Docker, Linux, networking, API
+  gateways, load balancing, identity and access management,
+  and secrets management. Experience with at least one major
+  cloud platform: Microsoft Azure, AWS, or Google Cloud.
+  Practical knowledge of observability platforms and standards
+  such as OpenTelemetry, Prometheus, Grafana, Azure Monitor,
+  CloudWatch, Google Cloud Operations, Datadog, Splunk, or
+  equivalent. Experience with CI/CD and infrastructure
+  automation using tools such as GitHub Actions, Azure DevOps,
+  Jenkins, Terraform, Bicep, CloudFormation, or equivalent.
+  Working knowledge of ML/AI production lifecycles, model
+  serving, feature or data pipelines, model monitoring,
+  experiment and artifact tracking, and release governance.
+  Hands-on exposure to Generative AI production patterns,
+  including LLM APIs, prompt management, RAG, vector
+  databases, AI agents, evaluation, guardrails, and LLM
+  observability. Strong incident management, root-cause
+  analysis, performance engineering, capacity management, and
+  problem-solving skills. Ability to translate reliability
+  signals into prioritized engineering actions and communicate
+  effectively with technical and non-technical stakeholders.
+  Preferred Qualifications Experience with Azure AI Foundry /
+  Azure OpenAI, AWS Bedrock / SageMaker, Google Vertex AI, or
+  comparable enterprise AI services. Experience with MLflow,
+  Kubeflow, LangChain, LangGraph, Semantic Kernel, or similar
+  AI engineering and orchestration frameworks. Knowledge of
+  vector databases and search platforms such as Azure AI
+  Search, OpenSearch, Elasticsearch, Pinecone, Weaviate,
+  Qdrant, pgvector, or equivalent. Experience designing
+  resilience tests, chaos experiments, load tests, failover
+  strategies, and disaster recovery for AI services.
+  Understanding of responsible AI, model risk, privacy, secure
+  AI design, and regulated enterprise environments. Relevant
+  cloud, Kubernetes, DevOps, SRE, security, or AI/ML
+  certifications.
+industries:
+  - Cloud
+  - Information Technology
+  - Software
+  - Consulting
+posted_date: 2026-09-22
+url: "https://builtin.com/job/ai-site-reliability-engineer-ai-sre/11294766"
+source: Built In

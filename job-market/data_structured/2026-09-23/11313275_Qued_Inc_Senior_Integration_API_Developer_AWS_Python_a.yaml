@@ -1,0 +1,52 @@
+company:
+  name: Qued, Inc.
+  stage: null
+  focus: |-
+    Integration and AI agent solutions for enterprise
+    applications
+position:
+  title: Senior Integration & API Developer – AWS, Python and AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements AI agent integrations with
+      tool/function calling and multi-step LLM workflows, directly
+      shaping agent behavior. This makes it ai-first per Step 2.
+  responsibilities:
+  - Design and develop APIs to support integrations, business processes, and AI-powered
+    applications
+  - Build and maintain integrations between internal systems and external platforms
+    such as Salesforce and third-party services
+  - Design and implement AI agent integrations that interact with APIs, databases,
+    enterprise applications, and business workflows
+  - Develop AI-powered workflows and automation using LLMs, AI agents, tool/function
+    calling, and API-based integrations
+  - Work directly with clients to gather requirements and deliver technical solutions
+  - Deploy, monitor, and support solutions in AWS
+  - Troubleshoot, optimize, and ensure reliability of integrations
+  - Collaborate with cross-functional teams and mentor junior developers
+  use_cases:
+  - AI agent integrations into enterprise applications and business workflows
+  - AI-powered workflow automation using LLMs and tool calling
+  - System integrations between internal systems and external platforms
+  - Enterprise application integration (e.g., Salesforce)
+  skills:
+    genai: [AI Agents, LLMs, Function Calling, Agentic Workflows]
+    ml: []
+    web: [APIs, REST APIs]
+    databases: [SQL, RDS]
+    data: []
+    cloud: [AWS, API Gateway, AWS Lambda, ECS]
+    ops: [SQS, SNS, Terraform, Infrastructure as Code]
+    languages: [Python]
+    domains: []
+    other: [Salesforce, Event-Driven Architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11313275'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:36:21.318671'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

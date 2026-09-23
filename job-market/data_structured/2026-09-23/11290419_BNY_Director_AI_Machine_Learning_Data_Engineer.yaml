@@ -1,0 +1,46 @@
+company:
+  name: BNY
+  stage: null
+  focus: Global financial services and investment management
+position:
+  title: Director, AI / Machine Learning Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The description describes managing development projects and
+      teams with no hands-on model shaping work — no prompt
+      design, retrieval, training, or evaluation. AI is mentioned
+      only in the team name (AI Hub) and as a general context, so
+      the role is ai-support.
+  responsibilities:
+  - Manage multiple complex, often global development projects
+  - Define resource requirements and allocations, monitor quality, and ensure best-practice
+    development techniques
+  - Provide subject matter expertise to teams as needed
+  - Develop group-wide business plans and participate in firm-wide initiatives
+  - Lead risk identification and implement mitigation plans
+  - Handle escalations and advocate change management and innovation in technology
+    solutions
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11290419'
+  location: Lake Mary, USA
+  locations:
+  - Lake Mary, USA
+  - New York, USA
+  extracted_at: '2026-09-23T11:34:48.886294'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

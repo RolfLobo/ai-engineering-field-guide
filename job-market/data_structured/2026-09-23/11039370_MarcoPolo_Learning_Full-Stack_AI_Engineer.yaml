@@ -1,0 +1,51 @@
+company:
+  name: MarcoPolo Learning
+  stage: null
+  focus: Early childhood education content and technology
+position:
+  title: Full-Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns retrieval, generation, prompts, persona
+      design, and guardrails for an LLM assistant (Audrey), which
+      is direct shaping of LLM behaviour. RAG with embeddings,
+      vector DBs, semantic search, and prompt engineering are core
+      responsibilities, so it is ai-first.
+  responsibilities:
+  - Own the AI behind Audrey — retrieval, generation, models and logic
+  - Design retrieval so teachers find the right videos, printables, and activities
+  - Build content and data pipelines ingesting and structuring multilingual educational
+    content
+  - Work across the full stack to integrate Audrey into the product
+  - Shape Audrey's behavior, persona, and teacher-facing experience
+  - Implement evaluation, testing, and monitoring to keep response quality high
+  - Partner with infrastructure lead on cloud operations
+  - Build with privacy and safety in mind including FERPA/COPPA alignment
+  use_cases:
+  - AI teaching companion and coach for early-learning educators
+  - Lesson planning and material discovery for teachers
+  - Fast, accurate retrieval of educational videos, printables, and activities
+  - Multilingual content retrieval
+  - Classroom personalization and insights
+  skills:
+    genai: [RAG, Embeddings, Prompt Engineering, LLMs, LangChain, AI Agents, Guardrails,
+      Cursor]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases, Semantic Search, Databases]
+    data: [Data Pipelines]
+    cloud: [AWS, AWS Bedrock]
+    ops: [Monitoring, Docker]
+    languages: [Python]
+    domains: []
+    other: [FERPA/COPPA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11039370'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:14:31.425208'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

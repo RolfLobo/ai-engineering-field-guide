@@ -1,0 +1,52 @@
+company:
+  name: Futurewhiz
+  stage: null
+  focus: EdTech company for children's learning (Squla, StudyGo)
+position:
+  title: Medior AI Product Engineer (Full-Stack)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly builds LLM and agent-based workflows
+      including prompts, evaluations, feedback loops and
+      safeguards, which is directly shaping model behavior. It is
+      a full-stack product engineering role on an LLM-powered
+      content tool, so it is ai-first.
+  responsibilities:
+  - Build and own AI-assisted applications from early prototype to reliable production
+    use
+  - 'Develop across the stack: Python services and APIs, data flows, user-facing interfaces
+    and infrastructure'
+  - Build and improve LLM and agent-based workflows, including prompts, evaluations,
+    feedback loops and safeguards
+  - Turn editorial research and user testing findings into practical technical approaches
+  - Create small experiments to resolve uncertainty before larger builds
+  - Integrate new tools into existing publishing systems and contribute reusable components
+  - Deploy, monitor and troubleshoot built software, balancing quality, reliability,
+    speed and cost
+  - Contribute to architecture, CI/CD, security and technical decision-making
+  use_cases:
+  - AI-assisted educational content creation for textbooks and digital learning materials
+  - Content automation in publishing workflows for a major educational publisher
+  - LLM-generated curriculum-aligned content that is accurate, editable and trusted
+    by editors
+  - Improving speed, quality and cost of producing and maintaining learning materials
+  skills:
+    genai: [LLM Evaluation, LLMs, AI Agents, Prompt Engineering, ChatGPT]
+    ml: [Data Analysis, Machine Learning]
+    web: [React, APIs]
+    databases: []
+    data: []
+    cloud: [Cloud Infrastructure]
+    ops: [CI/CD, Monitoring]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11150948'
+  location: Amsterdam, NLD
+  extracted_at: '2026-09-23T11:22:10.156728'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

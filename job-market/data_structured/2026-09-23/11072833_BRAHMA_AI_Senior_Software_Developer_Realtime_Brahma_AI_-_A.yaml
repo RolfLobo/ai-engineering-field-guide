@@ -1,0 +1,55 @@
+company:
+  name: BRAHMA AI
+  stage: null
+  focus: |-
+    Technology and pipelines for VFX and feature animation
+    studios
+position:
+  title: Senior Software Developer, Realtime (Brahma AI - A DNEG Dedicated Unit of
+    Brahma)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role integrates Unreal Engine into a VFX studio pipeline
+      and builds artist tools. There is no LLM, model training,
+      prompt design, or retrieval work described; it is real-time
+      graphics pipeline software engineering. Therefore it is ai-
+      support.
+  responsibilities:
+  - Design and implement scalable methods for integrating Unreal Engine with the proprietary
+    global studio pipeline
+  - Design, develop, and deliver high-quality artist-facing tools from layout to final
+    pixels
+  - Lead a small agile sub-team of developers, providing technical guidance and code
+    reviews
+  - Oversee the development lifecycle of realtime tools from requirements to delivery
+  - Act as technical liaison for production VFX Supervisors and HODs, translating
+    creative requirements into technical tasks
+  - Partner with other Technology groups to integrate realtime initiatives into studio
+    infrastructure
+  - Promote best practices for documentation, testing, and CI/CD workflows
+  use_cases:
+  - Realtime VFX and feature animation production pipelines
+  - Virtual production workflows
+  - Artist-facing tooling from layout to final rendering
+  - Multi-site distributed studio pipeline integration
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: []
+    ops: [Linux, CI/CD, Perforce, Git]
+    other: [Unreal Engine, Blueprints, Agile, Virtual Production, VFX, USD, OpenColorIO,
+      Houdini, Maya, Nuke, Katana]
+    cloud: []
+    languages: [C++, Python]
+    genai: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11072833'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:17:10.329312'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

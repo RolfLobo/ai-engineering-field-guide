@@ -1,0 +1,210 @@
+job_id: 9712123
+title: "Senior Full Stack Engineer, AI & Growth Systems"
+company: Eve
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Eve
+
+  Eve is redefining legal technology for plaintiff law firms,
+  and we're building the team that will take us there. We help
+  firms handle more cases, recover more for clients, and grow
+  with AI that works across every stage of a case, from intake
+  through resolution. The next generation of great plaintiff
+  firms will be AI-Native, and Eve is how they get there. But
+  what makes Eve different isn't just the product. It's how we
+  build it. If you're someone who takes ownership, stays
+  curious, and wants to build AI that's already changing how
+  law is practiced, this is where you belong.
+
+  Product-market fit: Eve is trusted by over 1000+ law firms,
+  and we’re growing fast. Backed by top investors: We’ve
+  raised over $160M from world-class partners including Spark
+  Capital, Andreessen Horowitz(A16z), Menlo Ventures, and
+  Lightspeed. Built by a world-class team: Engineers,
+  designers, and operators from places like Scale, Meta,
+  Airbnb, Cruise, Square, Rubrik, and Lyft are building Eve
+  from the ground up. AI-Native from day one: We’re on the
+  bleeding edge of AI, collaborating directly with teams at
+  OpenAI and Anthropic to build best-in-class AI workflows
+  tailored for legal work. Explosive growth: We are growing 2X
+  revenue Quarter over Quarter.
+
+  About the Role
+
+  Eve’s Go-To-Market team — growth, marketing, sales, and
+  RevOps — moves fast and runs on software, and we’re building
+  a lot of it. As a Senior Software Engineer on this team,
+  you’ll own large parts of that software: internal tools,
+  integrations, GTM data and automation systems, and the web
+  platform — the systems that turn manual GTM work into
+  something repeatable and reliable.
+
+  This is full-stack product engineering, embedded in Go-To-
+  Market. The work is broad and the pipeline is long: a web
+  platform marketers can publish to without an engineer,
+  internal tools for sales and RevOps, integrations with the
+  systems the business runs on, and data and automation
+  workflows — increasingly AI-assisted — that replace work
+  people do by hand today. The web platform was our first
+  project; it’s one surface among many coming, and you’ll have
+  a real hand in deciding how the rest get built.
+
+  You’ll be the second engineer on this surface, working as a
+  true peer to our current engineer — tag-teaming the big
+  ambiguous projects and running whole workstreams
+  independently. You’ll take a vague business problem — “we
+  can’t ship site changes without an engineer,” “this lead-
+  routing breaks silently,” “we do this enrichment by hand
+  every week” — find the real requirements, decide what (and
+  what not) to build, and own it through to production. The
+  highest-leverage version of this job isn’t shipping the next
+  one-off; it’s building the reusable primitives that make the
+  next ten GTM projects faster.
+
+  This is not a research role, a pure-infrastructure role, or
+  a “hardest technical problem” role. The hard part here is
+  usually the messy business context, the reliability bar, and
+  the breadth — not algorithmic novelty. We want a pragmatic,
+  execution-oriented engineer who ships and raises everyone’s
+  throughput without adding management load.
+
+  What You’ll Be Working On
+
+  - End-to-end ownership. Own workstreams across frontend,
+    backend, APIs, and data — and run several in parallel —
+    from ambiguous business problem to shipped, monitored,
+    maintained software.
+  - Internal tools, integrations, and GTM systems. Connect CRMs,
+    marketing automation, data warehouses, and third-party
+    APIs into workflows the business can trust, including AI-
+    assisted workflows where they earn their place.
+  - Reusable primitives over one-offs. When the same problem
+    shows up repeatedly, build the ingestion, storage,
+    generation, evaluation, and observability pieces that
+    unlock the next ten workflows.
+  - The web platform. Own and evolve our content-driven site as
+    one of several surfaces — fast, accessible, and safe for
+    non-engineers to publish to.
+  - Reliability. Webhooks, data syncs, and production errors are
+    yours; you add the monitoring, validation, and runbooks
+    that catch problems before stakeholders do.
+  - Working with the business. Partner directly with growth,
+    sales, and RevOps — do the discovery, translate messy
+    workflows into software, and measure whether it actually
+    helped.
+  - Raising the bar. Lift the team through code review, reusable
+    patterns, and good “do we even build this?” judgment —
+    including saying no when that’s the right answer
+
+  What You’ll Bring to the Team
+
+  - Bachelor's degree in Computer Science or equivalent.
+  - Business-critical production experience. You’ve built and
+    owned software real users or real revenue depended on,
+    well past launch.
+  - Roughly 6+ years of professional experience, though we
+    weight ownership and judgment over tenure.
+  - Frontend strength with full-stack depth. You excel in modern
+    web stacks (React, TypeScript, etc.) and own frontend-
+    heavy projects end-to-end—but you're comfortable diving
+    into backend, APIs, and databases when needed for
+    integrations and infrastructure. You can take an ambiguous
+    problem to production across the stack without it being
+    pre-scoped. We're not dogmatic about specific languages,
+    but web platform excellence is the priority.
+  - Internal tools for non-engineering teams that were genuinely
+    adopted, with discovery done before building.
+  - Fluency with AI-assisted development — orchestrating tools
+    like Claude Code, Cursor, or Codex as a real part of your
+    workflow, with strong opinions on task decomposition,
+    context-setting, review, and the tests and guardrails that
+    keep AI-generated work from degrading quality. It’s
+    central to how this team works.
+  - Applied LLM, agent, or automation systems taken well past
+    prototype, with real attention to evals, observability,
+    and failure modes.
+  - Strong debugging and reliability instincts. You chase
+    problems to their actual root cause through frontends,
+    APIs, webhooks, data syncs, and production logs — and you
+    build the guardrails that keep the same class of bug from
+    recurring.
+  - Product and business judgment. You understand why you’re
+    building something, negotiate scope and tradeoffs directly
+    with non-engineers, choose simple durable solutions under
+    ambiguity, and push back when the right answer is “don’t
+    build this.”
+  - Independent ownership. You can take a fuzzy workstream and
+    run it to production with minimal supervision, while
+    keeping others unblocked.
+  - Low-ego, high-collaboration leadership. You communicate
+    clearly in writing and in person, mentor by example, and
+    make the people around you more effective
+
+  Bonus Points
+
+  - A modern TypeScript web stack and/or headless/CMS-backed
+    sites (e.g. Astro, Next, SvelteKit; Sanity, Contentful, or
+    similar), including content models that let non-engineers
+    publish safely.
+  - GTM and data systems depth: Familiarity with HubSpot,
+    Salesforce, Snowflake, Segment, Clay, Apollo, or
+    equivalents — plus fluent SQL for inspecting and
+    validating data.
+  - A track record integrating messy third-party APIs reliably —
+    attribution, identity resolution, lead routing,
+    enrichment, scoring, sync-failure handling.
+  - Growth, activation, or web-platform engineering —
+    experimentation, conversion, performance, SEO, and the
+    metrics and guardrails that go with them.
+  - Experience in legal, financial services, healthcare, or
+    another domain where correctness matters and outputs must
+    be defensibly right
+
+  For sales roles, the range provided is the role’s On Target
+  Earnings ("OTE") range, meaning that the range includes both
+  the sales commissions/sales bonuses target and annual base
+  salary for the role. This salary range may be inclusive of
+  several career levels at Eve and will be narrowed during the
+  interview process based on a number of factors, including
+  the candidate’s experience, qualifications, and location.
+
+  US Salary Range
+
+  $250,000—$300,000 USD
+
+  Benefits
+
+  💰 Competitive Salary & Equity 💹 401(k) Program with Employer
+  Matching ⚕️ Health, Dental, Vision and Life Insurance 🩼
+  Short Term and Long Term Disability 🚗 Commuter Benefits* 🧑‍💻
+  Autonomous Work Environment 🖥️ Workplace Setup Reimbursement
+  🏠 Telecomm Stipend 🏝 Flexible Time Off (FTO) + Holidays 🚀
+  Quarterly Team Gatherings 🥪 In office Perks*
+
+  *In office employees only
+
+  Eve Legal is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex (including pregnancy,
+  sexual orientation, or gender identity), national origin,
+  age, disability, genetic information, veteran status, or any
+  other characteristic protected by applicable local laws,
+  regulations and ordinances. If you need assistance and/or a
+  reasonable accommodation during the application process,
+  reach out to your recruiter.
+
+  We may use artificial intelligence (AI) tools to support
+  parts of the hiring process.  These tools assist our
+  recruitment team but do not replace human judgment. Final
+  hiring decisions are ultimately made by humans. If you would
+  like more information about how your data is processed,
+  please contact us.
+industries:
+  - Legal Tech
+  - Software
+  - Generative AI
+posted_date: 2026-08-08
+url: "https://www.builtinla.com/job/software-engineer-full-stack-gtm/9712123"
+source: Built In

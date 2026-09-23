@@ -1,0 +1,50 @@
+company:
+  name: Motive
+  stage: null
+  focus: Fleet management and safety platform for physical operations
+position:
+  title: AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds and optimizes computer vision/ML models
+      (training, model compression, embedded deployment, active
+      learning pipelines) for a dashcam fleet-safety product.
+      Model shaping is present, but the targets are classical
+      CV/DL with no LLM or agent component, so it is ml-first.
+  responsibilities:
+  - Evaluate and improve performance of existing models and algorithms in production
+  - Prototype and implement ML modules for complex AI features
+  - Build and optimize CV/ML algorithms for real-time performance on embedded AI dashcam
+    platform
+  - Write Python and C++ code for CV algorithms, ML services, training, model compression,
+    and porting pipelines
+  - Collaborate with Embedded, Backend, Frontend, Hardware, QA, and AI teams on robust
+    AI systems
+  - Build automated deployment, validation, and active learning pipelines
+  use_cases:
+  - Understanding driving behavior from truck dashcam video
+  - Identifying risk factors to improve fleet safety
+  - Suggesting coachable safety events for drivers
+  - Real-time computer vision on embedded AI dashcams
+  - Automated model deployment and validation across millions of trucks
+  skills:
+    genai: []
+    ml: [Machine Learning, Deep Learning, Model Training, Model Evaluation, Model
+        Compression]
+    web: []
+    databases: []
+    data: [Active Learning]
+    cloud: [AWS, SageMaker, AWS Lambda, AWS S3]
+    ops: [CI/CD, Terraform, Docker, Kubernetes]
+    languages: [Python, C++]
+    domains: [Computer Vision, Robotics]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11200259'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:26:23.210931'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

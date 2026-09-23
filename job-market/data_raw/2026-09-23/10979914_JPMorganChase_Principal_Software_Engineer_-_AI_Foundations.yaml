@@ -1,0 +1,230 @@
+job_id: 10979914
+title: Principal Software Engineer - AI Foundations
+company: JPMorganChase
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - Palo Alto, USA
+  - Jersey City, USA
+work_type: FULL_TIME
+company_size: 289,097 Employees
+description: |
+  As a Principal Software Engineer at JPMorganChase within the
+  Chief Data and Analytics Office (CDAO), you provide
+  expertise and engineering excellence as an integral part of
+  an agile team to enhance, build, and deliver trusted market-
+  leading technology products in a secure, stable, and
+  scalable way.
+
+  In this role, you will lead the design and evolution of the
+  firm’s GenAI serving platform, focused on high-performance
+  LLM inference, intelligent model routing, and GPU
+  efficiency, to deliver reliable, cost-effective AI
+  capabilities at enterprise scale. Leveraging your advanced
+  technical capabilities and collaborating with colleagues
+  across the organization you will drive best-in-class
+  outcomes across various technologies to support one or more
+  of the firm’s portfolios. Influence leaders and senior
+  stakeholders across business, product, and technology to
+  drive alignment and outcomes; foster a culture of diversity,
+  opportunity, inclusion, and respect.
+
+  Job Responsibilities
+
+  - Design, build, and operate a high-throughput, low-latency
+    LLM serving platform (batching, scheduling, caching,
+    streaming responses, multi-tenancy, and autoscaling)
+    across GPU/CPU fleets.
+  - Build and evolve a GenAI Gateway / inference API layer
+    (authentication, authorization, quota/rate limiting,
+    routing, request shaping, policy enforcement hooks, and
+    standardized observability) to support diverse application
+    workloads.
+  - Develop and optimize “open routing” / intelligent model
+    routing across multiple model backends (open-source and
+    vendor models), balancing quality, latency, reliability,
+    and cost with configurable policies and guardrails.
+  - Drive GPU serving optimization: kernel-level performance
+    tuning where needed; model compilation/acceleration (e.g.,
+    TensorRT-style approaches), efficient memory management,
+    KV-cache strategies, and throughput tuning (prefill vs.
+    decode optimization).
+  - Implement quantization and compression strategies (e.g.,
+    INT8/INT4, weight-only quantization), including
+    evaluation-driven selection and safe rollout practices
+    that preserve quality and reduce cost/latency.
+  - Design and implement disaggregated serving patterns (e.g.,
+    separating prefill/decode, KV-cache offload, tiered
+    serving) and distributed inference architectures to
+    improve utilization and tail latency.
+  - Develop secure, high-quality production code; review, debug,
+    and improve code written by others; create durable,
+    reusable frameworks and platform components leveraged
+    across teams, aligned to modern product development
+    methodologies.
+  - Own and support SDK and service integrations, ensuring
+    reliability, performance, and maintainability.
+  - Establish SLOs/SLAs for inference services and build
+    operational excellence (load testing, capacity planning,
+    incident response playbooks, regression detection, and
+    continuous performance benchmarking); build robust
+    performance and cost observability (latency histograms,
+    token throughput, GPU utilization, memory fragmentation,
+    cache hit rates, per-tenant cost attribution) and automate
+    remediation of recurring issues.
+  - Architect and govern agentic AI-enabled engineering
+    workflows (using enterprise-authorized tools within the
+    work environment) to improve delivery speed, code quality,
+    and operational outcomes at scale (e.g., AI-driven PR
+    review assistance, test generation/maintenance, release
+    readiness checks, incident triage and root-cause
+    acceleration), while defining guardrails for validation,
+    security, resiliency, and reuse across teams.
+  - Apply knowledge of tools within the Software Development
+    Life Cycle toolchain, including enterprise-authorized AI-
+    assisted development and automation capabilities, to
+    improve the value realized by automation at scale .
+
+  Required qualifications, capabilities, and skills
+
+  - Formal training or certification on software engineering
+    concepts with 7+ years applied experience including hands-
+    on delivery of system design, application development,
+    testing, and operational stability for large-scale
+    platforms and services.
+  - Expert proficiency in one or more programming languages
+    (e.g., Python, Java, Scala, Go) with strong code quality,
+    testing, and debugging practices.
+  - Demonstrated experience designing and leading adoption of
+    agentic AI-enabled development practices (using
+    enterprise-authorized tools within the work environment)
+    across teams, including setting standards for human-in-
+    the-loop validation, auditability/traceability of changes,
+    and secure handling of sensitive data.
+  - Strong understanding of responsible AI use and control
+    expectations in engineering workflows, including
+    security/resiliency implications, data sensitivity, and
+    risk-based governance; ability to influence senior
+    technical leaders on safe scaling patterns and reuse.
+  - Proven experience designing and operating high-scale
+    inference and distributed systems (multi-tenant services,
+    backpressure, load shedding, rate limiting, request
+    prioritization, and tail-latency reduction).
+  - Strong understanding of GPU-serving fundamentals
+    (compute/memory trade-offs, batching, concurrency, network
+    bottlenecks, and performance profiling) and experience
+    improving efficiency/utilization in production.
+  - Experience with model serving stacks and patterns (model
+    registries/artifacts, rollout strategies, canaries, A/B,
+    shadow traffic) and performance benchmarking
+    methodologies.
+  - Practical cloud-native experience (containers,
+    orchestration, IaC, observability) and experience
+    operating production systems with clear SLOs.
+  - Experience applying new methods to solve complex technology
+    problems across one or more technical disciplines
+    (platform engineering, ML systems, data engineering,
+    distributed systems).
+  - Strong communication skills: able to present to and
+    influence senior leaders/executives, translating complex
+    technical topics into clear decisions and trade-offs.
+  - Strong understanding of business outcomes and product
+    delivery, and ability to align platform roadmaps to
+    measurable impact.
+
+  Preferred qualifications, capabilities, and skills
+
+  - Deep experience with LLM inference optimization techniques
+    (e.g., speculative decoding, KV-cache management, paged
+    attention-style approaches, optimized sampling, continuous
+    batching).
+  - Practical experience with quantization and compression
+    toolchains (evaluation, calibration, regression testing,
+    production rollout) and understanding of
+    quality/performance trade-offs.
+  - Experience designing disaggregated serving architectures
+    (prefill/decode separation, cache offload, distributed
+    inference) and operating them at scale.
+  - Experience building model routing and governance layers
+    (policy-based routing, fallback strategies, circuit
+    breakers, per-tenant controls, cost-aware routing).
+  - Strong performance engineering background (profiling, flame
+    graphs, GPU profiling, bottleneck analysis) and production
+    tuning under real workload constraints.
+  - Experience with multi-tenant platforms, reusable frameworks,
+    and developer self-service capabilities at enterprise
+    scale.
+  - Strong security-by-design experience for ML/LLM systems
+    (secrets, access control, data handling, supply chain
+    controls) and resiliency engineering.
+
+  About Us
+
+
+
+    JPMorganChase, one of the oldest financial institutions,
+  offers innovative financial solutions to millions of
+  consumers, small businesses and many of the world’s most
+  prominent corporate, institutional and government clients
+  under the J.P. Morgan and Chase brands. Our history spans
+  over 200 years and today we are a leader in investment
+  banking, consumer and small business banking, commercial
+  banking, financial transaction processing and asset
+  management.
+
+
+
+
+  We offer a competitive total rewards package including base
+  salary determined based on the role, experience, skill set
+  and location. Those in eligible roles may receive
+  commission-based pay and/or discretionary incentive
+  compensation, paid in the form of cash and/or forfeitable
+  equity, awarded in recognition of individual achievements
+  and contributions. We also offer a range of benefits and
+  programs to meet employee needs, based on eligibility. These
+  benefits include comprehensive health care coverage, on-site
+  health and wellness centers, a retirement savings plan,
+  backup childcare, tuition reimbursement, mental health
+  support, financial coaching and more. Additional details
+  about total compensation and benefits will be provided
+  during the hiring process.
+
+
+
+
+
+  We recognize that our people are our strength and the
+  diverse talents they bring to our global workforce are
+  directly linked to our success. We are an equal opportunity
+  employer and place a high value on diversity and inclusion
+  at our company. We do not discriminate on the basis of any
+  protected attribute, including race, religion, color,
+  national origin, gender, sexual orientation, gender
+  identity, gender expression, age, marital or veteran status,
+  pregnancy or disability, or any other basis protected under
+  applicable law. We also make reasonable accommodations for
+  applicants’ and employees’ religious practices and beliefs,
+  as well as mental health or physical disability needs. Visit
+  our FAQs for more information about requesting an
+  accommodation.
+
+
+
+  JPMorgan Chase & Co. is an Equal Opportunity Employer,
+  including Disability/Veterans
+
+
+
+
+
+  About the TeamOur professionals in our Corporate Functions
+  cover a diverse range of areas from finance and risk to
+  human resources and marketing. Our corporate teams are an
+  essential part of our company, ensuring that we’re setting
+  our businesses, clients, customers and employees up for
+  success.
+posted_date: 2026-09-02
+url: "https://builtin.com/job/principal-software-engineer-ai-foundations/10979914"
+source: Built In

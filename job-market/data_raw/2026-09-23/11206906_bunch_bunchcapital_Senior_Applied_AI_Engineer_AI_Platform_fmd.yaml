@@ -1,0 +1,175 @@
+job_id: 11206906
+title: Senior Applied AI Engineer, AI Platform (f/m/d)
+company: bunch (bunch.capital)
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 72 Employees
+description: |
+  bunch is building the backbone of private markets. We are
+  enabling next-gen fund operations with one integrated system
+  that combines secure data infrastructure, AI-powered
+  workflows and expert fund services. If you value ownership,
+  growth through real responsibility, and working with a
+  thoughtful, ambitious team, this role might be for you.
+
+  Your Role
+
+  As a Senior Applied AI Engineer on our AI Platform team, you
+  take AI at bunch from working to relied upon. We already run
+  AI in production — a document extraction pipeline live in
+  fund operations, agent workflows on Mastra, evaluations, and
+  multi-provider fallback inside EU data residency. Fund
+  operations run on documents, deadlines and numbers that have
+  to be right — subscription documents to parse, capital calls
+  to chase, portfolio data to reconcile. You build on that
+  foundation: more agents taking that work off people's hands,
+  the evaluations that prove they can be trusted with it, and
+  the platform that lets every other team at bunch ship the
+  same way. This is end-to-end product engineering, not
+  research: you own architecture, evaluation, integration, and
+  deployment.
+
+  Top Priorities
+
+  - Build and ship agents. Design agents that automate real
+    fund-operations workflows, and own them from prototype
+    through production and after. They integrate with our
+    services, data model, and authorization system — they
+    don't sit beside the product as standalone prototypes.
+  - Evaluate and improve agent performance. Build the evaluation
+    layer: test cases built from real documents with the
+    output we expect, regression suites in CI, human review
+    where correctness is non-negotiable, and clear success
+    criteria for an agent completing a complex task end to
+    end. Then move the numbers that matter — accuracy,
+    latency, cost.
+  - Own the AI application architecture. Orchestration and
+    multi-agent design, tool contracts, memory, and context
+    engineering (RAG, MCP) with clear domain boundaries — plus
+    the guardrails, approvals, and human-in-the-loop controls
+    that anything touching investor money requires.
+  - Run it in production. Versioned, feature-flagged rollout of
+    agent versions; rate limits, provider fallback, and
+    regional failover within EU data residency; and the
+    observability to trace a failure across services and turn
+    it into a fix rather than a theory.
+  - Make it a platform, not a project. Document parsing and
+    extraction consolidates into this team, and shared
+    evaluation and observability become something other teams
+    consume rather than rebuild. You set the patterns other
+    engineers inherit, partner closely with DevX, and mentor
+    engineers across teams on agent and LLM practice.
+
+  Your First 90 Days
+
+  - Review our MCP offering end to end and ship it to the first
+    customers, with the access boundaries, evaluation and
+    observability a customer-facing surface needs.
+  - Stand up shared observability for our AI workloads — token
+    usage, estimated cost, latency, failures and retries per
+    provider — on a dashboard people actually open during an
+    incident.
+  - Publish v1 of our agent patterns (domain boundaries, tool
+    contracts, prompt and eval conventions), reviewed with
+    DevX and adopted by at least one team outside AI Platform.
+
+  About You
+
+  - Experience: 5+ years building production software, including
+    at least one agent or LLM-powered capability you took end
+    to end and still owned once it was live
+  - Agents: real depth in orchestration and context engineering
+    — tool contracts, memory, RAG, multi-agent design — with
+    Mastra, ai-sdk, LangGraph or similar. You've integrated
+    agents into a real product and its authorization model,
+    not built prototypes for someone else to productionise
+  - Evaluation: you know how to make a non-deterministic system
+    measurable, from test cases built on real data to
+    regression suites and human review, and you can tell the
+    difference between a model that improved and a benchmark
+    that got easier
+  - Production: you own what you ship. Reading traces,
+    diagnosing failure modes, tuning cost and latency,
+    handling provider rate limits and fallback without drama
+  - Backend: You have experience with TypeScript and/or Python.
+  - Platform mindset: you build for other engineers as much as
+    for end users, and the standards you set get adopted
+    because people trust you, not because they are written
+    down
+  - Pragmatic: you start from the business outcome, choose the
+    deterministic solution when it's the right one, and know
+    when good enough is good enough
+  - Experience in fintech, private markets, or another
+    regulated, document-heavy domain is a plus, as is working
+    under EU data-residency constraints
+
+  Our Tech Stack
+
+  - Frontend: TypeScript, Svelte and React
+  - Backend: Node.js, Nest.js
+  - Database: MySQL, PostgreSQL
+  - AI: Mastra, Vercel ai-sdk, Google Vertex (Gemini) with AWS
+    Bedrock fallback in EU regions
+  - Infrastructure: Kubernetes on AWS
+  - Observability: Datadog
+  - Auth & Internal tools: FusionAuth, Retool
+
+  Workplace & Benefits
+
+  - Customizable benefits package (wellbeing, sport, mobility,
+    food, and more)
+  - 28 days of vacation, plus 2 company days and local public
+    holidays
+  - Hybrid setup (3 days/week in office)
+  - Up to 6 remote calendar weeks a year
+  - A great tech and work setup
+  - Work with a diverse team of 130+ bunchies from 40+
+    countries, with leaders who are best-in-class in their
+    domains
+
+  Hiring Process
+
+  - People Team Interview (30 min) – Meet us and check initial
+    fit.
+  - Hiring Manager Interview (60 min) – Explore product-focused
+    culture, collaboration, ownership, self-awareness, and
+    quality standards.
+  - Technical Interviews (2 x 60 min) – Two technical
+    conversations, one with our engineers to discuss topics
+    like system and agent-design questions, and one focused on
+    core AI technical topics
+  - Final Round with our CTO Leandro (45 min) – Discuss ways of
+    working, bunch’s engineering vision, and team culture.
+
+  Questions? Reach out to Recruiting@bunch.capital
+
+  About bunch
+
+  bunch is building the operating infrastructure for the next
+  generation of private markets. We combine AI-powered
+  automation with deep regulatory expertise to replace
+  fragmented spreadsheets and manual processes with one
+  integrated platform across the fund lifecycle, purpose-built
+  for private markets heading toward $32 trillion in Assets
+  Under Management.
+
+  We've 4x our ARR in 2025, crossed 150 fund managers and
+  12,000 LPs on the platform, and just closed our $35M Series
+  B in May 2026. We're looking for ambitious people who want
+  real ownership of hard problems, and who care about building
+  infrastructure that actually matters to the people using it.
+
+  ____ At bunch, we're committed to an inclusive environment
+  where diversity is valued and celebrated. We provide equal
+  opportunities to all qualified applicants.
+
+  We process personal data in line with applicable laws
+  (including GDPR). See our Privacy Policy for details on your
+  rights and how to reach us.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-applied-ai-engineer-ai-platform-f-m-d/11206906"
+source: Built In

@@ -1,0 +1,43 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT staffing and technology services company
+position:
+  title: AI Data Engineer (GenAI | LLM | RAG | Python)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires expertise in GenAI, LLMs, and RAG and
+      building AI-enabled pipelines and enterprise AI
+      applications, which involves designing retrieval for LLMs —
+      shaping model output quality. No mention of classical ML
+      only, so it is ai-first.
+  responsibilities:
+  - Build AI-enabled data pipelines and enterprise AI applications
+  - Develop backend services and microservices with REST APIs
+  - Work with enterprise data platforms, SQL, and NoSQL databases
+  - Deploy and optimize AI models in production environments
+  - Apply Generative AI, LLMs, and RAG techniques in solutions
+  use_cases:
+  - Enterprise AI applications
+  - AI-enabled data pipelines
+  - Retrieval-augmented generation with enterprise data
+  skills:
+    genai: [Generative AI, LLMs, RAG]
+    ml: []
+    web: [REST APIs, Microservices]
+    databases: [SQL, NoSQL]
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Model Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234891'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:29:21.757435'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

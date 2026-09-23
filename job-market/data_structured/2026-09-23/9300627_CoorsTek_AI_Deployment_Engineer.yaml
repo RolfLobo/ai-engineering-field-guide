@@ -1,0 +1,56 @@
+company:
+  name: CoorsTek
+  stage: null
+  focus: Advanced ceramics manufacturing
+position:
+  title: AI Deployment Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and deploys production applications that may
+      include AI-enabled features, but the person does not shape
+      model behavior: no prompt design, RAG, agent flows, or model
+      training. Their AI involvement is reviewing AI-generated
+      code for correctness and using AI-assisted dev tools -
+      engineering work, not model shaping.
+  responsibilities:
+  - Design, develop, test, deploy, and support production applications and AI-enabled
+    solutions
+  - Serve as technical guide for business teams through design, prototyping, testing,
+    and deployment
+  - Manage solution delivery from discovery through deployment and early-life support
+  - Write clean, maintainable, secure code with disciplined software engineering practices
+  - Build application components across front end, services, APIs, integrations, and
+    data layers
+  - Review and validate AI-generated code for correctness, security, and production
+    readiness
+  - Partner with IT architecture, security, and data teams on enterprise standards
+  - Support citizen developers with guardrails and technical coaching
+  use_cases:
+  - AI-enabled applications for manufacturing operations
+  - Plant-facing applications and automation workflows
+  - Business process automation and integrations
+  - Data-driven internal tools across functions
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Databricks]
+    cloud: [Azure]
+    ops: [Git, Code Review]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [HMI/SCADA, Manufacturing Systems, OAuth]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9300627'
+  location: USA
+  locations:
+  - USA
+  - Ventura, USA
+  remote: true
+  extracted_at: '2026-09-23T11:37:50.479224'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

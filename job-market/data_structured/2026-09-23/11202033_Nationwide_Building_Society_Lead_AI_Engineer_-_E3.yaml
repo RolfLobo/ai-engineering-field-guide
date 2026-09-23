@@ -1,0 +1,54 @@
+company:
+  name: Nationwide Building Society
+  stage: null
+  focus: |-
+    UK mutual building society providing banking and financial
+    services
+position:
+  title: Lead AI Engineer - E3
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys agentic AI, RAG, vector search,
+      prompt engineering, guardrails, and LLM evaluation for
+      enterprise AI products - clearly shaping LLM behavior, so
+      ai-first. Classical ML tools (PyTorch etc.) are secondary.
+  responsibilities:
+  - Provide technical leadership for AI initiatives across Customer Operations
+  - Design and deploy enterprise-scale AI products using agentic AI, RAG, vector search
+    and ML
+  - Lead a blended team of AI engineers and vendor partners, driving delivery
+  - Establish best practices for AI engineering, LLMOps, security and Responsible
+    AI
+  - Influence AI strategy and accelerate adoption with architecture, security, risk
+    and business stakeholders
+  - Define CI/CD standards for AI solutions deployed to Azure AI Foundry
+  - Shape enterprise AI architecture, standards and governance
+  use_cases:
+  - Enterprise AI products for Customer Operations in banking
+  - Agentic AI and RAG-based solutions for customers and colleagues
+  - Semantic search and retrieval over enterprise knowledge
+  - Safe and governed AI adoption across the organisation
+  skills:
+    databases: [Vector Databases, Cosmos DB, Semantic Search]
+    domains: []
+    data: []
+    web: []
+    ml: [Machine Learning, PyTorch, TensorFlow, Keras, scikit-learn, Model Evaluation]
+    ops: [CI/CD, GitHub Actions, Azure DevOps]
+    other: [Responsible AI]
+    cloud: [Azure AI Foundry, Azure OpenAI, Azure AI Search]
+    languages: [Python]
+    genai: [Anthropic API, LLMs, OpenAI API, Agentic Workflows, RAG, LLMOps, Prompt
+        Engineering, Guardrails, Multi-Agent Systems, Embeddings, Llama]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11202033'
+  location: London, GBR
+  locations:
+  - London, GBR
+  - Northampton, GBR
+  extracted_at: '2026-09-23T11:26:35.637421'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

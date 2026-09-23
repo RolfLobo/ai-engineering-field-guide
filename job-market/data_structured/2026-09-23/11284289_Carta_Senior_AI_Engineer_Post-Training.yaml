@@ -1,0 +1,55 @@
+company:
+  name: Carta
+  stage: null
+  focus: Private capital platform and legal tech infrastructure
+position:
+  title: Senior AI Engineer, Post-Training
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role post-trains open-weight LLMs (SFT, preference
+      optimization, RL) and shapes model behaviour, evaluation,
+      and agent design end-to-end. LLM post-training is squarely
+      ai-first.
+  responsibilities:
+  - Post-train open-weight language models on proprietary legal data, owning the model
+    development lifecycle end-to-end
+  - Apply supervised fine-tuning, preference optimization, and reinforcement learning
+    with attention to reward and grader design
+  - Build training datasets and data pipelines including labeling guidance, model-generated
+    data, and human feedback loops
+  - Own the training stack and infrastructure, diagnosing and optimizing distributed
+    training runs
+  - Build and operate production systems including model serving, agents, and evaluation
+    pipelines
+  - Partner with product and agent engineers on model/system co-design
+  - Work directly with lawyers and domain experts to translate workflows into model,
+    data, and evaluation decisions
+  use_cases:
+  - Autonomous legal AI agents for contract workflows
+  - Document intelligence on legal documents
+  - Specialized legal language models trained on proprietary legal data
+  - Contract analysis and transaction support for legal teams
+  skills:
+    genai: [Fine-Tuning, LLMs, RLHF, AI Agents, LLM Evaluation]
+    ml: [PyTorch, Reinforcement Learning, Model Evaluation, Model Training, Distributed
+        Training]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Model Deployment]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11284289'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:35:50.296878'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: |-
+    AI safety and security observability platform protecting
+    Microsoft's AI estate
+position:
+  title: Principal Software Engineer - AI Safety and Security
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds security detection, observability, and data-
+      pipeline infrastructure around AI systems rather than
+      shaping model behavior. Detections and monitoring target
+      attacks on AI platforms, not output quality of a model the
+      person owns. Mentions of agentic tools and AI-assisted
+      coding are tools used, not products shaped.
+  responsibilities:
+  - Lead design and implementation of shared platform capabilities, guiding architecture
+    and writing critical production code
+  - Build company-wide AI observability and monitoring systems for attack reconstruction,
+    detection, threat hunting, and investigation
+  - Design detection infrastructure for attack signatures, pattern matching, behavioral
+    anomaly detection, and model-assisted analysis
+  - Build and operate large-scale distributed data processing systems (Spark, Kusto,
+    data lakes, streaming platforms)
+  - Develop high-volume data integrations and correlation pipelines turning multi-source
+    telemetry into investigation-ready evidence
+  - Drive security and privacy architecture reviews and technical partner conversations
+    through integration
+  - Review designs and code, mentor engineers and scientists, and raise the technical
+    bar
+  use_cases:
+  - AI security observability and attack detection across a large AI estate
+  - Attack reconstruction and investigation-ready evidence from multi-source telemetry
+  - Threat intelligence and behavioral anomaly detection for AI systems
+  - Safety and security monitoring for widely deployed AI platforms and agents
+  skills:
+    genai: [Copilots, Agent-Based Products, LLMs, Agentic Workflows, Embeddings, RAG]
+    ml: [Anomaly Detection]
+    web: []
+    databases: [Vector Databases]
+    data: [Spark, Kusto, Data Lakes, Data Pipelines, Batch and Streaming Platforms,
+      Databricks]
+    cloud: [Azure Data Factory]
+    ops: [Kubernetes, Infrastructure as Code, CI/CD, Distributed Systems]
+    languages: [C, C++, C#, Java, JavaScript, Python]
+    domains: []
+    other: [Threat Modeling, Incident Response, Threat Hunting]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11196870'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:26:00.123686'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

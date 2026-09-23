@@ -1,0 +1,155 @@
+job_id: 11070205
+title: Forward Deployed Engineer — Platform (AI)
+company: IFS
+location: Staines-upon-Thames, GBR
+work_type: FULL_TIME
+company_size: 6,788 Employees
+description: |
+  Company Description
+
+  At IFS, we're building the next generation of AI-native
+  enterprise software, transforming how some of the world's
+  largest organisations manage assets, operations and critical
+  services.
+
+  This is an opportunity to work at the forefront of modern AI
+  engineering, building intelligent products that combine
+  Large Language Models (LLMs), agentic AI and cloud-native
+  technologies to solve complex, real-world business
+  challenges at enterprise scale.
+
+  We're looking for engineers who are passionate about
+  building production AI systems and excited by the
+  opportunity to shape the future of enterprise software.
+
+  Please note that this role requires demonstrable, hands-on
+  experience designing, building and shipping production AI
+  applications.
+
+  Candidates whose AI experience is limited to using tools
+  such as ChatGPT, Claude, Cursor or GitHub Copilot to assist
+  software development, without demonstrable experience
+  building AI-powered products or systems, will not meet the
+  requirements for this role.
+
+  IFS is a billion-dollar revenue company with 7000+ employees
+  on all continents. We deliver award-winning enterprise
+  software solutions through the use of embedded digital
+  innovation and a single cloud-based platform to help
+  businesses be their best when it really matters–at the
+  Moment of Service™.
+
+  At IFS, we're flexible, we're innovative, and we're focused
+  not only on how we can engage with our customers, but on how
+  we can make a real change and have a worldwide impact. We
+  help solve some of society's greatest challenges, fostering
+  a better future through our agility, collaboration, and
+  trust.
+
+  We celebrate diversity and accept that there are so many
+  different perspectives in this world. As a truly
+  international company serving people from around the globe,
+  we realize that our success is tantamount to the respect we
+  have for those different points of view.
+
+  By joining our team, you will have the opportunity to be
+  part of a global, diverse environment; you will be joining a
+  winning team with a commitment to sustainability; and a
+  company where we get things done so that you can make a
+  positive impact on the world.
+
+  We're looking for innovative and original thinkers to work
+  in an environment where you can #MakeYourMoment so that we
+  can help others make theirs.
+
+  If you want to change the status quo, we'll help you make
+  your moment. Join Team Purple. Join IFS.
+
+  Job Description
+
+  As a Forward Deployed Engineer, Platform, you embed directly
+  with product development teams and customer organisations to
+  understand real problems, design real solutions, and own the
+  outcome. You are a force multiplier for developer velocity
+  and platform adoption, working at the sharp end, in the
+  code, unblocking teams, and building the patterns and
+  tooling that make platform adoption feel effortless.
+
+  This is a high-agency role for a hands-on senior engineer
+  who thrives in ambiguity and moves fast.
+
+  - Embed directly with product teams and customer engineering
+    organisations to maximise developer velocity and reduce
+    GTM timelines
+  - Lead technical discovery, identify the actual bottleneck,
+    not the presenting symptom
+  - Along with a dedicated Architecture team, design and build
+    production-grade solutions on the IFS Cloud platform:
+    workflows, integrations, event-driven patterns, and data
+    pipelines
+  - Identify, diagnose, and resolve platform friction points
+    preventing teams from shipping at speed
+  - Champion and implement event-driven architecture patterns
+    across product teams
+  - Build tooling, patterns, and reference implementations that
+    accelerate adoption of Kairos and Nexus, reusable assets
+    that scale your impact beyond the teams you work with
+    directly
+  - Ship a working first version fast, then harden it: proper
+    monitoring, iteration based on real usage, production
+    quality
+  - Work alongside the dedicated NGA architecture team to drive
+    the requirements for the Internal Developer Platform
+    (IDP), the core developer experience touchpoint through
+    which product teams will consume Kairos and Nexus
+  - Translate product team pain points into actionable platform
+    feedback and roadmap input
+  - Work directly with customer architects, IT leads, and
+    business stakeholders, going deep in code while
+    communicating clearly about trade-offs
+  - Be the connective tissue between IFS R&D and the teams
+    consuming the platform, your field insights shape what
+    gets built next
+
+  Qualifications
+
+  - You have 5+ years of software development experience, with
+    strong hands-on capability across the stack:
+    - Backend: Go
+    - Frontend: React (with Next.js)
+    - Messaging / Streaming: Apache Kafka / RedPanda
+    - Data: PostgreSQL
+  - You’re comfortable operating in a cloud-native environment:
+    Kubernetes, containers, GitOps, IaC, Software Defined
+    Infrastructure
+  - You have a solid understanding of event-driven and
+    distributed systems architecture, and you apply it
+    pragmatically in delivery contexts
+  - You’ve built and owned production systems (not just
+    prototypes) and know how to debug things that go wrong in
+    the real world
+  - You thrive in ambiguity, you can turn a fuzzy problem into a
+    scoped, shipped system without waiting to be asked
+  - You communicate well with non-technical stakeholders without
+    dumbing it down
+  - You have experience working in or alongside platform or
+    infrastructure teams
+  - Customer-facing technical work is in your background, you
+    know how to build trust with engineering teams outside
+    your own
+
+  Additional Information
+
+  We embrace flexibility and hybrid work opportunities to
+  support diverse needs and lifestyles, while also valuing
+  inclusive workplace experiences. By fostering a sense of
+  community, we drive innovation, strengthen connections, and
+  nurture belonging. Our commitment ensures you can work in a
+  way that suits you best, while also engaging with colleagues
+  to share ideas and build meaningful relationships.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-09-09
+url: "https://builtin.com/job/forward-deployed-engineer-platform-ai/11070205"
+source: Built In

@@ -1,0 +1,177 @@
+job_id: 11130498
+title: Senior Microsoft Power Platform and AI Developer
+company: Methods
+location: London, GBR
+work_type: FULL_TIME
+company_size: 552 Employees
+description: |
+  This role will be mainly remote but require flexibility to
+  travel to client sites, and our offices based in London,
+  Sheffield, and Bristol.
+
+  About the role
+
+  As a Senior Microsoft Power Platform and AI Developer, you
+  will work with users, product teams, engineers, architects,
+  security and operational colleagues to turn complex needs
+  into reliable services. You will take technical ownership of
+  significant components and end-to-end solutions and guide
+  decisions across low-code, pro-code, integration and AI
+  patterns.
+
+  A major part of the role is engineering AI agents and
+  agentic workflows. You will design how agents use trusted
+  knowledge, approved tools, Model Context Protocol (MCP)
+  services, approvals, human hand-offs and safe failure paths.
+  You will ensure that evaluation, observability, identity,
+  permissions and data boundaries are built into delivery
+  rather than added later.
+
+  You will review code and designs, mentor developers, improve
+  engineering practices and support live services. You should
+  be able to challenge inappropriate use of low-code or AI and
+  select a simpler or more supportable approach where evidence
+  supports it.
+
+  Key responsibilities
+
+  •  Lead the design, build, test, deployment and support of
+  solutions using Power Apps, Power Automate, Dataverse,
+  Copilot Studio and appropriate pro-code extensions.
+
+  •  Engineer AI agents and agentic workflows using trusted
+  knowledge, tools, actions, approvals, human hand-offs,
+  evaluation and safe failure paths.
+
+  •  Design and implement integrations with approved MCP
+  servers and lead development of MCP tools or services using
+  secure, reusable patterns.
+
+  •  Integrate Power Platform and AI solutions with Microsoft
+  365, SharePoint, Microsoft Graph, Azure services and
+  enterprise systems using connectors, APIs and event-based
+  patterns.
+
+  •  Apply grounding, retrieval-augmented generation,
+  structured outputs, tool calling and model-selection
+  patterns with appropriate evaluation and operational
+  controls.
+
+  •  Create custom connectors, plug-ins and Azure-hosted
+  components where low-code capability is insufficient,
+  choosing technologies based on need, risk and
+  supportability.
+
+  •  Set and apply engineering standards for source control,
+  solution packaging, environment strategy, automated testing,
+  CI/CD, monitoring and release management.
+
+  •  Lead technical investigation of complex live-service
+  faults and improve resilience, performance, accessibility,
+  security and observability.
+
+  •  Review designs and code, mentor developers and contribute
+  reusable components, patterns and learning to the wider
+  engineering community.
+
+  Requirements
+
+  •  Substantial hands-on experience designing, building and
+  releasing production solutions with Power Apps, Power
+  Automate, Dataverse and Copilot Studio.
+
+  •  Experience leading development of AI agents or agentic
+  workflows that use knowledge, tools and actions to complete
+  meaningful tasks safely.
+
+  •  Experience integrating or developing MCP servers and
+  tools, or equivalent tool-based agent integration patterns,
+  including troubleshooting identity, permissions and data
+  flow.
+
+  •  Strong API and integration skills, including REST/JSON,
+  custom connectors, OAuth 2.0, Microsoft Entra ID and secure
+  secrets management.
+
+  •  Pro-code engineering capability in one or more languages
+  such as TypeScript/JavaScript, C# or Python, with experience
+  extending low-code services appropriately.
+
+  •  Strong software engineering practice, including testing,
+  version control, code review, documentation, CI/CD,
+  observability and supporting live services.
+
+  •  Ability to lead technical decisions for medium-to-high
+  complexity work, communicate trade-offs and escalate
+  architecture or security risks appropriately.
+
+  •  Practical understanding of security, data protection,
+  accessibility and responsible AI controls for enterprise
+  applications and agents.
+
+  Desirable criteria
+
+  •  Experience with Azure Functions, Logic Apps, API
+  Management, Key Vault, Application Insights, Azure AI
+  services or comparable cloud components.
+
+  •  Experience with retrieval-augmented generation, vector
+  search, embeddings, enterprise search and evaluation of
+  grounded responses.
+
+  •  Experience with agent observability, tracing, prompt and
+  version management, red teaming or automated quality and
+  safety testing.
+
+  •  Experience integrating Microsoft Graph, SharePoint, Power
+  BI, Fabric or other Microsoft enterprise services.
+
+  •  Experience defining Power Platform environment, solution,
+  data-loss-prevention and application lifecycle management
+  patterns.
+
+  •  Relevant Microsoft certifications, or experience
+  delivering technology in government, justice, regulated or
+  security-conscious environments.
+
+  This role will require you to have or be willing to go
+  through Security Clearance. As part of the onboarding
+  process candidates will be asked to complete a Baseline
+  Personnel Security Standard; details of the evidence
+  required to apply may be found on the government website
+  Gov.UK. If you are unable to meet this and any associated
+  criteria, then your employment may be delayed, or rejected.
+  Details of this will be discussed with you at interview.
+
+  Benefits
+
+  By joining us you can expect
+
+  - Autonomy to develop and grow your skills and experience
+  - Be part of exciting project work that is making a difference
+    in society
+  - Strong, inspiring and thought-provoking leadership
+  - A supportive and collaborative environment
+
+  As well as this, we offer:
+
+  - Development access to LinkedIn Learning, a management
+    development programme and training
+  - Wellness 24/7 Confidential employee assistance programme
+  - Social - Breakfast Tuesdays, Thirsty Thursdays and Pizza on
+    the last Thursday of each month as well as commitment to
+    charitable causes
+  - Time off 25 days a year
+  - Pension Salary Exchange Scheme with 4% employer contribution
+    and 5% employee contribution
+  - Life Assurance of 4 times base salary
+  - Private Medical Insurance which is non-contributory (spouse
+    and dependants included)
+  - Worldwide Travel Insurance which is non-contributory (spouse
+    and dependants included)
+industries:
+  - Information Technology
+  - Social Impact
+posted_date: 2026-09-11
+url: "https://builtin.com/job/senior-microsoft-power-platform-and-ai-developer/11130498"
+source: Built In

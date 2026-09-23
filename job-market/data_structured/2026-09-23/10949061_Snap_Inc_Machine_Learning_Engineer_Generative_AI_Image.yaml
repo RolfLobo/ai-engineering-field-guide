@@ -1,0 +1,53 @@
+company:
+  name: Snap Inc.
+  stage: null
+  focus: Visual messaging and camera-based social apps
+position:
+  title: Machine Learning Engineer, Generative AI (Image & Video)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior by building GenAI pipelines,
+      evaluating open-source models and AI APIs, and refining
+      models through A/B testing and user feedback, with LLMs
+      explicitly listed alongside image/video generation. Per the
+      rule that a role shaping both LLM and classical/generative
+      ML systems is ai-first, this classifies as ai-first.
+  responsibilities:
+  - Develop ML products and AI Lenses serving millions of daily Snapchatters, focused
+    on image and video generation/editing and LLMs
+  - Build augmented reality experiences with diffusion and flow matching models
+  - Build state-of-the-art GenAI pipelines for image and video generation and ship
+    consumer-facing solutions quickly
+  - Collaborate with Product, Software Engineering, Lens Content, and Data Science
+    teams to prototype ideas, integrate ML models and APIs into production, and refine
+    through A/B testing and user feedback
+  - Monitor research landscape for GenAI developments, evaluating open-source models
+    and third-party AI APIs/services to inform build-vs-buy decisions
+  - Evaluate open-source Gen AI models and APIs and the visual quality of image and
+    video models
+  use_cases:
+  - AI Lenses for image and video generation and editing in a consumer app
+  - Augmented reality experiences powered by diffusion and flow matching models
+  - LLM-powered features for Snapchatters
+  - Visual quality evaluation of image and video generative models
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: [Machine Learning, Deep Learning, Diffusion Models, Generative Models, Neural
+        Rendering, Segmentation, Object Detection, Tracking, Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C++]
+    domains: [Computer Vision]
+    other: [Computer Graphics, A/B Testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10949061'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:08:42.871412'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

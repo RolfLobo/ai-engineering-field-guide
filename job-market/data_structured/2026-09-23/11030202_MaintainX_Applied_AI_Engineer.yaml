@@ -1,0 +1,57 @@
+company:
+  name: MaintainX
+  stage: null
+  focus: |-
+    Mobile-first work execution platform for industrial
+    frontline teams
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, schemas, evals, and context
+      assembly for LLM generation recipes (SOPs from multimodal
+      inputs), directly shaping model output quality. LLM-centric
+      work with structured outputs and RAG patterns.
+  responsibilities:
+  - Design and iterate recipe prompts (system, few-shot, context assembly) for each
+    generation recipe
+  - Define per-entity target schemas and domain validators that generated output must
+    pass
+  - Build generation-quality eval datasets and rubrics, offline and online, on LLMX's
+    eval pipeline, closing the loop on regressions
+  - Assemble multimodal context windows from keyframes, transcripts, and OCR for model
+    calls
+  - Choose model and token budget per recipe based on quality, cost, and latency tradeoffs
+  use_cases:
+  - Converting customer documents (PDFs, videos, images, audio) into structured maintenance
+    knowledge
+  - Generating schema-valid entities such as SOPs from multimodal primitives (keyframes,
+    transcripts, OCR)
+  - Document intelligence for industrial maintenance and work execution
+  - Ensuring trustworthy generated entities feeding downstream domain products
+  skills:
+    genai: [Prompt Engineering, Structured Outputs, Function Calling, RAG, LLM Evaluation,
+      Fine-Tuning, LLMs, Generative AI]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [LLM Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11030202'
+  location: Austin, USA
+  locations:
+  - Austin, USA
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:13:54.695251'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

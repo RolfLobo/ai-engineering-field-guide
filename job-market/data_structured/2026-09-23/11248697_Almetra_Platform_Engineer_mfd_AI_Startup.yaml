@@ -1,0 +1,47 @@
+company:
+  name: Almetra
+  stage: null
+  focus: AI software for manufacturing
+position:
+  title: Platform Engineer (m/f/d) (AI Startup)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is DevOps/platform engineering — cloud
+      infrastructure, CI/CD, Kubernetes, observability — with no
+      model shaping work. ML infrastructure support is only a
+      nice-to-have, and AI exposure is mentioned as incidental.
+  responsibilities:
+  - Design and maintain AWS cloud infrastructure using Terraform
+  - Own and improve CI/CD pipelines for fast, safe deployments
+  - Manage and scale Kubernetes clusters
+  - Improve developer experience for shipping and debugging
+  - Implement monitoring, logging and alerting for observability
+  - Configure and optimise CDN infrastructure
+  use_cases:
+  - Cloud infrastructure and platform operations for an AI software company serving
+    manufacturing
+  - Developer experience and deployment reliability for engineering and data science
+    teams
+  - Scalable infrastructure supporting production AI/ML systems
+  skills:
+    genai: []
+    ml: [Model Training]
+    web: []
+    databases: [PostgreSQL, MySQL, TimescaleDB]
+    data: []
+    cloud: [AWS, CloudFront, Cloudflare]
+    ops: [Terraform, CI/CD, Kubernetes, GitHub Actions, GitLab CI, Jenkins, Linux,
+      Infrastructure as Code, Prometheus, Monitoring, Observability, MLOps, Model
+        Deployment]
+    languages: []
+    domains: []
+    other: [Fastly]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11248697'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:31:49.520293'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

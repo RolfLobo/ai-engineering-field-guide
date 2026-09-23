@@ -1,0 +1,59 @@
+company:
+  name: Leachman Cattle
+  stage: null
+  focus: Dairy farm management software and data solutions
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and evaluates agents (behavioral tests,
+      agent debugging, benchmarking orchestration frameworks),
+      fine-tunes and monitors models, and works with agentic
+      architectures and MCP - clear LLM/agent shaping work, making
+      it ai-first.
+  responsibilities:
+  - Lead building of scalable real-time production AI/ML applications delivering actionable
+    intelligence on dairy farms
+  - Identify and drive AI adoption opportunities across the organization, establishing
+    KPIs and an AI Center of Excellence
+  - Serve as AI technical SME and conduct R&D, assessing emerging AI tools
+  - Establish AI governance frameworks and guardrails covering compliance, security,
+    privacy, and ethics
+  - Build unit and behavioral tests for agents, tools, and workflows; develop trace
+    analysis, agent state debugging, and hallucination tracking tooling
+  - Benchmark agent orchestration frameworks for speed, reliability, and usability
+    trade-offs
+  - Integrate, deploy, fine-tune, and monitor models in production on cloud platforms,
+    with agent logging, observability dashboards, and recovery workflows
+  - Wrangle messy legacy enterprise data; perform feature engineering and model selection/evaluation;
+    collaborate on or build React/TypeScript front-end components
+  use_cases:
+  - Actionable intelligence for dairy farm management from decades of longitudinal
+    herd data
+  - Real-time production AI applications for on-farm decision-making
+  - Agent-based AI tooling with evaluation, observability, and governance for enterprise
+    workflows
+  - Feature engineering and modeling over messy legacy structured and unstructured
+    farm data
+  skills:
+    genai: [Generative AI, Agentic Workflows, MCP]
+    ml: [Machine Learning, Feature Engineering, Model Evaluation, Fine-Tuning, Model
+        Deployment, Deep Learning, Model Monitoring, Statistics]
+    web: [React]
+    databases: []
+    data: [Data Engineering, Databricks]
+    cloud: [AWS]
+    ops: [Observability]
+    languages: [TypeScript]
+    domains: []
+    other: [Operations Research]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11299798'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:35:37.661207'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

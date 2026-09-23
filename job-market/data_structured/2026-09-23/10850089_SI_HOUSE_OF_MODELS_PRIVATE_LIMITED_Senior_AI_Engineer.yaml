@@ -1,0 +1,44 @@
+company:
+  name: SI HOUSE OF MODELS PRIVATE LIMITED
+  stage: null
+  focus: AI agents powering the ecommerce stack
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG, embeddings, vector search, and fine-
+      tuning workflows for LLM-powered features, which is directly
+      shaping LLM behavior. LLM/agent components are involved, so
+      it is ai-first.
+  responsibilities:
+  - Integrate and scale LLMs and vision models in production
+  - Build AI pipelines with performance and cost in mind
+  - Own real-time inference and fine-tuning workflows
+  - Work on embeddings, RAG, and vector search
+  - Optimize model usage across cloud platforms
+  - Collaborate with product and backend teams
+  use_cases:
+  - Ecommerce personalization
+  - Product search
+  - Campaign generation
+  - AI agents for the ecommerce stack
+  skills:
+    genai: [LLMs, Generative AI, RAG, Embeddings, OpenAI API, Anthropic API, CrewAI]
+    ml: [Diffusion Models, Fine-Tuning, DiTs, Computer Vision]
+    web: [APIs]
+    databases: [Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Git, CI/CD, Docker, Infrastructure as Code]
+    languages: [Python, Node.js]
+    domains: []
+    other: [Agile, n8n, ComfyUI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10850089'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:02:27.714776'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: SmartDocs Inc
+  stage: null
+  focus: Scalable software products with AI-integrated workflows
+position:
+  title: Sr. Software Developer - Java & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Java backend developer that integrates AI APIs
+      (OpenAI, Claude) into products and uses AI coding tools like
+      Claude Code. It does not shape model behaviour through
+      prompts, retrieval, agent design, or fine-tuning — it
+      consumes APIs and builds surrounding software.
+  responsibilities:
+  - Design, develop, and deploy scalable Java applications across the full SDLC
+  - Build microservices and RESTful APIs with Spring and Spring Boot
+  - Integrate AI APIs (OpenAI, Claude) and automation pipelines into products
+  - Use Claude Code for AI-assisted development, code review, and rapid iteration
+  - Prototype frontend UI components with Lovable
+  - Troubleshoot, debug, and improve existing systems
+  - Mentor junior developers and contribute to engineering best practices
+  use_cases:
+  - AI-integrated document/product features via OpenAI and Claude APIs
+  - Automation pipelines for intelligent product features
+  - Scalable backend microservices for product engineering
+  - Rapid frontend UI prototyping
+  skills:
+    genai: [OpenAI API, Anthropic API, Claude Code, LLMs]
+    ml: [Machine Learning]
+    web: [Spring Boot, Microservices, REST APIs, J2EE, JSP, JavaScript, HTML, CSS,
+      XML]
+    databases: [MongoDB, SQL, NoSQL]
+    data: []
+    cloud: []
+    ops: [Linux]
+    languages: [Java]
+    domains: []
+    other: [Lovable]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151099'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:22:38.139683'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

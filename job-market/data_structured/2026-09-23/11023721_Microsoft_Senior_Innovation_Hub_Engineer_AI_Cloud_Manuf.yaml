@@ -1,0 +1,53 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud and AI technology for enterprise customers
+position:
+  title: Senior Innovation Hub Engineer | AI, Cloud & Manufacturing
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role designs architectures and runs workshops advising
+      customers on AI adoption, but there's no evidence the person
+      shapes model behavior through prompts, retrieval, agent
+      design, or training. AI is used as an advisory/solution-
+      architecture topic, so it's ai-support. Customer-facing
+      explicitly.
+  responsibilities:
+  - Lead customer workshops, strategy sessions and innovation engagements focused
+    on AI and digital transformation
+  - Advise executive stakeholders on using AI, data and cloud technologies to achieve
+    business outcomes
+  - Design scalable, secure, high-impact solution architectures for complex business
+    challenges
+  - Partner across sales, engineering and technical teams to drive customer success
+    and adoption
+  - Act as trusted technical advisor connecting innovation to measurable business
+    value
+  - Build prototypes, proof of concepts and solution demonstrations for enterprise
+    customers
+  use_cases:
+  - AI transformation for manufacturing organizations
+  - Digital transformation strategy and adoption
+  - Smart factory and Industry 4.0 initiatives
+  - Enterprise AI, data and cloud solution architectures
+  skills:
+    databases: []
+    domains: [Manufacturing Industry Expertise]
+    data: [Data]
+    web: []
+    ml: []
+    ops: []
+    other: [System Design, Technical Pre-Sales, Industry 4.0, Smart Factory, IT/OT
+        Transformation]
+    cloud: [Cloud]
+    languages: []
+    genai: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11023721'
+  location: Schiphol, NLD
+  extracted_at: '2026-09-23T11:13:01.792598'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: Optum
+  stage: null
+  focus: |-
+    Healthcare services, pharmacy benefits, and care delivery
+    technology
+position:
+  title: Lead AI or ML Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role runs and operates AI/ML systems others shape:
+      model-serving APIs, CI/CD, containers, monitoring, and drift
+      detection. Preferred RAG/GenAI experience is a bonus, not
+      core responsibility. The deliverable is capacity and
+      reliability, not model behaviour.
+  responsibilities:
+  - Lead productization of AI/ML systems on Azure and other cloud platforms from experimentation
+    to deployment
+  - Define architecture and standards for data pipelines, learning workflows, and
+    model-serving APIs
+  - Design, deploy, and operate production model-serving APIs across batch and real-time
+    patterns with defined SLAs
+  - Build Python-based automation, tooling, and services supporting AI/ML workflows
+  - Define and maintain CI/CD pipelines and engineering standards for AI/ML workflows
+  - Containerize and orchestrate AI/ML workloads with Docker and Kubernetes, infrastructure
+    as code
+  - Own Dev/Stage/Prod environments on Azure and govern model artifacts, registries,
+    and feature stores
+  - Monitor system health, data drift, and model drift; own post-deployment support
+    and incident response
+  use_cases:
+  - Production AI/ML model serving in healthcare
+  - Data drift and model drift monitoring for ML systems
+  - Automated AI/ML deployment pipelines in a regulated healthcare environment
+  - GenAI platform engineering with RAG and vector databases
+  skills:
+    genai: [RAG, Generative AI]
+    ml: [Machine Learning, MLOps]
+    web: []
+    databases: [Vector Databases, NoSQL]
+    data: [Kafka]
+    cloud: [Azure]
+    ops: [CI/CD, GitHub Actions, Docker, Kubernetes, Model Deployment, Monitoring,
+      Infrastructure as Code, Terraform, MLflow, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11236271'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:30:43.935523'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

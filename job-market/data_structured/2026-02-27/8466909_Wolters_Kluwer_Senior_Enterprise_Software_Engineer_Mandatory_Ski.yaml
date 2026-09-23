@@ -1,0 +1,62 @@
+company:
+  name: Wolters Kluwer
+  stage: null
+  focus: |-
+    Enterprise software and information services (GBS
+    engineering, cloud IT automation)
+position:
+  title: Senior Enterprise Software Engineer (Mandatory Skills - Python, Azure/AWS,
+    Gen Ai)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Although the role is primarily an enterprise cloud engineer,
+      it explicitly includes integrating LLM-powered features,
+      applying prompt engineering and evaluation, and designing
+      agentic workflows for AI usage — which is shaping LLM
+      behaviour, making it ai-first. AI assistants for coding
+      alone would be ai-support, but the described
+      prompt/evaluation/agent work tips it over.
+  responsibilities:
+  - Design, develop, test, and document enterprise cloud services automating IT Operations
+    at scale
+  - Build resilient full-stack services, APIs, and UIs with Python (FastAPI/Django/Flask)
+    and TypeScript/React
+  - Build cloud automation using Azure and AWS SDKs, event-driven designs, and serverless
+    functions
+  - Integrate LLM-powered features safely with prompt engineering and evaluation;
+    use AI assistants for code generation
+  - Author Terraform modules and CI/CD pipelines for hands-free deployments and repeatable
+    environments
+  - Mentor engineers, lead complex technical problem solving, and drive projects to
+    completion
+  - Design contract-first REST/GraphQL APIs and model relational and NoSQL data
+  - Design and optimize AI agent workflows and establish standards for validating
+    AI-generated code
+  use_cases:
+  - Automating traditional IT Operations tasks at scale via enterprise cloud services
+  - Platform automation and programmability across Azure and AWS
+  - LLM-powered features integrated safely into applications
+  - AI agent workflows for developer and team efficiency
+  skills:
+    genai: [LLMs, Prompt Engineering, LLM Evaluation, Agentic Workflows, Generative
+        AI]
+    ml: []
+    web: [FastAPI, Django, Flask, React, GraphQL, REST APIs, APIs]
+    databases: [NoSQL, Relational Databases]
+    data: [Kafka, Kinesis]
+    cloud: [Azure, AWS, Azure OpenAI]
+    ops: [Terraform, Ansible, CI/CD, Azure DevOps, GitLab CI, Jenkins, GitHub, Kubernetes,
+      MLOps, Observability, Event-Driven Architecture]
+    languages: [Python, TypeScript, Java, Node.js, Ruby]
+    domains: []
+    other: [Responsible AI, SOLID Principles, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8466909'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:44:34.604705'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

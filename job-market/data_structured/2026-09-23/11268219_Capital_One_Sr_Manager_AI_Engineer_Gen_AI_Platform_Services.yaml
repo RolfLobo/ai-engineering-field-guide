@@ -1,0 +1,61 @@
+company:
+  name: Capital One
+  stage: null
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+position:
+  title: 'Sr. Manager, AI Engineer (Gen AI Platform Services: Agentic AI, Guardrails,
+    Evaluation)'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role oversees design of Gen AI platform services
+      including guardrails, model evaluation, LLM inference, and
+      agentic workflows — directly shaping LLM behavior and output
+      quality, including foundation model optimization. It is also
+      a people-management role, but the technical work is LLM-
+      centric, making it ai-first.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, scientists, and product managers
+    to deliver AI-powered products
+  - Oversee design, development, testing, deployment, and support of AI software components
+    including LLM inference, similarity search, guardrails, and model evaluation
+  - Make build-vs-buy decisions across open source and SaaS AI technologies
+  - Introduce foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Attract and retain AI talent and mentor team professional development
+  - Operationalize Responsible AI with review gates, evaluation requirements, and
+    rollout/rollback standards
+  - Translate enterprise AI goals into team roadmaps with measurable outcomes
+  use_cases:
+  - Agentic AI platform services for banking applications
+  - Guardrails and model evaluation for production LLM systems
+  - Real-time personalized customer experiences in banking
+  - Fraud and unusual-charge detection and customer notifications
+  - Similarity search and LLM inference infrastructure for enterprise AI products
+  skills:
+    genai: [Guardrails, LLM Evaluation, Agentic Workflows, AI Agents]
+    ml: [Foundation Model Training, Hugging Face, PyTorch, CUDA, LLMs, Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Model Deployment, MLOps, Model Monitoring, Monitoring]
+    languages: [Python, C++, C#, Java, Go]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11268219'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:33:24.624825'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

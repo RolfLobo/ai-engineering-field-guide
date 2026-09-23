@@ -1,0 +1,52 @@
+company:
+  name: Casper Studios
+  stage: null
+  focus: AI consulting services helping enterprises adopt AI
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer prototypes with LLMs, builds evals and error
+      analysis on LLM outputs, and hardens LLM products into
+      production - that is shaping model behavior and output
+      quality, with an LLM component, so ai-first. Data
+      engineering and serving are secondary.
+  responsibilities:
+  - Own AI product builds end to end, from concept through production, on client engagements
+  - Gather requirements, pressure-test stakeholder asks, and prioritize work
+  - Prototype fast with LLMs, then harden into production with data pipelines, integrations,
+    and evals
+  - Build data pipelines for enterprise ingestion, data modeling, and ETL
+  - Serve as primary technical contact for clients, working with their engineers and
+    executives
+  - Instrument products with analytics and error analysis and iterate on real usage
+  - Own reliability, security, and cost including auth, secrets, and PII handling
+  - Write up learnings for the team, clients, and publicly
+  use_cases:
+  - Enterprise document processing
+  - Workflow automation
+  - Computer vision applications
+  - Financial research tooling
+  - Contact-center AI solutions
+  skills:
+    databases: []
+    domains: [Computer Vision]
+    data: [Data Pipelines, Data Modeling, Data Engineering, Airflow, Dagster, Inngest,
+      Prefect]
+    web: [OAuth, Full-Stack Development]
+    ml: [Machine Learning, Computer Vision, Model Evaluation]
+    ops: [CI/CD, Observability]
+    other: []
+    cloud: []
+    languages: [TypeScript]
+    genai: [LLMs, LLM Evaluation, Claude Code]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11114096'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:19:31.265581'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

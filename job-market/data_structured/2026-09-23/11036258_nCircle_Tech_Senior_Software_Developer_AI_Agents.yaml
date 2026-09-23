@@ -1,0 +1,47 @@
+company:
+  name: nCircle Tech
+  stage: null
+  focus: Data and automation infrastructure for decision making
+position:
+  title: Senior Software Developer (AI Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and productionizes LLM agents
+      including tool-use loops, RAG design, agent evaluation, and
+      guardrails — direct shaping of LLM behavior. Hence ai-first.
+  responsibilities:
+  - 'Design, build, and productionize LLM agents: tool-use loops, retrieval, orchestration,
+    evaluation, and guardrails'
+  - Write production-grade services and APIs around agents in Python and Node/TypeScript
+  - Deploy and operate services on AWS with Infrastructure as Code and CI/CD
+  - Build and run Databricks notebooks and Jobs end-to-end
+  - Write Delta Lake operations (MERGE, overwrite, schema evolution) within Unity
+    Catalog
+  - Contribute via feature branches, code review, and Conventional Commits
+  - Navigate and debug existing data pipelines
+  use_cases:
+  - LLM-powered agents for business decision support
+  - Retrieval-augmented (RAG) question answering and search
+  - Tool-use agent loops in production
+  - Data and automation infrastructure on Databricks
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, RAG, Guardrails, LLM Evaluation, LangChain,
+      CrewAI, MCP, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: [Unity Catalog]
+    data: [Databricks, Spark, Delta Lake]
+    cloud: [AWS, AWS S3, IAM]
+    ops: [Terraform, Infrastructure as Code, CI/CD]
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: [Code Review, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11036258'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:14:10.625128'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

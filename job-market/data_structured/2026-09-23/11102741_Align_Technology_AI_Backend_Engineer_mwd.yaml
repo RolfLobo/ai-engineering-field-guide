@@ -1,0 +1,81 @@
+company:
+  name: Align Technology
+  stage: null
+  focus: Dental CAD software and clear aligner technology
+position:
+  title: AI Backend Engineer (m/w/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role serves, deploys, and operates ML models built by
+      others - deployment, rollout, monitoring, and infra. No
+      prompt design, training, or model-quality shaping; ML
+      understanding is listed as complementary only. Per the
+      serving edge case, this is ai-support.
+  responsibilities:
+  - Maintain, extend, and operate production services serving exocad's ML models for
+    the exocad AI Design product
+  - 'Own model deployment end to end: containerized builds, versioning, staged rollout,
+    rollback, and reproducible release artifacts'
+  - Automate provisioning and deployment with Terraform and AWS-native tooling
+  - Build monitoring for latency, throughput, resource utilization, and error rates
+    and act on telemetry
+  - Deploy across AWS global and AWS China environments with attention to data residency
+    requirements
+  - Collaborate with engineering and product teams on compliant cloud and data solutions
+  - Contribute to upstream training and labeling infrastructure
+  use_cases:
+  - Model serving layer for dental CAD workflows
+  - Inference APIs for exocad AI Design product
+  - Automated deployment and rollout of ML models
+  - Monitoring and observability of ML serving systems
+  - Training and labeling infrastructure for ML models
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, SageMaker, EC2, AWS Lambda, AWS S3, CloudWatch, RDS]
+    ops: [Terraform, CI/CD, Jenkins, Docker, Distributed Systems, Kubernetes, GitHub
+        Actions, Monitoring, Splunk, Datadog, Prometheus]
+    languages: [Python, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11102741'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-09-23T11:19:27.267679'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

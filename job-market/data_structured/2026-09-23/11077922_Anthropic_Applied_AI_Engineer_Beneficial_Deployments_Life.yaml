@@ -1,0 +1,50 @@
+company:
+  name: Anthropic
+  stage: null
+  focus: AI safety research and building beneficial AI systems
+position:
+  title: Applied AI Engineer, Beneficial Deployments (Life Sciences)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role prototypes agents, designs prompts/context
+      engineering, builds MCP servers, agent skills, and
+      evaluation benchmarks for Claude — direct shaping of LLM
+      behavior. Forward-deployed style work is also ai-first.
+  responsibilities:
+  - Partner deeply with flagship life sciences research institutions, understanding
+    their scientific workflows end-to-end and taking projects from exploration to
+    production
+  - Build hands-on with partner engineering teams, prototyping agents that fit into
+    real research pipelines
+  - Develop reusable ecosystem infrastructure such as MCP servers for domain-specific
+    data sources, benchmarks, and agent skills
+  - Identify hard deployment challenges in life sciences (heterogeneous data, auditability,
+    prototype-to-trust gap) and feed findings back to product, engineering, and research
+  - Create technical content and documentation enabling partner self-service and global
+    scaling
+  use_cases:
+  - Deploying Claude in life sciences research workflows
+  - Genomics and literature data access via MCP servers
+  - Scientific benchmarks and reusable agent skills for research institutions
+  - Accelerating drug discovery and pharma pipelines
+  - Education, global health, and economic mobility deployments
+  skills:
+    genai: [Prompt Engineering, Context Engineering, AI Agents, MCP, LLM Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11077922'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:18:08.225844'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

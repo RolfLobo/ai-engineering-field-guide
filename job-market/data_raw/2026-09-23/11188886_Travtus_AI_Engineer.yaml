@@ -1,0 +1,225 @@
+job_id: 11188886
+title: AI Engineer
+company: Travtus
+location: London, GBR
+work_type: FULL_TIME
+company_size: 22 Employees
+description: |
+  Job Title
+
+  London (On-site, London Farringdon)
+
+  Full-time, salary: £60,000-80,000
+
+  Job Summary
+
+  Travtus is looking for an AI Engineer to help design, build,
+  and optimise the core AI platform capabilities that power
+  agent-based products and workflows.
+
+  This role is focused on platform development. It is
+  responsible for shaping how LLM-powered agents are designed,
+  orchestrated, tested, monitored, and improved in production.
+  The role sits at the intersection of prompt engineering,
+  agent architecture, solution design, and platform capability
+  development.
+
+  You will define how agents interact with tools, APIs, and
+  downstream services, and help specify the requirements and
+  contracts for the services they depend on. You will work
+  closely with platform engineers, who build the APIs and
+  services consumed by agents, and with product engineers,
+  helping ensure agent capabilities support strong user
+  experience and front-end design.
+
+  This role also includes working on patterns where prompt
+  outputs are used as code to support interface generation,
+  front-end behaviour, and rapid product iteration. You will
+  also own the LLM and prompt tooling lifecycle, from prompt
+  management through evaluation, testing, and continuous
+  improvement.
+
+  This is a hands-on senior role for someone who combines deep
+  technical skill with strong systems thinking and a practical
+  approach to building scalable, usable, and production-ready
+  AI capabilities.
+
+  About Travtus
+
+  Travtus is transforming the Housing Industry with our
+  Everyday (AI)™ platform. We bring intelligence and
+  automation together in one place so teams can move faster
+  and work smarter. By delivering everyday AI decisions and
+  workflows across the systems operators already use daily,
+  our platform improves efficiency while enhancing the
+  resident experience.
+
+  About the Role Key Responsibilities
+
+  - Design and develop multi-agent prompts and orchestration
+    patterns
+  - Define how agents, tools, APIs, services, and platform
+    components interact, including requirements, contracts,
+    and integration patterns
+  - Work alongside platform engineers to define the APIs and
+    services that agents consume and use
+  - Work closely with product engineers to support user
+    experience and front-end design, including the use of
+    prompt outputs as code
+  - Own LLM and prompt tooling across the full lifecycle, from
+    prompt management and versioning through evaluation,
+    testing, and optimisation
+  - Design requirements for downstream and supporting services
+    that enable agent execution, workflow control,
+    observability, and integration
+  - Lead the research, evaluation, and selection of frameworks
+    for agent orchestration, tool use, evaluation,
+    observability, and deployment
+  - Perform model selection based on use case fit, quality,
+    latency, scalability, and cost
+  - Design and implement tools and function-calling patterns for
+    agent-based systems
+  - Carry out prompt tuning and iterative optimisation of agent
+    behaviour and output quality
+  - Monitor, debug, and continuously tune agents in development
+    and production
+  - Design for performance, scalability, reliability, usability,
+    maintainability, and cost efficiency
+  - Define and execute testing strategies for LLM agents and
+    platform-level AI workflows
+  - Integration test agents end to end with other parts of the
+    platform to ensure reliability across workflows, services,
+    and user-facing experiences
+  - Build proofs of concept and prototypes to validate
+    architectures, frameworks, and new platform capabilities
+  - Produce end-to-end solution designs for AI platform
+    components and services
+  - Use AI to improve software development, including
+    prototyping, implementation, testing, debugging, and
+    engineering productivity
+  - Collaborate across engineering and product teams to
+    translate business and technical goals into robust
+    platform capabilities
+
+  Requirements
+
+  The successful applicant will be a natural problem-solver
+  with an affinity for automation, efficiency, and AI-driven
+  solutions with excellent communication and collaboration
+  skills across both technical and non-technical teams.
+
+  Must have requirements:
+
+  - Strong experience designing, building, and deploying LLM-
+    based applications or agentic systems
+  - Demonstrated expertise in prompt engineering, prompt tuning,
+    and structured output design
+  - Experience designing multi-agent workflows and orchestration
+    logic
+  - Strong understanding of API design, service integration, and
+    interface contracts
+  - Experience owning or working with prompt management,
+    evaluation, and testing tooling
+  - Experience working with or defining requirements for
+    platform services that support AI applications
+  - Experience evaluating and selecting models, frameworks, and
+    AI tooling
+  - Practical experience with tool use, function calling,
+    workflow control, and system integration
+  - Experience defining and implementing testing and evaluation
+    strategies for LLM systems
+  - Experience with end-to-end and integration testing across
+    complex platform workflows
+  - Strong understanding of performance optimisation, including
+    latency, throughput, scalability, and cost trade-offs
+  - Experience monitoring and improving AI systems in production
+  - Strong software engineering skills and experience building
+    production-grade systems
+  - Ability to work effectively with both product engineers and
+    platform engineers
+  - Ability to produce clear solution designs and communicate
+    technical decisions effectively
+  - Comfortable working across experimentation, architecture,
+    and delivery
+
+  Nice to have requirements:
+
+  Experience with agent orchestration frameworks and
+  evaluation platforms
+
+  - Familiarity with observability, tracing, and monitoring for
+    AI systems
+  - Experience designing guardrails, controls, and failure
+    handling for AI workflows
+  - Experience supporting front-end or UX-oriented engineering
+    through AI-assisted design or generation patterns
+  - Experience with code generation or structured prompt outputs
+    used in software delivery workflows
+  - Experience with cloud-native or distributed production
+    environments
+  - Background in solution architecture, or applied AI systems
+  - Experience using AI to improve internal engineering
+    productivity and delivery
+
+  What Success Looks Like
+
+  - The AI platform provides a strong, scalable foundation for
+    agent-based products and workflows
+  - Agents, tools, APIs, and service integrations are reliable,
+    testable, and production-ready
+  - LLM and prompt tooling supports disciplined prompt
+    management, evaluation, testing, and continuous
+    improvement
+  - Platform capabilities are designed with strong usability,
+    maintainability, and operational robustness
+  - Agent outputs support high-quality product experiences,
+    including front-end and UX use cases where appropriate
+  - Model, prompt, and framework choices are evidence-based and
+    continuously optimised
+  - Agents are integration tested end to end with the wider
+    platform and perform reliably across real workflows
+  - New ideas can be rapidly validated through POCs and evolved
+    into durable platform capabilities
+  - Product engineers and platform engineers can work
+    effectively around clear contracts, services, and
+    orchestration patterns
+  - AI is used effectively both within the product and to
+    improve software development practices
+
+  About the Team
+
+  We are a dedicated team, working in a truly collaborative
+  style, where everyone is heard and brings something valuable
+  to the conversation. Constantly pushing boundaries to create
+  groundbreaking solutions for our customers. We are
+  fundamentally challenging the way one of the largest
+  industries in the world operates, and our commercial success
+  pays testament to the skill, commitment and passion that our
+  team displays every day.
+
+  Working together in person fuels our best ideas and
+  innovations, which is why all team members spend at least
+  three days a week in our London office.
+
+  Benefits
+
+  - Be part of a growing, mission-driven startup with global
+    ambitions
+  - Exposure to cutting-edge AI technology in a practical, high-
+    demand sector
+  - Collaborative, fast-paced team culture with space to
+    innovate and grow
+  - Full-time, salary: £60,000-80,000
+  - On-site working model with a modern London office
+    (Farringdon)
+  - Private Healthcare
+  - Pension
+  - Deliveroo Allowance
+
+  Help us shape the future of technology. Apply Now!
+industries:
+  - Artificial Intelligence
+  - Real Estate
+posted_date: 2026-09-15
+url: "https://builtin.com/job/ai-engineer/11188886"
+source: Built In

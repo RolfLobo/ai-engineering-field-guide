@@ -1,0 +1,184 @@
+job_id: 11067881
+title: Lead AI Engineer
+company: athenahealth
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 7,200 Employees
+description: |
+  Join us as we work to create a thriving ecosystem that
+  delivers accessible, high-quality, and sustainable
+  healthcare for all.
+
+  Position Summary: We are looking for a Lead AI Engineer in
+  Bangalore to help build Messaging 3.0, our next-generation
+  intelligent patient communication platform. You will design
+  and build production-grade AI agents end to end — from LLM
+  orchestration, tool integration, and evaluation to
+  guardrails, observability, reliability, and production
+  operations. You will also be the technical lead for this
+  initiative, setting the technical direction and mentoring
+  engineers through influence rather than formal authority. In
+  your first 90 days, you will help establish the foundation
+  for the AI-driven Intelligent Messaging platform, including
+  core services, supporting services, Temporal workflows, and
+  two initial agents: the Notification AI Agent and Cadence
+  Outreach AI Agent. Over your first year, you will take these
+  agents to production and build next-best-action intelligence
+  so they can act autonomously and reliably toward the
+  intended outcome of each message. You will also ensure the
+  new architecture continues to support the important use
+  cases handled by our existing legacy monolith and
+  microservices.
+
+  About the Team: The Messaging team is building Messaging 3.0
+  — moving from static notifications and campaign-based
+  outreach to intelligent, agent-orchestrated patient
+  communication. Our AI agents will use patient context,
+  preferences, workflow state, and tools to:
+
+  - Determine the next best action.
+  - Personalize patient communication.
+  - Select the right communication channel.
+  - Manage the interaction through to completion.
+
+  This is a mix of greenfield and brownfield development. You
+  will build new services while also replacing or wrapping
+  existing systems that support live patient messaging in
+  production today.
+
+  Essential Job Responsibilities
+
+  - Lead the technical design and development of the Messaging
+    3.0 AI platform.
+  - Build production-grade AI agents using LLM orchestration,
+    tools, context, evaluation, guardrails, and observability.
+  - Design and build scalable services using Java, Spring Boot,
+    microservices, Kubernetes, and AWS.
+  - Design and implement Temporal workflows for long-running and
+    failure-prone processes, including retries and
+    compensation.
+  - Build and take the Notification AI Agent and Cadence
+    Outreach AI Agent to production.
+  - Build next-best-action intelligence that enables agents to
+    act autonomously and predictably toward the intended
+    message outcome.
+  - Identify and solve AI agent reliability and unpredictability
+    issues in production.
+  - Ensure the new architecture continues to cover use cases
+    supported by the existing legacy monolith and
+    microservices.
+  - Drive high-quality delivery and continuously improve
+    engineering speed, quality, and reliability.
+  - Provide technical leadership and mentorship to engineers
+    through influence rather than formal authority.
+
+  Additional Job Responsibilities
+
+  - Work across both greenfield and brownfield systems.
+  - Collaborate with engineers and stakeholders to establish
+    technical direction and alignment.
+  - Own technical outcomes end to end, from design through
+    production.
+  - Adapt as requirements and the architecture evolve.
+  - Evaluate and adopt new AI and agent technologies as the
+    space changes.
+  - Build systems that are reliable and predictable in
+    production, not just successful in demos.
+  - Understand existing messaging systems well enough to avoid
+    gaps in functionality during modernization.
+
+  Expected Education & Experience
+
+  - 8+ years of software engineering experience, including 2+
+    years building AI agents.
+  - Strong hands-on experience with Java and Spring Boot in
+    production.
+  - Strong system design and software architecture experience,
+    including architectural trade-offs and decision-making.
+  - Production experience deploying and operating services on
+    Kubernetes.
+  - Experience with Temporal or an equivalent durable workflow
+    orchestration framework.
+  - Hands-on experience with LangGraph, LangChain, or an
+    equivalent agent framework.
+  - Experience taking an AI/agentic system from prototype to
+    reliable production.
+  - Strong understanding of AI/agent engineering, including
+    reliability, evaluation, guardrails, and observability.
+  - Production experience with AWS and practical experience
+    making AWS architecture decisions.
+  - Experience with Kafka, Postgres, Redis, Helm, Datadog, or
+    equivalent observability tools is a plus.
+  - Data science experience is a plus.
+  - GenAI experience beyond agent frameworks, such as
+    prompt/model evaluation or fine-tuning, is a plus.
+  - Strong communication, collaboration, and technical
+    leadership skills.
+  - Comfortable working in ambiguous and evolving environments
+    and leading through influence.
+
+  About athenahealth
+
+  Our vision: In an industry that becomes more complex by the
+  day, we stand for simplicity. We offer IT solutions and
+  expert services that eliminate the daily hurdles preventing
+  healthcare providers from focusing entirely on their
+  patients — powered by our vision to create a thriving
+  ecosystem that delivers accessible, high-quality, and
+  sustainable healthcare for all.
+
+  Our company culture: Our talented  employees — or
+  athenistas, as we call ourselves — spark the innovation and
+  passion needed to accomplish our vision. We are a diverse
+  group of dreamers and do-ers with unique knowledge,
+  expertise, backgrounds, and perspectives. We unite as
+  mission-driven problem-solvers with a deep desire to achieve
+  our vision and make our time here count. Our award-winning
+  culture is built around shared values of inclusiveness,
+  accountability, and support.
+
+  Our DEI commitment: Our vision of accessible, high-quality,
+  and sustainable healthcare for all requires addressing the
+  inequities that stand in the way. That's one reason we
+  prioritize diversity, equity, and inclusion in every aspect
+  of our business, from attracting and sustaining a diverse
+  workforce to maintaining an inclusive environment for
+  athenistas, our partners, customers and the communities
+  where we work and serve.
+
+  What we can do for you:
+
+  Along with health and financial benefits, athenistas enjoy
+  perks specific to each location, including commuter support,
+  employee assistance programs, tuition assistance, employee
+  resource groups, and collaborative  workspaces  — some
+  offices even welcome dogs.
+
+  We also encourage a better work-life balance for athenistas
+  with our flexibility. While we know in-office collaboration
+  is critical to our vision, we recognize that not all work
+  needs to be done within an office environment, full-time.
+  With consistent communication and digital collaboration
+  tools, athenahealth enables employees to find a balance that
+  feels fulfilling and productive for each individual
+  situation.
+
+  In addition to our traditional benefits and perks, we
+  sponsor events throughout the year, including book clubs,
+  external speakers, and hackathons. We provide athenistas
+  with a company culture based on learning, the support of an
+  engaged team, and an inclusive environment where all
+  employees are valued.
+
+  Learn more about our culture and benefits here:
+  athenahealth.com/careers
+
+  https://www.athenahealth.com/careers/equal-opportunity
+industries:
+  - Healthtech
+  - Information Technology
+  - Telehealth
+posted_date: 2026-09-09
+url: "https://builtin.com/job/lead-ai-engineer/11067881"
+source: Built In

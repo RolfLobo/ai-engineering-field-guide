@@ -1,0 +1,55 @@
+company:
+  name: Oneleet
+  stage: Series A
+  focus: Cybersecurity and compliance automation platform
+position:
+  title: GTM AI Engineer - Data & Attribution
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a GTM data/attribution engineer focused on
+      pipelines, attribution, and dashboards. AI appears only as a
+      tool (Clay AI columns, Claude skills for GTM workflows, AI-
+      personalized messaging) — no shaping of model behavior,
+      prompts, or retrieval as the deliverable. The core work is
+      data infrastructure and analytics.
+  responsibilities:
+  - Design, build, and manage the BigQuery data pipeline unifying HubSpot, Dreamdata,
+    Google Ads, LinkedIn, PostHog, and website data into a single source of truth
+  - Maintain and configure tracking infrastructure including cookies, JavaScript,
+    and server-side GTM, diagnosing cross-platform data discrepancies
+  - Configure and refine Dreamdata revenue attribution to model the full prospect
+    journey and translate insights into budget and channel decisions
+  - Build and maintain executive-facing Looker/Looker Studio dashboards showing channel
+    performance from spend to closed-won
+  - Design and run an ABM strategy using Clay to enrich and score accounts with firmographic,
+    intent, and behavioral signals
+  - Leverage AI to personalize outbound messaging at scale
+  - Document the pipeline so it scales and survives tool changes
+  use_cases:
+  - Go-to-market data pipeline unifying marketing and sales data sources
+  - Multi-touch revenue attribution and cross-platform discrepancy reconciliation
+  - Executive dashboards for channel and campaign revenue performance
+  - Account intelligence and ABM account scoring and enrichment
+  - AI-personalized outbound messaging at scale
+  skills:
+    genai: []
+    ml: []
+    web: [JavaScript, APIs, Webhooks]
+    databases: [BigQuery, SQL]
+    data: [Data Pipelines, Reverse ETL]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [HubSpot, Dreamdata, Google Ads, PostHog, Looker, Looker Studio, Tableau,
+      Google Tag Manager, Clay, UTM Strategies, Account-Based Marketing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10863957'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:11.565643'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

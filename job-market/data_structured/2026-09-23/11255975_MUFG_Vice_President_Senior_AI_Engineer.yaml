@@ -1,0 +1,52 @@
+company:
+  name: MUFG
+  stage: null
+  focus: Global financial services and banking group
+position:
+  title: Vice President, Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and delivers RAG architectures, agentic
+      models, prompt engineering, and model evaluation frameworks
+      using LangChain/LangGraph, directly shaping LLM behavior.
+      This is ai-first IC engineering work despite the VP title.
+  responsibilities:
+  - Collaborate with Digital Transformation teams and business stakeholders to define
+    requirements and success measures for AI initiatives across EMEA
+  - Evaluate AI models and platforms, making recommendations based on business value,
+    cost, risk, and supportability
+  - Establish architectural principles, engineering standards, reusable patterns,
+    and quality controls for AI solutions
+  - Build generative AI solutions including RAG and agentic models on cloud platforms
+  - Deliver L1/L2/L3 support for AI Engineering team services
+  - Track project outcomes, costs, and ROI using evidence-based approaches to scale
+    solutions
+  - Ensure compliance with SDLC, change management, and governance standards
+  - Coach and mentor AI Engineering colleagues and build engineering capability across
+    teams
+  use_cases:
+  - Enterprise AI solutions for digital transformation in EMEA financial services
+  - Retrieval augmented generation (RAG) and agentic AI solutions
+  - AI-driven operational transformation across multiple business areas
+  - Measurable ROI-driven AI project delivery in a regulated environment
+  skills:
+    genai: [RAG, Prompt Engineering, LLM Evaluation, LangChain, LangGraph, MCP, Generative
+        AI]
+    ml: [Machine Learning]
+    web: []
+    databases: [Vector Databases]
+    data: [Data Science]
+    cloud: [Azure, AWS, Azure AI Foundry]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [SDLC, Responsible AI, Data Governance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11255975'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:32:44.044388'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

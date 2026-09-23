@@ -1,0 +1,53 @@
+company:
+  name: Abnormal Security
+  stage: null
+  focus: AI-powered email and cloud cybersecurity
+position:
+  title: Software Engineer 2 - AI Transformation Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds the Nora internal AI platform — services,
+      factories, and sandboxes for deploying AI workflows — with
+      fluency required in the AI development stack (Claude, Codex,
+      Gemini, Anthropic/OpenAI APIs, MCP, agents) and building
+      plugins/skills against them. Designing and shipping
+      agent/workflow infrastructure directly shapes model-driven
+      system behavior, making this ai-first.
+  responsibilities:
+  - Build the Nora internal AI platform — services, factories, and sandboxes internal
+    teams use to deploy AI workflows
+  - Build connectors and integrations bringing AI into existing systems such as Salesforce,
+    Jira, data warehouses, and internal apps
+  - Stand up net-new infrastructure by speccing, shipping, and hardening platform
+    capabilities for other teams
+  - Design for handoff — write docs, define SLOs, and transition long-term ownership
+    to permanent platform teams
+  - Own measurable business outcomes such as revenue, cost saved, or hours returned
+    to the business
+  - Collaborate with Sales Ops and Marketing Ops leads to design workflows that fit
+    real operational needs
+  use_cases:
+  - Internal AI workflow platform (Nora) serving all company functions
+  - Integrating AI agents into CRM and ticketing systems (Salesforce, Jira)
+  - Operational automation that compounds human leverage across record-keeping systems
+  - 'Business outcome automation: revenue, cost savings, and hours returned'
+  skills:
+    genai: [Anthropic API, OpenAI API, Gemini, Codex, MCP, AI Agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [Salesforce, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11202498'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:26:12.792566'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

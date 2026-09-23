@@ -1,0 +1,47 @@
+company:
+  name: Gartner
+  stage: null
+  focus: IT research and advisory firm delivering business insights
+position:
+  title: Lead Software Engineer- NLP, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds Generative AI and Agentic AI solutions using
+      LangChain, LangGraph, RAG, and prompt engineering, directly
+      shaping LLM behavior. Mentoring juniors is IC leadership,
+      not management.
+  responsibilities:
+  - Establish methodologies for rolling out new data analysis capabilities for data-driven
+    products using AI, ML, and LLMs
+  - Lead architecture and technical design discussions for data science solutions
+  - Continuously improve models through experimentation and optimization
+  - Analyze unstructured text data using machine learning and NLP techniques
+  - Create data science packages and APIs for organization-wide use
+  - Mentor junior team members on technical practices
+  - Evangelize new AI/ML technologies and drive adoption
+  use_cases:
+  - Data-driven products and services supporting research and consulting delivery
+  - Insight discovery from unstructured text data
+  - Internal AI/ML capability enablement for associates
+  - Organization-wide data science packages and APIs
+  skills:
+    genai: [LLMs, LangChain, LangGraph, RAG, Prompt Engineering, OpenAI API, Anthropic
+        API, Llama, Generative AI, Agentic Workflows]
+    ml: [BERT, Transformers, Deep Learning, Machine Learning, Model Evaluation]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Langfuse]
+    languages: [Python]
+    domains: [NLP]
+    other: [Data Mining]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11143858'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:21:54.550805'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

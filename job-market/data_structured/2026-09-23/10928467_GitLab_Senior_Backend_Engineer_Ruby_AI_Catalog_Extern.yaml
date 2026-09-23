@@ -1,0 +1,53 @@
+company:
+  name: GitLab
+  stage: null
+  focus: DevSecOps platform for software development
+position:
+  title: 'Senior Backend Engineer (Ruby), AI Catalog: External Agents'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds backend integrations (APIs, GraphQL/REST,
+      background jobs) that connect GitLab with external agents
+      like Claude Code and Codex, but there is no evidence the
+      engineer writes prompts, designs retrieval or agent flows,
+      or otherwise shapes model behavior. AI is the integration
+      surface, not the deliverable.
+  responsibilities:
+  - Develop, ship, and maintain secure, well-tested, performant external agent integrations
+    across the GitLab monolith backend
+  - Build integrations bringing GitLab agents into tools such as Slack and connecting
+    external solutions like Claude Code or Codex with GitLab
+  - Design, implement, and review GraphQL and REST APIs and related backend logic
+    with clear contracts for frontend clients
+  - Improve and extend automated testing, including RSpec and other frameworks
+  - Collaborate with Product Management, UX, frontend, backend, and AI specialists
+    to refine requirements iteratively
+  - Participate in Tier 2 on-call rotations, troubleshoot production issues, and improve
+    observability and resiliency
+  - Assess the competitive landscape and help build strong AI integrations as agentic
+    technology evolves
+  use_cases:
+  - Integrating GitLab AI agents with external tools such as Slack
+  - Connecting external coding agents like Claude Code and Codex to GitLab
+  - Exposing GitLab AI functionality via the Duo Agent Platform
+  skills:
+    genai: [Claude Code, Codex]
+    ml: []
+    web: [Ruby on Rails, GraphQL, REST APIs, Vue]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [SQL, Python]
+    domains: []
+    other: [RSpec]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10928467'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:07:19.474178'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

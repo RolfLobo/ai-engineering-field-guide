@@ -1,0 +1,52 @@
+company:
+  name: MARLOWE COMPANIES INC.
+  stage: null
+  focus: |-
+    Tech-enabled BPO, call center, and customer experience
+    services
+position:
+  title: Senior AI Prompt Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The core role designs, tests, optimizes, and evaluates
+      prompts for LLMs, directly shaping model behavior and output
+      quality. This is squarely ai-first under Step 1/Step 2.
+  responsibilities:
+  - Design, create, and maintain prompts that enhance AI system performance
+  - Develop reusable prompt templates and libraries optimized for different use cases
+    and models
+  - Conduct prompt testing and A/B evaluations to improve response quality, accuracy,
+    and consistency
+  - Measure and monitor AI effectiveness across applications and develop evaluation
+    criteria and quality standards
+  - Support model tuning and evaluation activities
+  - Translate business requirements into prompting strategies with AI engineers, product
+    managers, and stakeholders
+  - Research new prompting techniques and contribute to prompt engineering best practices
+  use_cases:
+  - Conversational AI and chatbot applications for customer experience
+  - Business process automation in contact center and BPO operations
+  - Enterprise AI product development across business use cases
+  - AI response quality, accuracy, and consistency improvement
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: []
+    ops: []
+    other: [Responsible AI]
+    cloud: []
+    languages: []
+    genai: [Prompt Engineering, LLMs, Generative AI, OpenAI API, Anthropic API, Gemini,
+      RAG, AI Agents, Conversational AI, LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11079965'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:18:14.845018'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: Root
+  stage: null
+  focus: Technology-driven auto insurance
+position:
+  title: Lead Software Engineer, AI Enablement
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role rolls out AI tools and workflows to other internal
+      teams and improves adoption playbooks; it does not itself
+      shape model behavior via prompts, retrieval, or training.
+      Deliverable is AI enablement/developer workflow, which is
+      ai-support per the rollout edge case. Lead/coaching work is
+      technical leadership, not model shaping.
+  responsibilities:
+  - Shape a quarterly portfolio of embedded engagements helping teams adopt AI
+  - Guide workflow discovery and turn field learning into reusable AI Platform improvements
+  - Protect capacity for reusable capabilities, adoption patterns, and team practices
+  - Coordinate AI Platform, product engineering, data, security, and business partners
+  - Create repeatable engagement models and playbooks for AI adoption
+  - Coach engineers on technical judgment and communication about AI concepts
+  - Make team outcomes and adoption blockers visible to stakeholders
+  use_cases:
+  - Internal AI adoption across company teams
+  - Reusable AI Platform capabilities from field learnings
+  - AI workflow discovery and improvement playbooks
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10941874'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:07:45.434235'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Raydar
+  stage: Seed-stage, $5M funded
+  focus: |-
+    Autonomous data agents executing engineering workflows in
+    customer clouds
+position:
+  title: Founding AI Quality & Release Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM graders, agent-run test
+      harnesses, and LLM-as-judge verification systems that
+      directly judge and shape model output quality for autonomous
+      agents, which is shaping (ai-first per Step 1/2). Release/CI
+      engineering is secondary.
+  responsibilities:
+  - Build and own AI-powered verification via agent-run test harnesses, LLM graders,
+    and regression coverage
+  - Manage flake management, automated release gates, and release readiness evidence
+  - Turn escaped bugs into permanent regression tests and eliminate silent skips
+  - Build fresh-install and upgrade verification
+  - Expand natural-language UAT executed by coding agents
+  - Own release candidates and artifact publication
+  - Engineer release and deployment pipelines, CI health, staging and demo environments
+  - Automate credentials and certificates management
+  use_cases:
+  - LLM-as-judge grading of agent behavior
+  - Agent-run automated test harnesses for autonomous data agents
+  - Natural-language UAT executed by coding agents
+  - Regression testing and release gating for agentic workflows
+  - Release and deployment pipeline reliability for enterprise AI software
+  skills:
+    genai: [LLMs, LLM Evaluation, AI Agents]
+    ml: []
+    web: [Playwright, REST APIs]
+    databases: [Snowflake]
+    data: []
+    cloud: [AWS]
+    ops: [GitHub Actions, Docker, Kubernetes, Helm]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11159050'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:22:59.857011'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

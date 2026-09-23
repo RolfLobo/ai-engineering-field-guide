@@ -1,0 +1,53 @@
+company:
+  name: Procedure
+  stage: null
+  focus: AI-powered back office for skilled trades (HVAC)
+position:
+  title: WorkHero - Senior AI Full Stack Engineer (React + Node)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds tool-using agents, RAG/search, prompts, and
+      evals for LLM systems, directly shaping model behavior and
+      output quality, so it is ai-first. The full-stack work
+      centers on AI workflows rather than merely consuming an API.
+  responsibilities:
+  - Build product screens and flows in React and React Native, including AI chat UI
+    with streaming and human review loops
+  - 'Build production AI workflows: tool-using agents, RAG/search, classification/extraction,
+    and human-in-the-loop flows'
+  - Contribute features to the AI-powered business automation platform
+  - Build integrations and ingestion from third-party systems (APIs, webhooks, files)
+  - 'Build evals and monitoring: regression tests for prompts/workflows, quality metrics,
+    drift detection, cost/latency tracking'
+  - 'Design scalable systems: queues, orchestration, retries, data modeling, and APIs'
+  - Ship full-stack features across React/React Native frontend and Node backend,
+    test, deploy, and optimize AI system performance
+  - Mentor team members and collaborate with product and subject matter experts
+  use_cases:
+  - AI-powered back-office automation for HVAC and skilled trades contractors
+  - Automated invoicing, permits, scheduling, and paperwork workflows
+  - AI chat assistant with tool result rendering, streaming, and human review
+  - Document classification and extraction with human-in-the-loop flows
+  - Third-party data ingestion and integrations to support business automation
+  skills:
+    genai: [LLMs, Prompt Engineering, LangChain, RAG, Reranking, AI Agents, Function
+        Calling, LLM Evaluation, Claude Code, Cursor]
+    ml: []
+    web: [React, React Native, Node.js, REST APIs, GraphQL, Webhooks]
+    databases: [MongoDB, PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, Infrastructure as Code, CI/CD]
+    languages: [TypeScript]
+    domains: []
+    other: [Expo, n8n, Audio Streaming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151549'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:22:47.677350'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

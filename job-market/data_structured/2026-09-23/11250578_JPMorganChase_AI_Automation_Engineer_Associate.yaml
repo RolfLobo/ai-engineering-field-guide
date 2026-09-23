@@ -1,0 +1,65 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: |-
+    Global commercial and investment banking and financial
+    services
+position:
+  title: AI Automation Engineer Associate
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI assistants combining LLMs,
+      retrieval, prompt engineering, structured outputs, LangGraph
+      orchestration, evals, and guardrails - directly shaping
+      model behavior and output quality of LLM-based systems, so
+      it is ai-first.
+  responsibilities:
+  - Design and deploy production-grade AI assistants combining language models, multimodal
+    models, business rules, retrieval, and tool integrations
+  - Engineer multi-stage graph-based orchestration workflows covering ingestion, model
+    execution, tool invocation, validation, and post-processing
+  - Define output schemas, prompts, validation logic, and deterministic post-processing
+    rules
+  - Build OCR and document digitization pipelines handling PDFs, noisy scans, and
+    unstructured inputs
+  - Establish success metrics and improve quality through offline evaluation and production
+    monitoring (quality, drift, latency, cost)
+  - Embed Responsible AI practices, guardrails, and governance controls into delivery
+    and operations
+  - Troubleshoot production issues across model, retrieval, tool-integration, and
+    post-processing layers
+  - Elicit requirements from operations users via workshops and shadowing, translating
+    into requirements and acceptance criteria
+  use_cases:
+  - Automating high-volume operational knowledge work in commercial and investment
+    banking
+  - 'Intelligent document processing: extracting structured, validated data from PDFs,
+    spreadsheets, emails, and images'
+  - Agentic AI assistants that invoke tools and apply business rules to automate workflows
+  - Retrieval-augmented generation with grounding and hallucination mitigation for
+    business tasks
+  - Production monitoring and evaluation of AI accuracy, drift, and exception rates
+  skills:
+    genai: [LangGraph, Prompt Engineering, Structured Outputs, RAG, Agentic Workflows,
+      LLMs, Embeddings, Guardrails, Function Calling]
+    ml: [Machine Learning, PyTorch, TensorFlow, scikit-learn]
+    web: [APIs]
+    databases: [Vector Databases]
+    data: [Pandas, OCR]
+    cloud: [AWS Textract]
+    ops: [CI/CD, Git, LLM Evaluation]
+    languages: [Python, asyncio, SQL, Pydantic]
+    domains: []
+    other: [Responsible AI, A/B Testing, Statistical Significance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11250578'
+  location: Hyderabad, IND
+  locations:
+  - Hyderabad, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:31:27.521309'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

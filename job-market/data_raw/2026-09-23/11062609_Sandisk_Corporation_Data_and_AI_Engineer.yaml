@@ -1,0 +1,110 @@
+job_id: 11062609
+title: Data and AI Engineer
+company: Sandisk Corporation
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 11,000 Employees
+description: |
+  Company Description
+
+  At SANDISK, our vision is to power global innovation and
+  push the boundaries of technology to make what you thought
+  was once impossible, possible.
+
+  At our core, SANDISK is a company of problem solvers. People
+  achieve extraordinary things given the right technology. For
+  decades, we’ve been doing just that. Our technology helped
+  people put a man on the moon.
+
+  We are a key partner to some of the largest and highest
+  growth organizations in the world. From energizing the most
+  competitive gaming platforms, to enabling systems to make
+  cities safer and cars smarter and more connected, to
+  powering the data centers behind many of the world’s biggest
+  companies and public cloud, SANDISK is fueling a brighter,
+  smarter future.
+
+  Binge-watch any shows, use social media or shop online
+  lately? You’ll find SANDISK supporting the storage
+  infrastructure behind many of these platforms. And, that
+  flash memory card that captures and preserves your most
+  precious moments? That’s us, too.
+
+  We offer an expansive portfolio of technologies, storage
+  devices and platforms for business and consumers alike.
+
+  Today’s exceptional challenges require your unique skills.
+  It’s You & SANDISK. Together, we’re the next BIG thing in
+  data
+
+  Job Description
+
+  - Design, build, and maintain scalable ETL/ELT pipelines to
+    ingest structured and unstructured data from SAP S/4HANA,
+    Oracle, Salesforce, and third-party APIs into enterprise
+    data lakes/lakehouses.
+  - Develop and optimize data products (medallion architecture)
+    on platforms like Databricks
+  - Implement data quality, lineage, and governance controls
+    using tools such as Purview, Alation, or Unity Catalog.
+  - Build, deploy, and monitor ML models (classification,
+    regression, forecasting, anomaly detection) using Python,
+    PySpark, scikit-learn, TensorFlow, or PyTorch.
+  - Develop GenAI and LLM-powered solutions — including RAG
+    (Retrieval-Augmented Generation) pipelines, embeddings,
+    vector databases (Pinecone, Azure AI Search), and prompt
+    engineering for Copilot/Azure OpenAI/Bedrock.
+  - Operationalize models through MLOps practices — CI/CD for
+    ML, model versioning, drift monitoring, and automated
+    retraining (MLflow, Azure ML, SageMaker, Vertex AI)
+  - Deploy and manage data/AI workloads on Azure, AWS, or GCP,
+    leveraging services like ADF, Databricks, Glue, Lambda,
+    Functions, and Kubernetes.
+
+  Qualifications
+
+  - 4–6 years of professional experience in data engineering, ML
+    engineering, or applied AI roles.
+  - Proven track record of delivering at least 2–3 production-
+    grade data or AI projects end-to-end
+  - Working in global team ecosystem is a plus
+
+  Preferred Qualifications:
+
+  - Experience with enterprise ERP data (SAP S/4HANA, Oracle)
+    and integration patterns (CDC, IDoc, OData, APIs).
+  - Exposure to supply chain, procurement, Logistics analytics
+    use cases (spend, demand forecasting, supplier risk).
+  - Familiarity with Copilot Studio, or Agentic AI frameworks.
+
+
+
+  Additional Information
+
+  Sandisk thrives on the power and potential of diversity. As
+  a global company, we believe the most effective way to
+  embrace the diversity of our customers and communities is to
+  mirror it from within. We believe the fusion of various
+  perspectives results in the best outcomes for our employees,
+  our company, our customers, and the world around us. We are
+  committed to an inclusive environment where every individual
+  can thrive through a sense of belonging, respect and
+  contribution.
+
+  Sandisk is committed to offering opportunities to applicants
+  with disabilities and ensuring all candidates can
+  successfully navigate our careers website and our hiring
+  process. Please contact us at
+  jobs.accommodations@sandisk.com to advise us of your
+  accommodation request. In your email, please include a
+  description of the specific accommodation you are requesting
+  as well as the job title and requisition number of the
+  position for which you are applying.
+industries:
+  - Hardware
+  - Information Technology
+  - Semiconductor
+  - Manufacturing
+posted_date: 2026-09-08
+url: "https://builtin.com/job/data-and-ai-engineer/11062609"
+source: Built In

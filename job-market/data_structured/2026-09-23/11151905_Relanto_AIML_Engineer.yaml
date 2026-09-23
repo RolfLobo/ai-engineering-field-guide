@@ -1,0 +1,53 @@
+company:
+  name: Relanto
+  stage: null
+  focus: AI consulting and enterprise automation solutions
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures, builds autonomous
+      agents, and fine-tunes LLMs for enterprise use cases, which
+      is direct shaping of LLM behavior. Model evaluation and
+      prompt optimization further confirm ai-first.
+  responsibilities:
+  - Develop and deploy scalable machine learning models for predictive analytics,
+    classification, regression, recommendation, clustering, and forecasting
+  - Build end-to-end AI pipelines covering preprocessing, feature engineering, training,
+    evaluation, deployment, and monitoring
+  - Develop and fine-tune Large Language Models for enterprise use cases
+  - Design and implement RAG architectures using vector databases and embedding models
+  - Build autonomous AI agents with planning, reasoning, memory management, and tool
+    usage
+  - Establish best practices for using generative models in business and automation
+  - Work with leadership and stakeholders to identify AI opportunities and promote
+    strategy
+  use_cases:
+  - Predictive analytics, classification, regression, recommendation, clustering,
+    and forecasting
+  - Enterprise LLM applications with retrieval-augmented generation
+  - Autonomous agents for planning, reasoning, memory, and tool usage
+  - Business process automation with generative models
+  - SQL generation using LLMs
+  skills:
+    genai: [LLMs, RAG, Generative AI, Conversational AI, AI Agents, Embeddings, Prompt
+        Engineering, LangChain, LlamaIndex, OpenAI API]
+    ml: [Machine Learning, Model Training, Model Evaluation, Fine-Tuning, Feature
+        Engineering]
+    web: [APIs, Microservices]
+    databases: [Pinecone, Elasticsearch, Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, LLMOps]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Responsible AI, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151905'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:22:37.354726'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

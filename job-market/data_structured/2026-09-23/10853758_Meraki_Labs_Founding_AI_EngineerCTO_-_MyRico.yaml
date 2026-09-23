@@ -1,0 +1,48 @@
+company:
+  name: Meraki Labs
+  stage: null
+  focus: Enterprise personal AI agents and copilots
+position:
+  title: Founding AI Engineer/CTO - MyRico
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes agent behavior directly: agent orchestration
+      design, memory architecture, tool use, model steering, and
+      benchmarking models on output quality. These are LLM/agent-
+      shaping responsibilities, making it ai-first.
+  responsibilities:
+  - 'Own production trustworthiness of autonomous agents: model steering, memory architecture,
+    orchestration design, and latency optimization'
+  - Enhance agent memory systems and runtime/scheduling reliability
+  - Add new capabilities and tools to deployed agents and build operator tooling
+  - Debug live systems and benchmark models on price, latency, and quality
+  - Make deterministic vs non-deterministic system tradeoffs in design
+  - Handle multi-tenant and single-tenant deployment, isolation, upgrades, and migration
+    compatibility
+  use_cases:
+  - Personal AI agents and digital employees for enterprises
+  - Enterprise memory for deployed agents
+  - Operator tooling and live system debugging for agent fleets
+  - Autonomous agent orchestration with capability/tool expansion
+  - Secure handling of sensitive executive data (email, calendar, messages)
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: []
+    ops: []
+    other: []
+    cloud: []
+    languages: [Python, TypeScript, Node.js, Bash]
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, Context Engineering,
+      LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10853758'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:02:35.305157'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

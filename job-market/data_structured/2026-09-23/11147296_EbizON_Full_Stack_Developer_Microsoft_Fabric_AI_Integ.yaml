@@ -1,0 +1,52 @@
+company:
+  name: EbizON
+  stage: null
+  focus: Enterprise application development and data/AI integrations
+position:
+  title: Full Stack Developer – Microsoft Fabric & AI Integration
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes developing RAG-based applications and
+      integrating LLMs/generative AI into enterprise applications,
+      which means designing retrieval and shaping LLM behaviour.
+      Even though it is backend-heavy, the explicit RAG/LLM
+      integration responsibilities make it ai-first.
+  responsibilities:
+  - Design and develop scalable enterprise applications using Python and .NET/C#
+  - Develop and integrate REST APIs and enterprise systems
+  - Build data solutions in Microsoft Fabric including Lakehouse, OneLake, Data Warehouse
+    and Data Pipelines
+  - Build and maintain ETL/ELT workflows for application and analytics use cases
+  - Integrate LLMs and generative AI capabilities into enterprise applications
+  - Develop RAG-based applications using enterprise data sources
+  - Work with Azure services for hosting, integration, storage and data processing
+  - Troubleshoot application, API, integration and data-pipeline issues following
+    Git, testing and CI/CD practices
+  use_cases:
+  - Enterprise application and API development
+  - Data engineering on Microsoft Fabric (Lakehouse, OneLake, Warehouse)
+  - ETL/ELT workflows for analytics use cases
+  - RAG-based applications grounded in enterprise data
+  - LLM and generative AI integration into enterprise applications
+  - Azure-based application hosting, storage and data processing
+  skills:
+    databases: [SQL, Vector Databases, Relational Databases]
+    domains: []
+    data: [Microsoft Fabric, PySpark, Data Pipelines]
+    web: [REST APIs, React, Angular]
+    ml: []
+    ops: [Azure DevOps, Git, CI/CD]
+    other: [Power BI, Docker]
+    cloud: [Azure, Azure OpenAI, Azure Functions, Azure Data Factory]
+    languages: [Python, .NET, C#, JavaScript, TypeScript, HTML, CSS]
+    genai: [LLMs, RAG, Generative AI, Embeddings]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11147296'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:21:03.348667'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

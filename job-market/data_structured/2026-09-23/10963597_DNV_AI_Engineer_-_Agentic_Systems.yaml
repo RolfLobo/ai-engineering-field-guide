@@ -1,0 +1,59 @@
+company:
+  name: DNV
+  stage: null
+  focus: Renewable energy asset monitoring and analytics software
+position:
+  title: AI Engineer - Agentic Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds multi-agent systems, RAG, prompt
+      engineering, and evaluation frameworks for LLM output
+      quality — clear model-behavior shaping with LLM/agent
+      components.
+  responsibilities:
+  - Design and implement a scalable architecture for role-based AI agents
+  - Define agent responsibilities, tools, interaction patterns, task delegation, context
+    sharing, and hand-offs
+  - Integrate agents with Horizon data sources including time-series data, alarms,
+    events, forecasts, and documentation
+  - Build evaluation frameworks and test datasets covering answer quality, groundedness,
+    and hallucination risk
+  - Implement observability and traceability across agent execution
+  - Deploy and operate AI services in production with software and platform engineers
+  - Collaborate with renewable energy domain experts on agent output quality
+  use_cases:
+  - Renewable energy asset monitoring and optimization
+  - Role-based AI agents for Asset Managers, Owners, O&M Managers, Traders, and Analysts
+  - Predictive maintenance and operational decision support
+  - Energy trading analytical workflows
+  - Grounded question answering over operational data and technical documentation
+  skills:
+    genai: [AI Agents, Agentic Workflows, Multi-Agent Systems, RAG, Embeddings, Vector
+        Search, Prompt Engineering, LLMs, Self-Hosted LLMs]
+    ml: []
+    web: [APIs]
+    databases: [ClickHouse, MongoDB, Vector Databases, Databases]
+    data: [Time-Series Data]
+    cloud: []
+    ops: [Git, CI/CD, Docker, Kubernetes, Model Deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10963597'
+  location: NOR
+  locations:
+  - NOR
+  - Milano, ITA
+  - Bristol, GBR
+  - Gdynia, POL
+  - Barcelona, ESP
+  - London, GBR
+  - Madrid, ESP
+  remote: true
+  extracted_at: '2026-09-23T11:09:32.859788'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

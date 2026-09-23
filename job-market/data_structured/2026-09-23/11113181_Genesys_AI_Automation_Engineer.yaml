@@ -1,0 +1,55 @@
+company:
+  name: Genesys
+  stage: null
+  focus: Customer experience orchestration platform with AI
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role prototypes and productionizes agentic workflows
+      with LangChain, CrewAI, or AutoGen and integrates LLM APIs
+      into automations, shaping LLM behavior through agent design
+      and integration choices. This is direct shaping of LLM/agent
+      components, making it ai-first.
+  responsibilities:
+  - Design, build, and deploy automation solutions including Playwright browser workflows,
+    API integrations, and AI-augmented pipelines
+  - Maintain and support existing RPA automations, diagnosing failures and keeping
+    them running reliably
+  - Prototype and productionize agentic workflows using frameworks like LangChain,
+    CrewAI, and AutoGen
+  - Integrate automation workflows with enterprise AI platforms (Claude, ChatGPT Enterprise,
+    Amazon Q) via APIs
+  - Partner with IT and business stakeholders to identify and prioritize automation
+    opportunities
+  - Instrument deployed automations with telemetry tracking execution volume, error
+    rates, and time saved
+  - Contribute to team standards for automation architecture, code quality, and governance
+  use_cases:
+  - Intelligent automation of IT and business operations
+  - Replacing legacy RPA with agentic, AI-native workflows
+  - Browser and API-driven workflow automation to reduce manual toil
+  - LLM-driven handling of unstructured data and decision logic in automations
+  - Automation performance tracking via telemetry on volume, errors, and hours saved
+  skills:
+    genai: [Agentic Workflows, LangChain, CrewAI, AutoGen, LLMs, Anthropic API, ChatGPT,
+      Amazon Q, OpenAI API]
+    ml: []
+    web: [Playwright, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [RPA, CI/CD]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Power Automate, UiPath, Automation Anywhere, Process Analysis]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11113181'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:19:46.063501'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Version 1
+  stage: null
+  focus: IT consulting and technology transformation services
+position:
+  title: AI Full-Stack Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM applications, agentic workflows, and
+      integrates with LLMs in production AI products, so the
+      person shapes LLM-based system behaviour. Full-stack
+      engineering on AI products with LLM integration = ai-first.
+  responsibilities:
+  - Partner with product and business stakeholders to define outcomes for Financial
+    Services challenges
+  - Design and build full-stack AI applications using React, Python and AWS
+  - Build secure, scalable backend services integrating with LLMs, agentic workflows
+    and enterprise data
+  - Create responsive, real-time user experiences for AI-powered features
+  - Take AI prototypes through to secure, scalable production products
+  - Own automated testing, CI/CD, observability and deployment using Docker, Kubernetes
+    and Terraform
+  - Advise teams on where AI creates measurable value and develop reusable engineering
+    patterns
+  - Mentor engineers and communicate technical recommendations to stakeholders
+  use_cases:
+  - AI-powered decision support for trading, risk and portfolio management
+  - Intelligent products for institutional trading and investment management
+  - Real-time AI features for financial markets
+  - LLM applications integrating with enterprise financial data
+  skills:
+    genai: [LLMs, Agentic Workflows, RAG, Embeddings]
+    ml: []
+    web: [React, FastAPI, REST APIs, WebSockets, OAuth]
+    databases: [Vector Search, PostgreSQL, Redis]
+    data: [Databricks]
+    cloud: [AWS, AWS Bedrock, SageMaker]
+    ops: [Kubernetes, Terraform, Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11201795'
+  location: Mumbai, IND
+  extracted_at: '2026-09-23T11:25:50.819886'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

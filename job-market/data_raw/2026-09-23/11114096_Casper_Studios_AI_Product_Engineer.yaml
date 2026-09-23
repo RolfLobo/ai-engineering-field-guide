@@ -1,0 +1,132 @@
+job_id: 11114096
+title: AI Product Engineer
+company: Casper Studios
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Casper Studios
+
+  We’re an AI services firm that helps companies figure out
+  where and how to use AI. We’ve built Casper Studios to
+  roughly 45 people, worked with 30+ clients, and done deals
+  with some of the largest companies, PE funds, and model
+  providers.
+
+  It all comes down to how we work with clients. Before we
+  build anything, we listen, understand the business, and help
+  them figure out the highest-leverage way to get started on
+  their AI journey.
+
+  About the Role
+
+  We're looking for engineers who are AI-native, have real
+  fundamentals in programming, data, and systems, and have the
+  judgment to get the most out of LLMs - and know where they
+  break. The work spans enterprise document processing,
+  workflow automation, computer vision, and financial research
+  tooling, across finance, healthcare, and enterprise clients.
+
+  This is a role for someone who ships, owns outcomes, and
+  wants unusual amounts of responsibility early.
+
+  What You’ll Do
+
+  - Own AI product builds end to end, from concept through
+    production, on a client engagement
+  - Decide what to build and how: gather requirements, pressure-
+    test what stakeholders ask for, and prioritize the work
+    that matters
+  - Prototype fast with LLMs, then harden into production with
+    the data pipelines, integrations, and evals that make it
+    trustworthy
+  - Do the data engineering enterprise work requires: ingestion,
+    data modeling, and ETL
+  - Serve as the primary technical contact for clients - talk
+    shop with their engineers and give their executives
+    clarity
+  - Instrument what you build (analytics, funnel metrics, error
+    analysis) and iterate on real usage, not assumptions
+  - Own reliability, security, and cost: auth, secrets, PII
+    handling, and not blowing up the cloud bill
+  - Write up what you learn; for the team, for clients, and
+    publicly
+
+  What You’ll Bring
+
+  - Strong engineering fundamentals: programming, debugging, and
+    system design. You think well beyond the happy path
+  - You've shipped something real with an LLM that got actual
+    usage - ideally with error analysis and evals on your
+    outputs
+  - Data engineering: data modeling and architecture, plus
+    ETL/pipeline experience (Airflow, Dagster, Inngest,
+    Prefect, or similar)
+  - Web and infra fundamentals: auth and web security, profiling
+    slow queries (N+1, unnecessary joins), CI/CD, and cost-
+    aware deployment on a major cloud
+  - You use modern AI tooling (e.g., Claude Code) daily, with
+    customized workflows
+  - High agency: you frame ambiguous problems, state your
+    assumptions, and push work forward without being managed
+  - Strong writing and a high say:do ratio - you can turn a
+    long, meandering client call into a clean set of tickets
+
+  Nice To Haves
+
+  - Depth in one of our core verticals: financial services,
+    healthcare, or enterprise / contact-center AI
+  - Comfort being client-facing at a senior level
+  - Fluency in and preference for TypeScript - much of our stack
+    is full TS
+  - You've built observability for an AI product
+  - You're plugged into the applied-AI community
+
+  Why This Role Is Hard To Fill
+
+  Most engineers land on one side of a line. Strong classical
+  engineers often haven't built the judgment to know what LLMs
+  can and can't do. Fast "vibe coders" can spin up a demo but
+  can't debug it once it hits real data, real scale, or a real
+  security requirement. We need both - plus the product sense
+  and agency to run a client build largely alone. Someone who
+  needs clean requirements and heavy supervision won't thrive
+  here, and neither will someone whose work falls apart the
+  moment it leaves the happy path.
+
+  You Might Be A Fit If
+
+  - You've built and deployed something 0→1; shipped it, got
+    real usage, and iterated
+  - You're T-shaped: deep in one area (ML, full-stack, data, or
+    security) and rounding out the rest
+  - You've been the solo or founding engineer on a product and
+    owned outcomes, not just tickets
+
+  Logistics
+
+  - Fully remote, US/Canada based, with occasional client
+    travel. We have team members across North America and
+    internationally, mostly overlapping North American time
+    zones. Work when and where you want, as long as the work
+    gets done
+  - Compensation calibrated to your location and seniority -
+    we'll talk comp and align on specifics early
+
+  Benefits
+
+  - 🏥 Medical, Dental, and Vision Coverage: Comprehensive health
+    benefits to keep you and your family healthy.
+  - 🌴 Flexible PTO: Take the time you need to relax and
+    rejuvenate.
+  - 🚑 Health FSA/HSA: Manage out-of-pocket health expenses
+    effectively.
+  - 🏥 Life Insurance: Providing peace of mind for you and your
+    loved ones.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Design
+posted_date: 2026-09-10
+url: "https://www.builtinla.com/job/ai-product-engineer/11114096"
+source: Built In

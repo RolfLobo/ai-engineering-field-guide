@@ -1,0 +1,59 @@
+company:
+  name: Synthlane Technologies
+  stage: null
+  focus: Enterprise software development and technology services
+position:
+  title: Senior Full Stack Java Developer – Agentic AI / AI-Assisted Development
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly builds and integrates AI agents, LLM-
+      powered workflows, tool calling, RAG, and prompt
+      engineering, which is shaping model behaviour, not merely
+      using AI coding assistants. LLM/agent components dominate,
+      so ai-first.
+  responsibilities:
+  - Design and develop scalable full-stack applications using Java and Spring Boot
+  - Build and maintain Microservices and REST APIs for enterprise applications
+  - Develop responsive frontend applications using React.js or Angular
+  - Build or integrate AI agents, LLM-powered workflows, and tool-calling capabilities
+  - Use Agentic AI and AI coding tools for code generation, refactoring, debugging,
+    and testing
+  - Implement secure authentication and authorization with OAuth2, JWT, and Spring
+    Security
+  - Build event-driven solutions using Kafka and similar messaging technologies
+  - Develop and maintain CI/CD pipelines and work with Docker, Kubernetes, and cloud
+    platforms
+  - Mentor junior and mid-level developers and provide technical guidance
+  use_cases:
+  - AI-assisted software development (code generation, refactoring, debugging, testing)
+  - AI agents and LLM-powered workflows embedded in enterprise applications
+  - Tool calling / function calling capabilities for agent workflows
+  - Scalable enterprise full-stack web applications
+  - Event-driven enterprise integrations via Kafka and messaging platforms
+  skills:
+    databases: [PostgreSQL, MySQL, Oracle, Vector Databases, Pinecone, OpenSearch,
+      Elasticsearch, Redis, MongoDB, SQL]
+    domains: []
+    data: [Kafka]
+    web: [Spring Boot, Microservices, REST APIs, Hibernate, JPA, React, Angular, GraphQL,
+      Spring WebFlux, OAuth]
+    ml: []
+    ops: [Git, Maven, Gradle, JUnit, Mockito, Docker, Kubernetes, CI/CD, Jenkins,
+      GitHub Actions, Azure DevOps, Terraform, MLOps, LLMOps]
+    other: [System Design, Design Patterns, SOLID Principles, Multithreading, Production
+        Troubleshooting, Agentic AI]
+    cloud: [AWS, Azure, GCP]
+    languages: [Java, JavaScript, TypeScript, HTML, CSS]
+    genai: [AI Agents, Agentic Workflows, Generative AI, LLMs, Prompt Engineering,
+      Function Calling, RAG, LangChain, LangGraph, OpenAI API, Anthropic API, Gemini,
+      GitHub Copilot, Cursor, Claude Code, MCP, Multi-Agent Systems, LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11257074'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:31:57.213763'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

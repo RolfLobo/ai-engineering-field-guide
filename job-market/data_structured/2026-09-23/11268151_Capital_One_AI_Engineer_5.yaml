@@ -1,0 +1,60 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML products
+position:
+  title: AI Engineer 5
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM components directly: multi-
+      agent workflows, guardrails, model evaluation, LLM
+      inference, and multi-model orchestration pipelines. This is
+      shaping model behaviour and building AI systems with
+      LLM/agent components, so ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, agents, guardrails, and model evaluation
+  - Apply foundation model optimization techniques to improve scalability, cost, latency,
+    and throughput of production AI systems
+  - Design and optimize multi-model orchestration pipelines integrating LLMs, vector
+    search, and domain-specific models
+  - Lead cost-performance governance reviews tracking GPU utilization, throughput,
+    and inference cost efficiency
+  - Lead design councils and design review boards to ensure AI engineering standards
+  - Mentor Principal and Manager-level AI engineers
+  - Contribute to the technical vision and roadmap of foundational AI systems
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Fraud alerts and unusual charge detection
+  - Real-time customer question answering
+  - Internal AI tools that change how associates work
+  - Scalable AI platform capabilities powering products across the bank
+  skills:
+    genai: [AI Agents, Agentic Workflows, Multi-Agent Systems, Guardrails, LLM Evaluation,
+      Fine-Tuning, LLMs, RAG]
+    ml: [PyTorch, Hugging Face, Machine Learning, Model Training, Quantization, CUDA,
+      Similarity Search]
+    web: []
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: [Observability]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268151'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-09-23T11:33:52.373077'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Extreme Networks
+  stage: null
+  focus: Enterprise networking infrastructure and cloud solutions
+position:
+  title: SR PROGRAMMER 10515- Workato Integration & AI Automation Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic workflows, RAG applications, MCP
+      integrations, and does prompt engineering with LLMs,
+      directly shaping model behavior through retrieval and agent
+      design. AI named in context of LLMs, so ai-first.
+  responsibilities:
+  - Design, build, and maintain Workato recipes, custom connectors, and automation
+    workflows
+  - Develop integrations between Salesforce, ServiceNow, Oracle, Snowflake, and other
+    SaaS applications
+  - Build reusable integration components, APIs, and services in Python
+  - Design end-to-end integration and automation architecture including data flows
+  - Develop AI/GenAI-powered automations and RAG-based applications using LLMs and
+    enterprise data
+  - Build agentic workflows where AI agents retrieve data, reason, and execute actions
+    across applications
+  - Implement error handling, retry mechanisms, logging, monitoring, and observability
+  - Troubleshoot complex integration, API, authentication, and data-flow issues
+  use_cases:
+  - Enterprise application integration and automation via Workato
+  - AI-powered workflow automation across Salesforce and business apps
+  - RAG applications combining enterprise knowledge sources with LLMs
+  - Agentic workflows that retrieve, reason over, and act on enterprise data
+  - Data processing and API orchestration for integration pipelines
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, MCP, RAG, Prompt Engineering, Generative
+        AI]
+    ml: []
+    web: [APIs, REST APIs, Webhooks]
+    databases: [Snowflake]
+    data: []
+    cloud: []
+    ops: [Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Workato, Salesforce, ServiceNow]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11040098'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:15:12.251353'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,59 @@
+company:
+  name: Digital Green
+  stage: null
+  focus: |-
+    Non-profit building AI advisory tools for smallholder
+    farmers
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds and evaluates computer vision and ASR/speech
+      models directly (training, fine-tuning, evaluation), which
+      is shaping model behaviour. The targets are classical CV and
+      speech models with no LLM prompt/retrieval/agent component,
+      so it is ml-first.
+  responsibilities:
+  - Build and evaluate ASR systems optimized for agricultural domain content and rural
+    speech patterns
+  - Develop pipelines for multilingual transcription, diarization, noise handling,
+    and accent robustness
+  - Develop and evaluate computer vision models for crop disease/pest detection and
+    livestock health assessment
+  - Build image and video processing pipelines for challenging real-world farmer-submitted
+    content
+  - Define and run evaluation frameworks, ensuring model reliability and production
+    monitoring
+  - Test vision and audio models against adversarial inputs, spoofing, and data leakage
+    risks
+  - Mentor junior engineers in ASR and computer vision model evaluation, fine-tuning,
+    and deployment
+  - Partner with backend, DevOps, and product teams to deliver production-ready features
+    and prototypes
+  use_cases:
+  - Multilingual agricultural advisory via speech recognition for farmers
+  - Crop disease and pest detection from farmer-submitted images
+  - Livestock health assessment and animal identification from images and video
+  - Voice-based farmer interaction in low-resource rural contexts with noisy audio
+  skills:
+    genai: []
+    ml: [ASR, Whisper, Wav2Vec, CLIP, Vision Transformers, YOLO, Mask R-CNN, DINO,
+      PyTorch, OpenCV, torchaudio, Librosa, Fine-Tuning, Quantization, Pruning, Distillation,
+      Model Evaluation, Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure Cognitive Services]
+    ops: [Triton, TorchServe, TensorRT]
+    languages: [Python]
+    domains: [Computer Vision]
+    other: [GDPR, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10867210'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:03:50.570769'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

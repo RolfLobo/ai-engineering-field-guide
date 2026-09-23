@@ -1,0 +1,48 @@
+company:
+  name: Allucent
+  stage: null
+  focus: Clinical trial services for biopharmaceutical companies
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and optimizes RAG pipelines, integrates
+      Azure OpenAI and Azure Cognitive Search, and applies prompt
+      engineering and embedding management — directly shaping LLM
+      output quality, so it is ai-first.
+  responsibilities:
+  - Architect, develop, and deploy scalable AI-driven systems using Python, FastAPI,
+    and Azure OpenAI
+  - Build and maintain microservices for AI and data processing workflows
+  - Design and optimize RAG pipelines integrating Azure Cognitive Search and Cosmos
+    DB
+  - Integrate advanced search functionalities using Azure Cognitive Search and external
+    search APIs such as Perplexity and Bing Search API
+  - Use Git and Azure DevOps for version control and CI/CD deployment
+  - Build front-end components with React, TypeScript, and Redux
+  - Prepare detailed documentation of APIs, workflows, and AI pipelines
+  use_cases:
+  - Clinical trial intelligence and biopharmaceutical research assistance
+  - RAG-based enterprise knowledge retrieval
+  - AI-driven search with external online intelligence sources
+  - Data processing microservices for AI applications
+  skills:
+    genai: [RAG, Prompt Engineering, Embeddings]
+    ml: []
+    web: [FastAPI, React, Node.js, REST APIs, Microservices, Redux]
+    databases: [Cosmos DB, Vector Search]
+    data: []
+    cloud: [Azure OpenAI, Azure Cognitive Search]
+    ops: [Azure DevOps, CI/CD, Git]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Perplexity]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11095754'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:19:08.216840'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,63 @@
+company:
+  name: Lightning AI
+  stage: null
+  focus: |-
+    AI development, training, and deployment platform (PyTorch
+    Lightning)
+position:
+  title: Research Engineer, AI/ML Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops and post-trains models and builds systems
+      to evaluate them, including transformer-based language
+      models and generative AI systems. Training, post-training,
+      and evaluating LLMs is shaping model behaviour, and with LLM
+      targets this is ai-first.
+  responsibilities:
+  - Develop and post-train models while building systems to run, evaluate, debug,
+    and scale training workloads
+  - Build software, tooling, and platform capabilities for developing, training, and
+    deploying AI systems
+  - Contribute to Lightning's open-source projects and collaborate with the developer
+    community
+  - Work across deep learning systems, developer tooling, backend services, and platform
+    infrastructure
+  - Collaborate directly with customers to understand real-world AI workloads and
+    translate learnings into product improvements
+  - Prototype new ideas, evaluate approaches, and turn experiments into production-quality
+    software
+  - Debug complex problems spanning machine learning, distributed systems, and backend
+    software
+  use_cases:
+  - Post-training of AI models
+  - Large-scale model training and evaluation infrastructure
+  - Developer tooling for AI development and deployment
+  - Production inference and deployment of generative AI systems
+  - Open-source AI platform capabilities
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [PyTorch, Deep Learning, Model Training, Fine-Tuning, Model Evaluation, Hugging
+        Face, CUDA, Distributed Training, DeepSpeed, FSDP, SGLang]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, vLLM, Triton]
+    languages: []
+    domains: []
+    other: [Open Source]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11248588'
+  location: Seattle, USA
+  locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+  - London, GBR
+  remote: true
+  extracted_at: '2026-09-23T11:30:56.615460'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

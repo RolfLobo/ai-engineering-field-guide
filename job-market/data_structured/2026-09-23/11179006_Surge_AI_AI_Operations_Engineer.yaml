@@ -1,0 +1,54 @@
+company:
+  name: Surge AI
+  stage: null
+  focus: Human data platform powering frontier AI models
+position:
+  title: AI Operations Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is operational: building data processing
+      pipelines, internal tooling, and running cross-functional
+      data collection projects. While the datasets feed frontier
+      model training, the role itself does not shape model
+      behavior through prompts, retrieval, training, or evals, and
+      AI/ML experience is explicitly not required. This fits the
+      dataset/pipeline edge case as ai-support.
+  responsibilities:
+  - Design and build scalable systems and tooling, including data processing pipelines
+    and automation workflows
+  - Build AI-based quality control tools to improve how work is delivered and evaluated
+    at scale
+  - Own end-to-end design and execution of data collection projects for frontier AI
+    labs
+  - Define task structures and build quality frameworks for dataset creation
+  - Establish and expand scalable processes to enhance customer support and value
+    delivery
+  - Drive execution of multiple simultaneous cross-functional projects with timelines
+    and deadlines
+  - Interface with technical and non-technical stakeholders
+  use_cases:
+  - Data collection and dataset production for frontier AI labs
+  - Scalable oversight and evaluation of AI training data
+  - Operational automation and internal tooling for large-scale workforce delivery
+  - AI-based quality control for delivered work
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11179006'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:24:06.313369'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

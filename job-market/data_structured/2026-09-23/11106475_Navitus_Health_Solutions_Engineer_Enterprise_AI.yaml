@@ -1,0 +1,59 @@
+company:
+  name: Navitus Health Solutions
+  stage: null
+  focus: Pharmacy benefit manager reducing drug supply chain costs
+position:
+  title: Engineer, Enterprise AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent frameworks, orchestration services,
+      Agentic Workflows, context management including MCP servers,
+      and human-in-the-loop patterns - directly shaping LLM/agent
+      behavior. Step 1 yes, Step 2: agentic/LLM components
+      involved -> ai-first.
+  responsibilities:
+  - Design, build, and maintain enterprise AI solutions and services enabling generative
+    AI, machine learning, and agentic AI adoption
+  - Implement enterprise AI architecture patterns and standards into production-ready
+    solutions
+  - Develop AI integration patterns connecting AI capabilities with enterprise applications,
+    APIs, data platforms, and cloud services
+  - Build AI-enabled services including model interfaces, orchestration services,
+    and agent frameworks
+  - Support Agentic AI workflows including orchestration, tool integration, context
+    management, and human-in-the-loop capabilities
+  - Implement MLOps/LLMOps capabilities including deployment pipelines, monitoring,
+    observability, and lifecycle management
+  - Ensure AI solutions align with governance, responsible AI standards, and regulatory
+    requirements
+  use_cases:
+  - Enterprise-wide scalable adoption of generative AI, ML, and agentic AI capabilities
+  - Agentic AI workflows with orchestration, tool integration, and human-in-the-loop
+    governed decision-making
+  - AI service integrations with enterprise applications, APIs, data platforms, and
+    cloud services
+  - Governed AI decision-making aligned with data privacy, auditability, and regulatory
+    compliance
+  - Supporting PBM/pharmacy benefit management business processes with AI capabilities
+  skills:
+    genai: [Agentic Workflows, Generative AI, MCP, Function Calling]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS, AWS Certified Solutions Architect, AWS Machine Learning Specialty]
+    ops: [MLOps, LLMOps, Model Deployment, Monitoring, Observability, Distributed
+        Systems]
+    languages: [Python, C#]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11106475'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:19:13.726647'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

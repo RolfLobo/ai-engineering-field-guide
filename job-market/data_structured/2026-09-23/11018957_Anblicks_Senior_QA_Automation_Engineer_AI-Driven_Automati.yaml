@@ -1,0 +1,51 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: IT services and consulting firm
+position:
+  title: Senior QA Automation Engineer – AI-Driven Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role goes beyond using AI tools: it requires creating AI
+      Agents for QA workflows, applying Prompt Engineering and
+      Generative AI to build AI-driven test generation and
+      analysis. Designing agent flows and prompts is shaping model
+      behavior, and LLMs are involved, so ai-first.
+  responsibilities:
+  - Design, develop, and maintain scalable test automation frameworks
+  - Build automated tests for web applications, APIs, and end-to-end business workflows
+  - Develop and maintain API automation and validation solutions
+  - Implement AI-driven testing approaches for test generation, coverage, execution,
+    and defect analysis
+  - Create and leverage AI Agents for test automation, validation, test analysis,
+    and QA workflows
+  - Apply Prompt Engineering and Generative AI to enhance quality engineering activities
+  - Integrate automation frameworks with CI/CD pipelines and support continuous testing
+  - Evaluate and adopt emerging AI and automation technologies to improve QA productivity
+  use_cases:
+  - AI-driven test generation and self-healing test automation
+  - Intelligent test analysis and defect detection
+  - Automated testing of web applications, APIs, and end-to-end workflows
+  - AI Agents for QA workflow automation and validation
+  - Continuous testing integrated into CI/CD pipelines
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [Playwright, Selenium, Cypress, WebdriverIO, Appium, REST APIs]
+    ml: []
+    ops: [CI/CD, DevOps, Jira, Azure DevOps, Jenkins, GitHub Actions]
+    other: []
+    cloud: [Azure OpenAI, Azure, AWS, GCP]
+    languages: [Java, Python, JavaScript, TypeScript, C#]
+    genai: [Generative AI, AI Agents, Prompt Engineering, LLMs, OpenAI API, GitHub
+        Copilot, Anthropic API, AutoGen, Multi-Agent Systems, RAG, LLM Evaluation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11018957'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:13:13.847533'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

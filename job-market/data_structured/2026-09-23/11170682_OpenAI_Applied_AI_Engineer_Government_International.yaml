@@ -1,0 +1,51 @@
+company:
+  name: OpenAI
+  stage: null
+  focus: AI research and deployment company
+position:
+  title: Applied AI Engineer, Government, International
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds applications on OpenAI model APIs and Codex,
+      designs architectures and evaluations for GenAI use cases,
+      shaping model-driven agent behavior through implementation.
+      Forward-deployed engineering adapting AI solutions at
+      customer sites is ai-first.
+  responsibilities:
+  - Deliver scoped technical implementations with international public-sector customers,
+    building applications on OpenAI model APIs and Codex
+  - Work with senior customer stakeholders to identify high-value GenAI applications
+    and build a qualification backlog
+  - Build hands-on prototypes and deliver strategic guidance alongside systems integrators
+    and implementation partners
+  - Manage relationships with customer and partner leadership to ensure successful
+    deployment and scale
+  - Contribute to open-source developer and enterprise resources
+  - Codify best practices, publish notebooks, and scale the Applied AI Engineering
+    function
+  - Deliver high-signal feedback to Product, Engineering, and Research teams
+  use_cases:
+  - GenAI strategy and implementation for international government agencies
+  - Public-sector AI applications from prototype through production
+  - Agentic solutions in sovereign and regulated environments
+  - AI adoption and production readiness for defense and intelligence customers
+  skills:
+    genai: [LLMs, Agentic Workflows, OpenAI API, Codex]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud Architecture]
+    ops: []
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11170682'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:23:41.519419'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,81 @@
+company:
+  name: DataPilot
+  stage: null
+  focus: AI systems for law enforcement and public safety
+position:
+  title: AI Python Engineer – Public-Safety Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, builds prompt tooling with
+      guardrails and eval harnesses, fine-tunes and quantizes LLMs
+      with RLHF, and monitors model quality - clearly shaping LLM
+      behavior, making it ai-first.
+  responsibilities:
+  - Design and maintain microservices (REST/gRPC) exposing AI models via API
+  - Package and deploy models (vLLM, Ollama, HF Transformers) with Docker and CI/CD
+  - Build RAG and hybrid dense-sparse retrieval pipelines with vector databases and
+    LangChain/LlamaIndex/LangGraph
+  - Perform fine-tuning, quantization, and RLHF/RLAS on Llama, Qwen, and Mistral models
+  - Create prompt tooling, guardrails, and eval harnesses aligned with CJIS requirements
+  - Implement model quality monitoring and security policies (Guardrails AI, LlamaFirewall)
+  - Integrate with SIEM/SOC systems and databases (Elasticsearch, PostgreSQL)
+  - Co-develop MLOps standards, testing, logging, and observability
+  use_cases:
+  - Threat detection for federal agencies and law enforcement
+  - Evidence analysis using multimodal AI over text, images, and sound
+  - Real-time intelligent decision automation for public safety
+  - Retrieval-augmented search over law enforcement data
+  - AI systems deployed in air-gapped and high-security CJIS/FISMA-compliant environments
+  skills:
+    genai: [LangChain, LlamaIndex, LangGraph, CrewAI, RAG, LLMs, Agentic Workflows,
+      OpenAI API, Anthropic API, Azure OpenAI, Fine-Tuning, Quantization, RLHF, Prompt
+        Engineering, Guardrails, Llama, Mistral, Embeddings, Semantic Search]
+    ml: [Hugging Face, Transformers, PyTorch Lightning]
+    web: [FastAPI, Django, Flask, REST APIs, gRPC]
+    databases: [Qdrant, Milvus, Pinecone, Weaviate, Elasticsearch, PostgreSQL, Vector
+        Databases]
+    data: [Kafka, RabbitMQ]
+    cloud: [Azure, AWS, AKS, SageMaker, AWS Bedrock]
+    ops: [Docker, Kubernetes, Helm, Kustomize, CI/CD, GitHub Actions, GitLab CI, vLLM,
+      Terraform, Prometheus, Grafana, MLOps, Ollama]
+    languages: [Python]
+    domains: [NLP]
+    other: [Event-Driven Architecture, BM25, Qwen, Cursor, Windsurf]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11205131'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - POL
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-09-23T11:26:38.965401'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

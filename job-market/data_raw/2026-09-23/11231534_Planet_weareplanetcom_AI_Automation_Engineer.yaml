@@ -1,0 +1,118 @@
+job_id: 11231534
+title: AI Automation Engineer
+company: Planet (weareplanet.com)
+location: Porto, PRT
+locations:
+  - Porto, PRT
+  - London, GBR
+  - Warsaw, POL
+work_type: FULL_TIME
+company_size: 2,648 Employees
+description: |
+  About Planet
+
+  Planet is a global provider of integrated technology and
+  payments solutions for retail and hospitality customers.
+
+  We create great experiences for the millions of people who
+  use our payments, software, and tax-free solutions every
+  minute of every day.
+
+  Planet empowers its customers to deliver great customer
+  experiences by combining payments and software in ways that
+  drive greater loyalty, increase revenue and save time.
+
+  Founded over 35 years ago and with our headquarters in
+  London, today we have more than 2,500 employees located
+  across six continents serving our customers in more than 120
+  markets.
+
+  Role Overview:
+
+  This role owns the design, delivery, and ongoing behaviour
+  of production AI workflows that automate and augment work
+  across Planet’s internal systems — HR, Finance, Operations,
+  and CRM. You will be accountable not only for shipping the
+  technology, but for the quality of the decisions it makes:
+  building agents, prompts, and retrieval pipelines that
+  business users can trust, and improving them over time
+  through measurement and real-world feedback. The impact is
+  direct — reliable, auditable AI that reduces manual effort
+  and raises the quality and speed of everyday decisions
+  across the business.
+
+
+  What you will do:
+
+  - Design and build production-grade AI workflows that
+    integrate across internal systems (HR, Finance,
+    Operations, CRM).
+  - Implement the orchestration logic — triggers, retries,
+    fallbacks, and human-in-the-loop patterns — so workflows
+    run reliably, observably, and auditably.
+  - Develop and maintain the AI agents, prompts, retrieval
+    pipelines, and decision logic that power those workflows.
+  - Own model behaviour in production: accuracy and usefulness,
+    failure modes, and edge-case and ambiguity handling.
+  - Iterate on model performance using evaluation frameworks,
+    feedback loops, and real-world usage data.
+  - Take accountability for decision quality and outcomes — not
+    just technical execution — defining and tracking success
+    metrics such as accuracy, resolution rate, and time saved.
+  - Diagnose cases where systems are technically “working” but
+    producing poor outcomes, and close the gap.
+  - Partner with Data Engineering on shared platforms
+    (infrastructure, CI/CD, data pipelines, security and
+    governance) and contribute to shared standards, schemas,
+    and best practices for AI systems.
+
+  Who you are:
+
+  - Strong software engineering background (Python or similar),
+    with a track record of building production systems — not
+    just prototypes.
+  - Hands-on experience with AI / ML systems (LLMs, classifiers,
+    decision models, or similar).
+  - Experience integrating APIs and working with distributed
+    systems.
+  - Experience designing prompts, retrieval pipelines, or ML
+    inference workflows.
+  - Solid understanding of model evaluation, monitoring, and
+    feedback loops; comfortable working with both structured
+    and unstructured data.
+  - Product-oriented — cares about outcomes, not just shipping
+    code; pragmatic about AI and focused on what works in
+    production.
+  - Comfortable owning ambiguity and making trade-offs.
+  - Languages: English
+  - A plus, but not required: workflow orchestration tools
+    (Temporal, Airflow, Step Functions); experience building
+    internal tools or agents; familiarity with regulated or
+    enterprise environments; exposure to MLOps or AI
+    evaluation frameworks.
+
+  Why Planet:
+
+  Planet is an equal opportunity employer where diversity is
+  valued, and all employment is decided based on
+  qualifications, merit, and business need.
+
+  Come and grow your career in the most exciting, fast paced
+  technology market, with a business that delivers feel-good
+  connected commerce.
+
+  We would love to hear from you – Apply now.
+
+  At Planet, we embrace a hybrid work model, with three days a
+  week in the office.
+
+
+  Reasonable accommodations may be made in order to allow for
+  an individual to perform the essential functions of this
+  role successfully.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-17
+url: "https://builtin.com/job/ai-automation-engineer/11231534"
+source: Built In

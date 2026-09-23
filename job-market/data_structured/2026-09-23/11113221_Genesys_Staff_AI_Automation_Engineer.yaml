@@ -1,0 +1,60 @@
+company:
+  name: Genesys
+  stage: null
+  focus: AI-powered customer experience orchestration platform
+position:
+  title: Staff AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs production agentic workflows (context
+      management, tool-calling reliability, cost controls, failure
+      handling), owns prompt strategy and output-reliability
+      standards for enterprise LLM platforms, and builds
+      production agentic systems with LangChain/CrewAI/AutoGen —
+      all direct shaping of LLM behavior. LLM/agent components
+      dominate, so ai-first.
+  responsibilities:
+  - Own the technical strategy and multi-year roadmap for the enterprise automation
+    portfolio spanning legacy RPA, Playwright, and agentic AI frameworks
+  - Set automation engineering standards for architecture patterns, testing, observability,
+    deployment, and documentation
+  - Own the modernization and decommissioning strategy for the legacy RPA estate and
+    define migration playbooks
+  - Design reusable production-grade patterns for agentic workflows including context
+    management, tool-calling reliability, cost controls, and failure handling
+  - Own the integration architecture connecting enterprise AI platforms (Claude, ChatGPT
+    Enterprise, Amazon Q) into the automation pipeline, including versioning and prompt
+    strategy
+  - Build internal tooling, shared libraries, templates, and CI/CD patterns that lower
+    the cost of building new automations
+  - Mentor senior and mid-level engineers and serve as technical escalation point
+    for complex or high-risk automation initiatives
+  - Turn execution telemetry (reliability, volume, latency, cost) into narratives
+    informing prioritization and platform investment
+  use_cases:
+  - Enterprise business process automation and orchestration
+  - Modernizing and migrating a legacy RPA estate to API-native and agentic alternatives
+  - Agentic AI pipelines integrated into internal IT automation workflows
+  - Reliable, cost-controlled LLM-driven automation with failure handling and observability
+  skills:
+    genai: [Agentic Workflows, LangChain, CrewAI, AutoGen, LLMs, Prompt Engineering,
+      Anthropic API, ChatGPT, Amazon Q]
+    ml: []
+    web: [Playwright, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [RPA, Automation Anywhere, Power Automate, UiPath, ITSM]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11113221'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:19:54.036126'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

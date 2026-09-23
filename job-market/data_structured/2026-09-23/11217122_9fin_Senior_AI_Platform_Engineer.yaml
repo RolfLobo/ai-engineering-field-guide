@@ -1,0 +1,55 @@
+company:
+  name: 9fin
+  stage: null
+  focus: AI platform for global debt markets and credit data
+position:
+  title: Senior AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds platform services for Generative/Agentic AI
+      including RAG, embeddings, prompt management, AI gateways,
+      and evaluation services, directly shaping model behaviour
+      and retrieval design. LLM and agent components dominate, so
+      ai-first.
+  responsibilities:
+  - Design, build and evolve the enterprise AI platform powering AI products across
+    9fin
+  - Develop scalable AI services supporting Agentic AI, RAG, embeddings, vector search
+    and model serving
+  - Build orchestration layers transforming structured and unstructured enterprise
+    data into reusable AI capabilities
+  - Design reusable platform components for prompt management, model serving, vector
+    search, AI gateways and evaluation services
+  - Build APIs, SDKs and developer tooling enabling self-service AI development
+  - Build AI observability including monitoring, tracing, evaluation and cost optimisation
+  - Establish engineering best practices around testing, governance, Responsible AI
+    and deployment
+  use_cases:
+  - Intelligent document understanding for debt markets
+  - Autonomous AI agents running scheduled workflows such as morning market briefings
+  - Distressed company discovery
+  - Financial research assistance
+  - Retrieval and semantic search over proprietary credit data
+  skills:
+    genai: [Generative AI, AI Agents, Agentic Workflows, MCP, RAG, Embeddings, Vector
+        Databases, LLMs, LangGraph, LangChain, LlamaIndex, DSPy, CrewAI, Prompt Management,
+      Semantic Search]
+    ml: [Machine Learning]
+    web: [REST APIs, SDKs]
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: [AWS Bedrock]
+    ops: [Event-Driven Architecture, Docker, Kubernetes, CI/CD, Arize, Langfuse, LangSmith,
+      Model Deployment, Monitoring, AI Gateways]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11217122'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:28:01.051135'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: Weil, Gotshal & Manges LLP
+  stage: null
+  focus: International law firm providing legal services
+position:
+  title: Sr. Engineer, AI Application Development
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role goes beyond consuming APIs: it designs structured
+      outputs, tool/function calling, and (per the preferred,
+      clearly in-scope qualifications) RAG chunking/embedding
+      pipelines and multi-step agentic workflows with
+      orchestration frameworks. That is directly shaping LLM
+      behavior and retrieval, so it is ai-first.
+  responsibilities:
+  - Design, develop, and maintain AI-integrated enterprise applications using C#/.NET
+    and Python (ASP.NET Core Web APIs, background services, Flask/FastAPI)
+  - Integrate LLM APIs from Anthropic, OpenAI, and Google with structured outputs,
+    function/tool calling, streaming, retry/fallback, and cost management
+  - Build front-end interfaces for internal AI tools using React or Vue for non-technical
+    users
+  - Implement telemetry, usage tracking, and user feedback instrumentation for monitoring
+    and iterative improvement of AI features
+  - Maintain CI/CD pipelines in Azure DevOps and manage Azure SQL / SQL Server databases
+  - Implement authentication, authorization, secrets management, and audit logging
+    aligned with firm security and compliance standards
+  - Evaluate AI prototypes for security, scalability, and supportability before productionalization
+  - Collaborate with the AI Development Manager and internal teams on requirements,
+    architecture reviews, and documentation
+  use_cases:
+  - AI-powered internal tools for attorneys and legal professionals
+  - Document retrieval and search over legal content via RAG and hybrid vector search
+  - Agentic workflows exposing internal tools and data sources as reusable capabilities
+  - Multi-model LLM routing with fallback and cost controls for enterprise applications
+  - Usage tracking and feedback-driven iterative improvement of AI features
+  skills:
+    genai: [Anthropic API, OpenAI API, Structured Outputs, Function Calling, LLMs,
+      Agentic Workflows, LangGraph, Semantic Kernel, LangChain, RAG, Embeddings, Vector
+        Search, MCP]
+    ml: []
+    web: [ASP.NET Core, FastAPI, Flask, React, Vue, REST APIs, OAuth]
+    databases: [Azure SQL, SQL Server, Azure AI Search]
+    data: []
+    cloud: [Azure, Azure AI Foundry, Azure OpenAI, Microsoft Graph API]
+    ops: [Azure DevOps, CI/CD, Git, Monitoring]
+    languages: [C#, .NET, Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10833431'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:01:25.076152'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: Nokia
+  stage: null
+  focus: Global connectivity and network technology leader
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements agentic systems and works
+      with LLMs directly, shaping model behavior through agent
+      design alongside classical ML work, which makes it ai-first.
+  responsibilities:
+  - Design, develop, and deploy advanced AI/ML models and algorithms to analyze complex
+    data
+  - Implement machine learning models for applications including search, forecasting,
+    and text mining
+  - Develop agentic-based systems for anomaly detection and root-cause analysis
+  - Optimize existing ML models and pipelines for performance, scalability, and resource
+    efficiency
+  use_cases:
+  - Search
+  - Forecasting
+  - Text mining
+  - Anomaly detection
+  - Root-cause analysis
+  skills:
+    genai: [LLMs]
+    ml: [TensorFlow, PyTorch, Deep Learning]
+    web: []
+    databases: [Vector Databases, Cassandra]
+    data: [Spark, Kafka]
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11223500'
+  location: IND
+  locations:
+  - IND
+  - Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:27:50.637939'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

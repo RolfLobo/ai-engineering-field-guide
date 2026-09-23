@@ -1,0 +1,55 @@
+company:
+  name: Wissen Technology
+  stage: null
+  focus: Custom product engineering and IT consulting services
+position:
+  title: AI Implementation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG architectures (chunking, embeddings,
+      reranking, grounding), builds agent frameworks, and does
+      prompt engineering and LLM evaluation - clearly shaping LLM
+      behavior, so ai-first.
+  responsibilities:
+  - Design, develop, and deploy enterprise-grade Generative AI solutions using Azure
+    OpenAI, Azure AI Foundry, and Azure AI Search
+  - Build and maintain RAG pipelines, AI agents, APIs, and enterprise application
+    integrations
+  - Implement evaluation frameworks, observability, guardrails, caching, and CI/CD
+    pipelines for production AI
+  - Integrate AI systems securely with enterprise data platforms ensuring compliance
+    and secrets management
+  - Optimize AI applications for grounding accuracy, latency, scalability, reliability,
+    and cost
+  - Build agent-based solutions using Semantic Kernel, AutoGen, LangChain, LangGraph,
+    or Microsoft Agent Framework
+  - Collaborate with engineering delivery pods to drive AI adoption and provide technical
+    guidance
+  - Develop Python backend services and Java/Spring enterprise integrations
+  use_cases:
+  - Enterprise Generative AI applications for business-critical systems
+  - Retrieval-augmented generation over enterprise data
+  - Agent-based enterprise automation and integration
+  - Conversational AI user interfaces
+  - Regulated-industry (financial services) AI solutions
+  skills:
+    genai: [Azure OpenAI, RAG, Embeddings, Semantic Kernel, AutoGen, LangChain, LangGraph,
+      Prompt Engineering, LLM Evaluation, Guardrails, Generative AI, LLMs]
+    ml: []
+    web: [Spring Boot, React]
+    databases: [Vector Databases, Snowflake, Cortex AI]
+    data: []
+    cloud: [Azure AI Foundry, Azure AI Search, AKS, Azure Functions]
+    ops: [Azure DevOps, GitHub Actions, Docker, Observability, CI/CD]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11101789'
+  location: Bengaluru South, IND
+  extracted_at: '2026-09-23T11:18:13.640737'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

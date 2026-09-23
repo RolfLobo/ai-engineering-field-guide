@@ -1,0 +1,56 @@
+company:
+  name: Mozilla
+  stage: null
+  focus: Open-source email and privacy-respecting communication tools
+position:
+  title: Staff Product Engineer, Enterprise AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI-enabled product features with hands-on
+      familiarity required in LLMs, RAG, agents, model/provider
+      abstraction, and retrieval systems, meaning the engineer
+      shapes AI model behaviour themselves, not just consumes an
+      API. LLM/agent components are central, so it is ai-first.
+  responsibilities:
+  - Own Thunderbolt product features from concept through launch, adoption, and iteration
+  - Build features for AI-powered chat, search, research, workflow automation, administration,
+    integrations, and enterprise workflows
+  - Work across the stack on front-end, back-end, APIs, integrations, and infrastructure-adjacent
+    areas
+  - Translate product vision, user needs, partner feedback, and enterprise requirements
+    into technical plans and shipped experiences
+  - Instrument features and review usage, feedback, and adoption signals post-launch
+  - Use AI-assisted development tools to accelerate implementation while maintaining
+    quality and security
+  - Establish reusable product and engineering patterns for faster future feature
+    development
+  - Collaborate with product, design, engineering, enterprise-facing teams, and open-source
+    contributors
+  use_cases:
+  - AI-powered chat and search
+  - AI-assisted research and workflow automation
+  - Enterprise administration, integrations, and workflows
+  - Privacy-respecting, self-hosted AI with flexible model and deployment choices
+  - Product adoption measurement and reliability instrumentation
+  skills:
+    genai: [LLMs, RAG, AI Agents, Retrieval Systems, Model/Provider Abstraction, AI
+        Application Architecture]
+    ml: []
+    web: [APIs, Full-Stack Development]
+    databases: []
+    data: [Data Connectors]
+    cloud: []
+    ops: [Observability]
+    languages: []
+    domains: []
+    other: [Responsible AI, GDPR, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11055069'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:16:27.993531'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

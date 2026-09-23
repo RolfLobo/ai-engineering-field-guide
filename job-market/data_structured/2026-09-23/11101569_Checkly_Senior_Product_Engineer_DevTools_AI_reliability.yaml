@@ -1,0 +1,53 @@
+company:
+  name: Checkly
+  stage: Series B ($20M raised in 2024 from Balderton, CRV, Accel)
+  focus: Synthetic monitoring and end-to-end testing as code
+position:
+  title: Senior Product Engineer (DevTools & AI reliability, remote)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI coding agents (Codex, Claude) as
+      development tools for full-stack product engineering; the
+      person does not shape model behaviour through prompts,
+      retrieval, or evals as their job. The deliverable is
+      reliability/monitoring tooling, not model output quality, so
+      it is ai-support.
+  responsibilities:
+  - Build and ship full-stack features using AI coding agents for development, refactoring,
+    test generation and debugging
+  - Talk directly with developers, DevOps and SRE users to understand workflows, pain
+    points and feedback
+  - Validate ideas and iterate based on customer conversations and production signals
+  - Own work end to end from idea shaping through implementation and rollout
+  - Participate in on-call and weekly support rotations
+  use_cases:
+  - End-to-end testing and synthetic monitoring defined as code
+  - Reliability tooling for AI-native software and LLM-backed features
+  - Observability for AI agents and probabilistic systems
+  - Developer incident debugging and production pipeline integration
+  skills:
+    databases: [PostgreSQL, ClickHouse]
+    domains: []
+    data: []
+    web: [Vue, Playwright]
+    ml: []
+    ops: [OpenTelemetry]
+    other: [Agile]
+    cloud: [AWS]
+    languages: [TypeScript, Node.js, Go]
+    genai: [Claude Code, Codex]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11101569'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - BGR
+  - Tercer, MEX
+  - Madrid, ESP
+  remote: true
+  extracted_at: '2026-09-23T11:19:19.901847'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,59 @@
+company:
+  name: GE Aerospace
+  stage: null
+  focus: Aerospace engines and aviation technology
+position:
+  title: Sr AI Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs the retrieval substrate for LLM-based AI
+      applications — knowledge graphs, hybrid retrieval, grounding
+      corpora, eval datasets, and retrieval benchmarks — directly
+      shaping model grounding and output quality, so it is ai-
+      first. Pipeline and governance work is secondary to this
+      retrieval/eval design ownership.
+  responsibilities:
+  - Lead the design and evolution of knowledge graphs and ontologies powering AI reasoning,
+    retrieval, and explainability
+  - Align enterprise data from structured, semi-structured, and unstructured sources
+    into a queryable graph with provenance
+  - Own graph queries, vector indexes, and hybrid retrieval; drive measurable improvements
+    in grounding quality
+  - Curate grounding corpora, eval datasets, and retrieval benchmarks for LLM-based
+    features
+  - Build ingestion and transformation pipelines on AWS (Glue, Lambda, Step Functions,
+    S3, Athena, OpenSearch, Neptune) in Python and SQL
+  - Author infrastructure as code in CloudFormation/CDK with AWS best practices for
+    IAM, security, cost, and observability
+  - Integrate data access with enterprise identity and attribute-based access control
+    policies
+  - Set modeling standards and mentor engineers and citizen developers on ontology
+    design and retrieval engineering
+  use_cases:
+  - Enterprise knowledge graphs and ontologies for AI reasoning and explainability
+  - Retrieval corpora and hybrid retrieval powering grounded LLM features
+  - Grounding quality evaluation and retrieval benchmarks for enterprise AI applications
+  - Ingestion and transformation of engineering handbooks, parts, and service manuals
+    into queryable graph data
+  - Attribute- and context-based data access control for AI systems
+  skills:
+    genai: [RAG, Embeddings, MCP, AI Agents, LLMs]
+    ml: []
+    web: []
+    databases: [Knowledge Graphs, Neo4j, OpenSearch, Vector Search, TigerGraph]
+    data: [Data Pipelines, Data Modeling, Data Governance]
+    cloud: [AWS, AWS Bedrock, AWS Lambda, AWS S3, IAM, CloudFormation]
+    ops: [Infrastructure as Code]
+    languages: [Python, SQL, Cypher, Gremlin]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10839499'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:01:38.085456'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

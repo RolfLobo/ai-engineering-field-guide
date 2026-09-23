@@ -1,0 +1,56 @@
+company:
+  name: Voyager Technologies
+  stage: null
+  focus: Defense, national security and space technology
+position:
+  title: Software Engineer – AI Automation (Internal Tools)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs task-specific LLM assistants and agents
+      (contract summarization agent, policy advisor bot) and wires
+      up LLMs and agent frameworks directly, which is shaping
+      model behavior. It is not merely consuming an AI API
+      designed by another team.
+  responsibilities:
+  - Build and maintain AI-powered automations and workflows that streamline recurring
+    business processes such as report generation, approval flows, policy Q&A, and
+    data reconciliation
+  - Implement internal tools and microservices integrating with Finance, HR, IT, Cyber
+    Security, Supply Chain, Manufacturing, and Sales systems
+  - Develop Slack/Teams bots, web frontends, and small internal apps serving as copilots
+    for business users
+  - Use LLMs and agent frameworks to design task-specific assistants such as contract
+    summarization, supplier risk analysis, and internal policy advisory bots
+  - Work with the Internal AI Tools Lead and business stakeholders to map manual workflows
+    into technical requirements and automation designs
+  - Leverage agentic tools to write clean, tested code and contribute to shared libraries,
+    templates, and best practices
+  - Monitor and debug automations in production and improve reliability and performance
+    based on usage and feedback
+  use_cases:
+  - Report generation and approval flow automation
+  - Internal policy Q&A and contract summarization assistants
+  - Supplier risk analysis agents
+  - Data reconciliation and back-office process automation across finance, HR, and
+    supply chain
+  - Slack/Teams copilot bots for business users
+  skills:
+    genai: [LLMs, OpenAI API, LangChain, AI Agents]
+    ml: []
+    web: [REST APIs, Webhooks, Microservices]
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [Zapier, n8n]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11287965'
+  location: Los Angeles, USA
+  extracted_at: '2026-09-23T11:34:54.513171'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

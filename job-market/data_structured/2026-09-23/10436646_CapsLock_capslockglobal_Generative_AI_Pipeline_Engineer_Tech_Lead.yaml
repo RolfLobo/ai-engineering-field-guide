@@ -1,0 +1,73 @@
+company:
+  name: CapsLock (capslock.global)
+  stage: null
+  focus: B2C customer acquisition and digital marketing solutions
+position:
+  title: Generative AI Pipeline Engineer (Tech Lead)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The core work is shaping generative image/video pipelines:
+      training LoRAs, ControlNet/IP-Adapter conditioning,
+      inpainting, automated QC of visual output — training and
+      evaluating diffusion models with no LLM component in the
+      core duties (LLM orchestration is only a nice-to-have). Per
+      the rules, generative image/video work is ml-first.
+  responsibilities:
+  - 'Architect and run the AI Media Production platform: ComfyUI-style serving engines,
+    GPU environments, one-click UIs'
+  - Ship modular, versioned, reproducible generative pipelines (node-based and code-first,
+    e.g. diffusers)
+  - Develop one-click presets and use cases for image and video generation
+  - Train LoRAs end-to-end from product photography datasets to evaluated production
+    models
+  - Build control-first generation with ControlNet, IP-Adapter, inpainting, and reference
+    conditioning
+  - Engineer automated QC checks against product references into the pipeline
+  - Encode best-performing asset characteristics into reusable presets and styles
+  - Own the technical roadmap with the Design Director; qualify new models and tools
+    and drive adoption
+  use_cases:
+  - Product-accurate image generation for real B2C products (1:1 match to hardware
+    and geometry)
+  - Automated visual asset generation for performance marketing
+  - One-click image and video generation presets for non-technical creative teams
+  - Automated quality control of generated visuals against product references
+  - Creative intelligence loop encoding top-performing ad asset styles into reusable
+    presets
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [APIs]
+    ml: [Diffusers, LoRA, Fine-Tuning, ControlNet, IP-Adapter, Inpainting, VLM-Based
+        QC, Blender, CAD]
+    ops: [ComfyUI]
+    other: []
+    cloud: []
+    languages: [Python]
+    genai: [LLMs, Agentic Workflows]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10436646'
+  location: CAN
+  locations:
+  - CAN
+  - HUN
+  - IND
+  - POL
+  - BLR
+  - MDA
+  - BGR
+  - ROU
+  - SVK
+  - AUS
+  - IRL
+  - CZE
+  - GBR
+  - Singapore, SGP
+  remote: true
+  extracted_at: '2026-09-23T10:59:34.388884'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

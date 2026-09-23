@@ -1,0 +1,48 @@
+company:
+  name: OSF Digital
+  stage: null
+  focus: Digital transformation and AI consulting services
+position:
+  title: Back-End Developer, AI dev, India
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, agent loops, tool
+      orchestration, RAG solutions (chunking, metadata filtering),
+      and prompt engineering/evaluation — all direct shaping of
+      LLM/agent behavior.
+  responsibilities:
+  - Design and build AI agents, agent loops, tools, and orchestration workflows
+  - Develop RAG solutions with chunking strategies, metadata filtering, and controlled
+    vocabularies
+  - Implement prompt engineering, versioning, evaluation, and model reasoning frameworks
+  - Build and maintain APIs and integrations using OpenAPI standards
+  - Design event-driven backend services using Java, Spring Boot, Kafka, and MongoDB
+  - Develop operational dashboards and user interfaces using React and TypeScript
+  - Build and deploy cloud-native solutions on AWS and Kubernetes
+  use_cases:
+  - AI agent-based enterprise applications
+  - RAG-powered retrieval with chunking and metadata filtering
+  - Prompt versioning and evaluation frameworks
+  - Event-driven backend services for AI platforms
+  - Operational dashboards for AI systems
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, Prompt Engineering, MCP, Function Calling,
+      LLM Evaluation, OpenAI API, Anthropic API, AWS Bedrock, LLMs]
+    ml: []
+    web: [Spring Boot, React, OpenAPI]
+    databases: [MongoDB]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Kubernetes]
+    languages: [Python, asyncio, Java, TypeScript]
+    domains: []
+    other: [Event-Driven Architecture, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11226306'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:28:22.829768'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

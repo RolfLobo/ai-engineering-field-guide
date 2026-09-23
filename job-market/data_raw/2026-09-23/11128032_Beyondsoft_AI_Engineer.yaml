@@ -1,0 +1,157 @@
+job_id: 11128032
+title: AI Engineer
+company: Beyondsoft
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 3,359 Employees
+description: |
+  Overview
+
+  WHO WE ARE:
+
+  Beyondsoft is a leading mid-sized business IT and consulting
+  company that combines modern technologies and proven
+  methodologies to tailor solutions that move your business
+  forward.Our global head office is based in Singapore, and
+  our team is made up of a diversely talented team of experts
+  who thrive on innovation and pushing the bounds of
+  technology to solve our customers’ most pressing
+  challenges.When it comes time to deliver, we set our sights
+  on that sweet spot where brilliance, emerging technologies,
+  best practices, and accountability converge. We have a
+  global presence spanning four continents (North America,
+  South America, Europe, and Asia). Our global network of
+  talent and customer-centric engagement model enables us to
+  provide top-quality services on an unprecedented scale.
+
+  WHAT WE’RE ABOUT:
+
+  We believe that collaboration, transparency, and
+  accountability are the values that guide our business, our
+  delivery, and our brand. Everyone has something to bring to
+  the table, and we believe in working together with our peers
+  and clients to leverage the best of one another in
+  everything we do. When we proactively collaborate, business
+  decisions become easier, innovation is greater, and outcomes
+  are better.
+
+  Our ability to achieve our mission and live out our values
+  depends upon a diverse, equitable, and inclusive culture.
+  So, we strive to foster a workplace where people have the
+  respect, support, and voice they deserve, where innovative
+  ideas flourish, and where people can unleash their
+  brilliance. For more information regarding DEI at
+  Beyondsoft, please go to
+  https://www.beyondsoft.com/diversity/.
+
+  ADDITIONAL REQUIREMENT FOR REMOTE POSITIONS:
+
+  For remote positions, all candidates must complete a video
+  screen with our corporate recruiting team.
+
+  Responsibilities
+
+  POSITION SUMMARY:
+
+  We are seeking a highly hands-on AI Engineer who thrives in
+  building real-world, production-ready solutions. This role
+  is focused on designing, developing, and deploying end-to-
+  end AI agent solutions using modern tooling.
+
+  You will work in a fast-paced, innovation-driven
+  environment, taking ambiguous business problems and turning
+  them into scalable, pragmatic AI-powered solutions. This is
+  a core engineering role requiring strong ownership,
+  execution speed, and deep hands-on expertise in AI/LLM
+  systems.
+
+  WHAT YOU WILL BE DOING:
+
+  - Build and deploy AI agents and multi-agent systems on Azure
+    using composable patterns
+  - Build and consume MCP servers to connect agents to internal
+    data sources, tools, and enterprise workflows
+  - Design orchestration patterns, tool integrations, and RAG
+    pipelines
+  - Develop prompt engineering and evaluation workflows
+    (including automated eval loops)
+  - Build APIs for agent integration with enterprise platforms
+    (M365 Copilot, Teams)
+  - Implement data pipelines for unstructured data (transcripts,
+    support interactions)
+  - Set up CI/CD, responsible AI controls, and production
+    monitoring
+  - Use agentic dev tools (GHC CLI, Claude Code, Cursor, Copilot
+    agent mode) as your primary development workflow
+  - Flex into low-code agent configuration, infrastructure, and
+    data engineering as needed
+
+  Qualifications
+
+  MINIMUM QUALIFICATIONS:
+
+  - 4+ years of software engineering experience, with at least
+    2+ years building GenAI/LLM-based solutions in production
+    environments
+  - Strong hands-on experience in AI agent development,
+    including building and deploying agents using platforms
+    such as Azure AI Foundry, Microsoft Agent Framework, or
+    similar
+  - Proven expertise in LLM/GenAI engineering, including prompt
+    engineering, model selection, evaluation, and structured
+    outputs
+  - Advanced proficiency in Python, with experience writing
+    production-quality, scalable, and well-tested code
+  - Experience designing and building RESTful APIs for
+    enterprise-grade applications
+  - Strong understanding of Azure cloud infrastructure,
+    including deployment pipelines, identity, and search
+    services
+  - Experience building RAG pipelines, orchestration patterns,
+    and tool integrations
+  - Hands-on experience working with AI-native developer tools
+    such as GitHub Copilot CLI, Claude Code, Cursor, or
+    similar
+  - Ability to build and manage data pipelines for unstructured
+    data (e.g., transcripts, support interactions)
+  - Experience implementing CI/CD pipelines, monitoring, and
+    responsible AI practices
+  - Demonstrated experience in building real AI systems (not
+    just API integrations)
+
+  PREFERRED QUALIFICATIONS:
+
+  - Experience with MCP server development or similar agent-tool
+    integration protocols.
+  - Exposure to LLM/ML Ops, including evaluation frameworks and
+    automated testing loops.
+  - Familiarity with PySpark, NLP pipelines, or large-scale data
+    processing.
+  - Experience with Copilot Studio and Power Platform.
+  - Knowledge of containerization technologies (Docker,
+    Kubernetes).
+  - Front-end development experience for building AI-integrated
+    user interfaces.
+  - Experience integrating AI solutions with enterprise tools
+    such as Microsoft Teams and M365 Copilot.
+  - Strong understanding of agent evaluation frameworks and
+    automated evaluation workflows.
+  - Full-stack development experience is a plus.
+
+  Beyondsoft provides equal employment opportunities to all
+  employees and applicants for employment and prohibits
+  discrimination and harassment of any type with regards to
+  race, color, religion, age, sex, national origin, disability
+  status, genetics, veteran status, sexual orientation, gender
+  identity or expression, or any other characteristic
+  protected by federal, state, or local laws. This policy
+  applies to all terms and conditions of employment, including
+  recruiting, hiring, and the full employee lifecycle up
+  through and including termination.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-11
+url: "https://builtin.com/job/ai-engineer/11128032"
+source: Built In

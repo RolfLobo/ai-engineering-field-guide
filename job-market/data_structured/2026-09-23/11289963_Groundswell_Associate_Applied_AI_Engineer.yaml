@@ -1,0 +1,51 @@
+company:
+  name: Groundswell
+  stage: null
+  focus: Technology integrator and solutions for federal agencies
+position:
+  title: Associate Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior through prompt
+      engineering, RAG design, structured outputs, tool/function
+      definitions, and building evaluation sets with measurable
+      results. LLM components are central, so it is ai-first. It
+      is also explicitly client-facing consulting delivery.
+  responsibilities:
+  - Build production-quality functionality from defined technical approaches
+  - Refine requirements with business stakeholders and propose alternative solutions
+  - Build complete applications integrating AI capabilities including prompt and retrieval
+    design, structured outputs, and tool definitions
+  - Build evaluation sets from real data, measure results, and report findings
+  - Investigate AI capability failures, characterize causes, and implement fixes
+  - Support client demonstrations and proof-of-concepts
+  - Instrument and document work including logging, validation methods, and known
+    limitations
+  - Contribute reusable patterns, prompts, and evaluation harnesses to the team
+  use_cases:
+  - Client-facing AI solution delivery for federal agencies
+  - Rapid proofs of concept demonstrating AI applicability to business challenges
+  - AI-enabled applications with retrieval, structured extraction, and tool use
+  - Evaluation of AI capability results against real-world data
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Structured Outputs, Function Calling, LLM
+        Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, Azure OpenAI]
+    ops: []
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [ServiceNow, Salesforce, Appian, OutSystems, Mendix, Microsoft Power Platform]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11289963'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:35:00.747693'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

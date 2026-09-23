@@ -1,0 +1,140 @@
+job_id: 11074717
+title: Staff Agentic AI Engineer - Marketing
+company: Netomi
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About the Company:
+
+  Netomi is the leading agentic AI platform for enterprise
+  customer experience. We work with the largest global brands
+  like Delta Airlines, MetLife, United, and others to enable
+  agentic automation at scale across the entire customer
+  journey. Our no-code platform delivers the fastest time to
+  market, lowest total cost of ownership, and simple, scalable
+  management of AI agents for any CX use case. Backed by
+  WndrCo, Y Combinator, and Index Ventures, we help
+  enterprises drive efficiency, lower costs, and deliver
+  higher quality customer experiences.
+
+
+
+  Want to be part of the AI revolution and transform how the
+  world’s largest global brands do business? Join us!
+
+  As a Staff Agentic AI Engineer at Netomi, you will be a
+  senior individual contributor helping buildthe core agentic
+  factory platform that will enable customers to agentically
+  define and buildcustomer-specific agents to expand
+  marketing-oriented enterprise automation and
+  brandinteraction use cases. You will deliver innovative
+  designs and implement reliable, scalable, andmeasurable
+  agentic systems used by enterprise customers and business
+  users in complex,real-world production environments. This is
+  a hands-on engineering role for someone who drives
+  innovation and has built productionLLM and agent systems,
+  understands modern agent architectures, and has strong
+  instincts forevaluation, observability, performance
+  diagnosis, and continuous optimization. You will workacross
+  agent orchestration, tool use, prompt and tool-selection
+  strategies, RAG, embeddings,guardrails, and LLM evaluation
+  systems and marry these with appropriate deterministic
+  andML-based solutions to expand Netomi’s agentic factory.
+
+  Responsibilities:
+
+  - Design, build, and improve production-grade AI agentic
+    systems that optimizeweb-based and chat-based experiences
+    leveraging grounded, structured data
+  - Architect agent workflows involving reasoning, tool use,
+    retrieval, guardrails, escalation paths, and performance
+    monitoring
+  - Evaluate Deep Agent, Claude Agent, OpenAI Agent, LangGraph,
+    and other emerging agent orchestration patterns and
+    frameworks for marketing-oriented use cases
+  - Build and maintain LLM evaluation systems, including LLM-as-
+    judge workflows, regression evals, guardrail testing,
+    quality metrics, and production behavior analysis
+  - Diagnose agent performance issues across prompts, tool
+    selection, retrieval quality, latency, cost, task
+    completion, and failure modes
+  - Design and implement RAG and embedding-based capabilities
+    for enterprise knowledge access and automation workflows
+  - Build scalable Python services and platform components
+    deployed in AWS cloud environments
+  - Partner with product, platform, and engineering teams to
+    translate emerging agentic AI capabilities into reliable
+    platform features
+  - Establish engineering best practices for continuous
+    optimization of agentic systems
+  - Stay current with advances in LLMs, agent architectures, AI
+    coding tools, eval methodologies, retrieval systems, and
+    enterprise automation
+
+  Requirements:
+
+  - Bachelor’s Degree or higher in a quantitative field
+    (Statistics, Computer Science, Engineering, Mathematics)
+  - 5-7+ years of experience in AI/ML engineering, applied
+    machine learning, natural language processing, and/or AI
+    systems development
+  - 3-5 years of experience in applying AI, data science, and
+    machine learning in the marketing space
+  - Experience leveraging data from Adobe Experience Platform,
+    AdobeCommerce/Magento, Adobe Real-time CDP, Adobe Target,
+    and/or AdobeAnalytics/Customer Journey Analytics for data
+    science modeling and performance analysis
+  - Strong Python engineering skills and experience building
+    scalable production software systems
+  - Hands-on experience with LangGraph, LangChain, or related
+    agent orchestration frameworks
+  - Strong understanding of RAG, embeddings, retrieval quality,
+    and knowledge-grounded generation
+  - Experience deploying or operating systems in AWS cloud
+    environments
+  - Daily use of AI coding tools such as Codex, Claude Code,
+    Cursor, or similar tools as part of software development
+    workflows
+  - Strong engineering judgment, ability to work independently,
+    and comfort operating as a senior individual contributor
+    on ambiguous technical problems
+
+  Preferred Qualifications:
+
+  - Master’s Degree or higher in a quantitative field
+    (Statistics, Computer Science,Engineering, Mathematics)
+  - Experience building or using knowledge graphs for enterprise
+    knowledge modeling,retrieval, reasoning, or
+    personalization
+  - Hands-on experience building production LLM or AI agent
+    systems
+  - Experience designing agent architectures involving tool use,
+    reasoning flows, retrieval, memory, guardrails, and
+    workflow orchestration
+  - Experience developing AI evaluation systems, including LLM-
+    as-judge, guardrail evaluation, regression testing, and
+    production quality measurement
+  - Experience with enterprise automation platforms, customer
+    experience systems, workflow automation, or AI-powered
+    business process automation
+  - Experience with observability and tracing for LLM or agent
+    systems
+  - Experience optimizing agent systems for latency, cost,
+    reliability, safety, and task success
+  - Experience with vector databases, search infrastructure,
+    model routing, caching, ormulti-model architectures
+
+  Netomi is an equal opportunity employer committed to
+  diversity in the workplace. We evaluate qualified applicants
+  without regard to race, color, religion, sex, sexual
+  orientation, disability, veteran status, and other protected
+  characteristics.
+industries:
+  - Artificial Intelligence
+  - Consumer Web
+  - HR Tech
+  - Other
+posted_date: 2026-09-09
+url: "https://www.builtinla.com/job/staff-agentic-ai-engineer-marketing/11074717"
+source: Built In

@@ -1,0 +1,62 @@
+company:
+  name: Methods
+  stage: null
+  focus: |-
+    UK digital services consultancy, Microsoft Power Platform
+    solutions
+position:
+  title: Senior Microsoft Power Platform and AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role engineers AI agents, agentic workflows, MCP
+      tools/services, and applies RAG, structured outputs, tool
+      calling, and evaluation patterns directly - this is shaping
+      LLM/agent behaviour. Classification: ai-first.
+  responsibilities:
+  - Lead design, build, test, deployment and support of solutions using Power Apps,
+    Power Automate, Dataverse, Copilot Studio and pro-code extensions
+  - Engineer AI agents and agentic workflows using trusted knowledge, tools, approvals,
+    human hand-offs, evaluation and safe failure paths
+  - Design and implement integrations with approved MCP servers and develop MCP tools
+    or services with secure reusable patterns
+  - Integrate Power Platform and AI solutions with Microsoft 365, SharePoint, Microsoft
+    Graph, Azure and enterprise systems
+  - Apply grounding, RAG, structured outputs, tool calling and model-selection patterns
+    with evaluation and operational controls
+  - Create custom connectors, plug-ins and Azure-hosted components where low-code
+    capability is insufficient
+  - Set engineering standards for source control, solution packaging, automated testing,
+    CI/CD, monitoring and release management
+  - Lead technical investigation of complex live-service faults; review code, mentor
+    developers and contribute reusable patterns
+  use_cases:
+  - Enterprise low-code and pro-code business solutions on Microsoft Power Platform
+  - AI agents and agentic workflows with trusted knowledge, approvals and human hand-offs
+  - Grounded, evaluated AI responses using RAG and enterprise search
+  - MCP-based tool and agent integrations with enterprise systems
+  - Integration of Power Platform with Microsoft 365, SharePoint, Graph and Azure
+    services
+  - Secure, observable live services in government and regulated environments
+  skills:
+    genai: [Copilot Studio, AI Agents, Agentic Workflows, MCP, RAG, Structured Outputs,
+      Function Calling, Embeddings, Prompt Engineering, LLM Evaluation]
+    ml: []
+    web: [REST APIs, JSON, OAuth, APIs]
+    databases: [Vector Search, Semantic Search]
+    data: []
+    cloud: [Azure, Azure Functions, IAM]
+    ops: [CI/CD, Observability, Monitoring]
+    languages: [TypeScript, JavaScript, C#, Python]
+    domains: []
+    other: [Power Apps, Power Automate, Dataverse, Microsoft Graph, SharePoint, Microsoft
+        Entra ID, Power BI, Logic Apps, API Management, Key Vault, Application Insights,
+      Fabric, Responsible AI, Code Review]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11130498'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:21:04.158771'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

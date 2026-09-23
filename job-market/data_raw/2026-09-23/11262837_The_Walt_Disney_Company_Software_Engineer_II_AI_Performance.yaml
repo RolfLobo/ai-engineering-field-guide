@@ -1,0 +1,205 @@
+job_id: 11262837
+title: Software Engineer II, AI Performance
+company: The Walt Disney Company
+location: New York, USA
+work_type: FULL_TIME
+company_size: 219,548 Employees
+description: |
+  Job Posting Title:
+
+  Software Engineer II, AI Performance
+
+  Req ID:
+
+  10148555
+
+  Job Description:
+
+  Disney Entertainment and ESPN Product & Technology
+
+  Technology is at the heart of Disney’s past, present, and
+  future. Disney Entertainment and ESPN Product & Technology
+  is a global organization of engineers, product developers,
+  designers, technologists, data scientists, and more – all
+  working to build and advance the technological backbone for
+  Disney’s media business globally.
+
+  The team marries technology with creativity to build world-
+  class products, enhance storytelling, and drive velocity,
+  innovation, and scalability for our businesses. We are
+  Storytellers and Innovators. Creators and Builders.
+  Entertainers and Engineers. We work with every part of The
+  Walt Disney Company’s media portfolio to advance the
+  technological foundation and consumer media touch points
+  serving millions of people around the world.
+
+
+  Here are a few reasons why we think you’d love working here:
+
+  - Building the future of Disney’s media: Our Technologists are
+    designing and building the products and platforms that
+    will power our media, advertising, and distribution
+    businesses for years to come.
+  - Reach, Scale & Impact: More than ever, Disney’s technology
+    and products serve as a signature doorway for fans'
+    connections with the company’s brands and stories.
+    Disney+. Hulu. ESPN. ABC. ABC News…and many more. These
+    products and brands – and the unmatched stories,
+    storytellers, and events they carry – matter to millions
+    of people globally.
+  - Innovation: We develop and implement groundbreaking products
+    and techniques that shape industry norms and solve complex
+    and distinctive technical problems.
+
+  Product Engineering is a unified team responsible for the
+  engineering of Disney Entertainment & ESPN digital and
+  streaming products and platforms. This includes product
+  engineering, media engineering, quality assurance,
+  engineering behind personalization, commerce, lifecycle, and
+  identity.
+
+  The Observability & Insights group ensures that Disney
+  Streaming’s distributed systems are reliable, performant,
+  and transparent. We build the telemetry, dashboards,
+  alerting, insights pipelines, and developer experience
+  tooling that enable engineers across the organization to
+  understand system health and take action quickly.
+
+  Job Summary:
+
+  As a Software Engineer II on the Reliability Insights team,
+  you will design and build data and reporting pipelines that
+  evaluate and prove the real-world performance, precision,
+  and business impact of Disney’s operational AI and
+  observability tools. You will bridge backend engineering and
+  data-driven insights, transforming raw telemetry, AI agent
+  interactions, and operational logs into clear metrics around
+  AI reliability, model drift, and incident mitigation.
+
+  In this role, you will build automated ground-truth
+  pipelines and model evaluation frameworks that quantify how
+  effectively AI agents and anomaly models perform in
+  production. You will capture end user feedback, correlate AI
+  signals with incident resolution timelines (e.g., Mean Time
+  to Mitigation), and build single pane dashboards for
+  engineering and leadership. Partnering closely with SRE,
+  product, and platform engineering teams, you will eliminate
+  visibility gaps, reduce alert noise, and establish clear
+  standards for AI model performance across Disney+, Hulu, and
+  ESPN.
+
+  Responsibilities:
+
+  - Design, build, and maintain automated feedback pipelines
+    that capture operational outcomes (confirmed incidents,
+    false positives, dismissed alerts) and correlate them
+    directly back to AI model predictions and agent actions.
+  - Develop programmatic evaluation frameworks to track model
+    precision, recall, and drift over time, establishing
+    automated threshold alerts to proactively trigger model
+    tuning and prevent alert fatigue.
+  - Build end-to-end data pipelines linking AI outputs to
+    incident lifecycles, quantifying business impact through
+    metrics such as Service to Incident correlation,
+    notification success rates, and Mean Time to Mitigation
+    (MTTM).
+  - Design and deploy scalable APIs, metrics layers, and single-
+    pane model health dashboards that present clear AI ROI,
+    operational health, and performance narratives to
+    leadership and technical stakeholders.
+  - Build mechanisms to capture structured feedback from end
+    users to continuously feed real-world usage signals back
+    into model improvement cycles.
+
+  Basic Qualifications:
+
+  - 3+ years of applicable experience in backend and data
+    pipeline engineering, including building scalable APIs
+    (e.g., FastAPI, Flask) and metrics/insight generation
+    platforms.
+  - Strong experience with data platform engineering and
+    distributed processing tools (e.g., PySpark, SQL, Pandas,
+    Databricks, Snowflake) to process and analyze telemetry
+    data.
+  - Practical understanding of model evaluation concepts, such
+    as precision, recall, model drift, and ground-truth
+    labeling systems.
+  - Hands-on experience with modern development practices,
+    including version control (GitHub), containerization
+    (Docker), and cloud-native deployments (AWS/EKS).
+  - Proficiency with AI-assisted development tools (e.g.,
+    Cursor, Claude Code) to accelerate engineering velocity.
+  - Strong analytical skills to translate complex system
+    telemetry and operational logs into meaningful reliability
+    metrics and business insights.
+  - Excellent cross-functional collaboration and communication
+    skills, with a track record of partnering with operational
+    teams (SRE, DevOps) to turn raw data into actionable
+    insights.
+
+  Preferred Qualifications:
+
+  - Experience with observability, telemetry, and monitoring
+    platforms (e.g., Datadog, Grafana, Conviva).
+  - Familiarity with agentic workflows and foundation models
+    (e.g., GPT-4, Claude) and how to evaluate their output
+    accuracy.
+  - Knowledge of incident management workflows and SRE metrics
+    (e.g., MTTR, MTTD, alert suppression).
+  - Prior experience working on data attribution, metrics
+    aggregation, or financial/performance visibility tooling
+    in high scale environments.
+
+
+
+  Education
+
+  - Bachelor’s degree in Computer Science, Engineering, or
+    equivalent experience
+
+  #TECHATDISNEY
+
+  The hiring range for this position in New York, NY is
+  $123,000 to $165,000 per year. The base pay actually offered
+  will take into account internal equity and also may vary
+  depending on the candidate’s geographic region, job-related
+  knowledge, skills, and experience among other factors. A
+  bonus and/or long-term incentive units may be provided as
+  part of the compensation package, in addition to the full
+  range of medical, financial, and/or other benefits,
+  dependent on the level and position offered.
+
+  Job Posting Segment:
+
+  PE - Sports, News & Entertainment, Tech Enablement
+
+  Job Posting Primary Business:
+
+  PE - Sports, News & Entertainment, Enablement - News &
+  Entertainment Engineering
+
+  Primary Job Posting Category:
+
+  Software Engineer
+
+  Employment Type:
+
+  Full time
+
+  Primary City, State, Region, Postal Code:
+
+  New York, NY, USA
+
+  Alternate City, State, Region, Postal Code:
+
+  Date Posted:
+
+  2026-09-18
+industries:
+  - Digital Media
+  - Gaming
+  - News + Entertainment
+  - Sports
+posted_date: 2026-09-18
+url: "https://builtin.com/job/software-engineer-ii-ai-performance/11262837"
+source: Built In

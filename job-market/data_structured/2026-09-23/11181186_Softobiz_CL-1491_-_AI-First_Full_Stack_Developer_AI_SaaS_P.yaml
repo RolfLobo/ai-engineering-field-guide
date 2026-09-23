@@ -1,0 +1,59 @@
+company:
+  name: Softobiz
+  stage: null
+  focus: |-
+    AI-powered SaaS platform for content creation and audience
+    engagement
+position:
+  title: CL-1491 - AI-First Full Stack Developer (AI SaaS Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves enhancing AI content generation modules,
+      maintaining AI memory/context/personalization workflows, and
+      supporting AI prompt orchestration and workflow
+      configuration — directly shaping LLM behavior. LLM
+      components are central, so ai-first.
+  responsibilities:
+  - Investigate and resolve production issues and customer-reported bugs
+  - Maintain and enhance AI-powered content generation modules and chatbot/AI assistant
+    functionality
+  - Maintain AI memory, context retention, and user personalization workflows
+  - Integrate and optimize LLM-powered features and prompt orchestration
+  - Build and maintain automation workflows using n8n and API integrations
+  - Manage development, staging, and production environments and support deployments
+  - Monitor and troubleshoot backend services and infrastructure
+  - Maintain detailed product and technical documentation in a documentation-driven
+    methodology
+  use_cases:
+  - AI-powered content generation for a SaaS platform
+  - Chatbot and AI assistant functionality
+  - Customer profiling and audience engagement
+  - AI memory, context retention, and user personalization
+  - Automation pipelines connecting platform components
+  - Training resources delivery
+  skills:
+    genai: [Claude Code, Prompt Engineering, AI Agents, RAG, Embeddings, Semantic
+        Search, LLMs, Multi-Agent Systems, LangChain, OpenAI API, Anthropic API]
+    ml: []
+    web: [React, Next.js, APIs, Webhooks]
+    databases: [Supabase, PostgreSQL, Pinecone, Weaviate, Vector Databases, JSONB]
+    data: []
+    cloud: [Cloudflare]
+    ops: [Git, GitHub, CI/CD, Monitoring]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [n8n, SaaS, User Personalization Systems, Content Generation Platforms,
+      Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11181186'
+  location: Mohali, IND
+  locations:
+  - Mohali, IND
+  - Kochi, IND
+  - Hyderabad, IND
+  extracted_at: '2026-09-23T11:24:14.695663'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,49 @@
+company:
+  name: Pendo.io
+  stage: null
+  focus: Product analytics and digital adoption platform
+position:
+  title: Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on LLM work: prompt and context
+      design, tool calling, and LLM evaluation for LLM-backed
+      product features, which directly shapes model
+      behavior/output quality. This makes it ai-first.
+  responsibilities:
+  - Ship full-stack features end to end across Go services and Vue interfaces
+  - Build the install and instrumentation experience customers drop into their own
+    agentic systems
+  - Capture agent behavior (tool calls, failures, latency) and make it legible for
+    customers
+  - Develop LLM-backed features including prompt and context design, tool calling,
+    and evaluation
+  - Ship safely behind feature flags with unit, integration, and end-to-end tests
+  - Own production services through logging, monitoring, and fast resolution
+  use_cases:
+  - Observability for customers' agentic systems (agents, copilots, MCP servers)
+  - Tracking tool calls, failures, and latency in AI agents
+  - Debugging mismatches between models and tool contracts
+  - LLM-backed product features for understanding agent behavior
+  - Instrumentation SDKs customers install into their own systems
+  skills:
+    genai: [LLMs, Prompt Engineering, Context Engineering, Function Calling, LLM Evaluation,
+      LangChain, LangGraph, AI Agents, MCP]
+    ml: []
+    web: [Vue, React, Angular, APIs]
+    databases: [SQL]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Feature Flags, Jest, Cypress, Monitoring, Logging, D3]
+    languages: [Go, Java, Python, C++, JavaScript]
+    domains: []
+    other: [Highcharts, Data Visualization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10877545'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:04:28.919248'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

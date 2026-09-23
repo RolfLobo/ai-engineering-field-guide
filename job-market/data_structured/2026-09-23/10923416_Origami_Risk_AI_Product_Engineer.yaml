@@ -1,0 +1,60 @@
+company:
+  name: Origami Risk
+  stage: null
+  focus: |-
+    SaaS risk, insurance, compliance, and safety management
+    platform
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI coding assistants (Replit, Claude Code,
+      Cursor) to draft and assemble product components and
+      configurations, but does not shape any model's behavior
+      through prompts as a product, retrieval, evals, or fine-
+      tuning. AI is a tool used to do the
+      engineering/configuration work, which is explicitly ai-
+      support.
+  responsibilities:
+  - Translate business problems and user needs into shippable product experiences
+    and modules aligned to OKRs and ROI
+  - Use AI-assisted tools like Replit, ClaudeCode, and Cursor to draft, synthesize,
+    and assemble functional components and integrations
+  - Integrate front-end experiences with Origami Risk platform services using approved
+    patterns and APIs
+  - Apply SSO/OIDC/OAuth, secrets management, and security/privacy patterns from day
+    one
+  - Partner with Architecture, Product, DevOps, Security, and QA to ensure quality,
+    compliance, and maintainability
+  - Harden prototypes into maintainable production experiences with documentation
+    and handoff plans
+  - Collaborate with QA on acceptance criteria, test data, and automated checks
+  - Design telemetry, define runbooks, and maintain specs and release documentation
+  use_cases:
+  - Assembling user-facing product experiences on a risk management SaaS platform
+  - Low/no-code and AI-assisted solution development for risk, insurance, and compliance
+    workflows
+  - Integration of front-end experiences with platform services such as data, workflow,
+    rules, and reporting
+  - Secure integrations with SSO/OIDC/OAuth authentication and auditability
+  skills:
+    databases: []
+    domains: []
+    data: [Data Pipelines]
+    web: [APIs, React, Vue, Webhooks]
+    ml: []
+    ops: []
+    other: [Replit, Cursor, OAuth, GDPR, HIPAA Compliance]
+    cloud: []
+    languages: []
+    genai: [Claude Code]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10923416'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:07:06.252507'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: Axelera AI
+  stage: null
+  focus: AI hardware acceleration platform
+position:
+  title: AI Systems Engineer - Agents & Inference
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agent systems, designs tool calling,
+      structured outputs and MCP integrations, and shapes agent
+      behavior/evals for Axelera's agentic AI platform — direct
+      shaping of LLM/agent output quality, so ai-first. Deploying
+      CV models is secondary validation work.
+  responsibilities:
+  - Build reliable agent systems, intelligent tools and application integrations
+  - Develop secure, scalable execution environments for demanding AI workloads
+  - Build and maintain Wingman's platform capabilities including accelerated computing
+    access and remote workload execution
+  - Deploy and optimize computer vision models, LLM services and inference infrastructure
+    to validate the agentic AI platform
+  - Test functionality, security boundaries, hardware behavior and failure recovery
+  - Write documentation, setup instructions and operational runbooks
+  use_cases:
+  - Agentic AI platform (Axelera Wingman) for running AI agents
+  - Remote execution of AI workloads on accelerated hardware
+  - 'Computer vision workloads: detection, classification, segmentation'
+  - LLM inference services on the platform
+  skills:
+    databases: [Databases]
+    domains: [Computer Vision]
+    data: []
+    web: [APIs, React]
+    ml: [PyTorch, ONNX, Quantization, Fine-Tuning, Model Evaluation]
+    ops: [Linux, Inference Infrastructure, Docker, Infrastructure as Code, CI/CD,
+      Monitoring]
+    other: [Tauri]
+    cloud: [GCP, AWS]
+    languages: [Python, Rust, TypeScript]
+    genai: [AI Agents, Function Calling, Structured Outputs, MCP, LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11177671'
+  location: NLD
+  locations:
+  - NLD
+  - Porto, PRT
+  - Paris, CAN
+  - Athens, CAN
+  - Timisoara, ROU
+  - Amsterdam, NLD
+  - Site, TUR
+  - Dawn-Euphemia, CAN
+  remote: true
+  extracted_at: '2026-09-23T11:23:57.335439'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

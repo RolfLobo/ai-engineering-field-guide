@@ -1,0 +1,58 @@
+company:
+  name: Optum
+  stage: null
+  focus: |-
+    Healthcare services, pharmacy benefits, and care delivery
+    technology
+position:
+  title: AI ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behaviour: guiding model selection,
+      tuning, evaluation, drift analysis, and building ML
+      pipelines end-to-end. The work is classical ML
+      (TensorFlow/PyTorch/scikit-learn) with no LLM prompt, RAG,
+      or agent design; "Generative AI" is mentioned only as
+      innovation context, so it is ml-first.
+  responsibilities:
+  - Lead design, development, and implementation of scalable AI/ML solutions using
+    Python, SQL, pandas, numpy, and ML frameworks
+  - Oversee end-to-end ML workflows from data preparation, feature engineering, and
+    model development to evaluation, deployment, and monitoring
+  - Guide model selection, optimization, and tuning balancing performance, explainability,
+    cost, and Responsible AI principles
+  - Build production-grade ML pipelines with orchestration, experiment tracking, feature
+    stores, ONNX, and vector databases
+  - Lead drift analysis, observability, and model health monitoring in production
+  - Design multi-cloud ML infrastructure across Azure, GCP, and AWS with compute,
+    storage, and distributed data processing best practices
+  - Collaborate with data engineering to integrate real-time and batch pipelines on
+    Synapse/BigQuery, Dataflow/Databricks, and Kafka/EventHub/PubSub
+  - Mentor data scientists and ML engineers on model development and cloud-native
+    deployment practices
+  use_cases:
+  - Healthcare AI/ML solutions enhancing products, workflows, and decision-making
+  - Production ML systems for health outcomes with drift monitoring and observability
+  - Real-time and batch data pipelines feeding ML models in a multi-cloud healthcare
+    environment
+  - Customer-centric AI applications with focus on accuracy, scalability, and explainability
+  skills:
+    genai: [Generative AI]
+    ml: [TensorFlow, PyTorch, scikit-learn, Feature Engineering, ONNX]
+    web: []
+    databases: [Vector Databases, BigQuery]
+    data: [Pandas, NumPy, Apache Synapse, Dataflow, Databricks, Kafka, PySpark, Hadoop]
+    cloud: [Azure, GCP, AWS]
+    ops: [MLflow]
+    languages: [Python, SQL]
+    domains: []
+    other: [Feature Stores, EventHub, Pub/Sub]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10485570'
+  location: Noida, IND
+  extracted_at: '2026-09-23T10:59:48.214483'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

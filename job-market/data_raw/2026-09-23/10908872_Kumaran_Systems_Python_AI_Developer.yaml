@@ -1,0 +1,53 @@
+job_id: 10908872
+title: Python AI Developer
+company: Kumaran Systems
+location: Chennai, IND
+work_type: FULL_TIME
+company_size: 1,078 Employees
+description: |
+  Role Summary
+
+  Seeking a Python/AI Developer with 3+ years of hands-on
+  experience to build data-driven applications, RESTful APIs,
+  and ML/LLM solutions. The role combines strong Python
+  engineering (Pandas/NumPy, SQL, Flask) with practical
+  experience in ML frameworks (e.g., PyTorch) and GenAI/LLM
+  tooling (GPT, Llama2, Gemini). You will design, implement,
+  and deploy robust, scalable services and models,
+  collaborating with cross-functional teams to deliver
+  production-grade AI features.
+
+  Responsibilities
+
+  - Design and develop robust Python services and RESTful APIs
+    using Flask.
+  - Build data processing pipelines and analytics workflows
+    using Pandas and NumPy.
+  - Implement, train, and optimize ML models (preferably with
+    PyTorch); integrate models into production.
+  - Apply GenAI/LLM techniques (GPT, Llama2, Gemini, etc.) for
+    real-world use cases; evaluate outputs and iterate.
+  - Write efficient SQL for Oracle/MySQL/PostgreSQL; optimize
+    queries and schemas for performance.
+  - Ensure code quality with testing (e.g., pytest), logging,
+    and CI-friendly structures.
+  - Collaborate with product/data teams to translate
+    requirements into scalable solutions.
+
+  Must-Have Skills
+
+  - Strong Python programming and scripting fundamentals.
+  - Data manipulation with Pandas and numerical computing with
+    NumPy.
+  - SQL proficiency with at least one RDBMS: Oracle, MySQL, or
+    PostgreSQL.
+  - REST API design and development experience with Flask.
+  - Practical experience with ML libraries, preferably PyTorch.
+  - Hands-on work with GenAI/LLMs (e.g., GPT, Llama2, Gemini),
+    including prompt engineering and integration.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-28
+url: "https://builtin.com/job/python-ai-developer/10908872"
+source: Built In

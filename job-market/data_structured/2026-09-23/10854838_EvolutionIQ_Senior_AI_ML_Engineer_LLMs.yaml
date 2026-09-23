@@ -1,0 +1,58 @@
+company:
+  name: EvolutionIQ
+  stage: null
+  focus: |-
+    AI technology for insurance claims handling and medical
+    document synthesis
+position:
+  title: Senior AI / ML Engineer (LLMs)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys LLM-driven features including
+      prompt engineering, fine-tuning, RAG with embeddings, and
+      evaluating LLM outputs, which is directly shaping model
+      behavior. LLMs are central to the medical synthesis product.
+  responsibilities:
+  - Lead AI/ML projects end-to-end from ideation through architecture, deployment,
+    and optimization
+  - Make high-level architectural and technical decisions for AI/ML systems
+  - Design, build, and deploy LLM-driven features for the claim synthesis product,
+    including extraction from medical documents and human-in-the-loop summarization
+  - Develop hybrid ML solutions combining statistical models, LLMs, and embeddings-based
+    RAG techniques
+  - Collaborate with data labelers and SMEs to evaluate AI outputs and improve model
+    performance
+  - Partner with Product and Engineering teams to define technical approaches and
+    iterate on feedback
+  - Provide technical leadership and guidance to other engineers
+  - Translate cutting-edge AI/ML research into production-grade solutions for live
+    customer environments
+  use_cases:
+  - Medical claim synthesis for insurance claims teams
+  - Extraction of key information from complex medical documents
+  - Human-in-the-loop summarization workflows
+  - Retrieval-augmented generation for more accurate and reliable claim outcomes
+  skills:
+    genai: [LLMs, RAG, Embeddings, Prompt Engineering, Fine-Tuning]
+    ml: [Machine Learning]
+    web: [APIs, Microservices]
+    databases: [Vector Search]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10854838'
+  location: USA
+  locations:
+  - USA
+  - New York, USA
+  remote: true
+  extracted_at: '2026-09-23T11:02:56.321829'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

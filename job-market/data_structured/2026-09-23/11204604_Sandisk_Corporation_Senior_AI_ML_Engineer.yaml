@@ -1,0 +1,55 @@
+company:
+  name: Sandisk Corporation
+  stage: null
+  focus: Flash memory and data storage solutions
+position:
+  title: Senior AI/ ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, RAG pipelines, and agentic
+      workflows for LLMs, directly shaping model behaviour and
+      output quality, alongside classical ML. LLM involvement
+      makes it ai-first.
+  responsibilities:
+  - Lead end-to-end design, development, and deployment of ML models and GenAI solutions
+    for manufacturing intelligence, yield optimization, supply chain analytics, and
+    enterprise data platforms
+  - Architect data pipelines, feature stores, and model serving infrastructure on
+    Lakehouse and cloud-native architectures
+  - Develop prompt engineering strategies and feedback loops for LLM optimization
+  - Implement RAG pipelines including document parsing, chunking, vectorization, and
+    semantic search with vector databases
+  - Design agentic workflows for autonomous task orchestration with safe execution
+    constraints and policies
+  - Define KPIs and success metrics with cross-functional teams
+  - Mentor junior engineers, conduct code reviews, and establish ML engineering best
+    practices
+  - Present technical findings and strategic recommendations to senior leadership
+  use_cases:
+  - Manufacturing intelligence
+  - Yield optimization
+  - Supply chain analytics
+  - Enterprise data platforms
+  - Knowledge artifact capture from LLM interactions
+  skills:
+    databases: [Vector Search]
+    domains: []
+    data: [Spark, Data Pipelines, Databricks]
+    web: []
+    ml: [PyTorch, TensorFlow, Machine Learning, Deep Learning, Fine-Tuning, Statistical
+        Modeling]
+    ops: [MLflow, CI/CD, MLOps, Model Monitoring]
+    other: []
+    cloud: [Azure, AWS, GCP]
+    languages: [Python, SQL]
+    genai: [Prompt Engineering, LLMs, RAG, Embeddings, Vector Databases, Semantic
+        Search, Agentic Workflows, Generative AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11204604'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:26:32.259579'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

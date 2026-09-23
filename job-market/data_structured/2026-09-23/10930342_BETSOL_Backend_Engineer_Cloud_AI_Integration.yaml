@@ -1,0 +1,48 @@
+company:
+  name: BETSOL
+  stage: null
+  focus: Enterprise cloud transformation and IT services
+position:
+  title: Backend Engineer (Cloud & AI Integration)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and maintains backend services, APIs, and
+      integrations; AI-powered features are supported but AI/HITL
+      workflows are taught on the job and only appear as
+      "exposure"/good-to-have. There is no evidence of the
+      engineer shaping model behavior (no prompts, RAG, evals, or
+      training), so it is ai-support.
+  responsibilities:
+  - Develop and maintain Python-based backend services and REST APIs
+  - Build and manage integrations with third-party platforms and internal systems
+  - Support AI-powered features and Human-in-the-Loop workflows
+  - Design data models, backend workflows, and business logic
+  - Build serverless and cloud-native backend applications on AWS
+  - Troubleshoot and resolve production issues across backend services
+  - Collaborate with Full Stack Engineers on end-to-end feature delivery
+  - Contribute to code reviews, testing, documentation, and releases
+  use_cases:
+  - AI-powered enterprise product features
+  - Human-in-the-Loop review workflows where AI output is checked by a person
+  - Third-party platform and internal system integrations
+  - Scalable cloud-native backend services supporting product development
+  skills:
+    genai: []
+    ml: []
+    web: [REST APIs, APIs, Serverless]
+    databases: [Relational Databases, NoSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Git]
+    languages: [Python]
+    domains: []
+    other: [Event-Driven Architecture, Agile, Code Review, Human-in-the-Loop Workflows]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10930342'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:07:28.677098'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

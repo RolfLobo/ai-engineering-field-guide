@@ -1,0 +1,58 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML products
+position:
+  title: Senior Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds core LLM components: foundation
+      model training, LLM inference optimization, guardrails,
+      model evaluation, and similarity search. This is directly
+      shaping model behavior and output quality for LLMs, so it is
+      ai-first.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, research scientists, TPMs, and
+    PMs to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    governance, and observability
+  - Leverage open source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce LLM optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+  - Mentor engineers and influence cross-functional stakeholders
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - Informing customers about unusual charges
+  - Real-time customer question answering
+  - AI-powered tools for associates and customer interactions
+  - Scalable, high-performance AI infrastructure serving millions of customers
+  skills:
+    databases: [Vector Databases, Vector Search]
+    domains: []
+    data: []
+    web: []
+    ml: [Hugging Face, PyTorch, Machine Learning, Model Training, Foundation Model
+        Training]
+    ops: []
+    other: [Observability]
+    cloud: [AWS, GCP, Azure]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    genai: [LLMs, Guardrails, LLM Evaluation, Fine-Tuning]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10985123'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:11:07.692179'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Staples India
+  stage: null
+  focus: Retail office supplies and products
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behavior through time-series
+      forecasting, causal inference, and reinforcement learning-
+      based promotion models, but there is no LLM, agent, or
+      generative component — only classical ML/statistical
+      modeling. Per Step 2, classical-only shaping is ml-first.
+  responsibilities:
+  - Develop and deploy time-series forecasting models (Prophet, ARIMA, DeepAR, LSTM,
+    TFT) for demand, revenue, and promotion lift prediction
+  - Apply statistical and causal-inference methods to understand promotion effects
+    and seasonality
+  - Build dynamic pricing and promotion recommendation models using reinforcement
+    learning and multi-armed bandits
+  - Architect ML pipelines for promotion targeting and ROI optimization
+  - Design end-to-end data workflows from ingestion to model deployment integrated
+    with production APIs and dashboards
+  - Contribute to model monitoring, retraining, and drift detection
+  - Work with SQL databases, data warehouses, and APIs to operationalize data
+  - Collaborate with cloud teams for secure deployment of AI services
+  use_cases:
+  - Demand forecasting across thousands of SKUs
+  - Personalized promotion optimization
+  - Price elasticity modeling
+  - Dynamic pricing and promotion recommendations
+  - ROI optimization for promotions
+  skills:
+    genai: []
+    ml: [Prophet, ARIMA, DeepAR, LSTM, Temporal Fusion Transformer, Reinforcement
+        Learning, Multi-Armed Bandits, Feature Engineering, Model Evaluation, PyTorch,
+      TensorFlow, scikit-learn, Machine Learning, Time Series Analysis]
+    web: [APIs]
+    databases: [Azure SQL, Snowflake]
+    data: [Databricks, Delta Lake]
+    cloud: [Azure, GCP]
+    ops: [Git, Model Monitoring]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11272948'
+  location: Chennai, IND
+  extracted_at: '2026-09-23T11:34:21.883935'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

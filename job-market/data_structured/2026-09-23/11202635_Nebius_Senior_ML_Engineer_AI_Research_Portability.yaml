@@ -1,0 +1,89 @@
+company:
+  name: Nebius
+  stage: null
+  focus: AI cloud infrastructure and applied AI R&D
+position:
+  title: Senior ML Engineer (AI Research/ Portability)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes agent/LLM behaviour: designing model
+      routers, agent interoperability, retrieval/memory/context
+      systems, distillation, and evaluation of LLM outputs.
+      LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Design, implement, train, and evaluate model routers selecting models or reasoning
+    profiles per turn
+  - Develop portable provider and protocol abstractions preserving authentication,
+    telemetry, cache, context, and provenance signals
+  - Define versioned schemas and contracts for models, providers, agents, skills,
+    tools, memories, and trajectories
+  - Build systems to discover, package, adapt, and validate agent skills across harnesses
+  - Research user-owned memory, scoped identity, retrieval quality, and reviewable
+    context compaction
+  - Create benchmark suites and evaluation protocols for quality, cost, latency, reliability,
+    safety, and portability
+  - Investigate distillation, self-improving harnesses, multi-agent training, and
+    automated skill creation
+  - Write research software, APIs, integration layers, and test infrastructure for
+    reproducible experimentation
+  use_cases:
+  - Per-turn model routing balancing quality, cost, latency, and reliability
+  - Portability of agent skills, memory, and context across models, providers, and
+    harnesses
+  - Agent and harness interoperability via standards, MCP, and agent-to-agent protocols
+  - Multi-provider gateways and protocol translation for frontier and open-source
+    models
+  - User-owned portable memory with identity, provenance, and reviewable context compaction
+  - Evaluation and benchmarking infrastructure for model, router, and harness changes
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Function Calling, MCP, RAG, Prompt
+        Engineering, Fine-Tuning, Anthropic API, Multi-Agent Systems]
+    ml: [Machine Learning, Model Training, Model Evaluation, RLHF, Reinforcement Learning,
+      Distillation, Mixture of Experts, Recommender Systems, Uncertainty Estimation]
+    web: [REST APIs, OpenAI API]
+    databases: [Vector Search, Knowledge Graphs]
+    data: [Data Schemas]
+    cloud: []
+    ops: [CI/CD, Code Review, Monitoring, Distributed Systems]
+    languages: [Python, TypeScript, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11202635'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - ISR
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - GBR
+  remote: true
+  extracted_at: '2026-09-23T11:26:51.865810'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

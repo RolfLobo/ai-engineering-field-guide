@@ -1,0 +1,54 @@
+company:
+  name: Modus Create
+  stage: null
+  focus: |-
+    Digital product engineering consultancy building custom AI
+    solutions
+position:
+  title: AI Engineer (Python, Machine Learning, Generative AI/LLMs)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds RAG pipelines, works with LLMs,
+      prompt engineering, fine-tuning, agents, and function
+      calling—directly shaping model behavior and output. LLM
+      involvement makes it ai-first despite also covering
+      classical ML.
+  responsibilities:
+  - Design, build, and deploy AI/ML solutions using Machine Learning, Deep Learning,
+    and Generative AI technologies
+  - Work across the AI/ML lifecycle from experimentation and model development to
+    integration and production deployment
+  - Design and implement RAG pipelines and vector-based retrieval systems
+  - Integrate AI/ML APIs, foundation models, and third-party AI services into applications
+  - Build production ML workflows with MLOps practices including versioning, monitoring,
+    and CI/CD
+  - Prepare and transform data pipelines for AI/ML workloads
+  - Collaborate with engineering, product, and data teams in a distributed environment
+  use_cases:
+  - AI-powered products with real-world scale and impact
+  - Intelligent text processing, semantic search, classification, and generation
+  - RAG-based retrieval and generation systems
+  - Integration of foundation models and third-party AI services into client applications
+  skills:
+    genai: [Generative AI, LLMs, Embeddings, Semantic Search, RAG, Prompt Engineering,
+      AI Agents, Function Calling, Multi-Agent Systems]
+    ml: [Machine Learning, Deep Learning, PyTorch, TensorFlow, Neural Networks, Fine-Tuning,
+      Model Evaluation]
+    web: []
+    databases: [Vector Databases]
+    data: [Data Engineering, Data Pipelines]
+    cloud: []
+    ops: [MLOps, Model Deployment, CI/CD, Monitoring, Guardrails]
+    languages: [Python]
+    domains: [NLP]
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10869564'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:04:08.569622'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

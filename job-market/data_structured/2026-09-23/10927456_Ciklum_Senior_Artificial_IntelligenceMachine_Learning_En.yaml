@@ -1,0 +1,63 @@
+company:
+  name: Ciklum
+  stage: null
+  focus: |-
+    Custom product engineering and digital transformation
+    services
+position:
+  title: Senior Artificial Intelligence/Machine Learning Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform automation role: the deliverable is
+      infrastructure provisioning, CI/CD, observability, and
+      governance automation for AI platforms. Agentic AI, RAG, and
+      MCP appear as working knowledge and supported workloads, not
+      as behaviors the person shapes through prompting, retrieval
+      design, or training. The role builds the plumbing that other
+      teams' GenAI applications run on.
+  responsibilities:
+  - Lead automation initiatives for enterprise GenAI, Data Science, Metadata, Data
+    Quality, Event Streaming, and Analytics platforms
+  - Design self-service automation for onboarding, environment provisioning, deployment,
+    governance, monitoring, and operational workflows
+  - Develop Infrastructure-as-Code solutions with Terraform for repeatable, compliant
+    infrastructure deployments
+  - Design enterprise CI/CD pipelines, automated testing, deployment automation, and
+    release management using Atlassian toolchains
+  - Build automation supporting agentic AI applications, MCP-enabled services, event-driven
+    architectures, and enterprise AI workflows
+  - Automate Kubernetes, container, serverless, and distributed computing environments
+    with cloud teams
+  - Drive operational excellence through monitoring, observability, automated remediation,
+    and reliability engineering
+  - Provide technical leadership, mentorship, and best practices to engineering teams
+  use_cases:
+  - Enterprise GenAI and Data Science platform automation
+  - Self-service environment provisioning and governance for AI workloads
+  - Model lifecycle automation from experimentation to deployment and inferencing
+  - Agentic AI applications and MCP-enabled services deployment
+  - Consumer AML analytics and financial crime detection platforms
+  skills:
+    genai: [MCP, RAG, AI Agents, LLMs, Generative AI]
+    ml: [Machine Learning]
+    web: [APIs, Microservices]
+    databases: []
+    data: [Kafka, Data Engineering, Data Governance, Event-Driven Architecture, Metadata
+        Management]
+    cloud: []
+    ops: [Terraform, CI/CD, DevSecOps, Kubernetes, Docker, GitOps, Monitoring, Observability,
+      Infrastructure as Code, MLOps, Atlassian Bamboo, Bitbucket]
+    languages: [Python]
+    domains: []
+    other: [Jira, Confluence, Serverless, YARN, Cloud Engineering, Reliability Engineering,
+      Jupyter, VSCode, AML Analytics, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10927456'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:06:52.205895'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

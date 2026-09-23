@@ -1,0 +1,168 @@
+job_id: 10983540
+title: Senior AI Engineer, Legal
+company: Danaher Corporation
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 57,802 Employees
+description: |
+  Bring more to life.
+
+
+
+  At Danaher, our work saves lives. And each of us plays a
+  part. Fueled by our culture of continuous improvement, we
+  turn ideas into impact – innovating at the speed of life. 
+
+
+
+  Our 60,000+ associates work across the globe at more than 15
+  unique businesses within life sciences, diagnostics, and
+  biotechnology.  
+
+
+
+  Are you ready to accelerate your potential and make a real
+  difference? At Danaher, you can build an incredible career
+  at a leading science and technology company, where we’re
+  committed to hiring and developing from within. You’ll
+  thrive in a culture of belonging where you and your unique
+  viewpoint matter. 
+
+
+
+  Learn about the Danaher Business System which makes
+  everything possible.
+
+  The Senior AI Engineer Legal is responsible for designing,
+  building, and deploying AI-powered solutions that transform
+  legal and compliance workflows across Danaher's corporate
+  and platform functions and operating companies. This role
+  sits at the intersection of software engineering, data
+  science, and legal operations — applying deep technical
+  expertise in large language models (LLMs), agentic AI, and
+  modern AI infrastructure to solve high-impact legal problems
+  at enterprise scale.
+
+  In this role, you will have the opportunity to:
+
+  - Partner with legal stakeholders to translate workflows into
+    technical solutions — Conduct discovery with attorneys and
+    compliance professionals across Danaher to understand
+    their workflows, identify automation opportunities, and
+    deliver solutions that legal teams trust and adopt.
+  - Architect and build AI-powered legal applications. Design
+    end-to-end solutions for contract review, legal research,
+    regulatory analysis, and compliance workflows using LLMs,
+    retrieval-augmented generation (RAG), and agentic AI
+    frameworks. Develop and optimize document processing
+    pipelines. Build scalable ingestion, parsing, chunking,
+    embedding, and indexing systems for legal content
+    (contracts, playbooks, regulatory filings) to power
+    intelligent search and analysis.
+  - Ship production-grade AI features. Write clean, well-tested
+    code (Python and/or TypeScript) to deliver production
+    applications using LLM APIs, orchestration frameworks
+    (e.g., LangChain, LlamaIndex), and CI/CD pipelines — from
+    prototype through deployment and monitoring. Design
+    evaluation and quality framework.  Build automated
+    evaluation pipelines, test sets, and quality metrics
+    specific to legal AI outputs, ensuring accuracy,
+    consistency, and defensibility of AI-generated work
+    product.
+  - Embed governance and security by design — Implement data
+    security controls, access management, audit logging, PII
+    redaction, and data residency compliance appropriate for
+    applications handling privileged and confidential legal
+    content. Apply product thinking to legal AI solutions —
+    Understand user needs through discovery and feedback,
+    translate them into clear product and technical
+    requirements, and help prioritize features that drive
+    adoption and measurable business value.
+  - Technical leadership and mentorship  - Lead, educate and
+    mentor legal team members in developing no-code AI
+    solutions. Serve as the technical bridge between legal and
+    engineering. Communicate clearly across disciplines,
+    deliver demos and training to legal users, and channel
+    user insights back into product development and roadmap
+    priorities. Partner closely with IT, Data & AI teams to
+    design, build, and deliver scalable AI solutions aligned
+    with enterprise architecture and governance standards.
+
+  The essential requirements of the job include:
+
+  - Bachelor's degree in Computer Science, Data Science,
+    Engineering, or a related technical field (Master's or
+    advanced degree is a plus). 10+ years of professional
+    experience in software engineering, data science, or
+    machine learning engineering, with a track record of
+    shipping production applications.
+  - Production experience with large language models (LLMs),
+    including prompt engineering, fine-tuning, RAG
+    architecture, agent/tool-use development, and evaluation
+    frameworks. Strong programming proficiency in Python, with
+    experience in AI/ML libraries and frameworks (e.g.,
+    LangChain, LlamaIndex, Hugging Face, or equivalent
+    orchestration tools); proficiency in an additional
+    language (TypeScript, Java) is a plus.
+  - AI‑Assisted Software Development – Demonstrated proficiency
+    leveraging AI development tools (e.g., Claude Code,
+    Cursor, GitHub Copilot) to accelerate software solution
+    development in production environments. Hands-on
+    experience with modern AI infrastructure, including vector
+    databases (e.g., Pinecone, Weaviate, Qdrant), cloud
+    platforms (Azure, AWS, or GCP), API design, and
+    containerized deployment (Docker, Kubernetes).
+  - Experience designing data pipelines and document processing
+    systems for unstructured content at scale (parsing, OCR,
+    entity extraction, classification).
+  - Demonstrated interest or experience in legal, compliance, or
+    regulatory domains — e.g., prior work in legal tech,
+    contract analytics, regulatory technology, legal
+    operations, paralegal experience, law school coursework,
+    or JD.
+
+  It would be a plus if you also possess previous experience
+  in:
+
+  - Building or deploying AI solutions in regulated industries
+    (life sciences, healthcare, financial services, legal).
+  - Agentic AI patterns — multi-step autonomous workflows with
+    human-in-the-loop oversight, tool calling, MCP servers,
+    and structured outputs.
+  - Enterprise AI governance and responsible AI practices,
+    including model evaluation, bias testing, explainability,
+    and compliance with frameworks such as the EU AI Act.
+
+  Travel, Motor Vehicle Record & Physical/Environment
+  Requirements:
+
+  - 10-25% travel for meetings and conferences
+
+  Danaher offers a broad array of comprehensive, competitive
+  benefit programs that add value to our lives. Whether it’s a
+  health care program or paid time off, our programs
+  contribute to life beyond the job. Check out our benefits at
+  Danaher Benefits Info.
+
+  At Danaher, we believe in designing a better, more
+  sustainable workforce. We recognize the benefits of
+  flexible, remote working arrangements for eligible roles and
+  are committed to providing enriching careers, no matter the
+  work arrangement. This position is eligible for a remote
+  work arrangement in which you can work remotely from your
+  home. Additional information about this remote work
+  arrangement will be provided by your interview team. Explore
+  the flexibility and challenge that working for Danaher can
+  provide.
+
+  Join our winning team today. Together, we’ll accelerate the
+  real-life impact of tomorrow’s science and technology. We
+  partner with customers across the globe to help them solve
+  their most complex challenges, architecting solutions that
+  bring the power of science to life.
+
+  For more information, visit www.danaher.com.
+posted_date: 2026-09-02
+url: "https://builtin.com/job/senior-ai-engineer-legal/10983540"
+source: Built In

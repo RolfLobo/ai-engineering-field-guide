@@ -1,0 +1,58 @@
+company:
+  name: Wolters Kluwer
+  stage: null
+  focus: |-
+    Information services and software for legal, health, and
+    procurement
+position:
+  title: Principal Engineer - AI Capabilities
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs AI- and agent-based workflows, shapes where
+      decision logic lives relative to prompts and agent behavior,
+      and tests/validates AI outputs and behavior for
+      LLM/RAG/agentic solutions. That is shaping model behavior,
+      so ai-first.
+  responsibilities:
+  - Lead technical design, delivery, and operation of AI-enabled sourcing and procurement
+    capabilities (Compare Tool, Smart Intake, SourceIQ)
+  - Design and support AI- and agent-based workflows with context-driven decision
+    logic
+  - Provide technical leadership across internal engineering teams and external delivery
+    partners
+  - Design and maintain application code, integrations, APIs, and workflows using
+    AI-assisted development
+  - Ensure solutions consume a shared semantic layer (taxonomy, ontology, structured
+    knowledge models) as source of truth
+  - Separate semantic logic, application logic, and agent behavior; prevent business
+    logic embedded in prompts or agent workflows
+  - Support testing, validation, and troubleshooting of AI outputs, edge cases, and
+    system behavior
+  - Manage integration with enterprise platforms and third-party solutions within
+    architecture and governance standards
+  use_cases:
+  - AI-enabled sourcing and procurement capabilities
+  - Product/service comparison tooling (Compare Tool)
+  - Smart Intake for procurement document ingestion
+  - SourceIQ AI capabilities
+  - Context-driven intelligent workflows for enterprise decisions
+  skills:
+    genai: [LLMs, RAG, AI Agents, Agentic Workflows]
+    ml: []
+    web: [APIs]
+    databases: [Knowledge Graphs]
+    data: []
+    cloud: [Cloud]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11177211'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:23:10.803354'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

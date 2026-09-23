@@ -1,0 +1,55 @@
+company:
+  name: Coder
+  stage: null
+  focus: |-
+    AI development infrastructure with self-hosted agent-ready
+    workspaces
+position:
+  title: AI Enablement Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is internal AI enablement: helping employees use Smart
+      AI tools like Claude Code, answering questions, and building
+      paved paths so other employees ship faster. The deliverable
+      is developer workflow and adoption, not shaping a model that
+      is the product — matching the rollout-of-AI-coding-tools
+      edge case.
+  responsibilities:
+  - Act as hands-on technical partner for employees using Smart AI, guiding best practices
+    and unblocking them
+  - Meet with employees across the company to gather needs, workflows, and impediments
+  - Answer questions about Smart AI tools, models, prompts, harnesses, and development
+    environments
+  - Build and improve reusable journeys, skills, templates, system instructions, and
+    paved paths
+  - Contribute to infrastructure enhancements for internal AI development
+  - Improve the dedicated vibe-coding development environment including integrations,
+    APIs, and model access
+  - Host office hours, workshops, and enablement sessions for the internal AI community
+  - Create guidance, examples, and documentation for Smart AI capabilities
+  use_cases:
+  - Internal AI adoption and vibe-coding enablement for employees
+  - Reusable AI journeys, skills, templates, and system instructions
+  - Development environment integrations for AI-assisted development
+  - Internal AI community support and education
+  skills:
+    genai: [Claude Code, Prompt Engineering, MCP]
+    ml: []
+    web: [APIs]
+    databases: [Slack]
+    data: []
+    cloud: []
+    ops: [Monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10939079'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:07:53.009882'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,46 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT consulting and tech talent services
+position:
+  title: SALESFORCE AGENTFORCE ENGINEER – AI POWERED TECH TALENT
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role configures prompts, intents, workflows and
+      orchestration logic for Salesforce Agentforce agents,
+      directly shaping agent/LLM behavior. This is prompt and
+      agent-flow design work, making it ai-first.
+  responsibilities:
+  - Act as SME for Agentforce implementations
+  - Design and develop Salesforce agents using Agentforce and Agentforce Vibes
+  - Configure prompts, intents, workflows and orchestration logic
+  - Integrate Agentforce with Salesforce data, Flows, Apex and external systems
+  - Review configurations and Salesforce code
+  - Troubleshoot agent behavior and performance issues
+  - Support solution design, estimation and technical leadership
+  - Ensure scalability, security and platform best practices
+  use_cases:
+  - Intelligent Salesforce agents for business automation
+  - Conversational AI agents on the Salesforce platform
+  - Agent integration with Salesforce data and external systems
+  skills:
+    genai: [Conversational AI, Prompt Engineering, Agentic Workflows]
+    ml: []
+    web: [REST APIs, SOAP]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Agentforce, Agentforce Vibes, Salesforce Development, Apex, LWC, Salesforce
+        Flows, Governor Limits, Performance Optimization, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11235589'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:29:57.362245'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: Groundswell
+  stage: null
+  focus: Technology integrator serving federal agencies
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly shapes LLM behavior: prompt and retrieval
+      design, structured outputs, tool/function definitions, agent
+      patterns, and building evaluation sets to judge model output
+      quality. This is LLM/agent work, so it is ai-first.
+  responsibilities:
+  - Lead requirements conversations with business and technical stakeholders
+  - Define the technical approach and select the appropriate AI pattern (extraction,
+    classification, summarization, retrieval, agentic workflow)
+  - Build complete capabilities including prompt and retrieval design, structured
+    outputs, tool definitions, and API integration
+  - Define measurable success criteria and build evaluation sets from real data
+  - Operationalize capabilities in client environments with governance, logging, and
+    monitoring
+  - Mentor engineers new to AI and maintain current knowledge of the field
+  - Produce clear client-facing documentation of solutions and limitations
+  use_cases:
+  - Document extraction and classification for federal clients
+  - Summarization and retrieval workflows
+  - Agentic workflow solutions for business problems
+  - Rapid proofs of concept for client needs
+  skills:
+    genai: [Prompt Engineering, RAG, Structured Outputs, Function Calling, Agentic
+        Workflows, LLM Evaluation]
+    ml: [LLMs]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, Azure OpenAI]
+    ops: []
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [ServiceNow, Salesforce]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11289973'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:36:07.291980'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

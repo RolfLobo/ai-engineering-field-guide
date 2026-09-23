@@ -1,0 +1,49 @@
+company:
+  name: Kaizen Labs
+  stage: Raised $35 million from NEA, a16z, Accel
+  focus: Modern software for federal government agencies
+position:
+  title: Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI-powered internal systems in the mold of
+      Bidbuddy: document parsing/analysis, agentic workflows, and
+      automated research/routing, which means shaping agent flows
+      and LLM outputs directly. LLM/agent components are
+      explicitly named, so it is ai-first.
+  responsibilities:
+  - Own internal tools end to end, from problem discovery through architecture, build,
+    rollout, and iteration
+  - 'Build AI-powered internal systems: document parsing and analysis, agentic workflows,
+    automated research and routing'
+  - Work with leads across Proposals, Customer Ops, Sales, Design, and Engineering
+    to scope tools worth building
+  - Drive AI enablement and adoption across the company
+  - Support the external analytics layer inside Kaizen's platform
+  - Back up the deployment team during implementations
+  use_cases:
+  - Automated scraping and first-pass analysis of government RFPs and procurement
+    documents
+  - Agentic workflows for automated research and routing
+  - Internal automation tools that reduce manual work across departments
+  - Customer-facing analytics layer for actionable data
+  skills:
+    genai: [Agentic Workflows]
+    ml: []
+    web: []
+    databases: [Data Modeling, Data Warehouses]
+    data: [Document Parsing]
+    cloud: []
+    ops: []
+    languages: [SQL]
+    domains: []
+    other: [n8n, Zapier]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11053968'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:15:40.419377'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

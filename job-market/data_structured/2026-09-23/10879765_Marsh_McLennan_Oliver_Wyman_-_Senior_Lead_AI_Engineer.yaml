@@ -1,0 +1,56 @@
+company:
+  name: Marsh McLennan
+  stage: null
+  focus: Management consulting with AI transformation practice
+position:
+  title: Oliver Wyman - Senior Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and deploys LLM-based agent systems in
+      production, designs RAG, tool use, multi-agent
+      orchestration, prompt engineering, and evaluation frameworks
+      - all direct shaping of LLM behaviour. Customer-facing
+      consulting role at Oliver Wyman Quotient, but classification
+      is driven by the shaping responsibilities.
+  responsibilities:
+  - Explore data and craft AI solutions to answer core business problems
+  - Build and deploy LLM-based agent systems in production
+  - Work with Partners and Principals to shape proposals leveraging AI and engineering
+    capabilities
+  - Engage directly with clients to understand business challenges and craft solutions
+  - Lead development of proprietary AI/ML solutions, algorithms, and analytical tools
+  - Advocate best practices in modelling, code hygiene, and data engineering
+  - Design and operate evaluation frameworks and observability tooling for AI system
+    quality
+  use_cases:
+  - LLM-based agent systems delivered in production for consulting clients
+  - Retrieval-augmented generation and multi-agent orchestration for client AI solutions
+  - Proprietary AI/ML solutions, algorithms, and analytical tools across industries
+  - AI solutions for Financial Services, Healthcare, Life Sciences, Consumer, Retail,
+    Energy, and Transportation industries
+  skills:
+    genai: [RAG, Function Calling, Agentic Workflows, Multi-Agent Systems, Prompt
+        Engineering, Structured Outputs, Fine-Tuning, LLM Evaluation]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure AI Foundry, AWS Bedrock, Gemini]
+    ops: [Observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10879765'
+  location: Wacker, USA
+  locations:
+  - Wacker, USA
+  - New York, USA
+  - Boston, USA
+  - Athens, USA
+  extracted_at: '2026-09-23T11:04:43.406208'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,193 @@
+job_id: 11003727
+title: AI/ML Engineer
+company: CACI International Inc
+location: DEU
+remote: true
+work_type: FULL_TIME
+company_size: 17,673 Employees
+description: |
+  Job Title: AI/ML Engineer
+
+  Job Category: Science
+
+  Time Type: Full time
+
+  Minimum Clearance Required to Start: TS/SCI
+
+  Employee Type: Regular-Long Term Assignment
+
+  Percentage of Travel Required: Up to 10%
+
+  Type of Travel: Outside Continental US
+
+  * * *
+
+  Opportunity:
+
+  As a CACI AI/ML Engineer to develop, deploy, and maintain
+  custom artificial intelligence and machine learning models.
+  This role sits inside the Special Operations Command Europe
+  (SOCEUR) Hybrid Threat Action Platform (HTAP) program and is
+  responsible for the end-to-end lifecycle of ML models on the
+  Google Cloud Platform (GCP). The individual will build
+  robust MLOps infrastructure, integrate vector databThe ases,
+  and optimize model inference to transition prototypes from
+  isolated research environments into highly available
+  production systems. The individual will lead the development
+  of Agentic AI and large language model (LLM) capabilities
+  across multiple defense disciplines including object
+  detection, natural language processing (NLP), and time-
+  series prediction. The individual will interact regularly
+  with stakeholders ranging from technical leads at NASIC/DOE,
+  HTAP engineers, to mission owners supporting Allied,
+  partner, and US operations.
+
+  Responsibilities:
+
+  - Architect, build, and deploy machine learning and Generative
+    AI models utilizing Kubernetes, GCP's Vertex AI, and
+    advanced infrastructure like Tensor Processing Units
+    (TPUs).
+  - Design retrieval-augmented generation (RAG) frameworks,
+    manage multi-agent workflows, and fine-tune LLMs to solve
+    complex, multi-layered defense and operational problems.
+  - Transition ML prototypes from isolated Jupyter notebooks to
+    highly available, low-latency, and secure scaled
+    production environments.
+  - Design and deploy model endpoints featuring strict security
+    checks, error handling, retries, and fallback mechanisms.
+  - Establish end-to-end continuous integration and continuous
+    deployment (CI/CD) pipelines to ensure real-time inference
+    and seamless model updates in tactical to strategic cloud
+    environments.
+  - Implement evaluation frameworks and guardrails to eliminate
+    logical errors, hallucinations, and biases in automated
+    operational decision-making.
+  - Implement rigorous model governance, ensuring version
+    control, auditability, and Explainable AI (XAI) standards
+    are met.
+  - Optimize infrastructure for high-performance computing (HPC)
+    workloads and Edge AI deployments.
+  - Act as a technical advisor to HTAP mission owners and
+    stakeholders, driving AI/ML alignment, technical project
+    strategy, and coaching teams on cloud ML integration.
+
+  Qualifications:
+
+  Required:
+
+  - Must be a US Citizen possessing an active TS/SCI security
+    clearance.
+  - Bachelor's degree in computer science, Artificial
+    Intelligence, Data Science, or a related field.
+  - 8+ years of experience in full-stack software development
+    (Python or C++) with a focus on designing and testing
+    production-grade software.
+  - 5+ years of dedicated experience in ML engineering, model
+    deployment, and ML infrastructure optimization.
+  - Hands-on expertise utilizing GCP data and ML services,
+    specifically Vertex AI, BigQuery, Dataflow, and Cloud
+    Storage.
+  - 2+ years of experience with Generative AI technologies,
+    including LLMs, RAG, embedding models, and vector
+    databases (e.g., Vertex AI Vector Search).
+  - 1+ years of experience building and scaling Agentic
+    workflows/prompt engineering.
+  - Proficiency with core data science and ML libraries (e.g.,
+    PyTorch, TensorFlow, Keras, scikit-learn, Pandas, NumPy,
+    OpenCV).
+  - Experience contributing to enterprise codebases using
+    version control (Git, GitLab, Bitbucket) and CI/CD
+    pipelines.
+  - DoD 8570.01-M / DoD 8140 IAT Level II (or higher) baseline
+    certification (e.g., CompTIA Security+, CISSP).
+  - Google Cloud Professional Machine Learning Engineer
+    certification (or equivalent GCP Professional
+    certification).
+  - .
+
+              Desired:
+
+  - TensorFlow Developer Certificate.
+  - Familiarity with Agentic and LLM frameworks such as
+    LangChain, HuggingFace, Model Context Protocol (MCP), or
+    Microsoft Agent Framework.
+  - Experience utilizing hardware-acceleration frameworks,
+    specifically compiling and optimizing code for Google TPUs
+    (utilizing JAX and XLA) as well as NVIDIA GPUs (utilizing
+    CUDA, CuPy, Numba, or the RAPIDS/CuDF ecosystem).
+  - Experience in application deployment and container
+    orchestration (Docker, Podman, Kubernetes, Rancher).
+  - Familiarity with multi-cloud environments, including AWS
+    resources (EC2, S3, Lambda).
+  - Deep understanding of NLP algorithms (e.g., BERT) and
+    specialized ML fields such as Speech/Audio processing or
+    Reinforcement Learning
+
+  Candidate will qualify for:
+
+  - Moving expenses to relocate household from CONUS to
+    Stuttgart, Germany
+  - Dependent Education
+  - LQA - Living Quarters Allowance
+
+  -
+
+  What You Can Expect:
+
+   A culture of integrity.
+
+  At CACI, we place character and innovation at the center of
+  everything we do. As a valued team member, you’ll be part of
+  a high-performing group dedicated to our customer’s missions
+  and driven by a higher purpose – to ensure the safety of our
+  nation.
+
+  An environment of trust.
+
+  CACI values the unique contributions that every employee
+  brings to our company and our customers - every day. You’ll
+  have the autonomy to take the time you need through a unique
+  flexible time off benefit and have access to robust learning
+  resources to make your ambitions a reality.
+
+  A focus on continuous growth.
+
+  Together, we will advance our nation's most critical
+  missions, build on our lengthy track record of business
+  success, and find opportunities to break new ground — in
+  your career and in our legacy.
+
+  Pay Range:
+
+  There are a host of factors that can influence final salary
+  including, but not limited to, geographic location, Federal
+  Government contract labor categories and contract wage
+  rates, relevant prior work experience, specific skills and
+  competencies, education, and certifications. Our employees
+  value the flexibility at CACI that allows them to balance
+  quality work and their personal lives. We offer competitive
+  compensation, benefits and learning and development
+  opportunities. Our broad and competitive mix of benefits
+  options is designed to support and protect employees and
+  their families. At CACI, you will receive comprehensive
+  benefits such as; healthcare, wellness, financial,
+  retirement, family support, continuing education, and time
+  off benefits.
+
+  The proposed salary range for this position is:
+
+  $126,100 - 277,300 USD
+
+  CACI is an Equal Opportunity Employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, pregnancy, sexual
+  orientation, age, national origin, disability, status as a
+  protected veteran, or any other protected characteristic.
+industries:
+  - Information Technology
+  - Consulting
+  - Defense
+posted_date: 2026-09-03
+url: "https://builtin.com/job/ai-ml-engineer/11003727"
+source: Built In

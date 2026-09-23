@@ -1,0 +1,51 @@
+company:
+  name: Nagarro
+  stage: null
+  focus: Digital product engineering and IT services
+position:
+  title: Senior Staff Engineer, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent workflows, prompt engineering
+      strategies, memory architectures, and tool-use capabilities,
+      directly shaping LLM/agent behavior. Hence ai-first per Step
+      2.
+  responsibilities:
+  - Design, develop and deploy autonomous AI agents for multi-step reasoning, planning
+    and decision-making
+  - Build and orchestrate agent workflows using LangChain, LangGraph and agent frameworks
+  - Integrate AI agents with APIs, databases and SaaS platforms for end-to-end task
+    execution
+  - Develop prompt engineering strategies, memory architectures and tool-use capabilities
+  - Build production-ready backend services and APIs in Python and Java
+  - Deploy, monitor and maintain AI agents with scalability, reliability and observability
+  - Optimize agent performance across latency, cost and reliability
+  - Evaluate emerging LLM technologies and agent frameworks
+  use_cases:
+  - Autonomous AI agents performing multi-step reasoning and decision-making
+  - End-to-end task execution by integrating agents with APIs, databases and SaaS
+    platforms
+  - Production deployment of LLM agents in business workflows
+  - Agent performance optimization across latency, cost and reliability
+  skills:
+    genai: [AI Agents, LangChain, LangGraph, Prompt Engineering, Agentic Workflows,
+      Function Calling, LLMs]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Distributed Systems, CI/CD, Monitoring, Observability, AI Agent Evaluation]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11250229'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:32:23.425458'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

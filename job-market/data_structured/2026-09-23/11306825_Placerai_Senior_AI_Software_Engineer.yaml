@@ -1,0 +1,60 @@
+company:
+  name: Placer.ai
+  stage: Unicorn, Series C, $1B+ valuation
+  focus: |-
+    Location analytics and consumer behavior intelligence
+    platform
+position:
+  title: Senior AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, agent orchestration,
+      MCP servers, tool interfaces, and Claude skills/plugins —
+      squarely shaping LLM behavior and agent workflows.
+      Claude/LLM tool use is central, making it ai-first.
+  responsibilities:
+  - Design and orchestrate agents that chain reasoning, tool calls, and decision-making
+    into reliable multi-step workflows
+  - Design, build, and deploy MCP servers for external SaaS integrations and custom
+    internal tools
+  - Build OAuth and credential management infrastructure for secure connector auth
+    at scale
+  - Define and apply production-ready connector standards with R&D Architecture (security,
+    k8s deployment, logging, access controls)
+  - Triage and prioritize incoming connector requests and bug reports from across
+    the company
+  - Build and maintain Cowork plugins and Claude skills to automate manual workflows
+    for Marketing, Operations, and Data teams
+  - Own Placer's internal Databricks BI environment, restructuring data and engineering
+    pipelines to make it AI-ready
+  - Build usage tracking tooling, optimize platform infrastructure costs, and implement
+    security and compliance best practices
+  use_cases:
+  - Internal AI agentic and context layer (PlacerX) automating company-wide workflows
+  - Agents operating across finance, GTM, Ops, and R&D SaaS tools via MCP connectors
+  - Automating manual, repetitive processes for Marketing, Operations, and Data teams
+    via Claude skills and Cowork plugins
+  - AI-ready internal BI on Databricks feeding agentic analysis and research
+  - Usage tracking and insights for measuring internal AI adoption and value
+  skills:
+    genai: [MCP, AI Agents, Agentic Workflows, Function Calling, Anthropic API, Prompt
+        Engineering, Semantic Search, Generative AI]
+    ml: []
+    web: [REST APIs, OAuth]
+    databases: []
+    data: [Databricks, Data Pipelines, Data Engineering]
+    cloud: [GCP, Google Analytics]
+    ops: [Kubernetes]
+    languages: []
+    domains: []
+    other: [Google Search Console]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11306825'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:37:15.169193'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

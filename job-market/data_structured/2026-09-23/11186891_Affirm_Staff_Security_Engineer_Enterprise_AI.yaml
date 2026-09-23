@@ -1,0 +1,59 @@
+company:
+  name: Affirm
+  stage: null
+  focus: Consumer lending and buy-now-pay-later payments
+position:
+  title: Staff Security Engineer, Enterprise AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds guardrails, policy-as-code
+      controls, and red-team/eval scenarios for LLM and agentic
+      systems, directly shaping model and agent behaviour (tool
+      permissions, output handling, MCP trust boundaries). With
+      LLM/agent components central, this is ai-first rather than
+      classical ML.
+  responsibilities:
+  - Lead and continuously improve the end-to-end security review process for enterprise
+    AI/LLM systems
+  - Threat model AI/LLM systems and data flows for prompt injection, excessive agency,
+    tool-permission abuse, and data exposure risks
+  - Review source code, system prompts, agent configurations, and MCP tool/permission
+    manifests
+  - Design and build security guardrails and tooling including permission boundaries,
+    authn/authz, logging, and policy-as-code
+  - Evaluate third-party SaaS vendor AI capabilities and drive risk-based adoption
+    decisions
+  - Develop mitigations for emerging AI/agentic vulnerabilities and contribute to
+    AI incident response playbooks
+  - Lead cross-functional AI security initiatives across Security, Legal, Privacy,
+    Compliance, IT, and Engineering
+  use_cases:
+  - Security review and risk assessment of enterprise AI/LLM tools and agentic systems
+  - Threat modeling and remediation for prompt injection, excessive agency, and tool-permission
+    abuse
+  - Automated AI security guardrails and policy-as-code enforcement
+  - Third-party SaaS AI vendor risk evaluation
+  - AI-specific incident response and vulnerability mitigation
+  skills:
+    genai: [MCP, Agentic Workflows, LLMs, RAG, Embeddings, Fine-Tuning, Function Calling,
+      Prompt Engineering, Guardrails]
+    ml: []
+    web: [OAuth]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, Infrastructure as Code, Kubernetes, Monitoring, Docker, GitHub]
+    languages: [Python]
+    domains: []
+    other: [Threat Modeling, OWASP LLM Top 10, MITRE ATLAS, SOC 2, PCI DSS, SAML,
+      IAM, Jira, GitHub Copilot, Security Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11186891'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:24:35.628054'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Block
+  stage: null
+  focus: |-
+    Financial services and commerce technology (Square, Cash
+    App, etc.)
+position:
+  title: Senior Analytics Engineer, AI & DX Analytics
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds telemetry, ETL pipelines, and executive
+      dashboards about AI usage; it does not shape model behavior.
+      AI coding agents and LLM classifiers are tools used, not
+      products designed. Judging model output or designing
+      prompts/agents is absent, so this is ai-support.
+  responsibilities:
+  - Instrument and extend raw telemetry about AI usage, code changes, CI/CD activity,
+    and spend
+  - Partner with data engineers on production ETL pipelines landing telemetry into
+    governed tables with monitoring, backfills, and alerting
+  - Define and validate new metrics from ambiguous signals
+  - Build executive-facing dashboards and visualizations
+  - Run analyses and present recommendations with defended methodology to senior stakeholders
+  - Use AI coding agents as a default part of writing, testing, and maintaining pipelines
+    and dashboards
+  - Partner with data engineering, applied AI, and data science teams to keep telemetry
+    connected end to end
+  - Flag where AI spend is not paying off or developer friction is costly and push
+    changes
+  use_cases:
+  - Measuring AI usage and ROI across engineering
+  - Developer experience analytics
+  - Executive reporting on AI investment decisions
+  - Telemetry on code changes, CI/CD activity, and AI spend
+  skills:
+    databases: [Snowflake]
+    domains: []
+    data: [Data Pipelines, dbt]
+    web: [React]
+    ml: []
+    ops: [CI/CD, Git]
+    other: [LookML]
+    cloud: []
+    languages: [SQL, Python, TypeScript]
+    genai: [AI Coding Agents, LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11243825'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:30:34.648693'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

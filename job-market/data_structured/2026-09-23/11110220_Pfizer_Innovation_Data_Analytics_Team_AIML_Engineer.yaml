@@ -1,0 +1,83 @@
+company:
+  name: Pfizer
+  stage: null
+  focus: Pharmaceutical company
+position:
+  title: Innovation, Data & Analytics Team, AI/ML Engineer (Agentic Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role owns agent orchestration, prompt architecture, and
+      tool/API integrations for agentic LLM systems, and
+      implements evaluation and monitoring for LLM output quality
+      — clearly shaping model behaviour. LLM/agent components
+      dominate, so ai-first.
+  responsibilities:
+  - Own orchestration frameworks and agent architecture for AI-based workflows
+  - Build and harden agentic workflows for production use
+  - Design prompt architecture and tool/API integrations across agentic systems
+  - Translate Senior Data Scientist methodology and evaluation criteria into production-grade
+    agents
+  - Partner with Data Engineer and Senior Data Analyst to meet data quality, governance,
+    audit, and compliance requirements
+  - Implement monitoring, evaluation, and cost controls for LLM-based systems in production
+  - Document agent architecture, prompt design, and tool integrations for governance
+    and audit
+  - Improve workflow reliability, latency, and cost
+  use_cases:
+  - Agentic AI workflows for analytical methodology in pharma R&D
+  - Production-grade AI agents translating data science methods into reliable tools
+  - Governed, auditable AI agents in a regulated healthcare/pharma environment
+  skills:
+    genai: [LangGraph, Pydantic AI, Agentic Workflows, Prompt Engineering, LLMs]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, Monitoring, LLM Evaluation]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11110220'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Groton, USA
+  - Montréal, CAN
+  - New York, USA
+  - Cambridge, USA
+  - Collegeville, USA
+  remote: true
+  extracted_at: '2026-09-23T11:19:42.124732'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

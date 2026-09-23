@@ -1,0 +1,50 @@
+company:
+  name: Vectara
+  stage: null
+  focus: AI agent platform for grounded enterprise applications
+position:
+  title: AI Sales Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role adapts Vectara's agent platform for customers,
+      including conducting evaluations and performance tuning of
+      retrieval and agentic pipelines, assisting with architecture
+      and development, and building custom demos — shaping
+      RAG/agent system behavior at customer sites, like a forward-
+      deployed engineer. LLM/agent components are central, so ai-
+      first.
+  responsibilities:
+  - Provide technical product expertise to customers throughout their journey
+  - Conduct demos, including custom-built ones, and assist with POCs
+  - Assist customers with architecture, design, and development of their applications
+  - Scope and plan Professional Services projects
+  - Conduct evaluations and performance tuning of retrieval and agentic pipelines
+  - Respond to functional and technical elements of RFIs/RFPs
+  - Run regular customer check-ins to share new features and identify expansion opportunities
+  - Relay customer feedback to Product, Engineering, and ML teams
+  use_cases:
+  - Enterprise AI applications grounded in customer data
+  - Retrieval and agentic pipelines meeting enterprise requirements
+  - Custom customer demos and proofs of concept
+  - Cloud, VPC, and on-premise AI platform deployments
+  skills:
+    genai: [AI Agents, Agentic Workflows, RAG, Guardrails]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [SaaS, Kubernetes]
+    ops: [DevOps]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11137733'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:20:26.391795'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

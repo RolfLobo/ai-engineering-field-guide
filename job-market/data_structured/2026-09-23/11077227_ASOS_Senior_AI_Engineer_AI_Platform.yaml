@@ -1,0 +1,60 @@
+company:
+  name: ASOS
+  stage: null
+  focus: Online fashion retail
+position:
+  title: Senior AI Engineer (AI Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agentic AI patterns, prompt lifecycle
+      practices, tool calling, agent orchestration, and evaluation
+      practices for agents/prompts on the AI platform - directly
+      shaping model behavior and agent workflows (LLM/agent
+      components), so it is ai-first.
+  responsibilities:
+  - Design and build AI platform capabilities on Azure with a focus on agentic AI
+    patterns such as agent runtimes, orchestration and tool integration
+  - Define how agents are built, integrated and operated across the organisation via
+    the Agentic AI Platform initiative
+  - Design standardized templates and reference implementations for LLM and Generative
+    AI workflows covering prompt design, tool calling, multi-step agent flows, retries
+    and failure handling
+  - Implement secure, governed access patterns for LLMs and enterprise tools using
+    APIM, gateways, Entra ID, RBAC and managed identities
+  - Contribute to LLMOps and model runtime patterns including model access, routing,
+    caching, token optimisation and cost-aware usage controls
+  - Support lifecycle and evaluation practices for agent configurations, prompts and
+    AI workflows including testing, controlled change and release readiness
+  - Design secure tool-access patterns for agents including MCP/tool abstraction,
+    credential management and enterprise API integration
+  - Contribute to AgentOps/GenAIOps capabilities including telemetry, run history,
+    error analysis and feedback loops, plus reliability and observability by default
+  use_cases:
+  - Enterprise agentic AI platform enabling teams to build, deploy and operate AI
+    agents
+  - Governed and secure LLM access and tool integration at enterprise scale
+  - LLMOps capabilities for model routing, caching, token and cost optimisation
+  - Observability and reliability for production AI systems (telemetry, alerting,
+    scaling)
+  - Evaluation and lifecycle management for prompts and agent configurations
+  skills:
+    genai: [AI Agents, LLMs, Generative AI, Agentic Workflows, Prompt Engineering,
+      Function Calling, MCP]
+    ml: []
+    web: [APIs]
+    databases: [Redis]
+    data: []
+    cloud: [Azure, Azure AI Foundry, Entra ID, Azure API Management, Azure OpenAI]
+    ops: [LLMOps, MLOps, CI/CD, Observability, AgentOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11077227'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:18:03.271937'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

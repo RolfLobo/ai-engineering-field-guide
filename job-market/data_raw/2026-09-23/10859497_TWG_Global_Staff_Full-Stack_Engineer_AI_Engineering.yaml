@@ -1,0 +1,150 @@
+job_id: 10859497
+title: Staff Full-Stack Engineer, AI Engineering
+company: TWG Global
+location: Santa Monica, USA
+work_type: FULL_TIME
+description: |
+  The Organization
+
+  At TWG Group Holdings, LLC (“TWG Global”), we drive
+  innovation and business transformation across a range of
+  industries—including financial services, insurance,
+  technology, media, and sports—by leveraging data and AI as
+  core assets. Our AI-first, cloud-native approach delivers
+  real-time intelligence and interactive business
+  applications, empowering informed decision-making for both
+  customers and employees.
+
+  We prioritize responsible data and AI practices, ensuring
+  ethical standards and regulatory compliance. Our
+  decentralized structure enables each business unit to
+  operate autonomously, supported by a central AI Solutions
+  Group, while strategic partnerships with leading data and AI
+  vendors fuel game-changing efforts in marketing, operations,
+  and product development.
+
+  You will collaborate with management to advance our data and
+  analytics transformation, enhance productivity, and enable
+  agile, data-driven decisions. By leveraging relationships
+  with top tech startups and universities, you will help
+  create competitive advantages and drive enterprise
+  innovation.
+
+  At TWG Global, your contributions will support our goal of
+  sustained growth and superior returns, as we deliver rare
+  value and impact across our businesses.
+
+  The Role
+
+  We're hiring a Staff Software Engineer to build agentic AI
+  products for our clients. You'll own features end-to-end,
+  from agent design and orchestration logic through React UIs
+  and native mobile clients, and you'll be responsible for the
+  evaluation systems that keep agent quality from regressing
+  as the platform grows.
+
+  You should be comfortable moving between a Spring Boot
+  service, a Python agent layer, and a React frontend in the
+  same week. You should also have strong opinions about how to
+  measure whether an agent is getting better.
+
+  You'll work closely with product, design, and other
+  engineers, and you'll mentor more junior teammates.
+
+  Key Responsibilities:
+
+  - Design, build, and operate agent-based software that
+    executes multi-step tasks with tools, memory, and stateful
+    workflows using LangGraph or equivalent frameworks
+  - Build and maintain evaluation pipelines for LLM and agent
+    quality: offline eval suites, regression tests, tool-call
+    and trajectory scoring, and the dashboards and tooling
+    that make results actionable
+  - Lead development of React frontends with clean component
+    architecture, sensible state management, and real
+    performance work
+  - Design and maintain backend services, REST APIs, and data
+    models in Java (Spring Boot) and Python
+  - Contribute to system design across multi-tenant
+    infrastructure, auth, and async messaging
+  - Support features for our iOS apps, including UI, networking,
+    push notifications, and release management
+  - Drive code quality, testing discipline, and engineering
+    standards
+  - Mentor junior engineers and raise the bar through code
+    review and design feedback
+
+  Requirements
+
+  Qualifications:
+
+  - 8+ years building production software at scale
+  - Hands-on experience building real LLM and agent
+    applications, not demos. You've designed tool interfaces,
+    orchestrated multi-step workflows, handled failure modes
+    in agent loops, and shipped something users depend on
+  - Direct experience with agent evaluation: building golden
+    datasets, running offline evals, scoring tool calls and
+    trajectories, and using eval results to drive prompt,
+    model, and architecture changes. Familiarity with
+    frameworks like Braintrust, LangSmith, Inspect, or
+    comparable custom harnesses
+  - Strong React, including state management, component design,
+    and performance
+  - Strong Java with Spring Boot, plus working proficiency in
+    Python
+  - Relational database design (PostgreSQL preferred)
+  - Comfort with distributed systems, async messaging, and
+    modern service architecture
+  - Cloud infrastructure (AWS, GCP, or Azure) and CI/CD
+  - Bachelor's degree in CS, Engineering, or equivalent
+    practical experience
+
+  Preferred Qualifications:
+
+  - Experience with LangGraph specifically, or having built
+    comparable orchestration from scratch
+  - iOS development with Swift and SwiftUI, including App Store
+    release experience and APNs
+  - Multi-provider LLM work (Anthropic, OpenAI, Google, xAI) and
+    MCP servers or clients
+  - Redis Streams or similar async messaging at production scale
+  - Multi-tenant SaaS with non-trivial RBAC and auth
+  - On-device ML on iOS (CoreML, NLContextualEmbedding) or audio
+    pipelines (Whisper, TTS)
+  - Prior experience working with Palantir Foundry is a big plus
+
+  Benefits
+
+  - Work on real-world AI applications with high-impact clients
+  - Collaborate with world-class data scientists, engineers, and
+    product leaders
+  - Flat org structure, high trust, high autonomy
+  - Competitive salary + performance-based incentives
+
+  Position Location
+
+  This is an onsite position preferred to be located in Santa
+  Monica, CA. Relocation support can be provided to the right
+  candidates.
+
+  Compensation
+
+  The target base pay for this position is $290,000-$300,000.
+  A bonus will be provided as part of the compensation
+  package, in addition to the full range of medical,
+  financial, and/or other benefits.
+
+  TWG is an equal opportunity employer. All applicants will be
+  considered for employment without attention to age, race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, veteran or disability status.
+industries:
+  - Angel or VC Firm
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-26
+url: "https://www.builtinla.com/job/staff-full-stack-engineer-ai-engineering/10859497"
+source: Built In

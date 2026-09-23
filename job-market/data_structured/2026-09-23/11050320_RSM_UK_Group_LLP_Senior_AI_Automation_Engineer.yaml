@@ -1,0 +1,53 @@
+company:
+  name: RSM UK Group LLP
+  stage: null
+  focus: |-
+    Audit, tax and consulting services for middle-market
+    businesses
+position:
+  title: Senior AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, multi-step workflows,
+      and tool integrations across Copilot Studio and Azure AI
+      Foundry, including prompt evaluation and agent patterns -
+      directly shaping LLM/agent behaviour. This is clearly ai-
+      first.
+  responsibilities:
+  - Design and build AI agents and multi-step workflows for internal tax use cases
+  - Develop Python-based services and automation pipelines for production use
+  - Integrate AI systems with internal platforms using APIs and event-driven architectures
+  - Orchestrate workflows across Copilot Studio, Azure AI Foundry, and internal systems
+  - Build reusable components such as connectors, tools, and agent capabilities
+  - Implement CI/CD pipelines for reliable deployment and versioning
+  - Ensure solutions are scalable, observable, and maintainable in enterprise environments
+  - Lead technical design and code reviews
+  use_cases:
+  - AI-powered agents for internal tax workflows
+  - Automated tax workflows and pipelines
+  - Integration of AI systems with enterprise tax platforms
+  - Reusable connectors and agent capabilities for internal teams
+  skills:
+    genai: [AI Agents, Agentic Workflows, Copilot Studio, Azure OpenAI, MCP, Prompt
+        Evaluation, Function Calling]
+    ml: []
+    web: [Python, GraphQL, APIs, Event-Driven Architecture]
+    databases: []
+    data: []
+    cloud: [Azure, Azure Functions]
+    ops: [CI/CD, Git, Docker, Kubernetes, Azure Container Apps, Monitoring]
+    languages: [REST APIs]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11050320'
+  location: London, GBR
+  locations:
+  - London, GBR
+  - Birmingham, GBR
+  extracted_at: '2026-09-23T11:15:02.160940'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

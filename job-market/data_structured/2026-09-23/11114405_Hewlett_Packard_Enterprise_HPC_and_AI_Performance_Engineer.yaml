@@ -1,0 +1,56 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Enterprise edge-to-cloud computing and supercomputers
+position:
+  title: HPC and AI Performance Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes application/benchmark performance via
+      optimizing parallel code on HPC systems (CUDA, MPI,
+      profiling), which is model/system performance work rather
+      than LLM prompting or retrieval. No LLM/agent components
+      appear, so it's ml-first classical performance engineering.
+  responsibilities:
+  - Conduct scientific application performance benchmarking on HPE supercomputing
+    platforms, often under tight deadlines
+  - Optimize HPC benchmarks to support competitive sales proposals and internal product
+    decisions
+  - Analyze benchmark results to identify bottlenecks across compute, memory, accelerator,
+    interconnect, MPI, and I/O subsystems
+  - Assess benchmark performance on current and future HPE architectures using performance
+    estimation methodologies
+  - Benchmark scientific ISV applications and open-source HPC applications
+  - Collaborate with internal teams and external technical peers for optimal benchmark
+    performance
+  - Provide benchmarking consultation and technical guidance to Sales, Marketing,
+    and Development teams
+  use_cases:
+  - Scientific application benchmarking on supercomputers
+  - Performance optimization of HPC workloads across compute, memory, interconnect,
+    and I/O
+  - Supporting sales proposals and product decision-making with benchmark results
+  - Large-scale application scaling on customer-deployed HPC systems
+  skills:
+    genai: []
+    ml: [CUDA, OpenACC]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux]
+    languages: [Python, Bash, C, C++, Fortran]
+    domains: []
+    other: [MPI, OpenMP, Lustre, GPFS, Performance Profiling Tools, Shell Scripting]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11114405'
+  location: Pune, IND
+  locations:
+  - Pune, IND
+  - Bengaluru, IND
+  extracted_at: '2026-09-23T11:20:02.699281'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

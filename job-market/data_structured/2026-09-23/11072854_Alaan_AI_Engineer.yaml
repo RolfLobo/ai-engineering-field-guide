@@ -1,0 +1,55 @@
+company:
+  name: Alaan
+  stage: Backed by Y Combinator and Peak XV; profitable
+  focus: AI-powered spend management and corporate cards platform
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behavior directly: prompt management,
+      model orchestration, tool calling, structured outputs,
+      evaluation frameworks, retrieval/RAG strategies, and fine-
+      tuning experiments for production AI features. LLMs are
+      central, so ai-first.
+  responsibilities:
+  - Design, build, and deploy AI-powered features across Alaan's products
+  - Create workflows for prompt management, model orchestration, tool calling, and
+    structured outputs
+  - Build backend services and APIs integrating AI capabilities into production
+  - Develop evaluation frameworks measuring accuracy, relevance, reliability, latency,
+    and cost of AI outputs
+  - Experiment with models, prompting techniques, embeddings, retrieval strategies,
+    and fine-tuning
+  - Implement safeguards for sensitive financial and customer information
+  - Monitor AI systems in production and improve performance using feedback and evaluation
+    data
+  - Collaborate with Product, Design, Data, and Backend teams to identify high-impact
+    AI use cases
+  use_cases:
+  - Extracting and structuring financial data
+  - Automating expense workflows
+  - Building intelligent financial assistants
+  - Helping customers interact with their financial information
+  - AI-powered spend management for corporate finance
+  skills:
+    genai: [LLMs, Prompt Engineering, Embeddings, RAG, LLM Evaluation, LangChain,
+      Fine-Tuning, Conversational AI, Guardrails, AI Agents, Function Calling, Structured
+        Outputs]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Search, PostgreSQL, MongoDB, OpenSearch, Snowflake]
+    data: []
+    cloud: [SageMaker, AWS, GCP, Azure]
+    ops: [Weights & Biases, Langfuse, Monitoring, Observability]
+    languages: [Python, Node.js]
+    domains: [OCR]
+    other: [Jupyter Notebooks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11072854'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:17:41.188244'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

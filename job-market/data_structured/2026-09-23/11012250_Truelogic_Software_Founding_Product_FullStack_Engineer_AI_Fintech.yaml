@@ -1,0 +1,55 @@
+company:
+  name: Truelogic Software
+  stage: VC-backed (client startup, early-stage)
+  focus: Nearshore staff augmentation for US technology companies
+position:
+  title: Founding Product FullStack Engineer – AI Fintech (Remote  - US Based)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role develops AI finance agents and architectures
+      infrastructure for AI evaluation, shaping agent behavior and
+      evaluation of LLM systems. This is shaping LLM/agent
+      components, making it ai-first; agent-building is listed as
+      a core responsibility (though noted as a plus, it's central
+      to the product).
+  responsibilities:
+  - Collaborate with founders, operators, and finance teams to define product solutions
+  - Design and build full-stack solutions across frontend, backend, AI, data, and
+    integrations
+  - Develop AI finance agents automating invoicing, collections, payroll, reporting,
+    and month-end close
+  - Architect infrastructure for permissions, audit trails, financial reconciliation,
+    observability, and AI evaluation
+  - Build integrations with banking, accounting, payroll, and payment platforms like
+    QuickBooks, Plaid, and Stripe
+  - Create intuitive UIs translating complex financial data into insights
+  - Ship to production rapidly and iterate based on customer feedback
+  - Help establish the company's foundational engineering culture and standards
+  use_cases:
+  - Automated bookkeeping, reporting, and payroll for growing companies
+  - AI agents for invoicing, collections, and month-end close
+  - Financial reconciliation and audit-ready reporting
+  - Integrations with banking, accounting, and payment platforms (QuickBooks, Plaid,
+    Stripe)
+  - Financial dashboards translating complex data into owner-friendly insights
+  skills:
+    genai: [AI Agents, LLMs, MCP]
+    ml: []
+    web: [React, FastAPI, APIs]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Distributed Systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11012250'
+  location: New York, USA
+  remote: true
+  extracted_at: '2026-09-23T11:12:46.955114'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: MARLOWE COMPANIES INC.
+  stage: null
+  focus: Tech-enabled BPO and customer experience services
+position:
+  title: Senior Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompt engineering frameworks, builds
+      solutions with LLMs/foundation models, improves model
+      outputs and accuracy, and evaluates models — directly
+      shaping LLM behavior, making it ai-first.
+  responsibilities:
+  - Lead design and implementation of enterprise-scale Generative AI solutions
+  - Architect scalable and secure AI platforms and services
+  - Build and optimize AI-powered applications using LLMs and foundation models
+  - Design prompt engineering frameworks and optimization strategies
+  - Improve model outputs, accuracy, and user experiences; support AI deployment lifecycle
+  - Partner with business and technology leaders to translate requirements into AI
+    architectures and support AI strategy
+  - Ensure AI solutions are secure, compliant, and responsibly deployed; implement
+    governance and monitoring controls
+  - Mentor junior engineers and lead proof-of-concept and experimentation initiatives
+  use_cases:
+  - Enterprise-scale Generative AI applications
+  - Customer experience (CX) enhancement in contact center operations
+  - AI-powered business process automation
+  - Integration of AI capabilities into complex business systems
+  skills:
+    genai: [LLMs, Generative AI, Prompt Engineering, Model Evaluation, OpenAI API,
+      Anthropic API, Gemini, LangChain, LangGraph, LlamaIndex, RAG]
+    ml: [Foundation Model Training]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: [Distributed Systems, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11080033'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:17:16.337977'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

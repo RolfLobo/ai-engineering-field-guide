@@ -1,0 +1,161 @@
+job_id: 10928467
+title: "Senior Backend Engineer (Ruby), AI Catalog: External Agents"
+company: GitLab
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 2,500 Employees
+description: |
+  GitLab is the intelligent orchestration platform for
+  DevSecOps. GitLab enables organizations to increase
+  developer productivity, improve operational efficiency,
+  reduce security and compliance risk, and accelerate digital
+  transformation. More than 50 million registered users and
+  more than 50% of the Fortune 100* trust GitLab to ship
+  better, more secure software faster.
+
+  The same principles built into our products are reflected in
+  how our team works: we embrace AI as a core productivity
+  multiplier, with all team members expected to incorporate AI
+  into their daily workflows to drive efficiency, innovation,
+  and impact. GitLab is where careers accelerate, innovation
+  flourishes, and every voice is valued. Our high-performance
+  culture is driven by our values and continuous knowledge
+  exchange, enabling our team members to reach their full
+  potential while collaborating with industry leaders to solve
+  complex problems. Co-create the future with us as we build
+  technology that transforms how the world develops software.
+
+  *Fortune 500® is a registered trademark of Fortune Media IP
+  Limited, used under license. Claim based on GitLab data.
+  Fortune 100 refers to the top 20% ranked companies in the
+  2025 Fortune 500 list, published in June 2025. Fortune and
+  Fortune Media IP Limited are not affiliated with, and do not
+  endorse products or services of GitLab.
+
+  An overview of this role
+
+  As a Senior Backend Engineer on GitLab’s External Agents
+  team, you’ll design and build integrations that bring GitLab
+  agents into tools such as Slack and connect external
+  solutions such as Claude Code or Codex with GitLab. You’ll
+  take end-to-end ownership of complex features, help shape
+  architectural patterns for how GitLab exposes its AI
+  functionality, and collaborate with engineers across the
+  Agent Foundations stage and adjacent AI engineering teams.
+  This is a high-visibility area at the intersection of
+  GitLab’s core platform and AI strategy.
+
+  What you’ll do
+
+  - Develop, ship, and maintain secure, well-tested, and
+    performant external agent integrations across the GitLab
+    monolith backend.
+  - Collaborate with Product Management, user experience,
+    frontend, backend, and AI specialists to refine
+    requirements and deliver high-quality improvements
+    iteratively.
+  - Design, implement, and review GraphQL and REST application
+    programming interfaces (APIs) and related backend logic,
+    with clear contracts for frontend clients.
+  - Improve and extend automated testing, including RSpec and
+    other frameworks, to strengthen quality, reliability, and
+    developer feedback loops.
+  - Share standards, patterns, and lessons with other engineers
+    to support responsible AI integration and evidence-based
+    engineering across the team.
+  - Participate in Tier 2 on-call rotations, troubleshoot
+    production issues, contribute to root cause analysis, and
+    improve observability and resiliency.
+  - Assess the competitive landscape and help GitLab build
+    strong AI integrations as agentic technology evolves.
+
+  What you’ll bring
+
+  - Experience building and maintaining production applications
+    with Ruby on Rails, including background jobs, APIs, and
+    data models.
+  - Comfort working across the stack in a mature codebase.
+  - Proficiency in designing or extending REST or GraphQL APIs
+    with attention to scalability, maintainability, and
+    backward compatibility.
+  - Practical experience designing and shipping AI-powered
+    backend features or integrations.
+  - Strong SQL skills and familiarity with relational databases
+    such as PostgreSQL, including efficient queries and data
+    modeling.
+  - Experience identifying and addressing performance
+    bottlenecks at the application and, where relevant,
+    infrastructure layers.
+  - Openness to learning, collaborating in an asynchronous,
+    distributed team, and applying transferable skills from
+    related technologies or domains; familiarity with Python
+    backends or Vue frontends is a plus.
+
+  About the team
+
+  External Agents is a functional team within the AI Catalog
+  group. We will initially consist of three engineers across
+  Europe, the Middle East, and Africa (EMEA) time zones, while
+  the wider AI Catalog group includes more than eight
+  engineers across Asia-Pacific (APAC), EMEA, and the Americas
+  (AMER). Other teams in AI Catalog focus on agent creation
+  and curation. Together, we partner with teams across AI
+  engineering and GitLab to help the GitLab Duo Agent Platform
+  become the backbone for AI features across the product.
+
+  How GitLab Supports Full-Time Employees
+
+  - Benefits to support your health, finances, and well-being
+  - Flexible Paid Time Off
+  - Team Member Resource Groups
+  - Equity Compensation & Employee Stock Purchase Plan
+  - Growth and Development Fund
+  - Parental Leave
+
+  Please note that we welcome interest from candidates with
+  varying levels of experience; many successful candidates do
+  not meet every single requirement. Additionally, studies
+  have shown that people from underrepresented groups are less
+  likely to apply to a job unless they meet every single
+  qualification. If you're excited about this role, please
+  apply and allow our recruiters to assess your application.
+
+  Country Hiring Guidelines: GitLab hires new team members in
+  countries around the world. All of our roles are remote,
+  however some roles may carry specific location-based
+  eligibility requirements. Our Talent Acquisition team can
+  help answer any questions about location after starting the
+  recruiting process.
+
+  Privacy Policy: Please review our Recruitment Privacy
+  Policy. Your privacy is important to us.
+
+  GitLab is proud to be an equal opportunity workplace and is
+  an affirmative action employer. GitLab’s policies and
+  practices relating to recruitment, employment, career
+  development and advancement, promotion, and retirement are
+  based solely on merit, regardless of race, color, religion,
+  ancestry, sex (including pregnancy, lactation, sexual
+  orientation, gender identity, or gender expression),
+  national origin, age, citizenship, marital status, mental or
+  physical disability, genetic information (including family
+  medical history), discharge status from the military,
+  protected veteran status (which includes disabled veterans,
+  recently separated veterans, active duty wartime or campaign
+  badge veterans, and Armed Forces service medal veterans), or
+  any other basis protected by law. GitLab will not tolerate
+  discrimination or harassment based on any of these
+  characteristics. See also GitLab’s EEO Policy and EEO is the
+  Law. If you have a disability or special need that requires
+  accommodation, please let us know during the recruiting
+  process.
+industries:
+  - Cloud
+  - Security
+  - Software
+  - Cybersecurity
+  - Automation
+posted_date: 2026-08-31
+url: "https://builtin.com/job/senior-backend-engineer-ruby-ai-catalog-external-agents/10928467"
+source: Built In

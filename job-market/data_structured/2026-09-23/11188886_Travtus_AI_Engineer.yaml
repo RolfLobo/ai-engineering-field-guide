@@ -1,0 +1,52 @@
+company:
+  name: Travtus
+  stage: null
+  focus: AI platform for housing industry automation
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, orchestrates, tunes, and evaluates LLM-
+      powered agents, prompts, function calling, and model
+      selection - direct shaping of model behavior and output
+      quality. LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Design and develop multi-agent prompts and orchestration patterns
+  - Define how agents, tools, APIs, services, and platform components interact, including
+    contracts and integration patterns
+  - Own LLM and prompt tooling lifecycle from prompt management through evaluation,
+    testing, and optimisation
+  - Perform model selection based on use case fit, quality, latency, scalability,
+    and cost
+  - Design and implement tool use and function-calling patterns for agent-based systems
+  - Monitor, debug, and continuously tune agents in development and production
+  - Define and execute testing and evaluation strategies for LLM agents and platform-level
+    AI workflows
+  - Use prompt outputs as code to support interface generation and rapid product iteration
+  use_cases:
+  - Agent-based products and workflows for the housing industry platform
+  - AI-driven decisions and automation across systems housing operators use daily
+  - Prompt outputs used as code for interface generation and front-end behaviour
+  - Resident experience improvement via AI automation
+  - Rapid product iteration through AI-assisted prototyping and generation
+  skills:
+    genai: [Prompt Engineering, LLMs, AI Agents, Agentic Workflows, Function Calling,
+      Structured Outputs, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11188886'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:24:14.019469'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

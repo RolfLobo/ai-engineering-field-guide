@@ -1,0 +1,60 @@
+company:
+  name: RxSense
+  stage: null
+  focus: Healthcare technology for pharmacy benefits management
+position:
+  title: Principal Platform Engineer, AI Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform/infrastructure role: Terraform, EKS,
+      Helm, CI/CD, observability, and cost management. The role
+      supports AI teams' workloads (including LLM-serving ones)
+      but never shapes model behavior via prompts, retrieval, or
+      training. Mentoring and standards-setting are IC technical
+      leadership, not management.
+  responsibilities:
+  - Design and maintain Terraform IaC foundation across dev, QA, staging, and production
+    covering Kubernetes, networking, IAM, and app stacks
+  - 'Operate and harden EKS clusters end to end: node lifecycle, autoscaling, ingress,
+    workload identity, and secrets delivery'
+  - Build push-based CI/CD on self-hosted GitHub Actions runners with build-once,
+    promote-everywhere artifact immutability
+  - Maintain a shared Helm chart library and golden paths so new services reach production
+    with logging, metrics, and secrets wired in
+  - 'Harden security and compliance posture: least-privilege IAM, secrets management,
+    network boundaries, and automatic audit evidence'
+  - 'Own cloud cost management: tagging, allocation, right-sizing, and predictable
+    spend as traffic and model inference grow'
+  - 'Build observability in: structured logging, metrics, tracing, and correlation
+    as platform defaults'
+  - Set platform conventions, review infrastructure changes, and mentor engineers
+    across application, data, and AI teams
+  use_cases:
+  - Greenfield cloud platform hosting pharmacy benefit services and AI-native applications
+  - Infrastructure supporting latency-sensitive services that call large language
+    models
+  - Data and analytics pipeline workloads running on Kubernetes
+  - Automated security and compliance evidence generation for a regulated healthcare
+    environment
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Spark, Kafka, Airflow, Dagster]
+    cloud: [EKS, AWS, IAM]
+    ops: [Terraform, Helm, Kubernetes, CI/CD, GitHub Actions, ArgoCD, Jenkins, GitLab
+        CI, GitOps, OpenTelemetry, Prometheus, Grafana, Datadog, Monitoring, Docker]
+    languages: [Python, Go, .NET]
+    domains: []
+    other: [Distributed Tracing, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11008828'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:12:47.358329'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

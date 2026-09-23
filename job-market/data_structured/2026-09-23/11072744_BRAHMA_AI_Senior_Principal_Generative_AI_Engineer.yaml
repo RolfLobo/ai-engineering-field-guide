@@ -1,0 +1,54 @@
+company:
+  name: BRAHMA AI
+  stage: null
+  focus: Generative AI agents and applications
+position:
+  title: Senior / Principal Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and shapes LLM behavior directly:
+      architecting agentic systems, RAG pipelines, prompt
+      engineering, and fine-tuning foundation models. LLM/agent
+      components dominate, so it is ai-first.
+  responsibilities:
+  - Architect, build, and deploy agentic AI systems using LangGraph, Google ADK, Autogen,
+    Semantic Kernel, CrewAI, and LangChain
+  - Design and implement RAG pipelines with vector databases (OpenSearch, Pinecone,
+    FAISS, Weaviate)
+  - Develop modular, reusable AI agent architectures for reasoning and tool orchestration
+  - Integrate and fine-tune foundation models (GPT, Claude, Gemini, Mistral, Llama)
+    for domain-specific tasks
+  - Implement observability, performance tracking, and continuous evaluation of model
+    and agent behavior
+  - Build multimodal content generation workflows (text-to-image, text-to-video, text-to-audio)
+  - Collaborate with platform, data, and product teams on integration and deployment
+  - Mentor junior engineers on prompt design, agent architecture, and optimization
+    techniques
+  use_cases:
+  - Agentic AI systems with dynamic reasoning and tool orchestration
+  - Retrieval-augmented generation for domain-specific tasks
+  - Multimodal content generation (text-to-image, image-to-video, text-to-video, text-to-speech)
+  - Domain-specific fine-tuning of foundation models
+  - Production observability and evaluation of agent behavior
+  skills:
+    databases: [OpenSearch, Pinecone, FAISS, Weaviate, Vector Search]
+    domains: []
+    data: []
+    web: [APIs, Microservices]
+    ml: [Diffusion Models, Model Evaluation]
+    ops: [Observability]
+    other: [TTS, Data Governance]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python]
+    genai: [LangGraph, Google ADK, AutoGen, Semantic Kernel, CrewAI, LangChain, RAG,
+      AI Agents, LLMs, Embeddings, Prompt Engineering, LLM Evaluation, Fine-Tuning,
+      LoRA, Generative AI, Context Engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11072744'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:17:32.744432'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

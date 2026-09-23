@@ -1,0 +1,140 @@
+job_id: 11138378
+title: Lead AI Analytics Engineer
+company: Skan AI
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 235 Employees
+description: |
+  Be at the Forefront of the Agentic AI Revolution
+
+  At Skan AI, we are pioneering the context engine for human
+  and agentic execution, bringing context from enterprise
+  operators, systems, and processes to power how the world's
+  largest organizations execute their most complex, mission-
+  critical work.
+
+  Why Skan AI
+
+  We're in hyper-growth mode at exactly the right moment in
+  history. As enterprises race to adopt agentic AI, we're
+  uniquely positioned to deliver the clear signal they
+  desperately need: a platform that trains and grounds AI
+  Agents in trillions of real execution signals, enabling
+  reliable, compliant automation of their most complex
+  processes.
+
+  Backed by Dell Technologies Capital and other leading
+  investors, we're the only company that can bridge the gap
+  between AI's promise and enterprise reality, making us
+  perfectly positioned to define the agentic era for modern
+  enterprises.
+
+  Our diverse, collaborative team of 250+ innovators is
+  solving category-defining challenges at the intersection of
+  AI, process intelligence, and enterprise work. Diverse
+  perspectives fuel breakthrough thinking, cross-functional
+  collaboration is the norm, and our work directly transforms
+  how Fortune 500 companies operate. We are shaping the future
+  of work itself.
+
+  Job Title: Lead, AI-Enabled Data Analyst
+
+  Skan.ai is a leading process intelligence software company
+  building the fabric of the future of work. We're hiring a
+  hands-on Lead Data Analyst to own our analytics function
+  end-to-end — building dashboards personally, mining data for
+  insight, and making sure the reporting platforms behind them
+  scale and stay reliable at production volume.
+
+  Key Responsibilities
+
+  - Analytics Delivery: Personally architect and build Power BI
+    and Superset dashboards, delivering descriptive and
+    prescriptive analytics tied to measurable business
+    outcomes.
+  - Deep-Dive Analysis & AI-Augmented Insight: Run deep-dive
+    analyses to surface patterns and trends. Use Skan.ai's
+    built-in AI/LLM and NLP capabilities to accelerate
+    analysis of unstructured process and customer data — this
+    is about applying AI tooling to get to insight faster, not
+    building or maintaining models. Partner with the data
+    science team when a question needs model-level depth.
+  - Data Observability: Monitor the health of reporting data
+    pipelines — schema drift, freshness, volume anomalies, and
+    quality checks across Superset/Power BI sources — and
+    escalate before issues reach a customer dashboard.
+  - Database & Reporting Platform Ownership: Configure, tune,
+    and scale the SQL/Superset/Power BI stack for very large
+    data volumes. Set up monitoring and performance metrics,
+    and recommend environment sizing.
+  - Production Support & Capacity Planning: Troubleshoot
+    production data and database issues, plan for capacity
+    upgrades, perform maintenance, monitor performance, and
+    take proactive action to prevent outages.
+  - Customer & Cross-Functional Collaboration: Partner directly
+    with customers on tailored analytics solutions, and with
+    AI Solutions Consultants, Product, Engineering, and
+    Customer Success to shape the platform roadmap.
+  - Team Leadership: Build and mentor a high-performing
+    analytics team grounded in ownership and accountability.
+
+  Qualifications and Skills
+
+  - Experience: 10+ years of hands-on leadership in business
+    intelligence, advanced analytics, or data science, with a
+    track record of personally delivering data-driven
+    solutions.
+  - Core Technical Depth — SQL, Databases, and Visualization:
+    Deep, hands-on expertise in SQL, database, and data
+    visualization (Power BI, Superset). Must be technically
+    strong across all three areas, not specialized in just
+    one.
+  - Scale & Database Administration: Proven experience scaling
+    and supporting reports against very large data volumes.
+    Hands-on with Reports configuration; SQL tuning,
+    monitoring setup, and environment sizing recommendations.
+  - AI, LLM & NLP Fluency: Comfortable using LLM- and NLP-based
+    tools (extraction, classification, summarization) to speed
+    up data analysis. This is a using-AI-as-a-tool
+    requirement, not a model-building one — deep ML/data
+    science expertise is not expected.
+  - Data Observability: Experience setting up or working with
+    data observability practices — monitoring for schema
+    drift, data freshness, volume/quality anomalies — across
+    BI and warehouse layers.
+  - Platform Breadth: Additional experience with Databricks,
+    Snowflake, or Tableau is a plus.
+  - Soft Skills: Highly collaborative and low-ego — equally
+    comfortable pairing with engineers on SQL/DB tuning and
+    walking a customer through a dashboard. Clear communicator
+    who can translate technical tradeoffs (sizing,
+    performance, risk) into plain language for non-technical
+    stakeholders. Genuinely curious and eager to learn and
+    grow, with the resilience and ownership mindset to run
+    toward ambiguous production issues rather than waiting to
+    be told what to do.
+  - Bonus: Experience in process mining, automation
+    intelligence, or value engineering is highly desirable.
+
+  Skan AI is an equal opportunity employer committed to
+  building a diverse, inclusive, and respectful workplace
+  around the world. We do not discriminate based on race,
+  color, religion or belief, sex (including pregnancy, sexual
+  orientation, gender identity, or gender expression),
+  national origin, ancestry, age, disability, medical
+  condition, genetic information, marital or family status,
+  military or veteran status, or any other characteristic
+  protected by applicable laws in the locations where we
+  operate.
+
+  We welcome people from all backgrounds and provide
+  reasonable accommodations throughout the hiring process.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Automation
+posted_date: 2026-09-11
+url: "https://builtin.com/job/lead-data-analyst/11138378"
+source: Built In

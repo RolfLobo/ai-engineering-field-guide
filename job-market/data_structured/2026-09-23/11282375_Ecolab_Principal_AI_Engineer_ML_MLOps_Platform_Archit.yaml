@@ -1,0 +1,58 @@
+company:
+  name: Ecolab
+  stage: null
+  focus: Water, hygiene and infection prevention solutions
+position:
+  title: Principal AI Engineer — ML / MLOps Platform Architect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM/agentic architectures, model routing,
+      prompt engineering, fine-tuning, and evals, directly shaping
+      model behavior and output quality. With LLM and agent
+      components central, it's ai-first.
+  responsibilities:
+  - Own enterprise strategy for foundation, frontier, and custom models across OpenAI,
+    Anthropic, Google, Azure AI Foundry, and Databricks Mosaic AI
+  - Architect end-to-end ModelOps pipelines covering training, fine-tuning, evaluation,
+    deployment, monitoring, and drift detection
+  - Design enterprise Agentic AI architectures including multi-agent orchestration,
+    tool integration, and memory management
+  - Build AI Gateway and LLM routing frameworks for secure, cost-efficient model access
+  - Define token optimization and AI FinOps strategies including prompt engineering,
+    caching, and model tiering
+  - Build AI platform capabilities on Databricks, Azure AI Foundry, and Azure including
+    RAG, vector search, and model serving
+  - Design secure cloud-native infrastructure with IaC and GPU-enabled training/inference
+    environments
+  - Serve as principal technical authority, mentoring engineers and leading architecture
+    reviews
+  use_cases:
+  - Enterprise LLM platform operationalization and model lifecycle management
+  - Agentic AI frameworks with multi-agent orchestration for enterprise automation
+  - AI gateway and intelligent model routing across cost, latency, and performance
+    needs
+  - Token and cost optimization (AI FinOps) for AI consumption
+  - RAG and semantic retrieval solutions for enterprise knowledge access
+  - Governed, secure AI platform services powering enterprise copilots and applications
+  skills:
+    genai: [LLMs, Generative AI, Agentic Workflows, Prompt Engineering, RAG, Multi-Agent
+        Systems, OpenAI API, Anthropic API, Semantic Search]
+    ml: [Fine-Tuning, Machine Learning, Model Evaluation, Model Training]
+    web: []
+    databases: [Vector Search]
+    data: [Databricks]
+    cloud: [Azure AI Foundry, Databricks Mosaic AI, Azure]
+    ops: [MLOps, Model Deployment, Model Monitoring, Infrastructure as Code, Observability,
+      Distributed Systems]
+    languages: []
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11282375'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:35:16.153157'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

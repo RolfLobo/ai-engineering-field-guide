@@ -1,0 +1,101 @@
+job_id: 11272948
+title: Lead AI Engineer
+company: Staples India
+location: Chennai, IND
+work_type: FULL_TIME
+company_size: 12,060 Employees
+description: |
+  We’re looking for a Lead AI Engineer to help design, build,
+  and scale our next generation promotion optimization and
+  forecasting platform. This role sits at the intersection of
+  machine learning, data science, and applied statistics,
+  focusing on personalized promotions, price elasticity
+  modeling, and demand forecasting across thousands of SKUs.
+
+  You’ll work closely with data engineers, product managers,
+  and marketing analytics to design AI driven decision systems
+  that maximize business impact while ensuring technical
+  excellence and scalability.
+
+  Duties & Responsibilities
+
+  Forecasting & Modeling
+
+  - Develop and deploy time-series forecasting models (e.g.,
+    Prophet, ARIMA, DeepAR, LSTM, Temporal Fusion Transformer)
+    to predict demand, revenue, and promotion lift.
+  - Apply advanced statistical and causal-inference methods to
+    understand promotion effects and seasonality.
+  - Build dynamic pricing and promotion recommendation models
+    leveraging reinforcement learning or multi armed bandits.
+
+  AI System Design
+
+  - Architect ML pipelines for promotion targeting and ROI
+    optimization
+  - Design end to end data workflows from data ingestion to
+    model deployment integrated with production APIs and
+    dashboards.
+  - Contribute to scalable model monitoring, retraining, and
+    drift detection.
+
+  Data Engineering & APIs
+
+  - Work with SQL databases, data warehouses (Azure SQL,
+    Snowflake, Databricks Delta, etc.), and APIs to retrieve,
+    transform, and operationalize data.
+  - Collaborate with cloud teams to ensure efficient and secure
+    deployment of AI services (Azure or GCP).
+  - The ideal candidate should have a background that
+    demonstrates strong technical and solution experience
+    designing and building systems that consider careful
+    technology selection, security, interfaces, performance,
+    stability, security, and economy of operation. Experience
+    within the retail domain is highly desired.
+
+  Requirements
+
+  Basic Qualifications
+
+  - Master’s degree in computer science, Data Science,
+    Statistics, or a related field.
+  - 6+ years of experience in designing, developing, and
+    deploying AI/ML solutions.
+  - Proficiency in Python and its AI/ML libraries (e.g.,
+    TensorFlow, PyTorch, Scikit-learn).
+  - Strong expertise in forecasting and time series analysis
+    techniques.
+  - Solid understanding of machine learning algorithms and
+    statistical modeling.
+  - Experience with data preprocessing, feature engineering, and
+    model evaluation.
+  - Familiarity with version control systems (e.g., Git) and
+    collaborative development workflows.
+  - Strong problem-solving and analytical skills.
+
+  Requirements
+
+  Basic Qualifications
+
+  - Master’s degree in computer science, Data Science,
+    Statistics, or a related field.
+  - 6+ years of experience in designing, developing, and
+    deploying AI/ML solutions.
+  - Proficiency in Python and its AI/ML libraries (e.g.,
+    TensorFlow, PyTorch, Scikit-learn).
+  - Strong expertise in forecasting and time series analysis
+    techniques.
+  - Solid understanding of machine learning algorithms and
+    statistical modeling.
+  - Experience with data preprocessing, feature engineering, and
+    model evaluation.
+  - Familiarity with version control systems (e.g., Git) and
+    collaborative development workflows.
+  - Strong problem-solving and analytical skills.
+industries:
+  - eCommerce
+  - Retail
+  - Software
+posted_date: 2026-09-21
+url: "https://builtin.com/job/lead-ai-engineer/11272948"
+source: Built In

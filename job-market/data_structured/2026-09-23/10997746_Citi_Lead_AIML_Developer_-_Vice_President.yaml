@@ -1,0 +1,51 @@
+company:
+  name: Citi
+  stage: null
+  focus: Global banking; XVA cross-asset risk technology
+position:
+  title: Lead AI/ML Developer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements agentic AI frameworks, RAG
+      with vector databases, LLM tuning, and agent evaluation
+      strategies — directly shaping LLM/agent behavior and output
+      quality. No classical-ML-only scope.
+  responsibilities:
+  - Implement and deploy scalable agentic AI frameworks and Generative AI solutions
+    for critical banking use cases
+  - Build full-stack applications integrating ML and LLM tools into comprehensive
+    AI solutions
+  - Prototype and integrate advancements in agent-based systems, autonomous AI, and
+    generative AI
+  - Collaborate with AI researchers, data scientists, product managers, and engineers
+    to scale AI solutions
+  - Write production-quality code, set technical standards, and guide design decisions
+  - Take AI capabilities from proof-of-concept to secure production deployment on
+    cloud-native containerized services
+  - Design metrics and evaluation strategies for AI system and agent performance
+  use_cases:
+  - Agentic AI and GenAI solutions for critical banking use cases
+  - XVA/cross-asset risk platform automation with minimal manual QA intervention
+  - LLM applications with retrieval-augmented generation for enterprise banking
+  - Automated evaluation and optimization of AI agent performance
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, RAG, Vector Databases, Agentic Workflows,
+      Generative AI, LLMs, Fine-Tuning]
+    ml: [Machine Learning, NLP]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLflow, MLOps, LLMOps, Docker]
+    languages: [Python]
+    domains: []
+    other: [Statistics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10997746'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:11:19.103417'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

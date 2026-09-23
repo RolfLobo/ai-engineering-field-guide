@@ -1,0 +1,51 @@
+company:
+  name: Blueflame Labs
+  stage: null
+  focus: AI solutions and predictive analytics services
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role designs, trains, fine-tunes, and evaluates
+      predictive/deep learning models (CNNs, RNNs, Transformers)
+      with PyTorch, shaping model behaviour directly. No
+      LLM/agent/prompt component is named, only classical ML/DL
+      work, so it is ml-first.
+  responsibilities:
+  - Design, develop, and implement ML models and algorithms focused on predictive
+    analytics and deep learning
+  - Integrate AI/ML solutions into production systems with data scientists, engineers,
+    and product managers
+  - Preprocess and analyze large datasets using Databricks and Python to ensure data
+    quality for model training
+  - Develop front-end interfaces for AI-driven applications using ReactJS
+  - Optimize and fine-tune ML models using PyTorch for performance, scalability, and
+    accuracy
+  - Conduct experiments to evaluate model performance and iterate on improvements
+  - Document processes, models, and results for transparency and reproducibility
+  use_cases:
+  - Predictive analytics for complex business problems
+  - Deep learning models for business applications
+  - AI-driven applications with front-end interfaces
+  - Large-scale data processing for model training
+  skills:
+    genai: []
+    ml: [PyTorch, Predictive Analytics, Deep Learning, CNNs, RNNs, Transformers, Reinforcement
+        Learning, Machine Learning]
+    web: [React]
+    databases: []
+    data: [Databricks, Pandas, NumPy, Hadoop, Spark]
+    cloud: [AWS, Azure, GCP]
+    ops: [Git, CI/CD, MLOps, Kubeflow, MLflow, Docker, Kubernetes]
+    languages: [Python]
+    domains: [NLP, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11180884'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:24:31.076977'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

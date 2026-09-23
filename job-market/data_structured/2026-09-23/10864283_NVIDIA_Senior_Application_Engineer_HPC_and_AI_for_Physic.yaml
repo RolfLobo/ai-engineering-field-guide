@@ -1,0 +1,51 @@
+company:
+  name: NVIDIA
+  stage: null
+  focus: GPU-accelerated computing and AI hardware/software
+position:
+  title: Senior Application Engineer, HPC and AI for Physics
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role develops workflows, benchmarks, and example
+      applications around HPC/ML toolkits for physics simulations;
+      there is no evidence the person shapes model behavior
+      through prompts, retrieval, training, or evals. Agentic AI
+      appears only as a nice-to-have familiarity, and ML
+      frameworks are used for applications rather than trained or
+      tuned here.
+  responsibilities:
+  - Develop workflows for experimental processing/analysis and numerical simulations
+    in imaging science, plasma, high energy physics, and material science
+  - Profile applications and run benchmarks to identify bottlenecks and recommend
+    improvements to collaborators and product teams
+  - Build examples and sample applications for tutorials
+  - Translate research collaboration learnings into feedback for engineering toolkits
+    and libraries
+  - Represent NVIDIA at scientific conferences, workshops, and industry events
+  use_cases:
+  - Accelerated super-resolution imaging for physics experiments
+  - High energy density and plasma physics simulations
+  - Material science at extreme conditions
+  - Experimental data processing and analysis workflows for scientific discovery
+  skills:
+    genai: [Agentic Workflows]
+    ml: [Machine Learning, CUDA, PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Benchmarking, Profiling]
+    languages: [Python]
+    domains: []
+    other: [HPC, Parallel Programming, Numerical Simulations, Particle-in-Cell, GPU
+        Computing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10864283'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:29.113293'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

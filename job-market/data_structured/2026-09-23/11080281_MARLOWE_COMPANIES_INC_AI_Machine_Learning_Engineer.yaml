@@ -1,0 +1,50 @@
+company:
+  name: MARLOWE COMPANIES INC.
+  stage: null
+  focus: Customer experience, BPO, and technology services
+position:
+  title: AI / Machine Learning Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds, trains, evaluates, and deploys classical ML
+      models (supervised, unsupervised, deep learning, predictive
+      analytics) — shaping model output. Generative AI/LLMs appear
+      only as a nice-to-have exposure, with no LLM-shaping
+      responsibilities, so this is ml-first.
+  responsibilities:
+  - Design, develop, and deploy machine learning models supporting business objectives
+  - Build and train supervised, unsupervised, and deep learning models
+  - Perform feature engineering, data preparation, and predictive analytics
+  - Deploy models to production and maintain model serving infrastructure
+  - Monitor model performance and manage retraining and lifecycle processes
+  - Develop data pipelines and optimize data collection, transformation, and storage
+  - Ensure quality, security, and compliance across AI solutions
+  - Research emerging AI/ML frameworks and recommend architecture enhancements
+  use_cases:
+  - Predictive analytics for operational efficiency
+  - Intelligent automation of business processes
+  - Customer experience and contact center optimization
+  - Transforming large datasets into actionable insights for strategic decision-making
+  skills:
+    databases: []
+    domains: [NLP, Computer Vision]
+    data: [Data Pipelines]
+    web: []
+    ml: [Machine Learning, Model Training, Model Evaluation, Feature Engineering,
+      Deep Learning, TensorFlow, PyTorch, scikit-learn, XGBoost, Predictive Analytics,
+      Statistical Modeling]
+    ops: [MLOps, CI/CD, Model Deployment, Docker, Kubernetes]
+    other: []
+    cloud: [Cloud Computing]
+    languages: [Python]
+    genai: [Generative AI, LLMs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11080281'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:17:27.331420'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

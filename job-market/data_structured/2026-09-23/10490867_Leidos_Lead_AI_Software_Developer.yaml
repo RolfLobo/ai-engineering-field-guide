@@ -1,0 +1,52 @@
+company:
+  name: Leidos
+  stage: null
+  focus: Defense and government IT and engineering services
+position:
+  title: Lead AI Software Developer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a software developer building microservices for
+      air traffic systems. AI appears only as AI-assisted
+      development tools (Claude Code) used to accelerate coding
+      and testing, which is explicitly ai-support; the person does
+      not shape any model's behavior.
+  responsibilities:
+  - Design, develop, and maintain microservices-based applications following modern
+    engineering best practices
+  - Collaborate with product owners, architects, and engineers in an Agile/SAFe environment
+  - Translate requirements from systems engineering into working software solutions
+  - Develop clean, maintainable, testable code following CI/CD and DevSecOps practices
+  - Integrate services with databases, messaging systems, and external APIs
+  - Implement automated testing strategies including unit, integration, contract,
+    and end-to-end tests
+  - Use AI-assisted development tools to accelerate coding, refactoring, debugging,
+    and test creation
+  - Support troubleshooting, performance tuning, and continuous improvement with QA
+    and DevOps teams
+  use_cases:
+  - National air traffic operations automation
+  - Safety-critical, mission-critical air traffic control software
+  - Hybrid cloud data mesh platform for the Leidos Common Baseline
+  - Modernization of real-time regulated government systems
+  skills:
+    genai: [Claude Code]
+    ml: []
+    web: [Microservices, APIs]
+    databases: [Relational Databases, NoSQL]
+    data: [Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, DevSecOps, Linux, Git, Docker, Kubernetes]
+    languages: [Java, Python, C++]
+    domains: []
+    other: [Agile, SAFe, Test Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10490867'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T10:59:59.317075'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

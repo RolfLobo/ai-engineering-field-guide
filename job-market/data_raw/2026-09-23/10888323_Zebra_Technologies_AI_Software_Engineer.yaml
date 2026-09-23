@@ -1,0 +1,125 @@
+job_id: 10888323
+title: AI Software Engineer
+company: Zebra Technologies
+location: London, GBR
+work_type: FULL_TIME
+company_size: 8,760 Employees
+description: |
+  Overview:
+
+  At Zebra, we are a community of innovators who come together
+  to create new ways of working. United by curiosity and a
+  culture of caring, we develop smart solutions that
+  anticipate our customer’s and partner’s needs and solve
+  their challenges.
+
+  Being part of Zebra Nation means you are seen, heard,
+  valued, and respected. Drawing from our unique perspectives,
+  we collaborate to deliver on our purpose. Here you are part
+  of a team pushing boundaries today to redefine the work of
+  tomorrow for organizations, their employees, and those they
+  serve.
+
+  You’ll have opportunities to learn and lead in a forward-
+  thinking environment, defining your path to a fulfilling
+  career while channeling your skills toward causes you care
+  about—locally and globally.
+
+  Come make an impact every day at Zebra.
+
+  What We're Looking For:
+
+  We are seeking a skilled and motivated Computer Vision
+  Engineer to join our team. In this role, you will bridge the
+  gap between high-level machine learning research and high-
+  performance production environments. You will be responsible
+  for building robust SDKs, automating deployment pipelines,
+  and ensuring our models run efficiently across a diverse
+  hardware landscape, from edge SoCs to powerful cloud GPUs.
+
+  Responsibilities:
+
+  - SDK Development (C++) Design, develop, and maintain high-
+    performance software development kits (SDKs) to expose
+    computer vision capabilities to end-users and internal
+    products.
+
+  - Model Deployment and Integration Port, convert, and deploy
+    machine learning models across various hardware targets,
+    including Qualcomm SoCs, Intel CPUs, and NVIDIA GPUs.
+
+  - Performance OptimizationUse hardware-specific toolkits to
+    optimize model throughput without sacrificing accuracy.
+
+  - Evaluation & BenchmarkingConduct rigorous testing and
+    evaluation of models on target hardware to ensure
+    performance metrics meet expectations.
+  - AutomationBuild and maintain automation scripts and CI/CD
+    pipelines using Python to streamline the model testing and
+    deployment life cycle.
+
+  Education:
+
+  - Bachelor's or master's degree in Computer Science,
+    Electrotonic Engineering, or related technical field.
+
+  Qualifications:
+
+  - Deep understanding of C++14/17/20, including STL, memory
+    management, and multi-threading.
+
+  - Strong ability to write clean, maintainable Python for
+    automation, and data processing.
+
+  - Hands-on experience with at least one of the following
+    frameworks: SNPE/QNN (Qualcomm) , OpenVino (Intel),
+    TensorRT (Nvidia), TensorFlow Lite
+  - Familiarity with Docker for creating consistent development
+    and deployment environments.
+
+  Bonus:
+
+  - Understanding Deep Learning fundamentals (CNNs,
+    Transformers, Object Detection).
+
+  - Experience with model conversion and quantization (i.e. PTQ,
+    QAT).
+
+  Incentive Compensation:
+
+  In addition to base pay, Zebra offers this role the
+  opportunity to earn a performance-based annual cash
+  incentive, at a target equal to 12% of base pay, in
+  accordance with the terms of the applicable incentive plan.
+
+  Job Posting Statement:
+
+  To protect candidates from falling victim to online
+  fraudulent activity involving fake job postings and
+  employment offers, please be aware our recruiters will
+  always connect with you via @zebra.com email accounts.
+  Applications are only accepted through our applicant
+  tracking system and only accept personal identifying
+  information through that system. Our Talent Acquisition team
+  will not ask for you to provide personal identifying
+  information via e-mail or outside of the system. If you are
+  a victim of identity theft contact your local police
+  department.
+
+  AI Technology Statement:
+
+  Zebra Technologies leverages AI technology to evaluate job
+  applications using objective, job-relevant criteria. This
+  approach enhances efficiency and promotes fairness in the
+  hiring process. However, every decision regarding interviews
+  and hiring is made by our dedicated team, because we believe
+  people make the best decisions about people. For more on how
+  we use technology in hiring and how we process applicant
+  data, see our Zebra Privacy Policy.
+industries:
+  - Information Technology
+  - Logistics
+  - Software
+posted_date: 2026-08-27
+url: "https://builtin.com/job/ai-software-engineer/10888323"
+source: Built In

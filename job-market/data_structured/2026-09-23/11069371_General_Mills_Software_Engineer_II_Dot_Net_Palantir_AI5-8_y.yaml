@@ -1,0 +1,47 @@
+company:
+  name: General Mills
+  stage: null
+  focus: Packaged food and consumer goods company
+position:
+  title: Software Engineer II (Dot Net+ Palantir/ AI)(5-8 years experience Required)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a general .NET software engineer building
+      business applications on the Palantir platform; no
+      responsibilities involve shaping model behavior, prompts,
+      retrieval, or evals. AI appears only in the title as a
+      passing label, so it is ai-support.
+  responsibilities:
+  - Collaborate with engineers, architects, product partners, and business stakeholders
+    to design and deliver business-value-driven software solutions
+  - Translate application storyboards and use cases into functional, scalable applications
+    using the .NET stack and modern web frameworks
+  - Write unit and integration tests and contribute to delivery automation
+  - Optimize application performance, quality, responsiveness, and reliability across
+    the software lifecycle
+  - Troubleshoot, debug, and resolve production and application issues
+  - Contribute to technical design reviews, code reviews, work planning, estimation,
+    and implementation
+  - Support adoption of modern engineering practices and emerging technologies
+  - Mentor less experienced team members through coaching and technical guidance
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: [ASP.NET, ASP.NET Core, REST APIs, React, Angular, Vue, JavaScript]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [GCP, Azure]
+    ops: [CI/CD, Docker, Jenkins]
+    languages: [C#, .NET, Python]
+    domains: []
+    other: [Palantir, Agile, Low-Code Platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11069371'
+  location: Powai, IND
+  extracted_at: '2026-09-23T11:16:09.131471'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

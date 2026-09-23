@@ -1,0 +1,138 @@
+job_id: 11204604
+title: Senior AI/ ML Engineer
+company: Sandisk Corporation
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 11,000 Employees
+description: |
+  Company Description
+
+  Sandisk understands how people and businesses consume data
+  and we relentlessly innovate to deliver solutions that
+  enable today’s needs and tomorrow’s next big ideas. With a
+  rich history of groundbreaking innovations in Flash and
+  advanced memory technologies, our solutions have become the
+  beating heart of the digital world we’re living in and that
+  we have the power to shape.
+
+  Sandisk meets people and businesses at the intersection of
+  their aspirations and the moment, enabling them to keep
+  moving and pushing possibility forward. We do this through
+  the balance of our powerhouse manufacturing capabilities and
+  our industry-leading portfolio of products that are
+  recognized globally for innovation, performance and quality.
+
+  Sandisk has two facilities recognized by the World Economic
+  Forum as part of the Global Lighthouse Network for advanced
+  4IR innovations. These facilities were also recognized as
+  Sustainability Lighthouses for breakthroughs in efficient
+  operations. With our global reach, we ensure the global
+  supply chain has access to the Flash memory it needs to keep
+  our world moving forward.
+
+  Job Description
+
+  We are seeking a Senior AI/ML Engineer in Data and AI team
+  to drive the design, development, and operationalization of
+  machine learning and GenAI solutions across Sandisk's
+  enterprise. In this role, you will own end-to-end AI/ML
+  projects, from problem framing and data strategy through
+  model deployment and monitoring. You will partner directly
+  with business stakeholders to translate complex requirements
+  into scalable, production-grade solutions and mentor junior
+  engineers on the team.
+
+  Key Responsibilities
+
+  - Lead the end-to-end design, development, and deployment of
+    machine learning models and GenAI solutions for
+    manufacturing intelligence, yield optimization, supply
+    chain analytics, and enterprise data platforms.
+  - Architect and implement data pipelines, feature stores, and
+    model serving infrastructure on Lakehouse and cloud-native
+    architectures (Databricks, Azure).
+  - Develop prompt engineering strategies and feedback loops for
+    LLM optimization; capture and normalize LLM interactions
+    into reusable Knowledge Artifacts.
+  - Implement Retrieval-Augmented Generation (RAG) pipelines,
+    including document parsing, chunking, vectorization, and
+    semantic search using embeddings and vector databases.
+    Support domain-specific ontologies, taxonomies governance
+    and versioning.
+  - Design agentic workflows using industry-standard frameworks
+    for autonomous task orchestration and multi-step
+    reasoning, with safe and controlled execution via
+    constraints, policies, and fallback paths.
+  - Collaborate with cross-functional teams to define KPIs,
+    success metrics, and business impact measurements for
+    AI/ML initiatives.
+  - Mentor intermediate and junior engineers; conduct code
+    reviews and establish best practices for ML engineering.
+  - Present technical findings and strategic recommendations to
+    senior leadership, distilling complex results into
+    actionable business insights.
+
+  Qualifications
+
+  Required Qualifications
+
+  - Master's degree in Computer Science, Data Science,
+    Statistics, Mathematics, or a related quantitative field.
+  - 5+ years of professional experience in AI/ML engineering,
+    data science, or a related role, with demonstrated
+    ownership of production ML systems.
+  - Deep expertise in machine learning algorithms, deep learning
+    frameworks (PyTorch, TensorFlow), and statistical
+    modeling.
+  - Strong proficiency in Python; experience with distributed
+    computing frameworks (Apache Spark) and SQL.
+  - Hands-on experience with MLOps practices: model versioning
+    (MLflow), CI/CD for ML, automated retraining, monitoring,
+    and drift detection.
+  - Experience with cloud platforms (Azure preferred) and
+    Lakehouse architectures (Databricks).
+  - Proven ability to translate business requirements into
+    technical solutions and communicate results to non-
+    technical stakeholders and senior leadership.
+
+  Preferred Qualifications
+
+  - Experience with Large Language Models (LLMs), prompt
+    engineering, and GenAI application development.
+  - Familiarity with vector databases, embedding models, and
+    semantic search architectures.
+  - Experience building agentic AI workflows and multi-LLM
+    orchestration systems.
+  - Domain experience in semiconductor manufacturing, NAND
+    Flash, or related hardware/electronics industries.
+  - Certifications in Cloud Architecture (Azure, AWS, or GCP).
+
+  Additional Information
+
+  Sandisk thrives on the power and potential of diversity. As
+  a global company, we believe the most effective way to
+  embrace the diversity of our customers and communities is to
+  mirror it from within. We believe the fusion of various
+  perspectives results in the best outcomes for our employees,
+  our company, our customers, and the world around us. We are
+  committed to an inclusive environment where every individual
+  can thrive through a sense of belonging, respect and
+  contribution.
+
+  Sandisk is committed to offering opportunities to applicants
+  with disabilities and ensuring all candidates can
+  successfully navigate our careers website and our hiring
+  process. Please contact us at
+  jobs.accommodations@sandisk.com to advise us of your
+  accommodation request. In your email, please include a
+  description of the specific accommodation you are requesting
+  as well as the job title and requisition number of the
+  position for which you are applying.
+industries:
+  - Hardware
+  - Information Technology
+  - Semiconductor
+  - Manufacturing
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-ai-ml-engineer/11204604"
+source: Built In

@@ -1,0 +1,50 @@
+company:
+  name: Turing
+  stage: null
+  focus: AI data and agentic AI systems for labs and enterprises
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves architecting and building production LLM
+      and agent systems including multi-agent orchestration, tool
+      use, context engineering, RAG, and guardrails — direct
+      model-behaviour shaping with LLM components. Forward
+      Deployed Engineers adapting/deploying AI solutions at
+      customer sites are ai-first per edge cases.
+  responsibilities:
+  - Work directly with customers to uncover high-value opportunities and translate
+    business needs into technical direction
+  - Architect and build production AI systems with multi-agent workflows, orchestration,
+    tool use, context engineering, memory and state, and RAG
+  - Build APIs, data pipelines, integrations, and distributed systems to make AI solutions
+    reliable at scale
+  - Own solutions end to end from discovery through deployment and measurable impact
+  - Own evaluation, observability, security, reliability, latency, scalability, and
+    cost of deployed systems
+  - Communicate and collaborate with senior client leaders and executives on-site
+  use_cases:
+  - End-to-end agentic AI systems in enterprise mission-critical workflows
+  - Enterprise knowledge work automation
+  - Generative AI solutions with measurable ROI in large institutions
+  - Multi-agent orchestration and retrieval-augmented generation for business problems
+  skills:
+    genai: [Agentic Workflows, LLMs, Function Calling, Context Engineering, RAG, Guardrails]
+    ml: [Reinforcement Learning]
+    web: [APIs]
+    databases: [Databases]
+    data: [Data Pipelines]
+    cloud: [Cloud Infrastructure]
+    ops: [Distributed Systems, Observability]
+    languages: [Python]
+    domains: []
+    other: [System Design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11244076'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:31:48.684117'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

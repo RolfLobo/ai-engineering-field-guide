@@ -1,0 +1,143 @@
+job_id: 11224615
+title: Financial Data Engineer, AI/LLM
+company: Binance
+location: TJK
+locations:
+  - TJK
+  - MYS
+  - MDV
+  - JPN
+  - LAO
+  - IND
+  - TUR
+  - TWN
+  - KHM
+  - PAK
+  - PHL
+  - MNG
+  - THA
+  - HKG
+  - BGD
+  - KOR
+  - USA
+  - Singapore, SGP
+  - Taipei City, TWN
+remote: true
+work_type: FULL_TIME
+company_size: 7,696 Employees
+description: |
+  About Binance Binance is the global leading blockchain
+  ecosystem, operating the world's largest digital asset
+  trading platform by volume, serving over 300 million users
+  across 100+ countries and regions. We are committed to
+  building a more open financial ecosystem and improving
+  global access to financial services.
+
+  Binance is continuously building stock and related financial
+  market products for global users. The relevant data will
+  serve user-facing stock products and Binance AI business
+  scenarios. We are seeking professionals with stock market
+  experience to jointly build reliable, scalable data and
+  financial AI capabilities.
+
+  Role Overview You will participate in building the core data
+  foundation for Binance's stock and related financial market
+  businesses, responsible for the full pipeline from data
+  source discovery, evaluation, ingestion, and integration to
+  unified modeling, real-time processing, quality governance,
+  and data services. Beyond completing defined integrations,
+  we expect you to leverage industry expertise to continuously
+  identify better data sources and technical solutions,
+  enabling new markets, products, and data to serve trading
+  products and AI quickly and reliably.
+
+  Responsibilities
+
+  - Conduct research, technical evaluation, ingestion,
+    integration, cleansing, standardization, computation,
+    storage, and servicing of financial market data, covering
+    securities master data, real-time and historical market
+    data, fundamentals, corporate actions, indices, and
+    business-required product and risk data; responsible for
+    source ingestion, raw retention, and stable delivery to
+    knowledge engineering pipelines for content-type data such
+    as announcements, news, and research reports.
+  - Design scalable unified data models and integration
+    frameworks, handling different markets' trading calendars,
+    time zones, currencies, security identifiers, listing
+    relationships, lifecycles, and data corrections,
+    supporting rapid onboarding of new markets and sources.
+  - Build batch-stream unified data pipelines centered on Flink,
+    continuously optimizing latency, throughput, query
+    performance, stability, and cost, while supporting
+    consumer trading products, research analysis, and AI
+    scenarios.
+  - Establish data quality and service level frameworks, taking
+    responsibility for completeness, accuracy, timeliness,
+    consistency, and traceability; build automated
+    reconciliation, anomaly detection, monitoring and
+    alerting, raw data replay, backfill, and fault recovery
+    capabilities.
+  - Evaluate different sources (vendors, exchanges, APIs, file
+    feeds, compliance collection) for coverage, quality,
+    stability, revision mechanisms, and technical fit;
+    collaborate with product, procurement, legal, and
+    compliance teams to clarify usage, display, derivative,
+    retention, and redistribution boundaries; drive rational
+    primary/backup source strategies and alternatives.
+  - Define data semantics, metric definitions, and service
+    contracts jointly with trading product, data platform, AI
+    engineering, and algorithm teams, ensuring consistent and
+    reliable usage of the same stock facts across different
+    products.
+  - Drive data engineering efficiency and technical quality
+    improvements, including metadata, data lineage, automated
+    testing, CI/CD, task orchestration, capacity governance,
+    and AI-assisted development.
+
+  Requirements
+
+  Working at Binance
+
+  • Be a part of the world’s leading blockchain ecosystem that
+  continues to grow and offers excellent career development
+  opportunities
+
+  • Work alongside diverse, world-class talent in an
+  environment where learning and growth opportunities are
+  endless
+
+  • Tackle fast-paced, challenging and unique projects
+
+  • Work in a truly global organization, with international
+  teams and a flat organizational structure
+
+  • Competitive salary and benefits
+
+  • Flexible working hours, remote-first, and casual work
+  attire
+
+
+
+  Learn more about how Binancians embody the organization’s
+  core values, creating a unified culture that enables
+  collaboration, excellence, and growth.
+
+
+
+  Apply today to be a part of the Web3 revolution!
+
+
+
+  Binance is committed to being an equal opportunity employer.
+  We believe that having a diverse workforce is fundamental to
+  our success.
+industries:
+  - Blockchain
+  - Fintech
+  - Software
+  - Cryptocurrency
+  - Metaverse
+posted_date: 2026-09-17
+url: "https://builtin.com/job/financial-data-engineer-ai-llm/11224615"
+source: Built In

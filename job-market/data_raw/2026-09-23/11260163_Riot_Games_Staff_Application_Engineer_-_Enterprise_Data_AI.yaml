@@ -1,0 +1,186 @@
+job_id: 11260163
+title: "Staff Application Engineer - Enterprise Data & AI (Intelligence Platform)"
+company: Riot Games
+location: Los Angeles, USA
+work_type: FULL_TIME
+description: |
+  Riot’s Enterprise Technology organization ensures Rioters
+  have what they need to unlock their full potential, from
+  efficient business platforms to next-generation AI
+  capabilities.
+
+  As a Staff Data and AI Engineer on the Enterprise Data & AI
+  team, you will build the governed data foundations that
+  power enterprise analytics, automation, and applied AI. Your
+  primary focus will be data architecture and data
+  engineering, where you will be responsible for designing and
+  operating production data pipelines in Databricks,
+  integrating & curating data through a medallion
+  architecture, and defining semantic and domain models in
+  Unity Catalog with subject-matter experts.
+
+  You will also build agents and retrieval-augmented
+  applications directly on this governed data using Databricks
+  capabilities such as Unity Catalog functions, Mosaic AI, and
+  model serving. You will own your systems from architecture
+  through production operations, applying strong engineering,
+  data quality, security, evaluation, and observability
+  practices throughout
+
+  The ideal candidate is a hands-on data and software engineer
+  who can turn ambiguous enterprise needs into reliable data
+  products and focused AI-enabled solutions.
+
+  The role will report to the Senior Manager, Enterprise Data
+  and AI.
+
+  Responsibilities:Data Pipelines and Semantic Layer (Primary)
+
+  - Build and operate pipelines that ingest source-system data
+    into Databricks using a medallion architecture across
+    bronze, silver, and gold layers, with lineage, provenance,
+    access controls, and logging.
+  - Partner with subject-matter experts to define and evolve
+    domain, ontology, and semantic models in Unity Catalog,
+    then curate reliable data products into those models.
+  - Own data quality for the pipelines and products you build,
+    implementing tests, monitoring, and alerting so issues
+    surface before they reach downstream consumers.
+  - Integrate enterprise systems through APIs, events, and
+    middleware while applying appropriate authentication,
+    retries, reconciliation, and auditability.
+
+  Agents on the Databricks Data Layer (Secondary)
+
+  - Build production agents and retrieval-augmented applications
+    grounded in governed Databricks data, using Unity Catalog
+    functions as tools and Mosaic AI or model-serving
+    capabilities.
+  - Add authorization, approvals, and auditability for
+    consequential actions performed through agents or AI-
+    enabled orchestrations.
+  - Create evaluation sets and observability for the agents you
+    ship, including groundedness, latency, cost, and
+    production feedback, and use the results to improve them.
+
+  Engineering Fundamentals
+
+  - Apply solid engineering practices, including automated
+    testing, code review, CI/CD, documentation, on-call
+    support, and concise design notes.
+  - Own architecture decisions for your systems and communicate
+    material tradeoffs clearly to technical and business
+    partners.
+
+  Required Qualifications:
+
+  - Bachelor’s degree in a related field, or equivalent
+    practical experience.
+  - 8+ years of experience in data engineering, software or
+    application engineering, or an adjacent enterprise
+    technology role.
+  - Hands-on experience building production data pipelines,
+    including ingestion, semantic or domain modeling, data
+    quality, and lineage.
+  - Hands-on Databricks experience, including Unity Catalog,
+    medallion architecture, and Mosaic AI or model serving.
+  - Hands-on experience shipping production AI solutions, such
+    as retrieval-augmented, conversational, or agentic
+    applications, grounded in data pipelines you built.
+  - Proficiency in Python and strong software engineering
+    fundamentals, including testing, code review, CI/CD,
+    deployment, and production support.
+  - Experience integrating enterprise systems through APIs,
+    events, or middleware, including authentication, retries,
+    reconciliation, and auditability.
+  - Experience with an LLM or cloud AI platform such as Vertex
+    AI, Anthropic, or OpenAI and an automation platform such
+    as Workato, n8n, Camunda, or similar.
+  - Working knowledge of data governance, privacy, and security
+    practices applied to production data pipelines and
+    products.
+
+  Desired Qualifications:
+
+  - Experience with the Mosaic AI Agent Framework or Unity
+    Catalog functions used as agent tools.
+  - Experience with enterprise or federated search, vector
+    databases, or permission-aware retrieval.
+  - Experience with agent frameworks such as LangGraph, Pydantic
+    AI, LangChain, or CrewAI.
+  - Experience with LLM or agent evaluation and observability,
+    such as MLflow tracing.
+  - Experience with dimensional modeling or master data
+    management.
+  - Experience integrating Workday, ServiceNow, Coupa, Concur,
+    Oracle, OneStream, or Ironclad.
+  - Experience with GCP or AWS data services, dbt, containers,
+    or serverless computing.
+
+  For this role, you’ll find success through craft expertise,
+  a collaborative spirit, and decision-making that prioritizes
+  your fellow Rioters, who are the customers of your work.
+  Being a dedicated fan of games is not necessary for this
+  position.
+
+  Our Perks:
+
+  Riot focuses on work/life balance, shown by our open paid
+  time off policy and other perks such as flexible work
+  schedules. We offer medical, dental, and life insurance,
+  parental leave for you, your spouse/domestic partner, and
+  children, and a 401k with company match. Check out our
+  benefits pages for more information.
+
+  At Riot Games, we put players first. That mission drives
+  every decision in our quest to create games and experiences
+  that make it better to be a player. Whether you’re working
+  directly on a new player-facing experience or you’re
+  supporting the company as a whole, everyone at Riot is part
+  of our mission. And just like in our games, we’re better
+  when we work together. Our goal is to create collaborative
+  teams where you are empowered to bring your unique
+  perspective everyday. If that sounds like the kind of place
+  you want to work, we’re looking forward to your application.
+
+  It’s our policy to provide equal employment opportunity for
+  all applicants and members of Riot Games, Inc. Riot Games
+  makes reasonable accommodations for handicapped and disabled
+  Rioters and does not unlawfully discriminate on the basis of
+  race, color, religion, sex, sexual orientation, gender
+  identity or expression, national origin, age, handicap,
+  veteran status, marital status, criminal history, or any
+  other category protected by applicable federal and state
+  law. We consider for employment all qualified applicants,
+  including those with criminal histories, in a manner
+  consistent with applicable federal, state and local law,
+  including the California Fair Chance Act, the City of Los
+  Angeles Fair Chance Initiative for Hiring Ordinance, the Los
+  Angeles County Fair Chance Ordinance for Employers, the San
+  Francisco Fair Chance Ordinance, and the Washington Fair
+  Chance Act.
+
+  Per the Los Angeles County Fair Chance Ordinance, the
+  following core duties may create a basis for disqualifying
+  candidates with relevant criminal histories:
+
+  - Safeguarding confidential and sensitive Company data
+  - Communication with others, including Rioters and third
+    parties such as vendors, and/or players, including minors
+  - Accessing Company assets, secure digital systems, and
+    networks
+  - Ensuring a safe interactive environment for players and
+    other Rioters
+
+  These duties are directly related to essential operations,
+  safety, trust, and compliance obligations within our
+  organization. Please note that job duties may evolve based
+  on business needs and additional responsibilities may be
+  assigned as necessary to maintain operational efficiency and
+  security.
+industries:
+  - eCommerce
+  - Gaming
+posted_date: 2026-09-18
+url: "https://www.builtinla.com/job/staff-application-engineer-enterprise-data-ai-intelligence-platform/11260163"
+source: Built In

@@ -1,0 +1,187 @@
+job_id: 11181186
+title: CL-1491 - AI-First Full Stack Developer (AI SaaS Platform)
+company: Softobiz
+location: Mohali, IND
+locations:
+  - Mohali, IND
+  - Kochi, IND
+  - Hyderabad, IND
+work_type: FULL_TIME
+company_size: 311 Employees
+description: |
+  Job Description:
+
+  We are seeking an experienced AI-First Full Stack Developer
+  to support the ongoing development, maintenance, and
+  enhancement of an AI-powered SaaS platform focused on
+  content creation and audience engagement. You will work
+  across intelligent content generation agents, customer
+  profiling systems, training resources, and automation
+  pipelines that power the platform end to end.
+
+  This role exists because the platform has moved beyond
+  initial build and now needs an engineer who can reliably
+  maintain, troubleshoot, and scale a production-ready AI
+  application while continuing to enhance its AI-driven
+  workflows. You will be comfortable working in an AI-assisted
+  development environment, extending AI-generated codebases,
+  and collaborating directly with founders to turn business
+  ideas into shipped product enhancements.
+
+  Your impact will be measured by platform stability, the
+  speed and quality of bug resolution, and your ability to
+  independently ship improvements across the frontend,
+  backend, database, and automation layers.
+
+  Key Responsibilities
+
+  Platform Enhancement & Maintenance
+
+  • Investigate and resolve production issues and customer-
+  reported bugs.
+
+  • Maintain existing AI-driven application workflows.
+
+  • Optimize system performance, reliability, and scalability.
+
+  • Improve code maintainability and technical documentation.
+
+  AI Workflow Development
+
+  • Enhance AI-powered content generation modules.
+
+  • Support chatbot and AI assistant functionality.
+
+  • Maintain AI memory, context retention, and user
+  personalization workflows.
+
+  • Integrate and optimize LLM-powered features.
+
+  • Support AI prompt orchestration and workflow
+  configuration.
+
+  Automation & Integrations
+
+  • Build and maintain automation workflows using n8n.
+
+  • Develop and maintain API integrations between platform
+  components.
+
+  • Troubleshoot third-party service integrations.
+
+  • Manage background workflows, triggers, and data
+  synchronization.
+
+  Platform Operations
+
+  • Manage development, staging, and production environments.
+
+  • Support deployment and release processes.
+
+  • Ensure platform stability and uptime.
+
+  • Monitor and troubleshoot backend services and
+  infrastructure.
+
+  Documentation & AI-Assisted Development
+
+  • Work within a documentation-driven development
+  methodology.
+
+  • Maintain detailed product and technical documentation.
+
+  • Utilize Claude Code and AI-assisted engineering tools
+  effectively.
+
+  • Follow specification-driven development practices.
+
+  Required Technical Skills
+
+  DomainSkills & TechnologiesMust / PreferredBackend &
+  DatabaseSupabase (Authentication, Database Management, RLS,
+  Edge Functions, Storage); PostgreSQL (advanced queries,
+  JSONB, database optimization)MustFrontendReact.js, Next.js,
+  TypeScript, Modern JavaScript (ES6+), responsive UI
+  developmentMustAI & LLM DevelopmentClaude and AI-assisted
+  coding tools, prompt engineering, AI workflow integration,
+  AI agent development, context management & memory systems,
+  RAG, vector embeddings & semantic searchMustAutomationn8n
+  workflow development, API integrations, webhooks, event-
+  driven systems, process automationMustDevOps &
+  DeploymentGit/GitHub, CI/CD concepts, Cloudflare,
+  environment management, production deployment support,
+  monitoring & troubleshootingMustProduct & DomainExperience
+  SaaS product development, startup environment experience, AI
+  product development, multi-agent AI systems, user
+  personalization systems, content generation platforms,
+  subscription-based productsPreferredEmerging Tech / Nice-to-
+  HaveLangChain or similar frameworks; Pinecone/Weaviate or
+  other vector databases; OpenAI/Anthropic API integrations;
+  content marketing workflow knowledge; experience supporting
+  founder-led productsPreferred
+
+  Qualifications & Certifications
+
+  • Bachelor's degree in Computer Science, IT, Engineering, or
+  a related field.
+
+  • 4+ years of Full Stack development experience, including
+  hands-on experience with Supabase and modern JavaScript
+  frameworks.
+
+  • Demonstrated experience working on AI-enabled products,
+  not only traditional web applications.
+
+  Preferred Certifications:
+
+  • No certifications are mandatory for this role.
+
+  • Anthropic/OpenAI API or prompt engineering certifications
+  (preferred, not required).
+
+  • Cloud platform certifications, e.g., Cloudflare or general
+  cloud fundamentals (preferred, not required).
+
+  Soft Skills & Cultural Fit
+
+  • Comfortable maintaining and extending AI-generated
+  codebases without needing to rebuild from scratch.
+
+  • Able to independently debug complex issues across
+  frontend, backend, database, and automation layers.
+
+  • Strong written communication for technical and product
+  documentation in a documentation-driven, specification-first
+  environment.
+
+  • Can collaborate directly with founders, translating
+  business ideas into concrete product enhancements with
+  minimal hand-holding.
+
+  • Comfortable working independently in a startup environment
+  with shifting priorities and limited process overhead.
+
+  What We Offer
+
+  • The opportunity to own and shape a production AI SaaS
+  platform end to end, not just a single module.
+
+  • Direct, close collaboration with founders on product
+  direction and technical decisions.
+
+  • Hands-on exposure to modern AI tooling, including Claude
+  Code and AI-assisted engineering workflows.
+
+  • A fast-moving, low-bureaucracy environment where your
+  technical decisions have visible, immediate impact.
+
+  • Competitive compensation and room to grow into a technical
+  leadership role as the platform scales.
+
+  Internal Notes (Not Published)
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-15
+url: "https://builtin.com/job/cl-1491-ai-first-full-stack-developer-ai-saas-platform/11181186"
+source: Built In

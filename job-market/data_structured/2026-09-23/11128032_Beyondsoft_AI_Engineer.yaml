@@ -1,0 +1,52 @@
+company:
+  name: Beyondsoft
+  stage: null
+  focus: IT consulting and technology solutions services
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, RAG pipelines, prompt
+      engineering, evaluation workflows, and MCP tool integrations
+      — directly shaping LLM/agent behavior, so it is ai-first.
+  responsibilities:
+  - Build and deploy AI agents and multi-agent systems on Azure using composable patterns
+  - Build and consume MCP servers to connect agents to internal data sources, tools,
+    and enterprise workflows
+  - Design orchestration patterns, tool integrations, and RAG pipelines
+  - Develop prompt engineering and evaluation workflows including automated eval loops
+  - Build APIs for agent integration with enterprise platforms (M365 Copilot, Teams)
+  - Implement data pipelines for unstructured data such as transcripts and support
+    interactions
+  - Set up CI/CD, responsible AI controls, and production monitoring
+  - Flex into low-code agent configuration, infrastructure, and data engineering as
+    needed
+  use_cases:
+  - Enterprise AI agent and multi-agent automation on Azure
+  - Agent integration with enterprise platforms like M365 Copilot and Teams
+  - Retrieval-augmented answers over internal enterprise data
+  - Processing unstructured data such as transcripts and support interactions
+  - Automated agent evaluation and monitoring in production
+  skills:
+    genai: [AI Agents, Multi-Agent Systems, Agentic Workflows, MCP, RAG, Prompt Engineering,
+      LLM Evaluation, Structured Outputs, LLMs, Generative AI, Copilot Studio, Claude
+        Code, Cursor, GitHub Copilot]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: [Data Pipelines, PySpark]
+    cloud: [Azure, Azure AI Foundry, Microsoft Agent Framework]
+    ops: [CI/CD, Docker, Kubernetes, LLMOps]
+    languages: [Python]
+    domains: [NLP]
+    other: [Power Platform, Responsible AI, Full-Stack Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11128032'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:19:50.968380'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

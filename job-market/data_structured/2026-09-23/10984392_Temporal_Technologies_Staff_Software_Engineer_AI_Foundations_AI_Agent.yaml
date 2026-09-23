@@ -1,0 +1,53 @@
+company:
+  name: Temporal Technologies
+  stage: null
+  focus: Durable execution platform for AI applications
+position:
+  title: Staff Software Engineer, AI Foundations (AI Agent Optimization)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent optimization mechanisms—model
+      routing, multi-agent architecture, cache policy, and context
+      management—that directly shape LLM agent behavior, cost,
+      latency, and output quality. This is Step 1 shaping with an
+      LLM/agent component, so ai-first.
+  responsibilities:
+  - Lead agent optimization efforts, designing tools to optimize agents for token
+    spend and response time while maintaining quality
+  - Design and build agentic coding systems that reliably deliver high-quality outputs
+  - Develop and maintain expertise in AI application development patterns and emerging
+    architectures
+  - Take end-to-end ownership of new features, collaborating with other teams on reliability
+    and developer experience
+  - Serve as a domain expert on AI design patterns, collaborating with field staff
+    on best practices and examples
+  - Work directly with the developer community to debug issues and gather feedback
+  - Write public technical documentation of Temporal concepts and APIs
+  use_cases:
+  - Optimizing AI agents for token spend and response time
+  - Model routing for cost and quality trade-offs
+  - Multi-agent architecture, cache policy, and context management for agents
+  - Agentic coding systems producing high-quality outputs
+  - Developer tooling for building reliable agents on Temporal
+  skills:
+    genai: [Multi-Agent Systems, AI Agents, Model Routing, Context Management, Generative
+        AI]
+    ml: [Machine Learning, Model Training]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [Python, TypeScript, Java, Go]
+    domains: []
+    other: [Concurrent Programming]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10984392'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:11:26.011830'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

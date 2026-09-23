@@ -1,0 +1,52 @@
+company:
+  name: Prolific
+  stage: null
+  focus: Human data infrastructure platform for AI research
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs evaluation frameworks for LLMs and agent
+      systems, works on alignment techniques, and applies fine-
+      tuning, distillation, and quantization to shape model
+      behavior — squarely shaping LLM outputs, so ai-first.
+  responsibilities:
+  - Lead independent research projects in AI evaluation methodologies, alignment techniques,
+    and synthetic data generation
+  - Design and implement novel evaluation frameworks for LLMs and agent systems grounded
+    in human data
+  - Design and conduct rigorous experiments to study AI models and systems
+  - Develop scalable frameworks for systematic evaluation of model behaviours and
+    capabilities
+  - Build tools and infrastructure for large-scale research experiments
+  - Apply model fine-tuning, optimization, distillation, and other ML engineering
+    practices
+  - Contribute to the academic AI community through publications and open-source contributions
+  - Collaborate with ML engineers, data scientists, and product teams to translate
+    research into products
+  use_cases:
+  - LLM and agent system evaluation grounded in human judgement
+  - AI alignment research using human data
+  - Synthetic data generation for model improvement
+  - Systematic evaluation of model behaviours and capabilities at population scale
+  skills:
+    genai: [LLMs, AI Agents, LLM Evaluation]
+    ml: [Fine-Tuning, Quantization, Model Training]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Model Distillation, Synthetic Data Generation, AI Alignment, AI Safety]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10981399'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:11:05.206357'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

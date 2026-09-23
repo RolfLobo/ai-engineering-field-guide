@@ -1,0 +1,50 @@
+company:
+  name: BJAK
+  stage: null
+  focus: |-
+    Consumer fintech platform for insurance, payments, savings
+    and investing
+position:
+  title: Product Engineer - AI Stockbroking
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The description describes a product owner/PM role for an AI
+      stockbroking product, but lists no responsibilities
+      involving prompts, RAG, model training, evals, or any direct
+      work shaping model behaviour. AI is only part of the
+      product's domain, so the role is ai-support.
+  responsibilities:
+  - Own product areas across insurance, payments, savings, investing, travel or other
+    financial services
+  - Define user problems, product scope, success metrics, roadmap and launch plans
+  - Work with engineering, design, data, operations, compliance and business teams
+  - Turn complex financial products into simple, usable customer journeys
+  - Use data, feedback, research and production issues to improve product decisions
+  - Launch features, monitor performance and drive iterations
+  - Make trade-offs between speed, user experience, business impact, compliance and
+    operational complexity
+  use_cases:
+  - AI stockbroking product for consumer investing
+  - Financial services journeys across insurance, payments, savings and travel
+  - Simplifying complex financial products into usable customer journeys
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Product Management, Metrics and Experimentation, Stakeholder Management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10906763'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:06:09.899550'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

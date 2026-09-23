@@ -1,0 +1,58 @@
+company:
+  name: OpenAI
+  stage: null
+  focus: |-
+    AI research and deployment company building frontier AI
+    products
+position:
+  title: Applied AI Engineer, Codex
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward-deployed role that designs and builds AI
+      coding workflows, agent flows, integrations, and evaluation
+      systems around Codex, directly shaping LLM/agent behavior
+      and output quality for customers. Shaping LLM/agent systems
+      -> ai-first.
+  responsibilities:
+  - Partner with engineering leaders and developers to identify high-value Codex use
+    cases and translate them into architectures, plans, and evaluation strategies
+  - Design, build, and deploy AI-powered software development workflows covering planning,
+    coding, testing, review, and delivery
+  - Build prototypes, evaluation harnesses, reference implementations, integrations,
+    and workflow automations hands-on in code
+  - Design systematic evaluation approaches for AI coding systems using representative
+    tasks, automated graders, production signals, and developer feedback
+  - Make technical decisions across models, agents, tools, reliability, observability,
+    latency, cost, safety, and security
+  - Lead technical deep dives, workshops, and hands-on enablement for customer engineering
+    teams
+  - Translate real-world deployment insights into product proposals and model feedback
+    for OpenAI teams
+  - Create reusable architectures, tooling, examples, and technical patterns such
+    as OpenAI Cookbook contributions
+  use_cases:
+  - AI-assisted software development lifecycle (planning, coding, testing, review,
+    debugging, delivery)
+  - AI coding workflow automation and integrations for enterprise engineering organizations
+  - Evaluation of AI coding systems with automated graders and production signals
+  - Scaling developer adoption of AI coding tools across engineering organizations
+  skills:
+    genai: [Agentic Workflows, LLM Evaluation, Codex]
+    ml: []
+    web: [Integrations]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Observability]
+    languages: [Python, JavaScript, TypeScript]
+    domains: [Developer Productivity]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11125731'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:19:58.549855'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

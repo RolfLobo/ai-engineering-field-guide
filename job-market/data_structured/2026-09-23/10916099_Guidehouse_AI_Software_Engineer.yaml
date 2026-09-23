@@ -1,0 +1,57 @@
+company:
+  name: Guidehouse
+  stage: null
+  focus: |-
+    Consulting and technology services for federal government
+    clients
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds full-stack web applications with relational
+      data, workflows, and analytics on AWS. AI features like
+      search, chatbots, and summarization are "supported" rather
+      than shaped, and GenAI tools (Copilot, Cursor, Claude Code)
+      are used as coding assistants. No evidence of designing
+      prompts, RAG, or agent flows themselves as the core
+      deliverable.
+  responsibilities:
+  - Design, develop, test, and deploy AI-enabled full-stack web applications on AWS
+  - Develop frontend interfaces with ReactJS and backend services in Java or Python
+    including RESTful APIs
+  - Support design and maintenance of relational database models and SQL queries
+  - Implement workflow and process automation capabilities for business and mission
+    operations
+  - Build data visualization and analytics features such as dashboards and reports
+  - Support AI-enabled features such as intelligent search, chatbots, document processing,
+    summarization, semantic search, or agent-assisted workflows
+  - Use GenAI-assisted coding tools for development, testing, refactoring, and documentation
+  - Contribute to CI/CD pipelines, DevSecOps practices, and Agile delivery activities
+  use_cases:
+  - AI-enabled full-stack web applications for federal government missions
+  - Intelligent search and semantic search capabilities
+  - Chatbots and document processing with summarization
+  - Workflow and process automation for business and mission operations
+  - Data visualization, dashboards, and analytics for decision-making
+  skills:
+    genai: [GitHub Copilot, Cursor, Claude Code, RAG, Semantic Search, Agentic Workflows,
+      LangChain, Haystack, Semantic Kernel]
+    ml: []
+    web: [React, REST APIs, Microservices, D3.js]
+    databases: [PostgreSQL, MySQL, Amazon Aurora, SQL]
+    data: []
+    cloud: [AWS, AWS Lambda, ECS, API Gateway, AWS S3, CloudWatch, IAM, AWS Bedrock]
+    ops: [Git, CI/CD, DevSecOps, Terraform, Infrastructure as Code]
+    languages: [Java, Python, JavaScript, HTML, CSS]
+    domains: []
+    other: [Agile, Section 508 Accessibility, Tableau, Plotly]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10916099'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:06:47.631160'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

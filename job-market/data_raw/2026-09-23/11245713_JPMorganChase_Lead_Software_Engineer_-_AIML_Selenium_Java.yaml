@@ -1,0 +1,152 @@
+job_id: 11245713
+title: Lead Software Engineer - AI/ML, Selenium, Java
+company: JPMorganChase
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 289,097 Employees
+description: |
+  We have an opportunity to impact your career and provide an
+  adventure where you can push the limits of what's possible.
+
+  As a Lead Software Engineer- Quality Assurance at
+  JPMorganChase within the Commercial & Investment Bank
+  Technology,  your goal is to ensure that our applications
+  work as they should and meet customers’ needs. In this role,
+  you will operate as a Delivery Manager / Test Architect,
+  accountable for test strategy, delivery governance,
+  automation architecture, and stakeholder alignment across
+  squads and releases. You will drive continuous improvement
+  through modern engineering practices, including AI-assisted
+  approaches to requirements understanding, test optimization,
+  execution analytics, and defect triage—ensuring outcomes
+  remain traceable, controlled, and aligned to quality
+  standards.
+
+
+
+  Job responsibilities
+
+  - Own and drive end-to-end QA delivery for assigned
+    programs/releases, including scope, plans, milestones,
+    dependencies, RAID management, and executive-level status
+    reporting and Build and mentor high-performing QA teams
+    through coaching, goal setting, and capability development
+    (automation, architecture, domain knowledge, modern QA
+    practices).
+  - Sets and scales operating practices for enterprise-
+    authorized AI-assisted engineering and SDLC/TLM automation
+    across multiple teams to improve delivery speed, quality,
+    and operational outcomes; establishes measurable
+    expectations (e.g., throughput, defect reduction,
+    reliability) and ensures consistent validation, security,
+    resiliency, and reuse of proven patterns.
+  - Define and maintain the test strategy and test architecture
+    (functional, regression, integration, API, UI,
+    performance, data validation), ensuring alignment to
+    business risk, regulatory needs, and SDLC controls.
+  - Establish and govern quality engineering standards across
+    teams (test design patterns, automation coding standards,
+    framework usage, branching strategy, test data strategy,
+    environment strategy). Ensure documentation and
+    auditability of QA processes and outcomes within
+    ALM/QTEST/JIRA, aligned to internal quality and delivery
+    controls.
+  - Lead automation roadmap and architecture decisions,
+    including framework evolution, tooling selection,
+    reusability patterns, and CI/CD integration (e.g.,
+    Jenkins) to improve speed-to-signal and reliability and
+    provide technical leadership to engineers: guide design
+    reviews, ensure maintainability, reduce flakiness, and
+    drive best practices such as test pyramids, service
+    virtualization/mocking, and contract testing where
+    applicable.
+  - Implement and promote AI-assisted quality engineering
+    practices (with appropriate controls), such as:
+    - NLP/LLM-supported requirements analysis to identify
+      gaps/ambiguities and improve acceptance criteria
+      readiness
+    - AI-assisted test planning and coverage optimization (human-
+      reviewed and traceable to requirements)
+    - Intelligent failure analytics (clustering, anomaly
+      detection) to speed defect triage and stabilize
+      pipelines
+  - Own the quality metrics framework (defect leakage,
+    automation coverage, execution health, flakiness rate,
+    cycle time, escape rate) and drive actionable improvements
+    with engineering and product partners and Drive test data
+    and environment governance, including data provisioning
+    approaches, masking principles, data quality checks, and
+    environment stability initiatives.
+  - Govern defect management and triage: ensure
+    severity/priority standards, root cause analysis,
+    preventive actions, and timely communication across
+    stakeholders and Partner with Product Owners, Engineering
+    Managers, Architects, and Operations to ensure release
+    readiness, sign-offs, and controlled deployments with
+    clear rollback/contingency planning.
+  - Applies knowledge of tools within the Software Development
+    Life Cycle toolchain, including enterprise-authorized AI-
+    assisted development and automation capabilities, to
+    improve the value realized by automation.
+  - Drives team adoption of enterprise-authorized AI-assisted
+    engineering practices within the work environment to
+    improve code quality, delivery speed, and operational
+    outcomes (e.g., AI-assisted code review/refactoring, test
+    strategy acceleration, incident/root-cause analysis
+    support), while establishing consistent validation
+    standards (secure coding, peer review, automated testing)
+    and promoting reuse of effective patterns across the team.
+
+
+
+  Required qualifications, capabilities and skills
+
+  - Formal training or certification on software engineering
+    concepts and 5+ years applied experience
+  - Proven ability to write automated tests in Java/ TypeScript/
+    Python using Playwright, Selenium
+  - Expertise in at least one programming language: Java or
+    Python or TypeScript and Working knowledge of AI-assisted
+    testing/QA analytics concepts (requirements analysis,
+    coverage optimization, execution insight), with emphasis
+    on validation, traceability, and controlled usage
+  - Expertise in JIRA and ALM Tools like QTEST and Working
+    knowledge of using Databases
+  - Should have knowledge of automation framework integration
+    with CI/ CD Tools like Jenkins
+  - Detailed understanding of common defect and data-management
+    tools and Good understanding of Object Repositories,
+    XPATHs etc
+  - Advanced knowledge of software lifecycles, including
+    Waterfall and Agile, and test automation strategies
+  - Experience working effectively with teams and stakeholders
+    to develop relationships and achieve common goals
+  - Proficiency in a business function and some understanding of
+    the broader business context and Demonstrated ability to
+    lead test strategy, delivery governance, and technical
+    direction across multiple workstreams/teams
+  - Demonstrated experience leading effective use of approved
+    AI-assisted software development tools (e.g., for coding,
+    code review, test acceleration, troubleshooting) with the
+    ability to set team expectations for validating AI outputs
+    for correctness, performance, and security.
+  - Strong understanding of responsible AI use in engineering
+    workflows, including data sensitivity considerations,
+    secure handling of inputs/outputs, and adherence to
+    resiliency and security expectations; experience coaching
+    engineers on safe, compliant adoption within delivery
+    practices.
+
+
+
+  Preferred qualifications, capabilities and skills
+
+  - Knowledge of working with AI/ ML/ Data Science/ NLP
+  - Knowledge of Cloud Computing
+  - Experience of working in Banking domain will be added
+    advantage
+  - Working Experience with proprietary tools like UFT/ TOSCA/
+    UIPATH
+posted_date: 2026-09-18
+url: "https://builtin.com/job/lead-software-engineer-ai-ml-selenium-java/11245713"
+source: Built In

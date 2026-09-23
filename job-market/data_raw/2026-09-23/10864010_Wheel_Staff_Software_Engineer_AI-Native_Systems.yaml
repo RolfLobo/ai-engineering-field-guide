@@ -1,0 +1,249 @@
+job_id: 10864010
+title: Staff Software Engineer, AI-Native Systems
+company: Wheel
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Staff Software Engineer, AI-Native Systems (Tech Lead)
+
+  Location: Remote (US)
+
+  We are
+
+  Virtual care only works if the infrastructure behind it
+  does. Wheel builds that infrastructure — the systems that
+  let telehealth run at scale for the patients, clinicians,
+  and companies depending on it. We're not bolting AI onto old
+  workflows; we're rebuilding them from the ground up. Our
+  mission to put great healthcare in everyone's reach means
+  replacing manual, ad-hoc processes with intelligent, agent-
+  powered systems that carry real operational load. We're
+  innovating in a live, regulated healthcare environment where
+  getting it right matters. This is the next architecture of
+  virtual care, and we're building it now.
+
+  You are
+
+  A staff-level engineer who sets technical direction for
+  agentic systems and then leads the work to ship them. You've
+  built and operated agents in production, you know where they
+  break, and you have opinions — held loosely, argued well —
+  about how to build them so they hold up in a regulated
+  environment.
+
+  You operate with the scope of a domain owner, not a task
+  owner. You take a problem that isn't yet well-formed, define
+  it, sequence it, and lead a group of engineers to a shipped
+  and measured outcome. Your impact shows up in other people's
+  work as much as your own: the patterns they reuse, the
+  design decisions they don't have to relitigate, the
+  ambiguity you removed before it cost the team a quarter.
+
+  You treat AI two ways at once — as a product capability you
+  build with judgment, and as a development multiplier you use
+  fluently — and you're the person who raises the org's bar on
+  both.
+
+  The WorkTechnical Leadership & Direction
+
+  - Own the technical direction for a significant AI-native
+    domain: agent architecture, platform abstractions, or
+    evaluation and guardrail infrastructure.
+  - Act as tech lead for a squad or a cross-team initiative —
+    decomposing ambiguous problems, sequencing delivery,
+    identifying and clearing blockers, and keeping the team
+    pointed at the outcome rather than the ticket.
+  - Write and review design docs; make and document the load-
+    bearing architectural calls, including the ones where the
+    answer is "not yet" or "buy, don't build."
+  - Establish clear technical ownership where it's currently
+    diffuse, so decisions have a named owner and reviews don't
+    stall.
+
+  Agent Architecture & Engineering
+
+  - Design and build production AI agents incorporating
+    retrieval, orchestration, policy-based routing, tool
+    invocation, evaluation harnesses, and lifecycle
+    observability.
+  - Set the standards for what "production-ready agent" means
+    here — testability, rollback safety, cost ceilings,
+    failure modes, human-in-the-loop boundaries — and hold the
+    bar in review.
+  - Take on the hardest parts of the build yourself. This is a
+    hands-on role; you are expected to be in the code.
+
+  AI Platform Foundations
+
+  - Build and extend the abstraction layers that let teams
+    integrate AI capabilities cleanly and safely across our
+    services.
+  - Define the shared libraries, patterns, and guardrails other
+    teams build on, and drive their adoption — a pattern
+    nobody uses isn't a pattern.
+  - Treat responsible use of AI on sensitive data as a hard
+    engineering requirement, and translate privacy, security,
+    and compliance constraints into concrete architecture
+    rather than deferring them.
+
+  Cloud-Native Engineering
+
+  - Own full-stack delivery in TypeScript/Node.js and Python:
+    service and API layers, data-processing jobs, and the
+    internal interfaces on top of them.
+  - Leverage modern cloud infrastructure, event-driven patterns,
+    CI/CD, and observability to deliver scalable AI-native
+    systems.
+  - Own deployment, monitoring, and troubleshooting in
+    production, including on-call, and improve the operational
+    posture of what you inherit.
+
+  Stakeholder Engagement & Advisory
+
+  - Partner directly with product, operations, clinical
+    operations, and business leaders as both technologist and
+    trusted advisor — helping define which use cases are worth
+    building and which aren't.
+  - Lead design sessions, proofs of concept, and build-with
+    sessions alongside the people who'll use the workflows,
+    building trust and adoption as you go.
+  - Communicate trade-offs, risks, and recommendations clearly
+    to technical and non-technical audiences, up to and
+    including the executive team.
+  - Influence roadmap and prioritization with a clear-eyed read
+    of technical risk, sequencing, and cost.
+
+  Measure & Improve
+
+  - Own the evaluation strategy for your domain: define the
+    metrics, test harnesses, and evaluation plans that measure
+    agent accuracy, latency, safety, and cost-effectiveness.
+  - Instrument the systems so their behavior is legible after
+    the fact, not just at demo time.
+  - Iterate rapidly on data, feedback, and changing requirements
+    — and kill approaches that aren't working, early and
+    visibly.
+
+  Growing the Org
+
+  - Mentor and grow engineers through code review, design
+    review, pairing, and direct feedback; make the people
+    around you measurably better.
+  - Craft reusable patterns, documentation, and best practices
+    that raise the engineering bar beyond your own team.
+  - Anchor our internal community of practice around AI-native
+    and agentic engineering.
+
+  What success looks like
+
+  - First 90 days: you have a working map of our AI platform
+    surface area, have shipped something real, and have a
+    point of view on where the leverage is.
+  - First 6 months: you own a domain outright, are leading a
+    team's technical direction within it, and there's an
+    evaluation story for the agents you've shipped.
+  - First year: patterns you established are in use by teams you
+    don't sit on, and engineers point to you as the reason
+    their work got better.
+
+  What we're looking for
+
+  - 8+ years building and operating production software, with
+    meaningful full-stack depth across a TypeScript/Node.js
+    backend and at least one other language (Python strongly
+    preferred).
+  - A track record of technical leadership as an individual
+    contributor: owning a domain, leading multi-engineer
+    efforts to completion, and driving decisions across team
+    boundaries without positional authority.
+  - Hands-on experience designing and deploying agentic systems
+    in production — retrieval, orchestration, tool/function
+    calling, and evaluation — with a clear-eyed view of where
+    LLMs and agents work and where they don't.
+  - Demonstrated ability to take a loosely defined problem and
+    drive it to a shipped, measured, agent-powered workflow.
+  - A working practice of using AI development tools as a force
+    multiplier, with judgment about when to trust, verify, or
+    override them.
+  - Strong cloud-native engineering fundamentals; comfort with
+    CI/CD, observability, and running what you build.
+  - Fluency with relational data and SQL.
+  - Clear written and verbal communication, including the
+    ability to write a design doc that changes minds. This is
+    a remote, cross-functional role.
+  - Comfort with ambiguity and a bias toward shipping measurable
+    results.
+
+  Strongly desired
+
+  - Experience with agent frameworks and multi-agent
+    architectures at production scale.
+  - Model evaluation and guardrail infrastructure — measuring
+    output quality, catching regressions, keeping agents
+    inside safe bounds.
+  - Experience building platform capabilities consumed by other
+    engineering teams.
+  - Background in workflow automation, forecasting-driven
+    products, or supply-demand matching.
+  - Prior work in a regulated environment (healthcare/HIPAA,
+    fintech, etc.) and an instinct for the constraints that
+    come with using AI on sensitive data.
+  - Experience mentoring engineers or acting as a formal tech
+    lead.
+
+  How we work
+
+  Remote-first (US), fast-moving, tight loops between
+  engineering, product, and the business. We're an AI-forward
+  engineering org — we expect AI in the toolchain and in the
+  product, and we measure outcomes over activity. We handle
+  sensitive healthcare data under strict controls; privacy,
+  security, and responsible use of AI are engineering
+  requirements here, not afterthoughts.
+
+
+
+  Salary and Perks
+
+  Pay Range: $185,725-$264,500 USD
+
+  Final offer amounts are determined by multiple factors
+  including, but not limited to, the scope and
+  responsibilities of the role, the selected candidate’s work
+  experience, education and training, the work location as
+  well as market and business considerations.
+
+
+
+  As an employee of Wheel, you’ll enjoy our Total Rewards
+  Program to help secure your financial future and preserve
+  your health and well-being, including:
+
+  - Medical, Dental and Vision
+  - Ancillary: Life, Short and Long Term Disability
+  - 401K match
+  - Flexible PTO
+  - Parental Leave
+  - Stock options
+  - Additional programs and perks
+
+  Wheel is committed to equal employment opportunities for all
+  team members. Every decision we make regarding employment is
+  solely based on merit, competence, and performance. We are
+  committed to building a team that represents a variety of
+  backgrounds, perspectives, and skills.
+
+  Research shows that underrepresented groups typically apply
+  only if they meet 100% of the criteria listed. At Wheel, we
+  encourage women, people of color, and LGBTQ+ job seekers to
+  apply for positions even if they don’t check every box for
+  the role.
+industries:
+  - Healthtech
+  - Sales
+  - Software
+  - Telehealth
+posted_date: 2026-08-26
+url: "https://www.builtinla.com/job/staff-software-engineer-ai-native-systems/10864010"
+source: Built In

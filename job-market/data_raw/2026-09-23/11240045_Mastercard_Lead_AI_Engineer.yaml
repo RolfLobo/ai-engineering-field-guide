@@ -1,0 +1,142 @@
+job_id: 11240045
+title: Lead AI Engineer
+company: Mastercard
+location: Gurugram, IND
+work_type: FULL_TIME
+company_size: 38,800 Employees
+description: |
+  Our Purpose  Mastercard powers economies and empowers people
+  in 200+ countries and territories worldwide. Together with
+  our customers, we're helping build a sustainable economy
+  where everyone can prosper. We support a wide range of
+  digital payments choices, making transactions secure,
+  simple, smart and accessible. Our technology and innovation,
+  partnerships and networks combine to deliver a unique set of
+  products and services that help people, businesses and
+  governments realize their greatest potential. Title and
+  Summary Lead AI Engineer Overview AI Solutions, part of
+  Mastercard's AI & Data organization, scales AI across the
+  enterprise, moving use cases beyond pilots into trusted,
+  production-grade capabilities embedded in Mastercard's
+  platforms and products. Centralizing this capability drives
+  speed to scale, operational resilience, consistent delivery
+  standards, and responsible AI by design, in close
+  partnership with the AI Center of Excellence. This position
+  sits on the Horizontal Enablement team, reporting to the
+  Manager, AI Engineering, and is a senior hands-on
+  contributor to the team's MLOps initiatives. Horizontal
+  Enablement bridges platform teams and data science by
+  setting engineering and data science operating standards for
+  production models and maintaining domain-specific feature
+  and model monitoring. As a Lead AI Engineer, you will build
+  and operate the model deployment pipeline, the domain model
+  monitoring platform, and the Databricks and infrastructure
+  automation that allow AI and machine learning systems to run
+  reliably at scale, while mentoring engineers across the
+  team. Role As a Lead AI Engineer, you will:• Design,
+  develop, and maintain MLOps capabilities and advanced AI and
+  machine learning systems that address specific business
+  challenges.• Implement models into production, building
+  scalable training pipelines and deployment frameworks that
+  handle large data volumes and high request rates.•
+  Administer and maintain Databricks workspaces, including
+  provisioning and configuration, cluster and compute
+  policies, job orchestration, runtime and library upgrades,
+  catalog and access management, secrets, monitoring, and cost
+  optimization.• Deploy and maintain AI and machine learning
+  infrastructure through infrastructure as code and automated
+  release pipelines, keeping environments repeatable, secure,
+  auditable, and consistent.• Build and optimize data
+  ingestion, preprocessing, and feature engineering workflows
+  that support model training and inference.• Automate model
+  training, testing, deployment, and update workflows
+  following CI/CD best practices.• Build and maintain domain-
+  specific feature and model monitoring, tracking performance
+  metrics and drift and updating models to sustain high-
+  quality outputs.• Implement onboarding and operating
+  standards for platform users, including naming and packaging
+  conventions, validation rules, and exception handling.•
+  Ensure the operational stability and scalability of AI
+  systems, adhering to ethical guidelines and contributing to
+  the organization's AI infrastructure.• Influence
+  stakeholders and partner with data science, platform, and
+  product teams to translate requirements into technical
+  solutions.• Guide and mentor junior engineers through on-
+  the-job experiences and code and design reviews, fostering
+  continuous improvement across the discipline. Required
+  Qualifications• Master's degree with 3+ years of relevant
+  experience, or Bachelor's degree with 5+ years, in Computer
+  Science, Artificial Intelligence, Machine Learning, Data
+  Science, Engineering, or a related field; equivalent
+  practical experience considered.• Hands-on MLOps experience
+  across model monitoring, feature catalogs, experiment
+  tracking, model registry, and lifecycle CI/CD pipelines.•
+  Hands-on experience administering Databricks workspaces,
+  including cluster and compute policies, job orchestration,
+  runtime and library upgrades, permissions, and secrets.•
+  Experience deploying and maintaining infrastructure through
+  infrastructure as code and automated pipelines, including
+  environment provisioning, configuration management, and
+  controlled release and rollback.• Strong experience with
+  Spark and distributed data processing.• Proficiency in
+  Python, PySpark, and SQL.• Hands-on experience with CI/CD
+  and build tooling such as Git, Jenkins, Maven, and
+  Artifactory.• Experience building and optimizing feature
+  engineering and large-scale data processing workflows.•
+  Strong understanding of machine learning and deep learning
+  techniques, model lifecycle management, and production AI
+  systems.• Experience with model deployment, evaluation,
+  observability, optimization, and operational support.•
+  Experience with cloud operations across public and private
+  cloud environments.• Ability to communicate technical
+  concepts clearly, work independently, and mentor other
+  engineers. Preferred Qualifications • Experience with MLOps
+  tools such as MLflow, Comet, or Weights and Biases.•
+  Experience automating Databricks administration and
+  deployment with the Databricks CLI, REST APIs, Asset
+  Bundles, or the Databricks Terraform provider.• Experience
+  with infrastructure as code and configuration tooling such
+  as Terraform or Ansible, and with Docker and Kubernetes.•
+  Experience contributing to engineering standards, governance
+  frameworks, or observability practices for production AI
+  systems.• Experience with Generative AI, LLMs, RAG, or
+  agentic AI applications.• Familiarity with AI-assisted
+  development tools such as GitHub Copilot or Claude Code.•
+  Experience with data governance tooling, including data
+  catalogs, lineage, role-based access control, and sensitive
+  data handling. Corporate Security Responsibility All
+  activities involving access to Mastercard assets,
+  information, and networks comes with an inherent risk to the
+  organization and, therefore, it is expected that every
+  person working for, or on behalf of, Mastercard is
+  responsible for information security and must:• Abide by
+  Mastercard's security policies and practices;• Ensure the
+  confidentiality and integrity of the information being
+  accessed;• Report any suspected information security
+  violation or breach, and• Complete all periodic mandatory
+  security trainings in accordance with Mastercard's
+  guidelines. Corporate Security Responsibility All activities
+  involving access to Mastercard assets, information, and
+  networks comes with an inherent risk to the organization
+  and, therefore, it is expected that every person working
+  for, or on behalf of, Mastercard is responsible for
+  information security and must:
+
+  - Abide by Mastercard's security policies and practices;
+  - Ensure the confidentiality and integrity of the information
+    being accessed;
+  - Report any suspected information security violation or
+    breach, and
+  - Complete all periodic mandatory security trainings in
+    accordance with Mastercard's guidelines.
+industries:
+  - Blockchain
+  - Fintech
+  - Payments
+  - Consulting
+  - Cryptocurrency
+  - Cybersecurity
+  - Quantum Computing
+posted_date: 2026-09-17
+url: "https://builtin.com/job/lead-ai-engineer/11240045"
+source: Built In

@@ -1,0 +1,49 @@
+company:
+  name: NXP Semiconductors
+  stage: null
+  focus: Semiconductors and edge AI processors
+position:
+  title: Sr. Software Engineer – AI Operators
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role develops and optimizes AI operator kernels on
+      custom edge AI processors—optimizing model internals
+      (kernels, assembly, quantization-like performance work) is
+      shaping. The targets are classical ML/DL operators on edge
+      hardware with no LLM/agent component, so it is ml-first.
+  responsibilities:
+  - Design and develop AI operator modules/kernels for custom ISA-based edge AI processors
+  - Understand the mathematics of AI operators and implement them in hardware-efficient
+    ways
+  - Develop, optimize, and maintain high-performance kernel-level code in C/C++ and
+    assembly
+  - Use profiling and debugging tools to diagnose and resolve performance bottlenecks
+  - Collaborate with hardware architects, compiler teams, and application developers
+    on kernel integration
+  - Evaluate cutting-edge methodologies to enhance AI operator performance across
+    current and future products
+  use_cases:
+  - AI/ML operator execution on edge AI processors
+  - Performance, reliability, and scalability of edge AI hardware
+  - Low-latency AI inference on custom ISA hardware
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [GDB, Gprof]
+    languages: [C++, C, Assembly]
+    domains: []
+    other: [Kernel Development, Performance Optimization, Hardware/Software Co-Design,
+      OS Internals, Memory Management, Instruction Set Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10974458'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:10:23.095375'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

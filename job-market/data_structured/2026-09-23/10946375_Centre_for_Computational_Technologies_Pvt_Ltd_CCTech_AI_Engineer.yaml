@@ -1,0 +1,47 @@
+company:
+  name: Centre for Computational Technologies Pvt. Ltd. (CCTech)
+  stage: null
+  focus: Engineering IT organization transforming product development
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds LLM and agentic applications, RAG pipelines,
+      and tool use, plus designs evals and guardrails - direct
+      model behaviour shaping with an LLM component. It also fine-
+      tunes models (PEFT, quantisation), confirming ai-first per
+      Step 2.
+  responsibilities:
+  - Build, evaluate, and deploy machine learning and deep learning models for production
+  - Develop LLM-based and agentic applications, including RAG pipelines and tool use
+  - Fine-tune and optimise models for accuracy, latency, and cost using PEFT and quantisation
+  - Design evaluation frameworks, benchmarks, and guardrails to safeguard model quality
+  - Build and automate data pipelines for training, inference, and model monitoring
+  - Package and serve models as scalable APIs with containerisation, CI/CD, and MLOps
+  use_cases:
+  - Production ML and deep learning systems
+  - LLM-based and agentic applications with RAG
+  - Model fine-tuning for accuracy, latency, and cost
+  - Model evaluation and quality guardrails
+  skills:
+    databases: [Vector Databases, pgvector, FAISS, Pinecone]
+    domains: []
+    data: [Data Pipelines]
+    web: [FastAPI]
+    ml: [Machine Learning, Deep Learning, LoRA, Quantization, scikit-learn, PyTorch,
+      TensorFlow]
+    ops: [Model Monitoring, MLOps, CI/CD, Docker, MLflow, Model Deployment]
+    other: []
+    cloud: [AWS, Azure, GCP]
+    languages: [Python, SQL]
+    genai: [LLMs, Agentic Workflows, RAG, Function Calling, Fine-Tuning, Guardrails,
+      LLM Evaluation, Prompt Engineering, LangChain, LangGraph, MCP, Embeddings]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10946375'
+  location: Ahmedabad, IND
+  extracted_at: '2026-09-23T11:08:29.639373'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

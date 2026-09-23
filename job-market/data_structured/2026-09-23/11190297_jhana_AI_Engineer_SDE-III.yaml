@@ -1,0 +1,53 @@
+company:
+  name: jhana
+  stage: Early stage, seed-funded
+  focus: AI-powered legal intelligence and legal-tech products
+position:
+  title: AI Engineer SDE-III
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs retrieval, embedding, reranking, and
+      evaluation systems that anchor generative AI output (RAG-
+      style legal search with citations). This directly shapes
+      model behavior and output quality for LLM-driven products,
+      so it is ai-first.
+  responsibilities:
+  - Construct measures of search reliability, comprehensiveness, and effectiveness;
+    compare ordered result sets using similarity and distance metrics
+  - Implement and automate benchmarks using labeled data and expert human feedback
+    with legal research fellows
+  - Build indexing algorithms, data structures, and infrastructure for billion-scale
+    multi-engine search
+  - Develop pre- and post-processing techniques including query design, reranking,
+    and boosting from data augmentation and live user interaction
+  - Identify, finetune, and align new vector embedding methods
+  - Optimize latency and memory/time complexity via segmentation, sharding, concurrency,
+    and parallelism
+  - Design caching mechanisms for high-variance natural language queries
+  use_cases:
+  - Legal document search and retrieval over a proprietary corpus of ~13M structured
+    documents
+  - Litigation, corporate law, in-house counsel, and judiciary workflow automation
+  - Precedent and citation graph analysis (cites-cited-by, appeal/overruling graphs)
+  - Generative AI answers grounded in information retrieval with cited claims
+  - Billion-scale multi-engine enterprise search with reranking
+  skills:
+    genai: [Generative AI, RAG]
+    ml: [Deep Learning, Embeddings, Fine-Tuning, Model Evaluation, Linear Algebra]
+    web: []
+    databases: [Vector Search]
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11190297'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:25:01.652394'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

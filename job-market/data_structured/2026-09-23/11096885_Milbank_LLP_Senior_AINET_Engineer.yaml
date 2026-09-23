@@ -1,0 +1,49 @@
+company:
+  name: Milbank LLP
+  stage: null
+  focus: Law firm legal services and enterprise technology
+position:
+  title: Senior AI/.NET Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements AI agents, RAG, prompt
+      engineering, and tool/function calling using Azure OpenAI
+      and agent frameworks, directly shaping LLM behavior. It is
+      not merely consuming an AI API; the deliverable includes the
+      AI features themselves.
+  responsibilities:
+  - Architect and develop production-grade applications in C#/.NET
+  - Design and deploy AI-powered features and autonomous AI agents that automate business
+    workflows
+  - Implement RAG, prompt engineering, tool/function calling, and vector search to
+    ground AI on enterprise content
+  - Establish engineering standards, conduct code reviews, and mentor developers
+  - Partner with stakeholders to translate business requirements into technical designs
+  - Integrate AI capabilities responsibly with security, privacy, evaluation, and
+    governance considerations
+  use_cases:
+  - Autonomous AI agents that automate and reason over enterprise business workflows
+  - Document analysis and summarization for legal processes
+  - Enterprise search grounded on firm content via RAG and vector search
+  - Copilots and intelligent automation for legal, financial, and HR systems
+  skills:
+    genai: [Semantic Kernel, AutoGen, OpenAI API, Anthropic API, AI Agents, RAG, Prompt
+        Engineering, Function Calling, LangChain]
+    ml: []
+    web: [REST APIs, React, HTML5, CSS]
+    databases: [Vector Search, Azure SQL, Azure AI Search, Cosmos DB]
+    data: []
+    cloud: [Azure, Azure OpenAI, Azure Functions]
+    ops: [Azure DevOps, CI/CD, Git]
+    languages: [C#, .NET, SQL, JavaScript, TypeScript]
+    domains: []
+    other: [Logic Apps, Responsible AI, SOAP, SDLC]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11096885'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:18:54.092189'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

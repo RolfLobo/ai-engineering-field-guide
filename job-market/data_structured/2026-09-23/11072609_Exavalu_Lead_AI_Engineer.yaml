@@ -1,0 +1,49 @@
+company:
+  name: Exavalu
+  stage: null
+  focus: IT consulting and services for regulated industries
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, builds LLM-based
+      applications, and implements guardrails for LLM systems,
+      directly shaping model behavior and output quality. LLM
+      involvement makes it ai-first.
+  responsibilities:
+  - Design and implement end-to-end AI/ML solutions including LLM-based applications
+  - Build RAG pipelines using vector databases and enterprise data sources
+  - Build ML models with automated training, validation, monitoring, and retraining
+  - Develop APIs and services to operationalize AI capabilities
+  - Build data ingestion and transformation pipelines for structured and unstructured
+    data
+  - Implement CI/CD, deployment, and monitoring for AI/ML workflows
+  - Develop solutions on AWS (SageMaker, Lambda, S3, Glue, EKS, Bedrock)
+  - Implement responsible AI practices including guardrails and secure data handling
+  use_cases:
+  - LLM-based enterprise applications
+  - RAG over enterprise data sources
+  - Automation of insurance processes (policy, claims, billing)
+  - Automated ML training, monitoring, and retraining
+  - Multimodal content ingestion and transformation
+  skills:
+    genai: [LLMs, RAG, AWS Bedrock, Guardrails, Prompt Engineering]
+    ml: [Machine Learning, NLP, Model Training]
+    web: [APIs]
+    databases: [Vector Databases, Pinecone, Weaviate]
+    data: [Data Pipelines]
+    cloud: [AWS, SageMaker, AWS Lambda, AWS S3, EKS]
+    ops: [MLOps, CI/CD, Docker, Kubernetes, Model Monitoring]
+    languages: []
+    domains: []
+    other: [Distributed Systems, Microservices, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11072609'
+  location: Chennai, IND
+  remote: true
+  extracted_at: '2026-09-23T11:17:01.057797'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

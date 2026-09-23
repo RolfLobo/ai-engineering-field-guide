@@ -1,0 +1,51 @@
+company:
+  name: BlackRock
+  stage: null
+  focus: Global asset management and financial technology
+position:
+  title: AI Platform & Application Engineer - Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM-based architecture (RAG, fine-tuning,
+      prompt engineering) and establishes evaluation frameworks
+      for model quality, directly shaping model behavior. LLM
+      components are central, so it is ai-first.
+  responsibilities:
+  - Design scalable AI architecture leveraging LLMs, RAG, fine-tuning, and model optimization
+    techniques
+  - Establish evaluation frameworks measuring model quality, hallucination control,
+    and precision/recall trade-offs
+  - Lead design and delivery of AI platform capabilities across the software development
+    lifecycle
+  - Partner with product and security teams to ensure AI solutions are safe, compliant,
+    and production-ready
+  - Drive buy vs. build decisions evaluating third-party and internal solutions
+  - Coordinate across engineering teams and time zones to deliver shared outcomes
+  - Communicate AI capabilities, trade-offs, and risks to senior stakeholders
+  - Lead, coach, and mentor a team of engineers and senior ICs
+  use_cases:
+  - Technologist enablement and developer productivity across the software development
+    lifecycle
+  - Large-scale code modernization through intelligent systems
+  - AI-powered software engineering workflows at enterprise scale
+  - Enterprise AI governance and safe, compliant AI adoption
+  skills:
+    genai: [LLMs, RAG, Fine-Tuning, Prompt Engineering, LLM Evaluation]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Cloud]
+    ops: [Distributed Systems]
+    languages: [Java, Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11237279'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:30:05.527944'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

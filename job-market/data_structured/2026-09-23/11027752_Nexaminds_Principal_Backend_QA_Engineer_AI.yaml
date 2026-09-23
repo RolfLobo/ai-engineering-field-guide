@@ -1,0 +1,51 @@
+company:
+  name: Nexaminds
+  stage: null
+  focus: AI solutions for business transformation
+position:
+  title: Principal Backend QA Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role validates non-deterministic AI outputs using LLM-
+      as-a-Judge and scoring evaluations, which is judging and
+      shaping model output quality per the LLM target rules.
+      Testing AI agents and MCP applications with evaluation
+      metrics determines model behaviour, so ai-first.
+  responsibilities:
+  - Analyze OpenAPI/Swagger specs to design comprehensive test plans and build automated
+    test suites with Karate Framework
+  - Test and evaluate non-deterministic AI outputs, internal AI agents built with
+    ADK, and MCP applications using evaluation metrics and scoring techniques
+  - Inspect source code and upstream services to identify dependencies and evaluate
+    system impacts across environments
+  - Configure local development environments for shift-left testing of backend APIs
+    and microservices
+  - Design AI-integrated test automation strategies that validate scenarios beyond
+    deterministic testing tools
+  use_cases:
+  - QA validation of AI agents and chatbots
+  - Non-deterministic AI output evaluation via LLM-as-a-Judge and scoring
+  - API and microservices testing for backend systems
+  - MCP application validation
+  - Enterprise retail backend testing
+  skills:
+    genai: [LLM Evaluation, AI Agents, MCP, Google ADK]
+    ml: []
+    web: [OpenAPI, Microservices, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Karate Framework]
+    languages: []
+    domains: []
+    other: [Postman, Test Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11027752'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:13:11.524048'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

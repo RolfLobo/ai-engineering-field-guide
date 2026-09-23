@@ -1,0 +1,165 @@
+job_id: 10860782
+title: Principal AI Engineer - Personalization and Recommendation (Remote)
+company: Rula
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  We believe that mental health is just as important as
+  physical health. We recognize that mental health issues can
+  be complex and multifaceted, and we are dedicated to
+  treating the whole person, not just the symptoms.
+
+  We aim to create a world where mental health is no longer
+  stigmatized or marginalized, but rather is embraced as an
+  integral part of one's overall well-being.
+
+  We believe that by providing quality care that is both
+  evidence-based and compassionate, we can empower individuals
+  to take charge of their mental health and achieve their full
+  potential. We are passionate about making a positive impact
+  on the lives of those struggling with mental health issues
+  and we strive to be a force for positive change in the field
+  of mental healthcare.
+
+  Rula is a remote-first company. We currently hire in most
+  U.S. states, with the exception of Hawaii.
+
+  About the Role
+
+  At Rula, this role owns the applied AI and ML solutions that
+  determine what, how, and how well AI shows up across mental
+  healthcare. The focus isn’t on isolated prototypes, but on
+  building production-grade AI systems that directly power
+  patient-provider matching, clinical workflows, and patient
+  engagement. While your immediate focus will be driving
+  search ranking, relevance, and patient-provider matching,
+  your broader scope encompasses our overarching
+  personalization and recommendation strategies, alongside
+  directing the foundational ML platforms that support them at
+  scale.
+
+  You’ll operate where applied research, system architecture,
+  and real-world clinical constraints meet. The work spans
+  developing advanced recommendation engines and retrieval
+  models, applying NLP and generative AI to clinical
+  workflows, setting technical standards for AI safety, and
+  making principal decisions about how machine learning is
+  introduced into a high-stakes environment. The goal is
+  simple but hard: leverage applied AI—from intelligent
+  matching and deep personalization to broader AI solutions—to
+  make care more accessible and effective without compromising
+  trust or outcomes.
+
+  This is a deeply hands-on role with real technical
+  ownership. You’ll develop and fine-tune models (e.g.,
+  Learning-to-Rank, embeddings, recommendation algorithms, and
+  LLMs), design both product-facing AI architectures and core
+  ML infrastructure, unblock complex engineering problems, and
+  act as a technical multiplier for engineers working across
+  product surfaces. Success here means shipping applied AI
+  features that tangibly improve match quality and the user
+  experience, while simultaneously building scalable, durable
+  AI foundations that others can build on confidently.
+
+  The opportunity is less about chasing the AI frontier for
+  its own sake and more about shaping how applied ML
+  responsibly becomes part of everyday mental healthcare. You
+  will set the direction not just for our immediate relevance
+  and recommendation systems, but for how the entire AI
+  ecosystem—from infrastructure to advanced clinical
+  applications—evolves to actively improve patient outcomes
+  over time.
+
+  Required Qualifications
+
+  - 10+ years of software engineering, including 7+ years of
+    experience designing and scaling distributed systems, and
+    5+ years building and deploying production-grade ML
+    applications.
+  - 5+ years of deep, hands-on experience building and
+    optimizing search, ranking, relevance, or recommendation
+    engines at scale (e.g., Learning-to-Rank, collaborative
+    filtering, deep recommender systems, semantic vector
+    search)
+  - 5+ years of strong programming experience in Python and at
+    least one backend language (preferably TypeScript, Java,
+    or Go), combined with 2+ years of experience building AI-
+    powered products using foundation models (OpenAI,
+    Anthropic, Gemini) and LLM integration patterns (RAG,
+    agents, etc.)
+  - Strong proven track record working with both traditional
+    search/retrieval infrastructure (e.g., Elasticsearch,
+    OpenSearch) and modern vector databases (e.g., Pinecone,
+    Weaviate, FAISS, Milvus)
+  - 3+ years of experience with MLOps, data pipelines, and
+    rigorous evaluation systems (offline metrics like
+    NDCG/MAP, online A/B testing), with a demonstrated ability
+    to define technical strategy and guide the broader AI/ML
+    infrastructure ecosystem
+
+  Preferred Qualifications
+
+  While having the preferred qualifications enhances your
+  candidacy, having all of them is not mandatory. We encourage
+  all interested applicants to apply, even those who may not
+  meet every preferred requirement.
+
+  - Experience architecting secure and compliant AI solutions in
+    regulated environments (HIPAA, GDPR, etc.).
+  - Familiarity with human-in-the-loop systems and clinical
+    decision support frameworks.
+  - Experience designing evaluation pipelines for human
+    alignment, factual accuracy, or model interpretability.
+  - Contributions to open-source AI frameworks or applied
+    research in NLP, healthcare AI, or GenAI safety.
+  - Experience contributing to early-stage team growth (0 → 1)
+  - Experience leading or mentoring engineering teams in AI, ML
+    platform, or applied research domains
+
+  We're serious about your well-being! As part of our team,
+  full-time employees receive:
+
+  - 100% remote work environment: Working hours to support a
+    healthy work-life balance, ensuring you can meet both
+    professional and personal commitments (must be based in
+    United States, currently not hiring in Hawaii)
+  - Attractive pay and benefits: Full transparency of pay ranges
+    regardless of where you live in the United States
+  - Comprehensive health benefits: Medical, dental, vision,
+    life, disability, and FSA/HSA
+  - 401(k) plan access: Start saving for your future
+  - Generous time-off policies: Including 2 company-wide
+    shutdown weeks each year for self-care (for most
+    employees)
+  - Paid parental leave: Available for all parents, including
+    birthing, non-birthing, adopting, and fostering
+  - Employee Assistance Program (EAP): Supporting your mental
+    and physical health
+  - Quarterly department stipend: Fun team-building activities
+    or in-person gatherings
+  - Community and employee resource groups: Participate in
+    groups that celebrate employee identity and lived
+    experiences, fostering a sense of community and belonging
+    for all
+  - Home office stipend: New hire home office stipend & $50
+    monthly stipend to help cover internet or cell phone
+    expenses
+  - Wellness at Rula program: Year-round wellness initiatives
+    and a $50/month wellness stipend
+
+  Our team
+
+  We believe that diversity, equity, and inclusion are
+  fundamental to our mission of making mental healthcare work
+  for everyone.  We are dedicated to having a culture of
+  inclusion that will support our employees in feeling safe,
+  seen, heard, and valued.
+industries:
+  - Healthtech
+  - Social Impact
+  - Software
+  - Telehealth
+posted_date: 2026-08-26
+url: "https://www.builtinla.com/job/principal-ai-engineer-personalization-and-recommendation-remote/10860782"
+source: Built In

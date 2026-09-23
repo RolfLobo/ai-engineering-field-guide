@@ -1,0 +1,54 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions (DRAM, NAND) manufacturer
+position:
+  title: SR AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes GenAI/Agentic AI work with Gemini LLM
+      APIs, RAG, MCP tooling, and multi-agent workflows where the
+      engineer builds these systems themselves, making it ai-first
+      per Step 2 (LLM/agent components involved), alongside
+      classical ML model training.
+  responsibilities:
+  - Provide technical consulting and hands-on assistance to Fab area teams to identify,
+    troubleshoot, and deploy solutions
+  - Design and build cloud-based data pipelines for ingestion, transformation, and
+    feature engineering on GCP and Micron's data ecosystem
+  - Develop, train, deploy, and monitor machine learning models using Vertex AI and
+    MLOps practices
+  - Build and integrate APIs for application integration including gateway patterns
+    and authentication
+  - Develop production-grade full-stack applications and dashboards with Angular and
+    Streamlit prototypes
+  - Implement CI/CD pipelines for automated build, test, and deployment
+  - Apply advanced analytics and statistical modeling on large-scale manufacturing
+    datasets
+  - Contribute to GenAI and Agentic AI initiatives including RAG, MCP tooling, and
+    multi-agent workflows
+  use_cases:
+  - Manufacturing (Fab) analytics and solutions for semiconductor operations
+  - Predictive analytics and statistical modeling on manufacturing datasets
+  - GenAI and agentic AI solutions for manufacturing and engineering use cases
+  - Data pipeline and model deployment for large-scale manufacturing data
+  skills:
+    genai: [Gemini, RAG, MCP, Multi-Agent Systems]
+    ml: [Machine Learning, Feature Engineering]
+    web: [APIs, Angular, Streamlit, Apigee]
+    databases: [BigQuery, Snowflake]
+    data: [Data Pipelines]
+    cloud: [GCP, Vertex AI]
+    ops: [MLOps, CI/CD, Cloud Build, Jenkins, Azure DevOps]
+    languages: [SQL]
+    domains: []
+    other: [Agile, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10938821'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:07:44.053309'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

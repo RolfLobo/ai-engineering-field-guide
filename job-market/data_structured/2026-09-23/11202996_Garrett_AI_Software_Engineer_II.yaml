@@ -1,0 +1,54 @@
+company:
+  name: Garrett
+  stage: null
+  focus: Turbocharging and electric motor technology for mobility
+position:
+  title: AI Software Engineer II
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI-assisted development tools (Cursor, AI-
+      assisted testing/debugging) to build enterprise
+      applications; the AI is a tool for productivity, not the
+      product. The engineer reviews AI-generated code but does not
+      shape model behavior through prompts, retrieval design, or
+      training, so this is ai-support.
+  responsibilities:
+  - Develop and enhance software applications using AI-assisted development tools
+    and practices
+  - Analyze business requirements and translate them into technical solutions
+  - Create prototypes, write code, perform testing, debugging, and deployment activities
+  - Review and validate AI-generated code, tests, and documentation for quality, security,
+    and compliance
+  - Perform unit, integration, and functional testing using AI-assisted tools
+  - Lead complex incident resolution, root-cause analysis, and permanent fixes for
+    production issues
+  - Document architecture decisions, deployment runbooks, and knowledge articles
+  - Collaborate with business and IT stakeholders globally and with external SaaS
+    support teams
+  use_cases:
+  - AI-assisted development, testing, and debugging of enterprise applications
+  - Enterprise planning and supply chain application support
+  - Shop-floor IT/OT application hardening and maintenance
+  - AI-enabled incident analysis and production issue resolution
+  - Intelligent automation and AI-assisted decision support in enterprise applications
+  skills:
+    genai: [Prompt Engineering, Generative AI, Cursor, Intelligent Automation, Copilots,
+      Document Intelligence]
+    ml: []
+    web: [Angular, APIs, .NET]
+    databases: [Database Design, Data Integration]
+    data: []
+    cloud: []
+    ops: [CI/CD, DevOps, Version Control]
+    languages: [C#, SQL]
+    domains: []
+    other: [AI-Assisted Testing, System Integration, Solution Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11202996'
+  location: Madurai, IND
+  extracted_at: '2026-09-23T11:26:21.396424'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

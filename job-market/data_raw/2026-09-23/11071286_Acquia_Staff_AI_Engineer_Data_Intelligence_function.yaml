@@ -1,0 +1,218 @@
+job_id: 11071286
+title: "Staff AI Engineer (Data & Intelligence function)"
+company: Acquia
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About Acquia
+
+  Acquia empowers the world’s most ambitious brands to create
+  digital customer experiences that matter. With open source
+  Drupal at its core, the Acquia Digital Experience Platform
+  (DXP) enables marketers, developers, and IT operations teams
+  at thousands of global organizations to rapidly compose and
+  deploy digital products and services that engage customers,
+  enhance conversions, and help businesses stand out.
+
+  Headquartered in Boston, MA, Acquia is a Great Place to
+  Work-Certified™ company, is listed as one of the world’s top
+  software companies by The Software Report, and is positioned
+  as a market leader by the analyst community. We are Acquia.
+  We are building for the future and we want you to be a part
+  of it!
+
+  Career Exploration at Acquia
+
+  Our recruitment process is designed to empower you in making
+  the most informed decisions. Acquia is committed to
+  providing an inclusive, transparent, efficient, and
+  educational interview experience that cultivates exploration
+  into career opportunities at Acquia
+
+  You will discover the opportunity to grow your career here
+  and learn from a global team that empowers you to exceed
+  boundaries and achieve the extraordinary.
+
+  Acquia is the digital experience platform built for a world
+  where your audience isn't only human. Its agents too.
+
+  As AI agents become active participants in how people
+  discover, consume, and act on digital content, Acquia gives
+  enterprise teams the platform to create, manage, and
+  distribute experiences designed for both. Powered by agentic
+  AI that orchestrates — not just advises — Acquia automates
+  complex digital workflows within the governance guardrails
+  large organizations require.
+
+  The world's #1 Drupal hosting provider, Acquia brings
+  together Content Management, Digital Asset Management, and
+  Product Information Management in a single AI-powered
+  Command Center: Acquia Source.
+
+  Acquia. Built for every audience, human or otherwise.
+
+  The Role: Acquia is seeking a Staff AI Engineer to join our
+  Data & Intelligence function. Acquia runs one of the largest
+  Drupal and digital experience footprints in the world, and
+  holds more than a decade of operational, product, and
+  customer data across it. This role exists to put that data
+  to work: building the retrieval, graph, and inference layers
+  on top of our data platform, and the agentic and
+  deterministic systems that turn the resulting signals into
+  action for our customers and our teams.
+
+  The remit is broad. Our function spans observability, our
+  core data platform, and insights and intelligence, and you
+  will work across all three alongside the product and
+  platform teams that consume what we build. Scope moves with
+  company priorities, so we are looking for someone
+  comfortable changing context and picking up an unfamiliar
+  problem. Much of what you build will be shared capability
+  that several teams depend on.
+
+  This is a hands-on engineering role. You will spend most of
+  your time designing, building, and shipping production
+  systems, and you will lift the AI engineering capability of
+  the teams around you through the quality of your work rather
+  than through management overhead. We ship early and iterate.
+
+  Key Responsibilities
+
+  - Write and ship production AI code daily. You are an active
+    contributor.
+  - Lead our work on making customer context retrievable at
+    speed, across semantic retrieval, indexing, and knowledge
+    graph approaches over our data platform. An early priority
+    is letting an agent resolve a customer and pull its full
+    context in a single request. Where that work goes from
+    there is partly yours to define.
+  - Build the inference and signal layer: models and processors
+    that read from our Iceberg-based lakehouse, write scored
+    inference back, and expose signals through contracts other
+    teams can build against.
+  - Take signals through to action, turning detected conditions
+    such as churn risk, usage and entitlement mismatch, or
+    expansion opportunity into workflows that act, with human
+    review where that is the right design.
+  - Choose the right tool for each workload: a large model, a
+    small fine-tuned model, or ordinary deterministic code.
+    Managing inference cost is part of the job.
+  - Own evaluation and observability for our AI systems, so we
+    can show a signal is sound before anyone acts on it.
+  - Set the patterns other teams build against, and work with
+    engineering and business leaders to turn company goals
+    into shipped systems.
+
+  How We Think About Experience
+
+  We are more interested in how you learn than in the tools
+  already on your CV. Our stack spans Python, SQL and dbt,
+  distributed query engines, durable workflow orchestration,
+  an Iceberg lakehouse on S3, and a changing mix of model
+  providers and agent frameworks. It will look different in a
+  year. We expect you to arrive without deep expertise in some
+  of it and to close that gap fast, using AI to read
+  unfamiliar codebases and get to a useful contribution before
+  you are fully fluent. Range across languages, data
+  platforms, and model providers counts for more with us than
+  years inside any single one.
+
+  Required Experience
+
+  - 8+ years of software engineering, including 3+ years
+    shipping AI or ML systems to production.
+  - Strong programming fundamentals and deep proficiency in at
+    least one language used for AI and data work. Python is
+    our primary language for ML and insights.
+  - Fluency working with data at scale — advanced SQL, a
+    transformation layer such as dbt, and a distributed query
+    engine over lakehouse or warehouse storage, including
+    reasoning about query cost and partitioning.
+  - Production retrieval and context engineering — embeddings,
+    vector search, hybrid or graph retrieval, and measuring
+    whether retrieval is actually working. Experience
+    modelling entities and relationships across multi-source
+    data is valuable here.
+  - Agentic systems and durable workflows in production, with
+    tool calling, state and memory, and human-in-the-loop
+    patterns. We use Temporal and LangGraph; equivalent
+    experience transfers.
+  - Evaluation and observability for AI systems — tracing,
+    prompt and version management, and dataset-driven testing,
+    whatever the tooling.
+  - Cloud deployment experience (AWS preferred) with
+    containerized services, and ownership of inference cost.
+  - B.S. in Computer Science or equivalent practical experience.
+
+  Desired Skills
+
+  - Experience standing up shared data or ML capability that
+    other teams then built on.
+  - Small and fine-tuned model work, including distilling task-
+    specific models to replace general-model calls at scale.
+  - Observability data fluency: OpenTelemetry, and logs, metrics
+    and traces at very high volume, including what it takes to
+    make that data queryable.
+  - Data governance instincts around access control, lineage,
+    and data residency, treated as part of the design.
+  - Enterprise SaaS or CMS, including familiarity with Acquia's
+    Drupal-based DXP.
+  - Agentic development workflow fluency: AI-assisted coding
+    tools (Claude, Cursor, Copilot) as everyday accelerators,
+    and MCP or similar for connecting agents to real systems.
+  - Strong communication skills — able to present AI system
+    design to both engineers and C-suite stakeholders.
+  - Senior IC track record — known for the quality of your own
+    code and system designs, with mentoring that happens
+    organically through great work, not through meetings.
+
+  We are an organization that embraces innovation and the
+  potential of AI to enhance our processes and improve our
+  work. We are always looking for individuals who are open to
+  learning new technologies and collaborating with AI tools to
+  achieve our goals.
+
+  Acquia is proud to provide best-in-class benefits to help
+  our employees and their families maintain a healthy body and
+  mind. Core Benefits include: competitive healthcare
+  coverage, wellness programs, take it when you need it time
+  off, parental leave, recognition programs, and much more!
+
+  Acquia is an equal opportunity (EEO) employer. Qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, national origin,
+  disability, protected veterans status or any other protected
+  status or characteristic under federal, state or local law
+  unrelated to the ability to perform the job.
+
+  We are seeking an AI-Native candidate who treats AI not as
+  an external tool, but as a fundamental extension of their
+  cognitive workflow. The ideal candidate possesses an
+  orchestration mindset—the ability to skillfully prompt,
+  manage, and direct AI to navigate complexity—and maintains a
+  high degree of AI fluency.
+
+  You should be characterized by radical adaptability and a
+  “builder” mentality, showing a restless drive to transform
+  traditional work processes into agentic workflows. Beyond
+  technical proficiency, we value intellectual humility: the
+  willingness to constantly unlearn old methods in favor of
+  more efficient, AI-augmented processes. You don't just use
+  AI to do your job; you use it to redefine what your job can
+  achieve.
+
+  Pay Range
+
+  $150,000—$200,000 USD
+industries:
+  - AdTech
+  - Cloud
+  - Marketing Tech
+  - Productivity
+  - Software
+  - Analytics
+  - Automation
+posted_date: 2026-09-09
+url: "https://www.builtinla.com/job/staff-ai-engineer/11071286"
+source: Built In

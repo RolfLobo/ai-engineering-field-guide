@@ -1,0 +1,109 @@
+job_id: 11151549
+title: WorkHero - Senior AI Full Stack Engineer (React + Node)
+company: Procedure
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Procedure is hiring for WorkHero.
+
+  WorkHero is building the AI-powered back office for the
+  skilled trades, starting with the $50B+ HVAC industry. Small
+  contractors are great at their trade but lose 20+ hours a
+  week to invoicing, permits, scheduling, and paperwork.
+  WorkHero combines expert office managers with automation and
+  AI tooling, enabling a small team to take real ownership of
+  that back-office work.
+
+  We’re hiring a senior full-stack engineer to build the
+  product experiences and AI systems at the core of
+  WorkHero—from React and React Native workflows to Node
+  services, tool-using agents, and human-review loops. You’ll
+  own systems end to end alongside a small, senior team with
+  deep experience in AI, product, and the trades.
+
+  What you’ll build
+
+  You'll work across the product surface and the AI
+  infrastructure behind it. For example:
+
+  - New product screens and flows (jobs, customers, invoices,
+    scheduling) in React and React Native, especially AI chat
+    UI (chat & tool result rendering, streaming responses,
+    human review and feedback loops)
+  - AI workflows in production: tool-using agents, RAG/search,
+    classification/extraction, and human-in-the-loop flows
+  - Automations: Contribute new features and improvements to our
+    AI-powered business automation platform
+  - Integrations & ingestion: pull data from third-party systems
+    (APIs/webhooks/files)
+  - Evals & monitoring: regression tests for prompts/workflows,
+    quality metrics, drift detection, and cost/latency
+    tracking
+  - Scalable systems: queues and orchestration, retries, data
+    modeling, and API design to support rapid product
+    iteration
+  - UX polish and reliability improvements (loading states, edge
+    cases, accessibility, performance)
+
+  Responsibilities
+
+  - Analyze requirements and propose innovative AI-native
+    solutions to technical problems
+  - Write clean scalable code
+  - Ship full-stack features across React, React Native
+    (frontend) and Node (API/services)
+  - Test and deploy features & services, and optimize the
+    performance of our AI systems
+  - Respond to critical system issues and ensure continuous
+    system reliability
+  - Mentor team members and collaborate across teams, especially
+    with product and subject matter experts
+  - Work to understand the needs of our users and think
+    creatively about how to solve design challenges in your
+    work
+  - This is a Remote role. We expect a minimum of 4 hours
+    overlap with the WorkHero team (11 AM - 3 PM ET).
+
+  Qualifications
+
+  - Experience building and shipping production full-stack
+    systems that you've owned
+  - Strong React fundamentals (or equivalent modern frontend
+    framework experience); React Native a plus
+  - Strong Node.js backend fundamentals (REST and/or GraphQL) in
+    a typed language (TypeScript preferred), plus comfort
+    working across the stack
+  - Hands-on experience with LLM-powered features (usage,
+    prompting, optimization, etc), AI frameworks (Langchain,
+    etc), and AI architectures (RAG, reranking, etc)
+  - Experience building applications on modern databases
+    (MongoDB, Postgres, or equivalent)
+  - The ability to work with infrastructure as code (terraform),
+    cloud, and CI/CD systems. We're a small team, so we own
+    the whole stack!
+  - Excitement to leverage AI coding tools to their maximum
+    benefit. We love Claude Code and Cursor and are constantly
+    looking for better ways to leverage our time to build fast
+    and build for scale.
+
+  Nice to have
+
+  - experience with audio streaming and/or building AI voice
+    features
+  - experience with workflow automation tools like n8n or Lindy
+  - experience with HVAC or back-office business workflows
+  - experience with mobile dev, especially Expo and/or React
+    Native
+  - experience specifically with AWS and how to get the most out
+    of key AWS services
+
+  WorkHero is committed to building a diverse team. We
+  encourage candidates from all backgrounds to apply.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-12
+url: "https://builtin.com/job/workhero-senior-ai-full-stack-engineer-react-node/11151549"
+source: Built In

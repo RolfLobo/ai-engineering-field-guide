@@ -1,0 +1,51 @@
+company:
+  name: Serko Limited
+  stage: null
+  focus: Business travel marketplace and expense technology
+position:
+  title: Senior Software Engineer - Agentic AI Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The engineer integrates LLM APIs and agentic frameworks into
+      product features, building streaming UIs, tool-call results,
+      and agent status displays — designing agent flows
+      themselves. Nice-to-have RAG/vector search and
+      LangChain/LangGraph experience reinforces shaping LLM
+      behaviour, so this is ai-first rather than ai-support.
+  responsibilities:
+  - Build customer-facing AI-powered user experiences with cross-functional partners
+  - Develop full-stack features using React/Next.js frontends and Python/Node.js backends
+  - Integrate LLM APIs and agentic frameworks into product features with streaming
+    UIs and tool-call displays
+  - Design and maintain REST and/or GraphQL APIs supporting user data, sessions, and
+    agent interactions
+  - Write unit, integration, and end-to-end tests and participate in code reviews
+  - Contribute to on-call rotation supporting production systems
+  - Participate in architectural discussions and technical proposals for scalable
+    systems
+  use_cases:
+  - Autonomous agentic workflows for business travel booking
+  - AI-powered customer-facing travel product features
+  - Streaming chat/copilot interfaces with tool-call results
+  - Agent interactions over REST/GraphQL APIs with session management
+  skills:
+    genai: [LLMs, AI Agents, LangChain, LangGraph, RAG, Vector Search, Function Calling]
+    ml: []
+    web: [React, Next.js, REST APIs, GraphQL, WebSockets, SSE]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [Cloud]
+    ops: [CI/CD, Docker]
+    languages: [TypeScript, Python, Node.js, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11154548'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:22:01.814461'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

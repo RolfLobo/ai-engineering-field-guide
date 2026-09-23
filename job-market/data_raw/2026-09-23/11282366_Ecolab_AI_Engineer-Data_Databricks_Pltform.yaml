@@ -1,0 +1,121 @@
+job_id: 11282366
+title: AI Engineer-Data Databricks Pltform
+company: Ecolab
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 29,154 Employees
+description: |
+  - Job Characteristics: Independently design, implement, and
+    deploy intelligent systems powered by large language
+    models (LLMs), agent orchestration frameworks, and
+    embedding-based retrieval solutions. This role blends
+    hands-on engineering with solution thinking — focusing on
+    scalable workflows, cloud-native delivery, and real-world
+    GenAI application integration.Education/Work Experience:
+    Degree and 2-4 years experience.Independence Level/Reports
+    to: Normally reports to AI Engineering Manager.
+  - Additional Job Description Job Description: Databricks
+    Platform EngineerPosition SummaryWe are seeking a highly
+    skilled Databricks Platform Engineer to design, build,
+    configure, integrate, and operationalize enterprise Data &
+    AI solutions on the Databricks platform. This role will be
+    responsible for establishing scalable, secure, and
+    reliable data and AI capabilities, enabling data
+    engineers, data scientists, AI engineers, and business
+    teams to accelerate innovation and deliver business
+    value.The ideal candidate will possess deep expertise in
+    Databricks, cloud platforms, data engineering, MLOps,
+    platform automation, and enterprise integration
+    patterns.Key ResponsibilitiesPlatform Engineering &
+    AdministrationDesign, build, configure, and maintain
+    Databricks workspaces across development, testing, and
+    production environments.Implement platform standards,
+    reusable frameworks, templates, and best practices.Manage
+    Unity Catalog, clusters, SQL Warehouses, compute policies,
+    workspace configurations, and access controls.Automate
+    platform deployment and configuration using Infrastructure
+    as Code (Terraform, CI/CD pipelines).Data Engineering &
+    IntegrationBuild and integrate scalable data pipelines
+    using Databricks Lakehouse architecture.Design ingestion
+    frameworks for batch, streaming, API, database, and file-
+    based integrations.Implement Delta Lake, Structured
+    Streaming, and medallion architecture patterns.Integrate
+    Databricks with enterprise data platforms such as
+    Snowflake, SAP, Oracle, SQL Server, Azure Data Factory,
+    Kafka, and cloud storage services.AI & Machine Learning
+    EnablementEnable ML and Generative AI workloads on
+    Databricks.Implement MLflow, model lifecycle management,
+    feature stores, and model serving capabilities.Support AI
+    engineers and data scientists with scalable development
+    environments.Integrate Databricks with LLMs, vector
+    databases, AI gateways, and enterprise AI
+    platforms.DevOps, DataOps & MLOpsEstablish CI/CD pipelines
+    for data and AI workloads.Implement automated testing,
+    deployment, monitoring, and rollback mechanisms.Create
+    reusable deployment frameworks and engineering
+    accelerators.Support release management and environment
+    promotion processes.Security, Governance &
+    ComplianceImplement enterprise security controls, RBAC,
+    data masking, encryption, and audit logging.Configure and
+    manage Unity Catalog governance policies.Ensure compliance
+    with enterprise security, privacy, and regulatory
+    requirements.Partner with cybersecurity teams to implement
+    platform hardening and vulnerability
+    remediation.Monitoring & Reliability EngineeringImplement
+    platform observability, monitoring, and operational
+    dashboards.Configure logging, alerting, performance
+    monitoring, and incident management processes.Optimize
+    platform performance, cost, scalability, and
+    reliability.Support production operations and resolve
+    platform issues.Collaboration & Technical
+    LeadershipCollaborate with architects, data engineers, AI
+    engineers, security teams, and business
+    stakeholders.Provide technical guidance and platform best
+    practices.Participate in architecture reviews and platform
+    roadmap planning.Mentor junior engineers and contribute to
+    engineering excellence initiatives.Required
+    QualificationsBachelor's or master’s degree in computer
+    science, Engineering, IT, or a related field.5+ years of
+    experience in Data, Platform, or Cloud Engineering.3+
+    years of hands-on experience with the Databricks Lakehouse
+    Platform.Strong expertise in Delta Lake, Unity Catalog,
+    MLflow, Databricks Workflows, Structured Streaming,
+    PySpark, and Spark SQL.Experience working with cloud
+    platforms such as Azure, AWS, or GCP.Proficiency in Python
+    and SQL.Strong knowledge of DevOps, CI/CD, Infrastructure
+    as Code (IaC), and platform automation.Hands-on experience
+    with Terraform, GitHub Actions, Azure DevOps, or
+    equivalent CI/CD tools.Preferred QualificationsExperience
+    with Generative AI, Agentic AI, and LLM-based
+    applications.Experience integrating Databricks with
+    Snowflake and enterprise AI platforms.Knowledge of
+    Kubernetes, Docker, APIs, Kafka, and event-driven
+    architectures.Databricks Certified Professional or
+    Associate certifications.Experience supporting enterprise-
+    scale Data & AI platforms.Key Success MetricsPlatform
+    availability and reliability.Deployment automation and
+    operational efficiency.Security and compliance
+    adherence.Data pipeline performance and scalability.AI/ML
+    platform adoption and productivity improvements.Platform
+    cost optimization and governance effectiveness.Ideal
+    Candidate ProfileA hands-on engineer who can build,
+    configure, integrate, automate, secure, and operationalize
+    Databricks as an enterprise Data & AI platform while
+    enabling scalable DataOps, MLOps, and AI solutions across
+    the organization.One-line executive summary: Own and
+    engineer the Databricks platform end-to-end, enabling
+    enterprise-scale Data, AI, ML, and Agentic AI solutions
+    through automation, integration, governance, security, and
+    operational excellence.
+    - Design, build, configure, and maintain Databricks workspaces
+      across development, testing, and production
+      environments.
+    - Implement platform standards, reusable frameworks,
+      templates, and best practices.
+    - Manage Unity Catalog, clusters, SQL Warehouses, compute
+      policies, workspace configurations, and access controls.
+    - Automate platform deployment and configuration using
+      Infrastructure as Code (Terraform, CI/CD pipelines).
+posted_date: 2026-09-21
+url: "https://builtin.com/job/ai-engineer-data-databricks-pltform/11282366"
+source: Built In

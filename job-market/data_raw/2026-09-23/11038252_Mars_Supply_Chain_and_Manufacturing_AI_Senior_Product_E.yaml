@@ -1,0 +1,164 @@
+job_id: 11038252
+title: Supply Chain and Manufacturing AI Senior Product Engineer
+company: Mars
+location: CAN
+locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - GBR
+  - Mars, USA
+  - Singapore, SGP
+remote: true
+work_type: FULL_TIME
+company_size: 41,866 Employees
+description: |
+  Job Description:
+
+  We are seeking a high-caliber Supply Chain & Manufacturing
+  Forward Deployed AI Engineer to lead rapid prototyping,
+  discovery, and proof-of-concept (PoC) delivery. In this
+  role, the incumbent will actively de-risk the design,
+  development, integration, testing, and delivery of
+  production-ready, AI-powered solutions across our global
+  Supply Chain and Manufacturing functions.
+
+  This is a unique, highly impactful hybrid role, combining
+  agile software delivery, frontline business engagement,
+  hands-on AI product engineering, and modern AI/ML systems
+  architecture. The ideal candidate will embed directly with
+  frontline operations at the point of solution consumption to
+  intimately understand operational bottlenecks, translate
+  them into structured technical requirements, and write the
+  critical lines of code that drive tangible business value.
+
+  The ideal candidate is equally comfortable facilitating
+  workshops on the manufacturing floor, managing rapid agile
+  delivery cycles, designing technical architecture, and
+  writing robust, clean Python code.
+
+  Key Responsibilities
+
+  Frontline Engagement & Discovery
+
+  - On-Site Discovery: Partner directly with frontline Supply
+    Chain, Manufacturing, Logistics, Procurement, and Planning
+    teams to intimately map out operational bottlenecks
+  - Translate Ambiguity: Facilitate discovery workshops and
+    process reviews to translate messy business problems into
+    clean user stories, functional specs, and technical data
+    models
+  - Own the Agile Lifecycle: Act as the Scrum Master for your
+    prototyping work, managing backlog prioritization, rapid
+    feedback iterations, risks, dependencies, and assumptions.
+
+  Rapid AI Prototyping & Development
+
+  - Code & Deploy: Design, write, and deploy robust working
+    prototypes using Python and modern cloud technologies
+  - Build Advanced AI Architectures: Construct enterprise-grade
+    Retrieval-Augmented Generation (RAG) pipelines, semantic
+    search engines, and multi-agent system workflows
+  - Design for Scale: Focus on engineering prototypes that are
+    "designed for scale" to ensure seamless code transition
+    and handoff to core engineering teams
+  - Reusable Tooling: Build reusable AI components, libraries,
+    and accelerators to streamline future supply chain use
+    cases
+
+   Systems Integration & Data Engineering
+
+  - Platform Connections: Design and build API integrations
+    connecting AI applications directly to shop-floor
+    platforms (e.g., Poka, Weaver, MES)
+  - Enterprise Infrastructure: Integrate AI systems with core
+    enterprise platforms (SAP ERP), document repositories, and
+    knowledge bases
+  - Data Pipelines: Ingest, clean, structure, and connect messy,
+    real-world data from databases, telemetry streams, and
+    unstructured files
+  - Cross-Functional Security: Partner with Security, Data, and
+    Architecture teams to ensure robust, compliant, and secure
+    integration patterns.
+
+  Typical Use Cases
+
+  - Intelligent Manufacturing Knowledge Assistants integrated
+    with platforms like Poka and Weaver to assist line
+    operators.
+  - AI-Powered Shopfloor Voice Assistants & hands-free Standard
+    Operating Procedure (SOP) guidance.
+  - Supplier & Procurement Intelligence Solutions utilizing
+    agentic workflows to parse contracts and market data.
+  - Predictive Decision Support Systems for complex Supply Chain
+    Planning and Logistics network optimization.
+  - Multi-Agent Digital Workers automating complex document
+    analysis, compliance checks, and operational reporting.
+
+  Career Growth:
+
+  This role will be an excellent fit for someone who:
+
+  - Enjoys solving varied, real-world problems.
+  - Likes interacting with customers and understanding business
+    needs.
+  - Wants to work on cutting-edge AI applications rather than
+    purely research.
+  - Thrives in fast-paced environments where you own projects
+    from design to deployment.
+
+  Required Qualifications
+
+  - Education: Bachelor’s degree in Computer Science,
+    Engineering, Information Systems, Supply Chain,
+    Manufacturing, or a highly quantitative field.
+  - Experience: 5+ years of professional experience delivering
+    software, advanced analytics, or digital transformation
+    initiatives with at least 2+ years of hands-on experience
+    building GenAI solutions.
+  - Domain Expertise: Experience working inside Supply Chain,
+    Manufacturing, Operations, Logistics, or Industrial
+    environments
+  - Core Software & AI Stack:
+    - Production-grade Python and clean coding practices
+    - Hands-on experience with modern AI/ML tooling: LLM APIs
+      (GPT-4, Gemini, Claude), vector databases, and
+      frameworks like LangChain, LangGraph, or LlamaIndex
+    - Experience with cloud platforms (e.g., Azure OpenAI, Google
+      Cloud/Vertex AI)
+  - Core Data Skills: Strong SQL skills with the ability to
+    query, manipulate, and validate complex enterprise
+    datasets
+  - Delivery & Soft Skills: Superb communication and
+    facilitation skills. Comfortable walking a manufacturing
+    floor, gaining trust from operators, and presenting
+    technical architectures to executive leadership
+
+  Preferred Qualifications
+
+  - Hands-on experience with enterprise ERP systems (SAP) and
+    industrial systems (Poka, Weaver, MES)
+  - Experience with AI Evaluation and Guardrail frameworks
+    (e.g., Ragas, TruLens, Phoenix) to systematically evaluate
+    model outputs
+  - Strong engineering discipline: familiarity with version
+    control (Git/GitHub), containerization (Docker), and basic
+    CI/CD workflows
+  - Experience with data pipelines/analytics platforms (e.g.,
+    Snowflake, Databricks, Apache Spark, Airflow)
+
+  Success Measures
+
+  - Velocity & Outcome Ownership: Swiftly converting ambiguous
+    user pain points into functional, de-risked AI prototypes
+  - High Adoption & Smooth Handoff: High transition rate of
+    validated prototype code to core engineering teams for
+    full-scale production
+  - Measurable Business Value: Delivering clear, quantifiable
+    improvements to operational metrics (e.g., reduction in
+    line downtime, faster SOP lookups, improved logistics
+    query speed).
+posted_date: 2026-09-07
+url: "https://builtin.com/job/supply-chain-and-manufacturing-ai-senior-product-engineer/11038252"
+source: Built In

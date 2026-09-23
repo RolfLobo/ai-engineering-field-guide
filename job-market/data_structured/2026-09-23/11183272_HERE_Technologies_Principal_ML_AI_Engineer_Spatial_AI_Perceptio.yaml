@@ -1,0 +1,63 @@
+company:
+  name: HERE Technologies
+  stage: null
+  focus: Location data and digital mapping technology platform
+position:
+  title: Principal ML & AI Engineer (Spatial AI & Perception)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role shapes model behaviour through custom training of
+      perception models (BEVFormer/BEVFusion, occupancy networks),
+      quantisation, and architecture choices. These are classical
+      computer-vision/deep-learning models with no LLM or agent
+      component, so it is ml-first.
+  responsibilities:
+  - Develop and train perception models for lane detection, road boundaries, traffic
+    signs, and road surface attributes
+  - Build BEV-based scene representation models and run large-scale distributed training
+    with geospatial priors
+  - 'Own model optimisation for edge deployment: ONNX export, TensorRT/QNN compilation,
+    quantisation, compression, accuracy recovery'
+  - Profile and benchmark models on embedded hardware, identifying latency, throughput,
+    and memory bottlenecks
+  - Build automated regression pipelines and design rigorous experiments including
+    A/B tests and ablations
+  - Validate synthetic training data for quality and coverage gaps
+  - Partner with research, simulation, and technical leadership on perception output
+    requirements; mentor junior engineers
+  use_cases:
+  - Lane detection and road boundary perception
+  - Traffic sign and traffic light recognition
+  - Road surface attribute extraction
+  - BEV scene representation for ADAS/AD driving
+  - Turning map and drive data into reusable spatial intelligence for model training
+    and validation
+  skills:
+    genai: []
+    ml: [PyTorch, Deep Learning, Model Training, Quantization, Multi-Task Learning,
+      Embeddings, Transformers]
+    web: []
+    databases: []
+    data: [Synthetic Data]
+    cloud: [Distributed Training]
+    ops: [TensorRT, ONNX, Weights & Biases, MLflow]
+    languages: []
+    domains: [Computer Vision]
+    other: [DDP, FSDP, Mixed Precision, BEVFormer, BEVFusion, Occupancy Networks,
+      QAT, PTQ, Qualcomm Snapdragon Ride, NVIDIA Orin, TI TDA4, Automotive SoCs, Edge
+        Deployment]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11183272'
+  location: Berlin, DEU
+  locations:
+  - Berlin, DEU
+  - Munich, DEU
+  - Amsterdam, NLD
+  - Frankfurt am Main, DEU
+  - Schwalbach, DEU
+  extracted_at: '2026-09-23T11:24:47.056979'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

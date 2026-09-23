@@ -1,0 +1,182 @@
+job_id: 11247765
+title: "AI Solutions & Automation Engineer"
+company: Ateme
+location: GEO
+locations:
+  - GEO
+  - Hanoi, VNM
+  - Milan, ITA
+  - Bucharest, ROU
+  - New Delhi, IND
+  - Cluj-Napoca, ROU
+  - Mumbai, IND
+  - Belgrade, SRB
+remote: true
+work_type: FULL_TIME
+company_size: 38800 Employees
+description: |
+  About the Company
+
+  If you have ever watched television or enjoyed a movie on
+  your phone or tablet, this experience was likely brought to
+  you through an Ateme solution created by our award-winning
+  engineering teams.
+
+  Ateme (PARIS: ATEME) is the global leader in video delivery,
+  partnering with top content and service providers, and
+  streaming platforms like Netflix.
+
+  Through our cutting-edge R&D and innovation, we enable
+  clients to deliver high-quality video experiences on any
+  device, boosting engagement and revenue.
+
+  Guided by a robust CSR policy, we are committed to making
+  the entertainment and video experience captivating, greener,
+  accessible to everyone, while promoting our employees’ well-
+  being and ethical business practices.
+
+  At Ateme, we prioritize innovation, collaboration,
+  empowerment, agility, and diverse contributions.
+
+  Join us and help shape the future of video delivery!
+
+  Ateme is looking for a permanent AI Solutions & Automation
+  Engineer to design, develop, and deploy internal tools that
+  reduce repetitive tasks, streamline access to information,
+  and improve team efficiency, particularly across Sales, Pre-
+  Sales, Support, Product, and Operations.
+
+  Your role will sit at the intersection of full-stack
+  development, generative AI, automation, and business
+  understanding. You will work from real business needs to
+  develop reliable, measurable solutions that are easy for
+  teams to adopt.
+
+  Key Responsibilities
+
+  - Identify and prioritize use cases: Work directly with
+    business teams to understand their processes, identify
+    low-value or repetitive tasks, and define the expected
+    benefits.
+  - Prototype quickly: Design proofs of concept and usage-
+    focused MVPs, test them with users, and iterate based on
+    feedback.
+  - Develop end-to-end internal tools: Build user interfaces,
+    backend services, workflows, agents, and integrations
+    through to operational deployment.
+  - Connect enterprise systems: Integrate solutions with
+    Microsoft 365, Salesforce, Jira, Confluence, SharePoint,
+    and other approved data sources while respecting access
+    rights and permissions.
+  - Industrialize solutions: Implement testing, CI/CD,
+    observability, documentation, version management, support,
+    and continuous improvement.
+  - Ensure security and responsible AI: Apply data protection,
+    confidentiality, traceability, human oversight, and risk
+    management requirements.
+  - Measure impact: Define adoption, quality, and operational
+    efficiency metrics with business teams and track the value
+    delivered after deployment.
+  - Build reusable solutions: Document components and agents,
+    avoid duplication, and contribute to a shared architecture
+    that enables solutions to be reused across multiple teams.
+
+  Examples of Solutions you may build
+
+  - Assistants for meeting preparation, meeting summaries, and
+    action tracking.
+  - Intelligent search across commercial and technical
+    documentation.
+  - Automation of RFP responses and generation of scoping
+    documents.
+  - Tools to support proposal preparation, opportunity tracking,
+    and consolidation of information from multiple sources.
+  - Support agents capable of suggesting contextualized
+    resolutions and enriching the knowledge base.
+  - Simple internal applications to automate checks,
+    calculations, reporting, and recurring workflows.
+
+  Required Skills and Experience
+
+  You hold a Master’s degree (Bac+5), engineering degree, or
+  equivalent qualification, and have at least 5 years of
+  relevant experience in application development, automation,
+  or the implementation of AI solutions in an enterprise
+  environment.
+
+  - Full-stack development: Python and/or TypeScript, REST APIs,
+    web applications, databases, and user-focused interface
+    design.
+  - Generative AI and agents: LLMs, prompt engineering, RAG,
+    semantic search, tool calling, orchestration, and response
+    quality evaluation.
+  - Integration: OAuth 2.0 / OIDC, SSO, enterprise APIs and
+    connectors, identity and permission management.
+  - Cloud & DevOps: Docker, Git, CI/CD, automated testing,
+    logging, monitoring, and deployment on cloud or internal
+    platforms.
+  - Product thinking: Ability to start from a business need,
+    define an MVP, balance simplicity and robustness, and
+    support user adoption.
+  - Security & governance: Good practices in data protection,
+    secrets management, auditability, human oversight, and
+    documentation.
+
+  Additionall Skills that would be an advantage
+
+  - Microsoft Copilot Studio, Power Platform, Microsoft Graph,
+    Azure AI, or Azure OpenAI.
+  - Salesforce, Jira, Confluence, SharePoint, Dataverse, or
+    Fabric.
+  - Agent interoperability protocols and standards, particularly
+    MCP.
+  - Experience in media, video, B2B SaaS, or enterprise software
+    environments.
+  - UX practices, change management, and user training.
+
+  How your work matters
+
+  Curiosity, pragmatism, autonomy, and a results-oriented
+  mindset are essential. You enjoy understanding how people
+  actually work, simplifying complex problems, and delivering
+  useful solutions.
+
+  You can clearly explain your decisions, collaborate with
+  both technical and non-technical stakeholders, experiment
+  quickly without compromising security, and understand that a
+  solution only creates value when people actually use it.
+
+  Location
+
+  We consider different locations in Europe and Asia (our
+  offices locations) but we do not consider 100% remote. This
+  job is not eligible for mobility or relocation
+  opportunities.
+
+  At Ateme, onboarding is much more than a process. It is a
+  complete experience designed to set you up for success:
+  immersive training, regular meetings with your manager and
+  HR, a collaborative culture, and stimulating projects.
+
+  Join us for a rewarding professional journey where your
+  development and success matter.
+
+  Compensation & Benefits
+
+  - Compensation based on experience
+  - Hybrid working model
+  - Bonuses: performance bonus, employee referral bonus, etc.
+  - Access to our internal training platform, including video
+    technologies, Kubernetes, AWS, and more
+  - International collaboration with Business, IT, Product, R&D,
+    and Security teams
+
+  To learn more about Ateme, visit our corporate website:
+
+  www.ateme.com
+industries:
+  - Digital Media
+  - Software
+posted_date: 2026-09-18
+url: "https://builtin.com/job/ai-solutions-automation-engineer/11247765"
+source: Built In

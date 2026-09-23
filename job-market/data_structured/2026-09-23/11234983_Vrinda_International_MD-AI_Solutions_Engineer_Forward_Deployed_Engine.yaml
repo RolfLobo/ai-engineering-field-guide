@@ -1,0 +1,44 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: IT services and AI/GenAI enterprise solutions
+position:
+  title: MD-AI Solutions Engineer / Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG and prompt engineering solutions and
+      builds LLM applications directly for clients, which is
+      shaping model behavior. Forward Deployed Engineers adapting
+      AI solutions at customer sites are ai-first.
+  responsibilities:
+  - Build AI and Generative AI solutions for enterprise clients
+  - Design RAG pipelines and engineer prompts for LLM applications
+  - Develop LLM-based applications using Python and APIs
+  - Architect solutions and integrate systems with clients
+  - Debug, deploy, and support AI systems in production
+  - Provide customer-facing technical consulting
+  use_cases:
+  - Enterprise Generative AI applications
+  - RAG-based retrieval and question answering systems
+  - LLM-powered business solutions
+  - Enterprise system integration with AI capabilities
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: [APIs, REST APIs, Microservices]
+    ml: []
+    ops: []
+    other: [System Design, System Integration, Technical Consulting]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python]
+    genai: [Generative AI, LLMs, RAG, Prompt Engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11234983'
+  location: Renapur, IND
+  extracted_at: '2026-09-23T11:30:27.502742'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

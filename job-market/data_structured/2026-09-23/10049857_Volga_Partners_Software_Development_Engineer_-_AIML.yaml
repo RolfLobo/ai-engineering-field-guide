@@ -1,0 +1,53 @@
+company:
+  name: Volga Partners
+  stage: null
+  focus: Software development and AI/LLM engineering services
+position:
+  title: Software Development Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building prompt management, model routing,
+      response validation, guardrails, and LLM integration
+      patterns directly — this is shaping model behavior and
+      output quality, with clear LLM components.
+  responsibilities:
+  - Build and maintain Python backend services and internal tools for AI-powered applications
+  - Integrate LLM APIs into production workflows including prompt handling, response
+    processing, validation, and retries
+  - Design and implement scalable REST APIs, async workflows, and background job systems
+  - Develop systems for prompt management, model routing, response validation, and
+    failure handling
+  - Maintain and enhance components of a multi-language codebase (C#/C++, Python,
+    web technologies)
+  - Monitor system performance using telemetry tools and resolve bottlenecks
+  - Automate recurring workflows related to data processing, evaluation, and reporting
+  - Contribute to architecture decisions around scalability, performance, and safe
+    use of AI systems
+  use_cases:
+  - Production LLM integration into real-world workflows
+  - Prompt management and model routing systems
+  - Response validation and failure handling for AI features
+  - Data processing and evaluation automation
+  - AI-powered backend services at scale
+  skills:
+    genai: [Prompt Engineering, Guardrails, LLMs, RAG, Embeddings, Vector Databases]
+    ml: []
+    web: [REST APIs, .NET Web API, ASP.NET, React]
+    databases: [SQL Server]
+    data: []
+    cloud: [Azure, AWS]
+    ops: [Azure DevOps, Git, Docker, Terraform, Elastic Stack, Model Monitoring]
+    languages: [Python, C#, C++, JavaScript, TypeScript, SQL]
+    domains: []
+    other: [Microservices, Distributed Systems, xUnit, Entity Framework, Postman,
+      Swagger, Make, Ninja, Bootstrap, Ajax]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10049857'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T10:57:29.612772'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

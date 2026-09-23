@@ -1,0 +1,46 @@
+company:
+  name: Cognitive Media
+  stage: null
+  focus: Interactive AI applications for businesses
+position:
+  title: Full-Stack Developer — AI Applications & Integrations
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds full-stack applications that integrate pre-
+      built AI services and APIs; the description gives no
+      evidence of the person shaping model behaviour (no prompt
+      design, RAG, agent flows, or fine-tuning). AI is named as an
+      interest and integration target plus AI coding tools (Claude
+      Code), which is ai-support.
+  responsibilities:
+  - Build customer-facing features for interactive AI applications
+  - Develop backend functionality and connect services
+  - Integrate APIs, AI services, databases, and business tools
+  - Improve reliability and usability of applications
+  - Take features from requirements through implementation, debugging, and deployment
+  - Use AI coding tools like Claude Code in the development process
+  - Collaborate with other developers
+  use_cases:
+  - Interactive AI applications for businesses
+  - Customer-facing AI product features
+  - Integrations between AI services, databases, and business tools
+  skills:
+    genai: [Claude Code]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [AI Services]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11294592'
+  location: Beverly Hills, USA
+  extracted_at: '2026-09-23T11:36:26.412561'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

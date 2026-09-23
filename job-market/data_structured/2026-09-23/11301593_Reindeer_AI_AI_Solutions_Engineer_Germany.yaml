@@ -1,0 +1,53 @@
+company:
+  name: Reindeer AI
+  stage: null
+  focus: Agentic AI platform for enterprise workflow automation
+position:
+  title: AI Solutions Engineer (Germany)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role configures and integrates AI agents into customer
+      workflows and owns ensuring models meet performance/business
+      value expectations, which is shaping agentic (LLM) systems.
+      It also includes judging model output quality during
+      deployment. Forward-deployed-style role adapting AI agents
+      at customer sites is explicitly ai-first.
+  responsibilities:
+  - Engage with enterprise customers post-close to understand workflows, processes,
+    and deployment requirements
+  - Translate business findings into implementation plans for AI-powered solutions
+  - Assess customer data readiness and configure/integrate AI components into tailored
+    workflows
+  - Collaborate with R&D to close data gaps and extend product capabilities
+  - Own end-to-end solution deployment and ensure models meet performance and business
+    value expectations
+  - Define success metrics and drive post-launch adoption
+  - Lead integrations with enterprise systems (Finance, ERP, email) with attention
+    to scalability and security
+  - Guide customers through security, compliance, and IT approval processes
+  use_cases:
+  - Enterprise workflow automation with AI agents
+  - AI-driven finance and ERP process operations
+  - Post-sale AI deployment and adoption in enterprise environments
+  - Integrating AI agents into enterprise systems like Finance, ERP, and email platforms
+  skills:
+    genai: [AI Agents, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud]
+    ops: []
+    languages: []
+    domains: []
+    other: [Enterprise System Integration, Process Mining, Workflow Mapping]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11301593'
+  location: DEU
+  remote: true
+  extracted_at: '2026-09-23T11:35:51.025437'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

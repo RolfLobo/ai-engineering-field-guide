@@ -1,0 +1,238 @@
+job_id: 9962538
+title: "Principal Engineer, AI Retrieval & Knowledge Platforms"
+company: LPL Financial
+location: Austin, USA
+locations:
+  - Austin, USA
+  - New York, USA
+  - Fort Mill, USA
+  - Charlotte, USA
+work_type: FULL_TIME
+company_size: 8,926 Employees
+description: |
+  Where Ambition Meets Innovation
+
+  Build a career that matches all your initiative with an
+  impressive dose of innovation. From cutting-edge resources
+  and a collaborative environment to the freedom to make an
+  impact and more, you’ll find the ingredients you need at LPL
+  Financial to shape your success while helping clients pursue
+  their financial goals.
+
+  Job Overview:
+
+  The Principal Engineer, AI Retrieval & Knowledge Platform
+  will design and build core AI knowledge infrastructure that
+  powers intelligent applications across the enterprise.
+
+  This role focuses on distributed systems, retrieval
+  architectures, and AI platform services, enabling
+  applications and agents to discover, retrieve, and reason
+  over large-scale enterprise data. You will work at the
+  intersection of search, vector retrieval, LLMs, and real-
+  time data systems, building high-performance platforms used
+  by AI and application teams.
+
+  The ideal candidate is a strong backend/platform engineer
+  with deep experience in building scalable systems and modern
+  AI-powered retrieval architectures.
+
+  Responsibilities:
+
+  AI Retrieval & Search Platform
+
+  - Design and build high-scale retrieval systems combining
+    keyword search, semantic search, and vector-based
+    retrieval.
+  - Develop RAG (Retrieval-Augmented Generation) infrastructure
+    including indexing, retrieval, ranking, and context
+    assembly.
+  - Build and optimize search indices, vector stores, and hybrid
+    retrieval systems for relevance, latency, and scale.
+  - Implement advanced ranking, relevance tuning, and
+    personalization pipelines.
+
+  Data Pipelines & Indexing Systems
+
+  - Build streaming and batch pipelines for ingesting and
+    transforming structured and unstructured data.
+  - Develop enrichment pipelines (chunking, embeddings, metadata
+    extraction, classification).
+  - Design systems for real-time indexing, incremental updates,
+    and freshness guarantees.
+  - Optimize data flow, storage, and compute efficiency at
+    scale.
+
+  AI Platform Services & APIs
+
+  - Build low-latency, highly available APIs that expose
+    retrieval and knowledge services to applications and AI
+    agents.
+  - Develop reusable SDKs and service abstractions for easy
+    integration into product teams.
+  - Enable context retrieval, query understanding, and response
+    augmentation for downstream AI systems.
+  - Establish patterns for multi-tenant, scalable platform
+    services.
+
+  LLM & Intelligent Systems Integration
+
+  - Integrate LLMs with retrieval systems to enable grounded,
+    context-aware experiences.
+  - Build systems for context construction, prompt augmentation,
+    and response orchestration.
+  - Implement evaluation frameworks for relevance, grounding
+    quality, and user experience.
+  - Support use cases like AI assistants, copilots, search
+    experiences, and automation agents.
+
+  Performance, Scalability & Reliability
+
+  - Design for low-latency (<100ms retrieval), high-throughput,
+    and horizontal scalability.
+  - Implement caching, sharding, and distributed query execution
+    strategies.
+  - Build observability pipelines (metrics, logs, tracing) for
+    system performance and usage insights.
+  - Drive resiliency, fault tolerance, and system reliability at
+    scale.
+
+  Technical Leadership
+
+  - Lead design and architecture of large-scale AI platform
+    components.
+  - Mentor engineers on distributed systems, retrieval
+    architectures, and AI engineering practices.
+  - Drive adoption of modern engineering practices (CI/CD,
+    infrastructure-as-code, automated testing).
+  - Partner with AI, data, and product teams to shape next-gen
+    intelligent platform capabilities.
+
+  What are we looking for?
+
+  We’re looking for strong collaborators who deliver
+  exceptional client experiences and thrive in fast-paced,
+  team-oriented environments. Our ideal candidates pursue
+  greatness, act with integrity, and are driven to help our
+  clients succeed. We value those who embrace creativity,
+  continuous improvement, and contribute to a culture where we
+  win together and create and share joy in our work.
+
+  Requirements:
+
+  - Minimum of 8 years building large-scale backend, platform,
+    or distributed systems.
+  - Hands-on experience building search platforms, retrieval
+    systems, indexing pipelines, knowledge systems, or
+    recommendation platforms.
+  - Strong knowledge of APIs, microservices, Kubernetes,
+    containers, CI/CD, and distributed data
+    processing.Experience programming skills in Java, Python,
+    or Go.
+  - Experience building enterprise platforms in highly regulated
+    environments such as:Wealth ManagementBrokerage / Broker-
+    DealerBankingCapital MarketsInsuranceFinTechHealthcare
+    - Wealth Management
+    - Brokerage / Broker-Dealer
+    - Banking
+    - Capital Markets
+    - Insurance
+    - FinTech
+    - Healthcare
+
+  Core Competencies:
+
+  - RAG (Retrieval Augmented Generation)
+  - Semantic Search
+  - Vector Databases
+  - Embeddings
+  - LLM Integration Patterns
+  - Knowledge Graphs
+  - Real-Time Data Platforms
+  - Kafka / Streaming Systems
+  - Observability and Monitoring
+  - Platform APIs
+  - Event-Driven Architecture
+  - Multi-Tenant Platform Design
+
+  Preferences:
+
+  - Experience building AI platforms, copilots, or agent-based
+    systems.
+  - Experience with cloud platforms and containerized
+    environments (Kubernetes).
+  - Experience with Elasticsearch/OpenSearch, vector databases,
+    or hybrid retrieval architectures.
+  - Familiarity with RAG systems, embeddings, and LLM
+    integration patterns.
+  - Experience with real-time data systems (Kafka, streaming
+    pipelines).
+  - Strong understanding of performance optimization in
+    distributed systems.
+  - Financial Services, Wealth Management, Brokerage, or Advisor
+    Technology experience.
+
+
+
+  Pay Range:
+
+  $115,154.00 - $191,889.00 Actual base salary varies based on
+  factors, including but not limited to, relevant skill, prior
+  experience, education, base salary of internal peers,
+  demonstrated performance, and geographic location.
+  Additionally, LPL Total Rewards package is highly
+  competitive, designed to support your success at work, at
+  home, and at play – such as 401K matching, health benefits,
+  employee stock options, paid time off, volunteer time off,
+  and more. Your recruiter will be happy to discuss all that
+  LPL has to offer!
+
+
+  Company Overview:
+
+  LPL Financial Holdings Inc. (Nasdaq: LPLA) is among the
+  fastest growing wealth management firms in the U.S. As a
+  leader in the financial advisor-mediated marketplace(6) ,
+  LPL supports over 32,000 financial advisors and the wealth
+  management practices of approximately 1,100 financial
+  institutions, servicing and custodying approximately $2.3
+  trillion in brokerage and advisory assets on behalf of
+  approximately 8 million Americans. The firm provides a wide
+  range of advisor affiliation models, investment solutions,
+  fintech tools and practice management services, ensuring
+  that advisors and institutions have the flexibility to
+  choose the business model, services, and technology
+  resources they need to run thriving businesses. For further
+  information about LPL, please visit www.lpl.com.
+
+  At LPL, independence means that advisors and institution
+  leaders have the freedom they deserve to choose the business
+  model, services, and technology resources that allow them to
+  run a thriving business. They have the flexibility to do
+  business their way. And they have the freedom to manage
+  their client relationships, because they know their clients
+  best. Simply put, we take care of our advisors and
+  institutions, so they can take care of their clients.
+
+  For further information about LPL, please visit www.lpl.com.
+
+  Join the LPL team and help us make a difference by turning
+  life’s aspirations into financial realities. Please log in
+  or create an account to apply to this position. Principals
+  only. EOE.
+
+  Information on Interviews:
+
+  LPL will only communicate with a job applicant directly from
+  an @lplfinancial.com email address and will never conduct an
+  interview online or in a chatroom forum.  During an
+  interview, LPL will not request any form of payment from the
+  applicant, or information regarding an applicant’s bank or
+  credit card.  Should you have any questions regarding the
+  application process, please contact LPL’s Human Resources
+  Solutions Center at (855) 575-6947.
+
+  EAC 5.19.26
+posted_date: 2026-08-16
+url: "https://builtin.com/job/sr-ai-platform-engineer-retrieval-knowledge-systems/9962538"
+source: Built In

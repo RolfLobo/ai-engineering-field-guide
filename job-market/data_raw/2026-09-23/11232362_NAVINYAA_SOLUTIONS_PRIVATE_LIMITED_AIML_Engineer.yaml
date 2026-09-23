@@ -1,0 +1,81 @@
+job_id: 11232362
+title: AI/ML Engineer
+company: NAVINYAA SOLUTIONS PRIVATE LIMITED
+location: Doddaballapura, IND
+work_type: FULL_TIME
+company_size: 4 Employees
+description: |
+  Role Overview: We are seeking a highly skilled AI/ML
+  Engineer to lead the development, scaling, and
+  productionization of our advanced AI Agent ecosystem. In
+  this role, you will be responsible for orchestrating multi-
+  agent LLM systems and developing machine learning models to
+  analyze complex clinical data for our maternal-care
+  platform.
+
+  You will directly oversee and mature three critical
+  intelligent agents: Agent 1 production billing
+  reconciliation and payer eligibility), Agent 2 navigation
+  automation), and Agent 3 clinical pattern recognition
+  executing against an 11K+ escalation corpus).
+
+  Key Responsibilities:
+
+  - Agent
+       Orchestration: Design, build, and optimize multi-agent
+  workflows using TypeScript/Node.js to call enterprise LLM
+  APIs.
+  - ML
+       Pattern Recognition: Develop and train specialized
+  Python-based machine learning pipelines to ingest and detect
+  anomalies, trends, and risk indicators within an 11K+
+  clinical escalation corpus.
+  - Agent
+       Lifecycle Management: Maintain and iteratively improve
+  Agent 1 (cross-reconciliation across PCM/BHI/RPM/CCM),
+  advance Agent 2 through its deployment phases, and mature
+  Agent 3 from build to production readiness.
+  - Data
+       Pipeline Integration: Work closely with the data
+  engineering team to process structured and unstructured data
+  via Snowflake (Snowpark / Python APIs) and ensure data
+  compliance with HIPAA standards for handling Protected
+  Health Information (PHI).
+  - System
+       Performance & Evaluation: Establish strict evaluation
+  frameworks (evals) for LLM outputs to guarantee clinical
+  safety, accuracy, and mitigation of hallucinations in triage
+  recommendation queues.
+
+  Requirements
+
+  Required Technical Skills & Qualifications:
+
+  - Languages: Advanced proficiency in Python (for ML data
+    science workloads) and TypeScript
+       / Node.js (for backend orchestration and API
+  integration).
+  - AI/LLM
+       Frameworks: Strong experience with LLM orchestration
+  frameworks (e.g., LangChain, LlamaIndex, or LangGraph) and
+  commercial/open-source LLM APIs.
+  - Machine
+       Learning NLP: Deep understanding of Natural Language
+  Processing (NLP), text embedding generation, vector
+  databases, and pattern-recognition techniques applied to
+  unstructured text datasets.
+  - Data
+       Stack: Hands-on experience with Snowflake and Snowpark
+  using Python APIs.
+  - Healthcare
+       Domain (Highly Preferred): Familiarity with US
+  healthcare compliance, HIPAA data privacy requirements, and
+  navigating clinical nomenclature.
+industries:
+  - Information Technology
+  - Professional Services
+  - Consulting
+  - Financial Services
+posted_date: 2026-09-17
+url: "https://builtin.com/job/ai-ml-engineer/11232362"
+source: Built In

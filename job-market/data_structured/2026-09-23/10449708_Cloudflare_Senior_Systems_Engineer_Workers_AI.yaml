@@ -1,0 +1,51 @@
+company:
+  name: Cloudflare
+  stage: null
+  focus: Global network and Internet security/performance services
+position:
+  title: Senior Systems Engineer, Workers AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates the inference infrastructure
+      (scheduling, routing, KV cache management, cold starts,
+      reliability) serving models others build. Serving, hosting,
+      and scaling models the person does not shape is ai-support
+      even though LLMs are named.
+  responsibilities:
+  - Develop and maintain core components of the serverless AI inference platform for
+    high availability and scalability
+  - Optimize model scheduling and request routing logic to improve efficiency and
+    reduce latency
+  - Improve platform reliability and resilience by identifying and mitigating systemic
+    risks
+  - Expand observability stack (metrics, logging, tracing) and refine alerting
+  - Lead complex cross-functional technical projects from design through deployment
+  - Mentor junior engineers and build collaborative engineering culture
+  use_cases:
+  - Serverless AI inference platform at the network edge
+  - Real-time voice inference serving
+  - Serving frontier open LLMs globally
+  - Customer-deployed model serving on a heterogeneous GPU fleet
+  skills:
+    genai: [LLMs]
+    ml: [Diffusion Models]
+    web: [WebSockets]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Model Deployment, Kubernetes, Monitoring]
+    languages: [Rust]
+    domains: []
+    other: [Load Balancing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10449708'
+  location: Austin, USA
+  locations:
+  - Austin, USA
+  - London, GBR
+  extracted_at: '2026-09-23T10:59:42.617967'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,78 @@
+company:
+  name: DoiT
+  stage: null
+  focus: Multicloud intelligence, optimization and FinOps services
+position:
+  title: Senior Full-Stack Engineer - AI Cost Visibility- Romania(Remote)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds the product's full-stack (Go services, APIs,
+      React UI) for AI cost visibility. AI is used as a tool in
+      their workflow and AI spend is the data domain, but the
+      engineer does not shape model behavior, prompts, retrieval,
+      or agent flows as the product. So classification is ai-
+      support.
+  responsibilities:
+  - Own features end-to-end from customer pain through design, implementation, release,
+    monitoring and iteration
+  - 'Understand AI spend domain: token and model pricing, inference and GPU economics,
+    usage rollups to teams'
+  - Work AI-augmented daily across the engineering workflow including agentic tooling
+  - Design, build and scale backend services in Go and product experiences in TypeScript
+    and React
+  - Build capabilities API-first so both humans and agents can drive the platform
+  - Set engineering standards through design reviews, guardrails and mentoring peers
+  use_cases:
+  - AI cost visibility and spend analytics for cloud customers
+  - Tracking spend on model APIs, managed inference, GPUs and agentic coding tools
+  - Usage rollups by workload, team and initiative for FinOps decision-making
+  - Interfaces for FinOps practitioners and platform engineers to base financial decisions
+    on
+  skills:
+    genai: []
+    ml: []
+    web: [React, APIs]
+    databases: [BigQuery]
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: []
+    languages: [Go, TypeScript, SQL]
+    domains: []
+    other: [FinOps]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11127674'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-09-23T11:19:40.580826'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

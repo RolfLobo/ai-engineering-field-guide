@@ -1,0 +1,154 @@
+job_id: 10850329
+title: AI Workflow Engineer
+company: SI HOUSE OF MODELS PRIVATE LIMITED
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 75 Employees
+description: |
+  About the Company
+
+  Join the Rocketship 🚀
+
+  We’re building ShopOS — AI agents powering the entire
+  ecommerce stack. Already past PMF, we’re scaling fast and
+  shaping the future of how online brands are built with AI.
+  Co-founded by seasoned builders with multiple successful
+  exits to companies like Flipkart and Polygon Labs — and
+  backed by Binny Bansal — this isn’t just another start-up.
+  It’s your front-row seat to the next big shift in ecommerce.
+
+  Watch: What is ShopOS (from the founders’ lens - Click here)
+
+  About the Role
+
+  As an AI Workflow Engineer at ShopOS, you'll be responsible
+  for building the backbone of automation that powers our AI-
+  native commerce stack — and then owning it. That means
+  designing and implementing modular, node-based workflow
+  systems that integrate across catalog management, creative
+  tools, personalization engines, and fulfillment systems, but
+  it also means being the person who fixes them when they
+  break, upgrades them as we scale, and documents them well
+  enough that anyone on the team can pick them up.
+
+  This role is for engineers who enjoy solving complex logic
+  puzzles, who think in flows and systems rather than one-off
+  deliverables, and who want to make things smarter, faster,
+  and more reliable — not just build them once and move on.
+  You'll work closely with product, AI, and design teams to
+  turn business rules into reusable, low-code/no-code
+  automations that deliver outsized leverage to our users.
+
+  What You'll Own
+
+  - Build node-based, rule-driven workflows that support
+    eCommerce operations and AI agent interactions
+  - Develop modular workflow components that can be composed
+    into reusable, logic-driven flows
+  - Integrate with APIs, data systems, and 3rd-party services
+    (Shopify, Stripe, Zapier, etc.)
+  - Diagnose and fix bugs in live workflows — including ones you
+    didn't originally build
+  - Upgrade and refactor existing workflows for better
+    reliability, speed, and cost
+  - Audit workflows on a regular cadence — flag fragile,
+    redundant, or failure-prone flows before they cause
+    problems
+  - Maintain clear documentation for every workflow: what it
+    does, what it depends on, what breaks it, how to fix it
+  - Set up admin interfaces and audit tools to monitor workflow
+    health and performance
+  - Partner with product managers and designers to make
+    workflows intuitive, testable, and transparent to end-
+    users
+  - Collaborate with AI/ML engineers to embed intelligence into
+    decision points
+  - Own end-to-end delivery of key internal or external
+    workflows (e.g. onboarding, content pipelines,
+    personalization loops)
+  - Bring creative, non-obvious solutions to recurring
+    operational problems — not just the standard fix
+
+  What We're Looking For
+
+  - CS background, with solid coding fundamentals
+  - Proficient in JavaScript and TypeScript
+  - Comfortable with Python for scripting and automation logic
+  - Hands-on experience with node-based / visual workflow
+    builders (we currently run on Make; familiarity with n8n,
+    Zapier, or similar counts too)
+  - Familiarity with Figma, Weavy, and ComfyUI
+  - Thinks in frameworks and systems rather than one-off
+    deliverables
+  - Strong debugging discipline — able to trace a failure across
+    multiple connected systems, not just one node
+  - Comfortable with API integration (REST/GraphQL) and external
+    services
+  - 2–4 years of experience — we're actively open to junior CS
+    grads. Regardless of experience level, everyone gets
+    trained on our systems, so raw fundamentals and problem-
+    solving instinct matter more than years on a resume
+
+  Bonus Points
+
+  - Deep understanding of workflow engines, state machines, or
+    rule engines
+  - Experience with event-driven architectures and queueing
+    systems (Kafka, RabbitMQ, SQS)
+  - Working knowledge of Postgres and Redis
+  - Comfortable with infra-as-code (Docker, Terraform),
+    monitoring, and CI/CD
+  - Experience with other low-code/no-code or visual workflow
+    tools (Temporal, Langchain, Camunda, Retool)
+  - Exposure to AI/LLM systems and how workflows interface with
+    prompt generation, chaining, etc.
+  - Previous experience in commerce, logistics, or creative ops
+    automation
+  - Built internal ops tools or dashboards from scratch in a
+    fast-moving startup
+  - Familiarity with configuration-driven or metadata-driven
+    engineering
+
+  You'll Thrive If You Are…
+
+  - A builder who thinks in flows, states, and transitions
+  - Obsessed with making systems smarter, faster, and self-
+    healing
+  - Pragmatic about complexity — knowing when to write code and
+    when to wire blocks
+  - Solution-first — you show up with fixes, not just problem
+    reports
+  - A team player who enjoys working across product, design, and
+    AI teams
+  - Excited by the idea of creating leverage and automation for
+    every human in the loop
+
+  Our Values
+
+  - Extreme ownership and bias for action
+  - Honest, high-velocity communication
+  - Respect for craft and obsession with users
+  - Fast, scrappy iteration over perfection
+  - Low ego, high empathy, radical candor
+
+  What We Offer
+
+  - Competitive salary
+  - Health & wellness benefits
+  - Work from our vibrant Bangalore (HSR Layout) office
+  - Direct mentorship from founders and advisors across Gen AI,
+    commerce, and automation
+  - Ownership of critical systems powering our product
+  - High trust, fast-paced, no-bureaucracy culture
+
+  Location
+
+  We're hiring in Bangalore (no remote for this role).
+industries:
+  - Artificial Intelligence
+  - eCommerce
+  - Marketing Tech
+  - Software
+posted_date: 2026-08-26
+url: "https://builtin.com/job/workflow-engineer/10850329"
+source: Built In

@@ -1,0 +1,235 @@
+job_id: 11306825
+title: Senior AI Software Engineer
+company: Placer.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  ABOUT PLACER.AI:
+
+  Placer.ai is transforming how organizations understand the
+  physical world. Our location analytics platform provides
+  unprecedented visibility into locations, markets, and
+  consumer behavior. Placer empowers thousands of
+  customers—from Fortune 500 companies, to local governments
+  and nonprofits— to make smarter, data-driven decisions.
+
+  What sets us apart? We've built the most advanced location
+  intelligence platform in the market while maintaining an
+  uncompromising commitment to privacy, proving that powerful
+  analytics and responsible data practices can coexist.
+
+  Our growth reflects the market's demand: we reached $100M in
+  annual recurring revenue within just 6 years of launching,
+  achieved unicorn status with a $1B+ valuation in 2022, and
+  continue to expand rapidly as one of North America's
+  fastest-growing tech companies. We're creating a $100B+
+  market opportunity, and we're just getting started.
+
+  Named one of Forbes America's Best Startup Employers and a
+  Deloitte Technology Fast 500 company, we're building a
+  culture where innovation thrives, collaboration is the norm,
+  and every team member contributes to reshaping how the world
+  understands location.
+
+  SUMMARY:
+
+  Placer.ai is building out PlacerX, the AI agentic and
+  context layer we use to run the company internally — the
+  tooling, integrations, agents, and automation that make
+  every team faster. This is the connective tissue of how an
+  AI-native company operates, and we're building it from the
+  ground up.
+
+  As a Senior AI Software Engineer, you'll help build that
+  platform end to end — the agents, connectors, automation,
+  and infrastructure that let the entire company unlock major
+  productivity gains. You'll be designing and shipping AI that
+  takes real work off people's plates, turning manual
+  processes into automated ones, and building the systems that
+  let teams do their best work faster.
+
+  Developing our use of Claude and Databricks — currently the
+  backbone of that internal AI stack — is a key part of the
+  mandate. Every one of our 500+ team members already uses
+  Claude and BI in Databricks for analysis, automation, and
+  research, and demand for deeper integrations is growing
+  faster than our R&D team can deliver. You'll be tasked with
+  driving these capabilities and impact to the next level —
+  from surface-level usage to genuinely agentic, high-leverage
+  workflows embedded across the business.
+
+  This is a hybrid role: part platform engineer, part
+  internal-facing integration lead. You'll report to the COO
+  and partner across AI Operations, R&D, Data Science, GTM,
+  and other teams, owning the path from integration request to
+  production-grade system. You'll also help build the triage
+  and review process so the broader org can self-serve safely.
+
+  If you want to build the AI backbone of a fast-moving
+  company — and see your work adopted by hundreds of people
+  within days rather than quarters — this is that role.
+
+  RESPONSIBILITIES:
+
+  - Agent Design & Orchestration Architect agents that don't
+    just answer questions but do work — chaining reasoning,
+    tool calls, and decision-making into reliable multi-step
+    workflows (e.g. pulling data, transforming it, drafting
+    output, and taking action), with the planning and control
+    logic to run those loops autonomously or with a human in
+    the loop. This is the core of turning "a person does this
+    task repeatedly" into "an agent does this task reliably,"
+    across every function.
+  - The Tool & Context Layer (incl. MCP Servers) Give agents
+    secure, governed access to the systems and data they need
+    to act — via MCP servers, function/tool interfaces, and
+    retrieval over internal knowledge — so an agent can
+    operate across finance, GTM, Ops, and R&D tools rather
+    than in a sandbox. This is the connective layer that makes
+    autonomous work possible in the real business, not just in
+    a demo. In practice, this means designing, building, and
+    deploying MCP servers across two tracks: external SaaS
+    integrations (Google Analytics, Search Console,
+    Datawrapper, Infogram, and others), where you'll harden
+    community or official MCPs or build from scratch; and
+    fully custom MCPs for Placer's internal tools, owning the
+    path from data source through to the Cowork plugin
+    surface.
+  - MCP Server Development Design, build, and deploy MCP servers
+    across two tracks: external SaaS integrations (Google
+    Analytics, Search Console, Datawrapper, Infogram, others),
+    where you'll harden community or official MCPs or build
+    from scratch; and fully custom MCPs for Placer's internal
+    tools, owning the path from data source through to the
+    Cowork plugin surface.
+  - Auth Infrastructure Build the OAuth and credential
+    management layer that makes connector auth work securely
+    at scale. Implement reusable patterns R&D Architecture can
+    approve and other connectors can adopt.
+  - Connector Standards Work with R&D Architecture to define
+    what "production-ready" means for a Placer MCP server —
+    security posture, deployment target (k8s), logging, access
+    controls. Then apply those standards consistently and help
+    others do the same.
+  - Integration Triage & Prioritization Triage incoming
+    connector requests and bug reports from across the
+    company. Distinguish rollout-critical from backlog, and
+    help teams understand what they can self-serve vs. what
+    needs engineering bandwidth. This is request and bug
+    triage, not product roadmap ownership.
+  - Plugin & Skill Development Build and maintain Cowork plugins
+    and Claude skills that extend Claude's capabilities for
+    specific Placer workflows — particularly for high-leverage
+    teams in Marketing, Operations, and Data. This includes
+    automating manual, repetitive processes so teams can hand
+    more of their routine work to Claude.
+  - Data Platform Engineering (Databricks / Internal BI) Take
+    ownership of Placer's internal BI environment on
+    Databricks — cleaning up and restructuring the existing
+    data so it's reliable and well-organized, engineering
+    pipelines to bring new data in, and getting it into a
+    state where our internal AI can actually use it. Much of
+    an agent's usefulness depends on the quality of the data
+    underneath it, so making this BI layer AI-ready is
+    foundational to the whole platform.
+  - Usage Tracking & Insights Build and maintain tooling to
+    track how internal AI tools are being used across the
+    company, so leadership can measure adoption, identify
+    high-value use cases, and make informed decisions about
+    expanding access and investment.
+  - Platform Infrastructure & Cost Optimization Optimize
+    compute, storage, and networking across the internal AI
+    platform for both performance and cost efficiency — making
+    sure the systems scale with adoption without runaway
+    spend.
+  - Security & Compliance Implement security best practices for
+    AI platforms, including identity management, encryption,
+    and compliance monitoring — ensuring that company-wide AI
+    access is safe, auditable, and aligned with our data-
+    handling standards.
+
+  REQUIREMENTS:
+
+  - 8+ years of backend engineering experience
+  - Prior experience with MCP servers, LLM tool use, or AI agent
+    frameworks
+  - Prior experience in data engineering or analytics tooling;
+  - Solid understanding of REST APIs, OAuth 2.0, and credential
+    management, including Google Cloud auth patterns (gcloud,
+    service accounts)
+  - Experience building and deploying services to Kubernetes or
+    equivalent container infrastructure
+  - Familiarity with Databricks or similar DW/DLs is a plus
+  - Comfort working without an existing playbook — AI platform
+    work at Placer is new; role definition, standards, and
+    tooling will evolve
+  - Strong communication skills; you'll regularly translate
+    between business requests and engineering requirements
+  - Comfortable navigating competing priorities across R&D
+    Architecture (standards), AI Enablement (rollout), and
+    business teams (requests)
+
+  NICE TO HAVES:
+
+  - Demonstrated use of AI tools to work more
+    efficiently—whether professionally or personally—and a
+    curiosity for finding new ways to apply them.
+  - Comfort integrating generative AI into day-to-day workflows
+    to boost productivity, quality, and output.
+
+  WHY JOIN PLACER.AI?
+
+  - Join a rocketship! We are pioneers of a new market that we
+    are creating
+  - Take a central and critical role at Placer.ai
+  - Work with, and learn from, top-notch talent
+  - Competitive salary
+  - Excellent benefits
+  - Fully remote
+
+  The U.S. annualized pay range for this position is $160,000
+  - $190,000 USD. In addition, certain roles have the
+  opportunity to earn sales-based commissions. Base pay
+  offered within the stated range may vary depending on
+  multiple individualized factors, including job-related
+  skills, professional experience, education and licenses (if
+  applicable), work location and compensation market data.
+
+  Base pay is just a part of our total rewards program. Placer
+  provides medical, dental and vision coverage as well as
+  flexible time off, 401K and equity awards for certain roles.
+
+  Your recruiter can share more about the specific salary
+  range for your preferred location during the hiring process.
+
+  NOTEWORTHY LINKS TO LEARN MORE ABOUT PLACER
+
+  - About Placer.ai
+  - Placer.ai's $100M round C funding (unicorn valuation!)
+  - See our data in action at The Anchor
+  - Placer.ai in the news
+  - Video: About Placer for Commercial Real Estate
+
+  Placer.ai is committed to maintaining a drug-free workplace
+  and promoting a safe, healthy working environment for all
+  employees.
+
+  Placer.ai is an equal opportunity employer and has a global
+  remote workforce. Placer.ai’s applicants are considered
+  solely based on their qualifications, without regard to an
+  applicant’s disability or need for accommodation. Any
+  Placer.ai applicant who requires reasonable accommodations
+  during the application process should contact Placer.ai’s
+  Human Resources Department to make the need for an
+  accommodation known.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Software
+  - Analytics
+  - Business Intelligence
+  - Big Data Analytics
+posted_date: 2026-09-22
+url: "https://www.builtinla.com/job/senior-ai-software-engineer/11306825"
+source: Built In

@@ -1,0 +1,49 @@
+company:
+  name: Nurix Labs
+  stage: Seed-stage, backed by $27.5M in seed funding
+  focus: AI agents and LLM solutions for customer engagement
+position:
+  title: AI Engineer
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The description asks for "AI Engineers" to build and deploy
+      custom AI/ML applications, but never specifies whether the
+      person shapes LLM behaviour (prompts, RAG, fine-tuning) or
+      only deploys and integrates models. Company works on AI
+      agents/LLMs, but responsibilities are too generic to apply
+      Step 1 confidently.
+  responsibilities:
+  - Design and implement custom AI applications to meet client requirements
+  - Collaborate with cross-functional teams to integrate solutions into client systems
+  - Deploy AI solutions and maintain scalable applications
+  - Optimize performance and functionality of AI-based solutions for real-world use
+    cases
+  - Research and implement machine learning algorithms and tools
+  - Work with product managers, data scientists and engineers to deliver high-quality
+    solutions
+  - Communicate technical designs and progress with stakeholders
+  use_cases:
+  - Custom AI applications for client business needs
+  - AI-driven customer engagement and personalized interactions
+  - Automation and productivity enhancement
+  - Analysis of large datasets for actionable insights
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines, Data Modeling]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11273831'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:33:37.618280'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,210 @@
+job_id: 10867210
+title: Lead AI Engineer
+company: Digital Green
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 167 Employees
+description: |
+  Digital Green
+
+  Job Title:
+
+  Lead AI Engineer
+
+  Location:
+
+  Bangalore
+
+  Department:
+
+  Tech & Engineering
+
+  Experience:
+
+  6+ years
+
+
+
+  About Digital Green
+
+
+
+  Digital Green is a global non-profit that has spent nearly
+  two decades helping smallholder farmers build more
+  prosperous, resilient livelihoods—reaching over 10 million
+  farmers to date. Our flagship product, FarmerChat, is a
+  multilingual AI-powered advisory platform that gives farmers
+  timely, locally relevant guidance—from climate-resilient
+  practices to pest management, input use, and market
+  access—in the language and format that works for them. Today
+  FarmerChat reaches farmers across India, Kenya, Ethiopia,
+  Nigeria, and Brazil, with millions of questions asked and
+  answered in over 15 local languages. We combine deep, on-
+  the-ground agricultural extension experience with modern AI
+  to meet farmers where they are, and help them make better
+  decisions, faster.
+
+  Job Summary
+
+
+
+  Computer Vision · Audio/Speech Processing · Image Pipelines
+  · Rapid Prototyping
+
+  The Lead AI Engineer will lead the development of high-
+  reliability computer vision and speech/audio processing
+  systems for Digital Green's farmer-facing platforms. We are
+  seeking a Lead AI Engineer with deep experience in computer
+  vision and audio/ASR pipelines to design and deploy end-to-
+  end production systems at scale. You will build optimized
+  inference pipelines for image and audio models and work with
+  multimodal data (audio and image) to serve farmer-facing
+  advisory tools.
+
+  In this role, you will also define and run robust evaluation
+  frameworks, ensure model reliability, and operationalize
+  production-grade vision and audio ML pipelines with
+  monitoring and continuous improvement. You will collaborate
+  closely with product, engineering, and field teams to build
+  systems that perform effectively in low-resource, real-world
+  agricultural contexts.
+
+  Key Responsibilities
+
+
+
+  - Multilingual Speech & Audio Processing for Agricultural and
+    Livestock Use Cases
+
+  - Build and evaluate ASR systems optimized for agricultural
+    domain content and rural speech patterns.
+  - Work with targeted ASR models such as Whisper, Azure
+    Cognitive Services, Speechmatics, or Wav2Vec-based
+    systems.
+  - Develop pipelines for multilingual transcription,
+    diarization, noise handling, and accent robustness.
+  - Validate transcription accuracy with field recordings, user-
+    submitted audio, and noisy environments.
+
+  - Computer Vision Models for Crop & Livestock Use Cases
+
+  - Develop and evaluate computer vision models for crop and
+    livestock use cases, including crop disease/pest
+    detection, animal identification, livestock health
+    assessment, body condition, behaviour and activity
+    monitoring.
+  - Build image and video processing pipelines for real-world
+    farmer-submitted content, including low-light, blur,
+    noise, varying camera angles and other challenging field
+    conditions.
+  - Work with models such as CLIP, Vision Transformers, YOLO,
+    Mask R-CNN, DINO or similar architectures for detection,
+    classification, segmentation and visual assessment.
+
+  - Security, Safety & Compliance
+
+  - Test vision and audio models against adversarial inputs,
+    spoofing, and data leakage risks specific to image and
+    speech pipelines.
+  - Collaborate with security teams to ensure compliance with
+    data privacy frameworks (GDPR, HIPAA, etc.).
+  - Implement input validation, content filtering, and anomaly
+    detection for audio and image submissions.
+
+  - Cross-Functional Collaboration & Mentorship
+
+  - Translate product requirements into model tasks and
+    evaluation strategies for voice and vision pipelines.
+  - Mentor junior engineers in ASR and computer vision model
+    evaluation, fine-tuning, and deployment.
+  - Partner with backend, DevOps, and product teams to deliver
+    production-ready features and prototypes.
+
+  Qualifications & Skills
+
+
+
+  - Bachelor's, Master's, or Ph.D. degree in Computer Science,
+    Engineering, or a related field with a focus on Machine
+    Learning, Computer Vision, or Signal Processing.
+  - 6+ years of proven experience as an AI/ML engineer, data
+    scientist, or software engineer, with hands-on experience
+    deploying machine learning models.
+  - Deep expertise in computer vision and speech/audio
+    processing pipelines, from data preprocessing through
+    production deployment.
+  - Experience with ASR models (Whisper, Azure Speech) and
+    multilingual audio processing.
+  - Hands-on experience with computer vision for classification,
+    detection, and enhancement tasks.
+  - Proficiency with Python and standard CV/audio frameworks
+    (PyTorch, OpenCV, torchaudio, Librosa, or similar).
+  - Strong understanding of evaluation harnesses, benchmarking,
+    and QA tooling for perception and speech models.
+  - Experience with model quantization, pruning, and
+    distillation for on-device or edge deployment.
+  - Strong interpersonal and communication skills, with the
+    ability to work effectively in a collaborative team
+    environment and contribute to a culture of innovation and
+    excellence.
+
+  Nice to Have
+
+  - Prior experience building internal tools for evaluation,
+    testing, or data pipelines.
+  - Contributions to open-source computer vision or audio/speech
+    processing frameworks.
+  - Experience deploying models with Triton, TorchServe,
+    TensorRT, or similar.
+
+  What You'll Build
+
+
+
+  - Multi-modal systems involving speech recognition, image
+    verification, enhancement, and classification for real-
+    world applications.
+  - Secure evaluation frameworks that become organizational
+    standards.
+
+  Why Digital Green
+
+
+
+  - Work at the intersection of cutting-edge AI and real-world
+    social impact, building systems used directly by
+    smallholder farmers.
+  - Own end-to-end AI systems — from research and prototyping
+    through production deployment at scale.
+  - Collaborate with a mission-driven, multidisciplinary team
+    spanning engineering, product, and field operations.
+  - Backed by leading global philanthropic partners, with the
+    resources and runway to build for the long term.
+
+  Compensation and Application Process
+
+
+
+  Digital Green is a great place to work and prides itself on
+  a competitive and comprehensive compensation and benefits
+  package. Digital Green Trust is proud to be an equal
+  opportunity employer. All qualified applicants will receive
+  consideration for employment without regard to race, color,
+  religion, sex, national origin, disability status, protected
+  veteran status, or any other characteristic protected by
+  law. Please send your application along with an updated CV
+  and a cover letter explaining your suitability for the
+  position. All completed applications should be applied
+  through the Digital Green careers page.
+
+  Join us at Digital Green and leverage your expertise in AI
+  to transform agricultural practices and improve the
+  livelihoods of smallholder farmers worldwide.
+industries:
+  - Artificial Intelligence
+  - Greentech
+  - Social Impact
+  - Agriculture
+posted_date: 2026-08-27
+url: "https://builtin.com/job/lead-ai-engineer/10867210"
+source: Built In

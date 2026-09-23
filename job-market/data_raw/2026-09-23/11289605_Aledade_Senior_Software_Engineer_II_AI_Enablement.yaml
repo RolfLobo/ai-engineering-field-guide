@@ -1,0 +1,69 @@
+job_id: 11289605
+title: Senior Software Engineer II (AI Enablement)
+company: Aledade
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Aledade's AI Enablement team builds and runs the platform
+  that the rest of Aledade's AI adoption depends on. The AI
+  Enablement Platform Engineer is the engineer accountable for
+  the substrate: the MCP Gateway that brokers every tool call
+  between agents and Aledade's systems, the plugin marketplace
+  and installer that distribute agentic capability to
+  engineers and non-engineers alike, the model gateway
+  configuration that determines what Aledade spends on
+  inference and how well it performs, and the telemetry that
+  makes all of it measurable.
+
+  This is a platform role with unusually direct business
+  consequences. The model-routing and harness-evaluation work
+  this engineer owns is what distinguishes a diversified,
+  cost-optimized inference strategy from a single-vendor one.
+  It is the right role for an engineer who wants platform
+  depth without platform abstraction: real users, real spend,
+  measurable adoption, and a short line between a design
+  decision and its effect.
+
+  Primary Duties:
+
+  - Own and extend the MCP Gateway and connector platform. Build
+    and harden MCP server integrations (Glean, Slack, Jira,
+    Snowflake, Salesforce, Monday, Tableau, Databricks and
+    beyond) on the gateway; own auth, scopes, tenancy, rate
+    limiting, and read/write policy enforcement for non-BAA
+    tools; partner with Security and platform owners on safe-
+    by-default access paths.
+  - Own the distribution layer, run the marketplace publishing
+    pipeline: versioning, CI/CD, plugin PR review, release
+    hygiene, and the developer tooling sync processes. Build
+    and maintain shared plugins, skills, hooks, and Spec-
+    Driven Development tooling consumed across PTA teams, plus
+    the authorship guides that let other teams contribute
+    without hand-holding.
+  - Own platform observability, model-gateway configuration, and
+    cost attribution. Extend the usage-rollup and telemetry
+    pipeline so adoption, tool-call health, and inference
+    spend are attributable by team, workload, and model.
+    Define model routing and build the benchmarks and
+    harness/evaluations that let Aledade choose models on
+    evidence.
+  - Extend the agent output and collaboration surface. Build out
+    infrastructure to support mapping agent outputs into a
+    browsable, searchable, commentable surface, discovery and
+    tagging, per-viewer engagement instrumentation, comments,
+    expiry, and share notifications.
+  - Enablement and platform stewardship. Run office hours and
+    brownbags as a practitioner; mentor engineers on agentic-
+    coding and plugin-authorship patterns; triage and dedupe
+    inbound feature requests; carry on-call for marketplace-
+    published artifacts and gateway availability.
+
+  Minimum Qualifications:
+
+  Preferred KSAs:
+
+  Physical Requirements:
+posted_date: 2026-09-21
+url: "https://www.builtinla.com/job/senior-software-engineer-ii-ai-enablement/11289605"
+source: Built In

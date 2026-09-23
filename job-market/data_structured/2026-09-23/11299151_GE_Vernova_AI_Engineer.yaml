@@ -1,0 +1,57 @@
+company:
+  name: GE Vernova
+  stage: null
+  focus: Power conversion and storage for energy transition
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements GenAI solutions including
+      RAG, vector databases, and LLM evaluation, which shapes
+      model behavior. It also includes classical ML work, and a
+      role shaping both LLM and classical ML systems is ai-first.
+  responsibilities:
+  - Design, develop, and implement AI solutions including GenAI, ML models, neural
+    networks, and optimization algorithms
+  - Select appropriate modeling approaches and own the ML lifecycle including datasets,
+    metrics, and evaluation strategies
+  - Translate business needs into scalable AI-enabled tools, applications, and workflows
+  - Deploy and integrate AI/ML models into existing systems with monitoring for drift
+    and performance degradation
+  - Define and document end-to-end solution architecture across cloud and on-premises
+    environments
+  - Write technical specifications and steer/review work of external contractors and
+    internal partners
+  - Lead data collection, processing, and readiness assessment for large-scale operational
+    data
+  - Evaluate emerging technologies such as edge AI, synthetic data, reinforcement
+    learning, and LLMs
+  use_cases:
+  - Predictive maintenance
+  - Anomaly detection
+  - Quality and performance prediction
+  - Forecasting and cost analysis
+  - Document and requirement analysis
+  - Knowledge support tools
+  skills:
+    genai: [Generative AI, RAG, Vector Databases, LLMs]
+    ml: [Machine Learning, Neural Networks, Deep Learning, TensorFlow, PyTorch, scikit-learn,
+      Gradient Boosting, Time-Series Analysis, Optimization Methods, Reinforcement
+        Learning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure, AWS]
+    ops: [MLOps, Model Deployment]
+    languages: [Python, C++, SQL]
+    domains: []
+    other: [VS Code, GDPR]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11299151'
+  location: Chennai, IND
+  extracted_at: '2026-09-23T11:35:39.141920'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

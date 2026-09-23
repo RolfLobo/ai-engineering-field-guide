@@ -1,0 +1,121 @@
+job_id: 11005095
+title: Senior AI/ML Engineer- Python, Databricks, LLM, Azure
+company: Optum
+location: Gurugram, IND
+work_type: FULL_TIME
+company_size: 160,000 Employees
+description: |
+  Requisition Number: 2369012 Optum is a global organization
+  that delivers care, aided by technology to help millions of
+  people live healthier lives. The work you do with our team
+  will directly improve health outcomes by connecting people
+  with the care, pharmacy benefits, data and resources they
+  need to feel their best. Here, you will find a culture
+  guided by inclusion, talented peers, comprehensive benefits
+  and career development opportunities. Come make an impact on
+  the communities we serve as you help us advance health
+  optimization on a global scale. Join us to start Caring.
+  Connecting. Growing together. The AAV team owns Apollo,
+  Optum South's governed data spine, and Horizon Compass, its
+  unified provider-facing dashboard platform. We're building
+  AI-powered analytics and agentic tools directly on top of
+  Apollo/Databricks - role-based provider agents, clinical
+  intelligence summarization, and AI-assisted decision support
+  across HEDIS quality, risk, affordability, and care
+  management domains. We're looking for a Senior AI/ML
+  Engineer to help design, build, and productionize the next
+  generation of these systems - someone who can move from
+  architecture to shipped agent in a governed healthcare data
+  environment. Primary Responsibilities:
+
+  - Design and build LLM-based agents and AI/ML pipelines on
+    Databricks, extending our existing role-based agent
+    architecture (Provider 360, Patient 360, Clinic 360
+    surfaces)
+  - Build and maintain RAG systems - retrieval design,
+    grounding, and hallucination mitigation - against Apollo's
+    governed Gold-layer data
+  - Apply and extend Databricks AI functions ( ai_summarize() ,
+    ai_classify() ) across clinical intelligence domains
+    (HEDIS, admits/readmits, care & value)
+  - Own model evaluation and prompt versioning practices -
+    systematic testing, not ad hoc iteration
+  - Deploy and monitor models in production on Azure, with CI/CD
+    covering model, data, and prompt versioning together
+  - Partner with the AI Review Board (AIRB) on governance -
+    surface risk early, support pilot-first rollout strategies
+  - Translate technical tradeoffs for non-technical and
+    executive stakeholders, including direct exposure to CIO-
+    level presentations
+  - Comply with the terms and conditions of the employment
+    contract, company policies and procedures, and any and all
+    directives (such as, but not limited to, transfer and/or
+    re-assignment to different work locations, change in teams
+    and/or work shifts, policies in regards to flexibility of
+    work benefits and/or work environment, alternative work
+    arrangements, and other decisions that may arise due to
+    the changing business environment). The Company may adopt,
+    vary or rescind these policies and directives in its
+    absolute discretion and without any limitation (implied or
+    otherwise) on its ability to do so
+
+  Required Qualifications:
+
+  - Graduate degree or equivalent experience
+  - Core technical
+    - Hands-on experience building and shipping LLM-based agents
+      (multi-tool orchestration, not just API calls)
+    - RAG and vector search experience - chunking strategy,
+      retrieval design, grounding
+    - Proven solid production-grade Python and SQL
+    - Databricks fluency: Delta Lake, Unity Catalog, Genie spaces,
+      AI functions
+    - Prompt engineering and LLM evaluation - systematic
+      testing/versioning discipline
+  - MLOps / production
+    - Cloud model deployment and monitoring experience (Azure
+      preferred)
+    - Experience building on governed data pipelines (Gold-
+      layer/data-product design)
+    - CI/CD for ML pipelines, including data and prompt versioning
+  - Judgment
+    - Proven to explain model behavior and tradeoffs to non-
+      technical and executive stakeholders
+    - Governance-minded - Proven proactive about surfacing risk
+      before deployment
+
+  Preferred Qualifications:
+
+  - Snowflake experience alongside Databricks
+  - LangChain or comparable agent framework experience
+  - Healthcare/HEDIS or claims data domain knowledge
+  - Exposure to ADT/change-data-capture pipelines
+
+  Why This Role  You'd be joining at a pivotal point - Apollo
+  is expanding beyond Optum South, with Optum West, East, and
+  Mid-East regions actively engaging to adopt what we've
+  built. This is a chance to shape the AI/ML architecture
+  underneath a platform that's about to scale enterprise-wide.
+  At UnitedHealth Group, our mission is to help people live
+  healthier lives and make the health system work better for
+  everyone. We believe everyone-of every race, gender,
+  sexuality, age, location and income-deserves the opportunity
+  to live their healthiest life. Today, however, there are
+  still far too many barriers to good health which are
+  disproportionately experienced by people of color,
+  historically marginalized groups and those with lower
+  incomes. We are committed to mitigating our impact on the
+  environment and enabling and delivering equitable care that
+  addresses health disparities and improves health outcomes -
+  an enterprise priority reflected in our mission.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Healthtech
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-09-03
+url: "https://builtin.com/job/senior-ai-ml-engineer-python-databricks-llm-azure/11005095"
+source: Built In

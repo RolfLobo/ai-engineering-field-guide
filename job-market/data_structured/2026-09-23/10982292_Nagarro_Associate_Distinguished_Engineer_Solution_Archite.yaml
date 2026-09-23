@@ -1,0 +1,51 @@
+company:
+  name: Nagarro
+  stage: null
+  focus: Digital product engineering and IT consulting services
+position:
+  title: Associate Distinguished Engineer (Solution Architect - GenAI + RAG + Agentic
+    AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM-based GenAI solutions including RAG,
+      agentic workflows, and prompt engineering, directly shaping
+      model behaviour through solution architecture. LLM/agent
+      components are central, so it is ai-first.
+  responsibilities:
+  - Act as technical lead for AI solutioning across the pre-sales deal lifecycle
+  - Design scalable AI/ML and GenAI solution architectures for proposals, RFPs, and
+    competitive bids
+  - Lead technical discovery workshops, whiteboarding sessions, and stakeholder discussions
+  - Build demos, prototypes, and proof-of-concept solutions for client engagements
+  - Support effort estimation, feasibility assessments, and risk analysis during sales
+    cycles
+  - Develop thought leadership content and represent the organization at conferences
+    and client briefings
+  - Mentor solution consultants and pre-sales teams on AI architecture best practices
+  - Create reusable AI accelerators, reference architectures, and demo assets
+  use_cases:
+  - Enterprise-scale GenAI and agentic AI solution architectures
+  - RAG-based enterprise search and knowledge solutions
+  - Pre-sales solutioning, demos, and proof-of-concept AI prototypes
+  - AI accelerators and reusable reference architectures
+  skills:
+    genai: [LLMs, RAG, AI Agents, Prompt Engineering, Generative AI, Azure OpenAI]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: [Azure, AWS, GCP]
+    ops: [MLOps, ServiceNow]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10982292'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:11:13.600107'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,58 @@
+company:
+  name: FICO
+  stage: null
+  focus: |-
+    Global analytics software for credit scoring, fraud
+    detection, and lending decisions
+position:
+  title: Customer Engineering /AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs prompts, evaluation frameworks, agentic
+      workflows, and tool calling for LLM solutions that help
+      engineers diagnose customer issues — clearly shaping LLM
+      behavior, so ai-first. It is customer-facing (customer
+      engineering role with customer communication).
+  responsibilities:
+  - Analyze recurring customer-impacting engineering issues and identify opportunities
+    for AI-driven automation
+  - Build AI-powered tools and workflows to diagnose, troubleshoot, remediate, and
+    prevent customer issues
+  - Develop prompt harnesses and evaluation frameworks to test LLM solutions against
+    engineering scenarios
+  - Design agentic workflows where LLMs reason over context, use tools, validate results,
+    and iterate
+  - Investigate AI failures and improve prompts, context, tools, model selection,
+    and workflows
+  - Measure solutions using engineering metrics such as accuracy, resolution time,
+    automation rate, and cost
+  - Partner with internal engineering teams to integrate AI capabilities into existing
+    tools
+  - Document solutions, runbooks, and support procedures for maintainability
+  use_cases:
+  - AI-driven automation for diagnosing and remediating customer engineering issues
+  - Agentic workflows reasoning over code, logs, tickets, and incidents
+  - Pattern identification across customer issues to surface root causes and recommended
+    actions
+  - Prompt evaluation frameworks tested against real-world engineering scenarios
+  skills:
+    genai: [LLMs, Prompt Engineering, Structured Outputs, Function Calling, Agentic
+        Workflows, LangGraph, LangChain, MCP, LLM Evaluation]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AI Agents]
+    ops: [Model Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10708893'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:00:40.374866'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

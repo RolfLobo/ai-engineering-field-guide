@@ -1,0 +1,165 @@
+job_id: 11202398
+title: "Sr Associate Support Engineer (AI/ML & Platform Operations)"
+company: Workday
+location: Pune, IND
+work_type: FULL_TIME
+company_size: 14,894 Employees
+description: |
+  Your work days are brighter here.
+
+  We’re obsessed with making hard work pay off, for our
+  people, our customers, and the world around us. As a Fortune
+  500 company and a leading AI platform for managing people,
+  money, and agents, we’re shaping the future of work so teams
+  can reach their potential and focus on what matters most.
+  The minute you join, you’ll feel it. Not just in the
+  products we build, but in how we show up for each other. Our
+  culture is rooted in integrity, empathy, and shared
+  enthusiasm. We’re in this together, tackling big challenges
+  with bold ideas and genuine care. We look for curious minds
+  and courageous collaborators who bring sun-drenched optimism
+  and drive. Whether you're building smarter solutions,
+  supporting customers, or creating a space where everyone
+  belongs, you’ll do meaningful work with Workmates who’ve got
+  your back. In return, we’ll give you the trust to take
+  risks, the tools to grow, the skills to develop and the
+  support of a company invested in you for the long haul. So,
+  if you want to inspire a brighter work day for everyone,
+  including yourself, you’ve found a match in Workday, and we
+  hope to be a match for you too.
+
+  About the Team
+
+  At Workday, we bring technical rigor, customer empathy, and
+  a spirit of fun to enterprise software. Our support team
+  underpins operational excellence across Workday's digital
+  experience, AI/ML platform, and Agent Factory initiative.
+  Workday’s Agent Factory is our internal engine that builds,
+  trains, and deploys autonomous AI agents to execute complex
+  HR and Finance workflows, including expense processing,
+  hiring, and workforce scheduling. We partner with core
+  engineering to eliminate bottlenecks, maintain high platform
+  availability, and ensure system reliability for our global
+  customer base.
+
+  About the Role
+
+  We are seeking a customer-focused Support Engineer to drive
+  incident resolution, root-cause analysis (RCA), and
+  performance optimisation across Workday’s enterprise
+  platform and autonomous AI agent workflows. In this high-
+  visibility role, you will analyze system metrics, debug
+  cloud-hosted ML service pipelines, inspect LLM orchestration
+  layers, and manage critical customer escalations within
+  strict SLAs. You will also partner directly with engineering
+  and data science teams through feature iteration and
+  optimisation. A key part of this role involves hands-on AI
+  evaluation: analysing LLM outputs, reviewing conversation
+  logs, and digging into system traces to spot failure modes
+  and translate those insights into prompt, data, and workflow
+  improvements.
+
+  Key Responsibilities
+
+  - Enterprise SaaS & Functional Domain Expertise: Apply
+    foundational knowledge of enterprise applications to
+    validate AI responses and assist in troubleshooting
+    functional processing errors.
+  - Hands-On AI Evaluation: Review LLM outputs, conversation
+    logs, and execution traces to identify edge cases,
+    hallucinations, and routine failure modes. Perform
+    structured data labeling and report findings to senior
+    engineering staff.
+  - Technical Troubleshooting & RCA: Assist in root-cause
+    analysis for software defects and pipeline execution
+    failures using monitoring tools like Kibana and Grafana,
+    following established diagnostic runbooks.
+  - Cloud & LLM Diagnostics: Inspect enterprise AI workflows
+    hosted in public cloud environments (AWS, GCP), helping
+    isolate breakdown points across model hosting services and
+    API gateways.
+  - Incident & Queue Management: Monitor and triage support
+    queues, enforce SLAs, and process incoming tickets
+    efficiently. Support high-severity incident responses and
+    participate in weekend on-call rotations.
+  - Customer Communication: Communicate clear technical updates,
+    standard workarounds, and resolution steps to customer IT
+    teams, working with senior support for high-stakes
+    escalations.
+  - Database & Code Diagnostics: Write standard SQL queries to
+    validate backend data integrity, inspect REST/SOAP API
+    payloads (JSON/XML), and execute existing Python or Bash
+    scripts to run routine diagnostics.
+  - Documentation & Team Collaboration: Maintain detailed
+    investigation logs in Jira, ServiceNow, or Salesforce,
+    help maintain team runbooks, and flag recurring issue
+    trends to senior engineers and product teams.
+
+  About You
+
+  Basic Qualifications (Required)
+
+  Work Experience: Minimum 1 year of experience in technical
+  support, platform operations, or application support for
+  enterprise SaaS environments.
+
+  Technical & Diagnostic Skills:
+
+  - Minimum 1 year of experience writing and executing
+    intermediate SQL queries and running diagnostic scripts.
+  - Minimum 1 year of experience inspecting API payloads (JSON
+    or XML data structures) and utilizing basic Linux or
+    Windows command-line tools.
+
+  Cloud & Monitoring Systems:
+
+  - Minimum 1 year of hands-on experience navigating or
+    monitoring services on public cloud platforms (AWS, GCP,
+    or Azure).
+  - Minimum 1 year of experience utilizing observability tools
+    (e.g., Grafana, Kibana, Datadog) to view logs or trace
+    outputs.
+
+  AI & LLM Exposure:
+
+  - Minimum 1 year of experience inspecting, reading, or
+    evaluating AI/LLM conversation logs, traces, or prompt
+    outputs.
+
+  Triage & Operations:
+
+  - Minimum 1 year of experience performing initial queue triage
+    and basic troubleshooting using ticketing workflows.
+
+  Willingness and ability to work scheduled weekend and
+  holiday coverage rotations.
+
+  Preferred Qualifications
+
+  - Bachelor’s degree in Computer Science, Information
+    Technology, Engineering, or a related technical field (or
+    equivalent practical work experience).
+  - Experience following established runbooks to perform guided,
+    autonomous technical troubleshooting.
+  - History of drafting clear written technical documentation,
+    post-incident updates, or resolution notes for customer-
+    facing teams.
+  - Strong active problem-solving skills and an adaptability to
+    learn complex, multi-tiered enterprise systems.
+
+  Pursuant to applicable Fair Chance law, Workday will
+  consider for employment qualified applicants with arrest and
+  conviction records.
+
+  Workday is an Equal Opportunity Employer including
+  individuals with disabilities and protected veterans.
+
+  Are you being referred to one of our roles? If so, ask your
+  connection at Workday about our Employee Referral process!
+industries:
+  - Cloud
+  - Fintech
+  - HR Tech
+posted_date: 2026-09-16
+url: "https://builtin.com/job/sr-associate-support-engineer-ai-ml-platform-operations/11202398"
+source: Built In

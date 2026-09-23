@@ -1,0 +1,51 @@
+company:
+  name: AssistIQ
+  stage: null
+  focus: AI-driven healthcare supply chain visibility and insights
+position:
+  title: AI Computer Vision Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds evaluation frameworks for vision and vision-
+      language models, refines models with new data and
+      architectures, and chooses/improves model behaviour — which
+      is shaping. A vision-language model driven by prompts and
+      producing text makes this ai-first, and a role shaping both
+      LLM and classical CV systems is ai-first by rule.
+  responsibilities:
+  - Collaborate with product managers to translate real-world challenges into practical
+    CV/ML solutions
+  - Design and develop computer vision and vision-language solutions using classical
+    techniques and modern AI approaches
+  - Optimize, deploy, and support models across cloud and edge environments
+  - Establish evaluation frameworks for CV and VLM models including real-world performance
+    metrics
+  - Monitor deployed systems, debug issues, and refine models with new data or improved
+    architectures
+  - Apply emerging computer vision research to improve vision products
+  use_cases:
+  - Computer vision systems for healthcare supply chain tracking
+  - Real-time visibility into medical supply usage for waste reduction
+  - Vision-language model evaluation in production settings
+  - Cloud and edge deployment of vision models for healthcare providers
+  skills:
+    genai: []
+    ml: [Machine Learning, PyTorch, Deep Learning, Model Evaluation, Model Optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, Model Deployment]
+    languages: [Python, C++]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11322489'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:38:02.790166'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,44 @@
+company:
+  name: EXL
+  stage: null
+  focus: Digital operations and analytics services
+position:
+  title: Agentic AI/ Prompt Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role centers on practical LLM work: prompt engineering,
+      model evaluation, embeddings, and vector search pipelines,
+      which is directly shaping model behavior and output quality
+      via LLM components.
+  responsibilities:
+  - Develop and refine prompts for LLM-based applications
+  - Evaluate LLM outputs and model performance
+  - Build embedding and vector search pipelines
+  - Automate workflows and data processing with Python
+  - Develop backend logic and APIs with TypeScript
+  - Integrate AI capabilities into applications
+  use_cases:
+  - LLM-powered applications
+  - Semantic/vector search
+  - NLP-driven data processing and automation
+  - AI capability integration into front-end applications
+  skills:
+    genai: [LLMs, Prompt Engineering, Embeddings, LangChain, LlamaIndex]
+    ml: [Machine Learning, Model Evaluation]
+    web: [React, Microservices, REST APIs]
+    databases: [Vector Search]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11298316'
+  location: Noida, IND
+  extracted_at: '2026-09-23T11:36:44.950426'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

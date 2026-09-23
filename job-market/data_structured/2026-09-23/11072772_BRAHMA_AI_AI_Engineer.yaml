@@ -1,0 +1,52 @@
+company:
+  name: BRAHMA AI
+  stage: null
+  focus: AI content creation platform for media and entertainment
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM output quality through prompt
+      engineering and prompt optimization, integrates GenAI/LLM
+      solutions, and tunes model accuracy. It also trains models
+      and applies transfer learning, but the LLM/prompt component
+      makes it ai-first.
+  responsibilities:
+  - Train new models, integrate existing models, and apply transfer learning
+  - Integrate GenAI/LLM solutions with prompt engineering and prompt optimization
+    for best results
+  - Design and build machine-learning models, data pipelines, and applications using
+    deep learning methods
+  - Work on localization, speech-to-text, transcription, and translation solutions
+  - Tune model accuracies and develop methods to improve hypotheses without overfitting
+  - Build complex solutions that hide complexity from customers at optimal cost and
+    speed
+  - Provide technical and thought leadership
+  - Invent and patent new solutions
+  use_cases:
+  - Media and entertainment content creation AI
+  - Localization of content including translation and transcription
+  - Speech-to-text and transcription
+  - Agentic AI content assistant chatbot
+  - Media asset management
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, Gemini, Mistral, Hugging Face]
+    ml: [PyTorch, TensorFlow, Neural Networks, CNNs, GANs, Computer Vision, OpenCV,
+      Transfer Learning, NLP, Pattern Recognition]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11072772'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:16:32.621634'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

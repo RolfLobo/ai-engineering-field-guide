@@ -1,0 +1,56 @@
+company:
+  name: Weekday, Inc.
+  stage: null
+  focus: Staffing platform placing engineers with client companies
+position:
+  title: Agentic AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs LLM-powered workflows, prompt strategies,
+      multi-agent systems with LangChain/LangGraph, and fine-tunes
+      LLMs — clearly shaping LLM behavior. Hence ai-first.
+  responsibilities:
+  - Architect and build scalable Generative AI and agentic AI applications end to
+    end
+  - Design LLM-powered workflows and prompt strategies for self-learning multi-agent
+    systems
+  - Build AI agents using LangChain and LangGraph for NL-to-SQL, autonomous task agents,
+    and RAG pipelines
+  - Select, customize, fine-tune, and optimize state-of-the-art LLMs
+  - Own full ML/GenAI pipelines including training, deployment, monitoring, and lifecycle
+    management
+  - Build APIs, microservices, and integration frameworks to bring AI into enterprise
+    products
+  - Partner directly with customers, product, and engineering to translate business
+    needs into AI architecture
+  - Mentor engineers and shape long-term AI platform strategy
+  use_cases:
+  - NL-to-SQL query generation
+  - Autonomous task agents
+  - RAG pipelines
+  - Self-learning multi-agent systems
+  - Enterprise AI product integration
+  skills:
+    databases: [Vector Databases]
+    domains: [NLP]
+    data: []
+    web: [REST APIs, Microservices]
+    ml: [Machine Learning, Transformers, CNNs, PyTorch, TensorFlow, scikit-learn,
+      Quantization]
+    ops: [Docker, Kubernetes, MLOps, LLMOps]
+    other: [Responsible AI, GDPR]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python]
+    genai: [Generative AI, AI Agents, Prompt Engineering, Agentic Workflows, LangChain,
+      LangGraph, RAG, LLMs, Fine-Tuning, OpenAI API, Azure OpenAI, Llama, Embeddings,
+      LoRA, RLHF]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11129251'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:20:31.134527'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

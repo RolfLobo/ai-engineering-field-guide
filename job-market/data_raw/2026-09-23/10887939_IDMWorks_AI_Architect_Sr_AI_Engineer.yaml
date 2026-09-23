@@ -1,0 +1,100 @@
+job_id: 10887939
+title: AI Architect / Sr. AI Engineer
+company: IDMWorks
+location: Pune, IND
+remote: true
+work_type: FULL_TIME
+company_size: 143 Employees
+description: |
+  Position Overview We are looking for an experienced Senior
+  AI Engineer with strong full-stack software development
+  skills to build and optimize our next-generation AI
+  platform. You will lead the integration of state-of-the-art
+  Large Language Models (LLMs) using modern orchestration
+  frameworks like LiteLLM and direct API connections to models
+  such as Anthropic’s Claude. The ideal candidate bridges the
+  gap between AI engineering and production web
+  applications—combining deep expertise in Python, Django, and
+  JavaScript with reliable CI/CD practices to ship scalable,
+  production-ready applications.
+
+  Key Responsibilities
+
+  - LLM Orchestration & Integration: Design, deploy, and
+    maintain multi-model pipelines using LiteLLM to handle
+    routing, load balancing, cost tracking, and fallback
+    strategies.
+  - Claude / Anthropic API Implementation: Integrate Anthropic's
+    Claude models directly into core products to drive
+    advanced reasoning, text generation, and agentic
+    workflows.
+  - Backend Development: Build robust, secure, and scalable
+    RESTful APIs and backend services using Django and Python.
+  - Frontend Collaboration: Develop and integrate user-facing
+    features using JavaScript to deliver seamless AI-driven
+    user experiences.
+  - Automation & Scripting: Write clean, modular Python scripts
+    for data processing, workflow automation, and tool
+    execution.
+  - DevOps & CI/CD: Establish, maintain, and automate deployment
+    pipelines using standard CI/CD tooling to ensure
+    continuous testing, high reliability, and rapid iteration
+    cycles.
+
+  Required Qualifications
+
+  - Experience: 5+ years of software engineering experience with
+    a strong focus on backend systems and AI implementation.
+  - AI & LLMs: Hands-on experience working with LiteLLM for
+    model management and direct integration experience with
+    Anthropic / Claude APIs.
+  - Core Language: Advanced proficiency in Python (including
+    scripting, async processing, and standard libraries).
+  - Frameworks: Demonstrated commercial experience building
+    applications with Django (and Django REST Framework).
+  - Frontend Tech: Functional proficiency in JavaScript (ES6+)
+    for frontend integration and UI interactions.
+  - DevOps & Infrastructure: Strong knowledge of CI/CD pipelines
+    (e.g., GitHub Actions, GitLab CI, or Jenkins) and standard
+    deployment practices.
+  - Version Control: Expertise with Git workflows and
+    collaborative development practices.
+
+  Nice-to-Have Skills
+
+  - Experience with vector databases (e.g., Pinecone, Qdrant,
+    Chroma) and RAG (Retrieval-Augmented Generation)
+    architectures.
+  - Familiarity with containerization technologies like Docker
+    and Kubernetes.
+  - Experience monitoring and evaluating LLM latency, cost, and
+    output quality in production.
+
+  IDMWORKS is an award-winning identity and access management
+  (IAM) solutions firm that has been serving a wide range of
+  sectors since its inception in 2004. As a firm that’s purely
+  focused on IAM, IDMWORKS offers a comprehensive range of
+  services designed to enable enterprises to effectively
+  manage, secure and scale employee and customer access to
+  systems, data, and software applications. This specialized
+  service empowers organizations across key industries,
+  including banking and finance, commercial and retail,
+  healthcare, higher education, and government, to ensure
+  secure and efficient access management.
+
+
+
+  IDMWORKS has been a pioneer in remote-work for 20 years with
+  teams operating across the US, Canada and India. This
+  approach has helped establish themselves as a leader in the
+  field of IAM with their commitment to securing businesses
+  and facilitating seamless interactions between companies,
+  their customers, partners, and employees. This dedication
+  has driven transformative growth in the organizations they
+  serve.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-27
+url: "https://builtin.com/job/ai-architect-sr-ai-engineer/10887939"
+source: Built In

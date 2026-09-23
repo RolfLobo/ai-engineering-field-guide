@@ -1,0 +1,51 @@
+company:
+  name: Percepta AI
+  stage: null
+  focus: Applied AI transformation for critical industries
+position:
+  title: AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps/SRE infrastructure role: Terraform,
+      Kubernetes, CI/CD, monitoring, and deployment across clouds.
+      The person hosts and operates autonomous agents but does not
+      shape model behavior through prompts, retrieval, training,
+      or evals. AI is the workload being operated, not the thing
+      being built.
+  responsibilities:
+  - Define infrastructure patterns for multi-agent systems that are observable, controllable,
+    and recoverable
+  - Own and evolve IaC stack with Terraform and Kubernetes across AWS, GCP, and Azure
+  - Build observability primitives for agentic workflows, tracing agent decisions
+    and execution paths
+  - Design and maintain CI/CD pipelines from commit to production
+  - Build operational foundations including monitoring, alerting, and incident response
+  - Work with engineering teams to meet reliability and compliance requirements (SOC
+    2, HIPAA, regulated environments)
+  use_cases:
+  - Infrastructure and deployment for autonomous AI agents
+  - Observability and tracing of agent decisions in production
+  - Multi-cloud infrastructure management for agentic systems
+  - Compliant deployments for regulated healthcare and energy institutions
+  - CI/CD and operational reliability for AI products
+  skills:
+    genai: [Multi-Agent Systems, Agentic Workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure, IAM]
+    ops: [Terraform, Kubernetes, Docker, CI/CD, GitHub Actions, GitLab CI, GitOps,
+      Prometheus, Grafana, Monitoring, Model Deployment, MLOps]
+    languages: [Python, Bash]
+    domains: []
+    other: [SOC 2, HIPAA Compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11210982'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:27:01.299307'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

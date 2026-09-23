@@ -1,0 +1,46 @@
+company:
+  name: WebMD
+  stage: null
+  focus: Health data technology and ad targeting
+position:
+  title: Senior Software Engineer, AI & Platform APIs (Remote, International)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds MCP/agent tooling in Python, ships LLM-
+      backed features, and does tool-calling/RAG work — directly
+      shaping LLM behavior and agent flows — making it ai-first
+      per Step 2. The platform/Java half does not change that.
+  responsibilities:
+  - Build MCP/agent tooling in Python on GCP
+  - Ship LLM-backed features into customer-facing portals
+  - Drive AI-assisted development practices across the team
+  - Design, build, test, and review production REST APIs with Java 21 / Spring Boot
+    3.4
+  - Maintain and modernize legacy Java services
+  - Operate services on GCP with Kubernetes, Cloud Run, IAM, and Secret Manager
+  use_cases:
+  - LLM-backed features in health information portals
+  - Agent/MCP tooling for platform capabilities
+  - Legacy Java API modernization
+  - Healthcare professional and patient ad targeting platform
+  skills:
+    genai: [MCP, AI Agents, LLMs, Function Calling, RAG, Claude Code, Codex]
+    ml: []
+    web: [Spring Boot, REST APIs]
+    databases: []
+    data: []
+    cloud: [GCP, Cloud Run, IAM]
+    ops: [Kubernetes, Secret Manager]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11072452'
+  location: GBR
+  remote: true
+  extracted_at: '2026-09-23T11:17:31.500449'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

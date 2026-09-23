@@ -1,0 +1,323 @@
+job_id: 10689348
+title: AI and HPC Systems Performance Engineer
+company: Hewlett Packard Enterprise
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 85,422 Employees
+description: |
+  AI and HPC Systems Performance Engineer
+
+
+
+  This role has been designed as 'Hybrid' with a requirement
+  that you will work on average 2 days per week from an HPE
+  office.
+
+  Who We Are:
+
+  Hewlett Packard Enterprise is the global edge-to-cloud
+  company advancing the way people live and work. We help
+  companies connect, protect, analyze, and act on their data
+  and applications wherever they live, from edge to cloud, so
+  they can turn insights into outcomes at the speed required
+  to thrive in today’s complex world. Our culture thrives on
+  finding new and better ways to accelerate what’s next. We
+  know varied backgrounds are valued and succeed here. We have
+  the flexibility to manage our work and personal needs. We
+  make bold moves, together, and are a force for good. If you
+  are looking to stretch and grow your career our culture will
+  embrace you. Open up opportunities with HPE.
+
+  Job Description:
+
+
+
+  High Performance Computing, AI and Labs is a critical
+  element of HPE. We are focused on delivering innovative
+  solutions that accelerate our customers’ digital
+  transformation, enabling them to tackle their complex, and
+  data-intensive workloads. Combining deep expertise and the
+  development of the world’s most cutting-edge, high-
+  performance supercomputers, is defining the next era of
+  computing delivering valuable insight & innovation. Join us
+  and redefine what’s next for you.
+
+  We are looking for an experienced AI Performance Engineer
+  with expertise in tuning GPU server performance for a
+  variety of Artificial Intelligence (AI) training and
+  inference workloads running on Linux platforms. The ideal
+  candidate will be a senior or principal-level engineer with
+  demonstrated experience installing, configuring,
+  characterizing, and optimizing industry-standard server
+  infrastructure including compute, storage, networking, and
+  accelerator technologies for AI workloads.
+
+  The individual in this role will investigate workload
+  behavior by capturing and analyzing system telemetry,
+  profiling data, traces, and performance metrics to
+  characterize workload execution and identify opportunities
+  for optimization through software, firmware, and hardware
+  configuration changes. They will work closely with
+  customers, partners, and internal engineering teams to
+  optimize performance and scalability of AI solutions
+  deployed on HPE platforms.
+
+  This role requires strong research, analytical, and problem-
+  solving skills, along with experience building, deploying,
+  optimizing, and maintaining containerized AI/ML environments
+  and workloads. The engineer will collaborate with software
+  development teams to capture workload telemetry, improve
+  observability, and optimize AI software stacks running on
+  HPE infrastructure.
+
+  They should understand the performance and capacity
+  characteristics of modern AI training and inference
+  workloads and be comfortable working independently to
+  evaluate emerging technologies, author technical papers, and
+  develop AI reference architectures.
+
+  Experience troubleshooting complex, multi-tier software
+  systems and distributed AI environments is highly desirable.
+  Experience with one or more of PyTorch, JAX, Hugging Face
+  Transformers, DeepSpeed, Megatron-LM, Ray, vLLM, SGLang,
+  TensorRT-LLM, Dynamo, ONNX Runtime, Kubernetes, Redis,
+  Vector Databases, Retrieval-Augmented Generation (RAG)
+  architectures, distributed training and inference, and
+  large-scale AI/LLM workloads is highly desired.
+
+  The ideal candidate will also have experience characterizing
+  and optimizing performance across multi-GPU and distributed
+  AI environments utilizing modern GPU interconnect,
+  networking, and storage technologies.
+
+  Strong written and verbal communication skills are required.
+
+  What you’ll do:
+
+  - Install, configure, and optimize complex AI infrastructure
+    components including GPU servers, storage systems, high-
+    speed networking, and AI software stacks.
+  - Develop automation scripts, deployment frameworks, and
+    Infrastructure-as-Code solutions to streamline AI platform
+    provisioning and workload execution.
+  - Perform system-level performance characterization and
+    optimization of AI training and inference workloads on HPE
+    platforms utilizing GPU accelerators and distributed
+    computing technologies.
+  - Design, execute, and analyze performance benchmarks for
+    AI/ML workloads, including large language models (LLMs),
+    multimodal models, Retrieval-Augmented Generation (RAG)
+    pipelines, and distributed training environments.
+  - Characterize and optimize performance across multi-GPU and
+    distributed AI environments using modern interconnect,
+    storage, and networking technologies such as InfiniBand,
+    Ethernet fabric, GPUDirect, and RDMA.
+  - Capture, analyze, and interpret system telemetry,
+    performance metrics, logs, traces, and profiling data to
+    identify bottlenecks and optimization opportunities.
+  - Develop tools, software, and automation frameworks to
+    improve AI workload observability, performance analysis,
+    scalability testing, and benchmark execution.
+  - Collaborate with customers, partners, and internal
+    engineering organizations to characterize, troubleshoot,
+    and optimize AI solutions deployed on HPE infrastructure.
+  - Work closely with ISV, IHV, GPU vendor, and open-source
+    ecosystem partners to evaluate, optimize, and validate AI
+    software and hardware solutions.
+  - Evaluate emerging AI frameworks, models, accelerators, and
+    infrastructure technologies; provide technical
+    recommendations and performance guidance.
+  - Author technical reports, white papers, reference
+    architectures, benchmark studies, and best-practice
+    guidance for AI performance optimization and solution
+    design.
+  - Document findings, performance issues, and optimization
+    recommendations, and communicate technical results to
+    engineering teams, customers, and management.
+  - Provide technical leadership, mentoring, and guidance to
+    junior engineers and contribute to the development of
+    performance engineering best practices.
+  - Communicate project status, technical risks, and performance
+    findings to management and stakeholders in a timely
+    manner.
+
+  What you need to bring:
+
+  - Typically 8+ years of experience
+  - Strong experience with Linux system administration and
+    command-line environments across multiple enterprise Linux
+    distributions.
+  - Experience with modern AI/ML frameworks and ecosystems
+    including PyTorch, JAX, Hugging Face Transformers, and
+    related technologies.
+  - Experience with AI model training, inference, benchmarking,
+    performance characterization, and optimization.
+  - Experience with data analysis, statistical methods,
+    experiment design, and performance modeling techniques.
+  - Experience conducting technical research and evaluating
+    emerging AI technologies, frameworks, and hardware
+    platforms.
+  - Experience with high-performance networking technologies
+    including InfiniBand, RDMA, RoCE, and Mellanox/NVIDIA
+    networking solutions.
+  - Strong analytical, troubleshooting, and root-cause analysis
+    skills.
+  - Proficiency in one or more programming or scripting
+    languages such as Python, Bash, Go, C++, or similar.
+  - Experience working with complex, distributed, multi-layer
+    software systems and AI infrastructure stacks.
+  - Experience using performance profiling, tracing,
+    observability, and benchmarking tools to analyze system
+    and application performance.
+  - Experience with containerized and orchestrated environments
+    including Docker, Kubernetes, and related cloud-native
+    technologies.
+  - Experience analyzing and optimizing AI workloads running on
+    GPU-accelerated systems.
+  - Experience with distributed training and inference
+    frameworks and large-scale AI/LLM workloads.
+  - Experience with GPU accelerator technologies, memory
+    hierarchies, and AI software stacks including CUDA, NCCL,
+    and related ecosystem tools.
+  - Experience with distributed GPU environments and multi-node
+    AI clusters.
+  - Experience with LLM serving frameworks such as vLLM,
+    TensorRT-LLM, SGLang, or similar technologies.
+  - Aptitude for self-learning; Learns new concepts quickly
+  - Excellent written and verbal communication; mastery in
+    English.
+  - Able to work well in a team environment and perform well
+    under pressure
+  - Experience with tuning system performance in a benchmarking
+    environment
+
+  Desired Skills and Experience
+
+  - MS/ME/MTech or PhD in Computer Science, Computer
+    Engineering, Electrical Engineering, Data Science,
+    Artificial Intelligence, or a related technical
+    discipline.
+  - 5+ years of experience in AI/ML infrastructure, performance
+    engineering, high-performance computing (HPC), or related
+    technical fields.
+  - Experience with large-scale AI training and inference
+    environments supporting foundation models and large
+    language models (LLMs).
+  - Experience with HPE platforms, AI Factory architectures, or
+    enterprise AI infrastructure solutions.
+  - Experience with parallel and distributed storage
+    technologies, including Weka, Lustre, BeeGFS, GPFS, or
+    similar high-performance file systems.
+  - Experience with AI benchmarking methodologies and industry
+    benchmarks such as MLPerf.
+  - Experience developing reference architectures, technical
+    papers, benchmark studies, or performance guidance
+    documentation.
+  - Experience working directly with customers, partners, and
+    cross-functional engineering teams in highly collaborative
+    environments.
+  - Experience optimizing performance across multi-GPU and
+    multi-node AI environments using InfiniBand, RDMA,
+    GPUDirect, or equivalent technologies.
+  - Ability to work independently in globally distributed teams
+    with minimal supervision.
+
+  What We Can Offer You:
+
+  Health & Wellbeing
+
+  We strive to provide our team members and their loved ones
+  with a comprehensive suite of benefits that supports their
+  physical, financial and emotional wellbeing.
+
+  Personal & Professional Development
+
+  We also invest in your career because the better you are,
+  the better we all are. We have specific programs catered to
+  helping you reach any career goals you have — whether you
+  want to become a knowledge expert in your field or apply
+  your skills to another division.
+
+  Unconditional Inclusion
+
+  We are unconditionally inclusive in the way we work and
+  celebrate individual uniqueness. We know varied backgrounds
+  are valued and succeed here. We have the flexibility to
+  manage our work and personal needs. We make bold moves,
+  together, and are a force for good.
+
+  Let's Stay Connected:
+
+  Follow @HPECareers on Instagram to see the latest on people,
+  culture and tech at HPE.
+
+  #india#highperformancecompute
+
+  Job:
+
+  Engineering
+
+  Job Level:
+
+  TCP_04
+
+
+
+
+
+  HPE is an Equal Employment Opportunity/
+  Veterans/Disabled/LGBT employer. We do not discriminate on
+  the basis of race, gender, or any other protected category,
+  and all decisions we make are made on the basis of
+  qualifications, merit, and business need. Our goal is to be
+  one global team that is representative of our customers, in
+  an inclusive environment where we can continue to innovate
+  and grow together. Please click here: Equal Employment
+  Opportunity.
+
+  Hewlett Packard Enterprise is EEO Protected Veteran/
+  Individual with Disabilities.
+
+
+
+  HPE will comply with all applicable laws related to employer
+  use of arrest and conviction records, including laws
+  requiring employers to consider for employment qualified
+  applicants with criminal histories.
+
+
+
+  Recruitment Fraud Alert
+
+  We have become aware of an increase in fraudulent
+  recruitment activities in which individuals impersonate our
+  company or authorized recruitment agencies to offer fake
+  employment opportunities. These scams may occur through
+  false websites, emails, social media, or chat-based
+  applications and often aim to obtain personal information or
+  money. Please note that Hewlett Packard Enterprise (HPE),
+  its direct and indirect subsidiaries and affiliated
+  companies, and its authorized recruitment agencies/vendors
+  will never charge a candidate a registration fee, hiring
+  fee, or any other fee in connection with its recruitment and
+  hiring process. We also never request personal information
+  such as back account details, Social Security numbers, or
+  national IDs via social media or chat applications.
+
+  All legitimate job opportunities will come through official
+  company channels, and candidates are responsible for
+  verifying the credentials of any third party claiming to
+  represent the company. Any reliance on fraudulent
+  communication is at the individual’s own risk, and HPE
+  disclaims legal liability for any resulting damages. If you
+  suspect recruitment fraud, do not share personal information
+  or make any payments and report the incident to your local
+  authorities immediately.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-14
+url: "https://builtin.com/job/ai-and-hpc-systems-performance-engineer/10689348"
+source: Built In

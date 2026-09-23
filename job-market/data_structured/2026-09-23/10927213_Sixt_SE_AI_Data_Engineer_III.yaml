@@ -1,0 +1,50 @@
+company:
+  name: Sixt SE
+  stage: null
+  focus: Global mobility and car rental services
+position:
+  title: AI Data Engineer III
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and implements multi-agent workflows and
+      RAG pipelines, and drives LLM-augmented data capabilities
+      directly, which is shaping LLM behavior through retrieval
+      and agent design. Although it's a data engineering role, the
+      agent/RAG design responsibilities make it ai-first.
+  responsibilities:
+  - Lead and implement AWS and big data technologies for the SIXT Data Shop
+  - Partner with Data Engineers, BI Analysts, and Data Scientists on analytical use
+    cases including dashboarding, ad hoc analytics, data-as-a-product, and machine
+    learning
+  - Design and implement multi-agent workflows automating end-to-end data operations
+    from ingestion to distribution with quality gates
+  - Drive adoption of LLM-augmented data capabilities including RAG pipelines and
+    semantic search over the Data Catalogue
+  - Contribute to the Data Platform vision and roadmap
+  - Build AI-assisted self-service experiences for internal consumers
+  use_cases:
+  - Automated end-to-end data operations via multi-agent workflows
+  - RAG pipelines and semantic search over the enterprise Data Catalogue
+  - AI-assisted self-service data experiences for internal consumers
+  - Realtime ML and analytical capabilities on the SIXT Data Platform
+  - Data-as-a-product and dashboarding for a global mobility business
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Semantic Search]
+    ml: []
+    web: []
+    databases: [Redshift, Snowflake, Vector Databases, Graph Databases]
+    data: [Data Pipelines, dbt, Airflow, Data Modeling]
+    cloud: [AWS]
+    ops: [Jenkins, CI/CD, GitHub]
+    languages: [Python, SQL]
+    domains: []
+    other: [Code Review, Agile, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10927213'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:07:12.596169'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

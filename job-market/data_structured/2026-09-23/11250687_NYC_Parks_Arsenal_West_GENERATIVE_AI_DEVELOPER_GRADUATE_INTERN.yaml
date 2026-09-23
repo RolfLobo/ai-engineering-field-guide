@@ -1,0 +1,47 @@
+company:
+  name: NYC Parks Arsenal West
+  stage: null
+  focus: NYC government IT services for social services agencies
+position:
+  title: GENERATIVE AI DEVELOPER GRADUATE INTERN
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role evaluates model response quality (judging output
+      quality is shaping) and helps design and architect GenAI
+      solutions with AWS Bedrock and Claude models. LLM components
+      are central, so ai-first.
+  responsibilities:
+  - Evaluate model responses for quality, safety, accuracy, and performance, and suggest
+    improvements
+  - Debug, troubleshoot, and optimize GenAI-enabled applications and update project
+    documentation and technical guides
+  - Assist with data preparation, annotation, and validation for AI use cases
+  - Help design and architect robust, scalable, and secure GenAI solutions using AWS
+    Bedrock and Anthropic Claude models
+  - Review and write Python and/or ReactJS code to build application features and
+    document code and infrastructure artifacts
+  - Conduct research, attend meetings, and other assigned work
+  use_cases:
+  - GenAI-enabled applications supporting HRA and DHS social service operations
+  - Model response quality and safety evaluation
+  - AI use cases for benefits, case management, and housing systems
+  skills:
+    genai: [Anthropic API, Generative AI]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: [AWS Bedrock]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11250687'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:31:21.300284'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

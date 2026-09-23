@@ -1,0 +1,55 @@
+company:
+  name: LSEG (London Stock Exchange Group)
+  stage: null
+  focus: Global financial markets infrastructure and data provider
+position:
+  title: AI/ML Site Reliability Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The SRE's responsibilities are operating, hardening,
+      monitoring, and hosting the MCP Gateway and AI platforms —
+      deliverable is capacity and reliability, not model or agent
+      behaviour. Testing/evaluation is 'supported' in partnership
+      with ML/QA engineers, not built by this role, so it falls
+      under ai-support per the serving/ops edge case.
+  responsibilities:
+  - Build, operate, and harden the Internal MCP Gateway and related platform services
+  - Define and implement observability, monitoring, and audit capabilities for agent
+    tool-calling and MCP traffic
+  - Ensure MCP platform components meet availability, performance, and reliability
+    targets
+  - Support secure hosting and runtime environments for MCP servers and related services
+  - Partner with ML and Quality Engineers on testing, evaluation, and safe rollout
+    of platform changes
+  - Contribute to service management, incident response, and operational readiness
+    for production AI platforms
+  - Help shape the long-term platform architecture for federated MCP scale
+  use_cases:
+  - Enterprise agentic AI platform (LSEG AI Assist) with reasoning, planning, and
+    tool-calling
+  - Internal MCP Gateway for discovery, security, policy enforcement, and lifecycle
+    management of MCP tools
+  - Enterprise RAG and search layer (QAS) grounding agent responses in approved data
+    sources
+  - Exposing internal and vendor systems safely to AI agents via MCP servers and Skills
+  - Evaluation and governance for safe, scaled rollout of AI agent tooling
+  skills:
+    genai: [MCP]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Monitoring, Observability, Distributed Systems]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11274413'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:34:39.071564'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

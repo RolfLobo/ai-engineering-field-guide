@@ -1,0 +1,123 @@
+job_id: 11046237
+title: AI Engineer Intern
+company: Incepta
+location: USA
+remote: true
+work_type: INTERN
+description: |
+  Location: Remote | Hours: 20–40/week | Rate: $30/hour |
+  Growth & Equity Potential
+
+  About Incepta
+
+  Incepta is an AI implementation firm that builds custom
+  solutions for independent insurance agencies and launches
+  products when we spot high-impact opportunities. We turn
+  real-world business inefficiencies into AI agents that
+  deliver real value.
+
+  We’re not looking for just another intern—and you’re not
+  here for busywork. We want prodigies: builders who’ve
+  shipped side projects, won hackathons, or built AI agents
+  from scratch. If you’ve built ambitious projects, shipped
+  code that matters, or taught yourself to build AI agents,
+  you’ll fit right in. You know how to move aggressively,
+  learn fast, and take responsibility. Here, you’ll build
+  agents for real customers—not just shadow someone else’s
+  work.
+
+  This isn't a run-of-the-mill internship; it's a launchpad
+  for future technical leaders. You'll architect end-to-end AI
+  agents, work alongside cracked engineers, and drive
+  solutions from concept to deployment. Stand out, and you'll
+  earn a permanent role with real equity as we scale together.
+
+  At Incepta, we don't just experiment with AI—we automate
+  complex workflows, replace manual processes, and build
+  scalable, production-ready solutions. If you want to build
+  something real, thrive on challenging technical problems,
+  and solve cutting-edge AI development challenges, we want to
+  hear from you.
+
+  Role & Responsibilities
+
+  - Design & ship AI agents end‑to‑end—from spec to production
+    deployment
+  - Orchestrate LLM pipelines (GPT‑4o, o1-preview, Claude 3.5
+    Sonnet, Gemini 2.0) with LangChain/LangGraph and vector
+    search
+  - Integrate APIs (OpenAI, Anthropic, custom services) with
+    proper auth, error handling, and logging
+  - Build lightweight UIs with React + Tailwind enabling users
+    to trigger and monitor agents
+  - Deploy & scale on serverless platforms; optimize for speed,
+    accuracy, and cost
+  - Implement function calling & tool use for agent-environment
+    interactions via Model Context Protocol (MCP)
+  - Build computer vision pipelines for document processing (PDF
+    parsing, OCR, structured data extraction)
+  - Monitor & iterate with performance tracking and weekly
+    improvements
+
+  Required Skills
+
+  (Applicants must meet ALL criteria to be considered)
+
+  - Enrollment: Currently pursuing Master's or PhD in Computer
+    Science, AI, or related technical field
+  - Programming: Proficient in Python or JavaScript (Node.js)
+  - Prompt Engineering: Near-native English proficiency; get
+    models to follow complex instructions and handle open-
+    ended tasks
+  - LLM APIs: Hands-on experience with OpenAI APIs (GPT-4
+    family, o1-preview, Function-Calling, Vision, Realtime
+    API)
+  - Multimodal AI: Experience with additional LLM providers
+    (Anthropic Claude, Google Gemini)
+  - RAG Implementation: Hands-on experience with retrieval-
+    augmented generation, vector search, and document
+    processing pipelines
+  - Function Calling & Tool Use: Built agents that interact with
+    external APIs, databases, and services
+  - Serverless Deployment: Deploy code on AWS Lambda, GCP
+    Functions, Azure Functions, or Firebase
+  - Data Systems: Experience with SQL/NoSQL databases and vector
+    databases (Pinecone, ChromaDB, FAISS)
+  - Full-Stack Integration: Connect backend AI logic with
+    frontend interfaces
+  - Agent Frameworks: Experience with LangChain, LangGraph,
+    LlamaIndex, or similar orchestration tools
+
+  Bonus Skills
+
+  (Nice to have, not required)
+
+  - Computer Vision Integration: Combining vision models with
+    LLMs for document/image analysis
+  - Model Context Protocol (MCP): Structured agent-environment
+    interaction protocols
+  - Real-time AI Systems: Streaming, WebSocket, or low-latency
+    AI applications
+  - Containerization: Docker and basic Kubernetes
+  - React/Vue: Building dashboards and chat interfaces
+  - SaaS Scaling: Taking prototypes to production-ready systems
+  - AI Safety: Responsible AI principles and data privacy
+    practices
+
+  Skills Python · Node.js · TypeScript · REST/GraphQL APIs ·
+  LLM APIs (GPT-4o, o1-preview, Claude 3.5, Gemini) · Function
+  Calling & Tool Use · RAG Implementation ·
+  LangChain/LangGraph/LlamaIndex · Model Context Protocol
+  (MCP) · Computer Vision/Document Processing · AWS Lambda ·
+  GCP Cloud Functions · Azure Functions · Full‑Stack (React +
+  Vite) · SQL & NoSQL · Vector Databases
+  (Pinecone/ChromaDB/FAISS) · Multi-agent Orchestration ·
+  Docker · CI/CD · Prompt Engineering
+industries:
+  - Artificial Intelligence
+  - Insurance
+  - Software
+  - Automation
+posted_date: 2026-09-22
+url: "https://www.builtinla.com/job/ai-engineer-intern/11046237"
+source: Built In

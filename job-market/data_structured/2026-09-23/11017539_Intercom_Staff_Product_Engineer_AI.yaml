@@ -1,0 +1,49 @@
+company:
+  name: Intercom
+  stage: null
+  focus: AI customer support agent (Fin) and help desk software
+position:
+  title: Staff Product Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role engineers production systems around Fin's AI
+      products, bringing ML Scientists' proof-of-concept code to
+      production and ensuring robustness/scalability. There is no
+      evidence the engineer writes prompts, designs retrieval, or
+      shapes model behavior themselves; model work is owned by ML
+      Scientists. This matches the pattern of serving/hardening
+      models others build, which is ai-support.
+  responsibilities:
+  - Build the systems that power Fin's flagship AI products in the ML Python stack
+    and Rails app
+  - Work alongside ML Scientists to bring proof-of-concept code to production, ensuring
+    robustness and scalability
+  - Partner with product teams to shape AI-powered product experiences for customers
+  - Contribute to ideation, prototyping, implementation, and testing across the software
+    development lifecycle
+  - Mentor engineers and participate in hiring and career development
+  - Raise technical standards for performance, reliability, and operational excellence
+  use_cases:
+  - AI customer service agent resolving customer issues end-to-end
+  - Customer support automation across service, sales, and ecommerce channels
+  - ML-powered product features for the Intercom help desk
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Ruby, JavaScript]
+    domains: []
+    other: [Ruby on Rails, Data Analytics, Statistics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11017539'
+  location: Berlin, DEU
+  extracted_at: '2026-09-23T11:12:36.006301'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

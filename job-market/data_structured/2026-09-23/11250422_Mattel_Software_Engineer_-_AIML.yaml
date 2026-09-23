@@ -1,0 +1,62 @@
+company:
+  name: Mattel
+  stage: null
+  focus: Global toy and family entertainment company
+position:
+  title: Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly: designing prompts,
+      building RAG, embeddings/vector search, LLM orchestration,
+      function calling, agents, fine-tuning, LLM evaluation
+      frameworks, and guardrails. Since LLM/GenAI work is a major
+      explicit component (alongside classical ML and CV), the role
+      is ai-first.
+  responsibilities:
+  - Design, develop, and evaluate ML models for classification, regression, forecasting,
+    clustering, recommendation, anomaly detection, and optimization
+  - Develop deep learning solutions using PyTorch and/or TensorFlow with CNNs, RNN/LSTMs,
+    and Transformers
+  - Build GenAI applications with LLMs using prompt engineering, RAG, embeddings,
+    function calling, agents, and fine-tuning
+  - Develop evaluation frameworks for LLM applications covering response quality,
+    hallucination, groundedness, relevance, latency, and cost
+  - Develop and deploy computer vision solutions including image classification, object
+    detection, segmentation, OCR, and defect detection
+  - Build AI/ML solutions for supply chain and operations problems such as demand
+    forecasting, inventory optimization, and replenishment recommendations
+  - Collaborate with engineering teams to deploy ML and GenAI solutions into production,
+    including APIs, batch pipelines, and real-time inference
+  use_cases:
+  - Demand and sales forecasting
+  - Inventory optimization and stock-out/overstock prediction
+  - Replenishment and product allocation recommendations
+  - Lead-time and ETA prediction, logistics and warehouse analytics
+  - Visual inspection and defect detection, OCR and product/image recognition
+  - Domain-specific enterprise GenAI applications over structured and unstructured
+    data
+  skills:
+    genai: [Generative AI, LLMs, Prompt Engineering, RAG, Embeddings, Function Calling,
+      AI Agents, Fine-Tuning, LLM Evaluation, Guardrails, LangChain, LlamaIndex, Semantic
+        Kernel]
+    ml: [Machine Learning, Deep Learning, XGBoost, LightGBM, Feature Engineering,
+      Time-Series Forecasting, Model Evaluation, PyTorch, TensorFlow, Neural Networks,
+      CNNs, Transformers, Anomaly Detection, scikit-learn, Statistical Modeling, Model
+        Training]
+    web: [APIs]
+    databases: [Vector Databases, Snowflake]
+    data: [Pandas, NumPy, Databricks, Spark]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, CI/CD, MLflow, Kubernetes, Model Monitoring]
+    languages: [Python, SQL]
+    domains: [Computer Vision]
+    other: [OpenCV, YOLO, Responsible AI, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11250422'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:32:10.142442'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

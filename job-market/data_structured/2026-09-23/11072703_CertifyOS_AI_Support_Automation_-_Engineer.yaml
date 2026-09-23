@@ -1,0 +1,54 @@
+company:
+  name: CertifyOS
+  stage: null
+  focus: |-
+    Provider data infrastructure for healthcare credentialing
+    and licensing
+position:
+  title: AI & Support Automation - Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM/RAG/agent solutions end-to-
+      end, including prompt-driven workflows, evaluation, and
+      guardrails, directly shaping model behavior and output
+      quality. LLMs and agents are the core deliverable, so it is
+      ai-first.
+  responsibilities:
+  - Identify high-impact support processes for AI/automation
+  - Design, build, integrate, test and deploy AI-powered workflows and agents
+  - Develop solutions using LLMs, RAG, AI agents and workflow automation
+  - Build end-to-end AI pipelines covering ingestion, orchestration, model execution,
+    tools/actions, evaluation and production monitoring
+  - Integrate AI with CRM, ticketing, knowledge bases and internal tools
+  - Monitor AI quality, accuracy, cost, latency and business impact and continuously
+    improve solutions
+  - Partner with Product and Engineering to drive AI-led transformation
+  use_cases:
+  - Support automation for customer support workflows
+  - AI agents and agentic workflows for ticket handling and deflection
+  - RAG over knowledge bases and internal tools
+  - CRM, ticketing and helpdesk system automation
+  - Production monitoring of AI quality, cost and latency
+  skills:
+    genai: [LLMs, Generative AI, RAG, Embeddings, AI Agents, Agentic Workflows, Function
+        Calling, MCP, LLM Evaluation, Guardrails, OpenAI API, Anthropic API, Gemini,
+      Claude Code, LangChain, LangGraph, LlamaIndex]
+    ml: []
+    web: [REST APIs, Webhooks]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Monitoring, Observability, Docker]
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: [n8n, Zapier, Power Automate, Salesforce, Jira, Zendesk, Freshdesk, Zoho]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11072703'
+  location: Bengaluru, IND
+  remote: true
+  extracted_at: '2026-09-23T11:17:43.101755'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

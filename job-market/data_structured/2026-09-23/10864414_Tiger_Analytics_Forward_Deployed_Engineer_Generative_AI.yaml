@@ -1,0 +1,54 @@
+company:
+  name: Tiger Analytics
+  stage: ''
+  focus: Advanced analytics and AI consulting
+position:
+  title: Forward Deployed Engineer (Generative AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      FDE who deploys, fine-tunes, and operationalizes LLMs and
+      designs RAG/prompt engineering patterns directly for
+      enterprise clients - shaping model behavior and retrieval,
+      with LLM components throughout. Customer-facing deployment
+      work is explicitly ai-first.
+  responsibilities:
+  - Deploy, fine-tune, and optimize large-scale Gen AI models and LLM orchestration
+    frameworks in customer cloud environments
+  - Architect scalable infrastructure for AI workloads with GPU/TPU orchestration,
+    high-performance storage, and low-latency networking
+  - Design high-throughput data ingestion pipelines and Vector Database architectures
+    for RAG
+  - Act as primary technical consultant guiding enterprise clients on AI safety, prompt
+    engineering patterns, and inference cost optimization
+  - Feed edge-case deployment insights back to core AI research and platform engineering
+    teams
+  - Manage customer expectations around LLM non-determinism, hallucinations, and performance
+    trade-offs
+  use_cases:
+  - Enterprise Generative AI solution deployment for Fortune 500 clients
+  - LLM operationalization on Google Cloud
+  - RAG-based retrieval systems with vector databases
+  - AI safety, prompt engineering, and inference cost optimization consulting
+  - GPU/TPU infrastructure scaling for AI workloads
+  skills:
+    genai: [LangChain, LlamaIndex, AutoGen, LLMs, RAG, Prompt Engineering, Fine-Tuning,
+      Generative AI]
+    ml: [PyTorch, Hugging Face, Deep Learning, Model Evaluation]
+    web: []
+    databases: [Vector Databases, Milvus, Pinecone, pgvector]
+    data: []
+    cloud: [GCP, Vertex AI, IAM]
+    ops: [vLLM, Triton, LLMOps, Kubernetes, Terraform]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10864414'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:03:18.892530'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,54 @@
+company:
+  name: Allata
+  stage: null
+  focus: Consulting and technology services firm
+position:
+  title: Software Test Engineer (Automation + AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a test automation role; AI tools are used to speed
+      up test generation, code review, and knowledge retrieval,
+      not to shape model behavior or output quality. No prompt
+      design, RAG architecture ownership, or model training is a
+      deliverable.
+  responsibilities:
+  - Analyze requirements, user stories, and API contracts to create test scenarios
+    and automation strategies
+  - Build and maintain automated tests using Selenium, Playwright, and Cypress with
+    reusable frameworks (POM, BDD)
+  - Test APIs including authentication, payloads, error handling, and contract validation
+    using Postman and REST automation
+  - Write SQL queries to validate data integrity, transformations, and business logic
+  - Integrate test suites into CI/CD pipelines and monitor execution quality and build
+    health
+  - Track defects in JIRA with reproduction steps and impact analysis
+  - Use AI tools to speed up test generation, analyze failure patterns, and review
+    code
+  - Champion Shift-Left practices through requirement reviews and early test planning
+  use_cases:
+  - Automated testing of web, SaaS, API, and mobile applications
+  - API contract and data integrity validation
+  - CI/CD pipeline quality monitoring and regression reduction
+  - AI-assisted test generation and defect pattern recognition
+  - RAG-based retrieval of knowledge from technical docs and past test runs
+  skills:
+    databases: [SQL, Chroma, Pinecone]
+    domains: []
+    data: []
+    web: [Selenium, Playwright, Cypress, REST APIs, Postman, OAuth]
+    ml: []
+    ops: [CI/CD, Git, Jenkins, Azure DevOps, GitHub Actions, JMeter, Docker, GitHub
+        Copilot, Cursor]
+    other: [Jira, Agile, Code Review, K6, OWASP]
+    cloud: [AWS, Azure]
+    languages: [Java, JavaScript, TypeScript]
+    genai: [RAG, Anthropic API]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11225330'
+  location: Vadodara, IND
+  extracted_at: '2026-09-23T11:28:12.896719'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

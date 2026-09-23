@@ -1,0 +1,56 @@
+company:
+  name: Evnek Technologies Pvt Ltd
+  stage: null
+  focus: Enterprise GenAI application development services
+position:
+  title: Generative AI Engineer - Fullstack
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, AI agents, multi-agent
+      workflows, prompt engineering, and LLM evaluation, directly
+      shaping LLM behavior. It involves LLMs/generative components
+      end-to-end.
+  responsibilities:
+  - Design, develop, and deploy end-to-end Generative AI applications for enterprise
+    use cases
+  - Build and optimize Retrieval-Augmented Generation (RAG) pipelines
+  - Develop LLM workflows, AI Agents, and multi-agent solutions
+  - Integrate LLMs such as OpenAI/Azure OpenAI, Claude, Gemini, or open-source models
+    into enterprise applications
+  - Implement prompt engineering, function/tool calling, structured outputs, and LLM
+    evaluation techniques
+  - Develop scalable backend services and REST APIs using Python, FastAPI, or Flask
+  - Build responsive frontend applications using React.js, Next.js, Angular, or similar
+    frameworks
+  - Deploy and manage AI applications on Azure, AWS, or GCP with security, logging,
+    and monitoring
+  use_cases:
+  - Enterprise Generative AI applications
+  - Document ingestion, chunking, embedding, retrieval, reranking, and response generation
+  - Multi-agent AI workflows
+  - LLM-powered enterprise application integration
+  - GenAI applications delivered from POC to production
+  skills:
+    genai: [Generative AI, LLMs, RAG, Prompt Engineering, AI Agents, Agentic Workflows,
+      OpenAI API, Azure OpenAI, Anthropic API, Gemini, Function Calling, Structured
+        Outputs, LLM Evaluation, LangChain, LangGraph, LlamaIndex, Semantic Kernel,
+      Embeddings, Guardrails, Semantic Search]
+    ml: [Fine-Tuning]
+    web: [FastAPI, Flask, REST APIs, React, Next.js, Angular]
+    databases: [SQL, NoSQL, Vector Databases, Pinecone, FAISS, Chrom, Weaviate, Azure
+        AI Search]
+    data: []
+    cloud: [Azure, AWS, GCP, AWS Bedrock, Vertex AI]
+    ops: [Git, Docker, CI/CD, MLOps, LLMOps, Kubernetes, Model Monitoring]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [Microservices, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10866307'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:03:39.740606'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,159 @@
+job_id: 11122905
+title: Staff AI Engineer
+company: Foodsmart
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  | About us:
+
+  Foodsmart is the leading Foodcare platform in the U.S.,
+  built to deliver nutrition-driven healthcare at scale.
+  Powered by a national network of Registered Dietitians,
+  Foodsmart combines personalized clinical nutrition care,
+  behavior change tools, and food benefits to improve member
+  health outcomes while lowering healthcare costs.
+
+  Our platform is designed to foster healthier food choices,
+  drive lasting behavior change, and deliver sustainable
+  health outcomes. Through our highly personalized, digital
+  platform, we guide more than 3 million members—including
+  those in employer-sponsored health plans, regional and
+  national Medicaid managed care organizations, Medicare
+  Advantage plans, and commercial insurers—on a tailored
+  journey to eating well while saving time and money.
+
+  Foodsmart seamlessly integrates dietary assessments and
+  nutrition counseling with online food ordering and cost-
+  effective meal planning for the entire family, optimizing
+  ingredients both at home and on the go. We partner with
+  national and regional retailers across the U.S., many of
+  whom accept SNAP/EBT, making healthier food more accessible.
+  Additionally, we assist members with SNAP enrollment and
+  management, providing tangible access to nutritious food. In
+  2024, Foodsmart secured a $200 million investment from TPG’s
+  Rise Fund, which supports entrepreneurs dedicated to
+  achieving the United Nations’ Sustainable Development Goals.
+  This investment helps us expand our reach, particularly to
+  low-income workers who are disproportionately affected by
+  diet-related diseases.
+
+  At Foodsmart, our mission is to make nutritious food
+  accessible and affordable for everyone, regardless of
+  economic status. We are committed to a set of core values
+  that shape our culture and work environment:
+
+  👥 Customer First - You start with the member and work
+  backwards. 🚀 Make It Happen - You act with urgency, use
+  data, and hold high standards. 🤝 One Team - You collaborate
+  with respect and commit as a group.
+
+  Whether you're a dietitian, a commercial leader, or a
+  technologist, working at Foodsmart means being part of a
+  team that is passionate, supportive, and driven by a shared
+  purpose. Join us in transforming the way people access and
+  enjoy healthy food.
+
+  | About the role:
+
+  Foodsmart is seeking a Staff AI Engineer who will play a
+  critical leadership role in shaping the architecture and
+  delivery of AI-powered systems across the organization.
+  You’ll operate at the intersection of backend engineering
+  and applied machine learning—designing resilient
+  infrastructure, deploying cutting-edge models, and mentoring
+  engineers across teams. This role goes beyond building
+  software: it’s about setting strategy, elevating engineering
+  standards, and turning AI innovation into scalable, real-
+  world impact.
+
+  You will
+
+  - Own the architecture and implementation of distributed,
+    high-scale backend systems and APIs that serve machine
+    learning models in production.
+  - Lead technical design for AI integration across product
+    lines, enabling real-time and batch inference workflows
+    using LLMs, transformers, and classification models.
+  - Drive the fine-tuning and deployment of pre-trained models
+    (e.g., from Hugging Face or OpenAI) for mission-critical
+    business use cases in domains such as healthcare, finance,
+    or operations.
+  - Integrate external AI services where appropriate and
+    evaluate trade-offs for build vs. buy decisions.
+  - Define and evolve platform-wide standards for backend
+    engineering, MLOps, model governance, and observability.
+  - Mentor and support senior and mid-level engineers, both
+    within your team and across functions, to elevate system
+    design and code quality.
+  - Collaborate with cross-functional leaders in product, ML
+    research, data engineering, and DevOps to align technical
+    initiatives with business goals.
+  - Influence AI strategy and roadmap, evaluating emerging
+    technologies and frameworks for future adoption.
+  - Lead root-cause analyses and performance tuning to ensure
+    systems remain reliable, efficient, and scalable.
+
+  You are
+
+  - A senior technical leader with a demonstrated ability to
+    architect, build, and scale AI-backed systems in
+    production environments.
+  - Comfortable operating across layers—from backend API
+    services to AI Services and ML model lifecycle
+    management—while driving architectural clarity and system-
+    level thinking.
+  - Experienced in bridging the gap between research and
+    production, with a strong focus on reliability,
+    maintainability, and business outcomes.
+  - Skilled at leading cross-team initiatives, guiding technical
+    direction, and fostering a high-trust engineering culture.
+  - Able to influence without authority, collaborating across
+    teams to align on complex technical trade-offs.
+  - Deeply invested in engineering excellence, with a strong
+    bias toward automation, observability, and security.
+
+  You have
+
+  - 8+ years of professional software engineering experience,
+    including 2+ years at the Staff Engineer level or
+    equivalent
+  - 4+ years of experience with backend development in
+    TypeScript, Node.js, and SQL-based RDBMS (e.g.,
+    PostgreSQL, MySQL)
+  - 1+ years deploying ML/AI models to production, with hands-on
+    experience fine-tuning LLMs or transformer-based models
+  - Deep understanding of system architecture, cloud
+    infrastructure (AWS), and scalable API design
+  - Strong experience with Data Pipeline tooling (e.g., Docker,
+    Kubernetes, dbt, Dagster) and model deployment practices
+  - Proven leadership in setting technical direction, mentoring
+    engineers, and driving cross-team projects to completion
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, or a related technical field
+
+  | About our benefits and perks:
+
+  ✅ Remote-First Company ✅ Unlimited PTO ✅ Flexible & remote
+  location ✅ Healthcare Coverage (Medical, Dental, Vision) ✅
+  401k & bonus ✅ Registered Dietitian Sessions
+
+  Foodsmart is an Equal Opportunity Employer. It is our firm
+  policy to extend equal employment and advancement
+  opportunity to all applicants and employees without regard
+  to race, color, national origin, citizenship status,
+  religious creed, age, sex (including pregnancy, childbirth,
+  breastfeeding, medical conditions related to pregnancy,
+  childbirth and/or breastfeeding), gender, gender identity
+  and expression, sexual orientation, marital status,
+  disability (physical or mental) and/or a medical condition,
+  genetic information, ancestry, veteran status or service in
+  the uniformed services, and any other characteristic
+  protected by applicable federal, state or local law.
+industries:
+  - Food
+  - Healthtech
+  - Telehealth
+posted_date: 2026-09-11
+url: "https://www.builtinla.com/job/staff-ai-engineer/11122905"
+source: Built In

@@ -1,0 +1,55 @@
+company:
+  name: AlgoLeap Technologies Private Limited
+  stage: null
+  focus: Digital experience platform and Sitecore consulting services
+position:
+  title: Sitecore AI Lead Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role personally implements AI-driven personalization,
+      content generation, RAG, and prompt engineering on top of
+      Azure OpenAI and Sitecore AI, so it shapes model behaviour
+      (Step 1 yes) with LLM/generative components (Step 2 → ai-
+      first).
+  responsibilities:
+  - Define architecture and technical roadmap for Sitecore AI initiatives
+  - Lead migration from legacy Sitecore XP/XM to Sitecore AI-enabled platforms and
+    XM Cloud
+  - Implement AI-driven personalization, search, content generation, and customer
+    engagement capabilities
+  - Architect scalable solutions using Sitecore AI, Search, Personalize, Content Hub,
+    and Generative AI
+  - Develop headless solutions with Sitecore JSS, React, and Next.js
+  - Design and integrate REST APIs, microservices, and cloud-native AI services
+  - Establish engineering best practices for security, performance, observability,
+    and DevOps
+  - Mentor and train development teams on Sitecore AI capabilities
+  use_cases:
+  - AI-powered content generation and optimization for digital experiences
+  - AI-driven website personalization and customer engagement
+  - Enterprise search relevance and discoverability with Sitecore and Coveo Search
+  - Legacy Sitecore platform modernization and migration to XM Cloud
+  - Headless digital experience delivery for web channels
+  skills:
+    genai: [Azure OpenAI, LLMs, Generative AI, Prompt Engineering, RAG, Agentic Workflows,
+      AI Agents, Semantic Search]
+    ml: []
+    web: [GraphQL, Webhooks, REST APIs, Microservices, React, Next.js]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Azure DevOps, Git, CI/CD]
+    languages: [C#, .NET, ASP.NET Core, JavaScript, TypeScript]
+    domains: []
+    other: [Sitecore, Sitecore XP, Sitecore XM Cloud, Sitecore Stream, Sitecore Search,
+      Sitecore Personalize, Sitecore Content Hub, Sitecore SXA, Sitecore JSS, Sitecore
+        Content Serialization, Coveo Search, SEO, Personalization, Email Marketing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11126223'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:20:27.599471'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

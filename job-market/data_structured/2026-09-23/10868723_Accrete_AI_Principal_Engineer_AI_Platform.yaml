@@ -1,0 +1,51 @@
+company:
+  name: Accrete AI
+  stage: null
+  focus: Agentic AI managed services for government and enterprise
+position:
+  title: Principal Engineer, AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects and builds the platform powering
+      Accrete's agentic systems, including designing
+      infrastructure for securely running and orchestrating AI
+      agents and agent workloads. Designing agent orchestration is
+      shaping LLM/agent behavior, so it's ai-first.
+  responsibilities:
+  - Lead architecture, design, and development of core AI Platform components
+  - Design and build end-to-end features across frontend and backend systems
+  - Develop scalable APIs, services, and core libraries powering AI applications and
+    agents
+  - Build infrastructure for securely running and orchestrating AI agents in production
+  - Integrate AI/ML models, data pipelines, and emerging AI capabilities into production
+    systems
+  - Drive platform reliability, latency, observability, and developer experience improvements
+  - Provide technical mentorship and lead design and architecture reviews
+  - Own initiatives from concept through deployment and continuous iteration
+  use_cases:
+  - Platform powering agentic AI products for government and enterprise clients
+  - Secure running and orchestration of AI agent workloads in production
+  - Developer-facing tools and interfaces for interacting with AI models, agents,
+    and data
+  - Integration of AI/ML models and data pipelines into production systems
+  - Knowledge engine with dynamic context graph for expert agent reasoning
+  skills:
+    genai: [AI Agents, LLMs, Generative AI, Agentic Workflows]
+    ml: [PyTorch, TensorFlow]
+    web: [React, REST, GraphQL, APIs]
+    databases: [NoSQL]
+    data: [Spark]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, DevOps, Observability]
+    languages: [TypeScript, Python, Go]
+    domains: []
+    other: [Event-Driven Architecture, Distributed Systems, System Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10868723'
+  location: Mumbai, IND
+  extracted_at: '2026-09-23T11:03:57.820005'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,171 @@
+job_id: 10899156
+title: Senior Software Quality Engineer – AI Automation Tester
+company: WISEcode
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  JOIN THE MOVEMENT FOR HEALTH EMPOWERMENT AT WISEcode
+
+  WISEcode is on a mission to transform how people understand,
+  choose, and enjoy the foods they eat. We are not building
+  another static health app. We are pioneering an intelligent,
+  interactive experience that empowers families with clarity,
+  confidence, and curiosity around everyday decisions.
+
+  THE OPPORTUNITY
+
+  We are hiring a Senior Software Quality Engineer to
+  architect and build the automated QA framework for the
+  WISEintelligence platform.
+
+  This is not a traditional manual QA role.
+
+  We are looking for an engineering-minded quality leader who
+  thinks systematically about correctness, regression
+  prevention, observability, deterministic behavior, and long-
+  term platform reliability. You will help establish the
+  technical and cultural foundation for how quality
+  engineering operates at WISEcode.
+
+  The WISEintelligence platform spans:
+
+  • Rich ASP.NET Blazor applications • Deep domain-driven
+  business logic • AI-assisted workflows • Large-scale
+  Postgres-backed system and analytical databases like
+  DuckDb/Motherduck. • Complex data transformations and
+  computation pipelines • Highly dynamic and stateful user
+  experiences
+
+  This role requires someone who enjoys understanding
+  sophisticated systems deeply and building durable automation
+  around them.
+
+  You will work closely with engineering leadership, product
+  teams, and Principal Engineers to create a scalable
+  automated testing strategy that evolves alongside the
+  platform.
+
+  About the role
+
+  What You'll Work On
+
+  - Designing and implementing AI-augmented UI testing
+    frameworks for ASP.NET, usingLLM-assisted test generation
+    to accelerate coverage
+  - Building reliable end-to-end testing infrastructure with
+    Playwright, Selenium, orequivalent frameworks, enhanced by
+    AI-driven test authoring and self-healing selectors
+  - Developing API and integration test suites for ASP.NET
+    services, leveraging AI tooling togenerate edge cases and
+    flag coverage gaps
+  - Creating reusable testing abstractions and patterns that
+    scale across teams, designed tobe extended by AI copilots
+    as well as engineers
+  - Improving release confidence through regression automation,
+    validation pipelines, and AI-assisted anomaly detection
+  - Building automated validation around complex nutrition and
+    food intelligence computations, including testing
+    strategies for AI/ML-driven outputs
+  - Partnering with engineers to improve application testability
+    and observability, using AItools to surface blind spots
+  - Integrating automated testing into CI/CD workflows, with AI-
+    assisted triage of failuresand flaky tests
+  - Helping define quality metrics, failure visibility, and
+    release readiness standards,informed by AI-generated
+    insights from test telemetry
+  - Investigating intermittent failures, race conditions, state
+    management issues, and environment inconsistencies, using
+    AI-assisted root-cause analysis
+  - Contributing to performance, reliability, and scalability
+    testing strategies, incorporating AI-based load and
+    behavior modeling
+  - Applying AI-assisted tooling and automation broadly to
+    improve engineering productivity, testing coverage, and
+    speed of iteration
+
+  What Success Looks like
+
+  - Within the first several months, you are:
+  - Shipping reliable, AI-augmented automated tests into
+    production CI/CD workflows
+  - Reducing manual regression testing significantly through AI-
+    assisted test generation and maintenance
+  - Building confidence in release quality across engineering
+    teams via AI-informed quality signals
+  - Establishing scalable testing patterns — built with and for
+    AI tooling — that other engineers can extend
+  - Helping engineers think proactively about quality rather
+    than reactively about bugs, supported by AI-driven early
+    warning systems
+  - Creating visibility into system health, regressions, and
+    application reliability through AI- powered dashboards and
+    insights
+  - Operating as a force multiplier across the engineering
+    organization by embedding AI leverage into everyday
+    testing workflows.
+
+  AI Skills and Mindset
+
+  Required Qualifications
+
+  - 5–10+ years of professional software engineering or software
+    quality engineeringexperience
+  - Experience building automated UI testing frameworks
+  - Experience with Playwright, Selenium, Cypress, or equivalent
+    automation tooling
+  - Experience testing APIs and distributed application
+    workflows
+  - Strong understanding of CI/CD pipelines and automated
+    deployment validation
+  - Experience working with relational databases, ideally
+    Postgres
+  - Ability to reason across UI, API, database, and
+    infrastructure boundaries
+  - Strong debugging and systems-thinking skills
+  - Ability to work independently in ambiguous, fast-moving
+    startup environments
+  - Strong engineering judgment and attention to detail
+
+  Nice to have
+
+  - Experience with Blazor-specific testing approaches and
+    tooling
+  - Strong coding ability in C#
+  - Experience with performance or load testing
+  - Experience validating AI-assisted or ML-integrated workflows
+  - Experience with observability tooling and production
+    diagnostics
+  - Familiarity with containerized environments and cloud
+    infrastructure
+  - Experience building internal developer tooling or quality
+    platforms
+  - Experience with large-scale enterprise applications or data-
+    intensive systems
+  - Exposure to modern AI-assisted engineering workflows
+  - Strong hands-on experience testing ASP.NET applications
+  - Experience testing ASP.NET Blazor applications or other
+    highly stateful SPA frameworks
+
+  Why join WISEcode
+
+  - Help define the quality foundation for one of the most
+    ambitious food intelligence and AI platforms in the world
+  - Build systems that directly impact trust, correctness, and
+    platform reliability
+  - Work closely with senior technical leadership and Principal
+    Engineers
+  - Operate in an engineering culture that values systems
+    thinking, ownership, and technical depth
+  - Competitive compensation, benefits, and opportunities for
+    rapid growth and impact
+  - Solve meaningful technical problems at the intersection of
+    AI, data, computation, and human health
+industries:
+  - Artificial Intelligence
+  - Food
+  - Machine Learning
+  - Software
+posted_date: 2026-08-28
+url: "https://www.builtinla.com/job/senior-software-quality-engineer-ai-automation-tester/10899156"
+source: Built In

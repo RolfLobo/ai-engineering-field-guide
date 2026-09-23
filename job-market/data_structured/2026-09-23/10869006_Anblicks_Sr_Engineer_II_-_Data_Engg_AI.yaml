@@ -1,0 +1,44 @@
+company:
+  name: Anblicks
+  stage: null
+  focus: Data analytics and business intelligence consulting services
+position:
+  title: Sr. Engineer II - Data Engg & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Power BI/BI engineering role with no model-shaping
+      work: no prompts, retrieval, agents, training, or evals. AI
+      is only in the title; the actual work is BI reporting, data
+      modeling, and ETL.
+  responsibilities:
+  - Design and develop complex data models to support business requirements
+  - Perform ETL processes to prepare data for analysis
+  - Develop interactive dashboards and reports using Power BI
+  - Analyze data to identify trends, patterns, and insights
+  - Collaborate with stakeholders to understand data needs and ensure data accuracy
+  - Optimize Power BI solutions for performance and scalability
+  - Maintain documentation of data models, ETL processes, and reports
+  - Provide training and support to end-users on Power BI
+  use_cases:
+  - Business intelligence dashboards and reporting
+  - Data transformation and analysis for decision support
+  skills:
+    databases: []
+    domains: []
+    data: [DAX, Data Modeling, Data Pipelines]
+    web: []
+    ml: []
+    ops: []
+    other: [Power BI, Data Warehousing]
+    cloud: []
+    languages: [SQL]
+    genai: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10869006'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:03:42.456841'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

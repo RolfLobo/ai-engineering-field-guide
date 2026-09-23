@@ -1,0 +1,51 @@
+company:
+  name: Tiger Analytics
+  stage: null
+  focus: AI and analytics consulting firm
+position:
+  title: Forward Deployed AI Engineer -Neo4j / Knowledge Graph
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds GenAI, RAG, Agentic AI, and GraphRAG
+      solutions, directly shaping retrieval, agent design, and
+      model-driven applications. This includes an LLM/agent
+      component, so it is ai-first; as a Forward Deployed Engineer
+      adapting AI solutions at customer sites it is also ai-first
+      per the edge case rules.
+  responsibilities:
+  - Build GenAI, RAG, Agentic AI, and AI-powered applications
+  - Develop Neo4j Knowledge Graph and GraphRAG solutions
+  - Build data and AI pipelines using Databricks and PySpark
+  - Develop scalable APIs, microservices, and backend applications in Python or Go
+  - Rapidly prototype and deliver POCs/MVPs for customer requirements
+  - Deploy AI solutions across AWS, Azure, or GCP
+  - Troubleshoot and optimize AI applications for performance, scalability, reliability,
+    and cost
+  - Act as technical consultant and primary technical interface for enterprise customers
+  use_cases:
+  - Enterprise GenAI and RAG applications
+  - Knowledge Graph and GraphRAG solutions
+  - Agentic AI solutions
+  - Enterprise-scale AI application deployment on cloud
+  skills:
+    genai: [Generative AI, LLMs, RAG, AI Agents, GraphRAG, LangChain, LlamaIndex,
+      LangGraph, AutoGen]
+    ml: [PyTorch, Hugging Face]
+    web: [Microservices]
+    databases: [Neo4j, Knowledge Graphs, Vector Databases]
+    data: [Databricks, Spark, PySpark, Data Pipelines]
+    cloud: [AWS, Azure, GCP, AWS Bedrock, Azure OpenAI]
+    ops: [Kubernetes, Docker, Terraform, vLLM, Triton]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10971363'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:09:57.856617'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

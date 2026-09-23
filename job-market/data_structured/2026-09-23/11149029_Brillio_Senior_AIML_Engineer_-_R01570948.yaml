@@ -1,0 +1,49 @@
+company:
+  name: Brillio
+  stage: null
+  focus: Digital technology consulting and engineering services
+position:
+  title: Senior AI/ML Engineer - R01570948
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a test automation/QA engineering role for mobile
+      apps; AI/ML appears only as a listed technique for test
+      automation with no responsibility involving shaping model
+      behavior, prompts, retrieval, or training. The deliverable
+      is test quality, not model output.
+  responsibilities:
+  - Design and implement automated testing frameworks for iOS and Android mobile applications
+    using Selenium and Appium
+  - Develop, maintain, and execute test scripts in Python and Shell scripting
+  - Integrate automated tests into CI/CD pipelines to improve release reliability
+  - Collaborate with development teams to identify, isolate, and resolve defects
+  - Optimize test automation processes for scalability and efficiency
+  - Monitor test results, analyze failures, and provide actionable feedback
+  - Maintain documentation for test automation frameworks and procedures
+  use_cases:
+  - Automated testing of iOS and Android mobile applications
+  - Cross-platform mobile app quality assurance and performance testing
+  - CI/CD integrated release validation for mobile apps
+  - Mobile app security testing
+  skills:
+    genai: []
+    ml: []
+    web: [Appium, Flutter]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Selenium, CI/CD, Git]
+    languages: [Python, Bash]
+    domains: []
+    other: [Mobile Testing, iOS Development, Cloud-Based Mobile Testing Platforms,
+      Mobile Performance Testing, Mobile Security Testing, Automated Testing, AI/ML
+        Techniques for Test Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11149029'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:22:09.308629'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

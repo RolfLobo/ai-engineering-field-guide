@@ -1,0 +1,53 @@
+company:
+  name: Wells Fargo
+  stage: null
+  focus: Large diversified banking and financial services
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-based GenAI solutions
+      directly: RAG, agentic AI, multi-agent systems, prompt
+      engineering, embeddings, and semantic retrieval with
+      LangChain/LangGraph. Shaping LLM behavior is core, so it is
+      ai-first.
+  responsibilities:
+  - Lead design, development, and deployment of enterprise-scale AI platforms and
+    GenAI solutions
+  - Architect scalable Python-based applications, APIs, microservices, and data engineering
+    pipelines
+  - Establish engineering standards and AI/LLMOps frameworks for secure production
+    AI
+  - Build knowledge retrieval platforms using semantic search, vector databases, and
+    knowledge graphs
+  - Collaborate with senior technology leaders, architects, and business stakeholders
+  - Mentor engineering teams and lead strategic AI technology initiatives
+  use_cases:
+  - Enterprise AI assistants and copilots
+  - Intelligent chatbots
+  - Knowledge retrieval platforms
+  - Document intelligence systems
+  - AI-driven automation solutions
+  skills:
+    databases: [Vector Databases, Pinecone, OpenSearch, FAISS, Chroma, Neo4j, Knowledge
+        Graphs, Graph Databases, NoSQL, SQL, Data Modeling]
+    domains: []
+    data: [Data Pipelines, Spark, Pandas, Databricks]
+    web: [REST APIs, Microservices, APIs]
+    ml: [NLP]
+    ops: [CI/CD, DevOps, LLMOps, Observability]
+    other: [Automated Testing, Code Review, Agile]
+    cloud: [GCP]
+    languages: [Python]
+    genai: [LLMs, Agentic Workflows, AI Agents, RAG, LangChain, LangGraph, Prompt
+        Engineering, Embeddings, Multi-Agent Systems, Generative AI, GPT, Semantic
+        Search, ChatGPT]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11147533'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:22:14.072610'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

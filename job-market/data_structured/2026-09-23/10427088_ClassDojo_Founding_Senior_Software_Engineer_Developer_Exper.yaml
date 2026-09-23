@@ -1,0 +1,54 @@
+company:
+  name: ClassDojo
+  stage: null
+  focus: K-12 education communication and learning app
+position:
+  title: Founding Senior Software Engineer, Developer Experience & AI Platform team
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds internal developer platforms and AI-powered
+      developer workflows so other engineers ship faster - the
+      deliverable is developer workflow, not shaping model
+      behavior. AI is explicitly framed as "a practical tool for
+      improving engineering effectiveness," which per the edge
+      cases is ai-support.
+  responsibilities:
+  - Design and build internal platforms, tooling, and developer workflows for developing,
+    testing, reviewing, deploying, and operating software
+  - Identify high-leverage platform investments that improve engineering velocity,
+    quality, and reliability
+  - Build AI-powered workflows that help engineers write, review, test, and ship software
+    more effectively
+  - Partner with product engineering, infrastructure, security, and technical leaders
+    to prioritize problems
+  - Create trusted paved paths with reusable tools, automation, documentation, and
+    self-service capabilities
+  - Measure impact using engineering metrics, developer feedback, and adoption data
+  - Contribute to technical direction and standards as an early member of the Developer
+    Experience Engineering team
+  use_cases:
+  - Internal developer platforms and tooling
+  - AI-powered developer workflows for writing, reviewing, testing, and shipping software
+  - Software delivery and release engineering systems
+  - Developer productivity measurement
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: []
+    domains: []
+    other: [AI-Assisted Software Development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10427088'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T10:59:33.756031'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

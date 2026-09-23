@@ -1,0 +1,127 @@
+job_id: 11090610
+title: Staff AI Engineer
+company: Vendelux
+location: New York, USA
+work_type: FULL_TIME
+company_size: 60 Employees
+description: |
+  Vendelux is building the category-defining platform for
+  event marketing intelligence.
+
+  Events are one of the largest and most impactful marketing
+  channels, yet historically one of the least measurable.
+  Vendelux brings transparency and performance to this space —
+  helping companies discover, evaluate, and optimize their
+  event strategy with data.
+
+  Our platform powers thousands of event decisions by
+  delivering proprietary, AI-driven insights across hundreds
+  of thousands of events globally. At the core of our platform
+  is a robust ecosystem of event organizer partnerships —
+  where organizers share first-party data, enabling richer
+  insights for customers while receiving benchmarking and
+  audience intelligence in return. From identifying the
+  highest ROI conferences to enabling targeted meeting
+  programs, Vendelux helps companies turn events into a
+  predictable and scalable growth engine.
+
+  In addition, Vendelux Meetings extends our platform by
+  turning insights into pipeline — using AI to identify high-
+  value attendees and proactively book 1:1 meetings between
+  our customers and their ideal prospects at events. This
+  enables go-to-market teams to drive measurable ROI and
+  maximize every event interaction.
+
+  Founded in 2021, Vendelux is a Series B SaaS company backed
+  by top-tier investors including FirstMark. We partner with
+  many of the fastest-growing companies in the world, and our
+  team includes leaders from Bain, ZoomInfo, Shutterstock,
+  FanDuel, Compass, Airbnb, Forter and beyond.
+
+  ________________
+
+  As an AI Engineer at Vendelux, you will research, build, and
+  ship AI-powered product capabilities that improve user
+  workflows, accelerate insights, and drive measurable
+  business value. You’ll help establish AI as a foundational
+  layer of the Vendelux product experience, with a focus on
+  agentic systems, LLMs, data, and scalable AI infrastructure.
+
+  What You’ll Do
+
+  - Research and apply modern AI methods, including AI agents,
+    LLMs, RAG, embeddings, supervised learning, and
+    unsupervised learning, to power new product capabilities.
+  - Prioritize impact and speed over perfection when developing
+    and shipping AI-powered solutions.
+  - Translate business problems into AI solutions that improve
+    user workflows, accelerate insights, and drive measurable
+    value.
+  - Own the architecture and integration of agentic chat
+    capabilities throughout the Vendelux platform.
+  - Design the underlying systems that allow AI agents to
+    reason, take action, and surface insights across every
+    surface of the product.
+  - Establish patterns for how agents interact with internal
+    data, external tools, and user workflows, turning
+    conversational AI from a feature into a foundational layer
+    of the product experience.
+  - Architect multi-tenant AI infrastructure that meets the
+    performance, latency, and cost requirements of a growing
+    B2B SaaS product.
+  - Own observability, evaluation frameworks, and guardrails to
+    keep AI features production-grade.
+  - Work closely with product, data science, and application
+    engineering teams to translate business requirements into
+    AI systems.
+  - Serve as a thought partner to leadership on the AI roadmap,
+    influencing how Vendelux thinks about product
+    differentiation through AI.
+
+  Who You Are
+
+  - 8+ years of professional experience in software engineering
+    or data engineering, with at least 3+ years building
+    AI/ML-driven products.
+  - Strong programming skills in Python and proficiency in SQL.
+  - Experience with modern AI frameworks, such as HuggingFace
+    and LangChain, and designing data pipelines using Airflow,
+    Dagster, or equivalent.
+  - Solid understanding of cloud-based infrastructure, including
+    AWS, GCP, or Azure.
+  - Experience applying LLMs and generative AI in production,
+    including prompt engineering, RAG, and LLM deployment.
+  - Strong grasp of fundamental data science and machine
+    learning techniques, with the ability to balance research
+    and engineering tradeoffs.
+  - Demonstrated ability to translate business problems into
+    data solutions that drive business value.
+  - Proven track record of shipping user-facing features with
+    measurable impact.
+  - Excellent written and verbal communication skills; ability
+    to collaborate across data, engineering, and product
+    teams.
+
+  Benefits
+
+  - Competitive base salary and bonus
+  - Healthcare covering medical, dental and vision
+  - 401k investment options
+  - Work from our NYC HQ
+  - Catered lunch everyday
+  - Unlimited PTO plus two company-wide shutdowns during the
+    July 4th week and the Christmas – New Years week
+
+  Not all candidates will check all of the requirements listed
+  above and that’s ok! We are open to great people from non-
+  traditional backgrounds.
+
+  Vendelux is proud to be an equal opportunity workplace. We
+  are committed to equal opportunity regardless of race,
+  color, ancestry, religion, gender, gender identity, parental
+  or pregnancy status, national origin, sexual orientation,
+  age, citizenship, marital status, disability, or veteran
+  status.
+posted_date: 2026-09-09
+url: "https://builtin.com/job/staff-ai-engineer/11090610"
+source: Built In

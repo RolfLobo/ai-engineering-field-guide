@@ -1,0 +1,56 @@
+company:
+  name: Micron Technology
+  stage: null
+  focus: Memory and storage solutions (DRAM, NAND)
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behaviour: builds GenAI/LLM
+      applications, designs RAG, agentic workflows, prompt
+      engineering, and model evaluation. LLM components are
+      clearly involved, so ai-first.
+  responsibilities:
+  - Develop software features and services supporting AI applications and intelligent
+    automation platforms
+  - Build and maintain Generative AI and LLM-based applications using orchestration
+    frameworks
+  - Implement RAG solutions, vector database pipelines, and semantic search systems
+  - Design and integrate agentic workflows for autonomous task execution and multi-agent
+    collaboration
+  - Build speech-to-text pipelines, voice-enabled AI assistants, and audio analytics
+    applications
+  - Develop signal processing components for time-series, sensor, and industrial telemetry
+    workloads
+  - Deploy and optimize AI models on edge devices and embedded systems for low-latency
+    inference
+  - Develop cloud-native AI solutions on AWS with serverless, event-driven, and microservices
+    architectures
+  use_cases:
+  - Intelligent automation platforms
+  - Enterprise AI assistants with voice and speech-to-text
+  - Semantic search and retrieval over enterprise data
+  - Autonomous task execution via multi-agent workflows
+  - Industrial telemetry and sensor signal analytics
+  - Real-time low-latency AI inference on edge devices
+  skills:
+    genai: [Generative AI, LLMs, RAG, Agentic Workflows, Multi-Agent Systems, Prompt
+        Engineering, Embeddings, Semantic Search, Speech-to-Text, Conversational AI]
+    ml: [Model Evaluation, Signal Processing, Model Deployment, Quantization]
+    web: [Microservices, APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Serverless]
+    ops: [Edge Computing]
+    languages: []
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11077344'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:16:56.191676'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

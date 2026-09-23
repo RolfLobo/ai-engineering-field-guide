@@ -1,0 +1,60 @@
+company:
+  name: Workday
+  stage: Fortune 500
+  focus: Enterprise SaaS for HR, finance, and AI agent management
+position:
+  title: Support Engineer (AI/ML & Platform Operations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly reviews LLM outputs, conversation logs,
+      and execution traces to identify failure modes and
+      hallucinations, translating insights into prompt, data, and
+      workflow improvements — judging and shaping model behavior.
+      LLM orchestration and prompt/tool-calling structures are the
+      target, so ai-first applies despite the support-engineer
+      framing.
+  responsibilities:
+  - Review LLM outputs, AI conversation logs, and execution traces to identify edge
+    cases, hallucinations, and failure modes
+  - Translate diagnostic insights into actionable updates for prompts, workflows,
+    and system logic
+  - Perform root-cause analysis on software defects, performance bottlenecks, and
+    LLM agent execution failures using Kibana, Grafana, and cloud telemetry
+  - Debug enterprise AI workflows hosted on AWS and GCP, isolating issues across model
+    hosting services, API gateways, and LLM reasoning pipelines
+  - Triage high-severity P1 support queues, enforce SLAs, and participate in weekend
+    on-call rotations
+  - Act as the primary technical escalation point for customer IT leadership during
+    critical incidents
+  - Write SQL queries, debug REST/SOAP API payloads, and use Python or Bash scripts
+    to automate diagnostics
+  - Document investigations in Jira, ServiceNow, or Salesforce, update runbooks, and
+    partner with engineering and data science for permanent fixes
+  use_cases:
+  - Autonomous AI agents executing HR and Finance workflows such as expense processing,
+    hiring, and workforce scheduling
+  - Incident resolution and root-cause analysis across enterprise platform and LLM
+    agent workflows
+  - LLM output quality evaluation including hallucination and failure mode detection
+  - Enterprise SaaS platform reliability and support for a global customer base
+  skills:
+    genai: [LLMs, AI Agents, Prompt Engineering, Function Calling, Explainable AI]
+    ml: [Model Evaluation]
+    web: [REST APIs, JSON, XML]
+    databases: [SQL]
+    data: []
+    cloud: [AWS, GCP, Azure, API Gateway]
+    ops: [Grafana, Kibana, Datadog, Prometheus, Monitoring, Linux, Observability,
+      Data Labeling]
+    languages: [Python, Bash, SQL]
+    domains: []
+    other: [Jira, ServiceNow, Salesforce, SOAP]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11202414'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:26:10.940757'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

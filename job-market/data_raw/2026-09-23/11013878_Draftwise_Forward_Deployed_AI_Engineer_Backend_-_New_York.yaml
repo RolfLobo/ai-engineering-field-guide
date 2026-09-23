@@ -1,0 +1,167 @@
+job_id: 11013878
+title: Forward Deployed AI Engineer, Backend - New York
+company: Draftwise
+location: New York, USA
+work_type: FULL_TIME
+company_size: 51 Employees
+description: |
+  About Draftwise
+
+  Draftwise is a contract drafting, review, and negotiation AI
+  powered by your legal knowledge. We turn a firm's guidance,
+  precedent, and language into a legal ontology, ground our
+  models in it, and run complex drafting, review, and search
+  workflows directly within Microsoft Word and in the browser.
+
+  We serve top law firms and legal departments globally,
+  including over half the Vault 10, dozens of Am Law 100
+  firms, and Fortune 500 organizations. We are headquartered
+  in NYC with offices in London and West Palm Beach, are Y
+  Combinator alumni, and raised a $20M Series A from Index
+  Ventures.
+
+  The role
+
+  A Forward Deployed Engineer at Draftwise embeds with a firm,
+  learns how their lawyers actually draft, and extends the
+  product until it works the way they work. You will model
+  their precedent and playbooks into our ontology and write
+  the backend behind it, and when the platform cannot do what
+  a firm needs, you build it.
+
+  This is the early career version of that job, weighted
+  toward backend engineering and the AI systems underneath the
+  product. You will learn forward deployed engineering and
+  ontology modeling from engineers who built those practices
+  at Palantir, with real customer accounts and real code from
+  your first month.
+
+  The scope is broad. You get ownership and impact across the
+  technology, the product, and our culture, working alongside
+  a first rate engineering team to ship new features, scale
+  the platform, and make it more performant.
+
+  What you will work on
+
+  - Ontology modeling for legal knowledge. Every firm has its
+    own precedent, playbooks, and preferred language, and the
+    ontology is how we turn that into structure the product
+    can reason over. This is the most transferable skill in
+    the role.
+  - Backend services behind drafting, review, and search. We are
+    not religious about languages. There is what the codebase
+    was historically built in and there is whatever gets the
+    job done now, and the complexity that lasts sits
+    underneath that: Postgres, OpenSearch, a graph database,
+    and a wide set of AWS services. You will own features end
+    to end and learn how those pieces fit together, which is
+    rarer to pick up early than any one language.
+  - LLM systems in production. You will write and test prompts,
+    build retrieval and evaluation scaffolding, and measure
+    quality on real customer data, so the work looks more like
+    building test infrastructure than tuning prompts by feel.
+  - Scale and performance. We run large documents and large
+    precedent sets under interactive latency, so profiling,
+    query tuning, and cost work show up as regular engineering
+    here.
+  - Deployments into elite law firms, with a senior FDE beside
+    you. You will own pieces of a firm's rollout early, and
+    you will be the one working out why their playbook does
+    not map cleanly onto the product yet.
+  - Enough frontend to finish the job. Our surface is a Word add
+    in and a web app in TypeScript and React, and we expect
+    you to ship a UI change without waiting on someone else.
+
+  What we are looking for
+
+  - High ownership and low ego. Most of our work arrives as a
+    customer problem instead of a spec, so we look for people
+    who take it off someone else's plate, ask for feedback
+    early, and do not care who gets credit for the fix.
+  - A focus on user impact. We want someone with a passion for
+    shipping high quality products that delight users, which
+    here means a lawyer finishing a markup faster and noticing
+    why.
+  - Curiosity and intelligence over credentials. We hire on how
+    you reason about data models, failure modes, and
+    tradeoffs, and you will be in unfamiliar territory often,
+    legal concepts, an ontology, a service someone else wrote,
+    so the learning has to be part of the appeal.
+  - Backend as your center of gravity. You should already be
+    comfortable with SQL, API design, and debugging a service
+    you did not write, and you should want to get much better
+    at all three.
+  - Comfort in the room with the customer. You will be on calls
+    with partners and knowledge management leads, prepared
+    alongside a senior FDE, and the skill is asking a sharp
+    question and saying plainly what you still need to go find
+    out.
+  - The instinct to turn a vague problem into a model. Lawyers
+    describe problems in terms of their work, and the job is
+    to hear "our fallbacks never come out right" and get to a
+    schema, a retrieval change, or a bug.
+  - Interest in LLMs and their limits. We use Claude Code and
+    similar tools every day, and what matters is the judgment
+    to see where they help and where they quietly cost you
+    time.
+
+  You do not need legal industry experience, production LLM
+  experience, or prior customer facing work, and we care that
+  you have built real backend software rather than which
+  language you built it in. Bring the foundation and the
+  curiosity, and we will teach you the rest.
+
+  Nice to have
+
+  - Project or internship work on retrieval systems, evaluation
+    harnesses, or agent frameworks.
+  - Any experience in front of customers, including consulting,
+    support, or solutions work.
+  - Exposure to legal, financial, or other document heavy
+    domains.
+  - Anything you shipped to real users, personal projects
+    included.
+
+  Why this role
+
+  - The real FDE experience. You will learn deployment and
+    ontology work directly from engineers who did it at
+    Palantir, alongside legal professionals from top global
+    firms, and you will do the work rather than watch it.
+  - Proven product market fit. Lawyers at Vault 10, Magic
+    Circle, and Am Law 100 firms use Draftwise for their most
+    important work, so you are building on demand that already
+    exists.
+  - Immediate feedback. Your work directly changes how legal
+    professionals serve their clients, and you will often hear
+    about the impact from the customer within days.
+  - Ownership that compounds. Forward deployed work puts you in
+    front of the customer, the commercial reality, and the
+    code at the same time, which is rare this early in a
+    career. It is the fastest way to become an engineer who
+    can carry a problem end to end, and that travels with you
+    wherever you go next, including a company of your own.
+  - Early stage, real equity. You are joining at Series A, when
+    the work you do still bends the company's trajectory, and
+    every engineer holds a meaningful equity package, so you
+    own a piece of what you build.
+
+  Process
+
+  - Intro call with the hiring manager.
+  - Technical conversation on a system you have built.
+  - screen share coding exercises of about an hour on backend,
+    data modeling, debugging
+  - Take-home project of about 3 hours on a self contained
+    problem, using our stack and the AI tools you would use on
+    the job. We share the rate and the evaluation criteria in
+    advance.
+  - Final conversation with a founder.
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Natural Language Processing
+  - Generative AI
+posted_date: 2026-09-22
+url: "https://builtin.com/job/forward-deployed-ai-engineer-backend-new-york/11013878"
+source: Built In

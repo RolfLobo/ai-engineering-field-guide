@@ -1,0 +1,142 @@
+job_id: 11289398
+title: Research Engineer, Applied AI
+company: Agentio
+location: New York, USA
+work_type: FULL_TIME
+company_size: 65 Employees
+description: |
+  About Agentio
+
+  Agentio builds AI-native infrastructure for creator
+  advertising. Our platform uses AI to turn creative and
+  performance signals into campaign strategies, match brands
+  with creators, recommend sponsorship prices, and review
+  videos against brand requirements.
+
+  Each campaign generates feedback: how brands respond to our
+  recommendations, which offers creators accept, and how the
+  resulting content performs. We build self improving loops
+  that learn from these behaviors and outcomes to better
+  understand preferences, predict performance, and improve
+  campaign decisions.
+
+  We're looking for a Research Engineer to advance that work
+  through applied AI and ML research, developing models that
+  improve the platform's predictions and automate more of the
+  decisions behind creator advertising.
+
+  The work spans research and production. You'll evaluate
+  methods from academia and industry, adapt and train models
+  on Agentio's proprietary data, develop new approaches when
+  existing methods fall short, and work with engineering and
+  product to ship them.
+
+  What You'll Work On
+
+  Multimodal intelligence. Build systems that understand
+  creators, brands, briefs, and content across video, audio,
+  image, and text.
+
+  Ranking, recommendation, and prediction. Develop models that
+  predict creator-brand fit and campaign outcomes and make
+  better decisions from sparse, heterogeneous feedback.
+
+  Foundation models and agents. Apply LLMs and multimodal
+  models to campaign planning, discovery, creative
+  understanding, execution, and optimization. Use Agentio's
+  proprietary data for prompting, retrieval, fine-tuning,
+  post-training, and, where it makes sense, specialized model
+  training.
+
+  Learning and decision-making. Turn campaign data into
+  training signals, evals, and learning loops while tackling
+  problems in optimization, exploration, measurement, and
+  marketplace dynamics.
+
+  Part of the role is deciding which advances in AI and ML are
+  useful for Agentio and where new methods are needed.
+
+  What You'll Do
+
+  - Own research problems from problem definition and
+    experimentation through production.
+  - Evaluate relevant AI and ML methods against Agentio's data,
+    build rigorous experiments and evaluations, and measure
+    performance in production.
+  - Develop models, algorithms, training approaches, or datasets
+    when existing techniques aren't sufficient. Work with
+    engineering and product to ship successful approaches.
+  - Help set Agentio's research agenda and technical standards
+    for applied ML.
+
+  Who We're Looking For
+
+  We're looking for someone with strong research judgment who
+  also wants to build production systems.
+
+  - Demonstrated experience conducting applied ML research, with
+    original work shown through production ML systems,
+    publications, open-source research, or comparable
+    contributions. A PhD or advanced degree in ML, AI,
+    computer science, statistics, or a related field is useful
+    but not required.
+  - Depth in one or more areas such as foundation models,
+    multimodal learning, recommendation and ranking,
+    representation learning, reinforcement learning and
+    decision-making, causal inference, optimization, or
+    adjacent fields.
+  - Ability to turn ambiguous product problems into tractable
+    research questions, run rigorous experiments, and
+    translate successful approaches into production systems.
+  - Strong engineering skills and experience taking ML work
+    beyond prototypes.
+  - Strong knowledge of current AI research and the judgment to
+    determine which methods are useful in practice.
+
+  What You'll Get
+
+  - The opportunity to build a first-of-its kind business as an
+    early team-member and make a meaningful impact in the way
+    brands share their stories and creators live off their
+    work.
+  - Crash-course in what it takes to scale a start-up with
+    first-hand exposure to the different foundational business
+    drivers and needs.
+  - The chance to work with an exceptional team and help build
+    our engineering culture
+  - A collaborative, transparent, and engaging work environment.
+
+
+
+  Benefits & Perks
+
+  - Flexible PTO – Take the time you need to recharge
+  - Comprehensive Health Coverage – Top medical plan through
+    Aetna
+  - Dental & Vision Plans – Protect your smile and your sight
+    with coverage from Guardian
+  - 401(k) Retirement Plan – Invest in your future while you
+    build your career
+  - $100 Monthly Lifestyle Credit – Use it to shop with our
+    amazing Agentio Brand Partners
+  - Daily lunches and snacks in the office to keep you at your
+    best
+  - Dinner provided Monday - Thursday
+  - Fully subsidized gold tier access on Wellhub (Includes
+    LifeTime, Barry's, Solidcore, Headspace, etc)
+  - Gym in the building! – Your workout, right downstairs
+
+  Agentio is an equal-opportunity employer. All aspects of
+  employment will be based on merit, competence, performance,
+  and business needs. We do not discriminate on the basis of
+  race, color, religion, marital status, age, national origin,
+  ancestry, physical or mental disability, medical condition,
+  pregnancy, genetic information, gender, sexual orientation,
+  gender identity or expression, veteran status, or any other
+  status protected under federal, state, or local law.
+industries:
+  - AdTech
+  - Artificial Intelligence
+posted_date: 2026-09-21
+url: "https://builtin.com/job/research-engineer-applied-ai/11289398"
+source: Built In

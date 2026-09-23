@@ -1,0 +1,55 @@
+company:
+  name: Modo Energy
+  stage: $30M Series B
+  focus: |-
+    Data platform for energy market benchmarking, forecasting,
+    and valuation
+position:
+  title: Python Engineer (AI/Platform/Modelling/Data)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes building retrieval pipelines and tool-
+      calling for the LLM-powered AI Analyst, which is designing
+      retrieval and agent flows themselves, making it ai-first per
+      the backend-engineer-on-AI-product rule. The rest of the
+      role is backend/platform work, but the explicit LLM-shaping
+      responsibility decides.
+  responsibilities:
+  - Build and maintain backend services and APIs (Django, FastAPI) powering a live
+    product for energy market professionals
+  - Design and operate data pipelines that ingest, transform, and serve energy market
+    data at scale
+  - Own AWS infrastructure and deployment end-to-end using Terraform
+  - Build monitoring, observability, and alerting for team systems
+  - Design internal tools such as CLIs, APIs, and MCP servers for humans and AI agents
+  - 'Contribute to the LLM-powered AI Analyst: retrieval pipelines, tool-calling,
+    and model integration with energy market data'
+  - Work with energy analysts, data scientists, and modellers to ensure accuracy and
+    usefulness of systems
+  use_cases:
+  - Energy market data benchmarking, forecasting, and valuation platform
+  - Agentic platform letting users and AI agents query, forecast, and act on energy
+    data
+  - LLM-powered AI Analyst working with real energy market data
+  - Reliable ingestion and serving of energy market data at scale
+  skills:
+    genai: [MCP, RAG, Function Calling, LLMs, Agentic Workflows, Claude Code, Cursor,
+      GitHub Copilot]
+    ml: []
+    web: [Django, FastAPI, REST APIs, OpenAPI]
+    databases: [PostgreSQL]
+    data: [Data Pipelines, Airflow, Spark, Kafka]
+    cloud: [AWS]
+    ops: [Terraform, Observability, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10731089'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:00:40.595156'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

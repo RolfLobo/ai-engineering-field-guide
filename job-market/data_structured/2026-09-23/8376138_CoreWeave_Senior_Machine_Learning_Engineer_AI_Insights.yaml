@@ -1,0 +1,57 @@
+company:
+  name: CoreWeave
+  stage: 'publicly traded (Nasdaq: CRWV)'
+  focus: AI hyperscaler cloud infrastructure for AI workloads
+position:
+  title: Senior Machine Learning Engineer, AI Insights
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role builds ML systems (anomaly detection, time-series
+      analysis, ranking, root-cause inference) for infrastructure
+      observability. LLM evaluation/retrieval appears only as a
+      nice-to-have, so the core shaping work is classical ML,
+      making it ml-first.
+  responsibilities:
+  - Build and ship production machine learning systems for infrastructure observability,
+    troubleshooting, and optimization
+  - Develop approaches for anomaly detection, time-series analysis, event correlation,
+    ranking, recommendation, classification, and root-cause inference across high-volume
+    telemetry
+  - Create datasets, experiments, and evaluation frameworks to measure model quality,
+    robustness, and failure modes
+  - Build data pipelines, feature-generation workflows, inference services, and feedback
+    loops for continuous improvement
+  - Integrate ML capabilities with telemetry platforms and customer-facing experiences
+    including Mission Control and Grafana
+  - Monitor and improve quality, latency, reliability, and cost of ML-powered services
+    in production
+  - Investigate data and model failures, identify root causes, and implement durable
+    fixes
+  - Contribute to technical designs, code reviews, testing standards, and team operational
+    practices
+  use_cases:
+  - Infrastructure observability and workload health monitoring
+  - AI-powered troubleshooting and root-cause inference for infrastructure issues
+  - Optimization of efficiency, capacity, and performance for AI workloads
+  - Anomaly detection and event correlation across metrics, logs, traces, and alerts
+  skills:
+    genai: [LLM Evaluation, RAG]
+    ml: [Machine Learning, Anomaly Detection, Feature Engineering, Model Evaluation,
+      Model Training, Time-Series Analysis]
+    web: []
+    databases: [ClickHouse]
+    data: [Data Pipelines, Kafka]
+    cloud: []
+    ops: [Grafana, Prometheus, Kubernetes, Monitoring, Distributed Systems]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8376138'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:37:25.931288'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

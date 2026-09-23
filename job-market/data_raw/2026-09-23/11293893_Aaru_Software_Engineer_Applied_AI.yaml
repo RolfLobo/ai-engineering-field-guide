@@ -1,0 +1,165 @@
+job_id: 11293893
+title: Software Engineer, Applied AI
+company: Aaru
+location: New York, USA
+work_type: FULL_TIME
+company_size: 44 Employees
+description: |
+  About Aaru
+
+  Aaru builds simulations of human behavior. Each simulation
+  contains a population of AI agents, each representing a
+  person who could plausibly exist in the real world and
+  capable of making decisions within a modeled environment.
+  Companies and institutions use these simulations to test
+  consequential choices before committing—from product
+  launches and pricing decisions to strategic communications
+  and policy changes.
+
+  Building a useful simulation requires more than generating
+  plausible text. Populations must represent real people and
+  groups; predictions must be calibrated; simulations must
+  remain coherent as conditions change; and the product must
+  make the resulting evidence legible enough to support real
+  decisions.
+
+  We are a small, in-person team in New York. We work with
+  urgency, high ownership, and intellectual honesty. We expect
+  people to surface inconvenient evidence, change their minds
+  quickly, and carry important work all the way to a result.
+
+  About Applied AI
+
+  The Applied AI team works across the stack to improve Aaru's
+  simulation pipelines and explore new product areas where
+  simulations can be useful. The work can range from
+  infrastructure and platform systems to frontend experiences
+  and APIs. It is organized around the highest-leverage
+  initiatives the company is pursuing, rather than a fixed
+  technical domain. Applied AI Engineers own outcomes across
+  the stack and work cross-functionally with other engineering
+  teams and GTM teams such as Deployment to ensure that what
+  we build becomes a strong product and developer experience.
+
+  The role
+
+  As an Applied AI Engineer, you will work on high-leverage
+  initiatives at the intersection of AI systems, simulation
+  infrastructure, and product development. You will improve
+  existing capabilities, help prototype and evaluate promising
+  company bets, and turn experimental ideas into reliable
+  systems. The work is initiative-driven rather than defined
+  by a fixed product roadmap or a single layer of the stack.
+
+  You will work primarily in Python and TypeScript, but you
+  will use whatever technologies are necessary to finish the
+  job. You will move from an ambiguous problem to a working
+  system: understand the problem, find the smallest useful
+  experiment, improve the architecture, evaluate the result,
+  deploy it, and continue iterating based on evidence.
+
+  This is a role for a strong general software engineer who
+  wants to work in an AI-native environment. Prior experience
+  with AI or agent systems is helpful, but the more important
+  qualities are sound engineering judgment, curiosity, and the
+  ability to learn quickly across unfamiliar parts of a
+  system.
+
+  What you will do
+
+  - Improve agent functionality within Aaru's product, including
+    interaction design, tool use, context handling,
+    orchestration, reliability, and model behavior.
+  - Optimize simulation pipelines to increase throughput, remove
+    bottlenecks, and make large or repeated runs more
+    efficient.
+  - Build evaluation harnesses and supporting architecture that
+    make agent and simulation capabilities testable,
+    reproducible, and easier to improve.
+  - Help prototype and evaluate promising company bets through
+    focused experiments and technical investigations, then
+    help build out the ideas that merit further investment.
+  - Work cross-functionally with other engineering teams and GTM
+    teams such as Deployment to make new capabilities usable,
+    supportable, and dependable in real workflows.
+  - Write clear technical designs and documentation. Make
+    assumptions, dependencies, tradeoffs, and unresolved risks
+    legible to the rest of the organization.
+
+  How we work
+
+  Applied AI work is open-ended. We get close to the problem,
+  reduce it to the smallest useful experiment, and use
+  evidence to decide what to do next. We move quickly, but we
+  do not confuse a compelling prototype with a finished system
+  or hide uncertainty behind polished demos.
+
+  AI-native engineering requires looking across software,
+  models, data, evaluation, and operational behavior. We
+  expect engineers to learn unfamiliar parts of the stack,
+  question assumptions, and improve the architecture when the
+  first approach does not hold up.
+
+  We prefer small teams and clear ownership. The person
+  closest to a problem should have the context and authority
+  to make decisions, while documenting enough that the rest of
+  the organization can understand and challenge them. Cross-
+  functional work should make dependencies, tradeoffs, and
+  risks visible.
+
+  You might thrive in this role if
+
+  - You are comfortable with loosely specified problems and can
+    turn ambiguity into a useful next step.
+  - You have strong general software engineering fundamentals
+    and can work across layers when the problem requires it.
+  - You enjoy fast iteration and are willing to change direction
+    when evidence points somewhere else.
+  - You care about testability, evaluation, performance,
+    maintainability, and the difference between a demo and a
+    dependable system.
+  - You take responsibility for outcomes through implementation,
+    deployment, measurement, and iteration.
+  - You communicate directly, work well across functions, and
+    make technical tradeoffs clear to people with different
+    backgrounds.
+  - You want to build AI-native systems whose impact is not
+    bounded by a single technical domain.
+
+  Strong candidates may also have
+
+  - Experience building AI-native products, agents, LLM
+    applications, or other systems in which model behavior
+    materially shaped the user experience.
+  - Experience building evaluation tools, test harnesses,
+    reproducible fixtures, or systems for detecting
+    regressions in complex behavior.
+  - Experience improving throughput, performance, or reliability
+    in data, compute, or workflow pipelines.
+  - Experience working at an early-stage company or on projects
+    where you owned a broad problem from initial idea through
+    production.
+  - Fluency with technologies such as Python, TypeScript, React,
+    APIs, workflow systems, relational data models, and cloud
+    infrastructure—or equivalent depth in a comparable stack.
+
+  Location and benefits
+
+  This role is based in New York City. Aaru is an in-person
+  company, working five days a week in the office. Candidates
+  should be located in the New York metropolitan area or open
+  to relocation.
+
+  Aaru offers a competitive base salary, equity participation,
+  comprehensive medical, vision, and dental coverage, visa
+  sponsorship and relocation support, and other benefits and
+  perks. Final compensation depends on level and experience
+  and is set within Aaru's internal bands.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-09-22
+url: "https://builtin.com/job/software-engineer-applied-ai/11293893"
+source: Built In

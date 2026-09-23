@@ -1,0 +1,60 @@
+company:
+  name: Capital One
+  stage: null
+  focus: Banking and financial services with AI/ML products
+position:
+  title: AI Engineer 5 (LLM Gateway, FM Hosting)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM inference, agents and multi-
+      agent orchestration, guardrails, model evaluation, and
+      foundation model optimization techniques - directly shaping
+      model behavior and output quality. LLMs and agents are
+      central, so it is ai-first.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, deploy, and support AI components including foundation model
+    training, LLM inference, agents, multi-agent workflows, guardrails, and model
+    evaluation
+  - Invent foundation model optimization techniques to improve scalability, cost,
+    latency, and throughput of production AI systems
+  - Design and optimize multi-model orchestration pipelines integrating LLMs, vector
+    search, and domain-specific models
+  - Lead cost-performance governance reviews tracking GPU utilization, throughput,
+    and inference cost efficiency
+  - Lead design councils and review boards to ensure technical consistency and AI
+    engineering standards compliance
+  - Mentor Principal and Manager-level AI engineers
+  use_cases:
+  - Real-time personalized banking customer experiences
+  - LLM gateway and foundation model hosting platform
+  - Agentic AI systems powering associate and customer workflows
+  - Fraud detection alerts for unusual charges
+  - Real-time customer question answering in banking
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, Guardrails, RAG]
+    ml: [Fine-Tuning, Model Evaluation, Hugging Face, PyTorch, Foundation Model Training,
+      CUDA, Model Compression, Similarity Search, Machine Learning]
+    web: []
+    databases: [Vector Search, Vector Databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Model Deployment]
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11268251'
+  location: McLean, USA
+  locations:
+  - McLean, USA
+  - San Jose, USA
+  - New York, USA
+  - Cambridge, USA
+  extracted_at: '2026-09-23T11:33:32.661798'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,56 @@
+company:
+  name: T-Systems ICT India Pvt. Ltd.
+  stage: null
+  focus: IT services and digital transformation solutions
+position:
+  title: Agentic AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI agents, agentic workflows,
+      RAG solutions, and evaluates LLM-based output quality
+      (accuracy, safety, reliability), which is shaping LLM
+      behavior. The model component involved is LLMs/agents, so
+      ai-first.
+  responsibilities:
+  - Design, develop, and implement AI agents for enterprise business use cases
+  - Build intelligent workflows leveraging LLMs, tools, APIs, memory management, and
+    human-in-the-loop approval mechanisms
+  - Develop RAG solutions using enterprise knowledge repositories and structured/unstructured
+    data
+  - Integrate AI solutions with enterprise applications, databases, APIs, and knowledge
+    management systems
+  - Create and maintain reusable prompts, tools, templates, and workflow components
+  - Evaluate AI solutions for accuracy, reliability, safety, latency, scalability,
+    and cost efficiency
+  - Deploy, monitor, troubleshoot, and optimize AI applications in production
+  - Ensure compliance with security, privacy, governance, and Responsible AI standards
+  use_cases:
+  - Enterprise business process automation via AI agents
+  - Enterprise knowledge retrieval and question answering with RAG
+  - Integration of AI agents with enterprise platforms (SharePoint, Jira, ServiceNow,
+    Teams, SAP)
+  - Production AI applications with human-in-the-loop approval workflows
+  - Multi-modal document intelligence applications
+  skills:
+    genai: [Generative AI, LLMs, AI Agents, Agentic Workflows, Multi-Agent Systems,
+      RAG, Embeddings, Semantic Search, Prompt Engineering, Function Calling, MCP,
+      Guardrails, Fine-Tuning, LangGraph, LangChain, Semantic Kernel, AutoGen, CrewAI]
+    ml: [Machine Learning, Model Evaluation]
+    web: [REST APIs]
+    databases: [Vector Databases, Databases, Knowledge Graphs]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD, Git, Docker, MLOps]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, Temporal, SharePoint, Jira, ServiceNow, Microsoft Teams,
+      SAP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11068205'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:17:02.353918'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Cognite
+  stage: null
+  focus: Industrial AI and data digitalization solutions
+position:
+  title: Senior AI Engineer - Supply Chain
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and architects agentic supply-chain systems:
+      designing agent flows, tool use, prompt chains, and
+      evaluation frameworks over a knowledge graph. That is direct
+      shaping of LLM/agent behaviour, so it is ai-first.
+  responsibilities:
+  - Build, enhance, and maintain a packaged, customer-ready solution of agentic workflows
+    for integrated supply chain
+  - Develop modular multi-agent systems using ATLAS AI with tool use, skills, memory,
+    and multi-step reasoning over the CDF Knowledge Graph
+  - Design and build tools that query and traverse the supply chain knowledge graph,
+    handling multi-hop lookups and structured data
+  - Craft prompt chains and evaluation frameworks for accurate, operationally safe
+    recommendations
+  - Build functional prototypes on customer or synthetic data and test with customers
+    and SMEs
+  - Lead discovery workshops with global customers and support initial rollouts and
+    pilots
+  - Gather structured feedback from pre-sales, partners, and deployments and feed
+    it into agent design and packaging
+  use_cases:
+  - Automating complex supply chain decisions via agents over an industrial knowledge
+    graph
+  - Supply chain visibility, exception surfacing, root cause analysis, and recommendations
+  - Adaptive planning and end-to-end action workflows with partners
+  - Reasoning across maintenance execution, production planning, inventory, logistics,
+    and supplier/customer data
+  skills:
+    genai: [LLMs, Embeddings, Prompt Engineering, Agentic Workflows, Multi-Agent Systems,
+      LangChain, Function Calling, RAG, Claude Code, Cursor, GitHub Copilot, LLM Evaluation]
+    ml: []
+    web: [React]
+    databases: [Knowledge Graphs, Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [TypeScript, Python, Kotlin]
+    domains: []
+    other: [SAP, Cognite Data Fusion, Code Review, Supply Chain]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11232086'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:29:25.524519'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,51 @@
+company:
+  name: Five9
+  stage: null
+  focus: Cloud contact center software
+position:
+  title: Senior Software Engineer in AI - FrontEnd React/Redux, Java
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds the frontend for an AI product, presenting
+      model output and supporting human review of it, but does not
+      itself shape model behaviour through prompts, retrieval, or
+      training. AI tools are also mentioned as coding assistants.
+      This is a frontend/full-stack engineer on an AI product,
+      which is ai-support.
+  responsibilities:
+  - Implement UX designs with UX Designers using a React/Redux based framework
+  - Build the customer-facing insights experience for VOC - interactive dashboards,
+    charts, and drill-down views over AI-generated insights
+  - Develop a scalable, highly available application platform on modern PaaS platforms
+    such as GCP
+  - Participate in requirements analysis and grooming in an agile team
+  - Leverage PaaS components such as CDN and NoSQL databases for scalability and reliability
+  - Build custom dashboard widgets using Google Looker Studio plugins (plus)
+  - Document and communicate architecture and implementation solutions
+  - Own code in production including on-call and troubleshooting
+  use_cases:
+  - AI-powered customer insights for contact center voice and chat conversations
+  - Surfacing why customers contact support and how reasons cluster and shift over
+    time
+  - Interactive dashboards and analytics for CX and operations leaders
+  - Tracing insights back to underlying customer conversations
+  skills:
+    genai: [Claude Code]
+    ml: []
+    web: [React, Redux]
+    databases: [NoSQL]
+    data: []
+    cloud: [GCP]
+    ops: []
+    languages: [JavaScript, Java]
+    domains: []
+    other: [Looker Studio, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10997870'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:11:53.041831'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

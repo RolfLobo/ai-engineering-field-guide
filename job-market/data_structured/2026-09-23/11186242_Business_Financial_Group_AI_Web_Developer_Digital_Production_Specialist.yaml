@@ -1,0 +1,55 @@
+company:
+  name: Business Financial Group
+  stage: null
+  focus: U.S. accounting, tax, payroll, and CFO advisory firm
+position:
+  title: AI Web Developer & Digital Production Specialist
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      AI is used as a developer productivity tool for web
+      production; the person reviews and debugs AI-generated code
+      but does not shape any model's behavior, design RAG/agents,
+      or train models. The product is websites, not an AI system.
+  responsibilities:
+  - Build and maintain responsive WordPress websites, landing pages, and other BFG
+    digital properties
+  - Use AI-assisted development tools to accelerate coding, page creation, testing,
+    and repetitive production work while reviewing AI-generated code
+  - Convert approved content, designs, wireframes, and prototypes into production-ready
+    responsive webpages
+  - Create reusable templates and components for recurring content types
+  - Manage WordPress themes, plugins, HTML/CSS/JavaScript updates, staging, deployment,
+    security, backups, and performance
+  - Implement technical SEO requirements including metadata, schema, redirects, and
+    page speed
+  - Build and maintain lead-generation functionality such as forms, downloads, assessments,
+    and webinar registrations
+  - Implement analytics and conversion tracking and conduct pre-publication QA
+  use_cases:
+  - Lead-generation landing pages and campaign pages for an accounting/tax firm
+  - Educational academy and partner program websites
+  - Technical SEO for lead-generation digital properties
+  - Forms, assessments, webinar registrations, and conversion tracking
+  - Reusable publishing workflows for high-volume content production
+  skills:
+    genai: [AI Coding Agents]
+    ml: []
+    web: [WordPress, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, GitHub]
+    languages: [HTML, CSS, JavaScript]
+    domains: []
+    other: [Technical SEO, WP Engine, Zoho One, Zoho CRM, Google Analytics, Google
+        Tag Manager, Google Search Console, Schema Markup, Workflow Automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11186242'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:24:56.275606'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,55 @@
+company:
+  name: Kion Group AG
+  stage: null
+  focus: Intralogistics and supply chain solutions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role engineers LLM-powered solutions using prompt
+      engineering, context architecture, RAG, and
+      guardrails/evals, directly shaping model behaviour and
+      output quality. LLMs are the core model type (Azure OpenAI,
+      Anthropic, Gemini, LangChain/LangGraph agents).
+  responsibilities:
+  - Design, develop and operate in-house GenAI applications aligned with KION's AI
+    strategy and governance
+  - Engineer advanced LLM-powered solutions using Prompt Engineering, Context Architecture,
+    and RAG
+  - Implement build-test-deploy pipelines for AI and agent solutions ensuring reproducibility
+    and quality
+  - Integrate AI safety mechanisms, guardrails, hallucination mitigation, and traceability
+    for compliance
+  - Monitor and evaluate model and system performance, troubleshoot and drive continuous
+    improvements
+  - Collaborate with cross-functional teams to deliver AI-driven automation and reusable
+    solution components
+  - Manage incidents, changes, and user support requests for AI services and platforms
+  - Create and maintain technical documentation and foster knowledge sharing
+  use_cases:
+  - Enterprise LLM-powered applications and AI agents
+  - Retrieval-Augmented Generation solutions for enterprise search
+  - AI-driven automation across KION organizational units
+  - Trustworthy GenAI platform components with guardrails and explainability
+  skills:
+    genai: [Prompt Engineering, RAG, Context Engineering, LLMs, Azure OpenAI, Anthropic
+        API, Gemini, AI Agents, MCP, LangChain, LangGraph, Google ADK, Guardrails,
+      LLM Evaluation, Generative AI, Agentic Workflows]
+    ml: [AI/ML]
+    web: [APIs]
+    databases: [pgvector]
+    data: []
+    cloud: [GCP, Azure]
+    ops: [Terraform, Infrastructure as Code, LLMOps, Monitoring]
+    languages: [Python, SQL, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11272395'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:34:51.719291'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

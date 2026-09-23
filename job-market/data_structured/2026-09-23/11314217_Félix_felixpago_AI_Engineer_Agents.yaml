@@ -1,0 +1,60 @@
+company:
+  name: Félix (felixpago)
+  stage: Series C
+  focus: |-
+    AI-powered remittances and cross-border payments for Latin
+    immigrants
+position:
+  title: AI Engineer (Agents)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and scales autonomous AI agents
+      (LangGraph, CrewAI, Google ADK), optimizes RAG pipelines,
+      and builds evals with LLM-as-a-judge — all direct LLM/agent
+      behavior shaping, so it is ai-first.
+  responsibilities:
+  - Architect, develop, and maintain scalable, stateful AI agents using Python and
+    frameworks like Google ADK, LangGraph, and CrewAI
+  - Establish production monitoring, tracing, and observability for agentic workflows
+    using tools like LangSmith, Arize Phoenix, or Weights & Biases
+  - Lead end-to-end integration of AI agents into core product infrastructure (Payments,
+    Fraud), from Docker/Kubernetes containerization to CI/CD deployment
+  - Design automated evaluation pipelines using LLM-as-a-judge, semantic similarity
+    testing, and adversarial benchmarking
+  - Optimize RAG pipelines and agent loops with caching, prompt compression, and model
+    routing to balance cost and performance
+  - Mentor junior engineers and drive best practices in async programming, error handling
+    for non-deterministic outputs, and data validation
+  use_cases:
+  - Autonomous AI agents for a WhatsApp-based remittance product
+  - Multi-agent system for loans, payments, and fraud operations
+  - Evolution of a chatbot from Q&A to multi-step reasoning and task execution
+  - Production agent monitoring and evaluation for safety and groundedness
+  - Cost-optimized inference for a fintech at scale
+  skills:
+    genai: [Google ADK, LangGraph, CrewAI, LangChain, AI Agents, Agentic Workflows,
+      RAG, Vector Databases, LLMs, Generative AI, Prompt Engineering, LLM Evaluation,
+      OpenAI API]
+    ml: []
+    web: []
+    databases: [Redis]
+    data: [Data Pipelines]
+    cloud: []
+    ops: [LLMOps, Observability, LangSmith, Weights & Biases, Docker, Kubernetes,
+      CI/CD, Git, GitHub]
+    languages: [Python, asyncio]
+    domains: []
+    other: [Pydantic]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11314217'
+  location: Miami, USA
+  locations:
+  - Miami, USA
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:37:32.071663'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,57 @@
+company:
+  name: 9th Way Insignia
+  stage: null
+  focus: Technology services for federal government customers
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM output quality directly: system prompts,
+      fine-tuning, content moderation, safety filters, grounding
+      mechanisms, output evaluation, and red-teaming of AI/LLM
+      outputs. LLM components are central, so ai-first.
+  responsibilities:
+  - Design, develop, train, deploy, and maintain AI/ML models for enterprise-scale
+    Government applications
+  - Develop and operationalize production AI/ML and LLM solutions including system
+    prompts, classifiers, fine-tuning, and safety filters
+  - Evaluate AI-generated outputs for accuracy, factuality, grounding, bias, and reliability;
+    design model evaluation and validation methodologies
+  - Perform AI red-team testing and implement controls to improve factuality and grounding
+    of outputs
+  - Monitor AI model performance continuously and investigate compliance, security,
+    and model-behavior issues
+  - Ensure AI solutions comply with VA cybersecurity, privacy, and responsible AI
+    governance requirements
+  - Incorporate secure-by-design and Zero Trust principles into AI-enabled system
+    architecture
+  - Collaborate with cybersecurity engineers, data scientists, developers, and Government
+    stakeholders across the AI lifecycle
+  use_cases:
+  - Secure AI/ML/LLM solutions for VA and federal government missions
+  - Cybersecurity applications of AI including threat and vulnerability analysis
+  - Content moderation, safety filters, and grounding controls for LLM outputs
+  - AI red-teaming to identify model weaknesses, bias, and security risks
+  - Enterprise analytics and operational problem solving with AI/ML
+  skills:
+    genai: [LLMs, Generative AI, Prompt Engineering, Fine-Tuning, Guardrails, LLM
+        Evaluation]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [DevSecOps]
+    languages: []
+    domains: []
+    other: [Cybersecurity, Zero Trust, Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11020101'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:12:45.457460'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,46 @@
+company:
+  name: Rooman Technologies Pvt. Ltd.
+  stage: null
+  focus: IT training and software development services
+position:
+  title: AI Product Developer cum Project Mentor
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role involves learning and using AI tools as an aid to
+      general software and website development, not shaping model
+      behavior through prompts, retrieval, or training. AI is
+      mentioned only as a general interest/tool, so per the edge
+      cases this is ai-support.
+  responsibilities:
+  - Develop application software for internal and client requirements
+  - Learn and use AI tools in software and application development
+  - Design, develop, and maintain websites and web-based solutions
+  - Support students in academic and real-time project execution
+  - Deliver training and guidance in relevant technologies and tools
+  - Coordinate project-related activities and provide technical support
+  use_cases:
+  - Internal and client application software
+  - Websites and web-based solutions
+  - AI-assisted software development
+  - Student academic and real-time projects
+  - Technology training and mentoring
+  skills:
+    genai: [AI Tools]
+    ml: []
+    web: [Website Development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Basic Programming]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11140730'
+  location: Yelahanka, IND
+  extracted_at: '2026-09-23T11:20:40.947176'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,50 @@
+company:
+  name: IFS
+  stage: null
+  focus: Enterprise AI-driven software solutions
+position:
+  title: Forward Deployed AI Engineer - IFS Loops
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer who designs, tunes agent behavior,
+      and builds LLM/RAG solutions directly for customers. This
+      explicitly qualifies as shaping model behavior via agents
+      and retrieval, and FDEs deploying AI at customer sites are
+      ai-first per the edge cases.
+  responsibilities:
+  - Partner with enterprise customers to scope and implement AI Agent use cases across
+    complex workflows
+  - Integrate IFS Loops platform with customer systems
+  - Tune agent behavior and logic to deliver measurable outcomes
+  - Troubleshoot deployments and iterate quickly to ensure performance, accuracy,
+    and user adoption
+  - Collaborate with Product, Engineering, and Customer Success to feed customer insights
+    into the roadmap
+  - Document technical decisions and hand off stable deployments to customer engineering
+    or support teams
+  use_cases:
+  - Custom AI agent deployment across customer workflows
+  - Enterprise AI solutions integration with systems like Salesforce, ServiceNow,
+    SAP
+  - Cost reduction and efficiency improvement through tuned agents
+  - RAG and conversational AI applications for enterprises
+  skills:
+    genai: [OpenAI API, LangChain, LLMs, RAG, Conversational AI, Agentic Workflows]
+    ml: [Hugging Face]
+    web: [APIs]
+    databases: [Pinecone, Weaviate]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Salesforce, ServiceNow, SAP, Oracle]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11203137'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:26:23.644843'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

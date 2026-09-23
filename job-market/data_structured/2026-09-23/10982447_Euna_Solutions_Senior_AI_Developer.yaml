@@ -1,0 +1,56 @@
+company:
+  name: Euna Solutions
+  stage: null
+  focus: |-
+    Cloud-based finance software for public sector and
+    government
+position:
+  title: Senior AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds AI-powered features end-to-end:
+      LLM orchestration, prompt engineering workflows, evaluation,
+      and observability, plus agentic system design. This is
+      shaping LLM behavior, so ai-first.
+  responsibilities:
+  - Own the evolution of shared AI components, libraries, and platform capabilities
+  - Design and build AI-powered product features end-to-end including LLM orchestration,
+    prompt engineering, evaluation, and observability
+  - Design and build CI/CD patterns, deployment pipelines, and observability tooling
+    for shipping agents to production
+  - Lead the team on AI tooling adoption including coding assistants, agentic workflows,
+    and evaluation frameworks
+  - 'Build and optimize core SaaS platform systems: background processing, scalable
+    APIs, ingestion pipelines, search, and PostgreSQL performance'
+  - Articulate technical vision and translate ambiguous problems into concrete plans
+  - Mentor engineers, run technical reviews, and establish best practices
+  use_cases:
+  - AI-powered features for a government finance SaaS platform (procurement, budgeting,
+    payments, grants)
+  - Production agents shipped to real users via orchestration patterns
+  - Search and discovery across platform data (full-text, semantic, vector)
+  - High-scale background processing and data ingestion pipelines for multi-tenant
+    SaaS
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, OpenAI API, Anthropic API, AWS Bedrock,
+      Prompt Engineering, AI Agents, Agentic Workflows, LLMs, Claude Code, Cursor,
+      GitHub Copilot]
+    ml: []
+    web: [REST APIs, APIs, Full-Stack Development]
+    databases: [Vector Databases, PostgreSQL, Redis]
+    data: []
+    cloud: [AWS, Azure, AWS Lambda, ECS, AWS S3, API Gateway, CloudWatch]
+    ops: [LangSmith, PromptLayer, CI/CD, Observability, Monitoring]
+    languages: [C#, Ruby, Python]
+    domains: []
+    other: [Event-Driven Architecture, Semantic Search, Vector Search]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10982447'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:10:56.142336'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

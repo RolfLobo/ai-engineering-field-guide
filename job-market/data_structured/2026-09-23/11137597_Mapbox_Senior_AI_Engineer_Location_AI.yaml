@@ -1,0 +1,55 @@
+company:
+  name: Mapbox
+  stage: null
+  focus: Real-time location platform for maps and navigation
+position:
+  title: Senior AI Engineer, Location AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs agent orchestration, tool-calling
+      boundaries, model harnesses, prompt structure, and
+      evaluation systems for non-deterministic LLM behavior —
+      clearly shaping LLM/agent output quality, making it ai-
+      first.
+  responsibilities:
+  - Define product behavior, build measurement frameworks, and build evaluation systems
+    for non-deterministic behavior
+  - Run continuous evaluation of APIs, SDKs, and applications from the end user perspective
+  - Own MVP delivery against a north star technical design
+  - 'Build data pipelines: ingestion, conflation, entity resolution, quality checks,
+    batch and streaming jobs'
+  - Evaluate and adopt external datasets, models, and benchmarks from research and
+    open source
+  - Design feedback loops and instrumentation so product usage improves the product
+  - Design the boundary between models and tools, including the model harness and
+    routing
+  - Meet latency and cost targets via streaming, caching, model routing, and prompt
+    structure; build internal CLI and MCP tooling
+  use_cases:
+  - Search and Places data quality for location services
+  - Location and navigation intelligence
+  - Making the Mapbox platform usable by AI agents
+  - Map/geospatial data conflation and entity resolution
+  - LLM-backed features with tool calling for location queries
+  skills:
+    genai: [LLMs, Agentic Workflows, Function Calling, MCP, Prompt Engineering, LLM
+        Evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [OpenStreetMap, Geospatial Data]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11137597'
+  location: DEU
+  remote: true
+  extracted_at: '2026-09-23T11:21:32.413974'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

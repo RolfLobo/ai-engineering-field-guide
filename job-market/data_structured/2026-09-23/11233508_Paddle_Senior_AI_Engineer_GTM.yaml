@@ -1,0 +1,53 @@
+company:
+  name: Paddle
+  stage: null
+  focus: Payments infrastructure as Merchant of Record
+position:
+  title: Senior AI Engineer (GTM)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM-based systems: agentic
+      workflows, prompt design, model selection/routing,
+      evaluation, and guardrails. This is directly shaping model
+      behavior and output quality, so ai-first.
+  responsibilities:
+  - Design and build AI-powered systems for account segmentation, enrichment, scoring,
+    prioritisation and buying-signal detection
+  - Develop and deploy agentic workflows for account research, outbound personalisation,
+    call summarisation and CRM hygiene
+  - Write production-quality code, integrations, data pipelines and services from
+    prototype to daily use
+  - Optimise systems for quality, latency and cost via evaluation, prompt design,
+    model selection, routing, caching and context management
+  - Establish patterns for AI systems at Paddle including monitoring, guardrails,
+    documentation and business impact measurement
+  use_cases:
+  - Account segmentation, enrichment, scoring and prioritisation
+  - Buying-signal detection for sales teams
+  - Sales workflow automation via agents (account research, outbound personalisation,
+    call summarisation, CRM hygiene)
+  - Intelligent prospect research tools
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Prompt Engineering, Guardrails]
+    ml: [Model Evaluation]
+    web: [APIs]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Model Evaluation]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11233508'
+  location: GBR
+  locations:
+  - GBR
+  - Toronto, CAN
+  remote: true
+  extracted_at: '2026-09-23T11:29:05.179844'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

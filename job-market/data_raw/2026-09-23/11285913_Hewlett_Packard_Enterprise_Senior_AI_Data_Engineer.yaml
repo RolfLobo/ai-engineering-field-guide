@@ -1,0 +1,360 @@
+job_id: 11285913
+title: "Senior AI & Data Engineer"
+company: Hewlett Packard Enterprise
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 85,422 Employees
+description: |
+  Senior AI & Data Engineer
+
+
+
+  This role has been designed as ‘’Onsite’ with an expectation
+  that you will primarily work from an HPE office.
+
+  Who We Are:
+
+  Hewlett Packard Enterprise is the global edge-to-cloud
+  company advancing the way people live and work. We help
+  companies connect, protect, analyze, and act on their data
+  and applications wherever they live, from edge to cloud, so
+  they can turn insights into outcomes at the speed required
+  to thrive in today’s complex world. Our culture thrives on
+  finding new and better ways to accelerate what’s next. We
+  know varied backgrounds are valued and succeed here. We have
+  the flexibility to manage our work and personal needs. We
+  make bold moves, together, and are a force for good. If you
+  are looking to stretch and grow your career our culture will
+  embrace you. Open up opportunities with HPE.
+
+  Job Description:
+
+
+
+  HPE Financial services is where we help organizations create
+  the investment they need for digital transformation, in an
+  innovative and sustainable way. We partner with customers
+  across their entire IT asset portfolio from edge to cloud to
+  end-user. Unique to each client’s aspirations and size, our
+  financial and asset management solutions are anchored by
+  best-in-class tech upcycling services. Join us redefine
+  what’s next for you.
+
+  Role Summary
+
+  The Senior AI & Data Engineer is an individual contributor
+  role that acts as the technical subject matter expert at the
+  intersection of AI engineering and data engineering. This is
+  a uniquely dual-domain role: the successful candidate
+  bridges the organization’s data strategy with its AI agenda,
+  ensuring that intelligent systems are built on a foundation
+  of governed, high-quality, well-architected data. On the AI
+  side, this role designs and delivers end-to-end production-
+  grade AI products — architecting multi-agent frameworks,
+  fine-tuning and evaluating LLMs, building robust ML
+  pipelines, and ensuring AI solutions are scalable,
+  explainable, and responsibly governed. On the data side,
+  this role defines the data architecture, transformation
+  standards, and quality frameworks that make those AI
+  products possible — owning the data platform across
+  Databricks, Microsoft Fabric, and Collibra. Beyond
+  individual delivery, this role provides technical leadership
+  across cross-functional initiatives, defines engineering
+  standards for both AI and data engineering practice, and
+  leads the Applied AI Engineer and AI Data Engineer. The
+  ideal candidate brings deep expertise across the full stack:
+  from classical machine learning and modern generative AI
+  through to data architecture, governance, and pipeline
+  engineering — with the communication skills to translate
+  that expertise into measurable business impact.
+
+
+  What you'll do:
+
+
+  Technical Leadership & Subject Matter Expertise
+
+  - Serve as the dual AI & data SME for the team and
+    organization — the escalation point for complex technical
+    decisions spanning model design, data architecture,
+    pipeline engineering, and deployment.
+  - Define and uphold engineering standards, design patterns,
+    and best practices across both AI and data engineering
+    disciplines; conduct architecture reviews and provide
+    technical sign-off on all major deliverables.
+  - Lead technical discovery for new AI and data use cases:
+    evaluate feasibility, recommend solution approaches, and
+    produce architecture documents for stakeholder alignment.
+  - Participate in and lead cross-functional initiatives where
+    AI and data strategy intersect — partnering with product,
+    business, and platform teams to translate strategy into
+    shipped solutions.
+  - Mentor and upskill the Applied AI Engineer and AI Data
+    Engineer through pair programming, code reviews, design
+    sessions, and structured knowledge transfer.
+
+  Advanced LLM Engineering & Agentic AI
+
+  - Architect and deliver complex agentic AI systems — multi-
+    agent pipelines, tool-use frameworks, autonomous task
+    orchestration
+  - Design and implement advanced RAG architectures including
+    hybrid search, re-ranking, query decomposition, and self-
+    reflective retrieval patterns
+  - Lead LLM evaluation frameworks: define metrics, build
+    automated eval harnesses, and benchmark Claude, GPT, and
+    Copilot performance against business KPIs
+  - Assess and implement LLM fine-tuning and alignment
+    strategies where pre-trained models do not meet
+    requirements
+  - Own LLM integration architecture — API design, latency
+    optimization, token cost management, rate limit handling,
+    and fallback strategies
+
+  Machine Learning & Data Science
+
+  - Lead the full ML lifecycle: problem framing, data strategy,
+    feature engineering, model selection, training,
+    evaluation, deployment, and monitoring.
+  - Develop advanced ML solutions across NLP, time-series
+    forecasting, anomaly detection, recommendation, and
+    classification/regression domains.
+  - Design and implement MLOps pipelines for automated model
+    training, versioning, A/B testing, and drift detection in
+    production environments.
+  - Apply statistical rigour — hypothesis testing, causal
+    inference, experimental design — to validate model
+    outcomes and business impact.
+  - Ensure explainability (SHAP, LIME, attention visualization)
+    and fairness assessments are embedded in all production
+    models.
+
+  AI Solution Architecture & Integration
+
+  - Architect end-to-end AI solutions that integrate LLMs, ML
+    models, vector stores, data pipelines, and business APIs
+    into cohesive, production-ready products.
+  - Define data contracts and interface specifications between
+    the AI engineering layer and the data engineering team.
+  - Design for scale, reliability, and cost — including caching
+    strategies, async processing, streaming inference, and
+    model serving optimization.
+  - Evaluate and recommend AI frameworks, platforms, and tooling
+    to the technical leadership team; maintain a technology
+    radar for the AI practice.
+
+  Data Engineering, Governance & Transformation
+
+  - Architect data transformations and ingestion methods for AI
+    products
+  - Define and enforce data engineering standards, pipeline
+    design patterns, and transformation best practices; ensure
+    the AI Data Engineer delivers within a governed, reusable
+    framework.
+  - Design advanced transformation patterns: SCD handling,
+    event-driven streaming ingestion, late-arriving data, and
+    incremental load strategies optimized for both analytical
+    and AI workloads.
+  - Implement automated data quality validation
+  - Champion a data-as-a-product mindset
+
+  RPA, Reporting & AI Automation
+
+  - Provide technical leadership for AI-augmented RPA
+    implementations — embedding LLM-based intelligence into
+    automation workflows to handle unstructured inputs and
+    exception scenarios.
+  - Define AI metrics and KPIs for dashboards; support Power BI
+    and reporting teams with data science-derived insights and
+    model output integration.
+  - Identify automation opportunities across the organization
+    and build the business case for AI-led process
+    transformation.
+
+  Innovation & Thought Leadership
+
+  - Develop quick PoC's to
+  - Continuously evaluate emerging research, models, and
+    frameworks; translate relevant advances into internal
+    prototypes and proof-of-concepts.
+  - Present technical findings and recommendations to senior
+    stakeholders and leadership — with clarity, confidence,
+    and business context.
+  - Contribute to internal AI community of practice: run
+    knowledge sessions, publish internal technical guides, and
+    foster a culture of experimentation
+
+  What you need to bring:
+
+  - Bachelor's or Master's degree in Computer Science, Data
+    Science, AI/ML, Engineering, Mathematics, or a related
+    technical discipline; PhD is a plus.
+  - 7 – 10 years of hands-on experience in AI/ML engineering,
+    applied data science, or LLM engineering roles.
+  - Proven track record of delivering production AI systems —
+    not just prototypes — with measurable business impact.
+  - Deep expertise with at least two major LLM platforms
+    (Claude, GPT, Gemini, or equivalent), including evaluation
+    and integration at scale.
+  - Significant experience with Collibra or an equivalent
+    enterprise data governance platform
+  - Demonstrated experience leading cross-functional AI
+    initiatives and mentoring junior engineers.
+  - Strong ML fundamentals alongside modern generative AI skills
+    — able to operate across both paradigms.
+  - Experience with responsible AI practices, including fairness
+    auditing, explainability, and content safety, is strongly
+    preferred.
+
+  Technical Skill Requirements
+
+  - LLM Engineering - Anthropic Claude API, OpenAI GPT API,
+    Microsoft Copilot / Azure OpenAI; advanced prompt
+    engineering, function-calling, structured outputs, LLM
+    evaluation frameworks, fine-tuning (LoRA, PEFT,
+    instruction tuning), RLHF / DPO concepts
+  - Agentic Frameworks - LangChain, LangGraph, AutoGen, Semantic
+    Kernel, CrewAI; multi-agent orchestration, tool routing,
+    memory management, reflection and self-correction patterns
+  - RAG & Vector Search - Advanced RAG patterns, embedding
+    models, vector databases, chunking strategy design
+  - Machine Learning - Scikit-learn, XGBoost, LightGBM,
+    HuggingFace Transformers, PyTorch; NLP, time-series,
+    anomaly detection, classification, regression; model
+    explainability (SHAP, LIME), fairness and bias assessment
+  - Programming - Python (expert), SQL (advanced); familiarity
+    with TypeScript / JavaScript; REST API design, FastAPI;
+    async programming patterns
+  - Cloud & Architecture - Azure (primary): Azure OpenAI
+    Service, Azure ML, AKS, Azure Functions, APIM; solution
+    architecture documentation; cost and performance
+    optimization
+  - Data Science & Statistics - Experimental design, hypothesis
+    testing, causal inference, Bayesian methods, statistical
+    modelling; feature engineering, data leakage prevention,
+    cross-validation strategies
+  - AI Governance & Ethics - Responsible AI principles, model
+    explainability standards, bias / fairness auditing, AI
+    risk assessment, prompt injection mitigation, content
+    safety controls
+  - Reporting & BI - Power BI (advanced DAX, semantic models),
+    ability to translate model outputs into executive-ready
+    visualizations
+  - Leadership & Collaboration - Technical mentoring,
+    architecture review, design documentation, cross-
+    functional stakeholder communication
+
+  #financialservices
+
+  Additional Skills:
+
+  Accountability, Accountability, Action Planning, Active
+  Learning, Active Listening, Agile Methodology, Agile Scrum
+  Development, Analytical Thinking, Bias, Coaching,
+  Creativity, Critical Thinking, Cross-Functional Teamwork,
+  Data Analysis Management, Data Collection Management
+  (Inactive), Data Controls, Design, Design Thinking, Empathy,
+  Follow-Through, Group Problem Solving, Growth Mindset,
+  Intellectual Curiosity (Inactive), Long Term Planning,
+  Managing Ambiguity {+ 5 more}
+
+  What We Can Offer You:
+
+  Health & Wellbeing
+
+  We strive to provide our team members and their loved ones
+  with a comprehensive suite of benefits that supports their
+  physical, financial and emotional wellbeing.
+
+  Personal & Professional Development
+
+  We also invest in your career because the better you are,
+  the better we all are. We have specific programs catered to
+  helping you reach any career goals you have — whether you
+  want to become a knowledge expert in your field or apply
+  your skills to another division.
+
+  Unconditional Inclusion
+
+  We are unconditionally inclusive in the way we work and
+  celebrate individual uniqueness. We know varied backgrounds
+  are valued and succeed here. We have the flexibility to
+  manage our work and personal needs. We make bold moves,
+  together, and are a force for good.
+
+  Let's Stay Connected:
+
+  Follow @HPECareers on Instagram to see the latest on people,
+  culture and tech at HPE.
+
+  #india
+
+  Job:
+
+  Engineering
+
+  Job Level:
+
+  TCP_04
+
+
+
+
+
+  HPE is an Equal Employment Opportunity/
+  Veterans/Disabled/LGBT employer. We do not discriminate on
+  the basis of race, gender, or any other protected category,
+  and all decisions we make are made on the basis of
+  qualifications, merit, and business need. Our goal is to be
+  one global team that is representative of our customers, in
+  an inclusive environment where we can continue to innovate
+  and grow together. Please click here: Equal Employment
+  Opportunity.
+
+  Hewlett Packard Enterprise is EEO Protected Veteran/
+  Individual with Disabilities.
+
+
+
+  HPE will comply with all applicable laws related to employer
+  use of arrest and conviction records, including laws
+  requiring employers to consider for employment qualified
+  applicants with criminal histories.
+
+
+
+  No Fees Notice & Recruitment Fraud Disclaimer
+
+
+
+  It has come to HPE’s attention that there has been an
+  increase in recruitment fraud whereby scammer impersonate
+  HPE or HPE-authorized recruiting agencies and offer fake
+  employment opportunities to candidates.  These scammers
+  often seek to obtain personal information or money from
+  candidates.
+
+
+
+  Please note that Hewlett Packard Enterprise (HPE), its
+  direct and indirect subsidiaries and affiliated companies,
+  and its authorized recruitment agencies/vendors will never
+  charge any candidate a registration fee, hiring fee, or any
+  other fee in connection with its recruitment and hiring
+  process.  The credentials of any hiring agency that claims
+  to be working with HPE for recruitment of talent should be
+  verified by candidates and candidates shall be solely
+  responsible to conduct such verification. Any
+  candidate/individual who relies on the erroneous
+  representations made by fraudulent employment agencies does
+  so at their own risk, and HPE disclaims liability for any
+  damages or claims that may result from any such
+  communication.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-21
+url: "https://builtin.com/job/senior-ai-data-engineer/11285913"
+source: Built In

@@ -1,0 +1,242 @@
+job_id: 11075636
+title: Data Science ML/Gen AI Engineer (Mid-Level)- Orbit
+company: Irth Solutions
+location: IND
+remote: true
+work_type: FULL_TIME
+company_size: 81 Employees
+description: |
+  About Irth Solutions
+
+  Irth Solutions is a leading provider of cloud-based SaaS
+  software for damage prevention, asset integrity, stakeholder
+  engagement and land management, helping energy, utility,
+  telecom, and infrastructure companies protect their critical
+  network infrastructure. With nearly three decades of
+  industry experience, Irth serves customers across North
+  America and continues to expand its platform with new data-
+  driven and AI-powered capabilities.
+
+  ML/GenAI Engineer – Insights (AI/ML)
+
+  Location: Remote – India Department: Insights (AI/ML)
+  Reports to: Data Platform & Analytics Manager
+
+  About the Role
+
+  Irth is building a unified and governed Databricks Lakehouse
+  to power cross-product insights and customer-facing data
+  products.
+
+  We are looking for a hands-on ML/GenAI Engineer who can
+  contribute across the data and ML lifecycle—from
+  establishing reliable, governed data foundations to rapidly
+  prototyping and productionizing machine learning and GenAI
+  solutions.
+
+  You will work closely with data, platform, product, and
+  domain teams to turn data into measurable customer value
+  across Irth’s key industries:
+
+  - Damage Prevention
+  - Asset Integrity
+  - Land Management
+  - Stakeholder Engagement
+
+  The ideal candidate is comfortable working across data
+  engineering, machine learning, GenAI, MLOps, governance, and
+  cloud platforms, with a strong focus on production
+  reliability and business outcomes.
+
+  Key Responsibilities
+
+  1. Build and Strengthen Lakehouse Foundations
+
+  - Contribute to medallion architecture pipelines (Bronze →
+    Silver → Gold) using Databricks.
+  - Implement data quality checks, validation gates, and data
+    contracts at ingestion.
+  - Support column-level lineage and governance initiatives,
+    targeting at least 95% lineage coverage.
+  - Help implement policy-as-code for regional data residency
+    and sensitive-data handling.
+  - Ensure appropriate PII masking, obfuscation, and access
+    controls across Silver and Gold data layers.
+  - Collaborate with data engineering and governance teams to
+    improve data reliability, discoverability, and
+    documentation.
+
+  2. Develop and Productionize ML & GenAI Solutions
+
+  - Explore, prototype, evaluate, and productionize machine
+    learning and GenAI solutions.
+  - Work on use cases including:
+  - Develop solutions that address measurable customer and
+    business problems across Irth’s industry verticals.
+  - Package and manage models using Unity Catalog model
+    management/registries.
+  - Design and implement batch and streaming inference
+    architectures where appropriate.
+  - Partner with Product and business stakeholders to define
+    success metrics, KPIs, and A/B testing strategies.
+  - Move successful experiments from prototype to production
+    with clearly defined SLAs, monitoring, documentation, and
+    operational runbooks.
+
+  3. Engineer for Reliability, Scalability & Cost
+
+  - Build production workflows, jobs, and notebooks as
+    infrastructure/assets-as-code using Databricks Asset
+    Bundles (DABs).
+  - Implement CI/CD pipelines using GitHub Actions.
+  - Design reliable, observable, and scalable data and ML
+    workloads.
+  - Work toward defined operational SLOs, including:
+  - Implement proactive monitoring and alerting.
+  - Automate incident creation and tracking through Jira where
+    appropriate.
+  - Apply FinOps principles, including resource tagging,
+    workload policies, optimization, and cost monitoring.
+  - Identify opportunities to improve compute performance while
+    maintaining cost efficiency.
+
+  4. Advance the Semantic Layer & Data Consumption
+
+  - Contribute business metrics, definitions, and semantic
+    models to Unity Catalog.
+  - Help establish a single source of truth for metrics consumed
+    across BI, analytics, and applications.
+  - Support consumption through Power BI and Databricks AI/BI.
+  - Work with domain teams to develop and maintain trusted data
+    products.
+  - Improve data-product quality through documentation,
+    contracts, testing, and governance.
+  - Ensure analytical definitions remain consistent across
+    products and business functions.
+
+  5. Security, Compliance & Auditability by Default
+
+  - Implement secure data and ML architectures using RBAC and
+    ABAC within Unity Catalog.
+  - Follow secure networking practices, including private
+    networking where required.
+  - Manage credentials and secrets using appropriate cloud key-
+    management and secret-management services, such as Azure
+    Key Vault (AKV) or KMS.
+  - Design solutions with security, privacy, and auditability
+    built into the development lifecycle.
+  - Support compliance requirements across frameworks and
+    regulations such as:
+  - Produce and maintain audit evidence related to:
+  - Participate in governance and security reviews and remediate
+    identified gaps.
+
+  What Success Looks Like
+
+  In this role, success means you can take a data or AI use
+  case from idea → prototype → production → measurable
+  business impact, while maintaining strong standards for
+  governance, security, reliability, and cost.
+
+  You will be successful when you:
+
+  - Deliver production-ready ML and GenAI capabilities that
+    improve customer outcomes.
+  - Build solutions on trusted, governed, and well-documented
+    data.
+  - Maintain reliable pipelines and inference services against
+    agreed SLOs.
+  - Establish strong lineage, data quality, and security
+    practices.
+  - Reduce the time required to move AI experiments into
+    production.
+  - Create reusable patterns for ML/GenAI development across
+    Irth’s products and verticals.
+  - Partner effectively with Product, Data Engineering,
+    Platform, and domain teams.
+
+  Requirements
+
+  Qualifications
+
+  Required Qualifications
+
+  - 3–6 years of experience in Data Science, Machine Learning,
+    or ML Engineering, with a proven track record of taking
+    models from development through production.
+  - Strong programming and data skills in Python, SQL, and
+    Spark/PySpark.
+  - Hands-on experience with Databricks, including:
+  - Strong understanding of ML fundamentals, including:
+  - Practical GenAI/LLM experience, including:
+  - Experience implementing CI/CD for data and ML workloads,
+    including:
+  - Experience with data contracts and data-quality frameworks,
+    including schema governance, automated
+    expectations/testing, validation, and quarantine/error-
+    handling workflows.
+  - Strong understanding of data security and compliance,
+    including:
+  - Strong communication and collaboration skills, with the
+    ability to work effectively with Product, Engineering,
+    Data, and domain teams.
+  - Ability to produce clear technical documentation, including
+    Architecture Decision Records (ADRs), runbooks, experiment
+    reports, and operational documentation.
+
+  Preferred Qualifications
+
+  - Experience with Microsoft Azure, including:
+  - Experience with AWS, including:
+  - Experience with geospatial data and analytics, including
+    PostGIS, spatial joins, spatial indexing, tiling, and GIS-
+    based feature engineering.
+  - Experience with streaming and real-time data, including
+    Structured Streaming and Change Data Capture (CDC).
+  - Hands-on experience with MLflow and Unity Catalog Model
+    Serving.
+  - Experience implementing data and ML observability, including
+    model performance metrics, lineage dashboards, pipeline
+    monitoring, SLA/SLO monitoring, and alerting.
+  - Understanding of FinOps practices, including resource
+    tagging, budgets, cost monitoring, and cost anomaly
+    detection.
+  - Familiarity with Disaster Recovery (DR), Business Continuity
+    Planning (BCP), and resilience practices.
+  - Experience working in utilities, energy, infrastructure,
+    public works, or related industries.
+
+  Nice-to-Have Qualifications
+
+  - Experience building predictive, risk-scoring, or failure-
+    prediction models for asset integrity, including
+    corrosion, defects, degradation, or infrastructure
+    failure.
+  - Experience applying anomaly detection and time-series
+    forecasting to pipeline inspection, sensor, maintenance,
+    or operational data.
+  - Experience engineering ML features from GIS and geospatial
+    asset data, including pipeline routes, facilities,
+    inspection locations, and infrastructure networks.
+  - Experience developing risk models using pipeline, utility,
+    or asset-integrity data.
+  - Understanding of regulatory, compliance, and audit-reporting
+    requirements associated with asset integrity and
+    infrastructure analytics.
+  - Experience translating analytical and ML outputs into
+    operational risk indicators, customer-facing insights, or
+    decision-support tools.
+
+  BenefitsWhat We Offer
+
+  - Be part of a dynamic and growing company that is well-
+    respected in its industry.
+  - Competitive compensation based on experience and
+    qualifications.
+  - Health Insurance coverage
+industries:
+  - Cloud
+  - Software
+posted_date: 2026-09-09
+url: "https://builtin.com/job/data-science-ml-gen-ai-engineer-mid-level-orbit/11075636"
+source: Built In

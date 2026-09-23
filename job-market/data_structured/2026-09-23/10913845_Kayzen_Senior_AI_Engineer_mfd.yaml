@@ -1,0 +1,79 @@
+company:
+  name: Kayzen
+  stage: null
+  focus: Mobile demand-side platform for programmatic advertising
+position:
+  title: Senior AI Engineer (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs, builds, and ships production LLM
+      capabilities including RAG, embeddings, agents, tool
+      calling, and evaluation/observability loops for LLM output
+      quality. This is direct shaping of LLM behavior, so it is
+      ai-first.
+  responsibilities:
+  - Architect, develop, and deploy production-grade LLM capabilities within the Kayzen
+    Console
+  - Build backend services, APIs, and integrations connecting AI capabilities with
+    the product
+  - Implement production patterns for LLMs, RAG, embeddings, agents, and tool calling
+  - Set up evaluation, observability, monitoring, and feedback loops for AI features
+  - Monitor and optimize quality, latency, reliability, and inference cost
+  - Troubleshoot production issues and iterate based on telemetry and user feedback
+  - Contribute to product-facing and full-stack functionality
+  - Prototype quickly and turn successful experiments into maintainable production
+    systems
+  use_cases:
+  - AI-powered capabilities embedded in a mobile advertising DSP console
+  - Programmatic campaign workflows augmented with LLM features
+  - Customer acquisition, retargeting, and brand performance campaign tooling
+  - Production LLM features with evaluation, monitoring, and cost/latency optimization
+  skills:
+    genai: [LLMs, RAG, Embeddings, AI Agents, Function Calling, Multi-Agent Systems,
+      MCP, Guardrails, Prompt Engineering, LLM Evaluation]
+    ml: []
+    web: [Angular, APIs]
+    databases: [Vector Search]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD, Docker]
+    languages: [JavaScript, TypeScript, Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10913845'
+  location: GRC
+  locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  remote: true
+  extracted_at: '2026-09-23T11:06:50.743203'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

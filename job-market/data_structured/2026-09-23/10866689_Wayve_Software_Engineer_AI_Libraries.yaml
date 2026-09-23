@@ -1,0 +1,52 @@
+company:
+  name: Wayve
+  stage: null
+  focus: Embodied AI for autonomous driving
+position:
+  title: Software Engineer, AI Libraries
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds ML training infrastructure, libraries, and
+      tooling for ML teams; it explicitly states it is not an ML
+      modelling role. The person does not shape model behaviour or
+      outputs - they build data loading, distributed training,
+      checkpointing, and evaluation infrastructure that others
+      use.
+  responsibilities:
+  - Design, build, and maintain scalable Python libraries and tools used by ML engineers
+    and researchers
+  - Develop abstractions for data loading, distributed training, inference, checkpointing,
+    and model evaluation workflows
+  - Support training at scale across large GPU clusters and cloud infrastructure
+  - Work with ML teams to design reusable abstractions and improve reliability, performance,
+    and usability of training infrastructure
+  - Improve engineering quality through architecture, testing, monitoring, and maintainability
+    practices
+  - Optimise data and training pipelines for multi-modal sensor data (camera, radar,
+    lidar)
+  use_cases:
+  - Autonomous driving model training and evaluation infrastructure
+  - Large-scale distributed training across GPU clusters
+  - Multi-modal sensor data pipelines for camera, radar, and lidar
+  - Model checkpointing, data loading, and inference tooling for ML teams
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, PyTorch Lightning, DDP, FSDP]
+    web: []
+    databases: []
+    data: [Airflow, Flyte, Ray, Metaflow, Argo Workflows]
+    cloud: [Azure]
+    ops: [Prometheus, Grafana, Datadog, OpenTelemetry, Docker, Kubernetes, Terraform,
+      NVIDIA Nsight]
+    languages: [Python]
+    domains: []
+    other: [Distributed Computing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10866689'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:03:31.269309'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

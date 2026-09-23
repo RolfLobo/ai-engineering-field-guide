@@ -1,0 +1,47 @@
+company:
+  name: Vrinda International
+  stage: null
+  focus: null
+position:
+  title: Senior AI Engineer | CapGemini
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes LLMs with LoRA/QLoRA/PEFT and builds
+      retrieval and multimodal AI solutions, directly shaping
+      model behaviour. Since LLMs and retrieval are involved, it
+      is ai-first.
+  responsibilities:
+  - Develop, deploy, and optimize AI/ML models for production environments
+  - Fine-tune Large Language Models using LoRA, QLoRA, and PEFT techniques
+  - Build scalable NLP, retrieval, and multimodal AI solutions
+  - Integrate AI systems with Graph Databases and Vector Databases
+  - Collaborate with cross-functional teams and mentor junior engineers
+  - Drive innovation by implementing cutting-edge AI technologies
+  use_cases:
+  - Production AI/ML systems
+  - LLM fine-tuning for domain adaptation
+  - NLP and retrieval-based solutions
+  - Multimodal AI applications
+  - Knowledge retrieval over graph and vector data
+  skills:
+    databases: [Neo4j, TigerGraph, Graph Databases, Pinecone, Weaviate, Milvus, FAISS,
+      Chroma, Vector Databases]
+    domains: []
+    data: [NumPy, Pandas]
+    web: []
+    ml: [PyTorch, TensorFlow, Hugging Face, Transformers, GANs, Diffusion Models,
+      NLP, scikit-learn, Fine-Tuning]
+    ops: [MLOps]
+    other: [Ethical AI, Data Privacy, Retrieval Systems, Multimodal AI]
+    cloud: [AWS, Azure, GCP]
+    languages: [Python]
+    genai: [LoRA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11234828'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:30:17.998991'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

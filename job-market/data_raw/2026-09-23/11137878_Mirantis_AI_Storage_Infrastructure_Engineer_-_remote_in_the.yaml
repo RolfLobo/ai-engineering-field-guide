@@ -1,0 +1,142 @@
+job_id: 11137878
+title: AI Storage Infrastructure Engineer - remote in the US
+company: Mirantis
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Company Description
+
+  About Mirantis
+
+  Mirantis is the Kubernetes-native AI infrastructure company,
+  enabling organizations to build and operate scalable,
+  secure, and sovereign infrastructure for modern AI, machine
+  learning, and data-intensive applications. By combining open
+  source innovation with deep expertise in Kubernetes
+  orchestration, Mirantis empowers platform engineering teams
+  to deliver composable, production-ready developer platforms
+  across any environment—on-premises, in the cloud, at the
+  edge, or in sovereign data centers. As enterprises navigate
+  the growing complexity of AI-driven workloads, Mirantis
+  delivers the automation, GPU orchestration, and policy-
+  driven control needed to manage infrastructure with
+  confidence and agility. Committed to open standards and
+  freedom from lock-in, Mirantis ensures that customers retain
+  full control of their infrastructure strategy.
+
+  Job Description
+
+  Overview
+
+  The role is to deploy, integrate, and operate high-
+  performance storage for GPU-accelerated compute and AI
+  platforms. You will own the storage layer where Kubernetes
+  meets bare metal — standing up NFS-based high-performance
+  storage, wiring it into clusters via CSI, and tuning it to
+  keep data flowing to GPU workloads at scale. Work spans
+  hybrid, edge, and air-gapped deployments built on the
+  Mirantis K0rdent stack.
+
+  About the Role
+
+  We are looking for a senior systems engineer who treats
+  storage as infrastructure to be automated, observed, and
+  tuned — not hand-managed. The right candidate is fluent in
+  Kubernetes storage, deeply versed in Linux storage and
+  networking fundamentals down to the kernel and NFS-client
+  layer, and knows how to make high-performance NAS actually
+  perform under demanding workloads. You should reach for
+  infrastructure-as-code and GitOps by default, be self-
+  directed in diagnosing performance and reliability issues
+  end to end, set operational standards for others to follow,
+  and communicate clearly across teams. Bare-metal hardware
+  experience is a strong plus, but deep Linux storage
+  knowledge is essential.
+
+  Responsibilities
+
+  1. Storage Integration & Operation
+
+  - Integrate NFS-based high-performance storage (e.g., VAST,
+    Dell PowerScale) into Kubernetes clusters via CSI, storage
+    classes, and persistent volumes.
+  - Tune the NFS data path — mount options, nconnect/RDMA, Linux
+    client, and network settings — for high-throughput, low-
+    latency GPU/AI workloads.
+  - Deploy and operate storage services and operators; manage
+    capacity, quotas, snapshots, and lifecycle.
+
+  2. Linux Platform & System Integration
+
+  - Configure and optimize Linux systems for storage workloads,
+    including driver setup, file system layout, network
+    tuning, and kernel parameter optimization.
+  - Deliver storage integration for k0s-based Kubernetes via
+    Cluster API (CAPI) and K0rdent management/child cluster
+    topologies.
+  - Operate storage in fully disconnected (air-gapped)
+    environments, including local artifact/mirror connectivity
+    (Harbor) and PKI/TLS considerations.
+
+  3. Automation & Observability
+
+  - Automate storage provisioning and configuration with
+    infrastructure-as-code (Terraform/OpenTofu) and GitOps
+    pipelines (ArgoCD or Flux).
+  - Build monitoring, alerting, and observability for storage
+    performance, capacity, and health.
+  - Diagnose and resolve performance, reliability, and scaling
+    issues across the storage stack.
+
+  Qualifications
+
+  Required qualifications:
+
+  - 7+ years of experience in SRE or hardware/storage
+    infrastructure operations
+  - 5+ years of building/operating distributed production
+    Storage systems at scale
+  - 7+ years of experience in Linux and K8s storage fundamentals
+    (NFS, CSI)
+  - 1+ years of experience integrating with or building High
+    Performance Storage solutions (VAST, Weka, DDN,
+    PowerScale)
+
+  Additional Information
+
+  What does Mirantis offer you?
+
+  - Work with an established Silicon Valley leader in the cloud
+    infrastructure industry;
+  - Work with exceptionally passionate, talented and engaging
+    colleagues, helping Fortune 500 and Global 2000 customers
+    implement next-generation cloud technologies;
+  - Be a part of cutting-edge, open-source innovation;
+  - Thrive in the high-energy environment of a young company
+    where openness, collaboration, risk-taking, and continuous
+    growth are valued;
+  - Professional development and training;
+  - Attend conferences and working groups;
+  - Company outings, happy hours, hackathons, and tech talks;
+  - Receive a competitive compensation package with a strong
+    benefits plan.
+
+  It is understood that Mirantis, Inc. may use automated
+  decision-making technology (ADMT) for specific employment-
+  related decisions. Opting out of ADMT use is requested for
+  decisions about evaluation and review connected with the
+  specific employment decision for the position applied for.
+  You also have the right to appeal any decisions made by ADMT
+  by sending your request to isamoylova@mirantis.com
+
+  By submitting your resume, you consent to the processing and
+  storage of your personal data in accordance with applicable
+  data protection laws, for the purposes of considering your
+  application for current and future job opportunities.
+
+  We are a Leader for Container Management in G2 (#2 after
+  AWS)!
+posted_date: 2026-09-11
+url: "https://www.builtinla.com/job/ai-storage-infrastructure-engineer-remote-us/11137878"
+source: Built In

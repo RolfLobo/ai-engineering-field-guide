@@ -1,0 +1,40 @@
+company:
+  name: HealthAsyst
+  stage: null
+  focus: Healthcare IT services and product engineering
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds voice/chat AI agents, develops agentic
+      solutions with LLMs, and does prompt engineering — directly
+      shaping LLM behavior, so ai-first.
+  responsibilities:
+  - Build and deploy AI voice and chat agents
+  - Develop agentic solutions using LLMs
+  - Work on prompt engineering, APIs and integrations
+  - Improve performance and scalability of AI systems
+  use_cases:
+  - Voice agents for enterprise healthcare use cases
+  - Chat agents and chatbots
+  - Agentic AI solutions for enterprises
+  skills:
+    genai: [Generative AI, LLMs, AI Agents, Prompt Engineering, RAG]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: [Backend Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11182148'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:24:33.935802'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

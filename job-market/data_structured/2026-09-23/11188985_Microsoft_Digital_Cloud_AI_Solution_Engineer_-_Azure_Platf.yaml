@@ -1,0 +1,55 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: Cloud software and AI platform technology
+position:
+  title: Digital Cloud & AI Solution Engineer - Azure Platform State & Local Government
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a technical pre-sales/solution engineering job
+      designing cloud infrastructure architectures for government
+      customers. The engineer consumes and recommends Microsoft
+      Cloud & AI services but does not shape any model's behavior
+      through prompts, retrieval, training, or evals. AI is used
+      as a platform capability, not as the product being shaped.
+  responsibilities:
+  - Drive technical sales through demos, proof of concepts, and technical architecture
+    accelerators
+  - Lead architecture sessions and technical workshops to accelerate Cloud & AI adoption
+  - Build trusted relationships with government platform leads to co-design secure,
+    scalable solutions
+  - Resolve technical blockers by collaborating with engineering teams
+  - Guide migration of core workloads (Windows, SQL Server, Linux, PostgreSQL, Oracle)
+    to Azure
+  - Design hybrid and cloud-native networking solutions including virtual networks,
+    VPNs, and private connectivity
+  - Maintain expertise in resiliency, security, and compliance for government requirements
+  - Represent Microsoft in customer forums and technical communities
+  use_cases:
+  - Cloud migration and modernization for state and local government customers
+  - Secure, compliant hybrid cloud infrastructure for public sector
+  - Containerization and cloud-native modernization of legacy applications
+  - AI-powered infrastructure supporting government mission-critical workloads
+  - Networking and connectivity design meeting government compliance requirements
+  skills:
+    databases: [SQL Server, PostgreSQL, Oracle]
+    domains: []
+    data: []
+    web: []
+    ml: []
+    ops: [Kubernetes, VMware]
+    other: [SAP, Red Hat, NetApp, Power BI, Virtual Networks, VPN, Cloud Migration,
+      Cloud Architecture, Microsoft Office 365]
+    cloud: [Azure, AKS, Azure Arc]
+    languages: [SQL, Linux]
+    genai: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11188985'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:24:41.789375'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

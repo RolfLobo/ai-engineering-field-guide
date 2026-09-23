@@ -1,0 +1,55 @@
+company:
+  name: Neysa
+  stage: null
+  focus: AI cloud infrastructure (neocloud) for GPU clusters
+position:
+  title: Senior AI Compute Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role deploys, hosts, and optimizes GPU infrastructure
+      for LLM training and inference clusters, but does not shape
+      model behaviour — no prompt work, RAG, agent design, fine-
+      tuning, or output-quality evals. Per edge cases,
+      serving/scaling models others build is ai-support.
+  responsibilities:
+  - Deploy and manage NVIDIA and AMD GPU clusters end-to-end, from planning to production
+    acceptance for enterprise and cloud customers
+  - Manage advanced Linux systems (RHEL, Ubuntu, Rocky) with kernel tuning and driver
+    optimization at scale
+  - Build and optimize GPU infrastructure including CUDA, NVIDIA drivers, GPU Operator,
+    GPUDirect RDMA, NVLink, and NVSwitch
+  - Deploy and operate Kubernetes clusters with GPU support using Helm, Docker, and
+    Containerd
+  - Configure and optimize Slurm, MPI, and parallel file systems for distributed AI
+    training and HPC workloads
+  - Perform root cause analysis on production incidents and reduce cluster issues
+    through validation and monitoring
+  use_cases:
+  - LLM training clusters
+  - AI inference serving infrastructure
+  - HPC workloads on GPU clusters
+  - GPU cloud platforms for enterprise customers
+  skills:
+    genai: []
+    ml: [CUDA]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [GPU Operator, Kubernetes, Helm, Docker, Linux, Ansible, Terraform, CI/CD,
+      Git, Prometheus, Grafana, ELK Stack, Monitoring, Observability, Distributed
+        Systems]
+    languages: [Python, Bash]
+    domains: []
+    other: [NVIDIA GPUs, GPUDirect RDMA, NVLink, NVSwitch, Containerd, RHEL, Ubuntu,
+      Rocky Linux, Slurm, MPI, PBS, HPC, DCGM, GPFS, Ceph, Weka, VAST, MAAS, Foreman,
+      SaltStack, Loki, NVIDIA DGX SuperPOD, NVIDIA Spectrum-X]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11106298'
+  location: Mumbai, IND
+  extracted_at: '2026-09-23T11:18:25.698186'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

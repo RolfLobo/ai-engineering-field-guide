@@ -1,0 +1,48 @@
+company:
+  name: PwC
+  stage: null
+  focus: Professional services and business application consulting
+position:
+  title: Guidewire AI Developer, Senior Associate
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role develops and configures Guidewire insurance
+      applications; AI is mentioned only as "AI fluency" and "AI-
+      human collaboration" to enhance development processes. No
+      shaping of model behavior (no prompts, RAG, fine-tuning,
+      evals), so it is ai-support.
+  responsibilities:
+  - Develop and customize applications on the Guidewire platform for insurance industry
+    needs
+  - Design, code, and test software solutions for policy administration, claims, and
+    billing
+  - Analyze client requirements and implement solutions to optimize operational efficiency
+  - Configure Guidewire BillingCenter and ClaimCenter to client specifications
+  - Provide training and support for integration and utilization of business applications
+  - Interpret data to inform insights and recommendations for client engagements
+  - Apply software development methodologies to manage project deliverables
+  use_cases:
+  - Policy administration for insurance companies
+  - Claims management
+  - Insurance billing configuration
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Guidewire, Guidewire BillingCenter, Guidewire ClaimCenter, Software Development,
+      Data Analysis]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11293900'
+  location: Los Angeles, USA
+  extracted_at: '2026-09-23T11:35:00.809914'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

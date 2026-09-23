@@ -1,0 +1,131 @@
+job_id: 10909870
+title: Senior AI Engineer - Agentic Systems
+company: N-iX
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - CHL
+  - PER
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - GUY
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - BRA
+  - ECU
+  - ISL
+  - URY
+  - COL
+  - ROU
+  - SUR
+  - BOL
+  - LUX
+  - PRY
+  - CHE
+  - NLD
+  - ARG
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 2,135 Employees
+description: |
+  About the client
+
+  Our customer is the European online car market, serving over
+  30 million monthly users and present in 18 countries. As
+  part of their project, they are building an internal AI
+  platform and are looking for a Senior AI Engineer with
+  genuine, hands-on experience building agentic AI systems -
+  not just integrating existing tools.
+
+  This is a hands-on engineering role for someone who has real
+  depth in both AI system design and AWS platform engineering,
+  and who can move fluidly between the two to build
+  production-grade, agentic solutions.
+
+  While this is a hands-on role, you will also influence
+  technical direction, raise the bar for engineering
+  practices, and enable other data scientists and engineers to
+  succeed.
+
+  Duration is 4-6 months with the possibility of prolongation.
+
+  Time zone: EU or Canadian time zone.
+
+  We are ready to consider candidates for part-time
+  cooperation.
+
+  Responsibilities:
+
+  - Design, build, and maintain agentic AI systems as part of
+    the AI platform
+  - Work in depth with AWS to build and operate the underlying
+    platform infrastructure
+  - Design and implement knowledge graph solutions to support AI
+    reasoning and retrieval (e.g. using AWS Neptune or Neo4j)
+  - Collaborate with cross-functional teams to align the AI
+    platform with business goals and internal use cases
+  - Troubleshoot and resolve issues across integrated systems to
+    ensure reliable, end-to-end agentic workflows.
+
+  Requirements:
+
+  - 5+ years of experience in Software Development
+  - Real, hands-on experience building agentic AI systems -
+    genuine understanding of how they work, beyond just using
+    existing tools or frameworks off the shelf.
+  - Strong, in-depth AWS experience - real platform engineering
+    depth, not incidental or side use of AWS.
+  - Strong Python knowledge
+  - Deep experience building knowledge graphs, ideally with AWS
+    Neptune or Neo4j - especially valuable for this role.
+  - Experience with LLMs, prompt engineering, and AI integration
+    patterns.
+  - Strong troubleshooting skills and a collaborative, team-
+    first mindset.
+  - English level - upper-intermediate (both verbal and written)
+
+  Nice to Have:
+
+  - Familiarity with MCP (Model Context Protocol).
+  - Proficiency in infrastructure as code (e.g. CDK in
+    TypeScript/Node.js) to manage AWS services such as Amazon
+    Bedrock and Agent Core.
+  - Docker/Kubernetes familiarity.
+
+  We offer*:
+
+  - Flexible working format - remote, office-based or flexible
+  - A competitive salary and good compensation package
+  - Personalized career growth
+  - Professional development tools (mentorship program, tech
+    talks and trainings, centers of excellence, and more)
+  - Active tech communities with regular knowledge sharing
+  - Education reimbursement
+  - Memorable anniversary presents
+  - Corporate events and team buildings
+  - Other location-specific benefits
+
+  *not applicable for freelancers
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-31
+url: "https://builtin.com/job/senior-ai-engineer-agentic-systems/10909870"
+source: Built In

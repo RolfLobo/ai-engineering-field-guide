@@ -1,0 +1,109 @@
+job_id: 10949047
+title: AI/ML Engineer - NuPlay (Nurix AI)
+company: Meraki Labs
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  About Nurix AI
+
+  At Nurix AI, we are pioneering the Autopilot Enterprise. Our
+  conversational AI agents handle workflows, drive outcomes,
+  and deliver measurable impact for businesses. Born from the
+  belief that enterprises need a new playbook, we build
+  autonomous, multilingual agents capable of complex
+  reasoning, contextual understanding, and end-to-end workflow
+  ownership. Backed by $27.5M in funding from Accel, General
+  Catalyst, and Meraki Labs, and led by Mukesh Bansal, we are
+  India's first scaled enterprise AI company, delivering
+  cutting-edge AI solutions that integrate seamlessly into
+  workflows across industries like Retail, Insurance,
+  Education & Home Services. Join us in shaping the future of
+  enterprise AI — where every interaction is smarter, faster,
+  and human-like.
+
+  About the Role
+
+  As a Machine Learning Engineer at Nurix AI, you will play a
+  pivotal role in solving some of the hardest challenges in
+  conversational AI. You’ll work on building robust ASR/TTS
+  systems for multilingual Indian contexts, designing
+  guardrails that go beyond IVR-like flows, and ensuring real-
+  time, low-latency conversational agents that can handle
+  human pauses and interruptions. This role is ideal for
+  engineers who want to push the boundaries of speech, LLMs,
+  and agentic AI in production at scale.
+
+
+
+  Key Responsibilities
+
+  Speech & Voice Systems
+
+  - Design, train, and optimize custom ASR/TTS models to
+    overcome limitations of Sarvam ASR and improve accuracy
+    across Indian multilingual settings.
+    - Build conversational agents that can handle interruptions,
+      natural pauses, and real-world voice variability without
+      breakdowns.
+
+  Core ML/AI Development
+
+  - Contribute to Voice-to-Voice (V2V) systems using state space
+    models
+    - Develop Agentic RAG pipelines and LLM orchestration for
+      intelligent, context-aware voice agents.
+    - Work on self-learning agents capable of continuous
+      improvement by observing human workflows and feedback
+
+  Engineering & Deployment
+
+  - Collaborate with MLOps to bring models into real-time, low-
+    latency production environments.
+    - Ensure scalability, security, and reliability of deployed ML
+      systems.
+
+  Collaboration & Research
+
+  - Partner closely with product and engineering teams to
+    deliver production-ready features.
+    - Stay on top of the latest advances in ASR, TTS, NLP, LLMs,
+      and real-time inference frameworks—and apply them to
+      Nurix’s roadmap.
+
+  What we’re looking for:
+
+  - Bachelor’s degree in Computer Science, AI/ML, or related
+    field.
+  - 4+ years of hands-on ML engineering experience, with a focus
+    on speech/NLP systems.
+  - Strong expertise in ASR, TTS, NLP, LLM fine-tuning, or
+    dialogue systems.
+  - Proficiency in Python and ML frameworks (PyTorch,
+    TensorFlow, JAX).
+  - Experience in designing low-latency, real-time ML
+    applications.
+  - Strong understanding of ML lifecycle, evaluation, and
+    deployment practices.
+  - Contributions to open-source ML projects or research
+    publications.
+  - Prior work on multilingual or Indian-context ASR/TTS
+    systems.
+
+  Why Nurix:
+
+  - Work at the cutting edge of AI and enterprise technology
+  - Be part of a mission-driven, high-growth startup
+  - Direct impact on products used by large-scale enterprise
+    clients
+  - A vibrant and dynamic work environment fostering
+    professional growth and innovation.
+  - Competitive compensation and performance-based incentives.
+  - A front-row seat in the GenAI revolution, working with a
+    team of passionate, like-minded innovators.
+industries:
+  - Angel or VC Firm
+  - Co-Working Space or Incubator
+posted_date: 2026-09-01
+url: "https://builtin.com/job/ai-ml-engineer-nuplay-nurix-ai/10949047"
+source: Built In

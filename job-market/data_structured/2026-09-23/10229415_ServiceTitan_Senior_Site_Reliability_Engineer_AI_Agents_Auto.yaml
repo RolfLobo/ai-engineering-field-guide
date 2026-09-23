@@ -1,0 +1,51 @@
+company:
+  name: ServiceTitan
+  stage: null
+  focus: Cloud-based software for trades and home services businesses
+position:
+  title: Senior Site Reliability Engineer, AI Agents & Automation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires building and operating
+      autonomous AI agents (MCP protocol, agent design strategies,
+      context management, guardrails) that perform SRE work, which
+      is shaping agent behavior. LLM/agent components are central,
+      so ai-first.
+  responsibilities:
+  - Participate in on-call rotation to diagnose and resolve production issues
+  - Design and maintain observability dashboards and alerting grounded in SLIs and
+    SLOs
+  - Operate and improve the Kubernetes-based compute platform
+  - Build and operate AI agents and automation that take on manual SRE work autonomously
+  - Investigate production incidents with root-cause analysis and remediation
+  - Contribute to CI/CD pipelines and partner with product engineering on architecture
+    reviews
+  use_cases:
+  - Autonomous AI agents that monitor infrastructure and scale, remediate, or escalate
+    without human intervention
+  - Automating manual, repetitive SRE work with AI agents
+  - Observability and alerting for production system health
+  - Reliable, scalable cloud infrastructure operation for an enterprise SaaS platform
+  skills:
+    genai: [AI Agents, MCP, Claude Code, GitHub Copilot, Cursor, Guardrails]
+    ml: []
+    web: [ASP.NET, Flask, FastAPI, Spring Boot]
+    databases: [Elasticsearch]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Kubernetes, SLIs, SLOs, Error Budgets, OpenTelemetry, Prometheus, Grafana,
+      Datadog, CI/CD, GitHub Actions, TeamCity, Azure DevOps, GitLab CI, Horizontal
+        Pod Autoscaler]
+    languages: [.NET, Python, Java]
+    domains: []
+    other: [Distributed Systems, Production Troubleshooting, Networking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10229415'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T10:59:03.043414'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

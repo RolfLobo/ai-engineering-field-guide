@@ -1,0 +1,56 @@
+company:
+  name: Redpanda Data
+  stage: null
+  focus: Streaming data platform for governed agent-data interaction
+position:
+  title: Staff Software Engineer, AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds and operates the infrastructure/data plane
+      and cloud services that AI agents run on — governance,
+      provisioning, deployment, observability, SLAs. The person
+      does not write prompts, design retrieval, train, or shape
+      model output; agentic workflows are only a nice-to-have
+      exposure. AI tooling (Claude Code) is used as a development
+      aid, so this is ai-support.
+  responsibilities:
+  - Design, build, and operate ADP and cloud services across AWS, GCP, and Azure,
+    including control plane and data plane components
+  - Convert ambiguous product requirements into clear technical designs and executable
+    workstreams
+  - Lead technical direction of large ADP projects and contribute to architecture
+    discussions across Cloud teams
+  - Ensure reliability, scalability, performance, and security, meeting a 99.99% SLA
+    with zero-downtime upgrades
+  - Build tools and services for automated infrastructure provisioning, deployment,
+    and self-healing
+  - Make resilience and observability integral to owned systems
+  - Participate in the on-call escalation chain and improve operational health
+  - Champion features, process improvements, and strategic initiatives to enhance
+    engineering culture
+  use_cases:
+  - Agentic Data Plane infrastructure for enterprise AI agents
+  - Governance and access control for agent-data interaction
+  - Multi-cloud control plane and data plane services
+  - Zero-downtime streaming and cloud platform operations
+  skills:
+    genai: [Claude Code]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Infrastructure as Code, Observability, Git]
+    languages: [Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10788755'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:01:14.789650'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,47 @@
+company:
+  name: Kraftshala School of Business
+  stage: null
+  focus: Higher education business school for marketing careers
+position:
+  title: Senior Software Developer - Full Stack & AI Product Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds AI products end-to-end using LLMs, AI
+      agents, and APIs, including architecture and production
+      deployment - the engineer designs agent flows and LLM-
+      powered products themselves, not merely consuming a pre-
+      built AI API. This is shaping LLM/agent behavior, so ai-
+      first.
+  responsibilities:
+  - Build and ship scalable backend services and APIs in Node.js and TypeScript
+  - Build production-ready AI products end-to-end using LLMs, AI agents, and APIs,
+    from architecture through deployment and iteration
+  - Design and optimise SQL data models and Elasticsearch-powered search experiences
+  - Deploy, scale, monitor, and optimise backend and AI systems on AWS
+  - Develop polished React/Gatsby user-facing frontend experiences
+  - Own technical architecture and take projects from problem definition through production
+  use_cases:
+  - AI-powered learning products for thousands of students
+  - AI workflows embedded in an education platform
+  - Search and discovery experiences for the web product
+  - Scalable backend APIs supporting the web experience
+  skills:
+    genai: [LLMs, AI Agents, Generative AI]
+    ml: []
+    web: [React, Gatsby, REST APIs, GraphQL]
+    databases: [Elasticsearch, Relational Databases]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, Infrastructure as Code, Observability]
+    languages: [Node.js, TypeScript, JavaScript, SQL]
+    domains: []
+    other: [Event-Driven Architecture, JAMstack]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11294845'
+  location: New Delhi, IND
+  extracted_at: '2026-09-23T11:35:26.280612'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

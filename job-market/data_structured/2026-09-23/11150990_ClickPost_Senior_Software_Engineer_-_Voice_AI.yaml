@@ -1,0 +1,52 @@
+company:
+  name: ClickPost
+  stage: null
+  focus: Post-purchase logistics intelligence platform for e-commerce
+position:
+  title: Senior Software Engineer - Voice AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds the Voice AI orchestration
+      platform, integrating LLMs with STT/TTS, building reusable
+      infrastructure for prompts, workflows, and tools, plus
+      conversation quality evaluation. This is shaping LLM-driven
+      agent behavior (orchestration, prompts, evals), so it's ai-
+      first.
+  responsibilities:
+  - Build and scale the centralized Voice AI platform used by multiple products and
+    use cases
+  - Design backend services for real-time voice conversations at scale
+  - Build Voice AI orchestration layers integrating LLMs, STT, TTS, and telephony
+    systems
+  - Build reusable infrastructure enabling product teams to configure prompts, workflows,
+    and tools
+  - Develop systems for conversation quality monitoring, analytics, testing, and evaluation
+  - Enable Voice AI experiences across Telephony, Web, and WhatsApp channels
+  - Design deployment, monitoring, debugging, and scaling systems for Voice AI applications
+  - Optimize latency, reliability, cost, and conversation quality across the stack
+  use_cases:
+  - Automated outbound invoice calls (~1 million per day)
+  - AI voice agents resolving delivery exceptions
+  - Inbound customer voice conversations
+  - Order confirmation and lost-sales recovery
+  - Multi-channel voice AI across Telephony, Web, and WhatsApp
+  skills:
+    genai: [LLMs, Prompt Engineering, Conversational AI, Pipecat]
+    ml: [Speech-to-Text, Text-to-Speech]
+    web: [APIs, Microservices, Event-Driven Architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems, Monitoring]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11150990'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:22:18.433516'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

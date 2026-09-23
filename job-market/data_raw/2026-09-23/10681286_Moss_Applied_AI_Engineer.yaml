@@ -1,0 +1,169 @@
+job_id: 10681286
+title: Applied AI Engineer
+company: Moss
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - London, GBR
+  - Warsaw, POL
+work_type: FULL_TIME
+company_size: 371 Employees
+description: |
+  At Moss, we give finance professionals the power to automate
+  their day-to-day and make forward-thinking decisions.
+
+  Our culture is what makes that possible: we play to win, we
+  obsess over quality, and we win as One Moss, and it works.
+  Moss closed a €35 million Series C in August 2026, crossing
+  a €1 billion valuation, and became one of Europe's fintech
+  unicorns. Join us for what's next.
+
+  We are hiring an Applied AI Engineer to build AI agents and
+  intelligent product capabilities that transform how finance
+  teams work.
+
+  This is a product engineering role - not an isolated
+  prototyping or research role. You will own agent-based
+  features end to end: from architecture and evaluation
+  through backend integration, deployment, and operation in
+  production.
+
+  Your Responsibilities
+
+  Build and Ship AI Agents
+
+  - Design and build agents that automate complex finance
+    workflows.
+  - Own features from initial concept and prototype through
+    production deployment.
+  - Integrate agents deeply with our backend services, APIs,
+    data model, permissions, and product workflows.
+  - Design how agents securely access and use data from across
+    the Moss platform.
+  - Turn emerging AI capabilities into reliable, customer-facing
+    product features.
+
+  Evaluate and Improve Agent Performance
+
+  - Build systematic evaluations for agent quality, reliability,
+    and business impact.
+  - Create representative test datasets, evaluation criteria,
+    regression tests, and human-review processes.
+  - Measure and improve accuracy, latency, cost, and user
+    experience.
+  - Establish observability and feedback loops that make agent
+    behavior understandable and continuously improvable.
+
+  Develop the AI Application Architecture
+
+  - Apply context-engineering techniques such as RAG, MCP and
+    knowledge graphs.
+  - Design prompts, tools, memory, workflows and orchestration
+    strategies for production agents.
+  - Select and use appropriate orchestration frameworks, such as
+    Google ADK, LangGraph, LangChain, LlamaIndex, or
+    comparable technologies.
+  - Build appropriate guardrails, approval steps, and human-in-
+    the-loop controls for sensitive financial workflows.
+
+  Integrate Machine-Learning Capabilities
+
+  - Collaborate with data scientists to integrate machine-
+    learning models into our production systems.
+  - Build the services, data flows, APIs, and operational
+    tooling required to make models usable within the product.
+  - Take responsibility for the production integration rather
+    than handing prototypes to another engineering team.
+
+  About You
+
+  - You are a seasoned software engineer with experience
+    building and operating production applications.
+  - You are highly proficient in Python and/or Java and
+    comfortable working across backend services, APIs, data,
+    and application architecture.
+  - You have built and shipped at least one agent or LLM-powered
+    product capability end to end.
+  - You have personally integrated agents into a broader product
+    and backend architecture - not only developed standalone
+    prototypes.
+  - You have practical experience evaluating agents or other
+    non-deterministic AI systems.
+  - You understand how to provide agents with the right data and
+    context while respecting security, permissions, and
+    privacy.
+  - You have hands-on experience with prompt engineering,
+    context engineering, and agent orchestration.
+  - You balance rapid experimentation with reliable,
+    maintainable production engineering.
+  - You communicate clearly and collaborate effectively across
+    engineering, product, and data science.
+
+  Relevant Technologies
+
+  You do not need experience with every technology below. We
+  care most about strong engineering judgment and demonstrated
+  end-to-end ownership.
+
+  - Agent orchestration: Google ADK, LangGraph, LangChain,
+    LlamaIndex, or comparable frameworks
+  - Context engineering: RAG, MCP, knowledge graphs, tool use,
+    memory, and retrieval systems
+  - AI evaluation: offline and online evaluations, test
+    datasets, regression testing, observability, and human
+    review
+  - Language models: Gemini, OpenAI, Anthropic, Llama, Mistral,
+    or similar
+  - Backend engineering: Python or Java, REST APIs, Kafka,
+    microservices, and distributed systems
+  - Data systems: SQL, PostgreSQL, BigQuery, vector search, and
+    data pipelines
+  - Cloud AI platforms: GCP and Vertex AI, or comparable
+    platforms
+
+  About Moss
+
+  Moss is the Finance AI platform for Europe's mid-sized
+  businesses, giving companies real-time visibility and full
+  control over their spend. By automating card issuing,
+  invoice management and expenses, Moss simplifies financial
+  workflows and frees finance and accounting teams from
+  manual, administrative work.
+
+  Founded in Berlin and used by more than 10,000 businesses
+  including Flink, Schufa, n8n and Auto1, Moss has raised
+  €220+ million to date and operates in Germany, the
+  Netherlands, the UK and further EU markets. In August 2026,
+  Moss closed a €35 million Series C led by Portage, crossing
+  a €1 billion valuation and becoming one of Europe's newest
+  fintech unicorns. Moss is backed by investors including
+  Valar Ventures, Tiger Global, Global Founders Capital,
+  Cherry Ventures, A-Star.
+
+  We're a team of 300+ people from 50+ nationalities across 5
+  offices in Europe and we hire, reward, and grow people based
+  on Moss DNA: playing to win, obsessing over quality, winning
+  as One Moss. If that's how you want to work, we want to hear
+  from you. - here's what else to expect:
+
+  - Top-of-market compensation package, including equity.
+  - Our vibrant offices are at the heart of our culture, where
+    in-person time fuels collaboration and connection over
+    weekly breakfasts and Friday demos.
+  - Additional benefits include: 20 days “work from abroad”,
+    600EUR/GBP Learning & Development Budget, and other local
+    benefits.
+
+  Unless stated otherwise, benefits apply to full-time
+  positions (interns and working students receive a tailored
+  package).
+
+  By applying for the above position, you will confirm that
+  you have reviewed and agreed to our Data Privacy Policy.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-09-01
+url: "https://builtin.com/job/applied-ai-engineer/10681286"
+source: Built In

@@ -1,0 +1,52 @@
+company:
+  name: Trellis (Trellisconnect)
+  stage: Series A startup (profitable, backed by General Catalyst, QED, NYCA, Amex
+    Ventures)
+  focus: Insurance technology and licensed insurance agency
+position:
+  title: Principal Backend Engineer, Conversational AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role sits on a Conversational AI team and includes
+      refining LLM-driven infrastructure powering user-facing
+      conversations, which means the engineer shapes LLM behavior
+      directly. Backend engineering alone would be ai-support, but
+      the stated responsibility of building and refining LLM-
+      driven conversational systems makes it ai-first.
+  responsibilities:
+  - Architect and build intelligent systems powering conversational AI experiences
+    between users and the platform
+  - Refine and evolve the LLM-driven infrastructure
+  - Own projects through the full software development lifecycle from planning to
+    maintenance
+  - Translate product initiatives into scalable, well-tested technical solutions and
+    tech plans
+  - Provide technical and project oversight, defining scope and setting technical
+    direction
+  - Mentor teammates, give code reviews, and run knowledge sharing sessions
+  - Design experiments and high-value projects aligned with business strategy
+  - Assist in onboarding new engineering hires
+  use_cases:
+  - Natural conversational interfaces between users and the insurance shopping platform
+  - AI-driven customer experience for insurance products
+  skills:
+    genai: [LLMs, Conversational AI]
+    ml: []
+    web: [REST APIs]
+    databases: [Data Stores]
+    data: []
+    cloud: [GCP]
+    ops: []
+    languages: [Node.js, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11230690'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:28:40.003757'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

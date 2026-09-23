@@ -1,0 +1,74 @@
+job_id: 10951739
+title: Generative AI Engineer – 3D Platforms
+company: Élisa
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Location: Hybrid or remote (within ±3 hours of Montreal
+  timezone) Type: Full-time, Need to be legally authorized to
+  work in Canada Start Date: September 2025
+
+  About Élisa
+
+  Élisa is the first AI assistant that instantly assembles
+  fully editable 3D scenes through natural conversation. It
+  transforms any asset library into a real-time scene builder
+  for games, advertising, and film—already live in Unreal and
+  Unity and ready to plug into any 3D platform. Élisa lets
+  designers, directors, and creatives spin up virtual worlds
+  in seconds.
+
+  See it live at https://elisainteractive.com/youtube and
+  learn more at https://elisainteractive.com.
+
+  What You’ll Do
+
+  Design and implement production-ready LLM pipelines for
+  agentic workflows, agent development, usage monitoring, and
+  continuous evolution. Build automated pipelines for data
+  acquisition. Leverage a product-first mindset to build
+  agents that align with our user experiences. You’ll be
+  working directly with co-founders. We value efficiency over
+  long hours.
+
+  Responsibilities
+
+  - Design and own end-to-end AI/LLM workflows from data
+    collection through deployment
+  - Automate dataset pipelines at scale
+  - Monitor agent usage and performance; refine based on
+    insights
+  - Integrate agents with 3D scene composition in partnership
+    with engine team
+  - Document processes and contribute to incident response and
+    continuous improvement
+
+  Qualifications
+
+  - Production AI experience: Demonstrated success shipping LLM-
+    or ML-powered features
+  - Mathematical fluency: Strong grasp of vectors, matrices, and
+    transforms for 3D data management
+  - Dataset wrangling: Proven record curating and scaling
+    multimodal (text + 3D) datasets
+  - Automation mindset: Comfortable scripting pipelines and
+    experiment workflows
+  - Observability & incident management: You know how to
+    measure, alert, and respond when models misbehave
+
+  Nice-to-Haves
+
+  - Background in real-time 3D, interactive media, or game-
+    engine pipelines
+  - Research or industry work in computational geometry or
+    generative 3D models
+  - Security or compliance exposure for AI/ML systems
+industries:
+  - Artificial Intelligence
+  - Gaming
+  - Software
+  - Design
+posted_date: 2026-09-01
+url: "https://www.builtinla.com/job/generative-ai-engineer-3d-platforms/10951739"
+source: Built In

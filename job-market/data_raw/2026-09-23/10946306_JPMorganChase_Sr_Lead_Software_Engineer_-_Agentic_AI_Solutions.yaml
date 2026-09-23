@@ -1,0 +1,93 @@
+job_id: 10946306
+title: Sr Lead Software Engineer - Agentic AI Solutions
+company: JPMorganChase
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 289,097 Employees
+description: |
+  Be an integral part of an agile team that's constantly
+  pushing the envelope to enhance, build, and deliver top-
+  notch technology products.  As a Senior Lead Software
+  Engineer at JPMorganChase within the Asset and Wealth
+  Management, you are an integral part of an agile team that
+  works to enhance, build, and deliver trusted market-leading
+  technology products in a secure, stable, and scalable way.
+  Drive significant business impact through your capabilities
+  and contributions, and apply deep technical expertise and
+  problem-solving methodologies to tackle a diverse array of
+  challenges that span multiple technologies and applications.
+  Job responsibilities
+
+  - Works closely with software engineers, product managers, and
+    other stakeholders to define requirements and deliver
+    robust solutions.
+  - Designs and Implement LLM-driven agent services for design,
+    code generation, documentation, test creation and
+    observability on AWS
+  - Develops orchestration and communication layers between
+    agents using frameworks like A2A SDK, LangGraph, or Auto
+    Gen
+  - Integrates AI agents with toolchains such as Jira,
+    Bitbucket, Github, Terraform and monitoring platforms
+  - Collaborates on system design, SDK development and data
+    pipelines supporting agent intelligence
+  - Provides technical leadership, mentorship, and guidance to
+    junior engineers and team members.
+  - Drives adoption and governance of approved AI-assisted
+    engineering practices across teams to improve code
+    quality, delivery speed, and operational outcomes (e.g.,
+    AI-assisted code review/refactoring, test acceleration,
+    release readiness, incident/root-cause analysis), while
+    establishing measurable validation standards (secure
+    coding, peer review, automated testing) and promoting
+    reuse of proven patterns and automation within the
+    SDLC/TLM toolchain.
+  - Applies knowledge of tools within the Software Development
+    Life Cycle toolchain, including approved AI-assisted
+    development and automation capabilities, to improve the
+    value realized by automation at scale.
+  - Drives decisions that influence the product design,
+    application functionality, and technical operations and
+    processes
+
+  Required qualifications, capabilities, and skills
+
+  - Formal training or certification on software engineering
+    concepts and 5+ years applied experience
+  - Experience in Software engineering using AI Technologies
+  - Strong hands-on skills in Python, Pydantic, FastAPI,
+    LangGraph, and Vector Databases for building RAG based AI
+    agent solutions integrating with multi-agent orchestration
+    frameworks and deploying end-to-end pipelines on AWS (EKS,
+    Lambda, S3, Terraform)
+  - Experience with LLMs integration, prompt/context
+    engineering, AI Agent frameworks like Langchain/LangGraph,
+    Autogen, MCPs, A2A.
+  - Solid understanding of CI/CD, Terraform, Kubernetes, Docker
+    and APIs
+  - Familiarity with observability and monitoring platforms
+  - Strong analytical and problem-solving mindset.
+  - Demonstrated experience leading effective use of enterprise-
+    authorized AI-assisted software development tools within
+    the work environment (e.g., for coding, code review, test
+    acceleration, troubleshooting) with the ability to set
+    team expectations for validating AI outputs for
+    correctness, performance, and security
+  - Strong understanding of responsible AI use in engineering
+    workflows, including data sensitivity considerations,
+    secure handling of inputs/outputs, and adherence to
+    resiliency and security expectations; experience coaching
+    senior engineers/leads on compliant usage patterns and
+    controls.
+  - Ability to tackle design and functionality problems
+    independently with little to no oversight
+  - Practical cloud native experience
+
+  Preferred qualifications, capabilities, and skills:
+
+  - Experience with Azure or Google Cloud Platform (GCP).
+  - Familiarity with MLOps practices, including CI/CD for ML,
+    model monitoring, automated deployment, and ML pipelines.
+posted_date: 2026-09-01
+url: "https://builtin.com/job/sr-lead-software-engineer/10946306"
+source: Built In

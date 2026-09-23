@@ -1,0 +1,53 @@
+company:
+  name: Analytics Vidhya
+  stage: null
+  focus: Ed-Tech learning platform with AI features
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role fine-tunes LLMs, designs RAG pipelines, agentic
+      systems, prompt engineering, evals, and guardrails —
+      directly shaping model behavior with LLM/agent components,
+      so it is ai-first.
+  responsibilities:
+  - Fine-tune and deploy LLMs, embedding models, and classical ML for tutoring, recommendations,
+    assessments, and content generation
+  - Turn product ideas into prototypes quickly and harden them into reliable production
+    services
+  - Design RAG pipelines, vector search, and agentic systems over learning content
+    and user signals
+  - Build evaluation harnesses, golden sets, and A/B experiments to measure and improve
+    model quality
+  - Add evals, guardrails, and monitoring to shipped AI services
+  - Use AI dev tools (Claude Code, Codex, Cursor) to design, refactor, test, and orchestrate
+    agents
+  - Collaborate with product, design, and content teams to scope problems and define
+    success metrics
+  use_cases:
+  - Adaptive learning curricula
+  - Intelligent AI tutors
+  - Automated learner assessments
+  - Content generation for Ed-Tech
+  - Personalized learning recommendations
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, OpenAI API, Anthropic API, LangChain, LlamaIndex,
+      Claude Code, Codex, Cursor, Multi-Agent Systems, MCP, Function Calling]
+    ml: [Fine-Tuning, Embeddings, Machine Learning, Hugging Face]
+    web: []
+    databases: [Vector Search, pgvector, Pinecone, Weaviate, Qdrant]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, MLOps, Model Monitoring, Monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11151434'
+  location: Gurugram, IND
+  extracted_at: '2026-09-23T11:22:27.618631'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

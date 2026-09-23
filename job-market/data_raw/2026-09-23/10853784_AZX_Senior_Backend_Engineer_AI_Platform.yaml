@@ -1,0 +1,136 @@
+job_id: 10853784
+title: Senior Backend Engineer  (AI Platform)
+company: AZX
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  About AZX
+
+  Our mission is to accelerate positive impact in critical
+  industries through AI transformation. We specialize in
+  physics-informed ML and enterprise AI solutions that
+  directly address climate and sustainability challenges.
+
+  We’re growing quickly and already work with category-leaders
+  in real estate (CBRE), energy (LevelTen Energy), logistics
+  (Flexe) and utilities.
+
+  We’re a public benefit corporation, founded in 2024, and
+  have been profitable from inception.
+
+  We work on challenges in clean energy, decarbonization,
+  climate risk, energy systems, and global economics. We’re
+  building our company for long-term success and aim to create
+  the ultimate place to work for those passionate about AI and
+  making a positive impact.
+
+  About the Role
+
+  As a Backend Engineer you will build the services our
+  products and client solutions run on. The center of gravity
+  is LLM infrastructure: the layer that puts one governed
+  front door over many models, hosted and self-hosted, and
+  answers the questions enterprises actually ask — who used
+  which model, for what, at what cost, under whose rules. The
+  platform's first customers are our own client-facing
+  engineers, the people delivering client outcomes with what
+  you build, so requirements arrive concrete, feedback arrives
+  same-day, and the people you support are in the same
+  meeting.
+
+  Responsibilities:
+
+  - Own the LLM gateway: routing, metering, budgets, guardrail
+    composition, and provider/backend adapters across hosted
+    and self-hosted models.
+  - Manage the retrieval and knowledge service: connectors,
+    chunking, hybrid search and reranking, grounded answers,
+    and the MCP surface.
+  - Build the eval harness that turns retrieval tuning from
+    judgment into evidence, with confidence intervals and per-
+    segment breakdowns.
+  - Own the async framework — its public API, rate-limit
+    algorithms, and admin tooling — and lead its evolution
+    into durable execution for agent runs.
+  - Design authorization across the whole surface: token
+    hierarchies, capability grammars, and per-tenant isolation
+    tested as a regression, not asserted in a doc.
+  - Own your own definition of done on everything you ship:
+    evals, traces, cost accounting, and the dashboard that
+    would wake you up.
+
+  Core Qualifications:
+
+  - 5+ years of deep, production async Python — cancellation
+    scopes, streaming lifecycle, and connection pooling
+  - Postgres as infrastructure — comfortable reasoning about
+    MVCC, advisory locks, and vacuum discipline, with
+    Redis/Dragonfly used (and not used) where it belongs; real
+    distributed-systems experience, not just familiarity.
+  - Experience shipping API surfaces other engineers build on —
+    versioning, idempotency, error vocabularies, migration
+    discipline, and documentation to match.
+  - Depth in at least one of LLM gateway concern (routing,
+    metering, guardrails, provider failover) or retrieval
+    engineering (hybrid search, reranking, eval methodology,
+    audit-ready RAG), with credibility on the other.
+  - A cost accounting and evals first mindset — you've shipped a
+    gate or harness that caught a real regression, ideally one
+    of your own.
+  - Production depth in some modern stack, and the aptitude to
+    ramp quickly on unfamiliar tools
+  - Practical familiarity with our core stack — Python 3.12+
+    (async, type-strict, FastAPI/Starlette, Pydantic v2),
+    asyncpg/SQLAlchemy, Postgres (incl. pgvector), and
+    Redis/Dragonfly with Lua — with willingness to research
+    into the rest.
+  - Exposure to the surrounding ecosystem: OpenTelemetry (incl.
+    GenAI conventions), SSE/streaming lifecycles,
+    OpenAI/Anthropic provider APIs, job frameworks
+    (Celery/Dramatiq/Prefect-class), rate-limit algorithms
+    (token bucket, GCRA), and integer-cents money handling.
+  - Past work in energy, real estate, utilities, climate or
+    related fields is a plus
+  - Experience in both startup and enterprise environments is a
+    plus
+
+  Why AZX!
+
+  - Be part of a fast-growing, profitable, mission-driven
+    company with industry-leading clients tackling the massive
+    opportunity of AI transformation in critical industries.
+  - Competitive early-stage startup compensation (based on
+    capabilities, experience, and location)
+  - Bonus eligibility
+  - Health insurance with meaningful coverage for dependents
+  - Flexible paid time off
+  - Equity
+  - Fully remote culture with a cluster of teammates in Seattle
+
+
+
+  Additional Information:
+
+  - Must be willing to travel to Seattle area for final
+    interview and travel 2x/year for company summits
+  - Applicants must be currently authorized to work in the
+    United States on a full-time basis.
+  - We are unable to sponsor or take over sponsorship of
+    employment visas at this time.
+  - Please only apply to a maximum of 2 roles at a time, any
+    applicants who apply to more then 2 roles within a 6 month
+    period will automatically be disqualified
+
+
+
+  Next Steps:
+
+  If this job sounds like a great fit but don’t check ALL of
+  these qualification boxes, we’d still love to hear from you!
+industries:
+  - Artificial Intelligence
+  - Industrial
+posted_date: 2026-08-26
+url: "https://www.builtinla.com/job/software-engineer-backend-focused/10853784"
+source: Built In

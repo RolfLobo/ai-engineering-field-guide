@@ -1,0 +1,50 @@
+company:
+  name: Pfizer
+  stage: null
+  focus: Pharmaceutical company developing enterprise AI solutions
+position:
+  title: Sr. Manager, AI Solutions Expert-Agent Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and deploys AI agents using agentic
+      orchestration frameworks, RAG, embeddings, and vector
+      databases, directly shaping LLM/agent behavior. It also
+      involves technical leadership over AI initiatives.
+  responsibilities:
+  - Lead technical direction for assigned AI initiatives
+  - Design, develop, and deploy AI agents that automate workflows and enhance decision-making
+  - Integrate multi-agent frameworks and build scalable agent-based systems
+  - Develop automation workflows and APIs integrating with enterprise systems
+  - Utilize cloud infrastructure and MLOps frameworks for continuous delivery
+  - Support KPIs, documentation, sprint planning, and backlog prioritization
+  - Ensure system monitoring, observability, and performance/cost optimization
+  - Partner with business, UX, and change management teams to translate needs into
+    AI solutions
+  use_cases:
+  - Enterprise workflow automation via AI agents
+  - Intelligent user interactions and decision support across the enterprise
+  - Predictive insights through evaluated new frameworks
+  - RAG-based retrieval for enterprise knowledge
+  skills:
+    genai: [LangChain, Agentic Workflows, RAG, Embeddings, LLMs]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: [Vector Databases, Pinecone]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [MLOps, DevOps]
+    languages: []
+    domains: []
+    other: [Agile, HIPAA Compliance, Responsible AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11209194'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - Collegeville, USA
+  extracted_at: '2026-09-23T11:26:59.263546'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

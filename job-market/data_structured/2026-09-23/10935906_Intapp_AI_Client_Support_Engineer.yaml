@@ -1,0 +1,56 @@
+company:
+  name: Intapp
+  stage: public company
+  focus: Software for professional and financial services firms
+position:
+  title: AI Client Support Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role troubleshoots and supports an existing AI product
+      (Celeste) — diagnosing model response quality and retrieval
+      issues, documenting edge cases, and escalating to
+      engineering. The person does not themselves shape model
+      behaviour through prompts, retrieval design, or evals; they
+      triage and report, which is ai-support.
+  responsibilities:
+  - Investigate and resolve client support requests for Celeste and its cross-product
+    integrations
+  - Triage and diagnose AI-specific issues including model response quality, retrieval
+    and grounding errors, and integration-layer failures
+  - Create, prioritize, track, and update issues and feature requests in Azure DevOps
+    and Jira
+  - Reproduce and document edge cases, escalating to engineering with logs, HAR files,
+    and API traces
+  - Provide structured feedback to Product and Engineering on AI behaviour observed
+    in production
+  - Create and maintain knowledge base documentation for Celeste integrations
+  - Provide guidance and training to first and second-line support staff at customer
+    and partner organizations
+  use_cases:
+  - Enterprise AI assistant (Intapp Celeste) support across legal and financial services
+    workflows
+  - AI feature troubleshooting for dealmaking, collaboration, and relationship management
+    products
+  - Diagnosing retrieval, grounding, and agentic workflow failures in production
+  - Cross-product AI integration support including risk, compliance, and conflicts/walls
+    workflows
+  skills:
+    genai: [LLMs, RAG, Agentic Workflows, Prompt Engineering]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Azure DevOps]
+    languages: []
+    domains: [Professional Services Workflows]
+    other: [Jira, ITIL, Browser Developer Tools]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10935906'
+  location: London, GBR
+  extracted_at: '2026-09-23T11:07:18.135940'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

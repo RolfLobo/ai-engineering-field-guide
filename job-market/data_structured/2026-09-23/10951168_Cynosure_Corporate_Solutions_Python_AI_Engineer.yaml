@@ -1,0 +1,47 @@
+company:
+  name: Cynosure Corporate Solutions
+  stage: null
+  focus: AI solutions and enterprise technology services
+position:
+  title: Python AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds agentic AI solutions, multi-agent systems,
+      and RAG pipelines, directly shaping LLM behavior through
+      frameworks like LangChain, LangGraph, CrewAI, and AutoGen.
+      This is clearly shaping LLM/agent output, making it ai-
+      first.
+  responsibilities:
+  - Build agentic AI solutions using LangChain, LangGraph, CrewAI, and AutoGen
+  - Develop multi-agent systems, RAG pipelines, and AI-powered applications
+  - Integrate LLMs (GPT, Gemini, Llama) with APIs, databases, and enterprise systems
+  - Design scalable AI workflows, retrieval systems, and enterprise integrations
+  - Monitor, optimize, and deploy AI solutions for performance and reliability
+  - Collaborate with stakeholders and prepare technical documentation
+  use_cases:
+  - Enterprise agentic AI applications
+  - Retrieval-augmented generation pipelines
+  - LLM integration with enterprise systems and databases
+  - Scalable AI workflow automation
+  - Vector search and semantic retrieval systems
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, AutoGen, Multi-Agent Systems, RAG, AI Agents,
+      LLMs, Generative AI, Embeddings, Agentic Workflows, OpenAI API, Gemini, Llama]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases, Pinecone, Chrom, Weaviate, pgvector]
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [MLOps, Monitoring, Observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10951168'
+  location: Thiruvananthapuram, IND
+  extracted_at: '2026-09-23T11:08:42.684748'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,81 @@
+job_id: 11151890
+title: Lead AI/ML Engineer
+company: Relanto
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 500 Employees
+description: |
+  Position: Lead AI/ML Engineer
+
+  Location: Bangalore
+
+  Employment Type: Full-time
+
+
+
+  About the Role
+
+  We are seeking a highly skilled AI/ML Engineer with deep
+  expertise in designing, developing, and deploying machine
+  learning and generative AI solutions. The ideal candidate
+  will have extensive hands-on experience with modern ML
+  frameworks, LLMs, and RAG architectures, and be capable of
+  building scalable, production-ready AI systems.
+
+
+
+  Key Responsibilities
+
+  - Design, develop, and implement end-to-end AI/ML models and
+    solutions for complex business problems.
+  - Work extensively with LLMs, Generative AI, and Retrieval-
+    Augmented Generation (RAG) architectures.
+  - Build and optimize ML pipelines using frameworks such as
+    TensorFlow, PyTorch, or Hugging Face Transformers.
+  - Leverage vector databases (e.g., FAISS, Pinecone, ChromaDB)
+    for efficient similarity search and data retrieval.
+  - Integrate LangChain or LlamaIndex for developing
+    intelligent, context-aware applications.
+  - Deploy, monitor, and maintain ML models on AWS, GCP, or
+    Azure environments.
+  - Research and apply cutting-edge NLP, deep learning, and
+    machine learning algorithms.
+  - Collaborate with cross-functional teams including data
+    engineers, software developers, and product managers to
+    deliver AI-driven solutions.
+  - Continuously evaluate and improve existing AI/ML models and
+    workflows.
+
+  Required Skills
+
+  - Bachelor's degree in engineering or relevant field
+  - 7+ years of hands-on experience in Machine Learning and AI
+    development.
+  - Strong proficiency in Python and familiarity with major ML
+    frameworks (TensorFlow, PyTorch, Hugging Face).
+  - Proven experience with LLMs, Generative AI, and RAG-based
+    solutions.
+  - Working knowledge of vector databases such as FAISS,
+    Pinecone, or ChromaDB.
+  - Strong understanding of ML algorithms, deep learning
+    architectures, and NLP techniques.
+  - Experience deploying models on cloud platforms (AWS, GCP,
+    Azure).
+  - Familiarity with LangChain or LlamaIndex for LLM-based
+    application development (preferred)
+  - Expertise in ETL/ELT Tools and Data Warehousing
+  - Strong Programming and Scripting Proficiency to build data
+    pipelines
+  - Experience with Big Data Technologies like Apache Spark and
+    Cloud Platforms services like S3, Data Factory, EMR,
+    HDInsight, Dataflow
+  - Excellent problem-solving and analytical skills.
+  - Ability to work in a dynamic, fast-paced environment with
+    minimal supervision.
+industries:
+  - Information Technology
+  - Professional Services
+  - Consulting
+posted_date: 2026-09-12
+url: "https://builtin.com/job/lead-ai-ml-engineer/11151890"
+source: Built In

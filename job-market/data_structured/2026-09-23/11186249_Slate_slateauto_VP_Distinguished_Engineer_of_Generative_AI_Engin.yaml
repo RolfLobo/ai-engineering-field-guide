@@ -1,0 +1,57 @@
+company:
+  name: Slate (slate.auto)
+  stage: null
+  focus: Affordable, customizable American electric vehicles
+position:
+  title: VP – Distinguished Engineer of Generative AI Engineering
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and owns the GenAI platform end to end —
+      agent frameworks, RAG, fine-tuning, evaluation pipelines,
+      guardrails — directly shaping LLM behavior, making it ai-
+      first. Classical ML (CV for QA, robotics) is also present
+      but LLM/agent components dominate.
+  responsibilities:
+  - 'Design and own the end-to-end GenAI platform: context layer, data layer, model
+    serving, agent frameworks, and evaluation pipelines at enterprise scale'
+  - Build proprietary data and context layer training purpose-built models on real
+    manufacturing decisions across the vehicle lifecycle
+  - Deploy production-grade AI agents across vehicle engineering, manufacturing, supply
+    chain, software development, and GTM with evaluation frameworks, guardrails, and
+    observability
+  - 'Embed AI into manufacturing: robotic process control, computer vision quality
+    assurance, predictive maintenance, and closed-loop robot-to-model feedback'
+  - Recruit and grow a team of GenAI engineers, MLOps engineers, and applied scientists
+    while staying hands-on in the code
+  - Set engineering standards, practices, and hiring bar for the GenAI organization
+  use_cases:
+  - Agentic AI systems running workflows in vehicle engineering, manufacturing, supply
+    chain, software development, and GTM
+  - Computer vision quality assurance and defect detection on the production line
+  - Robotic process control and closed-loop robot-to-model feedback in factories
+  - Predictive maintenance from factory sensor data
+  - Purpose-built models fine-tuned on proprietary manufacturing decision data
+  - Multi-tenant internal GenAI platform serving thousands of concurrent users
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Fine-Tuning, Guardrails, OpenAI API, Anthropic
+        API, Gemini, LangChain, LlamaIndex, Agentic Workflows, Multi-Agent Systems,
+      LLM Evaluation]
+    ml: [Model Training, Model Evaluation]
+    web: []
+    databases: [Vector Databases, Snowflake, Databricks, dbt]
+    data: [Data Pipelines, Streaming Data Pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [Observability, MLOps]
+    languages: []
+    domains: [Computer Vision]
+    other: [Robotics, Sensor Fusion, Edge Deployment]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '11186249'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:24:09.413059'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

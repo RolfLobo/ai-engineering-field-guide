@@ -1,0 +1,57 @@
+job_id: 11005644
+title: Gen AI Developer Specialist
+company: Hexaware Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Role: AI Engineer
+
+  Description:
+
+  - Design, develop, and maintain AI-powered enterprise
+    applications using React, TypeScript, JavaScript, Python,
+    and Microservices Architecture.
+  - Leverage GitHub Copilot, Claude Code, Amazon Q Developer,
+    and other AI coding assistants to convert business
+    requirements and user stories into production-ready code
+    and pull requests.
+  - Architect and develop AI-enabled solutions using LLMs, GenAI
+    services, and Agentic AI frameworks.
+  - Build scalable backend APIs and microservices integrating AI
+    services with enterprise systems.
+  - Design and implement Retrieval Augmented Generation (RAG)
+    solutions using vector databases and enterprise knowledge
+    repositories.
+  - Develop conversational AI applications, copilots, virtual
+    assistants, and intelligent workflow automation solutions.
+  - Implement Prompt Engineering and Context Engineering
+    techniques to improve AI output quality, consistency, and
+    performance.
+  - Build autonomous and semi-autonomous AI agents capable of
+    orchestrating multi-step business processes.
+  - Design memory management strategies, including:
+    - Short-term Memory
+    - Long-term Memory
+    - Context Windows
+    - Token Optimization
+  - Integrate AI services using:
+    - Amazon Bedrock
+    - Claude
+    - OpenAI
+    - Other Foundation Model Platforms
+  - Develop event-driven architectures leveraging Kafka and
+    cloud-native messaging services.
+  - Collaborate with Product Owners, Architects, Business
+    Analysts, and Development teams to identify AI automation
+    opportunities.
+  - Implement AI governance, observability, monitoring, and
+    performance optimization practices.
+  - Participate in Agile development, code reviews, CI/CD
+    automation, and DevSecOps processes.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-03
+url: "https://www.builtinla.com/job/gen-ai-developer-specialist/11005644"
+source: Built In

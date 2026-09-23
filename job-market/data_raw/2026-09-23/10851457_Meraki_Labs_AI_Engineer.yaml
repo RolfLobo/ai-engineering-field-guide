@@ -1,0 +1,132 @@
+job_id: 10851457
+title: AI Engineer
+company: Meraki Labs
+location: Bengaluru, IND
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  About Fermi
+
+  Fermi is an early-stage AI tutoring startup, an initiative
+  of Meraki Labs, dedicated to revolutionizing education
+  globally. Our mission is to democratize world-class tutoring
+  by making it accessible to every student through advanced
+  AI. We are a dynamic and lean team of educators, designers,
+  and engineers, united by a strong conviction that thoughtful
+  design and cutting-edge AI can profoundly transform the
+  learning experience.
+
+  Led by experienced founders, including Mukesh Bansal
+  (Founder – Myntra, CureFit, Nurix) and Peeyush Ranjan (VP-
+  Google, CTO-Flipkart, Airbnb), we are building a product
+  that aims to reshape how millions of students learn—turning
+  academic challenges into accomplishments. We operate out of
+  Bangalore, India, fostering a high-velocity environment that
+  prioritizes impact, ownership, and direct collaboration to
+  define and build the future of AI in education.
+
+  Role Overview
+
+  We’re hiring an AI Engineer who is a problem-solver first:
+  someone who can ship, debug, and iterate fast. You’ll help
+  build the core AI workflows powering our tutoring
+  product—especially agentic tutoring systems—and harden them
+  into production-grade, scalable, observable systems.
+
+  This role is intentionally not for everyone. If you want
+  tight scope, predictable tasks, or “only research / only
+  backend,” this won’t fit. If you like building real systems
+  end-to-end and seeing your work hit production quickly,
+  you’ll love it.
+
+  What You’ll Do
+
+  - Build and ship core AI workflows for our tutoring app:
+    - agentic tutoring flows (hinting, step-by-step guidance,
+      misconception detection)
+    - answer evaluation / grading and feedback loops
+    - retrieval + grounding (content ingestion, chunking,
+      embedding, re-ranking)
+    - personalization (student memory, progress signals,
+      difficulty adaptation)
+    - multimodal pipelines (images/diagrams; bonus if you’ve
+      touched voice)
+  - Turn prototypes into robust production systems:
+    - latency + cost optimization (caching, batching, streaming,
+      fallbacks)
+    - eval-driven iteration (offline test sets, regression checks,
+      quality gates)
+    - observability (traces, logs, metrics, prompt/version
+      tracking)
+    - reliability + safety (guardrails, refusal behavior,
+      policy/age-appropriate output)
+  - Own features end-to-end:
+    - from rough PRD → implementation → deployment → monitoring →
+      iteration
+  - Collaborate closely with product/design/education to
+    translate learning goals into AI behavior.
+
+  What We’re Looking For (Must-have Signals)Core engineering
+
+  - 1 to 5 years of strong Python fundamentals; you can write
+    clean code and also “hack” when needed.
+  - Comfortable building services with FastAPI/Flask, writing
+    APIs, and debugging production issues.
+  - Practical understanding of Docker, local dev workflows, and
+    basic deployment concepts.
+  - Good CS foundations (data structures, basic systems
+    thinking, debugging).
+
+  AI engineering readiness
+
+  - Hands-on experience with at least one:
+    - OpenAI SDK (or similar), LangChain, Haystack (or comparable
+      LLM framework)
+  - You understand the difference between:
+    - prompting vs tooling vs retrieval vs agents vs evals
+  - You’ve built something real:
+    - internships, substantial course projects, shipped side
+      projects, research engineering, or open-source
+      contributions.
+
+  Pedigree / proof of work (we care about evidence, not
+  labels)
+
+  - CS background preferred (or equivalent demonstrated
+    capability).
+  - Strong signal from top engineering programs in India or an
+    equivalent track record (exceptional projects / OSS /
+    internships that clearly show you can perform).
+
+  How You Work (This Matters)
+
+  You’ll do well here if you:
+
+  - default to ownership: you don’t wait to be told every step
+  - can move fast without being sloppy
+  - enjoy ambiguity and turn it into clear execution
+  - treat quality as an engineering problem: tests, evals,
+    instrumentation, iteration
+
+  Why Join Fermi?
+
+  - Build core AI product (not demos) that students use daily.
+  - Massive scope for learning: agents, evals, multimodal
+    tutoring, production hardening.
+  - Small team, high trust, direct impact—your code ships and
+    matters.
+  - Work with a team that cares about craft, not just hype.
+
+  This is not for you If…
+
+  - You want remote/hybrid (this is onsite Bangalore only).
+  - You prefer narrow tickets and minimal ambiguity.
+  - You’re not excited about production engineering (monitoring,
+    reliability, cost, latency).
+  - You’re mainly looking for a “research-only” role.
+industries:
+  - Angel or VC Firm
+  - Co-Working Space or Incubator
+posted_date: 2026-08-26
+url: "https://builtin.com/job/ai-engineer/10851457"
+source: Built In

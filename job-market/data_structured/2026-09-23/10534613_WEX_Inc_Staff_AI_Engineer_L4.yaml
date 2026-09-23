@@ -1,0 +1,52 @@
+company:
+  name: WEX Inc.
+  stage: null
+  focus: Payments and fintech technology company
+position:
+  title: Staff AI Engineer  (L4)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves fine-tuning, evaluating, and monitoring
+      LLMs, designing RAG architectures, and applying prompting
+      strategies and agentic workflows — direct shaping of LLM
+      behaviour. It also covers classical ML, making it ai-first
+      per the mixed-role rule.
+  responsibilities:
+  - Partner with stakeholders to translate customer challenges into technical designs
+    and AI strategies
+  - Architect, build, and deploy scalable and reliable AI/ML platforms and tools
+  - Lead development, evaluation, fine-tuning, and monitoring of production-grade
+    AI/ML models including LLMs and RAG architectures
+  - Design and standardize CI/CD pipelines and Infrastructure as Code for reproducible
+    deployments
+  - Monitor system health, lead incident response, and refactor architecture to remove
+    bottlenecks
+  - Mentor junior engineers and conduct code reviews
+  - Evaluate emerging AI technologies and vendors and prototype new approaches
+  use_cases:
+  - AI platforms that enhance decision-making for fintech products
+  - Production-grade LLM and RAG applications
+  - Model serving in distributed microservices architectures
+  skills:
+    genai: [Generative AI, Prompt Engineering, RAG, Fine-Tuning, Agentic Workflows,
+      LLMs, LangChain, LlamaIndex]
+    ml: [PyTorch, TensorFlow, scikit-learn, Machine Learning]
+    web: [Microservices]
+    databases: [NoSQL]
+    data: [Data Lakes, Data Pipelines]
+    cloud: [AWS]
+    ops: [vLLM, MLOps, Model Monitoring, Feature Stores, CI/CD, Infrastructure as
+        Code, Terraform, GitHub Actions, Kubernetes, Distributed Systems]
+    languages: [Python, Java, Go, C#, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10534613'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:00:14.343448'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

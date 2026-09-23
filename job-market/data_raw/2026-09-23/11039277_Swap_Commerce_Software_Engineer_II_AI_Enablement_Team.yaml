@@ -1,0 +1,76 @@
+job_id: 11039277
+title: Software Engineer II, AI Enablement Team
+company: Swap Commerce
+location: London, GBR
+work_type: FULL_TIME
+company_size: 215 Employees
+description: |
+  About Swap
+
+  Swap is the infrastructure behind modern agentic commerce.
+  The only AI-native platform connecting backend operations
+  with a forward-thinking storefront experience.
+
+  Built for brands that want to sell anything - anywhere, Swap
+  centralises global operations, powers intelligent workflows,
+  and unlocks margin-protecting decisions with real-time data
+  and capability. Our products span cross-border, tax,
+  returns, demand planning, and our next-generation agentic
+  storefront, giving merchants full transparency and the
+  ability to act with confidence.
+
+  At Swap, we’re building a culture that values clarity,
+  creativity, and shared ownership as we redefine how global
+  commerce works.
+
+  Responsibilities
+
+  - Build cost observability and usage-tracking tooling across
+    LLM and agent workloads, so teams can see what AI actually
+    costs and where we can accelerate productivity and impact.
+  - Design and ship internal tooling and guardrails that let
+    business and engineering teams adopt agentic coding
+    workflows safely and productively.
+  - Evaluate new AI tools, models, and vendors, and turn
+    findings into clear build-vs-buy recommendations.
+  - Write and maintain production quality code and automated
+    tests for the platforms and tools you own.
+  - Review peers' code for correctness, readability, and
+    maintainability.
+  - Own delivery of projects end to end, from scoping through
+    production rollout across a mix of infrastructure,
+    tooling, and process work.
+  - Establish and socialise best practices for AI usage across
+    the business.
+
+  What We're Looking For
+
+  - 2+ years of professional software engineering experience,
+    comfortable operating independently on unfamiliar
+    codebases.
+  - A track record of owning and shipping mid-sized features or
+    projects end to end.
+  - Experience with building distributed data systems, feedback
+    loops and measuring impact of work with metrics.
+  - Strong testing discipline and experience improving CI/CD or
+    developer tooling.
+  - Someone who is focused on solving problems rather than
+    working on particular tech stack / languages
+  - Clear written and verbal communicator.
+  - Bonus: experience with LLM/agentic tooling, AI cost
+    observability, or internal developer platforms.
+  - A generalist with an attitude for learning and growth.
+
+  Diversity & Equal Opportunities:
+
+  We embrace diversity and equality in a serious way. We are
+  committed to building a team with a variety of backgrounds,
+  skills, and views. The more inclusive we are, the better our
+  work will be. Creating a culture of equality isn't just the
+  right thing to do; it's also the smart thing.
+industries:
+  - eCommerce
+  - Automation
+posted_date: 2026-09-07
+url: "https://builtin.com/job/software-engineer-ii-ai-enablement-team/11039277"
+source: Built In

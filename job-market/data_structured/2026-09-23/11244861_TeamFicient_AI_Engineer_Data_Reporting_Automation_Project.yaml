@@ -1,0 +1,55 @@
+company:
+  name: TeamFicient
+  stage: null
+  focus: Remote staffing and business support services
+position:
+  title: AI Engineer — Data & Reporting Automation (Project Based)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The core work is data consolidation, KPI validation, and
+      automated dashboard/report production using Google Sheets,
+      Looker Studio, and Workspace automation. The AI component is
+      only "integrating an AI/LLM service" into a
+      reporting/summarization workflow — consuming an API someone
+      else designed — with no evidence of prompt engineering, RAG
+      design, or model shaping, so it is ai-support.
+  responsibilities:
+  - Integrate and consolidate data across multiple account and data sources into a
+    unified reporting engine
+  - Gather requirements and build dashboards for account-level and internal/management
+    reporting
+  - Validate KPI calculations against source data and build exception/error handling
+    for bad data
+  - Automate data refreshes, recurring report production, and delivery scheduling
+  - Generate AI-assisted summaries and management insights where appropriate
+  - Document data sources, refresh logic, dependencies, and maintenance procedures
+  - Self-direct the full project scope end to end, submitting an RFQ with approach,
+    timeline, hours, and cost
+  use_cases:
+  - Account-level reporting automation
+  - Internal and management reporting
+  - KPI validation and exception handling for bad data
+  - Automated recurring dashboards and report delivery
+  - AI-assisted report summaries and management insights
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [Google Sheets]
+    databases: []
+    data: [Data Integration]
+    cloud: [APIs]
+    ops: []
+    languages: []
+    domains: []
+    other: [Looker Studio, Google Workspace Automation, BI Dashboards, KPI Validation,
+      Asana]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11244861'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:30:43.569237'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

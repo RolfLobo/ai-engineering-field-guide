@@ -1,0 +1,50 @@
+company:
+  name: Cognite
+  stage: null
+  focus: Industrial digitalization, AI and data solutions
+position:
+  title: Senior Software Engineer - AI/ML (Context Services)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role architects frameworks for model serving, vector
+      databases, and agentic workflows (LLM agents) with state
+      management and prompt tracking, which is designing agent
+      flows and retrieval infrastructure — shaping model
+      behavior/output quality. LLM/agent components are present,
+      so ai-first.
+  responsibilities:
+  - Design robust system architectures and low-latency APIs/services supporting thousands
+    of concurrent users with sub-second response times
+  - Bridge Applied Scientists/AI Engineers and the central Platform Engineering team
+  - Architect frameworks for model serving, vector databases, and agentic workflows
+    (LLM agents) with reliable state management and prompt tracking
+  - Collaborate with product, architecture, and AI teams to translate industrial data
+    problems into scalable solutions
+  - Leverage core platform infrastructure to build reliable AI pipelines and workflows
+  - Drive innovation through research, prototyping, and open-source contributions
+  use_cases:
+  - Productionizing analytical solutions from ML/DL models to LLM agents for industrial
+    customers
+  - Industrial data contextualization and problem solving
+  - High-concurrency, low-latency AI service delivery
+  - AI pipeline and agentic workflow reliability in production
+  skills:
+    genai: [LLMs, AI Agents, Agentic Workflows, LLM Evaluation]
+    ml: [Machine Learning, Deep Learning, Model Training]
+    web: [REST APIs, gRPC]
+    databases: [Vector Databases]
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [Model Deployment, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11232106'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:28:59.729302'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

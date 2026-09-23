@@ -1,0 +1,54 @@
+company:
+  name: New York Life Insurance Company
+  stage: null
+  focus: Life insurance and financial services
+position:
+  title: Senior Associate - Python AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds LLM services directly: RAG,
+      prompt engineering, agent orchestration, guardrails, and LLM
+      evaluation pipelines, which is shaping model behavior. LLMs
+      and agents are the primary target, so it is ai-first.
+  responsibilities:
+  - Design and build Python-based AI services (LLM integrations, RAG, agentic and
+    human-in-the-loop workflows, embeddings/vector search)
+  - Design a reusable enterprise AI/agent services layer with orchestration, tools,
+    guardrails, and interfaces
+  - Partner with Enterprise Developers to integrate AI capabilities via REST/gRPC/messaging
+    contracts
+  - Implement guardrails, human oversight, monitoring, and evaluation pipelines for
+    AI outputs in a regulated environment
+  - Collaborate with Compliance, Risk, Legal, and Model Risk Management on model governance
+    and regulatory expectations
+  - Build data pipelines and integrations connecting AI services to internal systems
+    of record
+  - Write production-quality Python code and contribute to CI/CD, observability, and
+    operational readiness
+  - Participate in architecture, security reviews, and model validation exercises
+  use_cases:
+  - AI-enabled applications for corporate functions (Legal, Compliance, Risk Management)
+  - Enterprise AI/agent services layer for life insurance operations
+  - Retrieval-augmented generation and vector search over enterprise data
+  - Governed, auditable AI features for a regulated insurance environment
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Embeddings, Function Calling, AI Agents,
+      Agentic Workflows, MCP, Guardrails, LLM Evaluation, Google ADK]
+    ml: []
+    web: [REST APIs, gRPC, Spring Boot]
+    databases: [Vector Databases, pgvector, Pinecone, Weaviate, OpenSearch]
+    data: [Kafka, Data Pipelines]
+    cloud: [GCP, AWS, Vertex AI]
+    ops: [Docker, Kubernetes, CI/CD, Code Review]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11173390'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:23:24.348432'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

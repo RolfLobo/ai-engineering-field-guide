@@ -1,0 +1,60 @@
+company:
+  name: Roche
+  stage: null
+  focus: Global pharmaceutical and healthcare company
+position:
+  title: Full-Stack AI Engineer / Data Scientist – Agentic Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds agentic GenAI systems, MCP
+      servers, RAG pipelines, prompt engineering, and fine-tunes
+      LLMs — directly shaping LLM/agent behavior. Classical ML is
+      also present, but LLM involvement makes it ai-first.
+  responsibilities:
+  - Design and build AI agentic systems, state machines, and search-based conversational
+    systems for business problems
+  - Implement MCP servers/clients to standardize context exchange between agents,
+    data sources, and tools
+  - Develop workflows with large multimodal foundation models across text, audio,
+    and video
+  - Write production-ready Python and TypeScript code with testing and documentation
+  - 'Manage DevOps/MLOps lifecycle: Docker, CI/CD pipelines, and cloud-native solutions
+    on AWS/multicloud'
+  - Perform EDA, feature engineering, and design data pipelines to maximize LLM effectiveness
+    and reduce bias
+  - Fine-tune and optimize LLM-based and classical ML algorithms; lead prompt engineering
+    strategies
+  - Run experimentation, A/B testing, automatic metric pipelines, and observability
+    monitoring for generative systems
+  use_cases:
+  - Enterprise agentic AI applications for healthcare/pharma business problems
+  - Multimodal processing and reasoning across text, audio, and video
+  - Search-based conversational systems
+  - Text generation and summarization
+  - Classical ML for classification, clustering, and regression where more efficient
+    than LLMs
+  - Agent-to-agent (A2A) communication and standardized tool/context exchange
+  skills:
+    databases: [Vector Databases, Graph Databases, OpenSearch, Snowflake, NoSQL, Data
+        Lakes]
+    domains: []
+    data: [Data Pipelines]
+    web: [APIs, REST APIs]
+    ml: [Machine Learning, Feature Engineering, Model Evaluation, Model Training,
+      Neural Networks, scikit-learn, Deep Learning, Synthetic Data Generation]
+    ops: [Docker, CI/CD, Infrastructure as Code, MLOps, Model Deployment, Observability,
+      Monitoring]
+    other: [A/B Testing, Responsible AI, EDA, Statistics]
+    cloud: [AWS, AWS Bedrock, SageMaker]
+    languages: [Python, TypeScript, SQL]
+    genai: [LLMs, Agentic Workflows, MCP, RAG, Prompt Engineering, Fine-Tuning, Generative
+        AI, AI Agents, LangChain, Claude Code, Structured Outputs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10660412'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:00:28.734272'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

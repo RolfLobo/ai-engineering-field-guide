@@ -1,0 +1,55 @@
+company:
+  name: Precisely
+  stage: null
+  focus: Data quality, enrichment, and location intelligence software
+position:
+  title: Senior Automation Engineer (Python, AI Agents & Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and operates production-grade agents,
+      agentic workflows, MCP integrations, and LLM-based content
+      generation/transformation pipelines, so the person shapes
+      LLM/agent behavior directly. This makes it ai-first.
+  responsibilities:
+  - Lead design and implementation of automation across documentation and software
+    development lifecycle workflows
+  - Design, build, and operate production-grade agents, scripts, and automation pipelines
+    replacing manual processes
+  - Architect and integrate systems across documentation and localization platforms
+    using MCPs and REST APIs
+  - Apply AI and LLM-based capabilities to generate, validate, transform, and enrich
+    content
+  - Own reliability, performance, and maintainability of automation systems through
+    monitoring and continuous improvement
+  - Define standards, patterns, and reusable automation components
+  - Mentor team members through technical guidance and design reviews
+  - Partner cross-functionally to advance AI-assisted documentation and localization
+    workflows
+  use_cases:
+  - Automated documentation creation, validation, and publishing
+  - UI localization and translation automation
+  - Content generation, transformation, and enrichment using LLMs
+  - Replacing manual repetitive processes across documentation and language operations
+  - End-to-end workflow automation across content platforms via API integration
+  skills:
+    genai: [AI Agents, Agentic Workflows, MCP, LLMs, GitHub Copilot, Cursor, Multi-Agent
+        Systems]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, GitHub Actions, GitLab CI, Jenkins, Azure DevOps, Git, GitHub, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, Jira, Agile, Docker]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11046653'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:15:22.770756'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

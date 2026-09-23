@@ -1,0 +1,232 @@
+job_id: 10660412
+title: Full-Stack AI Engineer / Data Scientist – Agentic Systems
+company: Roche
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 93,797 Employees
+description: |
+  At Roche you can show up as yourself, embraced for the
+  unique qualities you bring. Our culture encourages personal
+  expression, open dialogue, and genuine connections,  where
+  you are valued, accepted and respected for who you are,
+  allowing you to thrive both personally and professionally.
+  This is how we aim to prevent, stop and cure diseases and
+  ensure everyone has access to healthcare today and for
+  generations to come. Join Roche, where every voice matters.
+
+  The Position
+
+  About the Role
+
+  At Roche Digital Technology, we are advancing the boundaries
+  of Applied AI. The Applied AI Use Case Engineering &
+  Operations Team is tasked with building innovative AI
+  applications, GenAI agents, and agentic foundations.
+
+  In the 2026 tech landscape, the lines between traditional
+  disciplines have blurred. We operate in small agile teams
+  (e.g., ~6 members) powered by advanced coding agents (like
+  Claude Code) to develop and ship solutions faster than ever
+  before. We are looking for a highly skilled, hands-on Full-
+  Stack AI Engineer / Data Scientist with a deep sense of
+  ownership. Rather than being a narrowly specialized Data
+  Scientist, ML Engineer, or MLOps Engineer, you will combine
+  these skill sets. You will build agentic generative AI
+  systems and classical ML systems end-to-end, taking
+  accountability from concept and exploratory data analysis
+  all the way to production releases and monitoring.
+
+  Core Tech Stack & Scope
+
+  This role involves working deeply with multimodal foundation
+  models, advanced agentic workflows (including Agent-to-
+  Agent/A2A communication), Model Context Protocol (MCP),
+  Retrieval-Augmented Generation (RAG) pipelines, other
+  emerging AI technologies, and MLOps subsystems. You will
+  utilize cloud services (AWS and multicloud) alongside
+  vector, graph, and traditional databases to develop scalable
+  and robust AI solutions.
+
+  Key Responsibilities
+
+  Agentic & GenAI Application Development:
+
+  - Design and build advanced AI agentic systems, state
+    machines, search-based conversational systems that solve
+    complex business problems.
+  - Develop workflows leveraging Large Foundational Multimodal
+    Models to process and reason across text, audio, and video
+    modalities.
+  - Implement Model Context Protocol (MCP) servers/clients to
+    standardize context exchange between agents, data sources,
+    and external tools.
+  - Collaborate with AI Architects, Product Owners, and fellow
+    developers to integrate AI capabilities into scalable,
+    fair, and ethical end-user applications focusing on
+    relevance and real-time performance.
+
+  Full-Stack Engineering & Agentic SDLC:
+
+  - Leverage AI coding agents (e.g., Claude Code) daily to
+    accelerate full-stack development cycles, maintaining high
+    productivity across frontend, backend, and infrastructure
+    tasks.
+  - Take end-to-end accountability for features: write high-
+    quality, production-ready Python (and occasionally
+    TypeScript) code with comprehensive testing and
+    documentation.
+  - Manage the DevOps/MLOps lifecycle: containerize applications
+    using Docker, configure CI/CD pipelines, and architect
+    high-throughput, reliable cloud-native solutions on
+    AWS/multicloud.
+
+  Data Science, EDA & Strategy:
+
+  - Perform thorough Exploratory Data Analysis (EDA) to
+    understand dataset characteristics, uncover patterns,
+    detect biases, and identify data quality issues.
+  - Use statistical and visualization techniques to inform
+    feature engineering, model selection, and optimization of
+    foundation model-based applications.
+  - Design robust data pipelines to curate, preprocess, and
+    structure diverse datasets that maximize LLM effectiveness
+    and reduce bias.
+
+  Algorithm Development & Optimization:
+
+  - Design, customize, optimize, and fine-tune LLM-based and
+    traditional AI algorithms for specific use cases (e.g.,
+    text generation, summarization, AI agents, sequence
+    modeling).
+  - Lead advanced prompt engineering strategies, utilizing zero-
+    shot, few-shot and other paradigms to optimize model
+    outputs without extensive fine-tuning.
+  - Implement pre-generative AI models (e.g., classification,
+    clustering, regression) when they provide a more
+    efficient, interpretable, or cost-effective solution
+    compared to LLMs.
+  - Optimize model inference speed, reduce latency (cold start
+    reduction, caching strategies), and manage resource usage
+    across cloud architectures.
+
+  Evaluation, Observability & Continuous Improvement:
+
+  - Conduct rigorous experimentation (A/B testing) and implement
+    automatic metric pipelines (e.g. BLEU/ROUGE, RAG retrieval
+    accuracy, human rating frameworks, etc.) to evaluate
+    generative and multimodal systems.
+  - Implement real-time algorithms monitoring and observability
+    practices, ensuring visibility into pipelines behavior,
+    drift detection, and anomaly identification using
+    telemetry tools.
+  - Translate complex technical results into clear, actionable
+    insights for stakeholders, driving data-driven decision-
+    making.
+
+  Practical Skills Required
+
+  Experience:
+
+  - 7+ years of experience in AI/ML engineering and Data
+    Science, with exposure to generative AI, agents and
+    classical ML.
+  - 3+ years of hands-on experience generative large language
+    models and agents.
+  - Proven experience managing the end-to-end MLOps lifecycle
+    and deploying models at scale.
+  - Proven experience leveraging AI coding agents within an
+    agentic SDLC to accelerate feature delivery.
+
+  Technical Skills:
+
+  - Programming: Advanced production-grade proficiency in
+    Python. Additional proficiency in TypeScript is considered
+    an advantage.
+  - AI/GenAI Frameworks: Deep expertise with LangChain or
+    similar LLM orchestration frameworks, agentic system
+    design, and state machine logic.
+  - Cloud Platforms: Practical experience designing cloud
+    solutions on AWS (familiarity with multicloud is a plus),
+    utilizing GenAI-specific services (e.g., Amazon Bedrock,
+    SageMaker).
+  - Databases: Strong knowledge of vector databases (e.g., AWS
+    OpenSearch), graph databases, Snowflake, SQL, NoSQL, and
+    data lakes.
+  - Software Engineering Best Practices: Expertise in API
+    design, CI/CD, Docker, Infrastructure as Code, and
+    rigorous automated testing.
+  - Data Skills: Strong background in statistics, data
+    manipulation, synthetic data generation, and feature
+    engineering.
+
+  Capabilities:
+
+  - Problem-Solving Skills: Excellent analytical skills to
+    tackle complex engineering and statistical challenges.
+  - Ownership & Leadership: Deep sense of accountability, eager
+    to define architectural patterns, and able to step into a
+    Tech Lead role when necessary.
+  - Consulting: Abilities to work closely with stakeholders
+    across the enterprise to consult on the technological
+    approaches to their business problems.
+  - Ethics: Strong understanding of biases, fairness,
+    hallucination mitigation, and responsible AI deployment.
+
+  Qualifications
+
+  The successful candidate should:
+
+  - Hold a B.Sc., B.Eng., M.Sc., M.Eng., Ph.D., or equivalent in
+    Computer Science, Physics, Statistics, Mathematics, or a
+    related field.
+  - Be deeply passionate about AI, staying continuously up-to-
+    date with the latest developments in foundational models,
+    agentic approaches, and classical ML.
+  - Be team-oriented, proactive, and collaborative, thriving in
+    a fast-paced environment where roles are fluid and
+    multidisciplinary.
+  - Be a great communicator, able to present complex findings
+    clearly to both technical and non-technical audiences.
+  - Be able to communicate in English at the level of: C1+.
+  - Be ready to span their work times across the Central
+    European Timezone on occasion, when necessary.
+
+  Why Join Us?
+
+  - Innovative Environment: Work on cutting-edge agentic AI
+    technologies in a highly visible Roche RDT function.
+  - Growth Opportunities: Advance your career by taking
+    ownership of complex, high-impact end-to-end AI systems.
+  - Collaborative Culture: Be a part of a diverse and inclusive
+    team that values technical excellence, cross-functional
+    collaboration, and rapid innovation.
+
+  #Hyderabad2026
+
+
+
+
+
+  Who we are
+
+  A healthier future drives us to innovate. Together, more
+  than 100’000 employees across the globe are dedicated to
+  advance science, ensuring everyone has access to healthcare
+  today and for generations to come. Our efforts result in
+  more than 26 million people treated with our medicines and
+  over 30 billion tests conducted using our Diagnostics
+  products. We empower each other to explore new
+  possibilities, foster creativity, and keep our ambitions
+  high, so we can deliver life-changing healthcare solutions
+  that make a global impact.
+
+  Let’s build a healthier future, together.
+
+  Roche is an Equal Opportunity Employer.
+industries:
+  - Healthtech
+  - Biotech
+  - Pharmaceutical
+posted_date: 2026-09-22
+url: "https://builtin.com/job/full-stack-ai-engineer-data-scientist-agentic-systems/10660412"
+source: Built In

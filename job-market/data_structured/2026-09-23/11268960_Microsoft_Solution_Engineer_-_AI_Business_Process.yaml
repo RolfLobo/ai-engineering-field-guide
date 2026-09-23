@@ -1,0 +1,58 @@
+company:
+  name: Microsoft
+  stage: null
+  focus: |-
+    Enterprise software, cloud platforms, and AI business
+    applications
+position:
+  title: Solution Engineer - AI Business Process
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a technical pre-sales/solution engineering
+      position for Microsoft's business application stack
+      (Dynamics 365, Power Platform). It demos and deploys AI-
+      powered platforms but doesn't itself shape model behavior
+      through prompts, retrieval, or training. Selling and
+      architecting solutions built on others' AI systems is ai-
+      support.
+  responsibilities:
+  - Drive technical sales with decision makers using demos and PoCs to influence solution
+    design and enable production deployments
+  - Lead hands-on engagements such as hackathons and architecture workshops to accelerate
+    adoption of Microsoft's cloud platforms
+  - Build trusted relationships with platform leads, co-designing secure, scalable
+    architectures and solutions
+  - Resolve technical blockers and objections, collaborating with engineering to share
+    insights and improve products
+  - Maintain and grow deep expertise in AI Business Processes (Finance & Supply Chain,
+    Power Platform, Sales & Services)
+  - Represent Microsoft through thought leadership in developer communities and customer
+    forums
+  use_cases:
+  - AI-powered business process transformation for enterprise customers
+  - Finance & Supply Chain AI solutions
+  - Power Platform adoption and solution design
+  - Sales & Services AI solutions
+  - Enterprise cloud and hybrid architecture migrations
+  skills:
+    databases: []
+    domains: []
+    data: []
+    web: []
+    ml: []
+    ops: []
+    other: [Office 365, Power BI, Power Platform, Dynamics 365, Technical Pre-Sales,
+      System Design]
+    cloud: [Azure, Cloud Architecture]
+    languages: []
+    genai: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11268960'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:33:24.628217'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

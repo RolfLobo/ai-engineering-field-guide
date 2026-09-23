@@ -1,0 +1,48 @@
+company:
+  name: Lingaro
+  stage: null
+  focus: Data and AI consulting and enterprise solutions
+position:
+  title: ML/AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs and builds enterprise AI agents with RAG,
+      generative answers, and prompt/instruction design, directly
+      shaping LLM output quality. This is clearly ai-first work.
+  responsibilities:
+  - Build enterprise AI agents using Microsoft Copilot Studio and Azure AI Foundry
+  - Design agent conversations including topics, triggers, variables, routing, and
+    fallback handling
+  - Implement Generative Answers with RAG and knowledge grounding
+  - Integrate agents with Power Automate, SharePoint, Dataverse, Teams, and Azure
+    AI Search
+  - Design prompts and handle citations, metadata-based retrieval, and multilingual
+    content
+  - Troubleshoot agent behavior and manage Power Platform ALM across DEV/UAT/PROD
+    environments
+  use_cases:
+  - Enterprise AI agents and virtual assistants
+  - Knowledge-grounded question answering with citations
+  - Multilingual conversational agents
+  - Agent-based automation integrated with Microsoft 365 and Power Platform
+  skills:
+    genai: [AI Agents, RAG, Prompt Engineering]
+    ml: []
+    web: []
+    databases: [Azure AI Search]
+    data: []
+    cloud: [Copilot Studio, Azure AI Foundry, Azure OpenAI]
+    ops: []
+    languages: []
+    domains: []
+    other: [Power Automate, SharePoint, Dataverse, Microsoft Teams, Power Platform]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11176923'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:23:58.736354'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

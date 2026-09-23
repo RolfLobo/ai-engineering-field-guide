@@ -1,0 +1,55 @@
+company:
+  name: JPMorganChase
+  stage: null
+  focus: Global financial services and banking technology
+position:
+  title: Lead Software Engineer - Java, AI, React
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a generic lead software engineer whose AI
+      involvement is rolling out enterprise-authorized AI-assisted
+      coding, code review, and test acceleration tools to other
+      engineers and setting validation expectations. The
+      deliverable is developer workflow, not shaping model
+      behavior, so it is ai-support per the coding-tools rollout
+      edge case.
+  responsibilities:
+  - Execute creative software solutions, design, development, and technical troubleshooting
+  - Develop secure and high-quality production code and review/debug code written
+    by others
+  - Drive team adoption of enterprise-authorized AI-assisted engineering practices
+    and SDLC automation
+  - Set expectations for human validation, secure handling of AI inputs/outputs, and
+    reusable patterns across teams
+  - Apply SDLC toolchain knowledge including AI-assisted development and automation
+    capabilities
+  - Identify opportunities to automate remediation of recurring issues to improve
+    operational stability
+  - Lead evaluation sessions with external vendors, startups, and internal teams on
+    architectural designs and applicability
+  use_cases:
+  - AI-assisted coding, code review, refactoring, and test acceleration for engineering
+    teams
+  - AI-assisted incident and root-cause analysis support
+  - SDLC automation to improve delivery speed and code quality
+  - Automated remediation of recurring operational issues
+  skills:
+    genai: []
+    ml: [Machine Learning]
+    web: [Spring Boot, React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Java]
+    domains: []
+    other: [Agile, Responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11196372'
+  location: Hyderabad, IND
+  extracted_at: '2026-09-23T11:25:12.539236'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

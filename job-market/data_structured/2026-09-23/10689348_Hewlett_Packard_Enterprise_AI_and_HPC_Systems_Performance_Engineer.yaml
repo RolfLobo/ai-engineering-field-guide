@@ -1,0 +1,61 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: null
+  focus: Edge-to-cloud enterprise computing and AI infrastructure
+position:
+  title: AI and HPC Systems Performance Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role tunes, benchmarks, and operates GPU server
+      infrastructure for AI training and inference
+      workloads—running, hosting, and scaling models and
+      infrastructure rather than shaping model behavior through
+      prompts, retrieval design, or training. Serving/optimizing
+      models others build is ai-support per the edge cases.
+  responsibilities:
+  - Install, configure, and optimize AI infrastructure including GPU servers, storage,
+    networking, and AI software stacks
+  - Perform system-level performance characterization and optimization of AI training
+    and inference workloads on HPE platforms
+  - Design, execute, and analyze performance benchmarks for AI/ML workloads including
+    LLMs, multimodal models, and RAG pipelines
+  - Capture and analyze telemetry, profiling data, traces, and performance metrics
+    to identify bottlenecks
+  - Develop automation scripts, deployment frameworks, and Infrastructure-as-Code
+    solutions for AI platform provisioning
+  - Develop tools and frameworks for AI workload observability, scalability testing,
+    and benchmark execution
+  - Collaborate with customers, partners, ISVs, IHVs, and GPU vendors to optimize
+    and validate AI solutions
+  - Evaluate emerging AI frameworks and hardware, author technical papers and reference
+    architectures, and mentor junior engineers
+  use_cases:
+  - Performance optimization of large-scale AI training and inference on GPU clusters
+  - Benchmarking LLMs, multimodal models, and RAG pipelines on HPE platforms
+  - Characterizing and optimizing multi-GPU, multi-node AI workloads using InfiniBand,
+    RDMA, and GPUDirect
+  - AI workload observability and telemetry-driven bottleneck analysis
+  - Reference architectures and best-practice guidance for enterprise AI infrastructure
+  skills:
+    genai: [RAG, LLMs]
+    ml: [PyTorch, JAX, Transformers, Hugging Face, DeepSpeed, Megatron-LM, CUDA, NCCL,
+      Model Training, Model Evaluation, Fine-Tuning, ONNX Runtime, SGLang, Dynamo,
+      Distributed Training, Distributed Inference]
+    web: []
+    databases: [Redis, Vector Databases]
+    data: [Ray, Weka, Lustre, BeeGFS, GPFS]
+    cloud: []
+    ops: [vLLM, TensorRT, Kubernetes, Docker, Linux, Infrastructure as Code, Monitoring,
+      Observability]
+    languages: [Python, Bash, Go, C++]
+    domains: []
+    other: [InfiniBand, RDMA, GPUDirect, RoCE, MLPerf]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10689348'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:00:47.264627'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

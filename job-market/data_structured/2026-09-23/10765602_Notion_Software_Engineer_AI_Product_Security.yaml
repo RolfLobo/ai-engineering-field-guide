@@ -1,0 +1,56 @@
+company:
+  name: Notion
+  stage: null
+  focus: Collaborative AI workspace for teams and agents
+position:
+  title: Software Engineer, AI Product Security
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds security guardrails and automated red-team
+      testing for AI product surfaces like agent runtimes, tool
+      permissions, retrieval, and prompt injection — building
+      guardrails and output-quality/abuse monitoring for LLM
+      agents is shaping model behavior, making this ai-first.
+  responsibilities:
+  - Define and build security architecture for AI product surfaces spanning tool execution,
+    content writes, retrieval, permission checks, provenance, and auditability
+  - Ship reusable libraries, review patterns, test fixtures, and guardrails that make
+    the secure path the easy path for product teams
+  - Build automated red-team and regression testing for prompt injection, indirect
+    instruction following, data exfiltration, tool misuse, and cross-tenant leakage
+  - Translate threat models for new product surfaces into concrete engineering requirements,
+    production checks, and launch criteria
+  - Harden the product using production signals, incident learnings, and targeted
+    experiments
+  - Define the security bar for engineers' use of coding agents, MCP-enabled tools,
+    hooks, and internal automation
+  use_cases:
+  - Secure agent runtimes and tool execution in a collaborative AI workspace
+  - Preventing prompt injection, data exfiltration, and tool misuse in AI products
+  - Cross-tenant data leakage prevention in workspace content systems
+  - Permission checks, provenance, and auditability for content retrieval and writes
+  - Safe use of coding agents and MCP-enabled developer tooling
+  skills:
+    genai: [MCP, AI Agents, Guardrails, Prompt Injection, Red Teaming, Model Evaluation,
+      Coding Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: []
+    domains: []
+    other: [Security Architecture, Threat Modeling, Enterprise SaaS Security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10765602'
+  location: New York, USA
+  locations:
+  - New York, USA
+  - San Francisco, USA
+  extracted_at: '2026-09-23T11:01:26.636130'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,61 @@
+company:
+  name: Medtronic
+  stage: null
+  focus: Healthcare technology and medical devices
+position:
+  title: Sr Prin AI/Data Sci Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes model behavior directly: architecting RAG,
+      agentic AI systems, prompt engineering, fine-tuning
+      foundation models (SFT, PEFT, LoRA, RLHF), and evaluating
+      LLMs. LLM/agent components dominate, so ai-first.
+  responsibilities:
+  - Define and drive enterprise Generative AI strategy and roadmap with executive
+    leadership
+  - Architect enterprise AI platforms using LLMs, Agentic AI, RAG, Knowledge Graphs,
+    and multimodal foundation models
+  - Lead fine-tuning of foundation models for healthcare-specific use cases
+  - Establish best practices for prompt engineering, AI agents, RAG pipelines, semantic
+    search, and AI observability
+  - Define AI governance frameworks covering transparency, explainability, bias mitigation,
+    and regulatory compliance
+  - Mentor principal engineers, data scientists, and AI technical leaders globally
+  - Lead design reviews and architecture assessments of Generative AI solutions across
+    business units
+  - Evaluate emerging LLMs, foundation models, and AI tooling to establish enterprise
+    AI roadmaps
+  use_cases:
+  - Clinical decision support in healthcare
+  - Regulatory documentation automation
+  - Software development copilots and engineering productivity
+  - Healthcare knowledge management and semantic search
+  - Digital health and digital twin platforms
+  - Biomedical research and domain-specific healthcare AI
+  skills:
+    databases: [Knowledge Graphs, Pinecone, Weaviate, Qdrant, Chroma, Azure AI Search,
+      Vector Databases]
+    domains: []
+    data: [Data Pipelines, Experiment Tracking]
+    web: []
+    ml: [PyTorch, TensorFlow, Hugging Face, Machine Learning, Transformers, Model
+        Evaluation, Feature Engineering, NLP, Statistical Modeling]
+    ops: [Kubernetes, Docker, MLflow, CI/CD, AI Observability]
+    other: [Responsible AI]
+    cloud: [Azure, AWS, Vertex AI]
+    languages: [Python]
+    genai: [Generative AI, LLMs, Agentic Workflows, RAG, GraphRAG, AI Agents, Prompt
+        Engineering, Fine-Tuning, LoRA, RLHF, Multi-Agent Systems, Semantic Search,
+      LangChain, LlamaIndex, Semantic Kernel, AutoGen, CrewAI, Copilot Studio, Azure
+        AI Foundry, OpenAI API, Gemini, Mistral, Llama, Anthropic API, DeepSeek, Med-PaLM,
+      BioGPT, MedBERT, T5, Multimodal AI, Synthetic Data Generation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11035203'
+  location: IND
+  remote: true
+  extracted_at: '2026-09-23T11:14:11.544806'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,52 @@
+company:
+  name: Modus Create
+  stage: null
+  focus: Digital product engineering and consulting services
+position:
+  title: Forward Deployed Engineer (Python, AI/ML, Generative AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer adapting AI solutions at client
+      sites, designing agentic architectures, tool calling, RAG,
+      and LLM-based solutions - explicitly shaping LLM behavior.
+      FDE roles adapting and deploying AI solutions at customer
+      sites are ai-first.
+  responsibilities:
+  - Partner directly with clients to understand complex business and technical challenges
+  - Rapidly design and build solutions integrating modern AI capabilities into real-world
+    applications
+  - Design and integrate APIs and distributed systems with third-party and enterprise
+    platforms
+  - Build solutions using LLMs and Generative AI technologies
+  - Design agent orchestration, AI workflows, and tool calling architectures
+  - Own solutions from initial discovery and architecture through implementation and
+    deployment
+  - Collaborate with customer stakeholders, product teams, and engineers throughout
+    the solution lifecycle
+  use_cases:
+  - AI-powered enterprise applications built for client environments
+  - Agentic AI workflows and multi-agent systems for business problems
+  - RAG-based retrieval solutions integrated into existing technology ecosystems
+  - Prototypes and proofs of concept evolved into production-ready AI solutions
+  skills:
+    genai: [LLMs, Generative AI, Agentic Workflows, Function Calling, RAG, AI Agents,
+      Multi-Agent Systems]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Distributed Systems, MLOps, Model Deployment]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '10869495'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:04:17.926113'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

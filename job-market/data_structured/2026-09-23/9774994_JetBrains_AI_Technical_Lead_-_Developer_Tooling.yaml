@@ -1,0 +1,64 @@
+company:
+  name: JetBrains
+  stage: null
+  focus: Developer tools and IDEs for software development
+position:
+  title: AI Technical Lead - Developer Tooling
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs AI agent tool calling, context management,
+      MCP integrations, and builds evaluation/benchmarking
+      frameworks for LLM-based coding agents - directly shaping
+      model behaviour in agent workflows. LLM/agent components
+      dominate, so ai-first.
+  responsibilities:
+  - Shape and deliver AI-powered features for CLion and C++ development workflows
+  - Design architecture for AI integrations, agent tools, and C++-specific AI capabilities
+  - Build benchmarks and evaluation frameworks for AI-assisted C++ development scenarios
+  - Prototype and validate AI workflows including debugging, code understanding, refactoring,
+    and navigation
+  - Collaborate with product, ML, QA, and senior developers to deliver the roadmap
+  - Contribute hands-on to technical design, software architecture, and implementation
+    in a large codebase
+  - Define a technical roadmap for AI agent and tool integrations in C++ workflows
+  - Evaluate and prioritize AI initiatives aligned with the broader AI strategy
+  use_cases:
+  - AI-assisted debugging for C++ developers
+  - Agent-powered code understanding in large C++ codebases
+  - Coding agent integration inside CLion IDE workflows
+  - Developer workflow automation for refactoring and navigation
+  - Benchmarking and evaluation of AI-powered development tools
+  skills:
+    genai: [LLMs, AI Agents, Function Calling, Context Engineering, MCP, LLM Evaluation]
+    ml: []
+    web: [Language Servers]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Code Analysis, Static Analysis]
+    languages: [Kotlin, Java, JVM, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '9774994'
+  location: DEU
+  locations:
+  - DEU
+  - Prague, CZE
+  - Paphos, CYP
+  - Yerevan, ARM
+  - Berlin, DEU
+  - Limassol, CYP
+  - Munich, DEU
+  - Amsterdam, NLD
+  - London, GBR
+  - Warsaw, POL
+  - Madrid, ESP
+  - Belgrade, SRB
+  remote: true
+  extracted_at: '2026-09-23T11:39:25.380278'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

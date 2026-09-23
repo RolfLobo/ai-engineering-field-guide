@@ -1,0 +1,54 @@
+company:
+  name: General Motors
+  stage: null
+  focus: Automotive manufacturer with HR technology team
+position:
+  title: Sr. AI/Automation Engineer -  HR Technology (Remote India - Night Shift)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role builds integrations and automations connecting
+      ServiceNow, Workday, and RPA platforms around an Agentic AI
+      product, but the responsibilities focus on integration
+      design, testing, deployment, and requirements gathering
+      rather than shaping model behaviour (no prompt design, RAG,
+      evals, or training). The AI agents are configured and
+      integrated, not shaped by this engineer, so the role is ai-
+      support.
+  responsibilities:
+  - Design, build, and implement intelligent plugins and automations for enterprise
+    HR workflows
+  - Execute the HR Automation and AI product roadmap aligned with HR organization
+    goals
+  - Gather and validate requirements with COEs, HR, and IT stakeholders
+  - Conduct technical analysis and workshops to design integrations for AI agents
+  - Conduct testing, documentation, and deployment of new plugins and enhancements
+  - Ensure security, data integrity, and compliance in integration activities
+  - Prepare Solution Design documents for AI agents and their integrations
+  - Analyze platform capabilities and propose scalable technical solutions
+  use_cases:
+  - HR workflow automation
+  - Enterprise integrations between ServiceNow and Workday HCM
+  - Agentic AI platform integrations for HR service delivery
+  - Intelligent plugins for enterprise workflows
+  skills:
+    genai: []
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: []
+    languages: []
+    domains: []
+    other: [ServiceNow, Workday, ServiceNow RPA, UiPath, Automation Anywhere, Knime,
+      Integrations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11293801'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:36:21.805527'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

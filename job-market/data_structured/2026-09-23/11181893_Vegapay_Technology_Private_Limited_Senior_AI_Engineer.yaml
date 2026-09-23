@@ -1,0 +1,54 @@
+company:
+  name: Vegapay Technology Private Limited
+  stage: null
+  focus: Fintech infrastructure for credit and payments
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds and evaluates both classical ML (credit
+      scoring, fraud) and LLM/GenAI capabilities, including prompt
+      engineering, RAG, and embeddings, shaping model output
+      quality. Per the rules, a role shaping both LLM and
+      classical ML systems is ai-first.
+  responsibilities:
+  - Design and build production-grade ML models for credit underwriting, risk scoring,
+    and fraud detection on TB-scale transaction data
+  - Architect and maintain low-latency AI inference pipelines integrated with UPI
+    payment flows and the CLOU credit lifecycle
+  - Lead the AI feature roadmap for product domains from problem framing through deployment
+    and monitoring
+  - Evaluate and integrate LLM and GenAI capabilities into internal tooling, operations
+    automation, and customer-facing features
+  - Build and maintain data pipelines (ClickHouse, Spark, Kafka) feeding model training
+    and real-time inference
+  - Define and enforce ML engineering best practices including versioning, experimentation,
+    observability, and drift detection
+  - Mentor L1/L2 engineers and conduct design and code reviews
+  use_cases:
+  - Real-time credit decisions and underwriting
+  - Fraud detection on transaction data
+  - Risk scoring models
+  - Personalised customer experiences in banking
+  - Operations automation via LLM/GenAI tooling
+  skills:
+    genai: [LLMs, Prompt Engineering, RAG, Embeddings]
+    ml: [XGBoost, LightGBM, Deep Learning, Model Evaluation, PyTorch, TensorFlow,
+      scikit-learn]
+    web: [REST APIs, gRPC]
+    databases: [ClickHouse]
+    data: [Kafka, Spark, Flink]
+    cloud: []
+    ops: [MLflow, Docker, Kubernetes, Distributed Systems]
+    languages: [Python]
+    domains: []
+    other: [CIBIL, Experian, UPI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11181893'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:24:21.754190'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

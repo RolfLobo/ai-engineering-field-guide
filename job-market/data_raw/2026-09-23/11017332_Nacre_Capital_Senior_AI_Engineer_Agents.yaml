@@ -1,0 +1,152 @@
+job_id: 11017332
+title: Senior AI Engineer, Agents
+company: Nacre Capital
+location: GRC
+locations:
+  - GRC
+  - ESP
+  - IND
+  - UKR
+  - PRT
+remote: true
+work_type: FULL_TIME
+company_size: 31 Employees
+description: |
+  About EveryWatch
+
+  EveryWatch is the largest and most trusted data source in
+  the secondary watch market. Established by a group of  watch
+  lovers, EveryWatch was created in response to the increasing
+  popularity of luxury timepieces, with the aim of bringing
+  unprecedented transparency and insight to the watch market.
+  The first platform of its kind, EveryWatch combines all
+  aspects of the watch world under one roof: a one-stop  shop
+  for watch collectors, vendors, and enthusiasts.
+
+  Position Overview
+
+  We're looking for Senior AI Engineer, Agents - an Agent
+  Architect who will be responsible for designing, building,
+  and scaling AI-powered solutions across EveryWatch. Working
+  closely with our engineering, product, sales, and data
+  teams, they will identify opportunities where AI and LLMs
+  can automate complex processes, improve decision-making, and
+  create new capabilities for our users and internal teams.
+
+  This is a highly hands-on role for someone who combines
+  strong Python and LLM engineering skills with a creative,
+  proactive mindset. You will not simply be given a roadmap.
+  You will be expected to understand how the business
+  operates, identify where AI can make a meaningful
+  difference, propose new solutions, and take them from idea
+  to production.
+
+  Our existing AI work, including WatchChat, provides a
+  foundation to build on. The opportunity now is to expand
+  that foundation into a broader ecosystem of intelligent
+  agents that can work with EveryWatch's unique watch-market
+  data and support collectors, dealers, sales teams, data
+  operations, and engineering.
+
+  In short, we're looking for someone who doesn't just ask,
+  “What can we build?” but “What should we build?”
+
+  RequirementsWhat you'll actually do
+
+  - Invent the agent roadmap. Sit with sales, data and product,
+    find the repetitive expert work, and come back with a
+    ranked list of agents worth building - with a real view on
+    feasibility, cost and impact. This is the core of the job,
+    and it doesn't stop after the first quarter.
+  - Build them yourself. You are hands-on. You design the
+    architecture and you write the code - tools, loops, sub-
+    agents, memory, state, evaluation. Not a spec-writer with
+    a team underneath.
+  - Own the platform under the agents. Every new agent should be
+    cheaper to build than the last: shared tool layer over
+    EverWatch data (pricing, auctions, listings, references,
+    portfolios), an MCP surface over our existing backend,
+    shared memory, tracing, and a reusable eval harness.
+  - Harden WatchChat alongside us. Multi-turn state and memory,
+    latency, cost, tool-call reliability, regression gates.
+    It's live-bound and it has to stay right.
+  - Make quality measurable. Golden multi-turn datasets,
+    programmatic verifiers for tool/argument correctness, LLM-
+    as-judge on held-out sets. If we can't measure an agent,
+    we don't ship it.
+  - Treat cost and latency as design constraints. Cheap models
+    for routing and intent, strong models where they earn
+    their keep; context budgets, caching, and - where it pays
+    off - fine-tuning (SFT/LoRA on curated production
+    trajectories) instead of ever-larger prompts.
+
+  What we're looking for
+
+  Three things, and we won't trade any of them away:
+
+  - Creative. You generate agent ideas the business hadn't
+    thought of, and you can tell the difference between one
+    that will work and one that demos well. You start from a
+    use case, not a framework.
+  - Strong architect. You can design an agent platform that's
+    still standing in five years - state, memory, tool
+    boundaries, sub-agent decomposition, evaluation, failure
+    modes, cost. You'll be asked to critique our current
+    architecture in the interview, and we expect you to find
+    things.
+  - Heavily hands-on. You ship. Deep production experience,
+    writing the code yourself, at pace.
+
+  Must have
+
+  - 6+ years shipping production software, of which 2+ on LLM
+    systems that real users touched.
+  - Real agentic depth: ReAct or equivalent loops, tool/function
+    calling, planners, state & checkpointing, long-term
+    memory, HITL steps, streaming. Not "I called the OpenAI
+    API."
+  - Hands-on LangGraph (or a strong argument for something
+    better) plus a tracing/observability stack - LangSmith,
+    Langfuse or similar.
+  - Python in production: FastAPI, async job processing, clean
+    service boundaries.
+  - RAG done properly: retrieval + re-ranking + relevance
+    judgement, and honest evaluation of all three.
+  - Evaluation as a habit, not an afterthought
+    (RAGAS/DeepEval/GEVAL, LLM-as-judge, pass@k).
+  - Cloud production experience - AWS (Bedrock, SQS, EC2/EKS,
+    S3) or equivalent - with Docker and CI/CD.
+  - The spine pushes back on us. We explicitly want someone who
+    asks "why did you build it like that?"
+
+  Nice to have
+
+  - LLM post-training: SFT with LoRA/QLoRA, preference/RL
+    methods, reward and verifier design.
+  - Voice agents (LiveKit/Pipecat or similar), or vision-
+    language work.
+  - Multi-agent orchestration and MCP integrations.
+  - Text-to-SQL over a real, messy production schema.
+  - Report/document generation agents - structured, sourced,
+    client-ready output.
+  - Guardrails, PII handling, hallucination detection, risk
+    scoring.
+  - Interest in watches, collectibles or market data. Not
+    required - curiosity about the domain is.
+
+  BenefitsWhat you get
+
+  - Ownership of EverWatch's entire agent layer, and the roadmap
+    for it — not a corner of someone else's.
+  - A dataset that doesn't exist anywhere else, and users who
+    care whether the answer is right.
+  - Direct line to the CTO; decisions in days, not quarters.
+  - Budget for models, tooling, and the coding agents you want
+    to work with.
+  - Competitive compensation, remote-first.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-09-04
+url: "https://builtin.com/job/senior-ai-engineer-agents/11017332"
+source: Built In

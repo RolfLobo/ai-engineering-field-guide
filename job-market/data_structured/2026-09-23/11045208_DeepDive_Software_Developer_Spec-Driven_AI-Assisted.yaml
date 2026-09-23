@@ -1,0 +1,59 @@
+company:
+  name: DeepDive
+  stage: null
+  focus: Software development with AI-assisted engineering
+position:
+  title: Software Developer ( Spec-Driven AI-Assisted )
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role centers on designing and maintaining high-quality
+      prompts, reusable prompt templates, and AI workflows, plus
+      validating and refining AI-generated output — that is
+      directly shaping LLM behaviour, making it ai-first. The
+      engineering stack is secondary to the AI-first delivery
+      approach.
+  responsibilities:
+  - Convert business and product requirements into structured technical artefacts
+    such as specs, API contracts, ER diagrams, and acceptance criteria
+  - Create AI-ready specifications to enable faster, more reliable implementation
+  - Use AI tools to generate boilerplate code, scaffold APIs and services, write tests,
+    and refactor legacy code
+  - Design and maintain high-quality prompts, reusable prompt templates, and AI delivery
+    workflows
+  - Validate, optimize, and secure AI-generated code before production use
+  - Design and build scalable backend and frontend systems with .NET, Node.js, React,
+    and Next.js
+  - Develop and maintain REST and GraphQL APIs
+  - Write automated unit and integration tests and document engineering patterns and
+    playbooks
+  use_cases:
+  - AI-assisted software development with structured specifications driving code generation
+  - Prompt templates and reusable AI delivery workflows for engineering teams
+  - Automated generation of boilerplate code, tests, and documentation
+  - Validation and security review of AI-generated code before production
+  skills:
+    databases: [Relational Databases, NoSQL]
+    domains: []
+    data: []
+    web: [Node.js, React, Next.js, REST APIs, GraphQL, Microservices, Event-Driven
+        Architecture]
+    ml: []
+    ops: [Git, Docker, DevOps, CI/CD, Terraform]
+    other: []
+    cloud: [AWS]
+    languages: [.NET, TypeScript]
+    genai: [ChatGPT, GitHub Copilot, Anthropic API, Cursor, Prompt Engineering, RAG]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11045208'
+  location: IND
+  locations:
+  - IND
+  - Mohali, IND
+  - Ahmedabad, IND
+  remote: true
+  extracted_at: '2026-09-23T11:15:48.124953'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

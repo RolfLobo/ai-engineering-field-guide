@@ -1,0 +1,55 @@
+company:
+  name: Standard Bots
+  stage: null
+  focus: |-
+    Robotic automation hardware and software for accessible
+    robot use
+position:
+  title: Senior Software Engineer, AI Team
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role owns infrastructure around models built by AI
+      researchers: data ingestion pipelines, training/eval
+      infrastructure, GPU orchestration, and perception plumbing.
+      The description explicitly says "You don't need to have
+      trained the models yourself" — the person doesn't shape
+      model behaviour, so it's ai-support.
+  responsibilities:
+  - Identify, scope, and drive high-impact technical and user-facing projects across
+    the AI team's stack
+  - Ship product surfaces (applications and APIs) that expose AI capabilities to users
+  - Mentor and advise other engineers and peers
+  - Drive technical decision-making through hands-on, technically deep work
+  - Build data pipelines for teleop/demonstration data ingestion, labeling, curation,
+    and dataset quality metrics
+  - Build training and evaluation infrastructure including experiment tracking, GPU
+    orchestration, model versioning, and deployment to robots
+  - 'Integrate perception: camera calibration, vision pipelines, and delivering model
+    outputs to the robot runtime'
+  use_cases:
+  - Robotics automation platform exposing AI capabilities to users via applications
+    and APIs
+  - End-to-end AI data flywheel from teleoperation and demonstration data
+  - Training, evaluation, and deployment of models out to robots
+  - Perception integration including camera calibration and vision pipelines in the
+    robot runtime
+  skills:
+    genai: []
+    ml: [PyTorch]
+    web: [React]
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Kubernetes, Docker, GitHub Actions, MLOps]
+    languages: [TypeScript, Node.js, Python, C++]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '11255015'
+  location: New York, USA
+  extracted_at: '2026-09-23T11:31:52.002122'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

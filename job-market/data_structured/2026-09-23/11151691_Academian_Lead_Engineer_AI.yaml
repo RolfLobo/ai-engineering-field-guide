@@ -1,0 +1,52 @@
+company:
+  name: Academian
+  stage: null
+  focus: EdTech services, products, and learning development
+position:
+  title: Lead Engineer AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role designs RAG pipelines, agent workflows, prompts,
+      guardrails, and evaluation for LLM applications, which is
+      directly shaping LLM behavior and output quality. No
+      classical-ML-only component is primary.
+  responsibilities:
+  - Design, develop, test, and deploy AI-powered applications, workflows, and agents
+  - Build solutions using large language models, RAG, APIs, vector databases, and
+    structured data
+  - Use AI coding agents to accelerate development, testing, documentation, and code
+    modernization
+  - Direct coding-agent workflows with specifications, autonomy levels, and human-review
+    checkpoints
+  - Review and improve AI-generated code for correctness, security, and maintainability
+  - Integrate AI solutions with enterprise platforms, content repositories, and third-party
+    systems
+  - Implement evaluation, monitoring, guardrails, and human-in-the-loop processes
+  - Mentor junior engineers and maintain technical documentation and reusable components
+  use_cases:
+  - AI-powered educational applications in the EdTech domain
+  - Agentic AI workflows and AI coding agents for development acceleration
+  - RAG-based retrieval over educational content and structured data
+  - Integration of AI with enterprise content repositories and learning platforms
+  skills:
+    genai: [RAG, LangChain, LangGraph, Agentic Workflows, AI Agents, LLMs, Generative
+        AI, Prompt Engineering, Context Engineering, Structured Outputs, Function
+        Calling, Embeddings, Guardrails, Codex, Claude Code, GitHub Copilot, LLM Evaluation]
+    ml: [Machine Learning, Deep Learning]
+    web: [APIs]
+    databases: [Vector Databases, Graph Databases, Databases]
+    data: []
+    cloud: [Cloud Platforms]
+    ops: [CI/CD, Monitoring]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11151691'
+  location: Pune, IND
+  extracted_at: '2026-09-23T11:22:36.365908'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

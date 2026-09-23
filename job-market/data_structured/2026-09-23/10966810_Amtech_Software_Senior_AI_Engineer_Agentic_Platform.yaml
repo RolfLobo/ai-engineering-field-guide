@@ -1,0 +1,61 @@
+company:
+  name: Amtech Software
+  stage: null
+  focus: |-
+    Enterprise software for packaging and manufacturing
+    industries
+position:
+  title: Senior AI Engineer – Agentic Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role builds an MCP-native agentic platform: designing
+      agent orchestration, tool calling, RAG pipelines, provider
+      abstractions, and evals/guardrails for LLMs — squarely
+      shaping LLM behaviour.
+  responsibilities:
+  - Build a headless, MCP-native agentic platform exposing Amtech capabilities as
+    callable tools
+  - Build and maintain the LLM orchestration layer for safe, governed, tool-using
+    agent actions
+  - Build and tune RAG pipelines grounding agent responses in Amtech data
+  - Integrate model-agnostic LLM providers via a common abstraction
+  - Build the Data Agent for governed, audited on-prem customer data access
+  - Extend the platform into capabilities like Schedule, Order, Docs, and Forecast
+    Intelligence
+  - Deploy agents and inference endpoints on AWS with evals, cost controls, and observability
+  - Partner with Forward Deployed Engineers, Data Science, ML Engineering, and MLOps
+    teams
+  use_cases:
+  - 'Schedule Intelligence: watching schedules, flagging conflicts and trim-loss,
+    proposing re-sequencing'
+  - 'Order & Customer Intelligence: full-context status across specs, history, and
+    dates'
+  - 'Docs & Knowledge: cited, grounded answers with stale-document detection'
+  - 'Forecast & KPI Intelligence: plain-language questions over throughput, waste,
+    and OTIF'
+  - 'Governed Data Agent: cloud-LLM reasoning over on-prem customer ERP data with
+    audit trails'
+  - Extending agent-building cadence to Sales, Support, and Customer Success functions
+  skills:
+    genai: [MCP, LangChain, LangGraph, RAG, Prompt Engineering, Function Calling,
+      LLMs, OpenAI API, Anthropic API, Azure OpenAI, AWS Bedrock, Agentic Workflows,
+      AI Agents, Guardrails, LLM Evaluation]
+    ml: [Machine Learning, Model Training]
+    web: [Microservices, APIs]
+    databases: [Vector Databases]
+    data: []
+    cloud: [AWS, AWS Lambda, ECS, EKS, AWS S3, IAM, CloudWatch, SageMaker]
+    ops: [Docker, Kubernetes, CI/CD, Git, MLOps, MLflow, Kubeflow, Model Deployment,
+      Prometheus, Grafana, Datadog]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '10966810'
+  location: Bengaluru, IND
+  extracted_at: '2026-09-23T11:09:31.071502'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

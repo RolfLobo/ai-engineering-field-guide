@@ -1,0 +1,48 @@
+company:
+  name: PwC
+  stage: null
+  focus: Professional services consulting in data and analytics
+position:
+  title: CTIO-AI Engineer-Sr Associate
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role shapes LLM behaviour: advanced prompt engineering,
+      deploying LLMs into production, designing and optimizing RAG
+      pipelines, and agent-based systems with
+      LangChain/LlamaIndex. This is LLM-centric work, so ai-first.
+  responsibilities:
+  - Develop and implement AI solutions that enhance product offerings
+  - Build and nurture meaningful client relationships
+  - Utilize advanced analytical techniques to drive innovation
+  - Work with cross-functional teams to achieve project goals
+  - Analyze complex problems and mentor junior team members
+  - Uphold the firm's ethical standards and professional practices
+  - Interpret data to inform insights and recommendations
+  use_cases:
+  - Developing AI solutions that enhance client product offerings
+  - Deploying LLM-based systems into production
+  - Extracting insights from large datasets to drive data-driven decision making
+  - Solving complex business problems with predictive models and statistical analysis
+  skills:
+    genai: [Prompt Engineering, LLMs, RAG, LangChain, LlamaIndex, AI Agents]
+    ml: [Machine Learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11293917'
+  location: Irvine, USA
+  locations:
+  - Irvine, USA
+  - Los Angeles, USA
+  extracted_at: '2026-09-23T11:35:20.359415'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

@@ -1,0 +1,196 @@
+job_id: 11299798
+title: Senior AI/ML Engineer
+company: Leachman Cattle
+location: USA
+remote: true
+work_type: FULL_TIME
+description: |
+  Turn decades of data into intelligence that helps feed the
+  world.
+
+
+
+  VAS is the Operating System of the modern dairy with decades
+  of longitudinal data for the most productive cows in the
+  world. We hold a dominant US market position, and an
+  expanding global reach.
+
+
+
+  We are seeking a Senior AI/ML Engineer to lead the building
+  of scalable real-time production-grade applications that use
+  AI/ML models to drive actionable intelligence on dairy
+  farms. This is a strategic, hands-on position for an
+  experienced technical leader who has a track record of
+  shipping AI-enhanced customer applications and tooling used
+  by engineering teams.
+
+
+
+  Our highly customizable on-farm systems give dairy owners
+  unmatched flexibility in how they run their business. The
+  right candidate sees that as a data challenge, where others
+  will see it as an unsolvable mess.
+
+
+
+  RESPONSIBILITIES
+
+  AI Enablement
+
+  - Understand customer challenges and how integrating AI
+    capabilities can help lead to solutions that have AI as a
+    differentiator.
+  - Identify opportunities to apply AI for efficiency, growth,
+    and customer value
+  - Drive awareness of AI capabilities and demonstrate how it
+    can address customer needs, improve efficiency, reduce
+    costs, and drive growth
+  - Drive transformation from AI-Ad Hoc to AI-Native engineering
+    practices
+  - Serve as an AI technical SME, conduct R&D to meet the needs
+    of our AI strategy
+  - Continuously assess emerging AI tools and make data-driven
+    recommendations
+  - Measure & Accelerate Adoption: Establish KPIs, track
+    progress from the current to 100% adoption, implement
+    interventions to accelerate uptake and communicate impact
+  - Build Center of Excellence: Create forums for knowledge
+    sharing, celebrate wins, and foster peer-to-peer learning
+  - Cross-functional communication, explaining technical
+    tradeoffs to product, dairy science, and engineering
+    leadership in plain language.
+  - Working with other enterprise stakeholders, establish AI
+    governance frameworks and guardrails covering compliance,
+    security, privacy, and ethical AI practices, and embed
+    them into development workflows
+
+
+
+  Core AI Engineering Skills
+
+  - Comfort across the full method spectrum, from classical
+    statistics and operations research through machine
+    learning to modern generative AI, choosing the simplest
+    tool that solves the problem.
+  - Data-wrangling skill with messy, distributed, legacy
+    enterprise data sources, including inconsistent schemas
+    and incomplete records.
+  - Feature-engineering and data preprocessing for both
+    structured farm data and unstructured sources.
+  - Model selection and evaluation, knowing when linear
+    regression, optimization, or a lookup table beats a neural
+    network.
+  - Production deployment experience, shipping models into real
+    time applications rather than notebooks.
+  - Cloud AI infrastructure fluency, specifically Databricks and
+    AWS.
+  - Experiment design and statistical rigor, being able to prove
+    a model or method actually improves outcomes.
+  - Translating ambiguous business or technical requirements
+    into working systems.
+  - Agentic and MCP experience
+
+
+
+  Evaluation, Testing & Observability
+
+  - Build unit and behavioral tests for agents, tools, and
+    workflows.
+  - Develop tooling for trace analysis, agent state debugging,
+    and hallucination tracking.
+  - Compare and benchmark agent orchestration frameworks for
+    trade-offs in speed, reliability, and usability.
+
+
+
+  Model Fine-Tuning & MLOps
+
+  - Integrate, deploy, fine tune and monitor models in
+    production using cloud providers.
+  - Set up agent logging, observability dashboards, and recovery
+    workflows.
+
+
+
+  Front-end & User Experience
+
+  - Collaborate with front-end developers or build user-facing
+    components using React, TypeScript.
+  - Ensure seamless user and agent interaction via UI and API
+    bridges.
+
+
+
+  EDUCATION & EXPERIENCE
+
+  Your background might include software engineering, data
+  engineering, data science, machine learning engineering or
+  AI engineering. What matters most is demonstrated technical
+  depth and a track record of building and deploying AI/ML
+  solutions in production.
+
+  - Significant hands-on experience designing, building and
+    deploying production AI/ML solutions.
+  - Strong experience working with complex data, including
+    distributed systems, inconsistent schemas and incomplete
+    or legacy datasets.
+  - Experience with feature engineering, model selection,
+    experimentation and evaluation.
+  - Strong understanding of descriptive, predictive,
+    prescriptive and generative AI approaches.
+  - Experience selecting and applying techniques across
+    statistics, operations research, machine learning and deep
+    learning.
+  - Demonstrated experience taking models from experimentation
+    through production deployment and monitoring.
+  - Experience with deep learning frameworks and cloud-based AI
+    services.
+  - Experience with AWS and/or Databricks.
+  - Experience or exposure to agentic architectures, MCP and AI
+    orchestration frameworks.
+  - Strong software engineering fundamentals and experience
+    building scalable, production-quality systems.
+  - Ability to translate ambiguous requirements into working
+    solutions and clearly communicate technical decisions and
+    tradeoffs.
+  - Bachelor’s degree in Software Engineering, Computer Science,
+    Data Science, AI/ML or a related field preferred.
+
+
+
+  About Us
+
+  For the past 40 years we’ve woken up each day to support
+  those that never stop feeding the world – and we have no
+  plans to quit. We set the standard for farm management
+  solutions and fix our eyes on raising the bar to meet the
+  next generation of expectations.
+
+  Our software and information solutions help collect and
+  connect a farm's data – from herd management to feed
+  performance, tracking and more. These insights are a source
+  of truth, empowering producers and their trusted advisors to
+  make profit-driven and sustainable management decisions.
+
+  Whether near or far, large or small, VAS is at the heart of
+  your dairy.
+
+  VAS has deep roots in the industry through its origin within
+  the URUS family of companies. As a holding company with
+  cooperative and private ownership, URUS is a family of
+  businesses at the heart of the dairy and beef industry –
+  Alta Genetics, GENEX, Genetics Australia, Leachman Cattle,
+  Jetstream, PEAK, SCCL, Trans Ova Genetics and VAS.  Each
+  organization has its unique identity, products, and
+  services. These companies work globally to provide cutting-
+  edge dairy and beef genetics, customized reproductive
+  services to maximize conceptions, dairy management
+  information to take producers to the frontline of
+  progressive dairy farming, and an array of products and
+  services to help bovines reach their full genetic potential.
+  URUS has 9 brands in 17 retail countries and employs nearly
+  2,800 people globally.
+posted_date: 2026-09-22
+url: "https://www.builtinla.com/job/senior-ai-ml-engineer/11299798"
+source: Built In

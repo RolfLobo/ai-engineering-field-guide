@@ -1,0 +1,52 @@
+company:
+  name: Agiloft
+  stage: null
+  focus: Data-first contract lifecycle management (CLM) software
+position:
+  title: AI Ops Engineer GTM
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The description is unusually vague: responsibilities and
+      qualifications sections are empty, and the role is described
+      only as an AI practitioner applying AI patterns to GTM
+      workflows. It is unclear whether the person shapes LLM
+      behavior (prompts, RAG, agents) or merely uses AI tools, so
+      it cannot be classified confidently.
+  responsibilities:
+  - Shape and execute the AI vision across Sales, Marketing, Customer Success, Revenue
+    Operations, and the broader revenue function
+  - Stay actively involved with customers and the sales process to understand how
+    to sell, retain, and grow accounts
+  - Experiment with AI-powered GTM patterns, measure outcomes, and scale successful
+    ones
+  - Partner with GTM leadership for strategic direction while following AI Operations
+    standards and governance
+  - Work with the GTM AI Builders community to prioritize and deliver revenue-impacting
+    solutions
+  - Continuously develop AI engineering skills and help transform how Agiloft goes
+    to market
+  use_cases:
+  - AI-powered go-to-market workflows across sales and marketing
+  - Customer retention and account growth insights
+  - Revenue operations automation
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '11241109'
+  location: USA
+  remote: true
+  extracted_at: '2026-09-23T11:31:04.468210'
+  model: glm-5.2
+  prompt_sha: ef6fdeb19af2

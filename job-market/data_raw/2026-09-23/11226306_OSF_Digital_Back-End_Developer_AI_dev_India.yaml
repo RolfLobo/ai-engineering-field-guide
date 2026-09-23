@@ -1,0 +1,62 @@
+job_id: 11226306
+title: Back-End Developer, AI dev, India
+company: OSF Digital
+location: Hyderabad, IND
+work_type: FULL_TIME
+company_size: 2,032 Employees
+description: |
+  • Design and build AI agents, agent loops, tools, and
+  orchestration workflows. • Develop RAG solutions with a
+  focus on chunking strategies, metadata filtering, and
+  controlled vocabularies. • Implement prompt engineering,
+  versioning, evaluation, and model reasoning frameworks. •
+  Build and maintain APIs and integrations using OpenAPI
+  standards. • Design event-driven backend services using
+  Java, Spring Boot, Kafka, and MongoDB. • Develop operational
+  dashboards and user interfaces using React and TypeScript. •
+  Build and deploy cloud-native solutions on AWS and
+  Kubernetes
+
+  Requirements
+
+  Competencies
+
+  - AI & Agent Engineering
+  • Strong Python skills, including asyncio and async/await. •
+  Experience with: o Agent architectures and agent loops o MCP
+  (Model Context Protocol) o Tool design and orchestration o
+  RAG implementations o Prompt engineering and evaluation •
+  Familiarity with OpenAI and/or Anthropic agent frameworks
+  and best practices. • Knowledge of AWS Bedrock, AgentCore,
+  and agent orchestration frameworks such as Strands. Backend
+  & Distributed Systems • Strong experience with Java 17+ and
+  Spring Boot. • Experience with MongoDB, including document
+  modeling, transactions, and change streams. • Experience
+  with Kafka, including partitioning, consumer groups, DLQs,
+  and delivery guarantees. • Understanding of: o Optimistic
+  concurrency control o Transactional Outbox pattern o
+  Idempotent consumers o Exactly-once processing o Event-
+  driven architectures Frontend & Cloud • Experience with
+  React and TypeScript. • Familiarity with Kubernetes and AWS
+  cloud services. Preferred Qualifications • Experience
+  building enterprise AI platforms or agent-based
+  applications. • Strong understanding of distributed system
+  consistency and reliability patterns.
+
+  Skill Set
+
+  - same
+
+  Languages
+
+  - English
+
+  Education
+
+  - null
+industries:
+  - eCommerce
+  - Information Technology
+posted_date: 2026-09-17
+url: "https://builtin.com/job/back-end-developer-india/11226306"
+source: Built In

@@ -1,0 +1,110 @@
+job_id: 11094115
+title: "Senior Software Engineer, Data & AI"
+company: Lightspark
+location: Los Angeles, USA
+work_type: FULL_TIME
+description: |
+  Lightspark is creating the Money Grid, modern, open
+  financial infrastructure that makes payments accessible,
+  affordable, and instant for businesses and users worldwide.
+  We're challenging the status quo, updating the current
+  system, and empowering our partners to build better
+  solutions. Together, we're building the most advanced
+  financial infrastructure, open, instant, and global,
+  inspiring a future where anyone, anywhere can access the
+  full potential of digital money.
+
+  We are looking for engineers who enjoy building and shipping
+  quickly, learning how other teams work, and seeing their
+  work change how an entire company operates. As a Senior
+  Software Engineer on the Data & AI team, you'll expand
+  Lighthouse, our internal data and AI platform, into the
+  layer that lets every function at Lightspark run on trusted
+  data and AI agents.
+
+  Most of the value in applied AI comes from the connective
+  work: wiring models to a company's data, its tools, and the
+  way people actually work, then getting the result adopted.
+  We've built that layer for analytics, where Lighthouse now
+  handles most of what our team used to do by hand and is used
+  across the company. This role extends it to Sales, Finance,
+  Ops, Legal, Compliance, and Partnerships: the agent harness,
+  tool integrations, governed source-of-truth data, and the
+  execution layer those teams run their workflows on. General-
+  purpose assistants get partway there and miss things; you'll
+  build the structure underneath so the answers are right,
+  repeatable, and owned by the teams that need them.
+
+  You'll work on a small, senior team with a lot of ownership.
+  Problems come from talking with the teams you support rather
+  than from a spec; you'll scope them, ship the solution, and
+  make sure it sticks.
+
+  WHAT YOU'LL BE DOING:
+
+  - Building and owning our internal AI platform: the agent
+    harness, MCP servers and tool integrations, context and
+    access services, sandboxed execution, and cost and usage
+    tracking
+  - Embedding with Finance, Sales Ops, Compliance, and
+    onboarding to understand how their work actually happens,
+    then shipping the systems that replace the manual version
+    and handing them off to those teams
+  - Extending our data infrastructure alongside our Staff Data
+    Engineer: DBT models, BigQuery, orchestration, and the
+    production pipelines
+  - Sharing ownership of monitoring, alerting, and data
+    reliability for the systems that unblock product launches
+  - Partnering with Engineering to optimize their own dev
+    systems and tooling
+
+  WHAT WE'RE LOOKING FOR:
+
+  - 4+ years experience shipping and maintaining production
+    systems; data engineering, ML engineering, and
+    backend/full-stack backgrounds all fit
+  - You've built an internal platform or workflow system that
+    other teams adopted, not just features on top of one
+  - You've built with LLM APIs, agent frameworks, and MCP in
+    production, beyond prompting, and you know what belongs in
+    code versus a model
+  - Strong fundamentals in TypeScript/Node or Python and the
+    willingness to work in both, plus fluency with a cloud
+    data warehouse such as BigQuery, Snowflake, or Databricks
+  - You can sit with a non-technical team, understand how their
+    work actually happens, and come back with a system
+  - Comfortable working with ambiguity in a startup environment
+  - Experience in payments, crypto, or blockchain is a plus, but
+    not required
+  - Based in LA or Openness to relocate to Los Angeles,
+    California
+
+  This is not an ML infrastructure, model-training, or prompt-
+  engineering role. You might currently be an AI engineer, ML
+  engineer, data engineer, or full-stack engineer who has
+  spent the last year or two building agents and internal
+  tooling. If you don't match every line above but have built
+  systems like these, we'd like to hear from you.
+
+  Lightspark is on a mission to build the future of open,
+  instant, and global financial infrastructure making payments
+  accessible and affordable for everyone, everywhere. We're
+  committed to creating a more inclusive and diverse workplace
+  to reflect the customers we serve. We welcome interest from
+  individuals of all backgrounds and levels of experience who
+  share our mission. We do not discriminate based on race,
+  religion, color, national origin, gender, sexual
+  orientation, age, marital status, veteran status, disability
+  status, or other applicable legally protected
+  characteristics.
+
+  We will consider for employment qualified applicants with
+  criminal histories in a manner consistent with the
+  requirements of the State of California Fair Chance
+  Initiative for Hiring.
+industries:
+  - Blockchain
+  - Consulting
+posted_date: 2026-09-19
+url: "https://www.builtinla.com/job/senior-software-engineer-data-ai/11094115"
+source: Built In
